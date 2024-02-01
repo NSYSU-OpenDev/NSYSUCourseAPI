@@ -1,0 +1,5 @@
+tensorflow
+bs4
+numpy
+pillow
+aiohttp

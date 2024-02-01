@@ -1,0 +1,54 @@
+name: Tick
+on:
+  schedule:
+    - cron: '0/15 * * * *'
+  workflow_dispatch:
+
+jobs:
+  tick:
+    name: Tick
+    runs-on: ubuntu-latest
+    concurrency: tick-lock
+    steps:
+      - uses: actions/checkout@v4
+
+      # - name: Restore cached assets
+      #   uses: actions/cache/restore@v3
+      #   with:
+      #     path: assets
+      #     key: assets-cache
+      #     restore-keys: assets-cache-
+
+      # - name: Tick
+      #   run: yarn run github_action_tick
+
+      # - name: Save assets
+      #   uses: actions/cache/save@v3
+      #   with:
+      #     path: assets
+      #     key: assets-cache-${{ hashFiles('**/__paths_list__.min.json') }}
+
+      # - name: Deploy
+      #   run: |
+      #     git config --global user.name "GitHub Action"
+      #     git config --global user.email "action@github.com"
+
+      #     if [ -d "output" ]; then
+      #       for dir in output/*/; do
+      #         echo "Entering: $dir"
+      #         cd "$dir"
+      #         dir_name=$(basename "$dir")
+
+      #         git init
+      #         git add -A
+      #         git commit -m "🚀 Update data for $dir_name"
+      #         git push -f https://_:"$token"@$repository master:"$dir_name"
+      #         git tag -a "$dir_name" -m "🚀 Update data for $dir_name"
+      #         git push -f https://_:"$token"@$repository "$dir_name"
+
+      #         cd -
+      #       done
+      #     fi
+      #   env:
+      #     token: ${{ secrets.GITHUB_TOKEN }}
+      #     repository: github.com/${{ github.repository }}
