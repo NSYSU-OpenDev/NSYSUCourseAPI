@@ -19,6 +19,11 @@ now = max_page = 0
 
 
 def parse_valid_code(img: bytes):
+    """
+    Parse the valid code
+    :param img: The image (bytes)
+    :return: The valid code (str)
+    """
     # Load the image
     image = Image.open(io.BytesIO(img))
 
@@ -46,7 +51,7 @@ def parse_valid_code(img: bytes):
     slices = np.array([np.array(slice_img) for slice_img in slices])
 
     background_color = np.argmax(np.bincount(slices.flatten()))
-    slices = abs(slices - background_color) > 10
+    slices = background_color + 10 - slices > 20
     # Load the model
     model = tf.keras.models.load_model("keras_28x28_gray_output10.h5")
 
@@ -60,6 +65,13 @@ def parse_valid_code(img: bytes):
 
 
 async def fetch(s: aiohttp.ClientSession, index: str, code: str):
+    """
+    Fetch the data
+    :param s: The session (aiohttp.ClientSession)
+    :param index: The index (str)
+    :param code: The valid code (str)
+    :return: The response (Coroutine[Any, Any, str])
+    """
     async with s.post(
         f"{BASEURL}/dplycourse.asp?page={index}",
         data={
@@ -108,18 +120,18 @@ async def main():
             )
 
             img = await out.read()
-            with Path("test.png").open("wb") as f:
+            with Path("ValidCode.png").open("wb") as f:
                 f.write(img)
 
             code = parse_valid_code(img)
-            out = await fetch(s, 1, code)
+            out = await fetch(s, '1', code)
             print(code)
             if "Wrong Validation Code" in out:
                 print("Wrong Validation Code")
             else:
                 break
 
-        out = await fetch(s, 1, code)
+        out = await fetch(s, '1', code)
         max_page = int(re.findall(r"Showing page \d+ of (\d+) pages", out)[-1])
 
         if max_page == 0:
@@ -127,15 +139,16 @@ async def main():
             return
 
         tasks.extend(map(lambda i: fetch(s, i, code), range(2, max_page + 1)))
-        pages = await asyncio.gather(*tasks)
+        pages = list(await asyncio.gather(*tasks))
 
-    pages = json.loads(Path("pages.json").read_text())
+    # pages = json.loads(Path("pages.json").read_text())
+
     result = []
     for page in pages:
         html = BeautifulSoup(str(page), "html.parser")
         data = html.select("table > tr[bgcolor]")
         for d in data:
-            tags: str = []
+            tags: list[str] = []
             for line_break in d.find_all("br"):
                 line_break: Tag
                 line_break.replace_with("\n")
