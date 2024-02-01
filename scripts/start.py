@@ -51,10 +51,12 @@ def parse_valid_code(img: bytes):
     slices = np.array([np.array(slice_img) for slice_img in slices])
 
     background_color = np.argmax(np.bincount(slices.flatten()))
-    slices = background_color + 10 - slices > 20
+    slices = background_color + 10 - slices > 20  # type: ignore
 
     # Load the model
-    model = tf.keras.models.load_model("../model/keras_28x28_gray_v1.keras")
+    model = tf.keras.models.load_model(  # type: ignore
+        "../model/keras_28x28_gray_v1.keras"
+    )
 
     # Use the model to make predictions
     predictions = model.predict(slices)
@@ -65,7 +67,7 @@ def parse_valid_code(img: bytes):
     return "".join(map(str, predicted_classes))
 
 
-async def fetch(s: aiohttp.ClientSession, index: str, code: str):
+async def fetch(s: aiohttp.ClientSession, code: str, index: int = 1):
     """
     Fetch the data
     :param s: The session (aiohttp.ClientSession)
@@ -99,7 +101,7 @@ async def fetch(s: aiohttp.ClientSession, index: str, code: str):
         global now
         now += 1
         r = max_page - now
-        print(f"{int(index):03d} / {r:03d}", f"{int((100 / (max_page or 1)) * r):03d}")
+        print(f"{index:03d} / {r:03d}", f"{int((100 / (max_page or 1)) * r):03d}")
         return await resp.text()
 
 
@@ -125,24 +127,22 @@ async def main():
                 f.write(img)
 
             code = parse_valid_code(img)
-            out = await fetch(s, '1', code)
+            out = await fetch(s, code)
             print(code)
             if "Wrong Validation Code" in out:
                 print("Wrong Validation Code")
             else:
                 break
 
-        out = await fetch(s, '1', code)
+        out = await fetch(s, code)
         max_page = int(re.findall(r"Showing page \d+ of (\d+) pages", out)[-1])
 
         if max_page == 0:
             print("No data")
             return
 
-        tasks.extend(map(lambda i: fetch(s, i, code), range(2, max_page + 1)))
+        tasks.extend(map(lambda i: fetch(s, code, i), range(2, max_page + 1)))
         pages = list(await asyncio.gather(*tasks))
-
-    # pages = json.loads(Path("pages.json").read_text())
 
     result = []
     for page in pages:
@@ -154,7 +154,6 @@ async def main():
                 line_break: Tag
                 line_break.replace_with("\n")
             for tag in d.select_one("td:nth-child(25) font") or []:
-                tag: Tag
                 tags.append(tag.text)
                 tag.extract()
 
@@ -181,28 +180,29 @@ async def main():
             ClassTime = original_data[17:24]
             Description = original_data[24]
 
+            info_url_el = d.select_one("td:nth-child(8) > small > a[href]")
             result.append(
                 {
-                    "Url": d.select_one("td:nth-child(8) > small > a").attrs["href"],
-                    "Change": Change,
-                    "ChangeDescription": ChangeDescription,
-                    "MultipleCompulsory": MultipleCompulsory,
-                    "Department": Department,
-                    "Number": Number,
-                    "Grade": Grade,
-                    "Class": Class,
-                    "Name": Name,
-                    "Credit": Credit,
-                    "YearSemester": YearSemester,
-                    "CompulsoryElective": CompulsoryElective,
-                    "Restrict": Restrict,
-                    "Select": Select,
-                    "Selected": Selected,
-                    "Remaining": Remaining,
-                    "Teacher": Teacher,
-                    "Room": Room,
-                    "ClassTime": ClassTime,
-                    "Description": Description,
+                    "url": info_url_el.attrs["href"] if info_url_el else None,
+                    "change": Change,
+                    "changeDescription": ChangeDescription,
+                    "multipleCompulsory": MultipleCompulsory,
+                    "department": Department,
+                    "number": Number,
+                    "grade": Grade,
+                    "class": Class,
+                    "name": Name,
+                    "credit": Credit,
+                    "yearSemester": YearSemester,
+                    "compulsoryElective": CompulsoryElective,
+                    "restrict": Restrict,
+                    "select": Select,
+                    "selected": Selected,
+                    "remaining": Remaining,
+                    "teacher": Teacher,
+                    "room": Room,
+                    "classTime": ClassTime,
+                    "description": Description,
                     "tags": tags,
                 }
             )
