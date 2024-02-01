@@ -52,8 +52,9 @@ def parse_valid_code(img: bytes):
 
     background_color = np.argmax(np.bincount(slices.flatten()))
     slices = background_color + 10 - slices > 20
+
     # Load the model
-    model = tf.keras.models.load_model("keras_28x28_gray_output10.h5")
+    model = tf.keras.models.load_model("../model/keras_28x28_gray_v1.keras")
 
     # Use the model to make predictions
     predictions = model.predict(slices)
@@ -98,7 +99,7 @@ async def fetch(s: aiohttp.ClientSession, index: str, code: str):
         global now
         now += 1
         r = max_page - now
-        print(f"{index:03d} / {r:03d}", f"{int((100 / (max_page or 1)) * r):03d}")
+        print(f"{int(index):03d} / {r:03d}", f"{int((100 / (max_page or 1)) * r):03d}")
         return await resp.text()
 
 
