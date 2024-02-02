@@ -39,22 +39,29 @@ def parse_valid_code(img: bytes):
         slice_img = slice_img.resize((28, 28))
         slices.append(slice_img)
 
+    # Determine the device to use
+    device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
     # Convert the slices to a NumPy array
     slices = np.array([np.array(slice_img) for slice_img in slices])
 
     background_color = np.argmax(np.bincount(slices.flatten()))
     slices = abs(slices - background_color) > 10
+
     # Load the model
     model = make_model()
 
     # Load the model weights
     model.load_state_dict(torch.load(MODULE_PATH)["model_state_dict"])
+    model.to(device)
 
     # Use the model to make predictions
-    predictions = model.forward(torch.tensor(slices, dtype=torch.float32).view(4, 1, 28, 28))
+    slices_tensor = torch.tensor(slices, dtype=torch.float32).view(4, 1, 28, 28)
+    slices_tensor = slices_tensor.to(device)  # Move the slices tensor to the correct device
+    _, predictions = model.forward(slices_tensor)
 
     # Get the predicted classes
-    predicted_classes: np.ndarray = torch.argmax(predictions, dim=1).numpy()
+    predicted_classes: np.ndarray = torch.argmax(predictions, dim=1).cpu().numpy()
 
     return "".join(map(str, predicted_classes))
 
