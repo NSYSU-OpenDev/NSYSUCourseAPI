@@ -4,12 +4,12 @@ import time
 import aiohttp
 import io
 
-import tensorflow as tf
+import torch
 import numpy as np
 from PIL import Image
 
 BASEURL = "https://selcrs.nsysu.edu.tw/menu1"
-MODULE_PATH = ""
+MODULE_PATH = "./model/EfficientCapsNet.pth"
 
 
 def parse_valid_code(img: bytes):
@@ -42,7 +42,7 @@ def parse_valid_code(img: bytes):
     background_color = np.argmax(np.bincount(slices.flatten()))
     slices = abs(slices - background_color) > 10
     # Load the model
-    model = tf.keras.models.load_model(MODULE_PATH)  # type: ignore
+    model: torch.nn.Module = torch.load(MODULE_PATH)
 
     # Use the model to make predictions
     predictions = model.predict(slices, verbose=None)
