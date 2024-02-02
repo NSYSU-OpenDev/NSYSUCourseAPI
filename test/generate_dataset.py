@@ -1,5 +1,6 @@
 import asyncio
 from pathlib import Path
+import shutil
 import time
 import aiohttp
 import io
@@ -82,7 +83,10 @@ async def fetch(s: aiohttp.ClientSession, code: str):
 
 async def main():
     images = Path("images")
-    images.rmdir()
+
+    if images.is_dir():
+        shutil.rmtree(str(images))
+
     total = done_count = error_count = 0
     async with aiohttp.ClientSession() as s:
         while total < 1000:
