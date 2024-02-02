@@ -8,6 +8,8 @@ import torch
 import numpy as np
 from PIL import Image
 
+from model import make_model
+
 BASEURL = "https://selcrs.nsysu.edu.tw/menu1"
 MODULE_PATH = "./model/EfficientCapsNet.pth"
 
@@ -42,7 +44,10 @@ def parse_valid_code(img: bytes):
     background_color = np.argmax(np.bincount(slices.flatten()))
     slices = abs(slices - background_color) > 10
     # Load the model
-    model: torch.nn.Module = torch.load(MODULE_PATH)
+    model = make_model()
+
+    # Load the model weights
+    model.load_state_dict(torch.load(MODULE_PATH))
 
     # Use the model to make predictions
     predictions = model.predict(slices, verbose=None)
