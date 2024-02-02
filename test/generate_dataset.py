@@ -57,7 +57,9 @@ def parse_valid_code(img: bytes):
 
     # Use the model to make predictions
     slices_tensor = torch.tensor(slices, dtype=torch.float32).view(4, 1, 28, 28)
-    slices_tensor = slices_tensor.to(device)  # Move the slices tensor to the correct device
+    slices_tensor = slices_tensor.to(
+        device
+    )  # Move the slices tensor to the correct device
     _, predictions = model.forward(slices_tensor)
 
     # Get the predicted classes
@@ -112,13 +114,13 @@ async def main():
             total += 1
             if "Wrong Validation Code" in out:
                 error_count += 1
-                path = images / f"/errors/{error_count}_{code}.png"
+                path = images / f"errors/{error_count}_{code}.png"
                 path.parent.mkdir(parents=True, exist_ok=True)
                 with path.open("wb") as f:
                     f.write(img)
             else:
                 done_count += 1
-                path = images / f"/done/{done_count}_{code}.png"
+                path = images / f"done/{done_count}_{code}.png"
                 path.parent.mkdir(parents=True, exist_ok=True)
                 with path.open("wb") as f:
                     f.write(img)
