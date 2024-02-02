@@ -217,4 +217,5 @@ def make_model():
     efficient_capsnet = EfficientCapsNet()
     reconstruction_net = ReconstructionNet()
     model = EfficientCapsNetWithReconstruction(efficient_capsnet, reconstruction_net)
+    model.eval()
     return model

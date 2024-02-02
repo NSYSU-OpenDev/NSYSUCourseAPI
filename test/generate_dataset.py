@@ -51,10 +51,10 @@ def parse_valid_code(img: bytes):
     model.load_state_dict(torch.load(MODULE_PATH)["model_state_dict"])
 
     # Use the model to make predictions
-    predictions = model.predict(slices, verbose=None)
+    predictions = model.forward(torch.tensor(slices, dtype=torch.float32).view(4, 1, 28, 28))
 
     # Get the predicted classes
-    predicted_classes: np.ndarray = np.argmax(predictions, axis=1)
+    predicted_classes: np.ndarray = torch.argmax(predictions, dim=1).numpy()
 
     return "".join(map(str, predicted_classes))
 
