@@ -48,7 +48,7 @@ def parse_valid_code(img: bytes):
     model = make_model()
 
     # Load the model weights
-    model.load_state_dict(torch.load(MODULE_PATH))
+    model.load_state_dict(torch.load(MODULE_PATH)["model_state_dict"])
 
     # Use the model to make predictions
     predictions = model.predict(slices, verbose=None)
