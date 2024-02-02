@@ -214,8 +214,8 @@ def make_model():
     Create the EfficientCapsNetWithReconstruction model
     :return: model (EfficientCapsNetWithReconstruction)
     """
-    efficient_capsnet = EfficientCapsNet()
-    reconstruction_net = ReconstructionNet()
-    model = EfficientCapsNetWithReconstruction(efficient_capsnet, reconstruction_net)
+    model = EfficientCapsNet()
+    reconstruction_model = ReconstructionNet(16, 10)
+    model = EfficientCapsNetWithReconstruction(model, reconstruction_model)
     model.eval()
     return model
