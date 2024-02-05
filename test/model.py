@@ -219,3 +219,20 @@ def make_model():
     model = EfficientCapsNetWithReconstruction(model, reconstruction_model)
     model.eval()
     return model
+
+
+def make_deploy_model():
+    """
+    Create a deployment model of EfficientCapsNet without the reconstruction network.
+    This reduces the model size and computational requirements for deployment scenarios
+    where the reconstruction capability is not needed.
+
+    :return: A PyTorch model instance ready for deployment.
+    """
+    # 直接實例化EfficientCapsNet模型
+    model = EfficientCapsNet()
+
+    # 轉換模型到評估模式
+    model.eval()
+
+    return model

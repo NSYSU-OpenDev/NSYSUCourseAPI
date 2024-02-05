@@ -9,10 +9,10 @@ import torch
 import numpy as np
 from PIL import Image
 
-from model import make_model
+from model import make_deploy_model
 
 BASEURL = "https://selcrs.nsysu.edu.tw/menu1"
-MODULE_PATH = "./model/EfficientCapsNet_98.76.pth"
+MODULE_PATH = "./model/EfficientCapsNetDeploy.pth"
 
 
 def parse_valid_code(img: bytes):
@@ -49,7 +49,7 @@ def parse_valid_code(img: bytes):
     slices = abs(slices - background_color) > 10
 
     # Load the model
-    model = make_model()
+    model = make_deploy_model()
 
     # Load the model weights
     model.load_state_dict(torch.load(MODULE_PATH))
