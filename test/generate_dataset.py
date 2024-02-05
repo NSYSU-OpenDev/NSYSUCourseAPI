@@ -12,7 +12,7 @@ from PIL import Image
 from model import make_model
 
 BASEURL = "https://selcrs.nsysu.edu.tw/menu1"
-MODULE_PATH = "./model/EfficientCapsNet.pth"
+MODULE_PATH = "./model/EfficientCapsNet_98.76.pth"
 
 
 def parse_valid_code(img: bytes):
@@ -52,7 +52,7 @@ def parse_valid_code(img: bytes):
     model = make_model()
 
     # Load the model weights
-    model.load_state_dict(torch.load(MODULE_PATH)["model_state_dict"])
+    model.load_state_dict(torch.load(MODULE_PATH))
     model.to(device)
 
     # Use the model to make predictions
@@ -63,7 +63,7 @@ def parse_valid_code(img: bytes):
     _, predictions = model.forward(slices_tensor)
 
     # Get the predicted classes
-    predicted_classes: np.ndarray = torch.argmax(predictions, dim=1).cpu().numpy()
+    predicted_classes: np.ndarray = torch.argmax(predictions, dim=1).cpu().numpy() + 1
 
     return "".join(map(str, predicted_classes))
 
