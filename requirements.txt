@@ -1,5 +1,5 @@
-tensorflow
-bs4
+torch
+beautifulsoup4
 numpy
 pillow
 aiohttp
