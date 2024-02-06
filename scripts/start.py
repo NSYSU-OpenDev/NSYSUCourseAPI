@@ -24,34 +24,37 @@ async def fetch(s: aiohttp.ClientSession, code: str, index: int = 1):
     :param code: The valid code (str)
     :return: The response (Coroutine[Any, Any, str])
     """
-    async with s.post(
-        f"{BASEURL}/dplycourse.asp?page={index}",
-        data={
-            "HIS": "",
-            "IDNO": "",
-            "ITEM": "",
-            "D0": "1122",
-            "DEG_COD": "*",
-            "D1": "",
-            "D2": "",
-            "CLASS_COD": "",
-            "SECT_COD": "",
-            "TYP": "1",
-            "SDG_COD": "",
-            "teacher": "",
-            "crsname": "",
-            "T3": "",
-            "WKDAY": "",
-            "SECT": "",
-            "nowhis": "1",
-            "ValidCode": code,
-        },
-    ) as resp:
-        global now
-        now += 1
-        r = max_page - now
-        print(f"{index:03d} / {r:03d}", f"{int((100 / (max_page or 1)) * r):03d}")
-        return await resp.text()
+    try:
+        async with s.post(
+            f"{BASEURL}/dplycourse.asp?page={index}",
+            data={
+                "HIS": "",
+                "IDNO": "",
+                "ITEM": "",
+                "D0": "1122",
+                "DEG_COD": "*",
+                "D1": "",
+                "D2": "",
+                "CLASS_COD": "",
+                "SECT_COD": "",
+                "TYP": "1",
+                "SDG_COD": "",
+                "teacher": "",
+                "crsname": "",
+                "T3": "",
+                "WKDAY": "",
+                "SECT": "",
+                "nowhis": "1",
+                "ValidCode": code,
+            },
+        ) as resp:
+            global now
+            now += 1
+            r = max_page - now
+            print(f"{index:03d} / {r:03d}", f"{int((100 / (max_page or 1)) * r):03d}")
+            return await resp.text()
+    except aiohttp.ClientOSError:
+        return await fetch(s, code, index)
 
 
 async def main():
@@ -96,7 +99,8 @@ async def main():
     result = []
     for page in pages:
         html = BeautifulSoup(str(page), "html.parser")
-        data = html.select("table > tr[bgcolor]")
+        data = html.select("table tr[bgcolor]")
+
         for d in data:
             tags: list[str] = []
             for line_break in d.find_all("br"):

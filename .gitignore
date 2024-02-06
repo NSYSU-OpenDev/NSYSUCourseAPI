@@ -153,3 +153,5 @@ cython_debug/
 
 ValidCode.png
 images
+
+/test*.json
