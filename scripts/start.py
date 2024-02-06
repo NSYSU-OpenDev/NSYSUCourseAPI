@@ -1,71 +1,19 @@
-import io
 import re
 import time
 import asyncio
 import json
 from pathlib import Path
 
-import tensorflow as tf
 from bs4 import BeautifulSoup, Tag
-import numpy as np
-from PIL import Image
 import aiohttp
+
+from scripts.utils.parse_valid_code import parse_valid_code
 
 BASEURL = "https://selcrs.nsysu.edu.tw/menu1"
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 ",
 }
 now = max_page = 0
-
-
-def parse_valid_code(img: bytes):
-    """
-    Parse the valid code
-    :param img: The image (bytes)
-    :return: The valid code (str)
-    """
-    # Load the image
-    image = Image.open(io.BytesIO(img))
-
-    # Convert the image to grayscale
-    image = image.convert("L")
-
-    # Get the width of the image
-    width = image.size[0]
-
-    # Determine the size of each slice
-    slice_width = width // 4
-
-    # Create a list to hold the image slices
-    slices = []
-
-    # Slice the image and resize each slice
-    for i in range(4):
-        slice_img = image.crop(
-            (i * slice_width, 0, (i + 1) * slice_width, image.size[1])
-        )
-        slice_img = slice_img.resize((28, 28))
-        slices.append(slice_img)
-
-    # Convert the slices to a NumPy array
-    slices = np.array([np.array(slice_img) for slice_img in slices])
-
-    background_color = np.argmax(np.bincount(slices.flatten()))
-    slices = background_color + 10 - slices > 20  # type: ignore
-
-    # Load the model
-    model = tf.keras.models.load_model(  # type: ignore
-        "../model/keras_28x28_gray_v1.keras"
-    )
-
-    # Use the model to make predictions
-    predictions = model.predict(slices)
-
-    # Get the predicted classes
-    predicted_classes: np.ndarray = np.argmax(predictions, axis=1)
-
-    return "".join(map(str, predicted_classes))
-
 
 async def fetch(s: aiohttp.ClientSession, code: str, index: int = 1):
     """
