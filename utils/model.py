@@ -14,7 +14,7 @@ def squash(x, eps=10e-21):
 
 
 def length(x):
-    return torch.sqrt(torch.sum(x ** 2, dim=-1) + 1e-8)
+    return torch.sqrt(torch.sum(x**2, dim=-1) + 1e-8)
 
 
 def mask(x):
@@ -27,7 +27,7 @@ def mask(x):
         x, mask = x
     else:
         # Compute lengths of the capsules
-        lengths = torch.sqrt(torch.sum(x ** 2, dim=2))
+        lengths = torch.sqrt(torch.sum(x**2, dim=2))
 
         # Create a one-hot encoding of the index of the max length capsule
         _, max_length_indices = lengths.max(dim=1, keepdim=True)
@@ -101,9 +101,9 @@ class RoutingLayer(nn.Module):
             ..., None
         ]  # b shape = (None, num_capsules, height*width*16, 1) -> (None, j, i, 1)
         c = c / torch.sqrt(
-            torch.Tensor([self.dim_capsules]).type(torch.cuda.FloatTensor)
+            torch.Tensor([self.dim_capsules]).type(torch.cuda.FloatTensor)  # type: ignore
         )
-        c = torch.softmax(c, axis=1)
+        c = torch.softmax(c, axis=1)  # type: ignore
         c = c + self.b
         s = torch.sum(
             torch.mul(u, c), dim=-2
@@ -207,7 +207,10 @@ class MarginLoss(nn.Module):
             torch.clamp(y_pred - self.m_neg, min=0.0), 2
         )
         return losses.mean() if size_average else losses.sum()
+
+
 # End of copied code
+
 
 def make_model():
     """

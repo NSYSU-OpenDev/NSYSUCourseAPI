@@ -4,10 +4,10 @@ import numpy as np
 import torch
 from PIL import Image, ImageFilter
 
-from scripts.utils.model import make_deploy_model
+from utils.model import make_deploy_model
 
 
-def parse_valid_code(img: bytes, module_path="../model/EfficientCapsNetDeploy.pth"):
+def parse_valid_code(img: bytes, module_path="model/EfficientCapsNetDeploy.pth"):
     # Load the image
     image = Image.open(io.BytesIO(img))
 
@@ -50,8 +50,12 @@ def parse_valid_code(img: bytes, module_path="../model/EfficientCapsNetDeploy.pt
     model.eval()
 
     # Convert slices to a tensor, normalize and add a batch dimension
-    slices_tensor = torch.tensor(slices, dtype=torch.float32).unsqueeze(1)  # Add channel dimension
-    slices_tensor = slices_tensor.to(device)  # Move the slices tensor to the correct device
+    slices_tensor = torch.tensor(slices, dtype=torch.float32).unsqueeze(
+        1
+    )  # Add channel dimension
+    slices_tensor = slices_tensor.to(
+        device
+    )  # Move the slices tensor to the correct device
 
     with torch.no_grad():
         _, predictions = model(slices_tensor)

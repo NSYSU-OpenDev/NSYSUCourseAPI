@@ -7,13 +7,14 @@ from pathlib import Path
 from bs4 import BeautifulSoup, Tag
 import aiohttp
 
-from scripts.utils.parse_valid_code import parse_valid_code
+from utils.parse_valid_code import parse_valid_code
 
 BASEURL = "https://selcrs.nsysu.edu.tw/menu1"
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 ",
 }
 now = max_page = 0
+
 
 async def fetch(s: aiohttp.ClientSession, code: str, index: int = 1):
     """
