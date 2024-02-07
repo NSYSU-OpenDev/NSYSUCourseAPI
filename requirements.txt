@@ -2,7 +2,7 @@ torch
 beautifulsoup4
 numpy
 pillow
-aiohttp
+aiohttp<3.9.0,>=3.6.0
 tqdm
 deepdiff
 requests
