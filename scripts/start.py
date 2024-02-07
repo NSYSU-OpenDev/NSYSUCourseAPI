@@ -1,30 +1,28 @@
+import json
 import os
 import re
 import time
 import asyncio
-import json
-from pathlib import Path
 from typing import Callable, Optional
 
-from bs4 import BeautifulSoup, Tag
-from tqdm.asyncio import tqdm as tqdm_async
+from bs4 import BeautifulSoup
 from tqdm import tqdm
+from tqdm.asyncio import tqdm as tqdm_async
 import aiohttp
 
+from utils.parse_info import parse_course_info
 from utils.parse_valid_code import parse_valid_code
 
 BASEURL = "https://selcrs.nsysu.edu.tw/menu1"
 DEFAULT_HEADERS = {
-    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36 ",
+    "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
 }
-
-now = max_page = 0
-academic_year = os.getenv("ACADEMIC_YEAR")
 
 
 async def fetch(
     s: aiohttp.ClientSession,
     code: str,
+    academic_year: str,
     index: int = 1,
     *,
     callback: Optional[Callable[[], None]] = None,
@@ -65,14 +63,14 @@ async def fetch(
                 callback()
             return result
     except aiohttp.ClientOSError:
-        return await fetch(s, code, index, callback=callback)
+        return await fetch(s, code, academic_year, index, callback=callback)
 
 
-async def main():
-    global max_page, academic_year
-
-    tasks = []
+async def main(max_page: Optional[int] = 10, academic_year: Optional[str] = None):
     pages = []
+
+    if academic_year is None:
+        academic_year = os.getenv("ACADEMIC_YEAR")
 
     async with aiohttp.ClientSession(headers=DEFAULT_HEADERS) as s:
         out = await s.get(f"{BASEURL}/qrycourse.asp?HIS=2")
@@ -90,26 +88,24 @@ async def main():
 
         while True:
             out = await s.get(f"{BASEURL}/validcode.asp?epoch={time.time()}")
-            img = await out.read()
-            with Path("ValidCode.png").open("wb") as f:
-                f.write(img)
-
-            code = parse_valid_code(img)
-            out = await fetch(s, code)
+            code = parse_valid_code(await out.read())
+            out = await fetch(s, code, academic_year)
             print("Validation Code:", code)
             if "Wrong Validation Code" in out:
                 print("Wrong Validation Code")
             else:
                 break
 
-        out = await fetch(s, code)
-        max_page = int(re.findall(r"Showing page \d+ of (\d+) pages", out)[-1])
+        out = await fetch(s, code, academic_year)
+
+        if max_page is None:
+            max_page = int(re.findall(r"Showing page \d+ of (\d+) pages", out)[-1])
 
         if max_page == 0:
-            print("No data")
+            print("Max page is 0")
             return
 
-        tasks.extend(map(lambda i: fetch(s, code, i), range(2, max_page + 1)))
+        tasks = map(lambda i: fetch(s, code, academic_year, i), range(2, max_page + 1))
         pages = list(await tqdm_async.gather(*tasks, desc="Fetching data", unit="page"))
 
     result = []
@@ -117,109 +113,11 @@ async def main():
         html = BeautifulSoup(str(page), "html.parser")
         data = html.select("table tr[bgcolor]")
 
-        for d in data:
-            tags: list[str] = []
-            for line_break in d.find_all("br"):
-                line_break: Tag
-                line_break.replace_with("\n")
-            for tag in d.select_one("td:nth-child(25) font") or []:
-                tags.append(tag.text)
-                tag.extract()
+        result.extend(map(lambda d: parse_course_info(d, page), data))
 
-            original_data = list(map(lambda x: x.text.strip(), d))
-            (
-                Change,
-                ChangeDescription,
-                MultipleCompulsory,
-                Department,
-                Number,
-                Grade,
-                Class,
-                Name,
-                Credit,
-                YearSemester,
-                CompulsoryElective,
-                Restrict,
-                Select,
-                Selected,
-                Remaining,
-                Teacher,
-                Room,
-            ) = original_data[:17]
-            ClassTime = original_data[17:24]
-            Description = original_data[24]
+        json.dump(result, open("out.json", "w", encoding="utf-8"), ensure_ascii=False)
 
-            info_url_el = d.select_one("td:nth-child(8) small a[href]")
-            result.append(
-                {
-                    "url": info_url_el.attrs["href"] if info_url_el else None,
-                    "change": Change,
-                    "changeDescription": ChangeDescription,
-                    "multipleCompulsory": MultipleCompulsory,
-                    "department": Department,
-                    "number": Number,
-                    "grade": Grade,
-                    "class": Class,
-                    "name": Name,
-                    "credit": Credit,
-                    "yearSemester": YearSemester,
-                    "compulsoryElective": CompulsoryElective,
-                    "restrict": Restrict,
-                    "select": Select,
-                    "selected": Selected,
-                    "remaining": Remaining,
-                    "teacher": Teacher,
-                    "room": Room,
-                    "classTime": ClassTime,
-                    "description": Description,
-                    "tags": tags,
-                }
-            )
-
-    Path("out.json").write_text(
-        json.dumps(result, ensure_ascii=False),
-        encoding="utf-8",
-    )
-
-
-# # 異動
-# Change: str
-# # 異動-說明
-# Description: str
-# # 多門必修
-# MultipleCompulsory: str
-# # 系所別
-# Department: str
-# # 課號
-# Number: str
-# # 年級
-# Grade: str
-# # 班別
-# Class: str
-# # 科目名稱
-# Name: str
-
-# # 課目大綱
-# Url: str
-
-# # 學分
-# Credit: str
-# # 學年度
-# YearSemester: str
-# # 必選修
-# CompulsoryElective: str
-# # 限修
-# Restrict: str
-# # 點選
-# Select: str
-# # 選上
-# Selected: str
-# # 餘額
-# Remaining: str
-# # 授課教師
-# Teacher: str
-# # 教室
-# Room: str
+    return list(filter(bool, result)), academic_year
 
 
 def start() -> None:

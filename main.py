@@ -9,10 +9,6 @@ if __name__ == "__main__":
         from scripts.start import start
 
         start()
-    elif sys.argv[1] == "build":
-        from scripts.API_generation import start
-
-        start()
     elif sys.argv[1] == "test":
         from test.generate_dataset import start
 

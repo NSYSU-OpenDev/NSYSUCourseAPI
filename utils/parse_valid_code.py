@@ -39,7 +39,7 @@ def parse_valid_code(img: bytes, module_path="model/EfficientCapsNetDeploy.pth")
     device = torch.device("cuda" if torch.cuda.is_available() else "cpu")
 
     # Convert the slices to a NumPy array and normalize the pixel values
-    slices = np.array([np.array(slice_img) / 255.0 for slice_img in slices])
+    slices = np.array([np.array(slice_img) / 255.0 for slice_img in slices])  # type: ignore
 
     # Build the model
     model = make_deploy_model()
