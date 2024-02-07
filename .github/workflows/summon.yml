@@ -1,7 +1,7 @@
 name: Tick
 on:
   schedule:
-    - cron: '0/15 * * * *'
+    - cron: '0/30 * * * *'
   workflow_dispatch:
 
 jobs:
@@ -18,22 +18,6 @@ jobs:
           key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
           restore-keys: |
             ${{ runner.os }}-pip-
-
-      # - name: Restore cached assets
-      #   uses: actions/cache/restore@v3
-      #   with:
-      #     path: assets
-      #     key: assets-cache
-      #     restore-keys: assets-cache-
-
-      # - name: Tick
-      #   run: yarn run github_action_tick
-
-      # - name: Save assets
-      #   uses: actions/cache/save@v3
-      #   with:
-      #     path: assets
-      #     key: assets-cache-${{ hashFiles('**/__paths_list__.min.json') }}
 
       # - name: Deploy
       #   run: |

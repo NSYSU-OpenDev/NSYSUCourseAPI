@@ -20,6 +20,7 @@ def length(x):
 def mask(x):
     """
     Mask the output of the capsule layer to select the capsule with the highest vector length.
+
     :param x: tensor(batch_size, num_capsules, dim_capsules) or list([tensor, mask])
     :return: tensor(batch_size, num_capsules * dim_capsules)
     """
@@ -53,7 +54,7 @@ class PrimaryCapsLayer(nn.Module):
     """
 
     def __init__(self, in_channels, kernel_size, num_capsules, dim_capsules, stride=1):
-        super(PrimaryCapsLayer, self).__init__()
+        super().__init__()
         self.depthwise_conv = nn.Conv2d(
             in_channels=in_channels,
             out_channels=in_channels,
@@ -82,7 +83,7 @@ class RoutingLayer(nn.Module):
     """
 
     def __init__(self, num_capsules, dim_capsules):
-        super(RoutingLayer, self).__init__()
+        super().__init__()
         self.W = nn.Parameter(torch.Tensor(num_capsules, 16, 8, dim_capsules))
         self.b = nn.Parameter(torch.zeros(num_capsules, 16, 1))
         self.num_capsules = num_capsules
@@ -119,7 +120,7 @@ class EfficientCapsNet(nn.Module):
     """
 
     def __init__(self):
-        super(EfficientCapsNet, self).__init__()
+        super().__init__()
         self.conv1 = nn.Conv2d(
             in_channels=1, out_channels=32, kernel_size=5, padding="valid"
         )
@@ -156,7 +157,7 @@ class EfficientCapsNet(nn.Module):
 
 class ReconstructionNet(nn.Module):
     def __init__(self, n_dim=16, n_classes=10):
-        super(ReconstructionNet, self).__init__()
+        super().__init__()
         self.fc1 = nn.Linear(n_dim * n_classes, 512)
         self.fc2 = nn.Linear(512, 1024)
         self.fc3 = nn.Linear(1024, 784)
@@ -177,7 +178,7 @@ class ReconstructionNet(nn.Module):
 
 class EfficientCapsNetWithReconstruction(nn.Module):
     def __init__(self, efficient_capsnet, reconstruction_net):
-        super(EfficientCapsNetWithReconstruction, self).__init__()
+        super().__init__()
         self.efficient_capsnet = efficient_capsnet
         self.reconstruction_net = reconstruction_net
 
@@ -189,7 +190,7 @@ class EfficientCapsNetWithReconstruction(nn.Module):
 
 class MarginLoss(nn.Module):
     def __init__(self, m_pos=0.9, m_neg=0.1, lambda_=0.5):
-        super(MarginLoss, self).__init__()
+        super().__init__()
         self.m_pos = m_pos
         self.m_neg = m_neg
         self.lambda_ = lambda_
@@ -215,6 +216,7 @@ class MarginLoss(nn.Module):
 def make_model():
     """
     Create the EfficientCapsNetWithReconstruction model
+
     :return: model (EfficientCapsNetWithReconstruction)
     """
     model = EfficientCapsNet()

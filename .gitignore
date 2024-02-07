@@ -155,3 +155,5 @@ ValidCode.png
 images
 
 /test*.json
+/out.json
+/data

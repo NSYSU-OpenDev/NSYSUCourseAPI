@@ -1,4 +1,3 @@
-import asyncio
 import sys
 
 if __name__ == "__main__":
@@ -7,10 +6,14 @@ if __name__ == "__main__":
         sys.exit(1)
 
     if sys.argv[1] == "start":
-        from scripts.start import main
+        from scripts.start import start
 
-        asyncio.run(main())
+        start()
+    elif sys.argv[1] == "build":
+        from scripts.API_generation import start
+
+        start()
     elif sys.argv[1] == "test":
-        from test.generate_dataset import main
+        from test.generate_dataset import start
 
-        asyncio.run(main())
+        start()
