@@ -89,7 +89,8 @@ async def get_academic_year(
     if academic_year is None:
         academic_year = os.getenv("ACADEMIC_YEAR")
 
-    async with aiohttp.ClientSession(headers=DEFAULT_HEADERS) as s:
+    conn = aiohttp.TCPConnector(ssl=False)
+    async with aiohttp.ClientSession(connector=conn, headers=DEFAULT_HEADERS) as s:
         out = await s.get(f"{BASEURL}/qrycourse.asp?HIS=2")
 
         if not academic_year:

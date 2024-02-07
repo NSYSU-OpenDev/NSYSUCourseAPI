@@ -3,7 +3,7 @@ on:
   workflow_dispatch:
     inputs:
       message:
-        description: 'Year School'
+        description: 'Academic Year'
         required: false
   schedule:
     - cron: '0/30 * * * *'
