@@ -1,6 +1,6 @@
 # NSYSUCourseAPI
 
-## Docs
+# Docs
 
 <!-- 
 │
@@ -8,7 +8,7 @@
 └
  -->
 
-### API Path
+## API Path
 
 ```yml
 /                     # 根目錄
@@ -23,36 +23,36 @@
 └ path.json
 ```
 
-### API File Structure
+## API File Structure
 
 `📜` is object structure，`📄` is file structure.
 
-#### 📜 `#course`
+### 📜 `#course`
 
-| FIELD              |   TYPE    | DESCRIPTION                     |
-| ------------------ | :-------: | ------------------------------- |
-| id                 |  string   | 課號                            |
-| url                |  string   | 科目詳細說明網址                |
-| change             |  ?string  | 更改類別 (異動/新增)            |
-| changeDescription  |  ?string  | 更改說明                        |
-| multipleCompulsory |   bool    | 是否為多門必修                  |
-| department         |  string   | 系所別                          |
-| grade              |  string   | 年級                            |
-| class              |  string   | 班別                            |
-| name               |  string   | 科目名稱 <中文\n英文>           |
-| credit             |  string   | 學分                            |
-| yearSemester       |  string   | 學年期 [期]                     |
-| compulsory         |   bool    | 是否為必修(若為 false 則為選修) |
-| restrict           |    int    | 限修                            |
-| select             |    int    | 點選                            |
-| selected           |    int    | 選上                            |
-| remaining          |    int    | 餘額                            |
-| teacher            |  string   | 授課教師                        |
-| room               |  string   | 教室                            |
+| FIELD              | TYPE      | DESCRIPTION                     |
+| ------------------ | --------- | ------------------------------- |
+| id                 | string    | 課號                            |
+| url                | string    | 科目詳細說明網址                |
+| change             | ?string   | 更改類別 (異動/新增)            |
+| changeDescription  | ?string   | 更改說明                        |
+| multipleCompulsory | bool      | 是否為多門必修                  |
+| department         | string    | 系所別                          |
+| grade              | string    | 年級                            |
+| class              | string    | 班別                            |
+| name               | string    | 科目名稱 <中文\n英文>           |
+| credit             | string    | 學分                            |
+| yearSemester       | string    | 學年期 [期]                     |
+| compulsory         | bool      | 是否為必修(若為 false 則為選修) |
+| restrict           | int       | 限修                            |
+| select             | int       | 點選                            |
+| selected           | int       | 選上                            |
+| remaining          | int       | 餘額                            |
+| teacher            | string    | 授課教師                        |
+| room               | string    | 教室                            |
 | classTime          | string[7] | 上課時間[一二三四五六日]        |
-| description        |  string   | 備註                            |
+| description        | string    | 備註                            |
 | tags               | string[]  | 標籤                            |
-| english            |   bool    | 是否為英語授課                  |
+| english            | bool      | 是否為英語授課                  |
 
 ```json
 {
@@ -81,11 +81,11 @@
 }
 ```
 
-#### 📄 `path.json`
+### 📄 `path.json`
 
-#### 📄 `version.json`
+### 📄 `version.json`
 
-#### 📄 `info.json`
+### 📄 `info.json`
 
 ## Run
 
