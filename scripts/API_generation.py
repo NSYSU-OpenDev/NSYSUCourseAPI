@@ -3,6 +3,9 @@ from pathlib import Path
 
 
 def start():
+    """
+    Start the API generation process
+    """
     out_data = Path("out.json").read_text(encoding="utf-8")
     data = json.loads(out_data)
 

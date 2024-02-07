@@ -7,14 +7,17 @@ from bs4 import Tag
 from utils.utils import is_integer
 
 
-def parse_course_info(d: Tag, original_page: str, **kwargs):
+def parse_course_info(d: Tag, original_page: str, **kwargs) -> dict | bool:
     """
     Parse course information from Tag and return False if failed
 
-    :param d: course root tag (bs4.Tag)
-    :param original_page: The source code of this page (str)
-    :param kwargs: Flag when an error occurs (dict)
-    :return: The course information (dict) or False if failed
+    Args:
+        d (Tag): course root tag
+        original_page (str): The source code of this page
+        kwargs: Flag when an error occurs
+
+    Returns:
+        dict | bool: The course information
     """
     try:
         # Fixed the problem that br will not be converted to \n when converted to str
@@ -118,9 +121,10 @@ def parse_assert_warn(error: AssertionError, original_page: str, **kwargs) -> No
     """
     Send a warning message to the webhook and print the error message.
 
-    :param d: The error message (AssertionError)
-    :param original_page: The source code of this page (str)
-    :param kwargs: Sent outside mark (dict)
+    Args:
+        error: The error message (AssertionError)
+        original_page: The source code of this page (str)
+        kwargs: Sent outside mark (dict)
     """
     if os.getenv("NO_WARNING"):
         return

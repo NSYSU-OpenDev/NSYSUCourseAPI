@@ -1,12 +1,15 @@
-def is_integer(str: str) -> bool:
+def is_integer(text: str) -> bool:
     """
     Check if the text conforms to int.
 
-    :param str: The string to check. (str)
-    :return: bool
+    Args:
+        text (str): The string to check.
+
+    Returns:
+        bool: Whether the text conforms to int.
     """
     try:
-        int(str)
+        int(text)
         return True
     except ValueError:
         return False

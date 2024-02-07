@@ -7,7 +7,17 @@ from PIL import Image, ImageFilter
 from utils.model import make_deploy_model
 
 
-def parse_valid_code(img: bytes, module_path="model/EfficientCapsNetDeploy.pth"):
+def parse_valid_code(img: bytes, module_path="model/EfficientCapsNetDeploy.pth") -> str:
+    """
+    Parse the valid code from the image
+
+    Args:
+        img (bytes): The image bytes
+        module_path (str): The path to the model weights, defaults to "model/EfficientCapsNetDeploy.pth"
+
+    Returns:
+        str: The valid code
+    """
     # Load the image
     image = Image.open(io.BytesIO(img))
 

@@ -2,7 +2,7 @@ import os
 import re
 import time
 import asyncio
-from typing import Callable, Optional
+from typing import Callable, Optional, Coroutine, Tuple
 
 from bs4 import BeautifulSoup
 from tqdm import tqdm
@@ -25,14 +25,19 @@ async def fetch(
     index: int = 1,
     *,
     callback: Optional[Callable[[], None]] = None,
-):
+) -> Coroutine[..., ..., str]:
     """
     Fetch the data
 
-    :param s: The session (aiohttp.ClientSession)
-    :param index: The index (str)
-    :param code: The valid code (str)
-    :return: The response (Coroutine[Any, Any, str])
+    Args:
+        s (aiohttp.ClientSession): The session
+        code (str): The valid code
+        academic_year (str): The academic year
+        index (int): The index
+        callback (Optional[Callable[[], None]]): The callback function
+
+    Returns:
+        Coroutine[Any, Any, str]: The response
     """
     try:
         async with s.post(
@@ -66,9 +71,18 @@ async def fetch(
         return await fetch(s, code, academic_year, index, callback=callback)
 
 
-async def main(max_page: Optional[int] = None, academic_year: Optional[str] = None):
-    pages = []
+async def main(max_page: Optional[int] = None,
+               academic_year: Optional[str] = None) -> Coroutine[..., ..., tuple[list, str] | None]:
+    """
+    Main function to fetch the data
 
+    Args:
+        max_page (Optional[int]): The maximum page
+        academic_year (Optional[str]): The academic year
+
+    Returns:
+        Tuple[list, str] | None: The result and the academic year
+    """
     if academic_year is None:
         academic_year = os.getenv("ACADEMIC_YEAR")
 

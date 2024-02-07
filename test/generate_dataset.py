@@ -2,6 +2,8 @@ import asyncio
 from pathlib import Path
 import shutil
 import time
+from typing import Coroutine
+
 import aiohttp
 import io
 
@@ -12,7 +14,17 @@ from utils.parse_valid_code import parse_valid_code
 BASEURL = "https://selcrs.nsysu.edu.tw/menu1"
 
 
-async def fetch(s: aiohttp.ClientSession, code: str):
+async def fetch(s: aiohttp.ClientSession, code: str) -> Coroutine[..., ..., str]:
+    """
+    Fetch the page with the given code
+
+    Args:
+        s (aiohttp.ClientSession): The session
+        code (str): The code
+
+    Returns:
+        str: The page source
+    """
     async with s.post(
         f"{BASEURL}/dplycourse.asp?page={1}",
         data={

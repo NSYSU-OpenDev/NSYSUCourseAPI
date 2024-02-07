@@ -17,12 +17,16 @@ def length(x):
     return torch.sqrt(torch.sum(x**2, dim=-1) + 1e-8)
 
 
-def mask(x):
+def mask(x) -> torch.Tensor:
     """
     Mask the output of the capsule layer to select the capsule with the highest vector length.
 
-    :param x: tensor(batch_size, num_capsules, dim_capsules) or list([tensor, mask])
-    :return: tensor(batch_size, num_capsules * dim_capsules)
+    Args:
+        x (torch.Tensor | list): Input tensor in shape (batch_size, num_capsules, dim_capsules) or
+                                 list([tensor, mask])
+
+    Returns:
+        torch.Tensor: Shape in (batch_size, num_capsules * dim_capsules)
     """
     if isinstance(x, list):
         x, mask = x
@@ -113,10 +117,8 @@ class RoutingLayer(nn.Module):
 
 
 class EfficientCapsNet(nn.Module):
-    """Efficient-CapsNet architecture implementation.
-
-    Args:
-        nn (_type_): _description_
+    """
+    Efficient-CapsNet architecture implementation.
     """
 
     def __init__(self):
@@ -213,11 +215,12 @@ class MarginLoss(nn.Module):
 # End of copied code
 
 
-def make_model():
+def make_model() -> torch.nn.Module:
     """
     Create the EfficientCapsNetWithReconstruction model
 
-    :return: model (EfficientCapsNetWithReconstruction)
+    Returns:
+        torch.nn.Module: The EfficientCapsNetWithReconstruction model
     """
     model = EfficientCapsNet()
     reconstruction_model = ReconstructionNet(16, 10)
@@ -226,13 +229,14 @@ def make_model():
     return model
 
 
-def make_deploy_model():
+def make_deploy_model() -> torch.nn.Module:
     """
     Create a deployment model of EfficientCapsNet without the reconstruction network.
     This reduces the model size and computational requirements for deployment scenarios
     where the reconstruction capability is not needed.
 
-    :return: A PyTorch model instance ready for deployment.
+    Returns:
+        torch.nn.Module: The EfficientCapsNet model
     """
     # 直接實例化EfficientCapsNet模型
     model = EfficientCapsNet()
