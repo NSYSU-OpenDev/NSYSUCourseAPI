@@ -28,6 +28,7 @@ async def fetch(
 ):
     """
     Fetch the data
+
     :param s: The session (aiohttp.ClientSession)
     :param index: The index (str)
     :param code: The valid code (str)
@@ -85,6 +86,7 @@ async def main(max_page: Optional[int] = None, academic_year: Optional[str] = No
                 return
             print("Current crawl:", academic_year)
 
+        # try to get verification code
         while True:
             out = await s.get(f"{BASEURL}/validcode.asp?epoch={time.time()}")
             code = parse_valid_code(await out.read())
@@ -95,16 +97,17 @@ async def main(max_page: Optional[int] = None, academic_year: Optional[str] = No
             else:
                 break
 
-        out = await fetch(s, code, academic_year)
-
+        # Get the total number of pages
         if max_page is None:
+            out = await fetch(s, code, academic_year)
             max_page = int(re.findall(r"Showing page \d+ of (\d+) pages", out)[-1])
 
         if max_page == 0:
             print("Max page is 0")
             return
 
-        tasks = map(lambda i: fetch(s, code, academic_year, i), range(2, max_page + 1))
+        # Generate crawling tasks
+        tasks = map(lambda i: fetch(s, code, academic_year, i), range(1, max_page + 1))
         pages = list(await tqdm_async.gather(*tasks, desc="Fetching data", unit="page"))
 
     result = []

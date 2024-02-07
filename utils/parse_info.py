@@ -8,7 +8,16 @@ from utils.utils import is_integer
 
 
 def parse_course_info(d: Tag, original_page: str, **kwargs):
+    """
+    Parse course information from Tag and return False if failed
+
+    :param d: course root tag (bs4.Tag)
+    :param original_page: The source code of this page (str)
+    :param kwargs: Flag when an error occurs (dict)
+    :return: The course information (dict) or False if failed
+    """
     try:
+        # Fixed the problem that br will not be converted to \n when converted to str
         for line_break in d.find_all("br"):
             line_break: Tag
             line_break.replace_with("\n")
@@ -45,9 +54,9 @@ def parse_course_info(d: Tag, original_page: str, **kwargs):
             for tag in description_el.select("font"):
                 tags.append(tag.text)
                 tag.extract()
+
         # get description
         description = description_el.text if description_el else ""
-
         # check if the course is taught in English
         # Since some descriptions have multiple identical suffixes,
         # use while to check multiple times.
@@ -75,16 +84,16 @@ def parse_course_info(d: Tag, original_page: str, **kwargs):
         assert is_integer(selected), f"selected = {selected}"
         assert is_integer(remaining), f"remaining = {remaining}"
 
-        opl_str = lambda x: None if x == "" else x
+        optional_str = lambda x: None if x == "" else x
         return {
             "url": url,
-            "change": opl_str(change),
-            "changeDescription": opl_str(changeDescription),
+            "change": optional_str(change),
+            "changeDescription": optional_str(changeDescription),
             "multipleCompulsory": multipleCompulsory == "*",
             "department": department,
             "id": id,
             "grade": grade,
-            "class": opl_str(_class),
+            "class": optional_str(_class),
             "name": name,
             "credit": credit,
             "yearSemester": yearSemester,
@@ -105,7 +114,14 @@ def parse_course_info(d: Tag, original_page: str, **kwargs):
         return False
 
 
-def parse_assert_warn(error: AssertionError, original_page: str, **kwargs):
+def parse_assert_warn(error: AssertionError, original_page: str, **kwargs) -> None:
+    """
+    Send a warning message to the webhook and print the error message.
+
+    :param d: The error message (AssertionError)
+    :param original_page: The source code of this page (str)
+    :param kwargs: Sent outside mark (dict)
+    """
     if os.getenv("NO_WARNING"):
         return
 
