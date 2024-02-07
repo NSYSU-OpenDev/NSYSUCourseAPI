@@ -62,6 +62,7 @@ async def fetch(
                 "nowhis": "1",
                 "ValidCode": code,
             },
+            ssl=False,
         ) as resp:
             result = await resp.text()
             if callback is not None:
@@ -89,9 +90,8 @@ async def get_academic_year(
     if academic_year is None:
         academic_year = os.getenv("ACADEMIC_YEAR")
 
-    conn = aiohttp.TCPConnector(ssl=False)
-    async with aiohttp.ClientSession(connector=conn, headers=DEFAULT_HEADERS) as s:
-        out = await s.get(f"{BASEURL}/qrycourse.asp?HIS=2")
+    async with aiohttp.ClientSession(headers=DEFAULT_HEADERS) as s:
+        out = await s.get(f"{BASEURL}/qrycourse.asp?HIS=2", ssl=False)
 
         if not academic_year:
             out = await out.text()
@@ -106,7 +106,7 @@ async def get_academic_year(
 
         # try to get verification code
         while True:
-            out = await s.get(f"{BASEURL}/validcode.asp?epoch={time.time()}")
+            out = await s.get(f"{BASEURL}/validcode.asp?epoch={time.time()}", ssl=False)
             code = parse_valid_code(await out.read())
             out = await fetch(s, code, academic_year)
             print("Validation Code:", code)
