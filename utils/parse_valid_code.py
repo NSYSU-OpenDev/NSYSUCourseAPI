@@ -13,7 +13,8 @@ def parse_valid_code(img: bytes, module_path="model/EfficientCapsNetDeploy.pth")
 
     Args:
         img (bytes): The image bytes
-        module_path (str): The path to the model weights, defaults to "model/EfficientCapsNetDeploy.pth"
+        module_path (str): The path to the model weights,
+            defaults to "model/EfficientCapsNetDeploy.pth"
 
     Returns:
         str: The valid code

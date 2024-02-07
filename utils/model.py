@@ -13,7 +13,7 @@ def squash(x, eps=10e-21):
     return (1 - 1 / (torch.exp(n) + eps)) * (x / (n + eps))
 
 
-def length(x):
+def length(x) -> torch.Tensor:
     return torch.sqrt(torch.sum(x**2, dim=-1) + 1e-8)
 
 

@@ -2,7 +2,7 @@ import os
 import re
 import time
 import asyncio
-from typing import Callable, Optional, Coroutine, Tuple
+from typing import Callable, Optional, Union
 
 from bs4 import BeautifulSoup
 from tqdm import tqdm
@@ -25,7 +25,7 @@ async def fetch(
     index: int = 1,
     *,
     callback: Optional[Callable[[], None]] = None,
-) -> Coroutine[..., ..., str]:
+) -> str:
     """
     Fetch the data
 
@@ -71,17 +71,20 @@ async def fetch(
         return await fetch(s, code, academic_year, index, callback=callback)
 
 
-async def main(max_page: Optional[int] = None,
-               academic_year: Optional[str] = None) -> Coroutine[..., ..., tuple[list, str] | None]:
+async def get_academic_year(
+    academic_year: Optional[str] = None,
+    *,
+    max_page: Optional[int] = None,
+) -> Union[tuple[list, str], None]:
     """
-    Main function to fetch the data
+    fetch the academic year all data
 
     Args:
         max_page (Optional[int]): The maximum page
         academic_year (Optional[str]): The academic year
 
     Returns:
-        Tuple[list, str] | None: The result and the academic year
+        Union[tuple[list, str], None]: The result and the academic year
     """
     if academic_year is None:
         academic_year = os.getenv("ACADEMIC_YEAR")
@@ -135,7 +138,7 @@ async def main(max_page: Optional[int] = None,
 
 
 def start() -> None:
-    asyncio.run(main())
+    asyncio.run(get_academic_year())
 
 
 if __name__ == "__main__":

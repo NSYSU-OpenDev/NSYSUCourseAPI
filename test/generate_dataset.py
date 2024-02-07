@@ -2,7 +2,6 @@ import asyncio
 from pathlib import Path
 import shutil
 import time
-from typing import Coroutine
 
 import aiohttp
 import io
@@ -14,7 +13,7 @@ from utils.parse_valid_code import parse_valid_code
 BASEURL = "https://selcrs.nsysu.edu.tw/menu1"
 
 
-async def fetch(s: aiohttp.ClientSession, code: str) -> Coroutine[..., ..., str]:
+async def fetch(s: aiohttp.ClientSession, code: str) -> str:
     """
     Fetch the page with the given code
 
@@ -51,7 +50,7 @@ async def fetch(s: aiohttp.ClientSession, code: str) -> Coroutine[..., ..., str]
         return await resp.text()
 
 
-async def main():
+async def main() -> None:
     images = Path("images")
 
     if images.is_dir():

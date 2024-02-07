@@ -1,5 +1,6 @@
 import io
 import os
+from typing import Literal, Union
 
 import requests
 from bs4 import Tag
@@ -7,7 +8,11 @@ from bs4 import Tag
 from utils.utils import is_integer
 
 
-def parse_course_info(d: Tag, original_page: str, **kwargs) -> dict | bool:
+def parse_course_info(
+    d: Tag,
+    original_page: str,
+    **kwargs,
+) -> Union[dict, Literal[False]]:
     """
     Parse course information from Tag and return False if failed
 
