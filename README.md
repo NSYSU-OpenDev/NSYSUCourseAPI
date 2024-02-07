@@ -38,10 +38,10 @@
 | multipleCompulsory | bool      | 是否為多門必修                  |
 | department         | string    | 系所別                          |
 | grade              | string    | 年級                            |
-| class              | string    | 班別                            |
+| class              | ?string   | 班別                            |
 | name               | string    | 科目名稱 <中文\n英文>           |
 | credit             | string    | 學分                            |
-| yearSemester       | string    | 學年期 [期]                     |
+| yearSemester       | string    | 學年期 [年期]                   |
 | compulsory         | bool      | 是否為必修(若為 false 則為選修) |
 | restrict           | int       | 限修                            |
 | select             | int       | 點選                            |

@@ -1,4 +1,3 @@
-import json
 import os
 import re
 import time
@@ -66,7 +65,7 @@ async def fetch(
         return await fetch(s, code, academic_year, index, callback=callback)
 
 
-async def main(max_page: Optional[int] = 10, academic_year: Optional[str] = None):
+async def main(max_page: Optional[int] = None, academic_year: Optional[str] = None):
     pages = []
 
     if academic_year is None:
@@ -114,8 +113,6 @@ async def main(max_page: Optional[int] = 10, academic_year: Optional[str] = None
         data = html.select("table tr[bgcolor]")
 
         result.extend(map(lambda d: parse_course_info(d, page), data))
-
-        json.dump(result, open("out.json", "w", encoding="utf-8"), ensure_ascii=False)
 
     return list(filter(bool, result)), academic_year
 

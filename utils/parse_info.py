@@ -64,9 +64,8 @@ def parse_course_info(d: Tag, original_page: str, **kwargs):
         assert change in ["", "異動", "新增"], f"Change = {change}"
         assert multipleCompulsory in " *", f"MultipleCompulsory = {multipleCompulsory}"
         assert grade, f"grade = {grade}"
-        assert _class, f"_class = {_class}"
         assert credit, f"credit = {credit}"
-        assert yearSemester in "期", f"yearSemester = {yearSemester}"
+        assert yearSemester in "年期", f"yearSemester = {yearSemester}"
         assert (
             compulsoryElective in "必選"
         ), f"compulsoryElective = {compulsoryElective}"
@@ -85,7 +84,7 @@ def parse_course_info(d: Tag, original_page: str, **kwargs):
             "department": department,
             "id": id,
             "grade": grade,
-            "class": _class,
+            "class": opl_str(_class),
             "name": name,
             "credit": credit,
             "yearSemester": yearSemester,
