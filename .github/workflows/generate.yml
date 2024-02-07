@@ -1,0 +1,36 @@
+name: Generate API
+on:
+  workflow_dispatch:
+    inputs:
+      message:
+        description: 'Year School'
+        required: false
+  schedule:
+    - cron: '0/30 * * * *'
+
+concurrency:
+  group: generate
+
+jobs:
+  tick:
+    name: Tick
+    runs-on: ubuntu-latest
+    concurrency: tick-lock
+    steps:
+      - uses: actions/checkout@v4
+
+      # - uses: actions/cache@v3
+      #   with:
+      #     path: ~/.cache/pip
+      #     key: ${{ runner.os }}-pip-${{ hashFiles('**/requirements.txt') }}
+      #     restore-keys: |
+      #       ${{ runner.os }}-pip-
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+          cache: pip
+
+      - run: pip install -r requirements.txt
+
+      - run: python main.py start
