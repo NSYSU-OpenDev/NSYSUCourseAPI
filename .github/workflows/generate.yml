@@ -27,10 +27,14 @@ jobs:
       #       ${{ runner.os }}-pip-
 
       - uses: actions/setup-python@v5
+        id: pysetup
         with:
           python-version: '3.11'
           cache: pip
 
-      - run: pip install -r requirements.txt
+      - name: setup-python requires
+        if: !steps.pysetup.outputs.cache-hit
+        run: pip install -r requirements.txt
 
-      - run: python main.py start
+      - name: Start
+        run: python main.py start
