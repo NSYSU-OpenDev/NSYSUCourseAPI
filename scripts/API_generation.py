@@ -1,17 +1,30 @@
+import asyncio
+import hashlib
+import os
 import json
 from pathlib import Path
 
+from utils.get_academic_year import get_academic_year
 
-def start():
-    """
-    Start the API generation process
-    """
-    out_data = Path("out.json").read_text(encoding="utf-8")
-    data = json.loads(out_data)
+API_ROOT_PATH = Path(__file__).parent.parent / "data"
+API_ROOT_PATH.mkdir(parents=True, exist_ok=True)
 
-    chunk_size = 50
-    split_lists = []
-    for i in range(0, len(out_data), chunk_size):
-        split_lists.append(out_data[i : i + chunk_size])
 
-    print(split_lists)
+async def main():
+    academic_year = os.getenv("ACADEMIC_YEAR")
+
+    try:
+        d = await get_academic_year(academic_year)
+    except ValueError as e:
+        print(e)
+        return
+
+    print(json.dumps(d, indent=4))
+
+
+def start() -> None:
+    asyncio.run(main())
+
+
+if __name__ == "__main__":
+    start()

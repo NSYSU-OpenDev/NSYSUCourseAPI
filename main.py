@@ -6,7 +6,7 @@ if __name__ == "__main__":
         sys.exit(1)
 
     if sys.argv[1] == "start":
-        from scripts.start import start
+        from scripts.API_generation import start
 
         start()
     elif sys.argv[1] == "test":

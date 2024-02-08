@@ -1,9 +1,7 @@
-import os
 import re
 import ssl
 import time
-import asyncio
-from typing import Callable, Optional, Union
+from typing import Callable, Optional
 
 from bs4 import BeautifulSoup
 from tqdm import tqdm
@@ -76,35 +74,35 @@ async def get_academic_year(
     academic_year: Optional[str] = None,
     *,
     max_page: Optional[int] = None,
-) -> Union[tuple[list, str], None]:
+) -> tuple[list, str]:
     """
     fetch the academic year all data
 
     Args:
-        max_page (Optional[int]): The maximum page
-        academic_year (Optional[str]): The academic year
+        academic_year (Optional[str], optional): The academic year. Defaults to None.
+        max_page (Optional[int], optional): The maximum page. Defaults to None.
+
+    Raises:
+        ValueError: No data (academic_year)
+        ValueError: Max page is 0
 
     Returns:
-        Union[tuple[list, str], None]: The result and the academic year
+        tuple[list, str]: The result and the academic year
     """
-    if academic_year is None:
-        academic_year = os.getenv("ACADEMIC_YEAR")
-
     ctx = ssl.create_default_context(ssl.Purpose.SERVER_AUTH)
     ctx.options |= 0x4  # OP_LEGACY_SERVER_CONNECT
     conn = aiohttp.TCPConnector(ssl=ctx)
     async with aiohttp.ClientSession(connector=conn, headers=DEFAULT_HEADERS) as s:
         out = await s.get(f"{BASEURL}/qrycourse.asp?HIS=2")
 
-        if not academic_year:
+        if academic_year is None:
             out = await out.text()
             soup = BeautifulSoup(out, "html.parser")
 
             if data := soup.select_one("#YRSM > option[value]:not([value=''])"):
                 academic_year = data.attrs["value"]
             else:
-                print("No data (academic_year)")
-                return
+                raise ValueError("No data (academic_year)")
             print("Current crawl:", academic_year)
 
         # try to get verification code
@@ -124,8 +122,7 @@ async def get_academic_year(
             max_page = int(re.findall(r"Showing page \d+ of (\d+) pages", out)[-1])
 
         if max_page == 0:
-            print("Max page is 0")
-            return
+            raise ValueError("Max page is 0")
 
         # Generate crawling tasks
         tasks = map(lambda i: fetch(s, code, academic_year, i), range(1, max_page + 1))
@@ -139,11 +136,3 @@ async def get_academic_year(
         result.extend(map(lambda d: parse_course_info(d, page), data))
 
     return list(filter(bool, result)), academic_year
-
-
-def start() -> None:
-    asyncio.run(get_academic_year())
-
-
-if __name__ == "__main__":
-    start()
