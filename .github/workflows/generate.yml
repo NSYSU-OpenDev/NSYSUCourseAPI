@@ -5,8 +5,8 @@ on:
       message:
         description: 'Academic Year'
         required: false
-  schedule:
-    - cron: '0 0/1 * * *'
+  # schedule:
+  #   - cron: '0 0/1 * * *'
 
 concurrency:
   group: generate

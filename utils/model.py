@@ -7,6 +7,9 @@ import torch.nn as nn
 import torch.nn.functional as F
 from torch.autograd import Variable
 
+# Determine the device to use
+DEVICE = torch.device("cuda" if torch.cuda.is_available() else "cpu")
+
 
 def squash(x, eps=10e-21):
     n = torch.norm(x, dim=-1, keepdim=True)
@@ -106,13 +109,11 @@ class RoutingLayer(nn.Module):
             ..., None
         ]  # b shape = (None, num_capsules, height*width*16, 1) -> (None, j, i, 1)
         c = c / torch.sqrt(
-            torch.Tensor([self.dim_capsules]).type(torch.cuda.FloatTensor)  # type: ignore
+            torch.Tensor([self.dim_capsules]).type(torch.FloatTensor).to(DEVICE)  # type: ignore
         )
         c = torch.softmax(c, axis=1)  # type: ignore
         c = c + self.b
-        s = torch.sum(
-            torch.mul(u, c), dim=-2
-        )  # s shape = (None, num_capsules, dim_capsules)
+        s = torch.sum(torch.mul(u, c), dim=-2)  # s shape = (None, num_capsules, dim_capsules)
         return squash(s)
 
 
@@ -123,9 +124,7 @@ class EfficientCapsNet(nn.Module):
 
     def __init__(self):
         super().__init__()
-        self.conv1 = nn.Conv2d(
-            in_channels=1, out_channels=32, kernel_size=5, padding="valid"
-        )
+        self.conv1 = nn.Conv2d(in_channels=1, out_channels=32, kernel_size=5, padding="valid")
         self.batch_norm1 = nn.BatchNorm2d(num_features=32)
         self.conv2 = nn.Conv2d(32, 64, 3, padding="valid")
         self.batch_norm2 = nn.BatchNorm2d(64)
@@ -206,9 +205,7 @@ class MarginLoss(nn.Module):
         targets = Variable(t)
         losses = targets * torch.pow(
             torch.clamp(self.m_pos - y_pred, min=0.0), 2
-        ) + self.lambda_ * (1 - targets) * torch.pow(
-            torch.clamp(y_pred - self.m_neg, min=0.0), 2
-        )
+        ) + self.lambda_ * (1 - targets) * torch.pow(torch.clamp(y_pred - self.m_neg, min=0.0), 2)
         return losses.mean() if size_average else losses.sum()
 
 
