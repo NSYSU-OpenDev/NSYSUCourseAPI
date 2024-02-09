@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM541&Crsname=顯微影像分析專題研究（一）,,,True,化學碩,CHEM541,1,不分班,"顯微影像分析專題研究（一）
+INDEPENDENT STUDIES IN MICROSCOPIC IMAGE ANALYSIS(I)",3,期,True,50,0,4,46,張柏齡,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM543&Crsname=無機反應專題研究（一）,,,True,化學碩,CHEM543,1,不分班,"無機反應專題研究（一）
+INDEPENDENT STUDIES IN INORGANIC REACTIONS(I)",3,期,True,50,0,3,47,王琢堅,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM545&Crsname=有機化學書報討論（一）,,,True,化學碩,CHEM545,1,不分班,"有機化學書報討論（一）
+SEMINAR IN ORGANIC CHEMISTRY (I)",1,期,True,50,0,18,32,林渝亞,理SC 3003-2,"['', '3', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM546&Crsname=無機化學書報討論（一）,,,True,化學碩,CHEM546,1,不分班,"無機化學書報討論（一）
+SEMINAR IN INORGANIC CHEMISTRY (I)",1,期,True,50,0,16,34,梁蘭昌,理SC 3001,"['', '3', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM547&Crsname=物理化學書報討論（一）,,,True,化學碩,CHEM547,1,不分班,"物理化學書報討論（一）
+SEMINAR IN PHYSICAL CHEMISTRY (I)",1,期,True,50,0,15,35,蔣昭明,理CH 3002,"['', '3', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM548&Crsname=分析化學書報討論（一）,,,True,化學碩,CHEM548,1,不分班,"分析化學書報討論（一）
+SEMINAR IN ANALYTICAL CHEMISTRY (I)",1,期,True,50,0,21,29,謝建台,理CH 2002,"['', '3', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM554&Crsname=物理有機化學,,,False,化學碩,CHEM554,1,不分班,"物理有機化學
+PHYSICAL ORGANIC CHEMISTRY",3,期,False,50,0,18,32,張均然,理CH 2002,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM564&Crsname=高分子化學,,,False,化學碩,CHEM564,1,不分班,"高分子化學
+POLYMER CHEMISTRY",3,期,False,50,0,19,31,梁蘭昌,"理CH 2002,理CH 4002","['2', '', '23', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體化學'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM569&Crsname=量子化學（一）,異動,更換部份時間及教室8/18,False,化學碩,CHEM569,1,不分班,"量子化學（一）
+QUANTUM CHEMISTRY (I)",3,期,False,50,0,20,30,蔣昭明,理SC 3004,"['', '', '', '67', '6', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM579&Crsname=質譜分析技術,異動,更換教室9/11,False,化學碩,CHEM579,1,不分班,"質譜分析技術
+MASS SPECTROMETRY",3,期,False,60,1,50,10,謝建台,理SC 3001,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM582&Crsname=化學生物學專題研究（一）,,,True,化學碩,CHEM582,1,不分班,"化學生物學專題研究（一）
+INDEPENDENT STUDIES IN CHEMICAL BIOLOGY (I)",3,期,True,50,0,4,46,林伯樵,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM583&Crsname=氣膠與生醫材料科學專題研究（一）,,,True,化學碩,CHEM583,1,不分班,"氣膠與生醫材料科學專題研究（一）
+INDEPENDENT STUDIES IN AEROSOLS AND BIOMEDICAL NANOMATERIAL SCIENCES(I)",3,期,True,50,0,3,47,王家蓁,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM586&Crsname=奈米材料化學專題研究（一）,,,True,化學碩,CHEM586,1,不分班,"奈米材料化學專題研究（一）
+INDEPENDENT STUDIES IN CHEMISTRY OF NANOMATERIALS (I)",3,期,True,50,0,5,45,陳軍互,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM591&Crsname=合成與生物有機化學專題研究（一）,,,True,化學碩,CHEM591,1,不分班,"合成與生物有機化學專題研究（一）
+INDEPENDENT STUDIES IN SYNTHESIS AND BIOORGANIC CHEMISTRY (I)",3,期,True,50,0,2,48,林渝亞,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM595&Crsname=無機催化專題研究（一）,,,True,化學碩,CHEM595,1,不分班,"無機催化專題研究（一）
+INDEPENDENT STUDIES IN INORGANIC CATALYSIS （I）",3,期,True,50,0,1,49,蔡明利,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM599&Crsname=有機合成專題研究（一）,,,True,化學碩,CHEM599,1,不分班,"有機合成專題研究（一）
+ORGANIC SYNTHESIS（Ｉ）",3,期,True,50,0,4,46,廖軒宏,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM601&Crsname=有機化學書報討論（三）,,,True,化學碩,CHEM601,2,不分班,"有機化學書報討論（三）
+SEMINAR IN ORGANIC CHEMISTRY (III)",1,期,True,50,0,17,33,廖軒宏,理SC 3003-2,"['', '4', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM602&Crsname=無機化學書報討論（三）,,,True,化學碩,CHEM602,2,不分班,"無機化學書報討論（三）
+SEMINAR IN INORGANIC CHEMISTRY (III)",1,期,True,50,0,19,31,梁子輝,理SC 3001,"['', '4', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM603&Crsname=物理化學書報討論（三）,,,True,化學碩,CHEM603,2,不分班,"物理化學書報討論（三）
+SEMINAR IN PHYSICAL CHEMISTRY (III)",1,期,True,50,0,10,40,丁尚武,理CH 3002,"['', '4', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM604&Crsname=分析化學書報討論（三）,,,True,化學碩,CHEM604,2,不分班,"分析化學書報討論（三）
+SEMINAR IN ANALYTICAL CHEMISTRY (III)",1,期,True,50,0,21,29,吳慧芬,理CH 2002,"['', '4', '', '', '', '', '']",《演講/參訪》,[],False

@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE102N&Crsname=運動與健康：體適能,,,False,運動健康(必),GEPE102N,1,不分班,"運動與健康：體適能
+SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,3,69,-14,許秀桃,,"['', '', '67', '', '', '', '']","《體育類》
+第一堂課請於體育館前集合",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE102O&Crsname=運動與健康：體適能,,,False,運動健康(必),GEPE102O,1,不分班,"運動與健康：體適能
+SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,0,55,0,羅郁平,,"['', '', '67', '', '', '', '']","《體育類》
+第一堂課請於體育館前集合",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE102P&Crsname=運動與健康：體適能,,,False,運動健康(必),GEPE102P,1,不分班,"運動與健康：體適能
+SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,2,60,-5,蔡鋒樺,,"['', '', '', '12', '', '', '']","《體育類》
+第一堂課請於體育館前集合",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE102Q&Crsname=運動與健康：體適能,,,False,運動健康(必),GEPE102Q,1,不分班,"運動與健康：體適能
+SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,2,62,-7,李佳倫,,"['', '', '', '67', '', '', '']","《體育類》
+第一堂課請於體育館前集合",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE102R&Crsname=運動與健康：體適能,,,False,運動健康(必),GEPE102R,1,不分班,"運動與健康：體適能
+SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,12,59,-4,李佳倫,,"['', '', '', '89', '', '', '']","《體育類》
+第一堂課請於體育館前集合",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE102S&Crsname=運動與健康：體適能,,,False,運動健康(必),GEPE102S,1,不分班,"運動與健康：體適能
+SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,6,62,-7,蔡宗晏,,"['', '', '', '', '34', '', '']","《體育類》
+第一堂課請於體育館前集合",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE102T&Crsname=運動與健康：體適能,,,False,運動健康(必),GEPE102T,1,不分班,"運動與健康：體適能
+SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,0,16,39,羅郁平,,"['', '', '12', '', '', '', '']","《體育類》
+第一堂課請於體育館前集合",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE202&Crsname=運動與健康：初級集訓班,,,False,運動健康(必),GEPE202,2,不分班,"運動與健康：初級集訓班
+SPORT & HEALTH:BASIC ASSEMBLED TRAINING CLASS",1,期,True,100,0,63,37,"蔡宗晏,林國欽,林宗正,羅凱暘,蔡鋒樺,黃義博",,"['A', '', 'A', '', '', '', '']","《體育類》
+限大二以上選修且本校校隊學生需自行加選；非校隊加選以零分計。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE203&Crsname=運動與健康：初級潛水,,,False,運動健康(必),GEPE203,2,不分班,"運動與健康：初級潛水
+SPORT & HEALTH: BASIC DIVING",1,期,True,25,1,30,-5,林宗正,游泳池/Swimming pool,"['', '', '', '67', '', '', '']","《體育類》
+限大二以上選修",['永續海洋休閒運動產業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE203A&Crsname=運動與健康：初級潛水,,,False,運動健康(必),GEPE203A,2,不分班,"運動與健康：初級潛水
+SPORT & HEALTH: BASIC DIVING",1,期,True,25,3,33,-8,林宗正,游泳池/Swimming pool,"['', '', '', '', '34', '', '']","《體育類》
+限大二以上選修",['永續海洋休閒運動產業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE203B&Crsname=運動與健康：初級潛水,,,False,運動健康(必),GEPE203B,2,不分班,"運動與健康：初級潛水
+SPORT & HEALTH: BASIC DIVING",1,期,True,25,1,32,-7,林宗正,游泳池/Swimming pool,"['', '', '', '', '67', '', '']","《體育類》
+限大二以上選修",['永續海洋休閒運動產業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE204&Crsname=運動與健康：初級壘球,,,False,運動健康(必),GEPE204,2,不分班,"運動與健康：初級壘球
+SPORT & HEALTH: BASIC SOFT BALL",1,期,True,50,6,69,-19,林宗正,壘球場/Softball field,"['', '89', '', '', '', '', '']","《體育類》
+限大二以上選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE205&Crsname=運動與健康：初級羽球,,,False,運動健康(必),GEPE205,2,不分班,"運動與健康：初級羽球
+SPORT & HEALTH: BASIC BADMINTON",1,期,True,50,4,51,-1,林國欽,體育館3樓/3rd floors of Gym,"['67', '', '', '', '', '', '']","《體育類》
+限大二以上選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE205A&Crsname=運動與健康：初級羽球,,,False,運動健康(必),GEPE205A,2,不分班,"運動與健康：初級羽球
+SPORT & HEALTH: BASIC BADMINTON",1,期,True,50,5,51,-1,林國欽,體育館3樓/3rd floors of Gym,"['89', '', '', '', '', '', '']","《體育類》
+限大二以上選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE208&Crsname=運動與健康：初級桌球,異動,更換授課方式7/18,False,運動健康(必),GEPE208,2,不分班,"運動與健康：初級桌球
+SPORT & HEALTH: BASIC TABLE TENNIS",1,期,True,50,9,59,-9,羅凱暘,桌球室/Table tennis room,"['67', '', '', '', '', '', '']","《體育類》
+限大二以上選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE210&Crsname=運動與健康：初級籃球,,,False,運動健康(必),GEPE210,2,不分班,"運動與健康：初級籃球
+SPORT & HEALTH: BASIC BASKETBALL",1,期,True,50,1,50,0,羅郁平,體育館3樓/3rd floors of Gym,"['', '', '34', '', '', '', '']","《體育類》
+限大二以上選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE211&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211,2,不分班,"運動與健康：初級墊上核心
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,1,68,-18,許秀桃,韻律教室/Aerobics classroom,"['34', '', '', '', '', '', '']","《體育類》
+限大二以上選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE211A&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211A,2,不分班,"運動與健康：初級墊上核心
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,1,55,-5,李佳倫,韻律教室/Aerobics classroom,"['', '34', '', '', '', '', '']","《體育類》
+限大二以上選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE211B&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211B,2,不分班,"運動與健康：初級墊上核心
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,2,49,1,李佳倫,韻律教室/Aerobics classroom,"['', 'B5', '', '', '', '', '']","《體育類》
+限大二以上選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE211C&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211C,2,不分班,"運動與健康：初級墊上核心
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,1,69,-19,許秀桃,韻律教室/Aerobics classroom,"['', '', '34', '', '', '', '']","《體育類》
+限大二以上選修",[],False

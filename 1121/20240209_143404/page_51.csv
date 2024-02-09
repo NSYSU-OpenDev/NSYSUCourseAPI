@@ -1,0 +1,57 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM428&Crsname=科技管理專題研討（二）,,,False,企管系,BM428,4,甲班,"科技管理專題研討（二）
+SEMINAR IN TECHNOLOGY MANAGEMENT （II）",2,期,True,50,0,6,44,盧憶,管CM 3019,"['', '', '', '89', '', '', '']","《研討類》
+『本課程之限修，於加退選2階段開放選修』。限企管系(含雙主修、輔系)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM428A&Crsname=科技管理專題研討（二）,,,False,企管系,BM428A,4,乙班,"科技管理專題研討（二）
+SEMINAR IN TECHNOLOGY MANAGEMENT （II）",2,期,True,50,0,3,47,盧憶,管CM 3019,"['', '', '', '', 'B5', '', '']","《研討類》
+『本課程之限修，於加退選2階段開放選修』。限企管系(含雙主修、輔系)；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS101&Crsname=計算機概論,,,False,資管系,MIS101,1,不分班,"計算機概論
+BASIC COMPUTER CONCEPTS",3,期,True,50,0,46,4,楊惠芳,管CM 3051,"['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系一年級修習且需搭配實習一同修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS103&Crsname=微積分,異動,更換教室9/6,False,資管系,MIS103,1,不分班,"微積分
+CALCULUS",3,期,True,50,0,44,6,陳美如,理SC 1005,"['', '', '', '', '567', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系一年級修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS104&Crsname=會計學（一）,,,False,資管系,MIS104,1,不分班,"會計學（一）
+ACCOUNTING(I)",3,期,True,50,0,48,2,蕭哲芬,管CM 4069,"['567', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系一年級修習且需搭配實習一同修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS108&Crsname=資訊經濟學,,,False,資管系,MIS108,1,不分班,"資訊經濟學
+THE ECONOMICS OF IT AND E-COMMERCE",3,期,True,50,1,45,5,陳偉慶,管CM 4069,"['234', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系一年級修習",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS131&Crsname=計算機概論實習,,,False,資管系,MIS131,1,不分班,"計算機概論實習
+INTRODUCTION TO COMPUTER SCIENCE PRACTICE",1,期,False,50,1,45,5,楊惠芳,管CM 3051,"['', '', '', '', '34', '', '']","《實習類》
+『本課程之限修，於加退選2階段開放選修』。限資管系一年級修習且需搭配正課一同修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS133&Crsname=會計學實習（一）,,,False,資管系,MIS133,1,不分班,"會計學實習（一）
+ACCOUNTING PRACTICE (I)",1,期,False,50,0,45,5,蕭哲芬,管CM 4069,"['', '', '67', '', '', '', '']","《實習類》
+『本課程之限修，於加退選2階段開放選修』。限資管系一年級修習且需搭配正課一同修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS201&Crsname=統計學（一）,,,False,資管系,MIS201,2,不分班,"統計學（一）
+STATISTICS(I)",3,期,True,50,0,57,-7,張德民,管CM 3051,"['567', '', '', '', '', '', '']",《講授類》,"['金融工程學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS203&Crsname=資料結構,,,False,資管系,MIS203,2,不分班,"資料結構
+DATA STRUCTURES",3,期,True,50,1,63,-13,李偉柏,管CM 3051,"['', '567', '', '', '', '', '']",《講授類》,"['軟體工程學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS301&Crsname=系統分析與設計,,,False,資管系,MIS301,3,不分班,"系統分析與設計
+SYSTEMS ANALYSIS AND DESIGN",3,期,True,50,1,52,-2,吳仁和,管CM 4078,"['', '', '', '678', '', '', '']",《講授類》,"['軟體工程學程', '金融科技學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS303&Crsname=企業資料通訊,,,False,資管系,MIS303,3,不分班,"企業資料通訊
+BUSINESS DATA COMMUNICATION",3,期,True,50,0,56,-6,林耕霈,管CM 4078,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS312&Crsname=行銷管理,,,True,資管系,MIS312,3,不分班,"行銷管理
+MARKETING MANAGEMENT",3,期,True,50,2,57,-7,陳偉慶,管CM 4069,"['', '234', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系","['音樂藝術管理與行銷學程', '科技創新與服務業管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS331&Crsname=ＷＥＢ程式設計,異動,更換時間8/10,False,資管系,MIS331,2,不分班,"ＷＥＢ程式設計
+WEB PROGRAMMING",3,期,True,50,1,57,-7,韓毅,管CM 3051,"['', '', '', '', '567', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系
+※英語授課","['軟體工程學程', '自然科學之程式應用學程', '金融科技學程', '人工智能投資微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS333&Crsname=物件導向程式設計,異動,更換教室8/4,False,資管系,MIS333,2,不分班,"物件導向程式設計
+OBJECT-ORIENTED PROGRAMMING",3,期,False,50,0,13,37,薩尼,管CM 3051,"['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['軟體工程學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS401&Crsname=資訊管理個案研討,,,False,資管系,MIS401,4,不分班,"資訊管理個案研討
+CASE STUDIES IN INFORMATION MANAGEMENT",3,期,True,50,0,61,-11,徐士傑,管CM 2037,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS402&Crsname=資管實務專題研討,,,False,資管系,MIS402,4,不分班,"資管實務專題研討
+SEMINAR IN INFORMATION SYSTEM PRACTICE",1,期,False,50,2,50,0,"楊淯程,劉賓陽,康藝晃,張德民,李捷",管CM 4112,"['', '', '', '67', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS413&Crsname=巨量資料分析導論,,,False,資管系,MIS413,3,不分班,"巨量資料分析導論
+INTRODUCTION TO BIG DATA ANALYTICS",3,期,True,50,0,56,-6,康藝晃,管CM 3051,"['', '', '567', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系三年級修習","['智慧製造聯網微學程', '巨量資料分析學程', '金融科技學程', '跨領域智慧製造學程', '人工智能投資微學程', '金融科技與創新微學程', '金融科技學程', '永續能源學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS421&Crsname=管理資訊系統專案（二）,,,True,資管系,MIS421,4,不分班,"管理資訊系統專案（二）
+MANAGEMENT INFORMATION SYSTEMS PROJECT II",3,期,True,50,0,8,42,張德民,,"['A', '', '', '', '', 'A', 'A']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系四年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS422&Crsname=多媒體系統專案（二）,,,True,資管系,MIS422,4,不分班,"多媒體系統專案（二）
+MULTI-MEDIA SYSTEM PROJECT(II)",3,期,True,50,0,8,42,韓毅,,"['A', '', '', '', '', 'A', 'A']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系四年級",[],False

@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IGPE530&Crsname=高等教育統計學研究,,,False,教人全英碩,IGPE530,0,不分班,"高等教育統計學研究
+RESEARCH IN ADVANCED STATISTICS IN EDUCATION",3,期,False,20,0,1,19,鄭雯,社SS 3006,"['CDE', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IGPE533&Crsname=試題反應理論,,,False,教人全英碩,IGPE533,0,不分班,"試題反應理論
+ITEM RESPONSE THEORY",3,期,False,50,0,1,49,施慶麟,社SS 2004-3,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IGPE536&Crsname=教育測驗資料分析(以R軟體操作),異動,調整名額7/7,False,教人全英碩,IGPE536,0,不分班,"教育測驗資料分析(以R軟體操作)
+EDUCATIONAL MEASUREMENT DATA ANALYSIS USING R",3,期,False,3,0,1,2,陳威霖,社SS 2004-3,"['', '', 'CDE', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IGPE537&Crsname=學習分析,,,False,教人全英碩,IGPE537,0,不分班,"學習分析
+LEARNING ANALYTICS",3,期,False,50,0,1,49,艾玲,社SS 3006,"['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IGPE541&Crsname=變態心理學,異動,更換教室7/12,False,教人全英碩,IGPE541,0,不分班,"變態心理學
+ABNORMAL PSYCHOLOGY",3,期,False,50,1,9,41,馮雅群,社SS 2006,"['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IGPE543&Crsname=語言、文化及創造力研究,異動,更換時間及教室8/17,False,教人全英碩,IGPE543,0,不分班,"語言、文化及創造力研究
+RESEARCH INTERSECTING LANGUAGE, CULTURE, AND CREATIVITY",3,期,False,50,0,5,45,紀博善,社SS 2005,"['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IGPE545&Crsname=科技融入學習環境研究,,,False,教人全英碩,IGPE545,0,不分班,"科技融入學習環境研究
+CURRENT ISSUES IN TECHNOLOGY ENHANCED LEARNING ENVIRONMENTS",3,期,False,50,0,1,49,張宇慧,社SS 3006,"['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IGPE548&Crsname=對話、遊戲與創造力教育研究,異動,更換教室7/12,False,教人全英碩,IGPE548,0,不分班,"對話、遊戲與創造力教育研究
+DIALOGUE, PLAY AND CREATIVITY EDUCATION STUDIES",3,期,False,50,1,1,49,張至慶,社SS 2006,"['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISI507&Crsname=文化創新理論,,,False,社會創新所,ISI507,0,不分班,"文化創新理論
+THEORIES OF CULTURAL INNOVATION",3,期,False,30,0,7,23,楊士奇,西SW 1003,"['', '678', '', '', '', '', '']",《講授類》,"['地方敘事與創生學程', '地方敘事與文化設計微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISI512&Crsname=科技創新研究與實踐,,,False,社會創新所,ISI512,0,不分班,"科技創新研究與實踐
+RESEARCH AND PRACTICE IN TECHNOLOGICAL INNOVATION",3,期,False,30,0,5,25,楊士奇,西SW 1004,"['', '', '567', '', '', '', '']",《講授類》,"['地方敘事與文化設計微學程', '地方敘事與創生學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISI521&Crsname=創造力與團隊發展,,,False,社會創新所,ISI521,1,不分班,"創造力與團隊發展
+CREATIVITY AND TEAM DEVELOPMENT",3,期,True,30,0,11,19,游銘仁,西SW 1004,"['', '', '', '', '678', '', '']",《講授類》,['非營利事業及社會創新微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISI522&Crsname=全球與在地永續發展議題探討,,,False,社會創新所,ISI522,1,不分班,"全球與在地永續發展議題探討
+SUSTAINABLE DEVELOPMENT ISSUES IN THE CONTEXT OF GLOBALIZATION",3,期,True,30,0,12,18,"洪世謙,張楊家豪",西SW 1004,"['', '', '', '', '234', '', '']",《講授類》,"['地方創生與區域治理微學程', '公民參與微學程', '地方創生與永續發展整合學程', '生態想想微學程', 'STREAM永續發展培力微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISI621&Crsname=論文（一）,,,False,社會創新所,ISI621,2,不分班,"論文（一）
+THESIS（I）",3,期,True,30,0,8,22,"洪世謙,楊士奇,游銘仁",西SW 1004,"['', '234', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IBMS501&Crsname=創意生物醫學研究方法,異動,確認教師8/8,False,生醫碩,IBMS501,1,不分班,"創意生物醫學研究方法
+INNOVATIVE METHODS IN BIOMEDICINE RESEARCH",2,期,True,20,0,10,10,"鄭光宏,張榮賢,張玉泉,戴明泓,楊仁豪,莊博凱,薛佑玲,許晉銓",國IR 5001,"['34', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IBMS502&Crsname=蛋白質及核酸化學,,,False,生醫碩,IBMS502,0,不分班,"蛋白質及核酸化學
+PROTEIN AND NUCLEIC CHEMISTRY",3,期,False,20,0,6,14,張榮賢,國IR 5001,"['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IBMS503&Crsname=細胞生物學,,,False,生醫碩,IBMS503,0,不分班,"細胞生物學
+CELL BIOLOGY",3,期,False,20,0,6,14,許晉銓,國IR 5001,"['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IBMS508&Crsname=幹細胞生物學,,,False,生醫碩,IBMS508,0,不分班,"幹細胞生物學
+STEM CELL BIOLOGY",3,期,False,20,0,8,12,鄭光宏,國IR 5001,"['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IBMS509&Crsname=書報討論（一）,異動,更換主授教師7/7,False,生醫碩,IBMS509,1,不分班,"書報討論（一）
+SEMINAR(I)",1,期,True,20,0,9,11,"張榮賢,鄭光宏",國IR 5001,"['6', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IBMS510&Crsname=書報討論（三）,異動,確認合授教師8/8,False,生醫碩,IBMS510,2,不分班,"書報討論（三）
+SEMINAR (III)",1,期,True,20,0,11,9,"薛佑玲,楊仁豪",國IR 5004,"['6', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IBMS511&Crsname=巨分子生物學專題研究（一）,,,False,生醫碩,IBMS511,0,不分班,"巨分子生物學專題研究（一）
+INDEPENDENT STUDIES IN MACROMOLECULE BIOLOGY(I)",3,期,False,10,0,2,8,張榮賢,國IR 5001,"['', '', '', '', '678', '', '']",《獨立研究》,[],False

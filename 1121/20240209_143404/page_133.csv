@@ -1,0 +1,25 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPM520&Crsname=腫瘤精準治療專題研究（一）,異動,確認教師8/4,False,精準醫學碩,IPM520,0,,"腫瘤精準治療專題研究（一）
+INDEPENDENT STUDIES IN PRECISION MEDICINE IN ONCOLOGY (I)",3,期,False,50,0,2,48,莊博凱,國IR 6017-1,"['9CD', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM912&Crsname=組織行為,異動,修改限修條件8/25,False,人管碩專,HRM912,1,,"組織行為
+ORGANIZATIONAL BEHAVIOR",3,期,False,50,0,9,41,"王豫萱,陳以亨",管CM 3043,"['', '', '', '', '', '', '678']","《講授類》
+限人管所學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM953&Crsname=人力發展管理,異動,修正限修條件8/16,False,人管碩專,HRM953,1,,"人力發展管理
+HUMAN RESOURCE DEVELOPMENT MANAGEMENT",3,期,False,50,0,32,18,謝慧賢,管CM 1036,"['', '', '', '', '', '', 'A1B']","《講授類》
+限人管所學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRMA914&Crsname=人力資源研究方法（一）,,,False,人亞碩專,HRMA914,1,,"人力資源研究方法（一）
+RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT (I)",3,期,False,50,0,43,7,紀乃文,CM 3043,"['', '', '', '', '', 'CDE', '']","《講授類》
+限暑假已參與課程者修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR734&Crsname=海洋資源與生物科技專題,異動,更換教師8/7,False,海資博,MBR734,1,,"海洋資源與生物科技專題
+SPECIAL TOPICS ON MARINE RESOURCES AND BIOTECHNOLOGY",3,期,False,50,0,2,48,"林秀瑾,廖志中,廖睿妘,林梅芳,王亮鈞,翁靖如",海MB 3013,"['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS701&Crsname=政治學方法論,異動,更換時間及教室7/14,True,政治博,IPS701,1,,"政治學方法論
+METHODOLOGY OF POLITICAL SCIENCE",3,期,True,50,0,2,48,劉正山,社SS 3010-2,"['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS736&Crsname=全球管理體系與國際法原理,,,False,政治博,IPS736,0,,"全球管理體系與國際法原理
+GLOBAL GOVERNANCE AND PRINCIPLES OF INTERNATIONAL LAW",3,期,False,50,0,7,43,沈旭暉,社SS 3008,"['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS804&Crsname=政治學心理計量方法,,,False,政治博,IPS804,0,,"政治學心理計量方法
+PSYCHOMETRIC METHODS IN POLITICAL SCIENCE",3,期,False,50,0,3,47,張晉赫,社SS 3008,"['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['政經大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE732&Crsname=發展心理學研究,新增,8/1,False,教育博,IOE732,0,,"發展心理學研究
+RESEARCH IN DEVELOPMENTAL PSYCHOLOGY",3,期,False,50,0,4,46,宋宥賢,社SS 2004-3,"['', '678', '', '', '', '', '']","《講授類》
+碩士班、碩專班學生可選修",[],True

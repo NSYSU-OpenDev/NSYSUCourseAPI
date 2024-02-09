@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM501&Crsname=組織理論與管理,,,False,企企管碩,BM501,0,不分班,"組織理論與管理
+ORGANIZATIONAL THEORY & MANAGEMENT",3,期,False,50,0,43,7,林杏娥,管CM 4078,"['', '', '', '234', '', '', '']","《講授類》
+限甲班",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM501A&Crsname=組織理論與管理,,,False,企企管碩,BM501A,0,不分班,"組織理論與管理
+ORGANIZATIONAL THEORY & MANAGEMENT",3,期,False,50,0,19,31,林豪傑,管CM 4112,"['CDE', '', '', '', '', '', '']","《講授類》
+限乙班",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM503&Crsname=生產與作業管理,異動,修正限修條件說明8/28,False,企企管碩,BM503,0,不分班,"生產與作業管理
+PRODUCTIONS AND OPERATIONS MANAGEMENT",3,期,False,50,0,72,-22,黃鋒樟,管CM 4112,"['', 'CDE', '', '', '', '', '']","《講授類》
+限企管碩二以上選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM508&Crsname=管理統計學,異動,修正限修條件8/28,False,企企管碩,BM508,0,不分班,"管理統計學
+MANAGERIAL STATISTICS",3,期,False,50,1,55,-5,黃俊智,管CM 3051,"['', '', 'CDE', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限企管碩二以上選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM525&Crsname=財務報表分析,,,False,企企管碩,BM525,0,不分班,"財務報表分析
+FINANCIAL STATEMENTS ANALYSIS",3,期,False,50,0,13,37,黃北豪,管CM 3015,"['CDE', '', '', '', '', '', '']",《研討類》,"['科技創新與服務業管理學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM552&Crsname=證券市場分析,,,False,企企管碩,BM552,0,不分班,"證券市場分析
+SECURITIES MARKET ANALYSIS",3,期,False,50,0,19,31,陳安琳,管CM 1032,"['234', '', '', '', '', '', '']",《講授類》,['金融科技學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM601&Crsname=倫理與領導,,,False,企企管碩,BM601,2,甲班,"倫理與領導
+ETHICS AND LEADERSHIP",3,期,True,50,0,50,0,蔡宗霖,管CM 1037,"['CDE', '', '', '', '', '', '']","《講授類》
+企碩甲乙併班","['科技創新與服務業管理學程', '人力資源管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM601A&Crsname=倫理與領導,,,False,企企管碩,BM601A,2,乙班,"倫理與領導
+ETHICS AND LEADERSHIP",3,期,True,50,1,37,13,蔡宗霖,管CM 1037,"['CDE', '', '', '', '', '', '']","《講授類》
+企碩甲乙併班","['科技創新與服務業管理學程', '人力資源管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM646&Crsname=市場與法律,異動,更換教室8/30,False,企企管碩,BM646,0,不分班,"市場與法律
+MARKET AND LAW",3,期,False,50,2,11,39,李清潭,管CM 1023,"['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM652&Crsname=策略性品牌管理,異動,更換教室9/8,False,企企管碩,BM652,0,不分班,"策略性品牌管理
+STRATEGIC BRAND MANAGEMENT",3,期,False,70,1,72,-2,方至民,管CM 0052,"['', '', '', '', '', '234', '']",《講授類》,['行銷管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM653&Crsname=跨國企業經營管理,異動,更換教室9/8,False,企企管碩,BM653,0,不分班,"跨國企業經營管理
+MANAGEMENT IN A CROSS-CULTURAL ENVIRONMENT",3,期,False,50,2,72,-22,蔡宗霖,管CM 3015,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM655&Crsname=創意管理,,,False,企企管碩,BM655,0,不分班,"創意管理
+CREATIVE MANAGEMENT",3,期,False,50,4,17,33,楊碩英,管CM 3038,"['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM673&Crsname=企業分析與諮詢,異動,調整名額9/13,False,企企管碩,BM673,0,不分班,"企業分析與諮詢
+BUSINESS ANALYSIS AND CONSULTANCY",3,期,False,65,0,53,12,李清潭,管CM 3015,"['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM681&Crsname=平台商業模式,,,False,企企管碩,BM681,0,不分班,"平台商業模式
+ON BUSINESS PLATFORM",3,期,False,50,1,36,14,王致遠,管CM 1032,"['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM682&Crsname=設計思考,異動,更換教室9/8,False,企企管碩,BM682,0,不分班,"設計思考
+DESIGN THINKING",3,期,False,50,2,12,38,林杏娥,管CM 1032,"['', '', '567', '', '', '', '']",《講授類》,['生態想想微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BM691&Crsname=人工智慧工具應用,,,False,企企管碩,BM691,0,不分班,"人工智慧工具應用
+AI TOOLS FOR RESEARCH AND BUSINESS",3,期,False,50,2,17,33,王致遠,管CM 3022,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IHCM501&Crsname=醫療體系總論,異動,更換授課方式9/12,False,企醫管碩,IHCM501,1,不分班,"醫療體系總論
+TOPICS ON HEALTH CARE SYSTEMS",3,期,True,50,0,19,31,李英俊,管CM 3035,"['', 'CDE', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['醫務管理整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IHCM502&Crsname=醫療財務管理,異動,更換教室9/8,False,企醫管碩,IHCM502,1,不分班,"醫療財務管理
+HEALTH SERVICES FINANCIAL MANAGEMENT",3,期,False,75,0,63,12,黃北豪,管CM 1037,"['678', '', '', '', '', '', '']",《講授類》,"['醫務管理整合學程', '醫務管理整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IHCM504&Crsname=醫療統計學,異動,更換授課方式9/12,False,企醫管碩,IHCM504,1,不分班,"醫療統計學
+MEDICAL STATISTICS",3,期,True,50,0,17,33,李英俊,管CM 2023,"['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IHCM529&Crsname=流行病學,,,False,企醫管碩,IHCM529,1,不分班,"流行病學
+EPIDEMIOLOGY",3,期,False,50,0,4,46,黃俊智,管CM 3035,"['', '', '', '678', '', '', '']",《講授類》,[],False

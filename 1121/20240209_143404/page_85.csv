@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MOES546&Crsname=電子顯微鏡於軟物質研究之應用,異動,更換教室9/13,False,材光碩,MOES546,0,不分班,"電子顯微鏡於軟物質研究之應用
+ELECTRON MICROSCOPY FOR SOFT MATERIALS",3,期,False,50,0,46,4,蔣酉旺,工MS 4022,"['', 'CDE', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MOES547&Crsname=半導體元件,異動,更換教室8/31,False,材光碩,MOES547,0,不分班,"半導體元件
+SEMICONDUCTOR DEVICE",3,期,False,50,0,60,-10,蔡宗鳴,工MS 4022,"['', '', '', 'CDE', '', '', '']",《講授類》,"['半導體物理與先進元件分析微學程', '半導體設備工程學程', '半導體元件學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MOES555&Crsname=X光與電子能譜學,,,False,材光碩,MOES555,0,不分班,"X光與電子能譜學
+X-RAY AND ELECTRONIC ENERGY SPECTROSCOPY",3,期,False,50,0,4,46,呂德,工MS 2001,"['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MOES557&Crsname=材料光譜分析,,,False,材光碩,MOES557,0,不分班,"材料光譜分析
+SPECTROSCOPIC METHODS IN MATERIALS CHARACTERIZATION",3,期,False,50,0,16,34,徐瑞鴻,工MS 2004,"['', '', '234', '', '', '', '']",《講授類》,['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MOES561&Crsname=凝態理論,,,False,材光碩,MOES561,0,不分班,"凝態理論
+CONDENSED MATTER THEORY",3,期,False,50,0,20,30,林仕鑫,工MS 4023,"['', '', '', '', '123', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MOES571&Crsname=專題研究（一）,異動,確認教師9/12,False,材光碩,MOES571,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,18,32,"蔣酉旺,呂德,張六文,曼哈迪,杭大任,林仕鑫,蘇威宏,郭哲男,郭紹偉,陳致光,黃冠榮",,"['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MOES573&Crsname=專題研究（三）,異動,確認教師9/12,False,材光碩,MOES573,0,不分班,"專題研究（三）
+INDEPENDENT STUDIES(III)",3,期,False,50,0,10,40,"郭紹偉,曼哈迪,杭大任,林仕鑫,王致傑,蘇威宏,陳致光",,"['', '', '', '', '', '', '678']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MOES591&Crsname=材料化學,,,False,材光碩,MOES591,0,不分班,"材料化學
+MATERIALS CHEMISTRY",3,期,False,50,0,4,46,王映樵,工MS 4025,"['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MOES594&Crsname=工程英文寫作,,,False,材光碩,MOES594,0,不分班,"工程英文寫作
+ENGLISH TECHNICAL WRITING",3,期,False,50,1,14,36,邱政維,工MS 4023,"['', '', '', '', '567', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE503&Crsname=抗量子密碼學應用,,,False,資安碩,CSE503,0,不分班,"抗量子密碼學應用
+APPLICATIONS OF QUANTUM-RESISTANT CRYPTOGRAPHY",3,期,False,50,0,4,46,克拉迪,工EC 5000,"['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE506&Crsname=計算機結構,異動,更換教室8/8,False,資安碩,CSE506,1,不分班,"計算機結構
+COMPUTER ARCHITECTURES",3,期,True,50,0,1,49,陳坤志,工EC 9032,"['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE511&Crsname=演算法設計與分析,,,False,資安碩,CSE511,1,不分班,"演算法設計與分析
+ALGORITHM DESIGN AND ANALYSIS",3,期,True,50,0,2,48,楊昌彪,工EC 5012,"['', '234', '', '', '', '', '']",《講授類》,['金融科技學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE512&Crsname=密碼學,,,False,資安碩,CSE512,1,不分班,"密碼學
+CRYPTOGRAPHY",3,期,True,50,0,15,35,徐瑞壕,工EC 9014,"['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['軟體工程學程', '資通安全學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE516&Crsname=高等電腦網路,,,False,資安碩,CSE516,1,不分班,"高等電腦網路
+ADVANCED COMPUTER NETWORKS",3,期,True,50,0,8,42,林俊宏,工EC 5012,"['', '', '234', '', '', '', '']",《講授類》,['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE518&Crsname=數位簽章機制與應用,,,False,資安碩,CSE518,2,不分班,"數位簽章機制與應用
+DIGITAL SIGNATURE SCHEMES AND APPLICATIONS",3,期,True,50,0,19,31,范俊逸,工EC 1006,"['678', '', '', '', '', '', '']",《講授類》,['資通安全學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE519&Crsname=駭客攻防與電腦鑑識技術,,,False,資安碩,CSE519,2,不分班,"駭客攻防與電腦鑑識技術
+HACK TECHNOLOGY & COMPUTER FORENSIC",3,期,True,50,0,37,13,王智弘,工EC 1005,"['', '', '', '', '234', '', '']",《講授類》,['資通安全學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE521&Crsname=高等作業系統,,,False,資安碩,CSE521,1,不分班,"高等作業系統
+ADVANCED OPERATING SYSTEMS",3,期,True,50,0,6,44,王友群,工EC 9032,"['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE526&Crsname=書報討論（一）,,,False,資安碩,CSE526,1,不分班,"書報討論（一）
+SEMINAR I",1,期,True,50,0,18,32,王友群,工EC 2011,"['', '', '', '', '6', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE528&Crsname=書報討論（三）,,,False,資安碩,CSE528,2,不分班,"書報討論（三）
+SEMINAR III",1,期,True,50,0,17,33,王友群,工EC 2011,"['', '', '', '', '6', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE721&Crsname=資訊安全理論與實務,,,False,資安碩,CSE721,2,不分班,"資訊安全理論與實務
+INFORMATION SECURITY THEORY AND PRACTICE",3,期,True,50,0,15,35,徐瑞壕,工EC 9014,"['', '', '234', '', '', '', '']",《講授類》,['資通安全學程'],False

@@ -1,0 +1,50 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DCEM715&Crsname=細胞分子生物學,異動,更換時間9/11,False,臨床醫博學程,DCEM715,0,不分班,"細胞分子生物學
+MOLECULAR CELL BIOLOGY",3,期,False,50,0,1,49,楊仁豪,國IR 6017-1,"['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS121&Crsname=物理演示,,,False,物理系,PHYS121,1,全英班,"物理演示
+DEMONSTRATION OF PHYSICS",2,期,False,50,0,14,36,嚴祖強,理SC 2006,"['CD', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE102&Crsname=Ｃ程式設計實驗（一）,,,False,資工系,CSE102,1,,"Ｃ程式設計實驗（一）
+C COMPUTER PROGRAMMING LABORATORY（I）",1,期,True,100,0,101,-1,蔣依吾,"圖IL PC02, PC03","['', '', '', '567', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限本系學生修習",['機器學習與多媒體技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE201&Crsname=AI輔助程式設計,異動,更換教室8/15,False,資工系,CSE201,3,,"AI輔助程式設計
+PROGRAMMING WITH AI-ASSISTANCE TOOLS",3,期,False,57,0,54,3,希家史提夫,工EC 9013,"['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE325&Crsname=基礎訊號處理,,,False,資工系,CSE325,2,,"基礎訊號處理
+FUNDAMENTAL SIGNAL PROCESSING",3,期,False,50,2,35,15,郭可驥,工EC 1006,"['', '567', '', '', '', '', '']",《講授類》,"['自然科學之程式應用學程', '機器學習與應用微學程', '機器學習與多媒體技術學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE326&Crsname=人工智慧導論,異動,更換時間及教室8/1,False,資工系,CSE326,2,,"人工智慧導論
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE",3,期,False,50,0,77,-27,蔡崇煒,工EC 9032,"['', '678', '', '', '', '', '']",《講授類》,"['智慧製造聯網微學程', '科技創新與服務業管理學程', '機器學習與應用微學程', '機器學習與多媒體技術學程', '跨領域智慧製造學程', '永續能源學程', '製造與大數據分析微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE335&Crsname=無線行動網路,異動,更換教室9/12,False,資工系,CSE335,4,,"無線行動網路
+WIRELESS AND MOBILE NETWORKS",3,期,False,50,0,10,40,賴威光,工EC 5012,"['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE370&Crsname=軟體工程,異動,確認教師8/2,False,資工系,CSE370,4,,"軟體工程
+SOFTWARE ENGINEERING",3,期,False,50,0,4,46,柯拉飛,工EC 5025,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE375&Crsname=數位影像處理,異動,更換教室8/31,False,資工系,CSE375,2,,"數位影像處理
+DIGITAL IMAGE PROCESSING",3,期,False,65,0,54,11,柯正雯,工EC 5012,"['', '', '567', '', '', '', '']",《講授類》,"['自然科學之程式應用學程', '軟體工程學程', '機器學習與應用微學程', '機器學習與多媒體技術學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE385&Crsname=網路系統程式設計,,,False,資工系,CSE385,4,,"網路系統程式設計
+NETWORK SYSTEM PROGRAMMING",3,期,False,50,0,3,47,林俊宏,工EC 5007,"['', '678', '', '', '', '', '']",《講授類》,"['自然科學之程式應用學程', '金融科技學程', '永續能源學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE399&Crsname=機器學習導論,,,False,資工系,CSE399,3,,"機器學習導論
+INTRODUCTION TO MACHINE LEARNING",3,期,False,50,1,48,2,張雲南,工EC 5012,"['234', '', '', '', '', '', '']",《講授類》,"['人工智慧與數學學程', '機器學習與應用微學程', '機器學習與多媒體技術學程', '跨領域智慧製造學程', '永續能源學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE420&Crsname=資訊人與智慧財產權,,,False,資工系,CSE420,3,,"資訊人與智慧財產權
+INTELLECTUAL PROPERTY  AND INFORMATION SOCIETY",3,期,False,50,0,42,8,黃英哲,工EC 1005,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE425&Crsname=硬體描述語言,異動,更換教室9/8,False,資工系,CSE425,4,,"硬體描述語言
+HARDWARE DESCRIPTION LANGUAGES",3,期,False,50,0,9,41,蕭勝夫,工EC 1006,"['', '', '', '234', '', '', '']",《講授類》,['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE430&Crsname=網際網路資料庫,,,False,資工系,CSE430,4,,"網際網路資料庫
+INTERNET DATABASES",3,期,False,50,0,29,21,張玉盈,工EC 1005,"['', '', '', '678', '', '', '']",《講授類》,"['人工智慧與數學學程', '軟體工程學程', '金融科技學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE445&Crsname=無線網際網路,,,False,資工系,CSE445,3,,"無線網際網路
+WIRELESS INTERNET",3,期,False,50,0,62,-12,王友群,工EC 1006,"['', '', '567', '', '', '', '']",《講授類》,"['人工智慧與數學學程', '跨領域智慧製造學程', '製造與大數據分析微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS312&Crsname=行銷管理,,,True,資管系,MIS312,3,不分班,"行銷管理
+MARKETING MANAGEMENT",3,期,True,50,2,57,-7,陳偉慶,管CM 4069,"['', '234', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系","['音樂藝術管理與行銷學程', '科技創新與服務業管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS312&Crsname=行銷管理,,,True,資管系,MIS312,3,不分班,"行銷管理
+MARKETING MANAGEMENT",3,期,True,50,2,57,-7,陳偉慶,管CM 4069,"['', '234', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系","['音樂藝術管理與行銷學程', '科技創新與服務業管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS333&Crsname=物件導向程式設計,異動,更換教室8/4,False,資管系,MIS333,2,,"物件導向程式設計
+OBJECT-ORIENTED PROGRAMMING",3,期,False,50,0,13,37,薩尼,管CM 3051,"['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['軟體工程學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS333&Crsname=物件導向程式設計,異動,更換教室8/4,False,資管系,MIS333,2,,"物件導向程式設計
+OBJECT-ORIENTED PROGRAMMING",3,期,False,50,0,13,37,薩尼,管CM 3051,"['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['軟體工程學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=FM304&Crsname=成本會計學,異動,確認教師8/8,False,財管系,FM304,1,全英班,"成本會計學
+COST ACCOUNTING",3,期,False,50,0,23,27,陳俐聿,管CM 2025,"['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['會計學程', '金融工程學程']",False

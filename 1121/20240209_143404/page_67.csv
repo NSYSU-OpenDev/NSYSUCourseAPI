@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MUSI639&Crsname=管樂四（長笛）,,,False,音樂碩,MUSI639,0,不分班,"管樂四（長笛）
+WOODWIND I V(FLUTE)",2,期,False,50,0,1,49,林鴻君,,"['', '', '', '', '', '12', '']",《音樂類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MUSI644&Crsname=管樂室內樂（一）,,,False,音樂碩,MUSI644,0,不分班,"管樂室內樂（一）
+WIND CHAMBER MUSIC (I)",1,期,False,50,0,5,45,張瑞芝,文FA 5008,"['', '', '67', '', '', '', '']",《音樂類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MUSI648&Crsname=管樂團合奏（二）,,,False,音樂碩,MUSI648,0,不分班,"管樂團合奏（二）
+WIND BAND （II）",1,期,False,50,0,9,41,林鴻君,文FA 4031,"['', '9C', '', '', '', '', '']",《音樂類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MUSI650&Crsname=聲樂（三）,,,False,音樂碩,MUSI650,0,不分班,"聲樂（三）
+VOICE(III)",2,期,False,50,0,1,49,黃子珊,,"['', '', '', '', '', '12', '']",《音樂類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MUSI657&Crsname=聲樂專題研究（一）,新增,8/29,False,音樂碩,MUSI657,0,不分班,"聲樂專題研究（一）
+INDEPENDENT STUDIES IN VOICE(I)",1,期,False,50,0,1,49,馮悅情,,"['', '', '', '', '', '', 'C']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MUSI660&Crsname=擊樂 (四),,,False,音樂碩,MUSI660,0,不分班,"擊樂 (四)
+PERCUSSION (IV)",2,期,False,50,0,1,49,陸淯姿,,"['', '', '', '', '', '12', '']",《音樂類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MUSI674&Crsname=合唱文獻（一）,,,False,音樂碩,MUSI674,0,不分班,"合唱文獻（一）
+CHORAL LITERATURE (I)",2,期,False,50,0,5,45,翁佳芬,文FA 6011-1,"['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MUSI680&Crsname=作曲（三）,,,False,音樂碩,MUSI680,0,不分班,"作曲（三）
+COMPOSITION(III)",2,期,False,50,0,1,49,李思嫺,,"['', '', '', '', '', '12', '']",《音樂類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MUSI698&Crsname=音樂學術寫作技巧,,,False,音樂碩,MUSI698,0,不分班,"音樂學術寫作技巧
+ACADEMIC WRITING TECHNIQUES FOR MUSIC DISCOURSE",1,期,False,50,0,4,46,"黃子珊,翁佳芬,莊孟勳,陳鈺雯",,"['', '', '', '', '', 'B', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHIL501&Crsname=當代歐陸哲學,,,False,哲學碩,PHIL501,1,不分班,"當代歐陸哲學
+CONTEMPORARY CONTINENTAL PHILOSOPHY",3,期,True,50,0,8,42,宋灝,文LA 2009,"['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHIL511&Crsname=現象學,,,False,哲學碩,PHIL511,0,不分班,"現象學
+PHENOMENOLOGY",3,期,False,50,0,9,41,游淙祺,文LA 7001,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHIL513&Crsname=結構與解構,,,False,哲學碩,PHIL513,0,不分班,"結構與解構
+STRUCTURALISM AND DECONSTRUCTION",3,期,False,50,0,5,45,高長空,文LA 2009,"['', '', '234', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHIL547&Crsname=意識形態與歷史,,,False,哲學碩,PHIL547,0,不分班,"意識形態與歷史
+IDEOLOGY AND HISTORY",3,期,False,50,0,7,43,洪世謙,文LA 7001,"['', '', '', '234', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHIL548&Crsname=佛教與哲學問題,,,False,哲學碩,PHIL548,0,不分班,"佛教與哲學問題
+BUDDHIST PHILOSOPHY",3,期,False,50,0,4,46,越建東,文LA 2009,"['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHIL555&Crsname=現象學與生活世界,,,False,哲學碩,PHIL555,0,不分班,"現象學與生活世界
+PHENOMENOLOGY AND LIFE-WORLD",3,期,False,50,0,4,46,戴遠雄,文LA 2009,"['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHIL559&Crsname=海德格晚期哲學,,,False,哲學碩,PHIL559,0,不分班,"海德格晚期哲學
+THE LATER PHILOSOPHY OF HEIDEGGER",3,期,False,50,0,9,41,宋灝,文LA 2009,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHIL566&Crsname=巴塔耶哲學,,,False,哲學碩,PHIL566,0,不分班,"巴塔耶哲學
+THE PHILOSOPHY OF GEORGE BATAILLE",3,期,False,50,0,7,43,楊婉儀,文LA 2009,"['', '', '', '678', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHIL601&Crsname=當代德語哲學與美學專題,,,False,哲學碩,PHIL601,0,不分班,"當代德語哲學與美學專題
+INDEPENDENT STUDIES IN CONTEMPORARY GERMAN PHILOSOPHY AND AESTHETICS",2,期,False,50,0,2,48,宋灝,文LA 2008,"['', '', '34', '', '', '', '']","《獨立研究》
+『本課程之限修，於加退選2階段開放選修』。限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHIL602&Crsname=當代法語哲學與美學專題,,,False,哲學碩,PHIL602,0,不分班,"當代法語哲學與美學專題
+INDEPENDENT STUDIES IN CONTEMPORARY FRENCH PHILOSOPHY AND AESTHETICS",2,期,False,50,0,2,48,楊婉儀,文LA 2008,"['', '', '12', '', '', '', '']","《獨立研究》
+『本課程之限修，於加退選2階段開放選修』。僅限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHIL605&Crsname=解構的世界圖像與實踐專題,異動,更換教室8/15,False,哲學碩,PHIL605,0,不分班,"解構的世界圖像與實踐專題
+INDEPENDENT STUDIES IN DECONSTRUCTION OF WORLD IMAGE AND PRAXIS",2,期,False,50,0,1,49,洪世謙,文LA 3018,"['', '', '34', '', '', '', '']","《獨立研究》
+『本課程之限修，於加退選2階段開放選修』。僅限哲學所學生",[],False

@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM127&Crsname=人類免疫學導論,異動,調整部份時間8/16,False,後醫學系,DPBM127,1,不分班,"人類免疫學導論
+INTRODUCTION TO HUMAN IMMUNOLOGY",1,期,True,50,0,23,27,陳彥樺,,"['', '12', '12', '1234', '2', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM128&Crsname=醫用微生物學導論,,,False,後醫學系,DPBM128,1,不分班,"醫用微生物學導論
+INTRODUCTION TO MEDICAL MICROBIOLOGY",2,期,True,50,0,23,27,"王文宏,劉勃佑",,"['1234', '56', '56', '56', '12567', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM129&Crsname=宿主感染、免疫與血液基礎醫學,異動,修正時間及教師9/6,False,後醫學系,DPBM129,1,不分班,"宿主感染、免疫與血液基礎醫學
+THE BASIC MEDICAL SCIENCE OF HOST INFECTION, IMMUNITY AND BLOOD",1.5,期,True,50,0,23,27,"李哲欣,廖嘉賓,李容婷,柯瓊媛,趙敏吾,陳彥樺",,"['', '234', '1234', '123478', '3467', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM130&Crsname=宿主感染、免疫與血液臨床醫學,異動,修正時間及教師9/6,False,後醫學系,DPBM130,1,不分班,"宿主感染、免疫與血液臨床醫學
+CLINICAL MEDICINE OF HOST INFECTION, IMMUNITY AND BLOOD",2,期,True,50,0,23,27,"李欣蓉,劉文忠,吳冠陞,呂聆音,周稚偵,曾瑞成,朱國安,李恒昇,林世哲,林峻宇,林錫勳,楊文祺,洪英中,王立峰,翁雅為,蔡宏津,陳彥旭,陳瑞光,顏伶容",,"['1234', '5678', '13467', '2346', '234567', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM131&Crsname=醫學心理學,異動,調整部份時間8/16,False,後醫學系,DPBM131,1,不分班,"醫學心理學
+MEDICAL PSYCHOLOGY",1,期,True,50,0,23,27,馮雅群,,"['', '', '567', '567', '567', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM132&Crsname=人文藝術與生命哲學（一）,,,False,後醫學系,DPBM132,1,不分班,"人文藝術與生命哲學（一）
+MEDICAL HUMANITIES AND LIFE PHILOSOPHY (I)",1,期,True,50,0,23,27,"賴錫三,李祁芳,莫加南,陳鈺雯",,"['1', '9', '1', '19', '1', '', '']","《演講/參訪》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM133&Crsname=溝通與專業素養（一）,異動,確認時間6/27,False,後醫學系,DPBM133,1,不分班,"溝通與專業素養（一）
+COMMUNICATION AND PROFESSIONALISM (I)",0.5,期,True,50,0,23,27,陳德全,,"['234678', '', '', '', '', '', '']","《醫學類》
+限後醫系學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM201&Crsname=心血管與呼吸,異動,確認教師8/16,False,後醫學系,DPBM201,2,不分班,"心血管與呼吸
+CARDIOVASCULAR AND RESPIRATORY",12,期,True,50,0,23,27,"王文宏,劉勃佑,廖以莊,施志遠,朱彰堯,李威杰,李容婷,李昇翰,柯瓊媛,柯翠玲,甘祐瑜,蔣士仁,趙敏吾,鄭舒帆,鄭雅勻,陳亮傑,陳彥旭,陳彥樺",,"['123456789', '123456789', '123456', '1234567', '12345678', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM202&Crsname=腸胃肝與腎泌尿,異動,調整合授教師9/7,False,後醫學系,DPBM202,2,不分班,"腸胃肝與腎泌尿
+GASTROINTESTINAL, HEPATOBILIARY AND KIDNEY AND URETERAL",6.5,期,True,50,0,23,27,"劉勃佑,余明隆,劉婷婷,呂穎怡,李容婷,李昇翰,李欣蓉,柯瓊媛,柯翠玲,沈元琦,王弘仁,王文宏,甘祐瑜,蔡明釗,鄭雅勻,陳亮傑,陳建旭,陳彥旭,陳彥樺,陳志弘",,"['12345678', '2345678', '234', '12345678', '234678', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM203&Crsname=醫學資訊、實證醫學與研究（一）,異動,調整部份時間8/16,False,後醫學系,DPBM203,2,不分班,"醫學資訊、實證醫學與研究（一）
+MEDICAL INFORMATION, EVIDENCE-BASED MEDICINE &RESEARCH(I)",1,期,True,50,0,23,27,刁茂盟,,"['', '', '', '678', '678', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM204&Crsname=臨床技能（二）,,,False,後醫學系,DPBM204,2,不分班,"臨床技能（二）
+MEDICAL SKILL TRAINING PROGRAM(II)",1,期,True,50,0,23,27,王慧婷,,"['2345678', '5678', '', '23', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DPBM205&Crsname=溝通與專業素養（三）,異動,確認時間6/27,False,後醫學系,DPBM205,2,不分班,"溝通與專業素養（三）
+COMMUNICATION AND PROFESSIONALISM(III)",1,期,True,50,0,23,27,陳德全,,"['', '234678', '', '', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MED101&Crsname=基礎生物學,異動,調整名額8/16,False,醫學院,MED101,0,不分班,"基礎生物學
+BASIC CONCEPTS OF BIOLOGY",2,期,False,5,3,5,0,"張玉泉,薛佑玲,鄭光宏",通GE 1010,"['', '', '', '89', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MED122&Crsname=共病時代-談人類與動物共通傳染病,異動,調整名額8/16,False,醫學院,MED122,0,不分班,"共病時代-談人類與動物共通傳染病
+DISCUSSING ZOONOTIC DISEASES IN HUMANS AND ANIMALS",3,期,False,15,1,14,1,王文宏,醫IL 9012,"['', '234', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MED123&Crsname=疾病瘟疫與文明,異動,調整名額8/16,False,醫學院,MED123,0,不分班,"疾病瘟疫與文明
+DISEASE, PLAGUE, AND CIVILIZATION",3,期,False,15,4,14,1,王文宏,醫IL 9012,"['', '', '', '234', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限大學部學生修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MED124&Crsname=微生物與癌症,異動,調整名額8/16,False,醫學院,MED124,0,不分班,"微生物與癌症
+CANCER MICROBIOLOGY",2,期,False,15,6,15,0,王文宏,醫IL 9012,"['56', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限大學部學生修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MED126&Crsname=危老年代,異動,8/16,False,醫學院,MED126,0,不分班,"危老年代
+AGING AND HEALTH",2,期,False,15,1,5,10,李昇翰,醫IL 9012,"['', '', '34', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限大學部學生修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MED127&Crsname=危險同居「人」：漫談居家有害生物,異動,調整名額8/16,False,醫學院,MED127,0,不分班,"危險同居「人」：漫談居家有害生物
+PESTS IN HOUSEHOLD ENVIRONMENT",3,期,False,15,2,13,2,李昇翰,醫IL 9010,"['567', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限大學部學生修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MED128&Crsname=環境與人類健康,異動,調整名額8/16,False,醫學院,MED128,0,不分班,"環境與人類健康
+ENVIRONMENT AND HUMAN HEALTH",2,期,False,15,0,4,11,李昇翰,醫IL 9012,"['', '', '', '', '56', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限大學部學生修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MED129&Crsname=基礎外傷急救,異動,確認教師及名額8/8,False,醫學院,MED129,0,不分班,"基礎外傷急救
+BASICS OF TRAUMA CARE",2,期,False,20,3,20,0,蔡坤璋,醫IL 9010,"['89', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。",['全民國防微學程'],False

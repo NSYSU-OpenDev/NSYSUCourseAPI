@@ -1,0 +1,50 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO539&Crsname=海洋生物生理學,,,False,海科碩,DO539,0,不分班,"海洋生物生理學
+PHYSIOLOGY OF MARINE ORGANISMS",3,期,False,50,0,7,43,王志騰,海MA 1005,"['', '', '', '678', '', '', '']","《講授類》
+與DO315併班上課。",['海洋生物資源開發學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO545&Crsname=分子細胞生物學,,,False,海科碩,DO545,0,不分班,"分子細胞生物學
+MOLECULAR CELL BIOLOGY",3,期,False,50,0,1,49,陳慶能,海MA 2009,"['', '', '', '', '234', '', '']","《講授類》
+與DO416併班上課。
+※英語授課",['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO562&Crsname=高等海洋地質學,,,False,海科碩,DO562,0,不分班,"高等海洋地質學
+ADVANCED MARINE GEOLOGY",3,期,False,50,0,3,47,林慧玲,海MA 2042,"['', '234', '', '', '', '', '']",《講授類》,['環境科技與管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO563&Crsname=海洋沉積物分析,異動,確認教室8/16,False,海科碩,DO563,0,不分班,"海洋沉積物分析
+ANALYSES OF MARINE SEDIMENTS",2,期,False,50,0,3,47,林慧玲,海MA 2009,"['', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO574&Crsname=海洋汙染,,,False,海科碩,DO574,0,不分班,"海洋汙染
+MARINE POLLUTION",3,期,False,50,0,4,46,雷漢杰,海MA 2022,"['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO602&Crsname=海岸地質學,異動,確認教師8/3,False,海科碩,DO602,0,不分班,"海岸地質學
+COASTAL  GEOLOGY",3,期,False,50,0,1,49,楊仁凱,海MA 3040,"['', '', '', '234', '', '', '']","《講授類》
+與DO334併班上課。",['看見臺灣海岸微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO615&Crsname=海洋重金屬生地化學,,,False,海科碩,DO615,0,不分班,"海洋重金屬生地化學
+BIOGEOCHEMISTRY OF TRACE METALS IN THE OCEAN",3,期,False,50,0,1,49,簡國童,海MA 3040,"['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO643&Crsname=動力海洋學,異動,更換時間9/6,False,海科碩,DO643,0,不分班,"動力海洋學
+DYNAMICAL OCEANOGRAPHY",2,期,False,50,1,13,37,方盈智,海MA 1005,"['', '', 'CD', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO647&Crsname=現場觀測與資料分析,,,False,海科碩,DO647,0,不分班,"現場觀測與資料分析
+FIELD OBSERVATIONS AND DATA ANALYSIS",3,期,False,50,0,3,47,李逸環,海MA 2042,"['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO664&Crsname=野外實驗方法,,,False,海科碩,DO664,0,不分班,"野外實驗方法
+FIELD EXPERIMENTAL APPROACHES",2,期,False,6,1,8,-2,塗子萱,海MA 2022,"['', '', '', '', '34', '', '']","《講授類》
+限有參與東沙環礁實地訓練者選修。暑假期間在東沙上課，受限機位、空間因素，限修人數為6人",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO667&Crsname=海洋生物專題研究（一）,,,True,海科碩,DO667,1,不分班,"海洋生物專題研究（一）
+INDEPENDENT STUDIES IN MARINE BIOLOGY（I）",3,期,True,50,0,17,33,"廖德裕,劉莉蓮,塗子萱,托星豪,熊寶兒,王志騰,陳孟仙,陳慶能",,"['', '', 'CDE', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO673&Crsname=海洋地質及生地化學專題研究（三）,,,False,海科碩,DO673,0,不分班,"海洋地質及生地化學專題研究（三）
+INDEPENDENT STUDIES IN MARINE GEOLOGY AND BIOGEOCHEMISTRY (III)",3,期,False,50,0,4,46,"黃蔚人,張詠斌,慕樂凡,林慧玲,林玉詩,簡國童,雷漢杰",,"['', '', '', '', 'CDE', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO677&Crsname=物理海洋專題研究（三）,,,False,海科碩,DO677,0,不分班,"物理海洋專題研究（三）
+INDEPENDENT STUDIES IN PHYSICAL OCEANOGRAPHY (III)",3,期,False,50,0,4,46,"陳冠宇,方盈智,李逸環",,"['', '', '', 'CDE', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO684&Crsname=海洋生物專題討論（一）,,,True,海科碩,DO684,1,不分班,"海洋生物專題討論（一）
+SEMINAR IN MARINE BIOLOGY (I)",1,期,True,50,0,11,39,劉莉蓮,海MA 2016,"['', '', '6', '', '', '', '']","《研討類》
+與DO754併班上課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO686&Crsname=海洋生物專題討論（三）,,,False,海科碩,DO686,0,不分班,"海洋生物專題討論（三）
+SEMINAR IN MARINE BIOLOGY (III)",1,期,False,50,0,10,40,陳孟仙,海MA 2016,"['', '', '7', '', '', '', '']","《研討類》
+1.選修此課程須先修過DO684海洋生物專題討論(一)。　2.與DO756併班上課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO692&Crsname=物理海洋專題討論（一）,,,False,海科碩,DO692,0,不分班,"物理海洋專題討論（一）
+SEMINAR IN PHYSICAL OCEANOGRAPHY (I)",1,期,False,50,0,3,47,方盈智,,"['', '', '6', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO694&Crsname=物理海洋專題討論（三）,,,False,海科碩,DO694,0,不分班,"物理海洋專題討論（三）
+SEMINAR IN PHYSICAL OCEANOGRAPHY (III)",1,期,False,50,0,2,48,李逸環,,"['', '', '7', '', '', '', '']","《獨立研究》
+選修此課程須先修過DO692物理海洋專題討論(一)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO696&Crsname=高等物理海洋學（一）,,,False,海科碩,DO696,0,不分班,"高等物理海洋學（一）
+ADVANCED PHYSICAL OCEANOGRAPHY (I)",2,期,False,50,0,2,48,陳冠宇,海MA 2042,"['', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO701&Crsname=進階科學英文,,,False,海科碩,DO701,0,不分班,"進階科學英文
+ADVANCED SCIENTIFIC ENGLISH",3,期,False,50,0,4,46,慕樂凡,海MA 2042,"['', '678', '', '', '', '', '']","《講授類》
+1.與DO405併班上課。2.TOEIC above 600 or equivalent",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO711&Crsname=珊瑚礁生物學,,,False,海科碩,DO711,0,不分班,"珊瑚礁生物學
+BIOLOGY OF CORAL REEFS",2,期,False,50,0,1,49,王志騰,海MA 2022,"['', '', '', '', '67', '', '']",《講授類》,[],False

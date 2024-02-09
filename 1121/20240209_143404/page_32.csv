@@ -1,0 +1,56 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA366&Crsname=音樂劇表演與製作（一）,,,False,劇藝系,TA366,2,不分班,"音樂劇表演與製作（一）
+ACTING AND PRODUCTION FOR MUSICAL（Ｉ）",3,期,False,50,0,23,27,林宜誠,文FA 2019,"['567', '', '', '', '', '', '']",《展演》,['音樂劇學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA370&Crsname=排演（八）,,,False,劇藝系,TA370,3,不分班,"排演（八）
+REHEARSAL(Ⅷ)",3,期,False,50,2,11,39,"楊士平,吳怡瑱,鍾宜泰",文FA 2019,"['', 'CDE', '', '', '', '', '']","《展演》
+限年度製作劇組助理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA371&Crsname=舞臺設計（三）,,,False,劇藝系,TA371,3,不分班,"舞臺設計（三）
+STAGE DESIGN (III)",3,期,False,50,0,10,40,吳怡瑱,文FA 2016,"['', '', '567', '', '', '', '']","《展演》
+限修畢舞臺設計二",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA373&Crsname=服裝造型與構成（一）,,,False,劇藝系,TA373,2,不分班,"服裝造型與構成（一）
+CLOTHES PATTERN DESIGN AND PRACTICE(I)",3,期,False,20,0,16,4,劉美蓮,文FA 2016,"['567', '', '', '', '', '', '']","《講授類》
+限修畢劇場技術基礎",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA403&Crsname=畢業製作（一）,異動,確認合授教師8/7,False,劇藝系,TA403,4,不分班,"畢業製作（一）
+GRADUATION PRODUCTION (Ⅰ)",3,期,True,50,0,41,9,"林宜誠,吳怡瑱,王品惠","文FA 3012, 2019","['', '', '', '89C', '', '', '']","《展演》
+限本系，應符合畢業製作施行細則",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA432&Crsname=中西戲劇比較,異動,確認教師8/7,False,劇藝系,TA432,4,不分班,"中西戲劇比較
+CHINESE-WESTERN COMPARATIVE DRAMA",2,期,False,50,0,14,36,康尹貞,文FA 3009,"['', '67', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['國際漢學微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA473&Crsname=舞臺技術,,,False,劇藝系,TA473,3,不分班,"舞臺技術
+THEATER TECHNOLOGY",2,期,False,50,0,5,45,李怡賡,文FA 1014,"['', '', '', '', '34', '', '']","《講授類》
+限修畢劇場設計導論",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA474&Crsname=燈光設計專題研討,,,False,劇藝系,TA474,4,不分班,"燈光設計專題研討
+SEMINAR IN LIGHTING DESIGN",3,期,False,50,0,5,45,鍾宜泰,"文FA 3009, 2019","['', '234', '', '', '', '', '']","《研討類》
+限修畢燈光設計及技術",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA494&Crsname=戲劇治療與PBT設計,,,False,劇藝系,TA494,4,不分班,"戲劇治療與PBT設計
+DRAMA THERAPY AND PBT DESIGN",3,期,False,50,0,11,39,梁翠梅,,"['234567', '234567', '234567', '234567', '234567', '', '']","《講授類》
+暑假集中先修",['表達性藝術治療學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=LIBA106&Crsname=正念覺照的生命實踐與教育,,,False,文學院,LIBA106,0,不分班,"正念覺照的生命實踐與教育
+MINDFULNESS AND LIFE EDUCATION",3,期,False,15,0,12,3,越建東,文LA 8006,"['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=LIBA122&Crsname=跨文化人文思潮與美學導論,異動,更換授課方式8/7,False,文學院,LIBA122,0,不分班,"跨文化人文思潮與美學導論
+INTRODUCTION TO CROSS-CULTURAL STUDIES AND AESTHETICS",3,期,False,30,0,22,8,陳宏星,文LA 1001,"['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課","['跨文化人文思潮與美學微學程', '台灣閩南語文書寫應用與創作微學程', '創作性戲劇與社群教育微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=LIBA124&Crsname=表演藝術走入城市生活（一）,異動,更換授課方式8/7,False,文學院,LIBA124,0,不分班,"表演藝術走入城市生活（一）
+THEATRE AND PERFORMAN CE ART INTO URBAN LIFE(I)",3,期,False,15,0,4,11,何怡璉,文FA 2018,"['', '', '567', '', '', '', '']","《展演》
+ 
+※英語授課",['創作性戲劇與社群教育微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=LIBA126&Crsname=台灣閩南語敘事工坊（一）,,,False,文學院,LIBA126,0,不分班,"台灣閩南語敘事工坊（一）
+NARRATIVE WORKSHOP OF TAIWANESE SOUTHERN MIN (I)",3,期,False,30,1,7,23,杜佳倫,文LA 1001,"['', '', '', '567', '', '', '']",《講授類》,['台灣閩南語文書寫應用與創作微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=LIBA137&Crsname=電影創作與程式邏輯思維,異動,修正限修條件8/29,False,文學院,LIBA137,0,不分班,"電影創作與程式邏輯思維
+FILM CREATION AND PROGRAM LOGIC THINKING",3,期,False,30,1,9,21,陳俊宏,圖IL PC01,"['', '', '', '567', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限非應數、電機、機電、資工、材光、光電、資管、海工系學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=LIBA143&Crsname=基礎程式設計應用,異動,修正限修條件8/29,False,文學院,LIBA143,0,不分班,"基礎程式設計應用
+APPLICATION OF BASIC PROGRAMMING",3,期,False,30,1,22,8,溫嘉榮,圖IL PC03,"['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限非應數、電機、機電、資工、材光、光電、資管、海工系學生修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=LIBA252&Crsname=西洋哲學史,,,False,文學院,LIBA252,0,不分班,"西洋哲學史
+HISTORY OF WESTERN PHILOSOPHY",3,期,False,30,2,14,16,戴遠雄,文LA 1003,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=LIBA252A&Crsname=西洋哲學史,,,False,文學院,LIBA252A,0,不分班,"西洋哲學史
+HISTORY OF WESTERN PHILOSOPHY",3,期,False,30,1,10,20,高長空,文LA 1003,"['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BIOS101&Crsname=普通化學,異動,更換教師7/6,False,生科系,BIOS101,1,不分班,"普通化學
+GENERAL CHEMISTRY",3,期,True,50,0,39,11,丁尚武,海MA 3020,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BIOS101A&Crsname=普通化學,異動,確認教師8/7,False,生科系,BIOS101A,1,全英班,"普通化學
+GENERAL CHEMISTRY",3,年,True,50,0,24,26,克里斯那,海MB 2015,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BIOS102&Crsname=普通化學實驗,,,False,生科系,BIOS102,1,不分班,"普通化學實驗
+GENERAL CHEMISTRY LABORATORY",1,期,True,50,0,35,15,蔡明利,理SC 4019,"['234', '', '', '', '', '', '']",《實驗類》,[],False

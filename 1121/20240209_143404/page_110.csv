@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PEC661&Crsname=工廠管理,異動,調整名額8/18,False,零組件研究所,PEC661,1,不分班,"工廠管理
+FACTORY MANAGEMENT",3,期,False,15,2,16,-1,李英杰,國IR 6002K,"['567', '', '', '', '', '', '']","《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PEC666&Crsname=LTCC製程實現LC諧振電路簡介,,,True,零組件研究所,PEC666,2,不分班,"LTCC製程實現LC諧振電路簡介
+INTERNSHIP IN INTRODUCTION OF LC RESONANCE CIRCUIT BY LTCC PROCESS",3,期,True,19,0,19,0,李俊德,國巨廠區,"['', '', '', '1234', '', '', '']","《企業實習》
+限精密電子零組件研究所-被動元件組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PEC667&Crsname=MLCC 製程概要與實習（一）,,,True,零組件研究所,PEC667,2,不分班,"MLCC 製程概要與實習（一）
+INTERNSHIP IN INTRODUCTION OF MLCC MANUFACTURE PROCESS - PART 1",3,期,True,19,0,19,0,李俊德,國巨廠區,"['', '', '', '5678', '', '', '']","《企業實習》
+限精密電子零組件研究所-被動元件組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PEC670&Crsname=微機電元件與技術專題,異動,調整名額8/18,False,零組件研究所,PEC670,1,不分班,"微機電元件與技術專題
+SELECTED TOPICS ON MEMS DEVICES AND TECHNOLOGY",3,期,False,15,0,3,12,黃瑞星,國IR 6002K,"['', '', '', '567', '', '', '']","《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PEC673&Crsname=高分子加工實作,異動,更換教室9/5,True,零組件研究所,PEC673,2,不分班,"高分子加工實作
+INTERNSHIP IN POLYMER PROCESSING IMPLEMENTATION (POLYMER PHYSICS& CHEMISTRY)",3,期,True,20,0,19,1,蔣酉旺,國IR 6002K,"['', '1234', '', '', '', '', '']","《企業實習》
+限精密電子零組件研究所-電子零組件及設備組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PEC674&Crsname=品質工程與可靠度工程實習,,,True,零組件研究所,PEC674,2,不分班,"品質工程與可靠度工程實習
+INTERNSHIP IN QUALITY ENGINEERING AND RELIABILITY ENGINEERING",3,期,True,20,0,19,1,林震,國IR 6002J,"['', '5678', '', '', '', '', '']","《企業實習》
+限精密電子零組件研究所-電子零組件及設備組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PEC696&Crsname=專題技術報告（一）,,,False,零組件研究所,PEC696,2,不分班,"專題技術報告（一）
+SPECIAL TOPICS & TECHNICAL REPORTS IN PRECISION ELECTRONIC COMPONENTS (I)",0,期,False,39,0,38,1,"李英杰,鍾秀瑩",教授研究室,"['', '', '', '', '678', '', '']","《獨立研究》
+限精密電子零組件研究所學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISM520&Crsname=半導體元件與物理,異動,更換教室7/18,False,半導體製造碩,ISM520,1,不分班,"半導體元件與物理
+SEMICONDUCTOR DEVICES AND PHYSICS",3,期,True,25,0,24,1,馬誠佑,工EC 3010,"['', '678', '', '', '', '', '']","《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISM540&Crsname=半導體工程師必備知識,,,False,半導體製造碩,ISM540,1,不分班,"半導體工程師必備知識
+ESSENTIAL KNOWLEDGE FOR SEMICONDUCTOR ENGINEERS",3,期,False,12,1,4,8,黃瑞星,國IR 1001,"['', '', '234', '', '', '', '']","《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISM545&Crsname=人工智慧理論與應用,異動,更換教室8/28,False,半導體製造碩,ISM545,1,不分班,"人工智慧理論與應用
+ARTIFICIAL INTELLIGENCE THEORY AND APPLICATIONS",3,期,False,12,0,12,0,蔡崇煒,工EC 1006,"['', '', '', '678', '', '', '']","《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISM548&Crsname=電腦輔助材料力學分析,異動,更換時間及教室9/6,False,半導體製造碩,ISM548,1,不分班,"電腦輔助材料力學分析
+MECHANICS OF MATERIALS USING SOLIDWORKS SIMULATION",3,期,False,12,3,11,1,林裕城,圖IL PC02,"['234', '', '', '', '', '', '']","《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISM560&Crsname=光電半導體科技,,,False,半導體製造碩,ISM560,1,不分班,"光電半導體科技
+OPTOELECTRONICS SEMICONDUCTOR TECHNOLOGY",3,期,False,12,0,18,-6,洪勇智,國IR 6002J,"['', '234', '', '', '', '', '']","《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISM565&Crsname=半導體薄膜工程,,,False,半導體製造碩,ISM565,1,不分班,"半導體薄膜工程
+THIN-FILM TECHNOLOGY OF SEMICONDUCTOR",3,期,False,12,0,16,-4,莊豐任,國IR 6002J,"['', '', '567', '', '', '', '']","《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISM570&Crsname=微系統製程技術,異動,更換教室9/6,False,半導體製造碩,ISM570,1,不分班,"微系統製程技術
+MICROSYSTEM TECHNOLOGIES",3,期,False,12,0,13,-1,謝佳旭,國IR 6002J,"['', '', '', '', '234', '', '']","《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=ISM575&Crsname=先進半導體科技,異動,確認教師7/26,False,半導體製造碩,ISM575,1,不分班,"先進半導體科技
+ADVANCED SEMICONDUCTOR TECHNOLOGY",3,期,False,12,2,14,-2,謝佳旭,國IR 6002J,"['', '', '234', '', '', '', '']","《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=SBF504&Crsname=全球資產管理業務趨勢與營運模式創新,,,False,國際資產所,SBF504,1,不分班,"全球資產管理業務趨勢與營運模式創新
+GLOBAL WEALTH MANAGEMENT: TRENDS & NEW BUSINESS MODEL",3,期,True,50,0,22,28,艾西亞,,"['', '', '', '', '', '567', '']","《講授類》
+本課程限國際金融研究學院學生加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=SBF505&Crsname=資產管理業務風險解析與管理實務,異動,取消合授7/26,False,國際資產所,SBF505,1,不分班,"資產管理業務風險解析與管理實務
+WEALTH MANAGEMENT: OPERATION & RISK MANAGEMENT",3,期,True,50,0,22,28,彭聰敏,,"['', '', '', '', '678', '', '']","《講授類》
+本課程限國際金融研究學院學生加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=SBF506&Crsname=國際金融監理變革趨勢與研討,異動,調整部份時間6/28,False,國際資產所,SBF506,1,不分班,"國際金融監理變革趨勢與研討
+EVOLUTION OF FINANCIAL REGULATION & SUPERVISION: AN INTERNATIONAL PERSPECTIVE",2,期,True,50,0,22,28,饒永華,,"['', '', '', '', '34B', '', '']","《講授類》
+本課程限國際金融研究學院學生加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=SBF507&Crsname=創新商業模式實作（二）,,,False,國際資產所,SBF507,1,不分班,"創新商業模式實作（二）
+INDEPENDENT STUDIES IN INNOVATIVE BUSINESS MODELS-2",1,期,True,50,0,22,28,王昭文,,"['', '', '', '', '9', '', '']","《獨立研究》
+本課程限國際金融研究學院學生加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=SBF509&Crsname=高資產客戶投資理財實務分享,新增,8/3,False,國際資產所,SBF509,1,不分班,"高資產客戶投資理財實務分享
+CASE STUDY OF HNW INVESTMENT MANAGEMENT",2,期,False,50,0,22,28,賈安霈,,"['', '', '', '', '', '23', '']","《講授類》
+本課程限國際金融研究學院學生加選",[],True

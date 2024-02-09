@@ -1,0 +1,52 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EMPP930&Crsname=國家政策專題講座,,,False,EMPP碩專,EMPP930,1,不分班,"國家政策專題講座
+LECTURES ON NATIONAL POLICY",1,期,True,50,0,13,37,李予綱,社SS 4001,"['', '', '', '', '', '8', '']","《研討類》
+限EMPP碩專班學生修課；一二年級併班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EMPP930A&Crsname=國家政策專題講座,,,False,EMPP碩專,EMPP930A,2,不分班,"國家政策專題講座
+LECTURES ON NATIONAL POLICY",1,期,True,50,0,5,45,李予綱,社SS 4001,"['', '', '', '', '', '8', '']","《研討類》
+限EMPP碩專班學生修課；一二年級併班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EMPP933&Crsname=組織革新與發展,,,False,EMPP碩專,EMPP933,1,不分班,"組織革新與發展
+ADMINISTRATIVE REFORM AND DEVELOPMENT",3,期,True,50,0,13,37,"劉正山,張其祿,蔣麗君",社SS 4001,"['', '', '', '', '', '', '234']","《講授類》
+限EMPP碩專班學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EMPP936&Crsname=公私協力個案研究,,,False,EMPP碩專,EMPP936,1,不分班,"公私協力個案研究
+PUBLIC POLICY CASE STUDIES",3,期,True,50,0,13,37,"李予綱,游尚儒,王俊傑,陳珮芬",社SS 4001,"['', '', '', '', '', '567', '']","《講授類》
+限EMPP碩專班學生修課；一二年級併班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EMPP936A&Crsname=公私協力個案研究,,,False,EMPP碩專,EMPP936A,2,不分班,"公私協力個案研究
+PUBLIC POLICY CASE STUDIES",3,期,True,50,0,5,45,"李予綱,游尚儒,王俊傑,陳珮芬",社SS 4001,"['', '', '', '', '', '567', '']","《講授類》
+限EMPP碩專班學生修課；一二年級併班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL728&Crsname=東坡詩詞,,,False,中文博,CL728,0,不分班,"東坡詩詞
+THE TZU POETRY OF SU SHIH",3,期,False,50,0,13,37,劉昭明,文LA 4014,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL780&Crsname=漢學英文（一）,,,False,中文博,CL780,0,不分班,"漢學英文（一）
+ENGLISH FOR SINOLOGICAL READING(I)",3,期,False,50,0,6,44,謝薇娜,文LA 4015,"['567', '', '', '', '', '', '']","《講授類》
+英語授課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL816&Crsname=《老子》注釋、翻譯、思想研究,,,False,中文博,CL816,0,不分班,"《老子》注釋、翻譯、思想研究
+RESEARCHING ABOUT LAOZI FROM DIFFERENT COMMENTARIES, TRANSLATIONS AND THOUGHTS",3,期,False,50,0,8,42,賴錫三,文LA 4009,"['', '678', '', '', '', '', '']","《講授類》
+碩博合開",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL711&Crsname=浪漫文學自我認知與個人意象塑造,,,False,外文博,DFLL711,0,不分班,"浪漫文學自我認知與個人意象塑造
+BRITISH ROMANTIC IDENTITIES: LITERARY CONSTRUCTIONS OF THE SELF",3,期,False,50,0,6,44,李佳容,文LA 3018,"['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL810&Crsname=專題研究,,,True,外文博,DFLL810,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,1,49,李祁芳,,"['', '', '567', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BIOS701&Crsname=細胞與分子生物學,,,True,生科博,BIOS701,1,不分班,"細胞與分子生物學
+CELL AND MOLECULAR BIOLOGY",3,期,True,50,0,4,46,"陳俊霖,吳長益,李哲欣",理BI 2002,"['', '', '', '234', '', '', '']","《講授類》
+1.乙組必修 2.與碩一併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BIOS710&Crsname=分子與細胞生物學書報討論（一）,,,True,生科博,BIOS710,1,不分班,"分子與細胞生物學書報討論（一）
+MOLECULAR AND CELL BIOLOGY SEMINAR (I)",1,期,True,50,0,2,48,陳顯榮,理BI 3001,"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BIOS810&Crsname=分子與細胞生物學書報討論（三）,,,True,生科博,BIOS810,2,不分班,"分子與細胞生物學書報討論（三）
+MOLECULAR AND CELL BIOLOGY SEMINAR (III)",1,期,True,50,0,6,44,陳顯榮,理BI 3001,"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=BIOS814&Crsname=生物多樣性書報討論（三）,,,True,生科博,BIOS814,2,不分班,"生物多樣性書報討論（三）
+BIODIVERSITY SEMINAR(III)",1,期,True,50,0,1,49,"費卡契,張楊家豪",理BI 2002,"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM701&Crsname=書報討論（五）,異動,更換教室9/6,True,化學博,CHEM701,1,不分班,"書報討論（五）
+SEMINAR (V)",1,期,True,50,0,7,43,張均然,理CH 4002,"['', '2', '', '', '', '', '']",《演講/參訪》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM734&Crsname=勻相催化專題研究（一）,,,True,化學博,CHEM734,1,不分班,"勻相催化專題研究（一）
+INDEPENDENT STUDIES IN HOMOGENOUS CATALYSIS（I）",3,期,True,50,0,1,49,梁蘭昌,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM752&Crsname=超微奈米藥物生化環境分析專題研究（一）,,,True,化學博,CHEM752,1,不分班,"超微奈米藥物生化環境分析專題研究（一）
+INDEPENDENT STUDIES IN ULTRA-MICRO RESEARCH FOR NANO-PARTICLE, DRUG, BIOCHEMISTRY AND ENVIRONMENT(I)",3,期,True,50,0,4,46,吳慧芬,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM758&Crsname=化學生物學專題研究（一）,,,True,化學博,CHEM758,1,不分班,"化學生物學專題研究（一）
+INDEPENDENT STUDIES IN CHEMICAL BIOLOGY (I)",3,期,True,50,0,1,49,林伯樵,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM760&Crsname=奈米材料化學專題研究（一）,,,True,化學博,CHEM760,1,不分班,"奈米材料化學專題研究（一）
+INDEPENDENT STUDIES IN CHEMISTRY OF NANOMATERIALS (I)",3,期,True,50,0,1,49,陳軍互,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM770&Crsname=無機反應專題研究（一）,,,True,化學博,CHEM770,1,不分班,"無機反應專題研究（一）
+INDEPENDENT STUDIES IN INORGANIC REACTIONS (I)",3,期,True,50,0,1,49,王琢堅,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True

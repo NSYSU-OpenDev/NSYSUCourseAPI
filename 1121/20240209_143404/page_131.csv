@@ -1,0 +1,54 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GHRM531&Crsname=論文寫作,,,False,人管英語碩程,GHRM531,0,,"論文寫作
+THESIS WRITING",3,期,False,50,0,24,26,林帆,管CM 3038,"['', '', '', 'CDE', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理階段辦理加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR503&Crsname=海洋生態專題研討（一）,,,True,海資碩,MBR503,1,,"海洋生態專題研討（一）
+SEMINAR IN MARINE ECOLOGY (I)",2,期,True,50,0,8,42,"林梅芳,劉商隱",海MB 1005,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR507&Crsname=海洋化學資源專題研討（一）,,,True,海資碩,MBR507,1,,"海洋化學資源專題研討（一）
+SEMINAR IN MARINE CHEMICAL RESOURCES (I)",2,期,True,50,0,6,44,鄭源斌,海MB 2014,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR532&Crsname=生物科學寫作及簡報概論,,,False,海資碩,MBR532,1,,"生物科學寫作及簡報概論
+INTRODUCTORY GUIDE TO SCIENTIFIC WRITING AND ORAL PRESENTATION IN BIOLOGICAL RESEARCH",3,期,False,50,0,5,45,王亮鈞,海MB 2020,"['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR545&Crsname=色層分析,,,False,海資碩,MBR545,1,,"色層分析
+CHROMATOGRAPHY",2,期,False,50,0,7,43,廖志中,海MB 1005,"['', '12', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR547&Crsname=天然藥物之生醫分析方法,,,False,海資碩,MBR547,1,,"天然藥物之生醫分析方法
+METHODS OF BIOMEDICAL ANALYSIS FOR NATURE DRUGS",3,期,False,50,0,1,49,溫志宏,海MB 2016,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR552&Crsname=珊瑚基因體學,異動,更換教室9/1,False,海資碩,MBR552,1,,"珊瑚基因體學
+CORAL GENOMICS",2,期,False,50,0,7,43,林梅芳,海MB 2016,"['', '', '', '', '34', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR592&Crsname=海洋生物多樣性與保育（一）,,,True,海資碩,MBR592,1,,"海洋生物多樣性與保育（一）
+MARINE BIODIVERSITY AND CONSERVATION （1）",2,期,True,50,0,9,41,劉商隱,海MB 2015,"['', '', '34', '', '', '', '']","《講授類》
+ 
+※英語授課",['生物多樣性學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR603&Crsname=海洋生態專題研討（三）,,,False,海資碩,MBR603,2,,"海洋生態專題研討（三）
+SEMINAR IN MARINE ECOLOGY (III)",2,期,False,50,0,3,47,"林梅芳,劉商隱",海MB 1005,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR607&Crsname=海洋化學資源專題研討（三）,,,False,海資碩,MBR607,2,,"海洋化學資源專題研討（三）
+SEMINAR IN MARINE CHEMICAL RESOURCES (III)",2,期,False,50,0,2,48,鄭源斌,海MB 2014,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MAEV501&Crsname=海洋環境書報討論（一）,,,False,海工碩,MAEV501,1,,"海洋環境書報討論（一）
+SEMINAR IN MARINE ENVIRONMENT (I)",2,期,False,50,0,23,27,林俊宏,海ME 3002,"['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MAEV601&Crsname=海洋環境書報討論（三）,,,False,海工碩,MAEV601,2,,"海洋環境書報討論（三）
+SEMINAR IN MARINE ENVIRONMENT (III)",2,期,False,50,0,12,38,張揚祺,,"['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MAEV657&Crsname=廢水濕地處理專研,,,False,海工碩,MAEV657,2,,"廢水濕地處理專研
+INDEPT. STUDIES IN WETLAND WASTEWATER TREATMENT",2,期,False,50,0,3,47,楊磊,,"['', '', 'CD', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MA590&Crsname=國際外交實務,,,False,海事碩,MA590,0,,"國際外交實務
+PRACTICES OF INTERNATIONAL DIPLOMACY",3,期,False,50,0,7,43,胡念祖,海MA 2033,"['789', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MA590&Crsname=國際外交實務,,,False,海事碩,MA590,0,,"國際外交實務
+PRACTICES OF INTERNATIONAL DIPLOMACY",3,期,False,50,0,7,43,胡念祖,海MA 2033,"['789', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MA670&Crsname=海洋空間規劃專題研究（一）,,,False,海事碩,MA670,0,,"海洋空間規劃專題研究（一）
+INDEPENDENT STUDIES ON MARINE SPATIAL PLANNING(Ⅰ)",2,期,False,50,0,2,48,張懿,海MA 3005,"['', '', '', 'CD', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO501&Crsname=海洋學導論,,,False,海科碩,DO501,0,,"海洋學導論
+INTRODUCTION TO OCEANOGRAPHY",3,期,False,50,0,10,40,"雷漢杰,劉莉蓮,張詠斌,李逸環",海MA 3020,"['234', '', '', '', '', '', '']","《講授類》
+與MA504、MEC507併班上課。",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO501A&Crsname=海洋學導論,,,False,海科碩,DO501A,0,,"海洋學導論
+INTRODUCTION TO OCEANOGRAPHY",3,期,False,50,0,3,47,慕樂凡,海MA 2042,"['234', '', '', '', '', '', '']","《講授類》
+與MEC507A併班上課。
+※英語授課",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO508&Crsname=專題演講（一）,,,False,海科碩,DO508,0,,"專題演講（一）
+COLLOQUIUM (I)",1,期,False,50,0,7,43,雷漢杰,海MA 3040,"['', '', '6', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO510&Crsname=專題演講（三）,,,False,海科碩,DO510,0,,"專題演講（三）
+COLLOQUIUM (III)",1,期,False,50,0,4,46,林慧玲,海MA 3040,"['', '', '7', '', '', '', '']","《演講/參訪》
+選修此課程須先修過DO508專題演講(一)",[],False

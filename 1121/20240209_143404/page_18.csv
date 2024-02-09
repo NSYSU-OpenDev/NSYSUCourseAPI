@@ -1,0 +1,68 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1315&Crsname=訊號與系統,,,False,跨院選修(工),GEAI1315,0,不分班,"訊號與系統
+SIGNALS AND SYSTEMS",3,期,True,10,0,4,6,"黃婉甄,曾凡碩",工EC 2002,"['', '', '', '567', '', '', '']","《講授類》
+甲、乙班併班上課跨院通識與電機系EE2600課程併班上課","['南星產業樞紐學程', '跨領域智慧製造學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1315B&Crsname=訊號與系統,,,False,跨院選修(工),GEAI1315B,0,不分班,"訊號與系統
+SIGNALS AND SYSTEMS",3,期,True,10,0,4,6,曾乙立,工EC 3009,"['', '567', '', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與電機系EE2600B課程併班上課
+※英語授課","['南星產業樞紐學程', '跨領域智慧製造學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1319&Crsname=硬體描述語言,,,False,跨院選修(工),GEAI1319,0,不分班,"硬體描述語言
+HARDWARE DESCRIPTION LANGUAGES",3,期,False,10,0,2,8,邱日清,工EC 3012,"['', '', '', '', '234', '', '']","《講授類》
+跨院通識與電機系EE2701課程併班上課","['南星產業樞紐學程', '數位IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1319A&Crsname=硬體描述語言,,,False,跨院選修(工),GEAI1319A,0,不分班,"硬體描述語言
+HARDWARE DESCRIPTION LANGUAGES",3,期,False,10,0,1,9,施信毓,工EC 3009,"['', '', '', '678', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與電機系EE2701A課程併班上課
+※英語授課","['南星產業樞紐學程', '數位IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1321&Crsname=矩陣理論及應用,,,False,跨院選修(工),GEAI1321,0,不分班,"矩陣理論及應用
+MATRIX THEORY AND APPLICATIONS",3,期,False,10,0,1,9,李立,工EC 3013,"['', '', '', '', '678', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與電機系EE2204課程併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1322&Crsname=電路學（二）,,,False,跨院選修(工),GEAI1322,0,不分班,"電路學（二）
+CIRCUIT THEORY (II)",3,期,True,10,0,1,9,李宗璘,工EC 1001,"['234', '', '', '', '', '', '']","《講授類》
+甲、乙班併班上課跨院通識與電機系EE2401課程併班上課",['南星產業樞紐學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1322B&Crsname=電路學（二）,,,False,跨院選修(工),GEAI1322B,0,不分班,"電路學（二）
+CIRCUIT THEORY (II)",3,期,True,10,0,1,9,余祥華,工EC 3009,"['', '', '234', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與電機系EE2401B課程併班上課
+※英語授課",['南星產業樞紐學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1323&Crsname=計算機程式,,,False,跨院選修(工),GEAI1323,0,不分班,"計算機程式
+COMPUTER PROGRAMMING",3,期,True,10,0,8,2,魏家博,工EC 2011,"['', '', '567', '', '', '', '']","《講授類》
+甲、乙班併班上課跨院通識與電機系EE1301課程併班上課","['自然科學之程式應用學程', '自然科學之程式應用學程', '金融工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1323B&Crsname=計算機程式,,,False,跨院選修(工),GEAI1323B,0,不分班,"計算機程式
+COMPUTER PROGRAMMING",3,期,True,10,0,9,1,魏家博,工EC 6019,"['', '', '', '234', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與電機系EE1301B課程併班上課
+※英語授課","['自然科學之程式應用學程', '自然科學之程式應用學程', '金融工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1324&Crsname=資料結構,,,False,跨院選修(工),GEAI1324,0,不分班,"資料結構
+DATA STRUCTURES",3,期,False,10,1,3,7,周孜燦,工EC 3013,"['', '', '567', '', '', '', '']","《講授類》
+跨院通識與電機系EE2305課程併班上課","['自然科學之程式應用學程', '智慧製造聯網微學程', '跨領域智慧製造學程', '人工智慧與數學學程', '金融科技學程', '永續能源學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1326&Crsname=電磁學（一）,,,False,跨院選修(工),GEAI1326,0,不分班,"電磁學（一）
+ELECTROMAGNETIC THEORY (I)",3,期,True,10,0,3,7,李杰穎,工EC 1001,"['', '567', '', '', '', '', '']","《講授類》
+甲、乙班併班上課跨院通識與電機系EE2500課程併班上課",['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1326B&Crsname=電磁學（一）,,,False,跨院選修(工),GEAI1326B,0,不分班,"電磁學（一）
+ELECTROMAGNETIC THEORY (I)",3,期,True,10,0,2,8,王復康,工EC 3013,"['', '234', '', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與電機系EE2500B課程併班上課
+※英語授課",['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1328&Crsname=數位系統設計,,,False,跨院選修(工),GEAI1328,0,不分班,"數位系統設計
+DESIGN OF DIGITAL SYSTEMS",3,期,True,10,0,9,1,李宗哲,工EC 1001,"['', '', '', '567', '', '', '']","《講授類》
+甲、乙班併班上課跨院通識與電機系EE1700課程併班上課","['南星產業樞紐學程', '數位IC設計學程', '數位IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1328B&Crsname=數位系統設計,,,False,跨院選修(工),GEAI1328B,0,不分班,"數位系統設計
+DESIGN OF DIGITAL SYSTEMS",3,期,True,10,0,2,8,王朝欽,工EC 3012,"['234', '', '', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與電機系EE1700B課程併班上課
+※英語授課","['南星產業樞紐學程', '數位IC設計學程', '數位IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1356&Crsname=Ｃ程式設計（一）,,,False,跨院選修(工),GEAI1356,0,不分班,"Ｃ程式設計（一）
+C COMPUTER PROGRAMMING（I）",3,期,True,20,0,21,-1,蔣依吾,工EC 9032,"['', '', '', '234', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與資工系CSE131課程併班上課
+※英語授課","['自然科學之程式應用學程', '智慧城市與智慧運輸學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1359&Crsname=人工智慧導論,異動,更換時間及教室8/1,False,跨院選修(工),GEAI1359,0,不分班,"人工智慧導論
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE",3,期,False,10,0,12,-2,蔡崇煒,工EC 9032,"['', '678', '', '', '', '', '']","《講授類》
+跨院通識與資工系CSE326課程併班上課","['智慧製造聯網微學程', '機器學習與應用微學程', '跨領域智慧製造學程', '永續能源學程', '製造與大數據分析微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1369&Crsname=基礎訊號處理,,,False,跨院選修(工),GEAI1369,0,不分班,"基礎訊號處理
+FUNDAMENTAL SIGNAL PROCESSING",3,期,False,5,0,2,3,郭可驥,工EC 1006,"['', '567', '', '', '', '', '']","《講授類》
+跨院通識與資工系CSE325課程併班上課","['自然科學之程式應用學程', '機器學習與應用微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1370&Crsname=工程電腦程式,,,False,跨院選修(工),GEAI1370,0,不分班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,True,20,0,2,18,朱訓鵬,工EN 4055-2,"['567', '', '', '', '', '', '']","《講授類》
+跨院通識與機電系MEME103課程併班上課","['自然科學之程式應用學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1370A&Crsname=工程電腦程式,,,False,跨院選修(工),GEAI1370A,0,不分班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,True,20,0,16,4,朱訓鵬,工EN 4055-2,"['', '', '', '567', '', '', '']","《講授類》
+跨院通識與機電系MEME103A課程併班上課","['自然科學之程式應用學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1404&Crsname=企業概論,異動,更換教室9/14,False,跨院選修(管),GEAI1404,0,不分班,"企業概論
+INTRODUCTION TO BUSINESS",3,期,False,30,5,30,0,蔡宗霖,管CM 3015,"['', '567', '', '', '', '', '']","《講授類》
+跨院通識與企管系BM109課程併班上課",[],False

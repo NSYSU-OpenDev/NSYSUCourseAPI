@@ -1,0 +1,56 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EE3602&Crsname=通訊系統,,,False,電機系,EE3602,3,甲班,"通訊系統
+COMMUNICATION SYSTEMS",3,期,True,66,0,62,4,"王藏億,李志鵬",工EC 2002,"['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課","['南星產業樞紐學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EE3602A&Crsname=通訊系統,,,False,電機系,EE3602A,3,乙班,"通訊系統
+COMMUNICATION SYSTEMS",3,期,True,66,1,57,9,"王藏億,李志鵬",工EC 2002,"['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課","['南星產業樞紐學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EE3602B&Crsname=通訊系統,,,False,電機系,EE3602B,3,全英班,"通訊系統
+COMMUNICATION SYSTEMS",3,期,True,50,0,26,24,陳彥銘,工EC 3009,"['', '', '567', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。
+※英語授課","['南星產業樞紐學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EE3619&Crsname=多軸動感平台體感控制,異動,更換教室8/24,False,電機系,EE3619,3,不分班,"多軸動感平台體感控制
+SOMATOSENSORY CONTROL TECHNOLOGY IN MULTI-AXIS DYNAMIC PLATFORM",3,期,False,50,0,10,40,邱日清,工EC 6018,"['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EE3705&Crsname=實用數位系統設計,,,False,電機系,EE3705,3,不分班,"實用數位系統設計
+PRACTICAL DIGITAL SYSTEMS DESIGN",3,期,False,60,1,47,13,謝東佑,工EC 3012,"['', '', '', '', '567', '', '']","《講授類》
+ 
+※英語授課",['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EE4612&Crsname=數位訊號處理導論,,,False,電機系,EE4612,4,不分班,"數位訊號處理導論
+INTRODUCTION TO DIGITAL SIGNAL PROCESSING",3,期,False,50,0,8,42,陳有德,工EC 3013,"['', '', '', '', '234', '', '']",《講授類》,['南星產業樞紐學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EE4616&Crsname=機率模式與應用,,,False,電機系,EE4616,4,不分班,"機率模式與應用
+PROBABILITY MODELS AND APPLICATIONS",3,期,False,50,0,3,47,陳有德,工EC 3014,"['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EE4706&Crsname=生醫工程導論,,,False,電機系,EE4706,3,不分班,"生醫工程導論
+INTRODUCTION TO BIOMEDICAL ENGINEERING",3,期,False,50,0,20,30,莊子肇,工EC 3010,"['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=EE4808&Crsname=電機工程進階實作專案,,,False,電機系,EE4808,4,不分班,"電機工程進階實作專案
+ADVANCED ELECTRICAL ENGINEERING PROJECT",3,期,False,50,0,18,32,劉漢胤,工EC 6013,"['A', 'A', 'A', 'A', 'A', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEME101&Crsname=微積分（一）,異動,取消限修條件8/29,False,機電系,MEME101,1,甲班,"微積分（一）
+CALCULUS(I)",3,期,True,50,0,38,12,張中,工EN 4055-1,"['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。一甲、一乙併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEME101A&Crsname=微積分（一）,異動,取消限修條件8/29,False,機電系,MEME101A,1,乙班,"微積分（一）
+CALCULUS(I)",3,期,True,50,0,36,14,張中,工EN 4055-1,"['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。一甲、一乙併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEME101B&Crsname=微積分（一）,異動,確認教師8/3,False,機電系,MEME101B,1,全英班,"微積分（一）
+CALCULUS(I)",3,期,True,60,0,37,23,余冠儒,工EC 2006,"['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。 與化學系英文組併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEME102&Crsname=圖學,異動,取消限修條件8/29,False,機電系,MEME102,1,甲班,"圖學
+GRAPHICS",2,期,True,50,0,33,17,郭清德,工EN 4055-2,"['', '', '', '4B', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEME102A&Crsname=圖學,異動,取消限修條件8/29,False,機電系,MEME102A,1,乙班,"圖學
+GRAPHICS",2,期,True,50,0,36,14,郭清德,工EN 4055-2,"['', '', '', '23', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEME102B&Crsname=圖學,,,False,機電系,MEME102B,1,全英班,"圖學
+GRAPHICS",2,期,True,50,0,39,11,王郁仁,工EN 4055-2,"['', '', '34', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEME103&Crsname=工程電腦程式,異動,取消限修條件8/29,False,機電系,MEME103,1,甲班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,True,50,0,37,13,朱訓鵬,工EN 4055-2,"['567', '', '', '', '', '', '']","《講授類》
+與跨院選修併班上課","['自然科學之程式應用學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEME103A&Crsname=工程電腦程式,異動,取消限修條件8/29,False,機電系,MEME103A,1,乙班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,True,50,0,40,10,朱訓鵬,工EN 4055-2,"['', '', '', '567', '', '', '']","《講授類》
+與跨院選修併班上課","['自然科學之程式應用學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEME103B&Crsname=工程電腦程式,,,False,機電系,MEME103B,1,全英班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,True,60,0,53,7,劉耿豪,工EN 4055-2,"['', '', '', '', '567', '', '']","《講授類》
+ 
+※英語授課","['自然科學之程式應用學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEME105&Crsname=應用力學（一）,,,False,機電系,MEME105,1,甲班,"應用力學（一）
+APPLIED MECHANICS (I)",3,期,True,60,0,37,23,吳美玲,工EC 2006,"['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限該班及重修生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEME105A&Crsname=應用力學（一）,異動,修改限修內容8/29,False,機電系,MEME105A,1,乙班,"應用力學（一）
+APPLIED MECHANICS (I)",3,期,True,60,0,41,19,林韋至,工EC 2003,"['567', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限該班及重修生修習",[],False

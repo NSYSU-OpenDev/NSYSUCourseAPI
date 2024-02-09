@@ -1,0 +1,48 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL243&Crsname=孟子,,,False,中文系,CL243,1,不分班,"孟子
+MENCIUS",3,期,False,39,0,35,4,吳孟謙,文LA 4001,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL303&Crsname=中國思想史（一）,,,False,中文系,CL303,3,不分班,"中國思想史（一）
+HISTORY OF CHINESE THOUGHTS(I)",3,期,True,50,0,55,-5,紀志昌,文LA 2004,"['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL307&Crsname=詞曲選及習作（一）,,,True,中文系,CL307,3,不分班,"詞曲選及習作（一）
+READING IN TZ'U & CH'U POETRY(WITH EXERCISE)(I)",3,期,True,30,0,21,9,林芷瑩,文LA 4003,"['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL307A&Crsname=詞曲選及習作（一）,,,True,中文系,CL307A,3,不分班,"詞曲選及習作（一）
+READING IN TZ'U & CH'U POETRY(WITH EXERCISE)(I)",3,期,True,30,1,32,-2,劉昭明,文LA 4003,"['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL330&Crsname=書法（一）,,,False,中文系,CL330,1,不分班,"書法（一）
+CHINESE CALLIGRAPHY(I)",3,期,False,50,0,41,9,楊雅惠,文LA 5004,"['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL335&Crsname=兩周青銅器銘文與「詩」、「書」文體之形成,,,False,中文系,CL335,4,不分班,"兩周青銅器銘文與「詩」、「書」文體之形成
+BRONZE INSCRIPTIONS AND THE FROMATION OF THE SONGS AND DOCUMENTS AS LITERARY GENRES",3,期,False,50,0,4,46,顧永光,文LA 4004,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL342&Crsname=聲韻學,異動,更換教室8/31,False,中文系,CL342,3,不分班,"聲韻學
+CHINESE PHONOLOGY",3,期,True,65,0,63,2,杜佳倫,文LA 7006,"['234', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL433&Crsname=臺灣古典文學概論,,,False,中文系,CL433,3,不分班,"臺灣古典文學概論
+INTRODUCTION TO TAIWANESE CLASSICAL LITERATURE",3,期,False,30,0,17,13,鍾志偉,文LA 4003,"['', '234', '', '', '', '', '']",《講授類》,"['臺灣研究學程', '中文創意跨域應用整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL439&Crsname=訓詁學,異動,更換教室及名額9/8,False,中文系,CL439,4,不分班,"訓詁學
+EXEGETICS",2,期,True,57,0,55,2,黃羽璿,文LA 5004,"['', '', '', '56', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL442&Crsname=地方敘事與數位遊戲設計,,,False,中文系,CL442,3,不分班,"地方敘事與數位遊戲設計
+LOCAL NARRATIVE AND GAME PROGRAMMING",3,期,False,50,0,14,36,杜佳倫,文LA 5004,"['567', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL453&Crsname=粵語文學導讀暨粵語入門,,,False,中文系,CL453,3,不分班,"粵語文學導讀暨粵語入門
+READINGS IN CANTONESE LITERATURE TOGETHER WITH AN INTRODUCTION TO CANTONESE",3,期,False,50,1,24,26,顧永光,文LA 4003,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL454&Crsname=青聽文學,,,False,中文系,CL454,2,不分班,"青聽文學
+YOUTHFUL LITERARY ENGAGEMENT: FROM TEXT TO WORLD",3,期,False,30,0,16,14,"杜佳倫,林芷瑩,賴佩暄",文LA 4003,"['', '567', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL455&Crsname=為你寫一首歌仔—戲曲創作與生命故事（一）,,,False,中文系,CL455,4,不分班,"為你寫一首歌仔—戲曲創作與生命故事（一）
+INTERVIEWING AN ELDER AND WRITING A KOA-á  (I)",3,期,False,30,0,6,24,林芷瑩,文LA 4004,"['', '', '567', '', '', '', '']",《講授類》,['台灣閩南語文書寫應用與創作微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL101&Crsname=英文閱讀,異動,更換教室9/13,False,外文系,DFLL101,1,不分班,"英文閱讀
+ENGLISH READING",3,期,True,50,1,38,12,洪敏秀,文LA 1002,"['', '567', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限本系生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL103&Crsname=英語聽力一（一）,,,False,外文系,DFLL103,1,不分班,"英語聽力一（一）
+ENGLISH LISTENING PRACTICE I(I)",1,期,True,50,0,36,14,洪敏秀,文LA 2001,"['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限本系生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL105&Crsname=英語口語訓練一（一）,,,True,外文系,DFLL105,1,不分班,"英語口語訓練一（一）
+ENGLISH ORAL TRAINING I(I)",2,期,True,16,0,18,-2,楊郁芬,文LA 3002,"['567', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限本系學生修習，大一新生統一配課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL105A&Crsname=英語口語訓練一（一）,異動,確認教師7/18,True,外文系,DFLL105A,1,不分班,"英語口語訓練一（一）
+ENGLISH ORAL TRAINING I(I)",2,期,True,16,0,15,1,林毓凱,文LA 3003,"['567', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限本系生修習。大一新生統一配課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL105B&Crsname=英語口語訓練一（一）,,,True,外文系,DFLL105B,1,不分班,"英語口語訓練一（一）
+ENGLISH ORAL TRAINING I(I)",2,期,True,16,0,15,1,黃舒屏,文LA 3004,"['567', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限本系生修習。大一新生統一配課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL107&Crsname=英文寫作一（一）,,,True,外文系,DFLL107,1,不分班,"英文寫作一（一）
+ENGLISH WRITING I(I)",2,期,True,16,0,18,-2,陳福仁,文LA 3002,"['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限本系生修習。大一新生統一配課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL107A&Crsname=英文寫作一（一）,,,True,外文系,DFLL107A,1,不分班,"英文寫作一（一）
+ENGLISH WRITING I(I)",2,期,True,16,0,15,1,楊郁芬,文LA 3003,"['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限本系生修習。大一新生統一配課",[],True

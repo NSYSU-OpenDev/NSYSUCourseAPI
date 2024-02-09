@@ -1,0 +1,46 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL505A&Crsname=專題研究,,,False,中文碩,CL505A,0,不分班,"專題研究
+INDEPENDENT STUDIES",1,期,False,50,0,1,49,楊雅惠,文LA 6009,"['', '2', '', '', '', '', '']","《獨立研究》
+限二年級以上且已確定指導教授之碩博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL505B&Crsname=專題研究,,,False,中文碩,CL505B,0,不分班,"專題研究
+INDEPENDENT STUDIES",1,期,False,50,0,0,50,紀志昌,文LA 6046,"['', '', '', '', '5', '', '']","《獨立研究》
+限二年級以上且已確定指導教授之碩博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL513&Crsname=現代小說與理論（一）,,,False,中文碩,CL513,0,不分班,"現代小說與理論（一）
+MODERN CHINESE FICTIONS AND THEORY(I)",2,期,False,50,0,16,34,賴佩暄,文LA 4013,"['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL517&Crsname=中國書法美學,,,False,中文碩,CL517,0,不分班,"中國書法美學
+THE AESTHETICS OF CHINESE CALLIGRAPHY",3,期,False,50,0,18,32,陳秋宏,文LA 5004,"['', '', '234', '', '', '', '']",《講授類》,['跨文化人文思潮與美學微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL525&Crsname=詩經與抒情傳統,,,False,中文碩,CL525,0,不分班,"詩經與抒情傳統
+SHIH CHING（BOOK OF ODES）AND LYRIC TRADITION",2,期,False,50,0,15,35,楊雅惠,文LA 5004,"['', '34', '', '', '', '', '']","《講授類》
+碩博合開",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL606&Crsname=民俗誌文獻學（一）,新增,8/9,False,中文碩,CL606,0,不分班,"民俗誌文獻學（一）
+STUDIES IN CHRONICLES OF CULTURE AND INFORMATION(I)",3,期,False,50,0,8,42,楊濟襄,文LA 4012,"['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CL608&Crsname=佛學思想,,,False,中文碩,CL608,0,不分班,"佛學思想
+STUDIES IN BUDDHIST THOUGHTS",3,期,False,50,1,8,42,吳孟謙,文LA 4013,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL501&Crsname=學術寫作與書目學,,,True,外文碩,DFLL501,1,不分班,"學術寫作與書目學
+ACADEMIC WRITING AND BIBLIOGRAPHY",3,期,True,50,0,11,39,黃心雅,文LA 3018,"['', '', '567', '', '', '', '']","《講授類》
+碩士班甲組",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL504&Crsname=研究方法與學術寫作,,,True,外文碩,DFLL504,1,不分班,"研究方法與學術寫作
+RESEARCH METHODS AND ACADEMIC WRITING",3,期,True,50,0,10,40,徐淑瑛,文LA 3017,"['234', '', '', '', '', '', '']","《講授類》
+碩士班乙組",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL621&Crsname=二十世紀美國戲劇,,,False,外文碩,DFLL621,0,不分班,"二十世紀美國戲劇
+20TH CENTURY AMERICAN DRAMA",3,期,False,50,0,12,38,范澤凱,文LA 3018,"['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL628&Crsname=當代北美原住民小說,,,True,外文碩,DFLL628,0,不分班,"當代北美原住民小說
+CONTEMPORARY NORTH NATIVE AMERICAN NOVELS",3,期,False,50,0,3,47,黃心雅,文LA 3018,"['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL651&Crsname=文類研究,異動,確認教師7/18,False,外文碩,DFLL651,0,不分班,"文類研究
+GENRE STUDIES",3,期,False,50,0,10,40,林毓凱,文LA 3018,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL666&Crsname=外語教學與科技：理論與實踐,異動,更換教室9/13,False,外文碩,DFLL666,0,不分班,"外語教學與科技：理論與實踐
+FOREIGN LANGUAGE INSTRUCTION AND TECHNOLOGY：THEORY & PRACTICE",3,期,False,50,0,15,35,楊郁芬,文LA 3003,"['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL668&Crsname=跨文化溝通,異動,更換教室9/11,False,外文碩,DFLL668,0,不分班,"跨文化溝通
+INTERCULTURAL COMMUNICATION",3,期,False,50,1,16,34,黃舒屏,文LA 3001,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL670&Crsname=漢英比較句法,,,False,外文碩,DFLL670,0,不分班,"漢英比較句法
+COMPARATIVE SYNTAX OF CHINESE AND ENGLISH",3,期,False,50,0,15,35,徐淑瑛,文LA 3017,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL680&Crsname=專題研究,,,True,外文碩,DFLL680,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,1,49,徐淑瑛,,"['', '', '', '567', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL680A&Crsname=專題研究,,,True,外文碩,DFLL680A,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,1,49,盧莉茹,,"['', '234', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DFLL680B&Crsname=專題研究,,,True,外文碩,DFLL680B,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,1,49,賴怡芃,,"['', '', '', '567', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MUSI502&Crsname=音樂理論總論,,,False,音樂碩,MUSI502,0,不分班,"音樂理論總論
+MUSIC THEORY REVIEW",3,期,False,50,0,8,42,李思嫺,文FA 6011,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MUSI505&Crsname=音樂研究導論,,,False,音樂碩,MUSI505,1,不分班,"音樂研究導論
+INTRODUCTION TO MUSIC RESEARCH",2,期,True,50,0,15,35,郭瓊嬌,文FA 6011,"['', '', '34', '', '', '', '']",《講授類》,[],False

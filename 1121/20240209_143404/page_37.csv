@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS305A&Crsname=實驗物理學（三）,異動,確認教師8/14,True,物理系,PHYS305A,3,不分班,"實驗物理學（三）
+EXPERIMENTAL PHYSICS（III）",3,期,True,50,0,24,26,黃旭明,理SC 2009,"['', '', '', '', '678', '', '']","《講授類》
+此課程不會自動配課，學生需自行加選。本系大三學號雙號學生及本系重修生優先選修",['自然科學之程式應用學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS310&Crsname=數值分析,,,False,物理系,PHYS310,3,不分班,"數值分析
+NUMERICAL ANALYSIS",3,期,False,50,0,9,41,莊豐權,理PH 5009,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313&Crsname=物理研究專題（一）,,,False,物理系,PHYS313,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,1,49,陳易馨,理PH 6010,"['A18', '', '', '', '', '', '']","《獨立研究》
+研究主題：量子光學，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313A&Crsname=物理研究專題（一）,,,False,物理系,PHYS313A,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,1,49,陳宗緯,理PH 7006,"['', '', '', '', 'A15', '', '']","《獨立研究》
+研究主題：相對論與自旋動力學，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313C&Crsname=物理研究專題（一）,,,False,物理系,PHYS313C,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,1,49,邱奎霖,理PH 3007,"['', '', '', '', 'A1B', '', '']","《獨立研究》
+研究主題：量子計算，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313E&Crsname=物理研究專題（一）,,,False,物理系,PHYS313E,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,1,49,洪昇廷,理PH 6008,"['', '', '', '', 'A1B', '', '']","《獨立研究》
+研究主題：微流體生醫影像平台，請事先與老師洽談。
+※英語授課",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313I&Crsname=物理研究專題（一）,,,False,物理系,PHYS313I,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,3,47,盧怡穎,理PH 6009,"['', '', '', 'A1B', '', '', '']","《獨立研究》
+研究主題：二維材料在感應器上的應用，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313J&Crsname=物理研究專題（一）,,,False,物理系,PHYS313J,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,1,49,莊豐權,理PH 4007,"['A1B', '', '', '', '', '', '']","《獨立研究》
+研究主題：利用第一原理研究新穎二維材料，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313M&Crsname=物理研究專題（一）,,,False,物理系,PHYS313M,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,5,45,張鼎張,理PH 7009,"['', '', '', '', '', '', 'CDE']","《獨立研究》
+研究主題：前瞻半導體元件性能及可靠度分析、次世代可撓式薄膜電晶體平面顯示器性能及可靠度分析，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313N&Crsname=物理研究專題（一）,異動,更換研究主題8/22,False,物理系,PHYS313N,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,7,43,郭建成,理PH 2009,"['', '', 'A1B', '', '', '', '']","《獨立研究》
+研究主題：二維新穎材料的原子影像，請事先與老師洽談。
+※英語授課",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313O&Crsname=物理研究專題（一）,,,False,物理系,PHYS313O,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,1,49,岩本祥,理SC 2006-1,"['', '', 'A1B', '', '', '', '']","《獨立研究》
+研究主題：Particle physics phenomenology 粒子物理現象學，請事先與老師洽談。
+※英語授課",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313P&Crsname=物理研究專題（一）,,,False,物理系,PHYS313P,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,3,47,呂浩宇,理SC 2006-3,"['', '', '', 'A1B', '', '', '']","《獨立研究》
+研究主題：電波干涉天文原理與實務應用，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313Q&Crsname=物理研究專題（一）,新增,8/14,False,物理系,PHYS313Q,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,4,46,黃旭明,理PH 2008,"['', 'A1B', '', '', '', '', '']","《獨立研究》
+研究主題：低微材料的電性傳輸性質，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS313R&Crsname=物理研究專題（一）,異動,更正備註說明8/22,False,物理系,PHYS313R,3,不分班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,1,49,杜立偉,理PH 3006,"['', '', 'A1B', '', '', '', '']","《獨立研究》
+研究主題：生醫感應器，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS315&Crsname=科技專題演講（二）,,,False,物理系,PHYS315,3,不分班,"科技專題演講（二）
+COLLOQUIUM ON SCIENCE AND TECHNOLOGY (II)",1,期,False,50,0,30,20,黃信銘,理PH 2006,"['', '', '', '5', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS409&Crsname=半導體奈米元件製造技術,,,False,物理系,PHYS409,4,不分班,"半導體奈米元件製造技術
+MANUFACTURING TECHNOLOGY OF SEMICONDUCTOR FOR NANO DEVICE",3,期,False,25,1,27,-2,張鼎張,理PH 2006,"['CDE', '', '', '', '', '', '']",《講授類》,"['半導體物理與先進元件分析微學程', '半導體元件學程', '類比射頻IC設計學程', '半導體化學']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS418&Crsname=論文專題（一）,,,False,物理系,PHYS418,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,2,48,莊豐權,理PH 4007,"['', '', '', 'A1B', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS418A&Crsname=論文專題（一）,,,False,物理系,PHYS418A,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,1,49,張鼎張,理PH 7009,"['', '', '', '', '', '', '567']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS418B&Crsname=論文專題（一）,,,False,物理系,PHYS418B,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,1,49,鍾佳民,理PH 6001,"['', '', '', 'A1B', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHYS418D&Crsname=論文專題（一）,,,False,物理系,PHYS418D,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,3,47,洪昇廷,理PH 6008,"['A1B', '', '', '', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],False

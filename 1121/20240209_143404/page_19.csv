@@ -1,0 +1,62 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1405&Crsname=經濟學（一）,異動,更換教室9/8,False,跨院選修(管),GEAI1405,0,不分班,"經濟學（一）
+ECONOMICS(I)",3,期,True,10,7,10,0,彭聰敏,管CM 0052,"['567', '', '', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與企管系BM105課程併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1412&Crsname=組織行為,,,False,跨院選修(管),GEAI1412,0,不分班,"組織行為
+ORGANIZATIONAL BEHAVIOR",3,期,True,10,1,12,-2,鄭士銘,管CM 2037,"['678', '', '', '', '', '', '']","《講授類》
+跨院通識與企管系BM204課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1415&Crsname=會計學（一）,,,False,跨院選修(管),GEAI1415,0,不分班,"會計學（一）
+ACCOUNTING (I)",3,期,True,10,1,14,-4,王萬成,管CM 2037,"['', '', '', '567', '', '', '']","《講授類》
+跨院通識與企管系BM101課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1415A&Crsname=會計學（一）,,,False,跨院選修(管),GEAI1415A,0,不分班,"會計學（一）
+ACCOUNTING (I)",3,期,True,10,1,10,0,陳妮雲,管CM 2037,"['', '', '', '234', '', '', '']","《講授類》
+跨院通識與企管系BM101A課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1424&Crsname=統計學（一）,異動,更換教室9/7,False,跨院選修(管),GEAI1424,0,不分班,"統計學（一）
+STATISTICS (I)",3,期,True,10,2,14,-4,林晉禾,管CM 0052,"['', '', '234', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與企管系BM201課程併班上課
+※英語授課","['金融工程學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1425&Crsname=行銷管理,,,False,跨院選修(管),GEAI1425,0,不分班,"行銷管理
+MARKETING MANAGEMENT",3,期,True,10,2,9,1,黃明新,管CM 1037,"['', '', '', '678', '', '', '']","《講授類》
+跨院通識與企管系BM203課程併班上課",['海洋生產模式整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1426&Crsname=會計學實習（一）,,,False,跨院選修(管),GEAI1426,0,不分班,"會計學實習（一）
+ACCOUNTING PRACTICE(I)",1,期,False,10,4,11,-1,王萬成,管CM 2037,"['', '', '', '89', '', '', '']","《實習類》
+跨院通識與企管系BM103課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1426A&Crsname=會計學實習（一）,,,False,跨院選修(管),GEAI1426A,0,不分班,"會計學實習（一）
+ACCOUNTING PRACTICE(I)",1,期,False,10,1,4,6,陳妮雲,管CM 3017,"['', '', '', '89', '', '', '']","《實習類》
+跨院通識與企管系BM103A課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1439&Crsname=統計學實習（一）,,,False,跨院選修(管),GEAI1439,0,不分班,"統計學實習（一）
+EXERCISE FOR STATISTICS(I)",1,期,False,10,1,4,6,林晉禾,管CM 3017,"['34', '', '', '', '', '', '']","《實習類》
+跨院通識與企管系BM217課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1449&Crsname=管理學概論,,,False,跨院選修(管),GEAI1449,0,不分班,"管理學概論
+INTRODUCTION TO MANAGEMENT",1,期,False,90,9,88,2,王致遠,網路大學,"['', '', 'B', '', '', '', '']","《講授類》
+網大進行之非同步線上課程 跨院通識與管理學院CM407課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1450&Crsname=經濟學概論,,,False,跨院選修(管),GEAI1450,0,不分班,"經濟學概論
+INTRODUCTION TO ECONOMICS",1,期,False,90,11,88,2,佘健源,網路大學,"['', '', '', 'B', '', '', '']","《講授類》
+網大進行之非同步線上課程 跨院通識與管理學院CM409課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1451&Crsname=財務報表分析,,,False,跨院選修(管),GEAI1451,0,不分班,"財務報表分析
+FINANCIAL STATEMENT ANALYSIS",1,期,False,90,11,88,2,蔡佳芬,網路大學,"['', '', '', '', 'B', '', '']","《講授類》
+網大進行之非同步線上課程 跨院通識與管理學院CM408課程併班上課",['財務管理專業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1452&Crsname=新時代的科技法律陷阱,異動,更換教室9/15,False,跨院選修(管),GEAI1452,0,不分班,"新時代的科技法律陷阱
+TECHNOLOGY LAW AND ITS TRAPS IN THE MODERN SOCIETY",3,期,False,30,3,28,2,盧憶,管CM 3019,"['', '', '', '567', '', '', '']","《講授類》
+跨院通識與企管系BM369課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1457&Crsname=財務管理概論,,,False,跨院選修(管),GEAI1457,0,不分班,"財務管理概論
+INTRODUCTION TO FINANCIAL MANAGEMENT",1,期,False,90,10,50,40,"蔡佳芬,王昭文,蔡維哲",網路大學,"['', 'B', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程 跨院通識與管理學院CM406課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1515&Crsname=基礎環境科學,,,False,跨院選修(海),GEAI1515,0,不分班,"基礎環境科學
+BASIC ENVIRONMENTAL SCIENCE",2,期,True,10,2,9,1,楊磊,海ME 3006,"['', '', '', '34', '', '', '']","《講授類》
+跨院通識與海工系MAEV150課程併班上課","['永續管理微學程', '環境教育學程', '企業社會責任學程', '地方創生與永續發展整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1521&Crsname=工程材料,,,False,跨院選修(海),GEAI1521,0,不分班,"工程材料
+ENGINEERING MATERIAL",2,期,True,7,0,2,5,李賢華,海ME 2005,"['56', '', '', '', '', '', '']","《講授類》
+跨院通識與海工系MAEV242課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1522&Crsname=工程數學（一）,,,False,跨院選修(海),GEAI1522,0,不分班,"工程數學（一）
+ENGINEERING MATHEMATICS(I)",3,期,True,7,0,3,4,曾以帆,海ME 2003,"['', '', '234', '', '', '', '']","《講授類》
+限微積分（一）及微積分（二）50分(D)（含）以上修習，若未符合上述規定者，請洽授課老師後於異常處理階段加選。 跨院通識與海工系MAEV203課程併班上課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1536&Crsname=基礎海洋生態學,,,False,跨院選修(海),GEAI1536,0,不分班,"基礎海洋生態學
+INTRODUCTION TO MARINE ECOLOGY",3,期,False,15,1,15,0,"劉莉蓮,塗子萱",海MA 1005,"['', '678', '', '', '', '', '']","《講授類》
+適合大一、大二學生跨院選修跨院通識與海科系DO313課程併班上課","['熱帶海洋微學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1548&Crsname=魚類學,,,False,跨院選修(海),GEAI1548,0,不分班,"魚類學
+ICHTHYOLOGY",2,期,False,20,1,19,1,林秀瑾,海MB 2015,"['', '34', '', '', '', '', '']","《講授類》
+跨院通識與海資系MBR218課程併班上課","['海洋循環經濟學程', '熱帶海洋微學程', '海洋生物資源與實務應用微學程', '環境教育學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1554&Crsname=海洋無脊椎動物學（一）,異動,更換教室7/4,False,跨院選修(海),GEAI1554,0,不分班,"海洋無脊椎動物學（一）
+MARINE INVERTEBRATE ZOOLOGY(I)",2,期,False,20,1,9,11,劉商隱,海MB 2020,"['', '', '', '78', '', '', '']","《講授類》
+跨院通識與海資系MBR318課程併班上課","['海洋生產模式整合學程', '海洋循環經濟學程', '海洋生物資源與實務應用微學程', '環境教育學程', '環境教育學程', '擁海學程']",False

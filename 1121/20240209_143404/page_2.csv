@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=STP274&Crsname=藝術領域-音樂藝術專長教材教法,異動,確認教師8/4,False,中學學程,STP274,0,不分班,"藝術領域-音樂藝術專長教材教法
+SUBJECT MATTER AND PEDAGOGY FOR ARTS/MUSIC",2,期,False,50,0,20,30,洪佳慧,社SS 2006,"['', '', '34', '', '', '', '']","《講授類》
+本課程為中等教育學程課程，需修畢(含當學期修習)教育基礎必選課程至少4學分、教育方法必選課程至少4學分，選修至少4學分，共計12學分，始得修習本課程",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=STP276&Crsname=藝術領域-表演藝術專長教材教法,,,False,中學學程,STP276,0,不分班,"藝術領域-表演藝術專長教材教法
+SUBJECT MATTER AND PEDAGOGY FOR ARTS/PERFORMING ARTS",2,期,False,50,0,5,45,鍾佳玲,社SS 2002-2,"['', '', '12', '', '', '', '']","《講授類》
+本課程為中等教育學程課程，需修畢(含當學期修習)教育基礎必選課程至少4學分、教育方法必選課程至少4學分，選修至少4學分，共計12學分，始得修習本課程。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=STP278&Crsname=藝術領域藝術生活科-表演藝術專長教材教法,新增,9/7,False,中學學程,STP278,0,不分班,"藝術領域藝術生活科-表演藝術專長教材教法
+SUBJECT MATTER AND PEDAGOGY FOR ARTS AND LIFE/PERFORMING ARTS",2,期,False,50,0,2,48,鍾佳玲,社SS 2002-2,"['', '', '12', '', '', '', '']","《講授類》
+本課程為中等教育學程課程，需修畢(含當學期修習)教育基礎必選課程至少4學分、教育方法必選課程至少4學分，選修至少4學分，共計12學分，始得修習本課程。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=STP283&Crsname=課程發展與設計（雙語）,異動,更換時間8/17,False,中學學程,STP283,0,不分班,"課程發展與設計（雙語）
+CURRICULUM DEVELOPMENT AND DESIGN OF BILINGUAL EDUCATION",2,期,False,50,0,14,36,張至慶,社SS 2006,"['', '', '', 'B5', '', '', '']","《講授類》
+本課程為教育專業課程，雙語授課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=STP284&Crsname=雙語教材教法,異動,更換教室9/7,False,中學學程,STP284,0,不分班,"雙語教材教法
+METHODS AND MATERIALS FOR BILINGUAL EDUCATION",2,期,False,50,0,12,38,張宇慧,社SS 3006,"['1', '', 'B', '', '', '', '']","《講授類》
+本課程為教育專業課程，雙語授課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CLC101&Crsname=入門華語,新增,9/14,False,外籍華語,CLC101,0,不分班,"入門華語
+BEGINNER MANDARIN COURSE",3,期,False,50,0,70,-20,華語中心兼任教師,"國IR 4006-2,國IR 5016、國IR5017-1,國IR 5020、國IR5021,國IR 5023、國IR 4006-1","['', 'B5', '', 'B5', '', '', '']","《講授類》
+限國際交換學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CLC101A&Crsname=入門華語,新增,9/14,False,外籍華語,CLC101A,0,不分班,"入門華語
+BEGINNER MANDARIN COURSE",3,期,False,50,0,1,49,華語中心兼任教師,國IR 5016,"['B5', '', 'B5', '', '', '', '']","《講授類》
+限國際交換學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CLC102&Crsname=基礎華語,新增,9/14,False,外籍華語,CLC102,0,不分班,"基礎華語
+BASIC MANDARIN COURSE",3,期,False,50,0,11,39,華語中心兼任教師,國IR 5017-2,"['', 'B5', '', 'B5', '', '', '']","《講授類》
+限國際交換學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CLC201&Crsname=初級華語一,新增,9/14,False,外籍華語,CLC201,0,不分班,"初級華語一
+ELEMENTARY MANDARIN COURSE LEVEL 1",3,期,False,50,0,6,44,華語中心兼任教師,國IR 5013,"['', 'B5', '', 'B5', '', '', '']","《講授類》
+限國際交換學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CLC202&Crsname=初級華語二,新增,9/14,False,外籍華語,CLC202,0,不分班,"初級華語二
+ELEMENTARY MANDARIN COURSE LEVEL 2",3,期,False,50,0,8,42,華語中心兼任教師,國IR 5022,"['', 'B5', '', 'B5', '', '', '']","《講授類》
+限國際交換學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CLC301&Crsname=中級華語一,新增,9/14,False,外籍華語,CLC301,0,不分班,"中級華語一
+INTERMEDIATE MANDARIN COURSE LEVEL 1",3,期,False,50,0,6,44,華語中心兼任教師,國IR 5014,"['', 'B5', '', 'B5', '', '', '']","《講授類》
+限國際交換學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CLC301A&Crsname=中級華語一,新增,9/14,False,外籍華語,CLC301A,0,不分班,"中級華語一
+INTERMEDIATE MANDARIN COURSE LEVEL 1",3,期,False,50,0,1,49,華語中心兼任教師,國IR 5014,"['B5', '', 'B5', '', '', '', '']","《講授類》
+限國際交換學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CLC302&Crsname=中級華語二,新增,9/14,False,外籍華語,CLC302,0,不分班,"中級華語二
+INTERMEDIATE MANDARIN COURSE LEVEL 2",3,期,False,50,0,6,44,華語中心兼任教師,國IR 5015,"['', 'B5', '', 'B5', '', '', '']","《講授類》
+限國際交換學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CLC401&Crsname=進階華語一,新增,9/14,False,外籍華語,CLC401,0,不分班,"進階華語一
+ADVANCED MANDARIN COURSE LEVEL 1",3,期,False,50,0,3,47,華語中心兼任教師,國IR 5019,"['', 'B5', '', 'B5', '', '', '']","《講授類》
+限國際交換學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GECE103&Crsname=中文思辨與表達（一）,,,True,中文思辨與表達,GECE103,0,不分班,"中文思辨與表達（一）
+CRITICAL THINKING AND EXPRESSION IN CHINESE（I）",3,期,True,45,15,44,1,杜佳倫,文LA 1002,"['', '234', '', '', '', '', '']","《講授類》
+1、適用111學年度(含)以後入學: 中文思辨與表達(一)、(二)課程，於畢業前僅修習其中1門即可。 2、本課程「加退選期間」額滿不予加簽。",['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GECE103A&Crsname=中文思辨與表達（一）,,,True,中文思辨與表達,GECE103A,0,不分班,"中文思辨與表達（一）
+CRITICAL THINKING AND EXPRESSION IN CHINESE（I）",3,期,True,45,8,45,0,黃羽璿,工EC 2007,"['', '234', '', '', '', '', '']","《講授類》
+1、適用111學年度(含)以後入學: 中文思辨與表達(一)、(二)課程，於畢業前僅修習其中1門即可。 2、本課程「加退選期間」額滿不予加簽。",['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GECE103B&Crsname=中文思辨與表達（一）,,,True,中文思辨與表達,GECE103B,0,不分班,"中文思辨與表達（一）
+CRITICAL THINKING AND EXPRESSION IN CHINESE（I）",3,期,True,45,3,47,-2,賴佩暄,管CM 0052,"['', '234', '', '', '', '', '']","《講授類》
+1、適用111學年度(含)以後入學: 中文思辨與表達(一)、(二)課程，於畢業前僅修習其中1門即可。 2、本課程「加退選期間」額滿不予加簽。",['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GECE103C&Crsname=中文思辨與表達（一）,,,True,中文思辨與表達,GECE103C,0,不分班,"中文思辨與表達（一）
+CRITICAL THINKING AND EXPRESSION IN CHINESE（I）",3,期,True,45,8,44,1,陳明聖,工EN 0032,"['', '234', '', '', '', '', '']","《講授類》
+1、適用111學年度(含)以後入學: 中文思辨與表達(一)、(二)課程，於畢業前僅修習其中1門即可。 2、本課程「加退選期間」額滿不予加簽。",['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GECE103D&Crsname=中文思辨與表達（一）,異動,確認教師8/1,True,中文思辨與表達,GECE103D,0,不分班,"中文思辨與表達（一）
+CRITICAL THINKING AND EXPRESSION IN CHINESE（I）",3,期,True,45,4,45,0,林孜曄,理SC 0014,"['', '234', '', '', '', '', '']","《講授類》
+1、適用111學年度(含)以後入學: 中文思辨與表達(一)、(二)課程，於畢業前僅修習其中1門即可。 2、本課程「加退選期間」額滿不予加簽。",['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GECE103E&Crsname=中文思辨與表達（一）,,,True,中文思辨與表達,GECE103E,0,不分班,"中文思辨與表達（一）
+CRITICAL THINKING AND EXPRESSION IN CHINESE（I）",3,期,True,45,13,45,0,陳秋宏,文LA 1004,"['', '567', '', '', '', '', '']","《講授類》
+1、適用111學年度(含)以後入學: 中文思辨與表達(一)、(二)課程，於畢業前僅修習其中1門即可。 2、本課程「加退選期間」額滿不予加簽。",['中文創意跨域應用整合學程'],False

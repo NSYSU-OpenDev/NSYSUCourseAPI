@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE562&Crsname=醫用電腦系統與分析,,,False,資工碩,CSE562,0,不分班,"醫用電腦系統與分析
+MEDICAL COMPUTER SYSTEM AND ANALYSIS",3,期,False,50,0,4,46,柯正雯,工EC 9014,"['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE563&Crsname=無線通訊安全專題,異動,更換教室8/31,False,資工碩,CSE563,0,不分班,"無線通訊安全專題
+SPECIAL TOPICS IN WIRELESS COMMUNICATION SECURITY",3,期,False,50,0,7,43,徐瑞壕,工EC 9014,"['', '', '567', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE569&Crsname=超大型積體電路矽智產驗證,,,False,資工碩,CSE569,0,不分班,"超大型積體電路矽智產驗證
+VLSI IP VERIFICATION",3,期,False,50,0,9,41,黃英哲,工EC 5026,"['234', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE578&Crsname=網路系統程式設計,,,False,資工碩,CSE578,0,不分班,"網路系統程式設計
+NETWORK SYSTEM PROGRAMMING",3,期,False,50,1,12,38,林俊宏,工EC 5007,"['', '678', '', '', '', '', '']",《講授類》,"['自然科學之程式應用學程', '永續能源學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE583&Crsname=算術處理器設計與實作,異動,更換教室9/5,False,資工碩,CSE583,0,不分班,"算術處理器設計與實作
+DESIGN AND IMPLEMENTATION OF ARITHMETIC UNITS",3,期,False,50,0,37,13,蕭勝夫,工EC 1003,"['', '234', '', '', '', '', '']",《講授類》,['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE590&Crsname=資訊理論,異動,確認教師8/2,False,資工碩,CSE590,0,不分班,"資訊理論
+INFORMATION THEORY",3,期,False,50,1,9,41,柯拉飛,工EC 5026,"['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE594&Crsname=電子商務與安全工程專題,異動,更換教室9/8,False,資工碩,CSE594,0,不分班,"電子商務與安全工程專題
+SPECIAL TOPICS IN ELECTRONIC COMMERCE AND SECURITY ENGINEERING",3,期,False,50,0,11,39,范俊逸,工EC 1005,"['', '', '567', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE598&Crsname=類比積體電路設計,,,False,資工碩,CSE598,0,不分班,"類比積體電路設計
+ANALONG INTEGRATED CIRCUIT DESIGN",3,期,False,50,0,7,43,郭可驥,工EC 5026,"['567', '', '', '', '', '', '']",《講授類》,['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE602&Crsname=三維模型設計及三維列印,,,False,資工碩,CSE602,0,不分班,"三維模型設計及三維列印
+3D MODELING AND 3D PRINTING",3,期,False,15,0,14,1,程正傑,工EC 9013,"['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE617&Crsname=分散式計算系統,,,False,資工碩,CSE617,0,不分班,"分散式計算系統
+DISTRIBUTED COMPUTING SYSTEMS",3,期,False,50,0,6,44,張玉盈,工EC 5025,"['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE625&Crsname=無線通訊網路建構與效能模擬,,,False,資工碩,CSE625,0,不分班,"無線通訊網路建構與效能模擬
+WIRELESS COMMUNICATION NETWORK: CONSTRUCTION AND PERFORMANCE SIMULATION",3,期,False,50,0,10,40,賴威光,工EC 5007,"['', '', '', '678', '', '', '']","《講授類》
+須通過〝通訊原理〞測驗，其相關事宜請洽分機4303黃小姐",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE626&Crsname=軟硬體協同設計專題,異動,更換時間及教室9/1,False,資工碩,CSE626,0,不分班,"軟硬體協同設計專題
+SPECIAL TOPICS IN HARDWARE/SOFTWARE CODESIGN",3,期,False,50,0,9,41,黃英哲,工EC 5025,"['', '', '', '678', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE630&Crsname=資料挖掘專題,,,False,資工碩,CSE630,0,不分班,"資料挖掘專題
+SPECIAL TOPICS IN DATA MINING",3,期,False,50,0,3,47,張玉盈,工EC 5025,"['678', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE639&Crsname=科技英文寫作,,,False,資工碩,CSE639,0,不分班,"科技英文寫作
+ENGLISH TECHNICAL WRITING",3,期,False,50,0,47,3,希家史提夫,工EC 9032,"['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE654&Crsname=無線行動網路,異動,更換教室9/12,False,資工碩,CSE654,0,不分班,"無線行動網路
+WIRELESS AND MOBILE NETWORKS",3,期,False,50,1,29,21,賴威光,工EC 5012,"['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE668&Crsname=硬體描述語言,異動,更換教室9/1,False,資工碩,CSE668,0,不分班,"硬體描述語言
+HARDWARE DESCRIPTION LANGUAGES",3,期,False,50,0,44,6,蕭勝夫,工EC 1006,"['', '', '', '234', '', '', '']",《講授類》,['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE669&Crsname=Liunx核心專題（一）,,,False,資工碩,CSE669,0,不分班,"Liunx核心專題（一）
+INDEPENDENT STUDIES IN LINUX KERNEL (I)",3,期,False,50,0,4,46,林俊宏,工EC 5007,"['CDE', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE692&Crsname=人工智慧專題 (一),,,False,資工碩,CSE692,0,不分班,"人工智慧專題 (一)
+INDEPENDENT STUDIES IN ARTIFICIAL INTELLIGENCE (I)",3,期,False,50,0,4,46,蔡崇煒,工EC 5007,"['', '', '567', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE694&Crsname=下世代網路切片模組設計,,,False,資工碩,CSE694,0,不分班,"下世代網路切片模組設計
+DESIGN OF NEXT GENERATION NETWORK SLICING MODULE",3,期,False,50,0,7,43,李宗南,工EC 5025,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSE696&Crsname=定量磁振造影方法專題,,,False,資工碩,CSE696,0,不分班,"定量磁振造影方法專題
+INDEPENDENT STUDIES IN QUANTITATIVE MRI METHODS",3,期,False,50,0,3,47,程正傑,工EC 9032,"['234', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False

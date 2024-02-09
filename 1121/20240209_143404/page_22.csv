@@ -1,0 +1,65 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1945&Crsname=環境與人類健康,,,False,跨院選修(醫),GEAI1945,0,不分班,"環境與人類健康
+ENVIRONMENT AND HUMAN HEALTH",2,期,False,35,3,20,15,李昇翰,醫IL 9012,"['', '', '', '', '56', '', '']","《講授類》
+跨院通識與醫學院MED128課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1946&Crsname=基礎外傷急救,異動,確認教師8/8,False,跨院選修(醫),GEAI1946,0,不分班,"基礎外傷急救
+BASICS OF TRAUMA CARE",2,期,False,30,12,30,0,蔡坤璋,醫IL 9010,"['89', '', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED129課程併班上課",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1947&Crsname=顯微鏡下的人體結構初步探索-初階人體組織,異動,確認教師8/8,False,跨院選修(醫),GEAI1947,0,不分班,"顯微鏡下的人體結構初步探索-初階人體組織
+PRELIMINARY EXPLORATION OF HUMAN BODY STRUCTURE UNDER MICROSCOPE – BASIC HISTOLOGY",2,期,False,35,0,3,32,甘祐瑜,醫IL 9012,"['', '', '', '', '78', '', '']","《講授類》
+跨院通識與醫學院MED130課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1948&Crsname=人體生理功能解密:生理學入門,,,False,跨院選修(醫),GEAI1948,0,不分班,"人體生理功能解密:生理學入門
+HUMAN BODY FUNCTIONS: BASIC PHYSIOLOGY",3,期,False,35,9,35,0,柯瓊媛,醫IL 9010,"['', '234', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED131課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1949&Crsname=認識神經退化性疾病,異動,更換教室6/29,False,跨院選修(醫),GEAI1949,0,不分班,"認識神經退化性疾病
+PATHOGENESIS OF NEURODEGENERATIVE DISEASES",3,期,False,35,5,34,1,柯瓊媛,醫IL 9010,"['', '', '', '234', '', '', '']","《講授類》
+跨院通識與醫學院MED132課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1950&Crsname=探索藥物：現實與電影中的藥物,,,False,跨院選修(醫),GEAI1950,0,不分班,"探索藥物：現實與電影中的藥物
+EXPLORING DRUGS: DRUGS IN REALITY AND IN MOVIES",3,期,False,35,5,36,-1,陳亮傑,醫IL 9012,"['234', '', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED133課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1951&Crsname=藥物設計入門,,,False,跨院選修(醫),GEAI1951,0,不分班,"藥物設計入門
+INTRODUCTION TO DRUG DESIGN",3,期,False,35,4,15,20,陳亮傑,醫IL 9012,"['', '', '', '', '234', '', '']","《講授類》
+跨院通識與醫學院MED134課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1952&Crsname=人類免疫與代謝,,,False,跨院選修(醫),GEAI1952,0,不分班,"人類免疫與代謝
+IMMUNOMETABOLISM OF HUMAN DISEASES",2,期,False,35,2,12,23,陳彥樺,醫IL 9012,"['78', '', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED135課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1953&Crsname=生物資訊初探,,,False,跨院選修(醫),GEAI1953,0,不分班,"生物資訊初探
+INTRODUCTION TO BIOINFORMATICS",3,期,False,35,2,3,32,陳彥樺,圖IL PC01,"['', '567', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED136課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1954&Crsname=基因中的演化之舞,,,False,跨院選修(醫),GEAI1954,0,不分班,"基因中的演化之舞
+TRACING THE TANGLED TRACKS OF EVOLUTIONARY JOURNEY IN GENOME",3,期,False,35,2,15,20,陳彥樺,醫IL 9010,"['', '', '567', '', '', '', '']","《講授類》
+跨院通識與醫學院MED137課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1955&Crsname=聞癌色變：癌症治療,,,False,跨院選修(醫),GEAI1955,0,不分班,"聞癌色變：癌症治療
+CANCER RESEARCH AND THERAPEUTICS",3,期,False,35,8,37,-2,趙敏吾,醫IL 9012,"['', '', '567', '', '', '', '']","《講授類》
+跨院通識與醫學院MED138課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1956&Crsname=R程式語言入門,,,False,跨院選修(醫),GEAI1956,0,不分班,"R程式語言入門
+INTRODUCTION TO R PROGRAMMING LANGUAGE",3,期,False,35,1,32,3,劉勃佑,圖IL PC01,"['', '', '567', '', '', '', '']","《講授類》
+跨院通識與醫學院MED139課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1957&Crsname=展示我們的健康-醫學與博物館學,,,False,跨院選修(醫),GEAI1957,0,不分班,"展示我們的健康-醫學與博物館學
+MEDICINE AND MUSEOLOGY: EXHIBITING THE HEALTH",2,期,False,35,2,8,27,劉勃佑,醫IL 9012,"['', '', '', '89', '', '', '']","《講授類》
+跨院通識與醫學院MED140課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1958&Crsname=醫學媒體識讀與生醫文獻導讀,,,False,跨院選修(醫),GEAI1958,0,不分班,"醫學媒體識讀與生醫文獻導讀
+MEDICAL MEDIA LITERACY AND BIOMEDICAL LITERATURE REVIEW",2,期,False,35,0,2,33,劉勃佑,圖IL PC01,"['', '', '34', '', '', '', '']","《講授類》
+跨院通識與醫學院MED141課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAIE600&Crsname=透過實用性英語增進溝通能力（中級）,異動,更換教室9/13,False,跨院EAP,GEAIE600,0,不分班,"透過實用性英語增進溝通能力（中級）
+IMPROVING COMMUNICATION SKILLS THROUGH FUNCTIONAL ENGLISH(INTERMEDIATE LEVEL)",3,期,False,50,2,49,1,李香蘭,通GE 1008,"['', '34B', '', '', '', '', '']","《講授類》
+限非外文系。建議英文程度中級以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['全英語通識教育菁英學程', '實用英語跨域學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAIE611&Crsname=英文寫作（中級）,,,False,跨院EAP,GEAIE611,0,不分班,"英文寫作（中級）
+FUNDAMENTALS OF ENGLISH COMPOSITION（INTERMEDIATE LEVEL）",3,期,False,35,2,28,7,曾千紋,管CM 2025,"['', '', '', '', '567', '', '']","《講授類》
+限非外文系。建議英文程度中級以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAIE702&Crsname=英語簡報與口語表達（中高級）,,,False,跨院EAP,GEAIE702,0,不分班,"英語簡報與口語表達（中高級）
+ENGLISH PRESENTATION AND ORAL EXPRESSION(HIGH-INTERMEDIATE LEVEL)",3,期,False,50,1,14,36,陳美淑,海ME 3006,"['', '', '234', '', '', '', '']","《講授類》
+限非外文系。建議英文程度中高級以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAIE705&Crsname=科技英文閱讀（中高級）,,,False,跨院EAP,GEAIE705,0,不分班,"科技英文閱讀（中高級）
+ENGLISH READING FOR SCIENCE AND TECHNOLOGY（HIGH-INTERMEDIATE LEVEL）",3,期,False,50,1,49,1,陳美淑,管CM 2025,"['', '234', '', '', '', '', '']","《講授類》
+限非外文系。建議英文程度中高級以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課",['實用英語跨域學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAIE706&Crsname=極限閱讀：挑戰想像力與創造力（中高級）,異動,更換教室9/15,False,跨院EAP,GEAIE706,0,不分班,"極限閱讀：挑戰想像力與創造力（中高級）
+EXTREME READING: CHALLENGES OF IMAGINATION AND CREATIVITY（HIGH-INTERMEDIATE LEVEL）",3,期,False,50,1,59,-9,陳瑞華,西SW 1005,"['', '', '', '', '234', '', '']","《講授類》
+限非外文系。建議英文程度中高級以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課",['實用英語跨域學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAIE707&Crsname=增進跨文化溝通技能（中高級）,,,False,跨院EAP,GEAIE707,0,不分班,"增進跨文化溝通技能（中高級）
+ENHANCING CROSS-CULTURAL COMMUNICATION SKILLS (HIGH-INTERMEDIATE LEVEL)",3,期,False,50,0,51,-1,李香蘭,西SW 1005,"['34B', '', '', '', '', '', '']","《講授類》
+限非外文系。建議英文程度中高級以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課",['實用英語跨域學程'],False

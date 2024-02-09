@@ -1,0 +1,52 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS512&Crsname=資料庫系統,,,False,資管碩,MIS512,0,,"資料庫系統
+DATA BASE MANAGEMENT AND SYSTEMS",3,期,False,50,0,53,-3,黃三益,管CM 4069,"['', 'CDE', '', '', '', '', '']",《講授類》,"['金融服務與金融科技微學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS512&Crsname=資料庫系統,,,False,資管碩,MIS512,0,,"資料庫系統
+DATA BASE MANAGEMENT AND SYSTEMS",3,期,False,50,0,53,-3,黃三益,管CM 4069,"['', 'CDE', '', '', '', '', '']",《講授類》,"['金融服務與金融科技微學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS514&Crsname=生產與作業管理,,,False,資管碩,MIS514,0,,"生產與作業管理
+PRODUCTION/OPERATION MANAGEMENT",3,期,False,50,0,23,27,劉賓陽,管CM 2016,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS514&Crsname=生產與作業管理,,,False,資管碩,MIS514,0,,"生產與作業管理
+PRODUCTION/OPERATION MANAGEMENT",3,期,False,50,0,23,27,劉賓陽,管CM 2016,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,,,False,資管碩,MIS526,0,,"供應鏈管理
+SUPPLY CHAIN MANAGEMENT",3,期,False,50,0,18,32,李捷,管CM 4069,"['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,,,False,資管碩,MIS526,0,,"供應鏈管理
+SUPPLY CHAIN MANAGEMENT",3,期,False,50,0,18,32,李捷,管CM 4069,"['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,,,False,資管碩,MIS526,0,,"供應鏈管理
+SUPPLY CHAIN MANAGEMENT",3,期,False,50,0,18,32,李捷,管CM 4069,"['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,,,False,資管碩,MIS526,0,,"供應鏈管理
+SUPPLY CHAIN MANAGEMENT",3,期,False,50,0,18,32,李捷,管CM 4069,"['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析,,,False,資管碩,MIS559,0,,"系統模擬與分析
+SYSTEM SIMULATION AND ANALYSIS",3,期,False,50,0,1,49,劉賓陽,管CM 3051,"['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析,,,False,資管碩,MIS559,0,,"系統模擬與分析
+SYSTEM SIMULATION AND ANALYSIS",3,期,False,50,0,1,49,劉賓陽,管CM 3051,"['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析,,,False,資管碩,MIS559,0,,"系統模擬與分析
+SYSTEM SIMULATION AND ANALYSIS",3,期,False,50,0,1,49,劉賓陽,管CM 3051,"['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析,,,False,資管碩,MIS559,0,,"系統模擬與分析
+SYSTEM SIMULATION AND ANALYSIS",3,期,False,50,0,1,49,劉賓陽,管CM 3051,"['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS572&Crsname=巨量資料分析導論,,,False,資管碩,MIS572,0,,"巨量資料分析導論
+INTRODUCTION TO BIG DATA ANALYTICS",3,期,False,50,0,59,-9,康藝晃,管CM 3051,"['', '', '567', '', '', '', '']",《講授類》,"['跨領域智慧製造學程', '智慧製造聯網微學程', '巨量資料分析學程', '金融科技學程', '金融科技學程', '金融科技學程', '永續能源學程', '人工智能投資微學程', '金融科技與創新微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS572&Crsname=巨量資料分析導論,,,False,資管碩,MIS572,0,,"巨量資料分析導論
+INTRODUCTION TO BIG DATA ANALYTICS",3,期,False,50,0,59,-9,康藝晃,管CM 3051,"['', '', '567', '', '', '', '']",《講授類》,"['跨領域智慧製造學程', '智慧製造聯網微學程', '巨量資料分析學程', '金融科技學程', '金融科技學程', '金融科技學程', '永續能源學程', '人工智能投資微學程', '金融科技與創新微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS580&Crsname=金融科技,,,False,資管碩,MIS580,0,,"金融科技
+FINTECH",3,期,False,50,0,27,23,楊淯程,管CM 3015,"['', '', '', '234', '', '', '']",《講授類》,"['金融服務與金融科技微學程', '科技創新與服務業管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS580&Crsname=金融科技,,,False,資管碩,MIS580,0,,"金融科技
+FINTECH",3,期,False,50,0,27,23,楊淯程,管CM 3015,"['', '', '', '234', '', '', '']",《講授類》,"['金融服務與金融科技微學程', '科技創新與服務業管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS583&Crsname=深度學習,,,False,資管碩,MIS583,0,,"深度學習
+DEEP LEARNING",3,期,False,50,0,61,-11,楊惠芳,管CM 4069,"['', '', '', '234', '', '', '']",《講授類》,['商業大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS583&Crsname=深度學習,,,False,資管碩,MIS583,0,,"深度學習
+DEEP LEARNING",3,期,False,50,0,61,-11,楊惠芳,管CM 4069,"['', '', '', '234', '', '', '']",《講授類》,['商業大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=FM523&Crsname=選擇權市場理論與策略,異動,更換時間6/29,False,財管碩,FM523,0,,"選擇權市場理論與策略
+OPTIONS MARKETS:THEORY AND STRATEGY",3,期,False,50,0,5,45,鄭義,管CM 2026,"['', '', '123', '', '', '', '']","《講授類》
+ 
+※英語授課","['金融工程學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM594&Crsname=行銷管理,,,False,人管碩,HRM594,1,,"行銷管理
+MARKETING MANAGEMENT",3,期,False,50,0,49,1,張恩欣,管CM 3043,"['', '', '', '', '', '678', '']","《講授類》
+限人管所學生選修",[],False

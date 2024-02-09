@@ -1,0 +1,53 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM212A&Crsname=化學實驗（三）,,,True,化學系,CHEM212A,2,全英班,"化學實驗（三）
+CHEMISTRY LABORATORY(III)",2,期,True,50,0,14,36,林渝亞,理SC 4020,"['', '', '', '', '234', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號單號選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM212B&Crsname=化學實驗（三）,,,True,化學系,CHEM212B,2,不分班,"化學實驗（三）
+CHEMISTRY LABORATORY(III)",2,期,True,50,0,15,35,廖軒宏,理SC 4020,"['', '', '', '', '567', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號單號選",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM212C&Crsname=化學實驗（三）,,,True,化學系,CHEM212C,2,全英班,"化學實驗（三）
+CHEMISTRY LABORATORY(III)",2,期,True,50,0,10,40,曾韋龍,理SC 4032,"['', '', '', '', '234', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號雙號選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM214&Crsname=分析化學（二）,異動,更換教室8/24,False,化學系,CHEM214,2,不分班,"分析化學（二）
+ANALYTICAL CHEMISTRY(II)",3,期,True,50,0,50,0,張柏齡,理SC 3001,"['', '2', '', '', '23', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM214A&Crsname=分析化學（二）,異動,確認教師8/7,False,化學系,CHEM214A,2,全英班,"分析化學（二）
+ANALYTICAL CHEMISTRY(II)",3,期,True,50,0,25,25,克里斯那,理SC 3004,"['5', '', '', '23', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM215&Crsname=有機化學（二）,異動,更換部份時間7/18,False,化學系,CHEM215,2,不分班,"有機化學（二）
+ORGANIC CHEMISTRY (II)",3,期,True,60,0,45,15,吳明忠,理SC 0009,"['', '34', '', '', '4', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM215A&Crsname=有機化學（二）,,,False,化學系,CHEM215A,2,全英班,"有機化學（二）
+ORGANIC CHEMISTRY (II)",3,期,True,50,0,29,21,林渝亞,理SC 3004,"['67', '', '', '4', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM302&Crsname=無機化學（二）,,,False,化學系,CHEM302,3,不分班,"無機化學（二）
+INORGANIC CHEMISTRY(II)",3,期,True,60,0,58,2,陳軍互,理SC 3001,"['', '78', '4', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM302A&Crsname=無機化學（二）,,,False,化學系,CHEM302A,3,全英班,"無機化學（二）
+INORGANIC CHEMISTRY(II)",3,期,True,50,0,13,37,梁蘭昌,理CH 3002,"['34', '', '4', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM311&Crsname=物理化學（二）,,,False,化學系,CHEM311,3,不分班,"物理化學（二）
+PHYSICAL CHEMISTRY (II)",3,期,True,50,0,57,-7,張元賓,理SC 3001,"['', '6', '23', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM311A&Crsname=物理化學（二）,異動,更換部份教室9/6,False,化學系,CHEM311A,3,全英班,"物理化學（二）
+PHYSICAL CHEMISTRY (II)",3,期,True,50,0,15,35,楊崇鑫,"理CH 3002,理SC 3001","['', '5', '23', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM317&Crsname=專題研究（一）,,,False,化學系,CHEM317,3,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,14,36,梁子輝,,"['A', '', 'A', '', 'A', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM319&Crsname=化學實驗（五）,異動,更換部份教室9/11,True,化學系,CHEM319,3,不分班,"化學實驗（五）
+CHEMISTRY LABORATORY(V)",2,期,True,50,0,27,23,邱政超,"理SC 3004,理SC 4020,理SC 4032","['234', '', '', '', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號單號選",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM319A&Crsname=化學實驗（五）,異動,更換教室6/27,False,化學系,CHEM319A,3,全英班,"化學實驗（五）
+CHEMISTRY LABORATORY(V)",2,期,True,50,0,13,37,"邱政超,楊崇鑫","理SC 4020,理SC 4031,理SC 4032","['', '678', '', '', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM319B&Crsname=化學實驗（五）,,,True,化學系,CHEM319B,3,不分班,"化學實驗（五）
+CHEMISTRY LABORATORY(V)",2,期,True,50,0,26,24,張元賓,理SC 4031,"['234', '', '', '', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號雙號選",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM403&Crsname=專題研究（三）,,,False,化學系,CHEM403,3,不分班,"專題研究（三）
+INDEPENDENT STUDIES(III)",3,期,False,50,0,4,46,張柏齡,,"['A', '', 'A', '', 'A', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM405&Crsname=有機光譜概論,異動,更換教室8/24,False,化學系,CHEM405,4,不分班,"有機光譜概論
+INTRODUCTION TO ORGANIC SPECTROSCOPY",3,期,False,50,0,22,28,林伯樵,理SC 3003-2,"['6', '', '', '', '34', '', '']","《講授類》
+化學系主題課程。3-4年級皆可選修。
+※英語授課","['天然藥物合成學程', '有機和材料合成學程', '海洋天然物微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM408&Crsname=有機金屬化學,異動,更換教室9/7,False,化學系,CHEM408,4,不分班,"有機金屬化學
+ORGANOMETALLIC CHEMISTRY",3,期,False,50,0,30,20,梁子輝,理SC 0009,"['', '', '', '234', '', '', '']","《講授類》
+化學系主題課程。3-4年級皆可選修。
+※英語授課",['有機和材料合成學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM410&Crsname=高分子化學導論,異動,調整名額9/12,False,化學系,CHEM410,4,不分班,"高分子化學導論
+INTRODUCTION TO POLYMER CHEMISTRY",3,期,False,70,1,47,23,梁蘭昌,理SC 2001,"['789', '', '', '', '', '', '']","《講授類》
+化學系主題課程。1-4年級皆可選修。","['有機和材料合成學程', '半導體化學']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CHEM425&Crsname=食品安全分析概論,,,False,化學系,CHEM425,4,不分班,"食品安全分析概論
+INTRODUCTION OF FOOD SAFETY AND EXAMINATION TECHNIQUES",2,期,False,60,0,51,9,謝建台,理SC 3001,"['78', '', '', '', '', '', '']","《講授類》
+2-4年級皆可選修。","['海洋生產模式整合學程', '海洋天然物微學程', '食品安全學程', '印象海味微學程']",False

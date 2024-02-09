@@ -1,0 +1,64 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI2106&Crsname=俄文（一）,,,True,跨院選修(文),GEAI2106,0,不分班,"俄文（一）
+RUSSIAN (I)",3,期,True,15,0,19,-4,吳鴻傑,文LA 3012,"['', '', '567', '', '', '', '']","《講授類》
+跨院通識與外文系DFLL240課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI2112&Crsname=德文（一） ,異動,修正備註說明7/3,True,跨院選修(文),GEAI2112,0,不分班,"德文（一） 
+GERMAN (I)",3,期,False,10,0,15,-5,陳麗雅,文LA 1001,"['', '', '234', '', '', '', '']","《講授類》
+跨院通識與外文系DFLL238A課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1203&Crsname=普通物理實驗（一）,異動,更換教師8/7,False,跨院選修(理),GEAI1203,0,不分班,"普通物理實驗（一）
+GENERAL PHYSICS LABORATORY (I)",1,期,True,20,0,1,19,陳易馨,理SC 0018、理SC 0019,"['567', '', '', '', '', '', '']","《實驗類》
+物理系、光電系與材光系一年級學生優先選修，本課程無法抵免英語專班普通物理實驗跨院通識與普通物理小組PHY108課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1203B&Crsname=普通物理實驗（一）,,,False,跨院選修(理),GEAI1203B,0,不分班,"普通物理實驗（一）
+GENERAL PHYSICS LABORATORY (I)",1,期,True,20,0,3,17,陳易馨,理SC 0018、理SC 0019,"['', '', '567', '', '', '', '']","《實驗類》
+跨院通識與普通物理小組PHY108B課程併班上課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1203C&Crsname=普通物理實驗（一）,異動,更換教師8/7,False,跨院選修(理),GEAI1203C,0,不分班,"普通物理實驗（一）
+GENERAL PHYSICS LABORATORY (I)",1,期,True,20,0,7,13,洪昇廷,理SC 0018、理SC 0019,"['', '', '', '234', '', '', '']","《實驗類》
+跨院通識與普通物理小組PHY108C課程併班上課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1213&Crsname=生物化學（一）,,,False,跨院選修(理),GEAI1213,0,不分班,"生物化學（一）
+BIOCHEMISTRY(I)",3,期,True,10,1,1,9,陳俊霖,理SC 2001,"['', '234', '', '', '', '', '']","《講授類》
+跨院通識與生科系BIOS210課程併班上課","['天然藥物合成學程', '天然藥物合成學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1214&Crsname=微生物學,,,False,跨院選修(理),GEAI1214,0,不分班,"微生物學
+MICROBIOLOGY",3,期,False,10,1,6,4,李哲欣,理SC 3005,"['234', '', '', '', '', '', '']","《講授類》
+跨院通識與生科系BIOS230課程併班上課","['海洋微生物及應用推廣微學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1215&Crsname=線性代數（一）,,,False,跨院選修(理),GEAI1215,0,不分班,"線性代數（一）
+LINEAR ALGEBRA (I)",3,期,True,25,0,9,16,許柏翰,理SC 0012,"['', '', '5', '', '78', '', '']","《講授類》
+跨院通識與應數系MATH103課程併班上課","['應用數學學程', '人工智慧與數學學程', '金融工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1215A&Crsname=線性代數（一）,,,False,跨院選修(理),GEAI1215A,0,不分班,"線性代數（一）
+LINEAR ALGEBRA (I)",3,期,True,25,0,26,-1,林晉宏,理SC 0014,"['23', '', '2', '', '', '', '']","《講授類》
+跨院通識與應數系MATH103A課程併班上課
+※英語授課","['應用數學學程', '人工智慧與數學學程', '金融工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1216&Crsname=數學導論（一）,,,False,跨院選修(理),GEAI1216,0,不分班,"數學導論（一）
+INTRODUCTION TO MATHEMATICS (I)",3,期,True,15,0,4,11,陳志偉,理SC 0012,"['23', '', '2', '', '', '', '']","《講授類》
+跨院通識與應數系MATH107課程併班上課",['應用數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1216A&Crsname=數學導論（一）,,,False,跨院選修(理),GEAI1216A,0,不分班,"數學導論（一）
+INTRODUCTION TO MATHEMATICS (I)",3,期,True,15,0,7,8,陳志偉,"理SC 1003,理SC 4011","['', '', '5', '', '78', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與應數系MATH107A課程併班上課
+※英語授課",['應用數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1219&Crsname=科學史,,,False,跨院選修(理),GEAI1219,0,不分班,"科學史
+HISTORY OF SCIENCE",2,期,False,45,6,51,-6,"郭政育,吳長益,林煥祥,羅春光",理SC 1005,"['', '', '', '89', '', '', '']","《講授類》
+理學院學生：課號SCI105，非理學院學生-跨院通識選修課號：GEAI1219。跨院通識與理學院SCI105課程併班上課",['應用數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1221&Crsname=神經科學概論,,,False,跨院選修(理),GEAI1221,0,不分班,"神經科學概論
+INTRODUCTION TO NEUROSCIENCE",3,期,False,50,1,3,47,劉昭成,理SC 2001,"['', '678', '', '', '', '', '']","《講授類》
+跨院通識與生科系BIOS231課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1233&Crsname=半導體奈米元件製造技術,,,False,跨院選修(理),GEAI1233,0,不分班,"半導體奈米元件製造技術
+MANUFACTURING TECHNOLOGY OF SEMICONDUCTOR FOR NANO DEVICE",3,期,False,25,2,25,0,張鼎張,理PH 2006,"['CDE', '', '', '', '', '', '']","《講授類》
+跨院通識與物理系PHYS409課程併班上課","['半導體物理與先進元件分析微學程', '半導體元件學程', '類比射頻IC設計學程', '半導體化學']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1305&Crsname=資訊人與智慧財產權,,,False,跨院選修(工),GEAI1305,0,不分班,"資訊人與智慧財產權
+INTELLECTUAL PROPERTY  AND INFORMATION SOCIETY",3,期,False,20,2,12,8,黃英哲,工EC 1005,"['', '234', '', '', '', '', '']","《講授類》
+跨院通識與資工系CSE420課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1311&Crsname=計算機概論,,,False,跨院選修(工),GEAI1311,0,不分班,"計算機概論
+INTRODUCTION TO COMPUTERS",3,期,True,10,2,14,-4,陳伯煒,工EC 2002,"['', '', '', '', '567', '', '']","《講授類》
+甲、乙班併班上課跨院通識與電機系EE1300課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1311B&Crsname=計算機概論,異動,確認教師8/8,False,跨院選修(工),GEAI1311B,0,不分班,"計算機概論
+INTRODUCTION TO COMPUTERS",3,期,True,10,0,6,4,翁愷貽,工EC 3012,"['', '', '234', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與電機系EE1300B課程併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1312&Crsname=電子學（一）,,,False,跨院選修(工),GEAI1312,0,不分班,"電子學（一）
+ELECTRONICS (I)",3,期,True,10,0,3,7,馬誠佑,工EC 2011,"['', '234', '', '', '', '', '']","《講授類》
+跨院通識與電機系EE2100課程併班上課","['半導體製程模組學程', '半導體元件學程', '半導體元件學程', '數位IC設計學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1312A&Crsname=電子學（一）,,,False,跨院選修(工),GEAI1312A,0,不分班,"電子學（一）
+ELECTRONICS (I)",3,期,True,10,0,11,-1,莊豐任,工EC 6019,"['', '234', '', '', '', '', '']","《講授類》
+跨院通識與電機系EE2100A課程併班上課","['半導體製程模組學程', '半導體元件學程', '半導體元件學程', '數位IC設計學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1312B&Crsname=電子學（一）,,,False,跨院選修(工),GEAI1312B,0,不分班,"電子學（一）
+ELECTRONICS (I)",3,期,True,10,0,10,0,劉漢胤,工EC 3012,"['', '', '567', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與電機系EE2100B課程併班上課
+※英語授課","['半導體製程模組學程', '半導體元件學程', '半導體元件學程', '數位IC設計學程', '類比射頻IC設計學程']",False

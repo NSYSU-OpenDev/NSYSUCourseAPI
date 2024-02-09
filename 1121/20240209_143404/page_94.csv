@@ -1,0 +1,51 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR547&Crsname=天然藥物之生醫分析方法,,,False,海資碩,MBR547,1,不分班,"天然藥物之生醫分析方法
+METHODS OF BIOMEDICAL ANALYSIS FOR NATURE DRUGS",3,期,False,50,0,1,49,溫志宏,海MB 2016,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR550&Crsname=海洋生物技術專研（一）,異動,確認教師9/11,False,海資碩,MBR550,1,不分班,"海洋生物技術專研（一）
+INDEPENDENT STUDIES IN MARINE BIOTECHNOLOGY (I)",2,期,False,50,0,7,43,"王亮鈞,李澤民,溫志宏",,"['', '', 'CD', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR552&Crsname=珊瑚基因體學,異動,更換教室9/1,False,海資碩,MBR552,1,不分班,"珊瑚基因體學
+CORAL GENOMICS",2,期,False,50,0,7,43,林梅芳,海MB 2016,"['', '', '', '', '34', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR558&Crsname=水生生態專題研究（一）,異動,確認教師9/11,False,海資碩,MBR558,1,不分班,"水生生態專題研究（一）
+INDEPENDENT STUDIES INAQUATIC ECOLOGY (I)",2,期,False,50,0,9,41,"劉商隱,林梅芳",,"['', '', 'CD', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR579&Crsname=海洋化學生物學專題研究（一）,,,False,海資碩,MBR579,1,不分班,"海洋化學生物學專題研究（一）
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (I)",2,期,False,50,0,10,40,"鄭源斌,廖志中,翁靖如",,"['', '', 'CD', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR592&Crsname=海洋生物多樣性與保育（一）,,,True,海資碩,MBR592,1,不分班,"海洋生物多樣性與保育（一）
+MARINE BIODIVERSITY AND CONSERVATION （1）",2,期,True,50,0,9,41,劉商隱,海MB 2015,"['', '', '34', '', '', '', '']","《講授類》
+ 
+※英語授課",['生物多樣性學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR592A&Crsname=海洋生物多樣性與保育（一）,,,True,海資碩,MBR592A,1,不分班,"海洋生物多樣性與保育（一）
+MARINE BIODIVERSITY AND CONSERVATION （1）",2,期,False,50,0,5,45,李欣,海生館第二研究大樓R 2002,"['', '', '34', '', '', '', '']","《講授類》
+請注意上課地點在海生館",['生物多樣性學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR597&Crsname=海洋天然物與化學分析（一）,,,True,海資碩,MBR597,1,不分班,"海洋天然物與化學分析（一）
+MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS I",2,期,True,50,0,6,44,"翁靖如,李益銘",海MB 3013,"['', '', '', '', '56', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR597A&Crsname=海洋天然物與化學分析（一）,,,True,海資碩,MBR597A,1,不分班,"海洋天然物與化學分析（一）
+MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS I",2,期,False,50,0,4,46,"宋秉鈞,蘇瑞欣",海生館第二研究大樓R 2002,"['', '', '', '', '56', '', '']","《講授類》
+請注意上課地點在海生館",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR601&Crsname=海洋生物科技專題研討（三）,,,False,海資碩,MBR601,2,不分班,"海洋生物科技專題研討（三）
+SEMINAR IN MARINE BIOTECHNOLOGY (III)",2,期,False,50,0,6,44,李澤民,海MB 2015,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR603&Crsname=海洋生態專題研討（三）,,,False,海資碩,MBR603,2,不分班,"海洋生態專題研討（三）
+SEMINAR IN MARINE ECOLOGY (III)",2,期,False,50,0,3,47,"林梅芳,劉商隱",海MB 1005,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR607&Crsname=海洋化學資源專題研討（三）,,,False,海資碩,MBR607,2,不分班,"海洋化學資源專題研討（三）
+SEMINAR IN MARINE CHEMICAL RESOURCES (III)",2,期,False,50,0,2,48,鄭源斌,海MB 2014,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR607A&Crsname=海洋化學資源專題研討（三）,新增,7/20,False,海資碩,MBR607A,2,不分班,"海洋化學資源專題研討（三）
+SEMINAR IN MARINE CHEMICAL RESOURCES (III)",2,期,False,50,0,8,42,"宋秉鈞,蘇瑞欣",海生館第二研究大樓R2002,"['67', '', '', '', '', '', '']","《研討類》
+請注意上課地點在海生館。學生修畢本課程後，請依修讀組別辦理學分抵免。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR613&Crsname=海洋生物技術專研（三）,異動,確認教師9/11,False,海資碩,MBR613,2,不分班,"海洋生物技術專研（三）
+INDEPENDENT STUDIES IN MARINE BIOTECHNOLOGY (III)",2,期,False,50,0,10,40,"溫志宏,李澤民,王亮鈞,王立雪",,"['', '', '', '', 'CD', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR621&Crsname=水生生態專題研究（三）,異動,確認教師9/11,False,海資碩,MBR621,2,不分班,"水生生態專題研究（三）
+INDEPENDENT STUDIES IN AQUATIC ECOLOGY (III)",2,期,False,50,0,6,44,"林秀瑾,張桂祥,林梅芳,樊同雲,陳德豪",,"['', '', '', '', 'CD', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR635&Crsname=海洋化學生物學專題研究（三）,異動,確認教師9/11,False,海資碩,MBR635,2,不分班,"海洋化學生物學專題研究（三）
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (III)",2,期,False,50,0,5,45,"鄭源斌,唐川禾,廖志中",,"['', '', '', '', 'CD', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MAEV501&Crsname=海洋環境書報討論（一）,,,False,海工碩,MAEV501,1,不分班,"海洋環境書報討論（一）
+SEMINAR IN MARINE ENVIRONMENT (I)",2,期,False,50,0,23,27,林俊宏,海ME 3002,"['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MAEV505&Crsname=專題研究（一）,異動,確認教師9/11,False,海工碩,MAEV505,2,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,13,37,"李政賢,夏沛亞,林巧雯,王右仁,莊偉良,葉博弘,許弘莒,金尚進,陸曉筠",,"['', '', '', '', '', '', '678']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MAEV522&Crsname=海洋系統模擬（一）,,,False,海工碩,MAEV522,1,不分班,"海洋系統模擬（一）
+MARINE SYSTEM MODELING(I)",3,期,False,50,0,4,46,歐雅森,海ME 2003,"['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MAEV525&Crsname=應用工程水力學,,,False,海工碩,MAEV525,1,不分班,"應用工程水力學
+APPLIED ENGINEERING HYDRAULICS",3,期,False,50,0,5,45,歐雅森,海ME 2002,"['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['環境教育學程'],False

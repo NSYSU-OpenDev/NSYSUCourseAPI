@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSS134&Crsname=智慧城市與智慧運輸趨勢、發展及課題研析,異動,更換教室及備註9/12,False,社科院,CSS134,0,不分班,"智慧城市與智慧運輸趨勢、發展及課題研析
+THE TREND, DEVELOPMENT, AND CHALLENGE OF SMART CITY AND SMART TRANSIT",3,期,False,20,4,93,-73,"李予綱,蔣依吾",海MA 3021,"['', '', '', '', '567', '', '']","《講授類》
+9/15-10/6因課程安排，調整教室至國研大樓2F光中廳。","['製造與大數據分析微學程', '數據科學微學程', '都市文化與地景微學程', '環境、社會及公司治理微學程', '公共交通行動服務微學程', '智慧城市與智慧運輸學程', '城市行銷微學程', '都市永續規劃與管理微學程', '運輸管理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSS135&Crsname=國際金融,,,False,社科院,CSS135,0,不分班,"國際金融
+INTERNATIONAL FINANCE",3,期,False,20,0,20,0,吳致寧,社SS 4001,"['', '567', '', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '數據科學微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSS137&Crsname=資料視覺化,新增,8/17,False,社科院,CSS137,0,不分班,"資料視覺化
+DATA VISUALIZATION",3,期,False,80,1,89,-9,李予綱,社SS 3001,"['', '', '', '', '234', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '數據科學微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSS140&Crsname=智慧城市數位轉型,,,False,社科院,CSS140,0,不分班,"智慧城市數位轉型
+DIGITAL TRANSFORMATION OF SMART CITIES",3,期,False,100,3,94,6,李予綱,社SS 1002,"['', '', '234', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '城市行銷微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSS141&Crsname=智慧治理：危機與創新,,,False,社科院,CSS141,0,不分班,"智慧治理：危機與創新
+SMART GOVERNANCE: CONTINGENCY AND INNOVATION",3,期,False,20,1,39,-19,游尚儒,管CM 1037,"['', '', '', '', '678', '', '']",《講授類》,"['地方創生與區域治理微學程', '智慧城市與智慧運輸學程', '城市行銷微學程', '地方創生與永續發展整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSS147&Crsname=總體經濟與政策分析,,,False,社科院,CSS147,0,不分班,"總體經濟與政策分析
+MACROECONOMICS AND POLICY ANALYSIS",3,期,False,35,0,34,1,陳冠任,社SS 3005,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSS151&Crsname=文化地景專題: 遺產化的政治經濟學,,,False,社科院,CSS151,0,不分班,"文化地景專題: 遺產化的政治經濟學
+TOPICS IN EAST ASIAN CITIES: CULTURAL ECONOMY AND CULTURAL GOVERNANCE",3,期,False,30,0,9,21,蔡書瑋,社SS 3005,"['', '567', '', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '都市文化與地景微學程', '原民文化探索及永續發展學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CSS154&Crsname=比較政治,,,False,社科院,CSS154,0,不分班,"比較政治
+COMPARATIVE POLITICS",3,期,False,25,0,12,13,方志恒,社SS 4001,"['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=SWC101&Crsname=職涯探索與實習,新增,8/25,False,西灣學院,SWC101,0,不分班,"職涯探索與實習
+CAREER EXPLORATION AND INTERNSHIP LEARNING",2,期,False,63,0,59,4,"王致遠,王啟仲",通GE 1008,"['', '89', '', '', '', '', '']","《講授類》
+此課程僅限112/8/17前參與課程甄選，入選者方得加選。詳見職涯學院粉專：國立中山大學西灣職涯學院。",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PIS1001&Crsname=文化人類學,,,False,人科學程,PIS1001,1,不分班,"文化人類學
+CULTURAL ANTHROPOLOGY",3,期,True,50,0,41,9,宋世祥,西SW 1005,"['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PIS1002&Crsname=基礎程式應用,異動,調整名額7/10,False,人科學程,PIS1002,1,不分班,"基礎程式應用
+BASIC COMPUTER PROGRAMMING AND APPLICATION",3,期,True,30,1,33,-3,楊政融,西SW 1007,"['', '234', '', '', '', '', '']",《講授類》,['全英語通識教育菁英學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PIS1003&Crsname=綠色創新設計,異動,更換授課方式7/10,False,人科學程,PIS1003,1,不分班,"綠色創新設計
+ECO-INNOVATIVE DESIGN",3,期,False,30,0,4,26,楊政融,西SW 1007,"['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['全英語通識教育菁英學程', 'STREAM永續發展培力微學程', '碳流資訊盤查與低碳設計微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PIS1015&Crsname=永續發展實務,異動,更換時間及教師8/17,False,人科學程,PIS1015,1,不分班,"永續發展實務
+SUSTAINABLE DEVELOPMENT PRACTICE",3,期,False,30,1,30,0,"黃煒能,楊政融",西SW 1007,"['', '', '', '', '234', '', '']",《講授類》,['碳流資訊盤查與低碳設計微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PIS1101&Crsname=智慧型運輸系統,異動,更換教師9/6,False,人科學程,PIS1101,1,不分班,"智慧型運輸系統
+INTRODUCTION TO INTELLIGENT TRANSPORTATION SYSTEMS",3,期,False,20,0,20,0,夏晧清,西SW 1005,"['', '', '', '', '567', '', '']",《講授類》,"['智慧港埠微學程', '智慧城市與智慧運輸學程', '運輸管理微學程', '公共交通行動服務微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PIS1103&Crsname=都市環境概論,,,False,人科學程,PIS1103,1,不分班,"都市環境概論
+INTRODUCTION TO URBAN ENVIRONMENT",3,期,False,50,2,32,18,夏晧清,西SW 1005,"['', '234', '', '', '', '', '']",《講授類》,"['綠色港市微學程', '智慧城市與智慧運輸學程', '都市永續規劃與管理微學程', '碳流資訊盤查與低碳設計微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PIS1213&Crsname=場景設計導論,,,False,人科學程,PIS1213,1,不分班,"場景設計導論
+INTRODUCTION TO SCENE DESIGN",2,期,False,50,0,6,44,李怡賡,文FA 1014,"['', '67', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PIS1302&Crsname=食品科學概論,異動,更換時間及教室8/7,False,人科學程,PIS1302,1,不分班,"食品科學概論
+INTRODUCTION TO FOOD SCIENCE",2,期,False,35,1,35,0,吳長益,理SC 0014,"['', '', '', '', '78', '', '']",《講授類》,"['食品安全學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PIS1304&Crsname=食品營養安全與健康講座,異動,更換時間及教室8/7,False,人科學程,PIS1304,1,不分班,"食品營養安全與健康講座
+SPECIAL LECTURES ON FOOD NUTRITION, SAFETY, AND HEALTH",2,期,False,50,12,55,-5,吳長益,通GE 1010,"['', '', '', '', 'B5', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PIS1305&Crsname=營養與藥物安全講座,,,False,人科學程,PIS1305,1,不分班,"營養與藥物安全講座
+SPECIAL LECTURES ON NUTRITION AND MEDICATION SAFETY",2,期,False,50,1,41,9,"廖志中,李景欽",海MA 3021,"['', '', '34', '', '', '', '']",《講授類》,"['校園預防醫學學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PIS1306&Crsname=身心健康醫學講座,異動,更換教室名稱8/8,False,人科學程,PIS1306,1,不分班,"身心健康醫學講座
+SPECIAL LECTURES ON PHYSICAL AND MENTAL HEALTH",2,期,False,40,14,51,-11,"余靈珊,王文宏",通GE 1010,"['34', '', '', '', '', '', '']",《講授類》,['校園預防醫學學程'],False

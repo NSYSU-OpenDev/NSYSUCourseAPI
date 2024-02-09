@@ -1,0 +1,63 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE230&Crsname=運動與健康：初級衝浪,,,False,運動健康(必),GEPE230,2,不分班,"運動與健康：初級衝浪
+SPORT & HEALTH：BASIC SURF",1,期,True,25,3,29,-4,蔡睿洋,海域中心/SeaSportsCenter,"['', '', '', '12', '', '', '']","《體育類》
+限大二以上選修，且游泳200公尺不落地完成 (自由式或蛙式)，方得修習本課程。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEPE303&Crsname=運動與健康：進階集訓班,,,False,運動進階(選),GEPE303,3,不分班,"運動與健康：進階集訓班
+SPORT & HEALTH:  ADVANCED ASSEMBLED TRAINING CLASS",2,期,False,100,0,44,56,"蔡宗晏,林國欽,林宗正,羅凱暘,蔡鋒樺,黃義博",,"['', 'A', '', 'A', '', '', '']","《體育類》
+限大三以上選修。本校校隊學生需自行加選，非校隊加選以零分計算 。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2105&Crsname=莎劇與文化詮釋,,,False,博雅向度一,GEAE2105,0,不分班,"莎劇與文化詮釋
+APPROACHING SHAKESPEARE：FROM PAGE TO PERFORMANCE",3,期,True,50,4,52,-2,林季怡,通GE 2006,"['', '', '', '567', '', '', '']","《講授類》
+限大2以上修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2107&Crsname=運動之美,,,False,博雅向度一,GEAE2107,0,不分班,"運動之美
+THE AESTHETICS OF SPORT",2,期,True,50,6,54,-4,羅凱暘,體GM 1004,"['89', '', '', '', '', '', '']","《講授類》
+限大2以上修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2108&Crsname=台灣社會與文化,,,False,博雅向度一,GEAE2108,0,不分班,"台灣社會與文化
+SOCIETY AND CULTURE IN TAIWAN",3,期,True,50,14,73,-23,江政寬,通GE 1008,"['567', '', '', '', '', '', '']","《講授類》
+限大2以上修習","['地方創生與區域治理微學程', '日本研究學程', '台日跨文化微學程', '環境教育學程', '地方敘事與創生學程', '社區文創微學程', '地方敘事與文化設計微學程', '地方創生與永續發展整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2109&Crsname=生命禮儀與文化詮釋,,,False,博雅向度一,GEAE2109,0,不分班,"生命禮儀與文化詮釋
+ANALYSIS OF CULTURE PERSPECTIVE ABOUT LIFE CEREMONY",3,期,True,50,2,49,1,楊濟襄,文LA 2004,"['234', '', '', '', '', '', '']","《講授類》
+限大2以上非中文系學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2113&Crsname=通識專題講座：美學與文化識讀,異動,更換教室9/12,False,博雅向度一,GEAE2113,0,不分班,"通識專題講座：美學與文化識讀
+LECTURESHIP ON GENERAL EDUCATION－ESTHETICS AND CULTURAL LITERACY",2,期,True,60,55,82,-22,"吳亦昕,江政寬",通GE 1008,"['34', '', '', '', '', '', '']","《演講/參訪》
+限大2以上修習","['日本研究學程', '法國語言、文化與社會學程', '地方敘事與創生學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2117&Crsname=當代劇場藝術的價值與思維,,,False,博雅向度一,GEAE2117,0,不分班,"當代劇場藝術的價值與思維
+MODERNISM IN THEATRE",2,期,True,50,13,56,-6,林宜誠,文FA 3007,"['', '89', '', '', '', '', '']","《講授類》
+限大2以上，非劇藝系學生修習","['法國語言、文化與社會學程', '音樂劇學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2123&Crsname=在地空間美學之探討,,,False,博雅向度一,GEAE2123,0,不分班,"在地空間美學之探討
+LOCALIZATION OF SPACE AESTHETICS",2,期,True,50,6,57,-7,李怡賡,文FA 1014,"['', '34', '', '', '', '', '']","《講授類》
+限大2以上修習","['環境教育學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2130&Crsname=紀錄片與台灣社會,,,False,博雅向度一,GEAE2130,0,不分班,"紀錄片與台灣社會
+DOCUMENTARIES AND TAIWAN SOCIETY",3,期,True,50,12,67,-17,顏蘭權,通GE 2006,"['567', '', '', '', '', '', '']","《講授類》
+限大2以上修習","['日本研究學程', '環境教育學程', '臺灣研究學程', '中文創意跨域應用整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2131&Crsname=博物館文化與創意,,,False,博雅向度一,GEAE2131,0,不分班,"博物館文化與創意
+CULTURE AND CREATIVITY OF MUSEUMS",2,期,True,50,25,80,-30,馬睿平,通GE 1008,"['', '', '', '89', '', '', '']","《講授類》
+限大2以上修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2140&Crsname=古代中國之俠義、愛情和怪異書寫,,,False,博雅向度一,GEAE2140,0,不分班,"古代中國之俠義、愛情和怪異書寫
+CHIVALRIC, ROMANTIC AND THE EXOTIC WRITINGS IN ANCIENT CHINA",2,期,True,50,3,55,-5,蘇其康,通GE 1010,"['', '', '67', '', '', '', '']","《講授類》
+1.限大2以上修習。 2.本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。 
+※英語授課",['台灣文化英語微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2142&Crsname=《聖經》導讀,,,False,博雅向度一,GEAE2142,0,不分班,"《聖經》導讀
+INTRODUCTION TO THE BIBLE",2,期,True,50,3,60,-10,徐淑瑛,海ME 2005,"['', '', '', '34', '', '', '']","《講授類》
+1.限大2以上非外文系學生修習。 2.本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2205&Crsname=視覺文化與哲學反思,,,False,博雅向度二,GEAE2205,0,不分班,"視覺文化與哲學反思
+VISUAL CULTURE AND PHILOSOPHICAL REFLECTION",3,期,True,80,3,89,-9,楊婉儀,通GE 1010,"['', '', '', '234', '', '', '']","《講授類》
+限大2以上修習",['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2207&Crsname=文化差異與倫理規範,異動,更換教室8/17,False,博雅向度二,GEAE2207,0,不分班,"文化差異與倫理規範
+CULTURAL DIFFERENCE AND ETHICAL NORMS",3,期,True,50,3,54,-4,游淙祺,文LA 7006,"['567', '', '', '', '', '', '']","《講授類》
+限大2以上修習","['法國語言、文化與社會學程', '臺灣研究學程', '跨文化人文思潮與美學微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2210&Crsname=生命教育,,,False,博雅向度二,GEAE2210,0,不分班,"生命教育
+LIFE EDUCATION",2,期,True,50,17,61,-11,楊婉儀,文LA 1004,"['', '', '34', '', '', '', '']","《講授類》
+限大2以上修習",['創作性戲劇與社群教育微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2219&Crsname=生命倫理的探索,,,False,博雅向度二,GEAE2219,0,不分班,"生命倫理的探索
+EXPLORATION OF HUMAN LIFE ETHICS",2,期,True,50,7,52,-2,戴遠雄,文LA 1003,"['', '56', '', '', '', '', '']","《講授類》
+限大2以上修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2226&Crsname=現代日本社會與宗教,,,False,博雅向度二,GEAE2226,0,不分班,"現代日本社會與宗教
+RELIGION IN MODERN JAPANESE SOCIETY",3,期,True,70,31,84,-14,伊藤佳代,通GE 2006,"['', '', '567', '', '', '', '']","《講授類》
+限大2以上修習。","['日本研究學程', '台日跨文化微學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2228&Crsname=印度宗教與身心健康之道,異動,調升名額9/12,False,博雅向度二,GEAE2228,0,不分班,"印度宗教與身心健康之道
+INDIAN RELIGION AND THE PATH TO HEALTH AND WELL-BEING",3,期,True,70,33,81,-11,越建東,通GE 4016,"['', '', '', '567', '', '', '']","《講授類》
+1.限大2以上修習。 2.本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAE2230&Crsname=普世人權：觀念與挑戰,異動,更換教室9/6,False,博雅向度二,GEAE2230,0,不分班,"普世人權：觀念與挑戰
+UNIVERSAL HUMAN RIGHTS: IDEAS AND CHALLENGES",3,期,True,50,6,65,-15,許家豪,海ME 3006,"['', '234', '', '', '', '', '']","《講授類》
+1.限大2以上修習。 2.本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課",['人權研究整合學程'],False

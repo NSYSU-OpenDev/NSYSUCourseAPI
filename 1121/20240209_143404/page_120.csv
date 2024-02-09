@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS704&Crsname=高等資管專題研討（一）,,,False,資管博,MIS704,1,不分班,"高等資管專題研討（一）
+SEMINAR IN ADVANCED INFORMATION SYSTEMS (I)",1,期,True,50,0,3,47,黃三益,管CM 4069,"['', '', '', '67', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MIS706&Crsname=高等資管專題研討（三）,,,False,資管博,MIS706,2,不分班,"高等資管專題研討（三）
+SEMINAR IN ADVANCED INFORMATION SYSTEMS (III)",1,期,True,50,0,4,46,黃三益,管CM 4069,"['', '', '', '67', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=FM702&Crsname=財務數理,,,False,財管博,FM702,0,不分班,"財務數理
+MATHEMATICAL FINANCE",3,期,False,30,0,6,24,蔡維哲,管CM 2020,"['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=FM703&Crsname=財務經濟學（一）,,,False,財管博,FM703,0,不分班,"財務經濟學（一）
+FINANCIAL ECONOMICS (I)",3,期,False,30,0,3,27,郭照榮,管CM 2020,"['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=FM704&Crsname=計量經濟學（一）,,,False,財管博,FM704,0,不分班,"計量經濟學（一）
+ECONOMETRICS (I)",3,期,False,30,0,8,22,佘博文,管CM 2020,"['', '567', '', '', '', '', '']",《講授類》,['金融科技學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=FM705&Crsname=財金專題評析（一）,,,False,財管博,FM705,1,不分班,"財金專題評析（一）
+FINANCIAL STUDIES REVIEW (I)",1,期,True,30,0,1,29,封之遠,管CM 2020,"['', '', '3', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=FM801&Crsname=財金專題評析（三）,,,False,財管博,FM801,0,不分班,"財金專題評析（三）
+FIANNACIAL STUDIES REVIEW (III)",1,期,False,30,0,1,29,封之遠,管CM 2020,"['', '', '4', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PAM702&Crsname=高等研究方法,,,False,公事博,PAM702,1,不分班,"高等研究方法
+ADVANCED RESEARCH METHODOLOGY",3,期,True,50,0,5,45,"吳偉寧,蔡錦昌",管CM 1035,"['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PAM707&Crsname=體制分析與公民治理,,,False,公事博,PAM707,2,不分班,"體制分析與公民治理
+INSTITUTIONAL ANALYSIS AND CITIZEN GOVERNANCE",3,期,False,50,0,4,46,蔡錦昌,管CM 1035,"['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM702&Crsname=高等人力資源管理,異動,更換教室8/18,False,人管博,HRM702,2,不分班,"高等人力資源管理
+ADVANCED HUMAN RESOURCE MANAGEMENT",3,期,True,50,0,7,43,紀乃文,管CM 3035,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM703&Crsname=高等研究方法（一）,,,False,人管博,HRM703,1,不分班,"高等研究方法（一）
+ADVANCED RESEARCH METHODS (I)",3,期,True,50,0,6,44,"謝慧賢,陳以亨",管CM 1036,"['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM705&Crsname=專案研究,異動,確認教師7/18,False,人管博,HRM705,2,不分班,"專案研究
+INDEPENDENT STUDIES",3,期,True,50,0,5,45,陳世哲,管CM 1036,"['', '', '', 'AB5', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM712&Crsname=英文論文寫作（一）,新增,6/30,False,人管博,HRM712,1,不分班,"英文論文寫作（一）
+PAPER WRITING IN ENGLISH (I)",3,期,False,50,0,4,46,紀乃文,管CM 4091,"['', '', '567', '', '', '', '']","《講授類》
+欲修課者，需提供英文檢定成績供授課教師審核；限人管所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM714&Crsname=質化研究方法（二）,,,False,人管博,HRM714,1,不分班,"質化研究方法（二）
+QUALITATIVE RESEARCH METHODS II",3,期,False,50,0,4,46,葉致微,管CM 1032,"['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM721&Crsname=研究方法專題研討,,,False,人管博,HRM721,2,不分班,"研究方法專題研討
+SEMINAR IN RESEARCH METHODS",3,期,False,50,0,5,45,李澄賢,管CM 1036,"['', '', 'CDE', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM742&Crsname=高等組織發展（一）,異動,更換時間9/6,False,人管博,HRM742,2,不分班,"高等組織發展（一）
+ADVANCED ORGANIZATION DEVELOPMENT (I)",3,期,False,50,0,1,49,"王豫萱,陳以亨",管CM 4091,"['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM747&Crsname=創新管理,,,False,人管博,HRM747,1,不分班,"創新管理
+INNOVATION MANAGEMENT",3,期,False,50,0,2,48,陳旻男,管CM 4091,"['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HRM772&Crsname=家族企業理論專題研究,,,False,人管博,HRM772,2,不分班,"家族企業理論專題研究
+SEMINAR IN FAMILY BUSINESS STUDIES",3,期,False,50,0,2,48,陳世哲,管CM 3043,"['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HCM702&Crsname=高等統計分析（一）,異動,更換教室9/15,False,企醫管博,HCM702,1,不分班,"高等統計分析（一）
+ADVANCED STATISTICAL ANALYSIS (I)",3,期,True,50,0,4,46,梁慧玫,管CM 4078,"['678', '', '', '', '', '', '']","《講授類》
+與企管博高等數量方法（一）併班授課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HCM705&Crsname=高等醫療經濟,,,False,企醫管博,HCM705,1,不分班,"高等醫療經濟
+ADVANCED HEALTH ECONOMICS",3,期,True,50,0,5,45,黃俊智,管CM 3035,"['', '', '', 'CDE', '', '', '']",《講授類》,[],False

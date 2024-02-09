@@ -1,0 +1,47 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO562&Crsname=高等海洋地質學,,,False,海科碩,DO562,0,,"高等海洋地質學
+ADVANCED MARINE GEOLOGY",3,期,False,50,0,3,47,林慧玲,海MA 2042,"['', '234', '', '', '', '', '']",《講授類》,['環境科技與管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO692&Crsname=物理海洋專題討論（一）,,,False,海科碩,DO692,0,,"物理海洋專題討論（一）
+SEMINAR IN PHYSICAL OCEANOGRAPHY (I)",1,期,False,50,0,3,47,方盈智,,"['', '', '6', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO694&Crsname=物理海洋專題討論（三）,,,False,海科碩,DO694,0,,"物理海洋專題討論（三）
+SEMINAR IN PHYSICAL OCEANOGRAPHY (III)",1,期,False,50,0,2,48,李逸環,,"['', '', '7', '', '', '', '']","《獨立研究》
+選修此課程須先修過DO692物理海洋專題討論(一)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DO701&Crsname=進階科學英文,,,False,海科碩,DO701,0,,"進階科學英文
+ADVANCED SCIENTIFIC ENGLISH",3,期,False,50,0,4,46,慕樂凡,海MA 2042,"['', '678', '', '', '', '', '']","《講授類》
+1.與DO405併班上課。2.TOEIC above 600 or equivalent",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=UT632&Crsname=水中聲學專題研究（一）,,,False,海下科技碩,UT632,0,,"水中聲學專題研究（一）
+INDEPENDENT STUDIES IN UNDERWATER ACOUSTICS (I)",2,期,False,50,0,2,48,"魏瑞昌,周佑誠,王兆璋,謝孟璋,邱永盛,陳信宏",海MA 2054,"['34', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=UT633&Crsname=水下機電專題研究（一）,,,False,海下科技碩,UT633,0,,"水下機電專題研究（一）
+INDEPENDENT STUDIES IN UNDERWATER MECHATRONICS (I)",2,期,False,50,0,4,46,"周佑誠,王兆璋,謝孟璋,邱永盛,陳信宏,魏瑞昌",海MA 2054,"['12', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEC520&Crsname=生物統計,異動,更換授課方式8/14,False,海生保育碩,MEC520,0,,"生物統計
+BIOSTATISTICS",3,期,False,50,0,19,31,林裕䕒,海MB 2016,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS501&Crsname=台灣政府與政治,異動,更換教室8/31,False,政治碩,IPS501,0,,"台灣政府與政治
+TAIWAN GOVERNMENT  AND POLITICS",3,期,False,50,0,26,24,杜坤峰,社SS 3010-2,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS506&Crsname=厚數據與意義探勘,新增,7/18,False,政治碩,IPS506,0,,"厚數據與意義探勘
+THICK DATA AND INTERPRETATION",1,期,False,50,0,7,43,劉正山,,"['234B5678', '', '', '', '', '', '']","《講授類》
+限暑假已參與課程之學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS507&Crsname=社會科學方法論,,,True,政治碩,IPS507,1,,"社會科學方法論
+SOCIAL SCIENCE METHODOLOGY",3,期,True,50,0,17,33,陳宗巖,社SS 3010-2,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS508&Crsname=資料分析方法入門,,,False,政治碩,IPS508,0,,"資料分析方法入門
+INTRODUCTION TO DATA ANALYSIS METHODS",3,期,False,50,0,10,40,黃韋豪,社SS 3010-2,"['', '', '234', '', '', '', '']",《講授類》,['政經大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS510&Crsname=政治理論,異動,更換教室9/5,True,政治碩,IPS510,1,,"政治理論
+TOPICS IN POLITICAL THEORY",3,期,True,50,1,5,45,楊尚儒,社SS 3010-2,"['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS511&Crsname=近代政治思想,,,False,政治碩,IPS511,0,,"近代政治思想
+MODERN POLITICAL THOUGHT",3,期,False,50,0,3,47,楊尚儒,社SS 3008,"['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS530&Crsname=區域研究,,,False,政治碩,IPS530,0,,"區域研究
+AREA STUDIES",3,期,False,50,0,12,38,王群洋,社SS 3010-2,"['', '234', '', '', '', '', '']",《講授類》,['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS531&Crsname=國際關係,,,True,政治碩,IPS531,1,,"國際關係
+INTERNATIONAL RELATIONS",3,期,True,50,0,15,35,陳至潔,社SS 3010-2,"['567', '', '', '', '', '', '']","《講授類》
+限碩、博士生選修
+※英語授課",['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS602D&Crsname=專題研究（一）,,,False,政治碩,IPS602D,0,,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,1,49,張晉赫,,"['', '', '', '', 'CDE', '', '']","《獨立研究》
+限政治所博碩士生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS606&Crsname=政治資源的經營與管理,異動,更換教室9/1,False,政治碩,IPS606,0,,"政治資源的經營與管理
+MANAGEMENT OF POLITICAL RESOURCES AND PUBLIC GOODS",3,期,False,50,1,12,38,劉正山,社SS 3010-1,"['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS620&Crsname=當代政治思想,異動,確認教師8/7,False,政治碩,IPS620,0,,"當代政治思想
+CONTEMPORARY POLITICAL THOUGHT",3,期,False,50,1,4,46,杜坤峰,社SS 3007,"['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS641&Crsname=韓國與東亞政治經濟,,,False,政治碩,IPS641,0,,"韓國與東亞政治經濟
+POLITICAL ECONOMY OF KOREA  AND EAST ASIA",3,期,False,50,0,3,47,張晉赫,社SS 3008,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS672&Crsname=學門跨域專題講座(一),,,False,政治碩,IPS672,0,,"學門跨域專題講座(一)
+SPECIAL LECTURES ON THE DISCIPLINE AND BEYOND(I)",1,期,False,50,0,1,49,楊尚儒,社SS 3007,"['', '', '', 'B', '', '', '']",《演講/參訪》,[],False

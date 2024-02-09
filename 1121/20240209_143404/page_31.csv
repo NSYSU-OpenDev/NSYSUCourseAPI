@@ -1,0 +1,52 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA204&Crsname=導演概論,,,False,劇藝系,TA204,2,不分班,"導演概論
+INTRODUCTION TO THE HISTORY AND THEORY OF DIRECTING",2,期,True,50,0,40,10,楊士平,文FA 3009,"['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA209&Crsname=西洋戲劇史（一）,,,False,劇藝系,TA209,1,不分班,"西洋戲劇史（一）
+HISTORY OF WESTERN DRAMA(I)",2,期,True,60,0,52,8,許仁豪,文FA 3012,"['', '89', '', '', '', '', '']",《講授類》,['跨文化人文思潮與美學微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA251&Crsname=傳統戲曲表演身段（一）,,,False,劇藝系,TA251,1,不分班,"傳統戲曲表演身段（一）
+PERFORMANCE TECHNIQUES OF CHINESE TRADITIONAL THEATRE",2,期,False,30,0,27,3,王海玲,文FA 2017,"['', '', '', '89', '', '', '']",《展演》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA254&Crsname=進階表演（一）,,,False,劇藝系,TA254,2,不分班,"進階表演（一）
+ADVANCED ACTING(I)",3,期,False,50,0,22,28,何怡璉,文FA 2017,"['', '', '', '567', '', '', '']","《展演》
+限修畢基礎表演（二）",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA256&Crsname=聲音訓練,,,False,劇藝系,TA256,2,不分班,"聲音訓練
+VOCAL TRAINING",2,期,False,50,1,27,23,林宜誠,文FA 2017,"['34', '', '', '', '', '', '']","《展演》
+限修畢基礎發聲",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA261&Crsname=排演（三）,異動,確認合授教師8/7,False,劇藝系,TA261,2,不分班,"排演（三）
+REHEARSAL（Ⅲ）",3,期,False,50,1,55,-5,"林宜誠,吳怡瑱,王品惠",文FA 2019,"['', '', '', 'CDE', '', '', '']","《展演》
+限畢製劇組助理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA264&Crsname=影視表演,,,False,劇藝系,TA264,4,不分班,"影視表演
+ACTING FOR FILM AND TELEVISION",2,期,False,50,0,14,36,徐華謙,,"['5678', '5678', '34567', '34567', '34567', '', '']","《展演》
+限修畢進階表演二。暑假集中先修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA273&Crsname=進階技術繪圖,,,False,劇藝系,TA273,2,不分班,"進階技術繪圖
+ADVANCED TECHNICAL DRAWING",3,期,False,50,0,19,31,曾景濱,圖IL PC 02,"['', '', '', '', '234', '', '']","《講授類》
+限修畢技術繪圖",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA275&Crsname=燈光設計（一）,,,False,劇藝系,TA275,2,不分班,"燈光設計（一）
+LIGHTING DESIGN (I)",2,期,False,20,0,17,3,鍾宜泰,"文FA 3009, 2019","['89', '', '', '', '', '', '']","《講授類》
+限本系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA276&Crsname=舞臺設計（一）,,,False,劇藝系,TA276,2,不分班,"舞臺設計（一）
+STAGE DESIGN (Ｉ)",3,期,False,50,0,22,28,曾景濱,文FA 1014,"['', '', '567', '', '', '', '']","《展演》
+限修畢基礎設計",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA280&Crsname=劇場服裝設計,,,False,劇藝系,TA280,2,不分班,"劇場服裝設計
+COSTUME DESIGN FOR THEATRE",3,期,False,50,0,21,29,吳怡瑱,文FA 2016,"['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA301&Crsname=藝術管理概論,異動,確認教師8/7,False,劇藝系,TA301,2,不分班,"藝術管理概論
+INTRODUCTION TO ARTS MANAGEMENT",2,期,False,50,1,12,38,王品惠,文FA 3009,"['', '', '67', '', '', '', '']",《講授類》,"['法國語言、文化與社會學程', '音樂劇學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA302&Crsname=劇本創作（一）,,,False,劇藝系,TA302,3,不分班,"劇本創作（一）
+PLAYWRITING(I)",3,期,True,50,0,48,2,黃資絜,文FA 3009,"['', '', '', '567', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA303&Crsname=西方名劇選讀,,,False,劇藝系,TA303,2,不分班,"西方名劇選讀
+SELECTED READINGS OF WESTERN PLAYS",3,期,True,50,1,50,0,黃資絜,文FA 3012,"['', '567', '', '', '', '', '']",《講授類》,['跨文化人文思潮與美學微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA306&Crsname=演出製作（一）,,,False,劇藝系,TA306,3,不分班,"演出製作（一）
+PRODUCTION(I)",3,期,True,50,0,43,7,"楊士平,鍾宜泰,黃資絜","文FA 3009, 2019","['', '89C', '', '', '', '', '']","《講授類》
+(年度製作)應符合演出製作施行細則",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA331&Crsname=藝術與文化環境概論,,,False,劇藝系,TA331,3,不分班,"藝術與文化環境概論
+INTRODUCTION TO CULTURE AND ARTISTIC ENVIRONMENT",2,期,False,50,0,9,41,陳尚盈,文FA 3009,"['', '', '34', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA337&Crsname=戲劇構作實踐:現當代,異動,修正備註說明8/21,False,劇藝系,TA337,3,不分班,"戲劇構作實踐:現當代
+DRAMATURGICAL PRACTICE:MODERN&CONTEMPORARY PERIOD",2,期,False,50,0,14,36,許仁豪,文FA 3012,"['67', '', '', '', '', '', '']","《講授類》
+限修畢戲劇構作導論或戲劇評論﹔課程設計有臺北科教館移地教學，第一堂課需進行面談。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA351&Crsname=導演（二）,,,False,劇藝系,TA351,3,不分班,"導演（二）
+DIRECTING(II)",3,期,False,50,0,26,24,楊士平,文FA 2019,"['', '', '567', '', '', '', '']","《展演》
+限修畢導演一",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA358&Crsname=音樂劇演唱技巧,,,False,劇藝系,TA358,3,不分班,"音樂劇演唱技巧
+SINGING IN MUSICAL THEATRE",2,期,False,50,0,10,40,林宜誠,文FA 2017,"['', '', '23', '', '', '', '']",《展演》,['音樂劇學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=TA359&Crsname=進階表演（三）,,,False,劇藝系,TA359,3,不分班,"進階表演（三）
+ADVANCED ACTING（III）",3,期,False,50,0,23,27,杜思慧,文FA 2017,"['567', '', '', '', '', '', '']","《展演》
+限修畢進階表演二",[],False

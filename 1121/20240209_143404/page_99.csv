@@ -1,0 +1,47 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEC514&Crsname=海洋保育個案研析,異動,調整合授教師8/15,False,海生保育碩,MEC514,1,不分班,"海洋保育個案研析
+CASE STUDIES IN MARINE CONSERVATION",3,期,True,50,0,14,36,"陳孟仙,林裕䕒",海MA 3020,"['', '', '', '', '567', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEC520&Crsname=生物統計,異動,更換授課方式8/14,False,海生保育碩,MEC520,0,不分班,"生物統計
+BIOSTATISTICS",3,期,False,50,0,19,31,林裕䕒,海MB 2016,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MEC522&Crsname=軟骨魚類特論,異動,確認教師7/24,False,海生保育碩,MEC522,0,不分班,"軟骨魚類特論
+SPECIAL TOPICS ON CHONDRICHTHYAN FISHES",2,期,False,50,1,8,42,徐華遜,海MA 2003,"['', '', '', '56', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=OWP501&Crsname=離岸風電概論,異動,確認教師8/14,False,離岸風電碩,OWP501,1,不分班,"離岸風電概論
+INTRODUCTION TO OFFSHORE WIND ENERGY",3,期,False,50,0,14,36,王右仁,海ME 2001,"['', '', '', '', '', '234', '']",《講授類》,"['海事工程學程', '永續能源學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=OWP502&Crsname=離岸風電書報討論（一）,,,False,離岸風電碩,OWP502,1,不分班,"離岸風電書報討論（一）
+SEMINAR IN OFFSHORE WIND POWER (Ⅰ)",2,期,False,50,0,5,45,林俊宏,,"['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=OWP504&Crsname=離岸風電書報討論（三）,,,False,離岸風電碩,OWP504,2,不分班,"離岸風電書報討論（三）
+SEMINAR IN OFFSHORE WIND POWER (Ⅲ)",2,期,False,50,0,2,48,張揚祺,,"['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=OWP510&Crsname=船舶施工規劃,,,False,離岸風電碩,OWP510,1,不分班,"船舶施工規劃
+CONSTRUCTION PLANNING USING INSTALLATION VESSELS",3,期,False,50,0,4,46,柯宗廷,海ME 2003,"['', '', '', '234', '', '', '']",《講授類》,"['海事工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=OWP513&Crsname=離岸浮式構造物工程導論,,,False,離岸風電碩,OWP513,1,不分班,"離岸浮式構造物工程導論
+INTRODUCTION TO MARITIME AND OCEAN ENGINEERING OF FLOATING OFFSHORE STRUCTURES",3,期,False,50,0,5,45,林俊宏,海ME 2005,"['', '', '234', '', '', '', '']",《講授類》,['海事工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=OWP515&Crsname=離岸風電工程開發實務,異動,確認教師8/14,False,離岸風電碩,OWP515,1,不分班,"離岸風電工程開發實務
+OFFSHORE WIND FARM DEVELOPMENT PRACTICES",3,期,False,50,0,9,41,王右仁,海ME 2005,"['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS501&Crsname=台灣政府與政治,異動,更換教室8/31,False,政治碩,IPS501,0,不分班,"台灣政府與政治
+TAIWAN GOVERNMENT  AND POLITICS",3,期,False,50,0,26,24,杜坤峰,社SS 3010-2,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS506&Crsname=厚數據與意義探勘,新增,7/18,False,政治碩,IPS506,0,不分班,"厚數據與意義探勘
+THICK DATA AND INTERPRETATION",1,期,False,50,0,7,43,劉正山,,"['234B5678', '', '', '', '', '', '']","《講授類》
+限暑假已參與課程之學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS507&Crsname=社會科學方法論,,,True,政治碩,IPS507,1,不分班,"社會科學方法論
+SOCIAL SCIENCE METHODOLOGY",3,期,True,50,0,17,33,陳宗巖,社SS 3010-2,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS508&Crsname=資料分析方法入門,,,False,政治碩,IPS508,0,不分班,"資料分析方法入門
+INTRODUCTION TO DATA ANALYSIS METHODS",3,期,False,50,0,10,40,黃韋豪,社SS 3010-2,"['', '', '234', '', '', '', '']",《講授類》,['政經大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS510&Crsname=政治理論,異動,更換教室9/5,True,政治碩,IPS510,1,不分班,"政治理論
+TOPICS IN POLITICAL THEORY",3,期,True,50,1,5,45,楊尚儒,社SS 3010-2,"['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS511&Crsname=近代政治思想,,,False,政治碩,IPS511,0,不分班,"近代政治思想
+MODERN POLITICAL THOUGHT",3,期,False,50,0,3,47,楊尚儒,社SS 3008,"['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS530&Crsname=區域研究,,,False,政治碩,IPS530,0,不分班,"區域研究
+AREA STUDIES",3,期,False,50,0,12,38,王群洋,社SS 3010-2,"['', '234', '', '', '', '', '']",《講授類》,['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS531&Crsname=國際關係,,,True,政治碩,IPS531,1,不分班,"國際關係
+INTERNATIONAL RELATIONS",3,期,True,50,0,15,35,陳至潔,社SS 3010-2,"['567', '', '', '', '', '', '']","《講授類》
+限碩、博士生選修
+※英語授課",['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS602&Crsname=專題研究（一）,,,False,政治碩,IPS602,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,1,49,王群洋,,"['', '', '', '', 'CDE', '', '']","《獨立研究》
+限政治所博碩士生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS602A&Crsname=專題研究（一）,,,False,政治碩,IPS602A,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,3,47,陳至潔,,"['', '', '', '', 'CDE', '', '']","《獨立研究》
+限政治所博碩士生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IPS602B&Crsname=專題研究（一）,,,False,政治碩,IPS602B,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,4,46,陳宗巖,,"['', '', '', '', 'CDE', '', '']","《獨立研究》
+限政治所博碩士生選修",[],False

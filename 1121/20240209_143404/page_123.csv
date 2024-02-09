@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE781&Crsname=教育社會學研究,,,False,教育博,IOE781,0,不分班,"教育社會學研究
+STUDIES IN SOCIOLOGY OF EDUCATION",3,期,False,50,0,2,48,周珮儀,社SS 2002-1,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE801&Crsname=教育學方法論研究,,,False,教育博,IOE801,2,不分班,"教育學方法論研究
+SPECIAL TOPICS IN METHODOLOGY OF EDUCATIONAL STUDIES",3,期,True,20,0,5,15,邱文彬,社SS 2005,"['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE802&Crsname=獨立研究（一）,異動,確認教師9/11,False,教育博,IOE802,2,不分班,"獨立研究（一）
+INDEPENDENT STUDIES",3,期,True,50,0,7,43,"謝百淇,周珮儀,施慶麟,紀博善,莊雪華,鄭英耀",,"['', '', '', '', '', '678', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE804&Crsname=專題研討（三）,,,False,教育博,IOE804,2,不分班,"專題研討（三）
+SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,50,0,3,47,楊淑晴,社SS 2001,"['', '', '7', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE807&Crsname=高等教育統計學研究,,,False,教育博,IOE807,0,不分班,"高等教育統計學研究
+RESEARCH IN ADVANCED STATISTICS IN EDUCATION",3,期,False,10,0,3,7,鄭雯,社SS 3006,"['CDE', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE820&Crsname=試題反應理論,異動,更換教室9/7,False,教育博,IOE820,0,不分班,"試題反應理論
+ITEM RESPONSE THEORY",3,期,False,50,0,4,46,施慶麟,社SS 2004-3,"['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課",['政經大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE823&Crsname=教育創新管理,,,False,教育博,IOE823,0,不分班,"教育創新管理
+MANAGEMENT OF INNOVATION IN EDUCATION",3,期,False,50,0,2,48,艾玲,社SS 2004-3,"['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE831&Crsname=跨領域STREAM教育專題研究,,,False,教育博,IOE831,0,不分班,"跨領域STREAM教育專題研究
+INTERDISCIPLINARY RESEARCH ON STREAM EDUCATION",3,期,False,50,0,1,49,楊淑晴,社SS 2002-1,"['', '', 'B56', '', '', '', '']",《講授類》,['STREAM永續發展培力微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE840&Crsname=全球研究、全球教育與全球學習,,,False,教育博,IOE840,0,不分班,"全球研究、全球教育與全球學習
+GLOBAL STUDIES, GLOBAL EDUCATION, AND GLOBAL LEARNING",3,期,False,50,0,5,45,紀博善,社SS 2002-2,"['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE844&Crsname=科技融入學習環境研究,,,False,教育博,IOE844,0,不分班,"科技融入學習環境研究
+CURRENT ISSUES IN TECHNOLOGY ENHANCED LEARNING ENVIRONMENTS",3,期,False,20,0,2,18,張宇慧,社SS 3006,"['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE845&Crsname=對話、遊戲與創造力教育研究,,,False,教育博,IOE845,0,不分班,"對話、遊戲與創造力教育研究
+DIALOGUE, PLAY AND CREATIVITY EDUCATION STUDIES",3,期,False,30,0,2,28,張至慶,社SS 2006,"['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IOE846&Crsname=教育測驗資料分析(以R軟體操作),,,False,教育博,IOE846,0,不分班,"教育測驗資料分析(以R軟體操作)
+EDUCATIONAL MEASUREMENT DATA ANALYSIS USING R",3,期,False,2,1,1,1,陳威霖,社SS 3006,"['', '', 'CDE', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CAPS747&Crsname=政治學研究方法,,,True,亞太博,CAPS747,1,不分班,"政治學研究方法
+POLITICAL SCIENCE RESEARCH METHODS",3,期,True,50,0,6,44,郭育仁,社SS 2011,"['', 'CDE', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CAPS749&Crsname=法學研究方法,異動,更換教師及時間7/26,True,亞太博,CAPS749,1,不分班,"法學研究方法
+COMPARATIVE LEGAL RESEARCH METHODOLOGY",3,期,True,50,0,2,48,李仲軒,社SS 2008,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CAPS750&Crsname=美國外交政策,,,True,亞太博,CAPS750,1,不分班,"美國外交政策
+AMERICAN FOREIGN POLICY",3,期,True,50,0,3,47,黎寶文,社SS 2011,"['CDE', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CAPS752&Crsname=社會法,,,True,亞太博,CAPS752,1,不分班,"社會法
+SOCIAL WELFARE ACTS",3,期,True,50,0,4,46,張道義,社SS 2010-1,"['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CAPS779&Crsname=國際經濟趨勢分析,異動,更換時間及教室8/2,True,亞太博,CAPS779,1,不分班,"國際經濟趨勢分析
+ANALYSIS OF INTERNATIONAL ECONOMIC TRENDS",3,期,True,50,0,12,38,陳珮芬,社SS 2007,"['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CAPS870&Crsname=國際關係理論,異動,更換時間及教室8/1,False,亞太博,CAPS870,1,不分班,"國際關係理論
+THEORIES OF INTERNATIONAL RELATIONS",3,期,False,50,0,4,46,張珈健,社SS 2011,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=CAPS878&Crsname=比較民主化,,,False,亞太博,CAPS878,2,不分班,"比較民主化
+COMPARATIVE DEMOCRATIZATION",3,期,False,50,0,2,48,黎寶文,社SS 2007,"['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=IGPE701&Crsname=研究方法論,,,False,教人全英博,IGPE701,2,不分班,"研究方法論
+RESEARCH METHODOLOGY",3,期,True,50,0,6,44,邱文彬,社SS 2004-3,"['', '234', '', '', '', '', '']",《講授類》,[],True

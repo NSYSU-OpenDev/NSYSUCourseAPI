@@ -1,0 +1,47 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HCM707&Crsname=醫療暨健康產業分析,異動,更換教室8/17,False,企醫管博,HCM707,1,不分班,"醫療暨健康產業分析
+ANALYSIS IN MEDICAL AND HEALTH CARE INDUSTRY",3,期,False,50,0,21,29,"李英俊,余憲忠",管CM 3019,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HCM801&Crsname=醫務管理專題研討（一）,新增,8/17,False,企醫管博,HCM801,0,不分班,"醫務管理專題研討（一）
+SEMINAR IN HEALTH CARE MANAGEMENT（I）",2,期,False,50,0,5,45,李英俊,管CM 3035,"['', '', 'CD', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=HCM803&Crsname=醫務管理專題研討（三）,新增,8/17,False,企醫管博,HCM803,0,不分班,"醫務管理專題研討（三）
+SEMINAR IN HEALTH CARE MANAGEMENT（III）",2,期,False,50,0,2,48,李英俊,管CM 3035,"['', '', 'CD', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR701&Crsname=海洋生物科技專題研討（五）,,,True,海資博,MBR701,1,不分班,"海洋生物科技專題研討（五）
+SEMINAR IN MARINE BIOTECHNOLOGY (V)",2,期,True,50,0,4,46,李澤民,海MB 2015,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR703&Crsname=海洋生態專題研討（五）,,,True,海資博,MBR703,1,不分班,"海洋生態專題研討（五）
+SEMINAR IN MARINE ECOLOGY (V)",2,期,True,50,0,1,49,"林梅芳,劉商隱",海MB 1005,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR707&Crsname=海洋化學資源專題研討（五）,,,True,海資博,MBR707,1,不分班,"海洋化學資源專題研討（五）
+SEMINAR IN MARINE CHEMICAL RESOURCES (V)",2,期,True,50,0,2,48,鄭源斌,海MB 2014,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR716&Crsname=水生生態專題研究（五）,異動,確認教師9/11,False,海資博,MBR716,1,不分班,"水生生態專題研究（五）
+INDEPENDENT STUDIES IN AQUATIC ECOLOGY (５)",2,期,False,50,0,1,49,劉商隱,,"['', '', '', '', '', '12', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR725&Crsname=高等海洋微生物學,新增,8/30,False,海資博,MBR725,1,不分班,"高等海洋微生物學
+ADVANCED MARINE MICROBIOLOGY",2,期,False,50,0,2,48,王亮鈞,海MB 2009,"['', '', '34', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR726&Crsname=海洋化學生物學專題研究（五）,異動,確認教師9/11,False,海資博,MBR726,1,不分班,"海洋化學生物學專題研究（五）
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (V)",2,期,False,50,0,2,48,"鄭源斌,翁靖如",,"['', '', '', '', '', '12', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR729&Crsname=海洋抗發炎藥物開發專題研究（五）,,,False,海資博,MBR729,1,不分班,"海洋抗發炎藥物開發專題研究（五）
+INDEPENDENT STUDIES IN DEVELOPMENT OF ANTI-INFLAMMATORY MARINE DERIVATED DRUGS (V)",2,期,False,50,0,3,47,溫志宏,,"['', '', '', '', '', '12', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR734&Crsname=海洋資源與生物科技專題,異動,更換教師8/7,False,海資博,MBR734,1,不分班,"海洋資源與生物科技專題
+SPECIAL TOPICS ON MARINE RESOURCES AND BIOTECHNOLOGY",3,期,False,50,0,2,48,"林秀瑾,廖志中,廖睿妘,林梅芳,王亮鈞,翁靖如",海MB 3013,"['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR801&Crsname=海洋生物科技專題研討（七）,,,True,海資博,MBR801,2,不分班,"海洋生物科技專題研討（七）
+SEMINAR IN MARINE BIOTECHNOLOGY (VII)",2,期,True,50,0,5,45,李澤民,海MB 2015,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR803&Crsname=海洋生態專題研討（七）,,,True,海資博,MBR803,2,不分班,"海洋生態專題研討（七）
+SEMINAR IN MARINE ECOLOGY (VII)",2,期,True,50,0,1,49,"林梅芳,劉商隱",海MB 1005,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR807&Crsname=海洋化學資源專題研討（七）,,,True,海資博,MBR807,2,不分班,"海洋化學資源專題研討（七）
+SEMINAR IN MARINE CHEMICAL RESOURCES (VII)",2,期,True,50,0,1,49,鄭源斌,海MB 2014,"['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR813&Crsname=水生生態專題研究（七）,異動,確認教師9/11,False,海資博,MBR813,2,不分班,"水生生態專題研究（七）
+INDEPENDENT STUDIES IN AQUATIC ECOLOGY (７)",2,期,False,50,0,1,49,劉商隱,,"['', '', '', '', '', '34', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR819&Crsname=海洋抗發炎藥物開發專題研究（七）,,,False,海資博,MBR819,2,不分班,"海洋抗發炎藥物開發專題研究（七）
+INDEPENDENT STUDIES IN DEVELOPMENT OF ANTI-INFLAMMATORY MARINE DERIVATED DRUGS (VII)",2,期,False,50,0,5,45,溫志宏,,"['', '', '', '', '', '34', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MBR821&Crsname=海洋化學生物學專題研究（七）,異動,確認教師9/11,False,海資博,MBR821,2,不分班,"海洋化學生物學專題研究（七）
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (VII)",2,期,False,50,0,1,49,鄭源斌,,"['', '', '', '', '', '34', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MAEV721&Crsname=高等波浪理論（一）,,,False,海工博,MAEV721,0,不分班,"高等波浪理論（一）
+ADVANCED WAVE THEORY(I)",3,期,False,50,0,5,45,陳陽益,海ME 3005,"['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=MAEV750&Crsname=近海海象預報理論及模擬（一）,,,False,海工博,MAEV750,0,不分班,"近海海象預報理論及模擬（一）
+THEORY OF PREDICTION AND MODELING FOR COASTAL OCEAN(I)",3,期,False,50,0,1,49,許弘莒,海ME 3005,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=DDMB701&Crsname=專題討論（一）,,,False,海生科技博士學程,DDMB701,1,不分班,"專題討論（一）
+SEMINAR (I)",1,期,True,50,0,1,49,林梅芳,MB 1005,"['234', '', '', '', '', '', '']",《獨立研究》,[],False

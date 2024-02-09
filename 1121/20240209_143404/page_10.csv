@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010007&Crsname=中國哲學史（一）,,,False,校際(學士班),AF010007,0,不分班,"中國哲學史（一）
+HISTORY OF CHINESE PHILOSOPHY(I)",3,期,False,50,0,3,47,校際選課,,"['', '123', '', '', '', '', '']","《講授類》
+高雄師範大學國文學系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010008&Crsname=文字學（一）,,,False,校際(學士班),AF010008,0,不分班,"文字學（一）
+CHINESE ETYMOLOGY(I)",2,期,False,50,0,1,49,校際選課,,"['12', '', '', '', '', '', '']","《講授類》
+高雄師範大學國文學系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010009&Crsname=熱流實驗,,,False,校際(學士班),AF010009,0,不分班,"熱流實驗
+THERMOFLUID EXPERIMENT",1,期,False,50,0,1,49,校際選課,,"['', 'CDE', '', '', '', '', '']","《講授類》
+高雄科技大學機械工程系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010010&Crsname=基本設計（一）,,,False,校際(學士班),AF010010,0,不分班,"基本設計（一）
+BASIC DESIGN(Ⅰ)",3,期,False,50,0,1,49,校際選課,,"['', '5678', '', '', '56', '', '']","《講授類》
+成功大學工設系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010011&Crsname=圖學,,,False,校際(學士班),AF010011,0,不分班,"圖學
+GRAPHICS",3,期,False,50,0,1,49,校際選課,,"['', '', '', '', '234', '', '']","《講授類》
+成功大學工設系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010012&Crsname=社會心理學,,,False,校際(學士班),AF010012,0,不分班,"社會心理學
+SOCIAL PSYCHOLOGY",3,期,False,50,0,3,47,校際選課,,"['567', '', '', '', '', '', '']","《講授類》
+高雄醫學大學心理系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010013&Crsname=發展心理學,,,False,校際(學士班),AF010013,0,不分班,"發展心理學
+DEVELOPMENTAL PSYCHOLOGY",3,期,False,50,0,3,47,校際選課,,"['', '', '234', '', '', '', '']","《講授類》
+高雄醫學大學心理學系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010014&Crsname=機率與統計,,,False,校際(學士班),AF010014,0,不分班,"機率與統計
+PROBABILITY AND STATISTICS",3,期,False,50,0,1,49,校際選課,,"['', '234', '', '', '', '', '']","《講授類》
+高雄醫學大學醫務管理暨醫療資訊學系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010015&Crsname=心理及教育統計學,,,False,校際(學士班),AF010015,0,不分班,"心理及教育統計學
+STATISTICS IN EDUCATION AND PSYCHOLOGY",3,年,False,50,0,4,46,校際選課,,"['', '', '', '789', '', '', '']","《講授類》
+高雄醫學大學心理學系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010016&Crsname=中國哲學史（一）,,,False,校際(學士班),AF010016,0,不分班,"中國哲學史（一）
+HISTORY OF CHINESE PHILOSOPHY(I)",3,期,False,50,0,4,46,校際選課,,"['', '', '234', '', '', '', '']","《講授類》
+高雄師範大學國文系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010017&Crsname=電子學（二）,,,False,校際(學士班),AF010017,0,不分班,"電子學（二）
+ELECTRONICS (2)",3,期,False,50,0,1,49,校際選課,,"['', '234', '', '', '', '', '']","《講授類》
+高雄科技大學電子工程系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010018&Crsname=機械設計,,,False,校際(學士班),AF010018,0,不分班,"機械設計
+MECHANICAL DESIGN",3,期,False,50,0,1,49,校際選課,,"['', '', '', '', '', '123', '']","《講授類》
+高雄科技大學機械工程系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010019&Crsname=人文地理學概論,,,False,校際(學士班),AF010019,0,不分班,"人文地理學概論
+INTRODUCTION TO HUMAN GEOGRAPHY",3,期,False,50,0,1,49,校際選課,,"['', '', '67', '', '', '', '']","《講授類》
+高雄師範大學地理學系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010020&Crsname=自然科學概論,,,False,校際(學士班),AF010020,0,不分班,"自然科學概論
+AN INTRODUCTION TO PHYSICAL SCIENCE",2,期,False,50,0,1,49,校際選課,,"['', '56', '', '', '', '', '']","《講授類》
+文藻外語大學英文系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010021&Crsname=易經（一）,,,False,校際(學士班),AF010021,0,不分班,"易經（一）
+I CHING(I)",2,期,False,50,0,1,49,校際選課,,"['', '', '56', '', '', '', '']","《講授類》
+高雄師範大學國文系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010022&Crsname=經濟學（一）,,,False,校際(學士班),AF010022,0,不分班,"經濟學（一）
+ECONOMICS(I)",3,期,False,50,0,1,49,校際選課,,"['', '', '', '234', '', '', '']","《講授類》
+高雄科技大學運籌系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010023&Crsname=全民國防教育軍事訓練—國防科技,,,False,校際(學士班),AF010023,0,不分班,"全民國防教育軍事訓練—國防科技
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING(DEFENSE TECHNOLOGY)",0,期,False,50,0,1,49,校際選課,,"['', '34', '', '', '', '', '']","《講授類》
+成功大學軍訓室",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010024&Crsname=運輸工程,,,False,校際(學士班),AF010024,0,不分班,"運輸工程
+TRANSPORTATION ENGINEERING",3,期,False,50,0,1,49,校際選課,,"['', '2', '', '', '34', '', '']","《講授類》
+成功大學交通管理科學系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010026&Crsname=普通心理學,,,False,校際(學士班),AF010026,0,不分班,"普通心理學
+GENERAL PSYCHOLOGY",3,期,False,50,0,6,44,校際選課,,"['', '', '', '', '234', '', '']","《講授類》
+高雄醫學大學心理系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF010027&Crsname=普通心理學,,,False,校際(學士班),AF010027,0,不分班,"普通心理學
+GENERAL PSYCHOLOGY",3,年,False,50,0,3,47,校際選課,,"['', '', '', '', '234', '', '']","《講授類》
+高雄醫學大學心理系",[],False

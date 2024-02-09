@@ -1,0 +1,57 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=AF020012&Crsname=性別、醫療與健康,,,False,校際(研究所),AF020012,0,不分班,"性別、醫療與健康
+GENDER, MEDICINE AND HEALTH",3,期,False,50,0,1,49,校際選課,,"['', 'CDE', '', '', '', '', '']","《講授類》
+高雄醫學大學性別所",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY101&Crsname=普通物理學（一）,,,False,普通物理小組,PHY101,1,不分班,"普通物理學（一）
+GENERAL PHYSICS (I)",3,期,True,50,2,36,14,蔡秀芬,理PH 2006,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY102&Crsname=普通物理（一）,,,False,普通物理小組,PHY102,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,50,0,41,9,呂浩宇,理SC 0009,"['', '', '234', '', '', '', '']","《講授類》
+化學系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY102A&Crsname=普通物理（一）,,,False,普通物理小組,PHY102A,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,50,0,56,-6,陳宗緯,工EN 0032,"['', '', '234', '', '', '', '']","《講授類》
+材光系與光電系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY102B&Crsname=普通物理（一）,,,False,普通物理小組,PHY102B,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,50,1,67,-17,陳宗緯,工EC 1001,"['', '', '', '', '234', '', '']","《講授類》
+電機系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY102C&Crsname=普通物理（一）,,,False,普通物理小組,PHY102C,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,50,0,77,-27,陳易馨,海ME 3006,"['234', '', '', '', '', '', '']","《講授類》
+海科系二年級與海工系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY102D&Crsname=普通物理（一）,,,False,普通物理小組,PHY102D,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,50,0,22,28,范越芳,理SC 3004,"['', '', '234', '', '', '', '']","《講授類》
+化學系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY102E&Crsname=普通物理（一）,異動,更換教室9/8,False,普通物理小組,PHY102E,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,52,1,49,3,岩本祥,工EC 1005,"['', '', '234', '', '', '', '']","《講授類》
+材光系與光電系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY102F&Crsname=普通物理（一）,,,False,普通物理小組,PHY102F,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,80,0,72,8,史丹哲夫,工EC 3012,"['567', '', '', '', '', '', '']","《講授類》
+電機系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY107&Crsname=基礎物理,,,False,普通物理小組,PHY107,1,不分班,"基礎物理
+FUNDAMENTAL PHYSICS",3,期,True,50,0,36,14,史丹哲夫,海MB 1009,"['', '', '', '567', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限海資系一年級學生選修，本課程無法抵免普通物理或普通物理學",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY108&Crsname=普通物理實驗（一）,異動,修正備註說明8/23,False,普通物理小組,PHY108,1,不分班,"普通物理實驗（一）
+GENERAL PHYSICS LABORATORY (I)",1,期,True,83,0,77,6,陳易馨,理SC 0018、理SC 0019,"['567', '', '', '', '', '', '']","《實驗類》
+物理系、光電系與材光系一年級學生優先選修，本課程無法抵免英語專班普通物理實驗",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY108A&Crsname=普通物理實驗（一）,異動,修正備註說明8/23,False,普通物理小組,PHY108A,1,不分班,"普通物理實驗（一）
+GENERAL PHYSICS LABORATORY (I)",1,期,True,70,0,53,17,洪昇廷,理SC 0018、理SC 0019,"['', '', '', '', '567', '', '']","《實驗類》
+海工系一年級學生優先選修，本課程無法抵免英語專班普通物理實驗",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY108B&Crsname=普通物理實驗（一）,,,False,普通物理小組,PHY108B,1,不分班,"普通物理實驗（一）
+GENERAL PHYSICS LABORATORY (I)",1,期,True,70,0,52,18,陳易馨,理SC 0018、理SC 0019,"['', '', '567', '', '', '', '']","《實驗類》
+材光系與光電系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY108C&Crsname=普通物理實驗（一）,異動,更換教師8/7,False,普通物理小組,PHY108C,1,不分班,"普通物理實驗（一）
+GENERAL PHYSICS LABORATORY (I)",1,期,True,70,1,38,32,洪昇廷,理SC 0018、理SC 0019,"['', '', '', '234', '', '', '']","《實驗類》
+海資系一年級學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=PHY110&Crsname=基礎理論物理（一）,異動,更換教室9/8,False,普通物理小組,PHY110,1,全英班,"基礎理論物理（一）
+INTRODUCTION TO THEORETICAL PHYSICS (I)",4,期,True,50,0,25,25,郭建成,理SC 2006,"['', '', '34', '34', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAH106&Crsname=全民國防教育軍事訓練課程：國防科技（軍訓）,異動,更換教師7/18,False,應用性課程,GEAH106,0,不分班,"全民國防教育軍事訓練課程：國防科技（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING: DEFENSE TECHNOLOGY",2,期,False,50,0,15,35,張延惠,,"['', '234', '234', '234', '', '', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。3.課程於8/1-8/24密集進行，限有報名成功及暑期課未衝堂且參與課程同學選修。4.報名方式預計7月中旬公告於西灣學院網頁。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAH107&Crsname=全民國防教育軍事訓練課程：全民國防（軍訓）,,,False,應用性課程,GEAH107,1,不分班,"全民國防教育軍事訓練課程：全民國防（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING: CIVIL DEFENSE",2,期,False,50,1,35,15,許世宗,,"['', '', '', '', '', '1234', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAH126&Crsname=全民國防教育軍事訓練課程：國際情勢（軍訓）,,,False,應用性課程,GEAH126,0,不分班,"全民國防教育軍事訓練課程：國際情勢（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING: INTERNATIONAL SITUATION?",2,期,False,50,4,49,1,張延惠,通GE 3011,"['', '', '', '', '56', '', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。3.中英雙語授課。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1005&Crsname=氣候變遷與永續農業發展,新增,7/24,False,跨院選修(通),GEAI1005,0,不分班,"氣候變遷與永續農業發展
+CLIMATE CHANGE AND SUSTAINABLE DEVELOPMENT OF AGRICULTURE",3,期,False,50,5,65,-15,"李育諭,林季怡",通GE 4016,"['', '', '', '', '678', '', '']",《講授類》,"['地方創生與區域治理微學程', '飲食文化微學程', '地方創生與永續發展整合學程', '科技與環境英語微學程', '地方發展與永續農業微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=1&CrsDat=GEAI1008&Crsname=創造力與社會創新,,,False,跨院選修(通),GEAI1008,0,不分班,"創造力與社會創新
+CREATIVITY AND SOCIAL INNOVATION",3,期,False,50,2,50,0,游銘仁,海ME 2001,"['', '567', '', '', '', '', '']",《講授類》,"['地方敘事與創生學程', '生態想想微學程', '中文創意跨域應用整合學程', '原民文化探索及永續發展學程', '創新創業微學程']",False
