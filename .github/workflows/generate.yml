@@ -25,12 +25,8 @@ jobs:
           python-version: '3.11'
           cache: pip
 
-      - name: test
-        run: |
-          exho ${{ steps.pysetup.outputs.cache-hit }}
-
       - name: setup-python requires
-        if: ${{ steps.pysetup.outputs.cache-hit }} == 'false'
+        if: ${{ !steps.pysetup.outputs.cache-hit }}
         run: pip install -r requirements.txt
 
       - name: Clone
