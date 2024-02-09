@@ -1,0 +1,34 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1209A&Crsname=線性代數（二）,,,False,跨院選修(理),GEAI1209A,0,不分班,"線性代數（二）
+LINEAR ALGEBRA (II)",3,期,True,10,1,4,6,林晉宏,理SC 0014,"['23', '', '2', '', '', '', '']","《講授類》
+優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。跨院通識與應數系MATH104A課程併班上課
+※英語授課","['人工智慧與數學學程', '應用數學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1217&Crsname=生活科技概論,,,False,跨院選修(理),GEAI1217,0,不分班,"生活科技概論
+LIFE TECHNOLOGY",3,期,False,45,31,39,6,"劉昭成,林煥祥,郭建成",理SC 1005,"['', '', 'CDE', '', '', '', '']","《講授類》
+理學院學生：課號SCI103。非理學院學生-跨院通識選修：課號GEAI1217。跨院通識與理學院SCI103課程併班上課",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1218&Crsname=數學導論（二）,,,False,跨院選修(理),GEAI1218,0,不分班,"數學導論（二）
+INTRODUCTION TO MATHEMATICS (II)",3,期,False,25,3,1,24,羅春光,理SC 4011,"['4', '', '', '', '56', '', '']","《講授類》
+優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。跨院通識與應數系MATH108課程併班上課
+※英語授課",['應用數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1222&Crsname=天文學導論,,,False,跨院選修(理),GEAI1222,0,不分班,"天文學導論
+INTRODUCTION TO ASTRONOMY",3,期,False,65,18,65,0,郭政育,理PH 2006,"['', '', '234', '', '', '', '']","《講授類》
+跨院通識與物理系PHYS415課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1224&Crsname=微分方程（一）,,,False,跨院選修(理),GEAI1224,0,不分班,"微分方程（一）
+DIFFERENTIAL EQUATIONS (I)",3,期,True,10,1,4,6,黃毅青,理SC 0012,"['', '23', '', '4', '', '', '']","《講授類》
+跨院通識與應數系MATH204課程併班上課",['應用數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1224A&Crsname=微分方程（一）,,,False,跨院選修(理),GEAI1224A,0,不分班,"微分方程（一）
+DIFFERENTIAL EQUATIONS (I)",3,期,True,10,2,2,8,李欣倫,理SC 1005,"['', '123', '', '', '', '', '']","《講授類》
+優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。跨院通識與應數系MATH204A課程併班上課
+※英語授課",['應用數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1225&Crsname=物理發展史,,,False,跨院選修(理),GEAI1225,0,不分班,"物理發展史
+HISTORY OF PHYSICS",3,期,False,30,12,30,0,邱奎霖,理SC 1005,"['', '567', '', '', '', '', '']","《講授類》
+跨院通識與物理系PHYS120課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1226&Crsname=動物生理學,,,False,跨院選修(理),GEAI1226,0,不分班,"動物生理學
+ANIMAL PHYSIOLOGY",3,期,True,5,0,2,3,李昆澤,理SC 0008,"['', '', '', '', '234', '', '']","《講授類》
+跨院通識與生科系BIOS313課程併班上課",['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1230&Crsname=數值分析（二）,,,False,跨院選修(理),GEAI1230,0,不分班,"數值分析（二）
+NUMERICAL ANALYSIS (II)",3,期,False,25,0,0,25,呂宗澤,理SC 1003,"['78', '', '5', '', '', '', '']","《講授類》
+跨院通識與應數系MATH305課程併班上課","['軟體工程學程', '人工智慧與數學學程', '巨量資料分析學程', '應用數學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1248&Crsname=免疫學,,,False,跨院選修(理),GEAI1248,0,不分班,"免疫學
+IMMUNOLOGY",3,期,False,10,10,5,5,李哲欣,理SC 2001,"['', '', '', '234', '', '', '']","《講授類》
+跨院通識與生科系BIOS330課程併班上課","['生物技術學程', '海洋天然物微學程']",False

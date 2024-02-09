@@ -1,0 +1,22 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMST585&Crsname=人體解剖學,,,False,醫科碩,IMST585,0,,"人體解剖學
+HUMAN ANATOMY",3,期,False,45,0,5,40,柯翠玲,國IR 5002,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMST585&Crsname=人體解剖學,,,False,醫科碩,IMST585,0,,"人體解剖學
+HUMAN ANATOMY",3,期,False,45,0,5,40,柯翠玲,國IR 5002,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMST585&Crsname=人體解剖學,,,False,醫科碩,IMST585,0,,"人體解剖學
+HUMAN ANATOMY",3,期,False,45,0,5,40,柯翠玲,國IR 5002,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM532&Crsname=磁振造影：基本原理，臨床運用及科學研究,,,False,精準醫學碩,IPM532,0,,"磁振造影：基本原理，臨床運用及科學研究
+MRI:BASIC PRINCIPLES, CLINICAL APPLICATIONS AND BIOMEDICAL RESEARCHES",2,期,False,50,0,0,50,郭禹廷,國IR 5005,"['', '', '', '', '', '34', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM912&Crsname=組織行為,,,False,人管碩專,HRM912,1,,"組織行為
+ORGANIZATIONAL BEHAVIOR",3,期,False,50,2,6,44,"王豫萱,陳以亨",管CM 4112,"['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM913&Crsname=人力資源管理,異動,更換時間及教室1/18,False,人管碩專,HRM913,0,,"人力資源管理
+HUMAN RESOURCE MANAGEMENT",3,期,False,50,0,4,46,謝慧賢,管CM 3043,"['', '', '', '', '', '', '678']","《講授類》
+限人管所學生選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM947&Crsname=研發管理,,,False,人管碩專,HRM947,0,,"研發管理
+R&D MANAGEMENT",3,期,False,50,0,22,28,陳旻男,管CM 3043,"['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRMA916&Crsname=人力資源研究方法（二）,,,False,人亞碩專,HRMA916,0,,"人力資源研究方法（二）
+RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT (II)",3,期,False,50,1,36,14,"李澄賢,王豫萱,陳旻男",管CM 3051,"['', '', '', '', '', '', '234']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS703&Crsname=研究方法（二）,,,False,資管博,MIS703,1,,"研究方法（二）
+RESEARCH METHODOLOGY(II)",3,期,True,50,0,6,44,邱兆民,管CM 2016,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS735&Crsname=中國的國際關係與外交政策,,,False,政治博,IPS735,0,,"中國的國際關係與外交政策
+CHINA’S INTERNATIONAL RELATIONS AND FOREIGN POLICY",3,期,False,50,2,3,47,沈旭暉,社SS 3008,"['', '', '', '', '678', '', '']",《講授類》,[],True

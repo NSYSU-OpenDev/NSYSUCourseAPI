@@ -1,0 +1,27 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS222&Crsname=物理數學與數值方法（二）,,,False,物理系,PHYS222,2,全英班,"物理數學與數值方法（二）
+MATHEMATICS AND CODING ON PHYSICS (II)",3,期,True,50,0,20,30,岩本祥,理PH 1009,"['56', '', '', '8', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS224&Crsname=進階物理實作（二）,,,False,物理系,PHYS224,2,全英班,"進階物理實作（二）
+PHYSICS IMPLEMENTATION (II)",3,期,True,50,0,20,30,"盧怡穎,呂浩宇,郭建成",理SC 2011,"['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS304&Crsname=量子物理（二）,,,False,物理系,PHYS304,3,不分班,"量子物理（二）
+QUANTUM PHYSICS (II)",3,期,True,60,0,55,5,朱家誼,理PH 1009,"['', '', '7', '', '34', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS306&Crsname=實驗物理學（四）,新增,12/29,False,物理系,PHYS306,3,不分班,"實驗物理學（四）
+EXPERIMENTAL PHYSICS (IV)",2,期,False,50,0,1,49,黃旭明,"理SC 2009, 理SC 2010","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS314&Crsname=物理研究專題（二）,,,False,物理系,PHYS314,3,不分班,"物理研究專題（二）
+INDEPENDENT STUDIES IN PHYSICS(II)",3,期,False,50,0,1,49,陳易馨,理PH 6010,"['', '', 'A1B', '', '', '', '']","《獨立研究》
+研究主題：量子光學，請事先與老師洽談。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS314A&Crsname=物理研究專題（二）,,,False,物理系,PHYS314A,3,不分班,"物理研究專題（二）
+INDEPENDENT STUDIES IN PHYSICS(II)",3,期,False,50,0,1,49,陳宗緯,理PH 7006,"['', '', '', 'A1B', '', '', '']","《獨立研究》
+研究主題：相對論與自旋動力學，請事先與老師洽談。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS314B&Crsname=物理研究專題（二）,,,False,物理系,PHYS314B,3,不分班,"物理研究專題（二）
+INDEPENDENT STUDIES IN PHYSICS(II)",3,期,False,50,1,0,50,鍾佳民,理PH 6001,"['', '', 'A1B', '', '', '', '']","《獨立研究》
+研究主題：使用數值計算研究低維度多體系統，請事先與老師洽談。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS314C&Crsname=物理研究專題（二）,,,False,物理系,PHYS314C,3,不分班,"物理研究專題（二）
+INDEPENDENT STUDIES IN PHYSICS(II)",3,期,False,50,0,0,50,邱奎霖,理PH 3007,"['', 'A1B', '', '', '', '', '']","《獨立研究》
+研究主題：量子計算，請事先與老師洽談。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS314D&Crsname=物理研究專題（二）,,,False,物理系,PHYS314D,3,不分班,"物理研究專題（二）
+INDEPENDENT STUDIES IN PHYSICS(II)",3,期,False,50,0,0,50,狄米契,理PH 3004,"['A1B', '', '', '', '', '', '']","《獨立研究》
+研究主題：Machine learning applications in physics，請事先與老師洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS314E&Crsname=物理研究專題（二）,,,False,物理系,PHYS314E,3,不分班,"物理研究專題（二）
+INDEPENDENT STUDIES IN PHYSICS(II)",3,期,False,50,0,1,49,洪昇廷,理PH 6008,"['', '', '', '', 'A1B', '', '']","《獨立研究》
+研究主題：微流體生醫影像平台，請事先與老師洽談。",[],False

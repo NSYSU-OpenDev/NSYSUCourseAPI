@@ -1,0 +1,30 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604&Crsname=專題討論,,,False,資管碩,MIS604,0,不分班,"專題討論
+SEMINAR",3,期,False,50,0,0,50,徐士傑,,"['', '', '', '', '', '', '']","《獨立研究》
+限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604A&Crsname=專題討論,,,False,資管碩,MIS604A,0,不分班,"專題討論
+SEMINAR",3,期,False,50,0,1,49,楊惠芳,,"['', '', '', '', '', '', '']","《獨立研究》
+限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604B&Crsname=專題討論,,,False,資管碩,MIS604B,0,不分班,"專題討論
+SEMINAR",3,期,False,50,0,0,50,劉賓陽,,"['', '', '', '', '', '', '']","《獨立研究》
+限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604C&Crsname=專題討論,,,False,資管碩,MIS604C,0,不分班,"專題討論
+SEMINAR",3,期,False,50,0,0,50,李捷,,"['', '', '', '', '', '', '']","《獨立研究》
+限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS607&Crsname=智慧型計算,,,False,資管碩,MIS607,0,不分班,"智慧型計算
+INTELLIGENT COMPUTATION",3,期,False,50,0,0,50,李偉柏,,"['', '', '', '', '', '', '']","《講授類》
+限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS613&Crsname=工作流程管理,,,False,資管碩,MIS613,0,不分班,"工作流程管理
+WORKFLOW MANAGEMENT",3,期,False,50,0,0,50,黃三益,,"['', '', '', '', '', '', '']","《講授類》
+限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS615&Crsname=資訊系統開發理論,,,False,資管碩,MIS615,0,不分班,"資訊系統開發理論
+THEORY OF INFORMATION SYSTEM DEVELOPMENT",3,期,False,50,0,0,50,吳仁和,,"['', '', '', '', '', '', '']","《講授類》
+限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM501&Crsname=財務管理理論與策略,,,False,財管碩,FM501,1,不分班,"財務管理理論與策略
+FINANCIAL MANAGEMENT THEORIES AND STRATEGIES",3,期,False,50,1,37,13,馬黛,管CM 1023,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM505&Crsname=投資理論與策略,,,False,財管碩,FM505,1,不分班,"投資理論與策略
+INVESTMENT THEORIES AND STRATEGIES",3,期,False,50,3,37,13,王昭文,管CM 4112,"['', '678', '', '', '', '', '']",《講授類》,"['金融工程學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM509&Crsname=國際投資組合管理,,,False,財管碩,FM509,1,不分班,"國際投資組合管理
+INTERNATIONAL PROTFOLIO MANAGEMENT",3,期,False,50,2,8,42,鄭義,管CM 3022,"['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['金融科技學程'],False

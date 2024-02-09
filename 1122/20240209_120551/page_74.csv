@@ -1,0 +1,33 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE2400B&Crsname=電路學（一）,,,False,電機系,EE2400B,1,全英班,"電路學（一）
+CIRCUIT THEORY (I)",3,期,True,56,33,56,0,蘇健翔,工EC 3012,"['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['半導體製程模組學程', '半導體設備工程學程', '半導體元件學程', '南星產業樞紐學程', '數位IC設計學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE2710&Crsname=嵌入式軟體設計,,,False,電機系,EE2710,2,不分班,"嵌入式軟體設計
+EMBEDDED SOFTWARE DESIGN AND PRACTICE",3,期,False,50,0,13,37,邱日清,工EC 2010,"['', '', '567', '', '', '', '']",《講授類》,"['人工智慧與數學學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE2711&Crsname=計算機組織,,,False,電機系,EE2711,2,不分班,"計算機組織
+COMPUTER ORGANIZATION",3,期,False,50,1,14,36,施信毓,工EC 2010,"['', '', '', '678', '', '', '']",《講授類》,"['軟體工程學程', '數位IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3113&Crsname=化合物半導體概論,,,False,電機系,EE3113,3,不分班,"化合物半導體概論
+INTRODUCTION TO COMPOUND SEMICONDUCTORS",3,期,False,50,1,44,6,劉漢胤,工EC 3009,"['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3210&Crsname=音頻電路設計,異動,更換時間及教室1/9,False,電機系,EE3210,3,不分班,"音頻電路設計
+AUDIO CIRCUIT DESIGN",3,期,False,50,0,42,8,余祥華,工EC 2010,"['567', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3310&Crsname=離散數學,,,True,電機系,EE3310,3,甲班,"離散數學
+DISCRETE MATHEMATICS",3,期,True,56,1,52,4,陳伯煒,工EC 6019,"['', '', '234', '', '', '', '']","《講授類》
+甲、乙班併班上課；限該班及重修生修習",['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3310A&Crsname=離散數學,,,True,電機系,EE3310A,3,乙班,"離散數學
+DISCRETE MATHEMATICS",3,期,True,56,4,39,17,陳伯煒,工EC 6019,"['', '', '234', '', '', '', '']","《講授類》
+甲、乙班併班上課；限該班及重修生修習",['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3310B&Crsname=離散數學,,,True,電機系,EE3310B,3,全英班,"離散數學
+DISCRETE MATHEMATICS",3,期,True,56,0,11,45,梁家昌,工EC 3013,"['', '', '', '', '678', '', '']","《講授類》
+ 
+※英語授課",['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3402&Crsname=電機機械,,,False,電機系,EE3402,2,甲班,"電機機械
+ELECTRICAL MACHINES",3,期,True,75,2,74,1,劉承宗,工EC 6019,"['234', '', '', '', '', '', '']","《講授類》
+限該班及重修生修習","['永續能源學程', '半導體設備工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3402A&Crsname=電機機械,,,False,電機系,EE3402A,2,乙班,"電機機械
+ELECTRICAL MACHINES",3,期,True,75,2,44,31,謝耀慶,工EC 1009,"['', '', '', '', '234', '', '']","《講授類》
+限該班及重修生修習","['永續能源學程', '半導體設備工程學程', '南星產業樞紐學程']",False

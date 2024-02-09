@@ -1,0 +1,21 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS1011&Crsname=[中山x高美館] 世界美術館與城市巡禮,,,False,人科學程,PIS1011,1,不分班,"[中山x高美館] 世界美術館與城市巡禮
+[NSYSU X KMFA] EXPLORING ART GALLERIES AND CITIES AROUND THE WORLD",3,期,False,20,22,20,0,趙可卿,西SW 1007,"['', '234', '', '', '', '', '']",《講授類》,"['原民文化探索及永續發展學程', '原民文化探索及永續發展學程', '智慧城市與智慧運輸學程', '都市文化與地景微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS1201&Crsname=音場技術導論,異動,更換教室12/28,False,人科學程,PIS1201,1,不分班,"音場技術導論
+INTRODUCTION TO SOUND FIELD TECHNOLOGY",1,期,False,50,3,11,39,陳以軒,,"['', '', '', '678', '', '', '']",《講授類》,"['沉浸式體驗技術與應用學程', '音場技術與情境感受微學程', '沉浸式體驗內容應用微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS1212&Crsname=虛擬實境數位內容設計,,,False,人科學程,PIS1212,1,不分班,"虛擬實境數位內容設計
+VIRTUAL REALITY DIGITAL CONTENT DESIGN",3,期,False,50,0,10,40,邱日清,工EC 6016,"['', '', '', '234', '', '', '']",《講授類》,"['沉浸式體驗技術與應用學程', '音場技術與情境感受微學程', '沉浸式體驗內容應用微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS1401&Crsname=劇場藝術導論,,,False,人科學程,PIS1401,1,不分班,"劇場藝術導論
+INTRODUCTION TO THEATRE ART",1,期,False,50,2,7,43,李怡賡,,"['', '234', '', '', '', '', '']",《講授類》,"['沉浸式體驗技術與應用學程', '音場技術與情境感受微學程', '沉浸式體驗內容應用微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2000&Crsname=空間調查分析與規劃,,,False,人科學程,PIS2000,2,不分班,"空間調查分析與規劃
+SPATIAL INVESTIGATION, ANALYSIS AND PLANNING",3,期,True,50,1,40,10,夏晧清,西SW 1007,"['', '567', '', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '都市永續規劃與管理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2004&Crsname=當代社會問題與創新案例研究,,,False,人科學程,PIS2004,1,不分班,"當代社會問題與創新案例研究
+STUDIES OF CONTEMPORARY  SOCIAL ISSUES AND INNOVATION CASES",3,期,True,50,3,30,20,夏晧清,西SW 1007,"['', '', '234', '', '', '', '']",《講授類》,['創新創業微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2005&Crsname=設計溝通與表達,,,False,人科學程,PIS2005,1,不分班,"設計溝通與表達
+COMMUNICATION AND EXPRESSION THROUGH DESIGN",3,期,True,50,2,50,0,張淑美,西SW 1005,"['', '', '567', '', '', '', '']",《講授類》,"['STREAM永續發展培力微學程', '中文創意跨域應用整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2009&Crsname=跨領域創新專題（一）,異動,調升名額1/11,False,人科學程,PIS2009,2,不分班,"跨領域創新專題（一）
+INDIVIDUAL STUDIES OF  CROSS-DOMAIN INNOVATION (1)",3,期,True,50,0,35,15,宋世祥,西SW 1007,"['', '', '', '234', '', '', '']",《講授類》,"['STREAM永續發展培力微學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2012&Crsname=關懷設計,,,False,人科學程,PIS2012,2,不分班,"關懷設計
+PHILANTHROPIC DESIGN",3,期,False,30,3,9,21,張淑美,西SW 1005,"['', '567', '', '', '', '', '']",《講授類》,['智慧長照微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2014&Crsname=精實創業,,,False,人科學程,PIS2014,2,不分班,"精實創業
+THE LEAN STARTUP",3,期,False,50,2,5,45,謝如梅,西SW 1003,"['678', '', '', '', '', '', '']",《講授類》,"['永續海洋休閒運動產業學程', '創新創業微學程']",False

@@ -1,0 +1,21 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS697&Crsname=量子光學專題（二）,,,False,物理碩,PHYS697,2,不分班,"量子光學專題（二）
+INDEPENDENT STUDIES IN QUANTUM OPTICS (II)",3,期,False,50,0,3,47,陳易馨,理PH 6010,"['CDE', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS699&Crsname=量子計算專題（二）,,,False,物理碩,PHYS699,2,不分班,"量子計算專題（二）
+INDEPENDENT STUDIES IN QUANTUM COMPUTING(Ⅱ)",3,期,False,50,0,4,46,邱奎霖,理PH 3007,"['', 'CDE', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH501&Crsname=統計書報討論（一）,,,True,應數碩,MATH501,1,不分班,"統計書報討論（一）
+SEMINAR IN STATISTICS(I)",1,期,True,15,0,14,1,李欣倫,理SC 4009-1,"['', '', '', '6', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH502&Crsname=數理統計,,,False,應數碩,MATH502,0,不分班,"數理統計
+MATHEMATICAL STATISTICS",3,期,False,25,0,6,19,施嘉翰,理SC 4009-1,"['', '2', '34', '', '', '', '']",《講授類》,['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH504&Crsname=財務時間序列分析,,,False,應數碩,MATH504,0,不分班,"財務時間序列分析
+ANALYSIS OF FINANCIAL TIME SERIES",3,期,False,25,0,9,16,郭美惠,理SC 4009-1,"['', '4', '', '', '34', '', '']",《講授類》,"['金融工程學程', '巨量資料分析學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH508&Crsname=統計品管,,,False,應數碩,MATH508,0,不分班,"統計品管
+STATISTICAL QUALITY CONTROL",3,期,False,25,0,8,17,郭美惠,理SC 4009-1,"['34', '', '', '4', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH510&Crsname=存活分析,,,False,應數碩,MATH510,0,不分班,"存活分析
+SURVIVAL ANALYSIS",3,期,False,25,0,7,18,張中,理SC 4009-1,"['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH512&Crsname=離散資料分析,,,False,應數碩,MATH512,0,不分班,"離散資料分析
+DISCRETE DATA ANALYSIS",3,期,False,25,0,7,18,曾聖澧,理SC 4009-0,"['', '', '', '789', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH520&Crsname=隨機過程,,,False,應數碩,MATH520,0,不分班,"隨機過程
+STOCHASTIC PROCESSES",3,期,False,25,0,4,21,許柏翰,理SC 4009-1,"['', '', '2', '23', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH526&Crsname=計算書報討論（一）,,,True,應數碩,MATH526,1,不分班,"計算書報討論（一）
+SEMINAR IN SCIENTIFIC COMPUTING(I)",1,期,True,15,0,6,9,卓建宏,理SC 4011,"['', '', '', '6', '', '', '']",《講授類》,[],False

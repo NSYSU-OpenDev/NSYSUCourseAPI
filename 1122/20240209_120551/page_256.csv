@@ -1,0 +1,29 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES671&Crsname=進階材料模擬設計,,,False,材光碩,MOES671,0,,"進階材料模擬設計
+ADVANCED AB INITIO MATERIALS DESIGN",3,期,False,50,1,3,47,呂德,工MS 4025,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS503&Crsname=資訊科技研究,,,True,資管碩,MIS503,1,,"資訊科技研究
+SPECIAL ISSUES IN INFORMATION TECHNOLOGY",3,期,True,50,1,39,11,韓毅,管CM 4078,"['678', '', '', '', '', '', '']",《講授類》,['巨量資料分析學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS513&Crsname=計算機網路,異動,更換時間1/17,False,資管碩,MIS513,0,,"計算機網路
+COMPUTER NETWORKS",3,期,False,50,0,31,19,林耕霈,管CM 3022,"['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課",['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS513&Crsname=計算機網路,異動,更換時間1/17,False,資管碩,MIS513,0,,"計算機網路
+COMPUTER NETWORKS",3,期,False,50,0,31,19,林耕霈,管CM 3022,"['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課",['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS513&Crsname=計算機網路,異動,更換時間1/17,False,資管碩,MIS513,0,,"計算機網路
+COMPUTER NETWORKS",3,期,False,50,0,31,19,林耕霈,管CM 3022,"['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課",['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,異動,更換教室1/4,False,資管碩,MIS535,0,,"服務品質管理
+SERVICE QUALITY MANAGEMENT",3,期,False,50,0,11,39,劉賓陽,管CM 2016,"['', '', 'CDE', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,異動,更換教室1/4,False,資管碩,MIS535,0,,"服務品質管理
+SERVICE QUALITY MANAGEMENT",3,期,False,50,0,11,39,劉賓陽,管CM 2016,"['', '', 'CDE', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,異動,更換教室1/4,False,資管碩,MIS535,0,,"服務品質管理
+SERVICE QUALITY MANAGEMENT",3,期,False,50,0,11,39,劉賓陽,管CM 2016,"['', '', 'CDE', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,異動,更換教室1/4,False,資管碩,MIS535,0,,"服務品質管理
+SERVICE QUALITY MANAGEMENT",3,期,False,50,0,11,39,劉賓陽,管CM 2016,"['', '', 'CDE', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS537&Crsname=專案管理,,,False,資管碩,MIS537,0,,"專案管理
+PROJECT MANAGEMENT",3,期,False,50,9,41,9,李捷,管CM 2016,"['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['非營利事業及社會創新微學程'],False

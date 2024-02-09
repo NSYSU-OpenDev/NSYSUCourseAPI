@@ -1,0 +1,26 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM588&Crsname=性別、組織與管理,,,False,公事碩,PAM588,2,不分班,"性別、組織與管理
+GENDER, ORGANIZATION AND MANAGEMENT",3,期,False,50,2,16,34,彭渰雯,管CM 1020,"['', '', '', '', '567', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '性別研究學程', '性別與管理微學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM603&Crsname=氣候行動書報討論,,,False,公事碩,PAM603,2,不分班,"氣候行動書報討論
+PAPER READINGS IN CLIMATE ACTIONS",1,期,False,50,0,7,43,林新沛,,"['67', '', '', '', '', '', '']","《研討類》
+雙數周上課，每次上課兩小時14-16點","['地方發展與永續農業微學程', '永續管理微學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM609&Crsname=公共事務專題研究,異動,更換教室1/5,False,公事碩,PAM609,2,不分班,"公共事務專題研究
+INDEPENDENT STUDIES IN PUBLIC AFFAIRS",2,期,False,50,1,7,43,蔡宏政,管CM 1023,"['', '', '', '', '', '56', '']","《獨立研究》
+主題：碳定價與永續發展","['地方創生與區域治理微學程', '地方創生與永續發展整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM611&Crsname=城市再生：理論與實踐,,,False,公事碩,PAM611,1,不分班,"城市再生：理論與實踐
+URBAN REGENERATION: THEORY AND PRACTICE",2,期,False,50,0,13,37,游尚儒,管CM 1020,"['', '', '', '', '34', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM612&Crsname=溫室氣體盤查報告實作,,,False,公事碩,PAM612,2,不分班,"溫室氣體盤查報告實作
+WRINING OF GHG INVENTORY REPORT",2,期,False,50,2,40,10,林新沛,,"['', '', '', '', '', '234B', '']",《講授類》,"['永續管理微學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM614&Crsname=永續消費,異動,更換時間及教室1/23,False,公事碩,PAM614,2,不分班,"永續消費
+SUSTAINABLE CONSUMPTION",3,期,False,50,5,12,38,張瓊婷,管CM 1023,"['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM506&Crsname=人力資源研究方法（二）,異動,更換教室1/23,False,人管碩,HRM506,1,不分班,"人力資源研究方法（二）
+RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT (II)",3,期,True,50,0,31,19,"李澄賢,王豫萱,陳旻男",管CM 2023,"['', '', '', '678', '', '', '']","《講授類》
+限人管所碩士班學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM507&Crsname=人力資源管理專案研究,,,False,人管碩,HRM507,1,不分班,"人力資源管理專案研究
+INDEPENDENT STUDIES IN HUMAN RESOURCES MANAGEMNET",3,期,True,50,0,30,20,"陳寶蓮,王豫萱,謝慧賢",管CM 3046,"['', '', '', '', '', '', 'CDE']","《講授類》
+限人管所學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM528&Crsname=組織研究（二）,新增,1/29,False,人管碩,HRM528,0,不分班,"組織研究（二）
+ORGANIZATION STUDIES (Ⅱ)",3,期,False,50,0,2,48,陳以亨,管CM 1036,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM541&Crsname=組織發展（二）,,,False,人管碩,HRM541,1,不分班,"組織發展（二）
+ORGANIZATION DEVELOPMENT (II)",3,期,False,50,1,19,31,"王豫萱,陳以亨",管CM 1036,"['', '', '', '', '', 'CDE', '']","《講授類》
+限人管所學生選修",[],False

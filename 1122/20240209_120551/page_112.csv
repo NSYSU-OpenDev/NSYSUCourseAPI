@@ -1,0 +1,27 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC212&Crsname=媒體與社會,,,False,社會系,SOC212,2,不分班,"媒體與社會
+MEDIA AND SOCIETY",3,期,False,50,1,26,24,戴昀,社SS 4004-2,"['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC216&Crsname=糧食、農業與社會,異動,更換時間12/28,False,社會系,SOC216,2,不分班,"糧食、農業與社會
+FOOD,AGRICULTURE AND SOCIETY",3,期,False,50,0,2,48,巴清雄,,"['', '', '', '123456789', '123456789', '123456789', '']","《講授類》
+寒假部分課程先修，限有修課同學選修",['原民文化探索及永續發展學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC221&Crsname=社會統計實習（二）,,,False,社會系,SOC221,2,不分班,"社會統計實習（二）
+SOCIAL STATISTICS PRACTICE ( II )",1,期,True,50,2,50,0,戴昀,圖IL PC 02,"['', '', '', 'DE', '', '', '']","《實習類》
+本課程限選修本系《社會統計（二）》之學生。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC249&Crsname=歷史社會學,,,False,社會系,SOC249,2,不分班,"歷史社會學
+HISTORICAL SOCIOLOGY",3,期,False,50,17,50,0,林傳凱,社SS 1003,"['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC253&Crsname=保育、地景與社區,新增,12/29,False,社會系,SOC253,2,不分班,"保育、地景與社區
+CONSERVATION, LANDSCAPES AND COMMUNITY",3,期,False,50,19,50,0,巴清雄,社SS 1003,"['', '', '', '', '234', '', '']",《講授類》,"['原民文化探索及永續發展學程', '臺灣研究學程', '永續發展與社會創新學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC257&Crsname=全球政治,,,False,社會系,SOC257,2,不分班,"全球政治
+GLOBAL POLITICS",3,期,False,20,4,11,9,方志恒,社SS 4001,"['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC303&Crsname=社會調查與研究方法（二）,,,True,社會系,SOC303,3,不分班,"社會調查與研究方法（二）
+SOCIAL SURVEY AND RESEARCH METHODS （II）",3,期,True,50,0,8,42,楊靜利,社SS 4004-2,"['234', '', '', '', '', '', '']","《講授類》
+限修過本系或跨院選修之社會學(一)(二)且及格","['永續發展與社會創新學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC303A&Crsname=社會調查與研究方法（二）,,,True,社會系,SOC303A,3,不分班,"社會調查與研究方法（二）
+SOCIAL SURVEY AND RESEARCH METHODS （II）",3,期,True,50,0,6,44,陳美華,社SS 3004-2,"['234', '', '', '', '', '', '']","《講授類》
+限修過本系或跨院選修之社會學(一)(二)且及格","['永續發展與社會創新學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC303B&Crsname=社會調查與研究方法（二）,,,True,社會系,SOC303B,3,不分班,"社會調查與研究方法（二）
+SOCIAL SURVEY AND RESEARCH METHODS （II）",3,期,True,50,0,8,42,葉高華,社SS 1003,"['234', '', '', '', '', '', '']","《講授類》
+限修過本系或跨院選修之社會學(一)(二)且及格","['永續發展與社會創新學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC303C&Crsname=社會調查與研究方法（二）,,,True,社會系,SOC303C,3,不分班,"社會調查與研究方法（二）
+SOCIAL SURVEY AND RESEARCH METHODS （II）",3,期,True,50,0,8,42,趙恩潔,社SS 3004-1,"['234', '', '', '', '', '', '']","《講授類》
+限修過本系或跨院選修之社會學(一)(二)且及格","['永續發展與社會創新學程', '社區文創微學程']",False

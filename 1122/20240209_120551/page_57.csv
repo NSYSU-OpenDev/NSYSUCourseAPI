@@ -1,0 +1,26 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=LIBA122&Crsname=跨文化人文思潮與美學導論,,,False,文學院,LIBA122,0,不分班,"跨文化人文思潮與美學導論
+INTRODUCTION TO CROSS-CULTURAL STUDIES AND AESTHETICS",3,期,False,30,1,9,21,陳宏星,文LA 1001,"['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課","['跨文化人文思潮與美學微學程', '台灣閩南語文書寫應用與創作微學程', '與社會交往的表演藝術微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=LIBA127&Crsname=台灣閩南語敘事工坊（二）,,,False,文學院,LIBA127,0,不分班,"台灣閩南語敘事工坊（二）
+NARRATIVE WORKSHOP OF TAIWANESE SOUTHERN MIN（II）",3,期,False,30,0,3,27,杜佳倫,文LA 1001,"['', '', '', '567', '', '', '']",《講授類》,['台灣閩南語文書寫應用與創作微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=LIBA137&Crsname=電影創作與程式邏輯思維,,,False,文學院,LIBA137,0,不分班,"電影創作與程式邏輯思維
+FILM CREATION AND PROGRAM LOGIC THINKING",3,期,False,30,0,11,19,陳俊宏,圖IL PC01,"['', '', '', '567', '', '', '']","《講授類》
+限非應數、電機、機電、資工、材光、光電、資管、海工系學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=LIBA143&Crsname=基礎程式設計應用,,,False,文學院,LIBA143,0,不分班,"基礎程式設計應用
+APPLICATION OF BASIC PROGRAMMING",3,期,False,30,1,6,24,溫嘉榮,圖IL PC02,"['', '', '', '', '234', '', '']","《講授類》
+限非應數、電機、機電、資工、材光、光電、資管、海工系學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=LIBA251&Crsname=哲學問題導論,,,False,文學院,LIBA251,0,不分班,"哲學問題導論
+INTRODUCTION TO PHILOSOPHICAL PROBLEMS",3,期,False,30,0,2,28,高長空,文LA 1003,"['678', '', '', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=LIBA251A&Crsname=哲學問題導論,,,False,文學院,LIBA251A,0,不分班,"哲學問題導論
+INTRODUCTION TO PHILOSOPHICAL PROBLEMS",3,期,False,30,0,11,19,戴遠雄,文LA 1003,"['', '', '567', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS112&Crsname=普通生物學（二）,異動,確認部份教師1/29,False,生科系,BIOS112,1,不分班,"普通生物學（二）
+GENERAL BIOLOGY(II)",4,期,True,50,0,39,11,"吳長益,傅瀚儀,汪海晏,高資棟","理SC 0008,理SC 2001","['12', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS112A&Crsname=普通生物學（二）,異動,確認合授教師1/29,False,生科系,BIOS112A,1,全英班,"普通生物學（二）
+GENERAL BIOLOGY(II)",4,期,True,50,1,21,29,"吳長益,傅瀚儀,汪海晏,高資棟","理SC 0008,理SC 2001","['34', '', '', '34', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS113&Crsname=普通生物學實驗（二）,,,False,生科系,BIOS113,1,不分班,"普通生物學實驗（二）
+GENERAL BIOLOGY LABORATORY(II)",1,期,True,30,0,24,6,"黃明德,傅瀚儀,吳長益,汪海晏",理SC 3008,"['', '', '', '', '789', '', '']","《實驗類》
+限本系、雙主修及輔系學生選修及本系一年級選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS113A&Crsname=普通生物學實驗（二）,,,False,生科系,BIOS113A,1,全英班,"普通生物學實驗（二）
+GENERAL BIOLOGY LABORATORY(II)",1,期,True,30,0,20,10,"黃明德,傅瀚儀,吳長益,汪海晏",理SC 3008,"['', '', '', '', 'B56', '', '']",《實驗類》,[],True

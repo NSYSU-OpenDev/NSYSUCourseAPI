@@ -1,0 +1,32 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME106&Crsname=機電材料,,,False,機電系,MEME106,1,甲班,"機電材料
+ELECTRO-MECHANICAL MATERIALS",3,期,True,60,0,40,20,胡龍豪,工EC 3001,"['567', '', '', '', '', '', '']","《講授類》
+限該班及重修生修習。『本課程之限修，於加退選2階段開放選修』","['太空科技微學程', '半導體設備工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME106A&Crsname=機電材料,,,False,機電系,MEME106A,1,乙班,"機電材料
+ELECTRO-MECHANICAL MATERIALS",3,期,True,60,0,38,22,黃永茂,工EC 3001,"['', '', '', '234', '', '', '']","《講授類》
+限該班及重修生修習。『本課程之限修，於加退選2階段開放選修』","['太空科技微學程', '半導體設備工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME106B&Crsname=機電材料,,,False,機電系,MEME106B,1,全英班,"機電材料
+ELECTRO-MECHANICAL MATERIALS",3,期,True,60,0,43,17,李伯軒,工EC 2006,"['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課","['太空科技微學程', '半導體設備工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME202&Crsname=應用力學（二）,,,False,機電系,MEME202,1,甲班,"應用力學（二）
+APPLIED MECHANICS (II)",3,期,True,55,0,39,16,郭清德,工EN 4055-1,"['', '', '', '567', '', '', '']","《講授類》
+一甲、一乙班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME202A&Crsname=應用力學（二）,,,False,機電系,MEME202A,1,乙班,"應用力學（二）
+APPLIED MECHANICS (II)",3,期,True,55,0,45,10,郭清德,工EN 4055-1,"['', '', '', '567', '', '', '']","《講授類》
+一甲、一乙班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME202B&Crsname=應用力學（二）,,,False,機電系,MEME202B,1,全英班,"應用力學（二）
+APPLIED MECHANICS (II)",3,期,True,60,0,47,13,蔡尚南,工EC 2006,"['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME206&Crsname=工程數學（二）,,,False,機電系,MEME206,2,甲班,"工程數學（二）
+ENGINEERING MATHEMATICS(II)",3,期,True,55,0,45,10,劉耿豪,工EN 4055-1,"['', '234', '', '', '', '', '']","《講授類》
+二甲、二乙班併班上課",['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME206A&Crsname=工程數學（二）,,,False,機電系,MEME206A,2,乙班,"工程數學（二）
+ENGINEERING MATHEMATICS(II)",3,期,True,55,1,42,13,劉耿豪,工EN 4055-1,"['', '234', '', '', '', '', '']","《講授類》
+二甲、二乙班併班上課",['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME206B&Crsname=工程數學（二）,,,False,機電系,MEME206B,2,全英班,"工程數學（二）
+ENGINEERING MATHEMATICS(II)",3,期,True,60,0,26,34,汪正祺,工EC 2003,"['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME208&Crsname=機動學,,,False,機電系,MEME208,2,甲班,"機動學
+MECHANISM",3,期,True,55,5,55,0,楊政融,工EN 4055-1,"['', '', '567', '', '', '', '']","《講授類》
+二甲、二乙班併班上課",[],False

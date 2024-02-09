@@ -1,0 +1,28 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO530&Crsname=動物的生化適應,異動,更換時間及教室1/5,False,海科碩,DO530,0,不分班,"動物的生化適應
+BIOCHEMICAL ADAPTATION IN ANIMALS",2,期,False,50,0,1,49,王志騰,海MA 3020,"['', '34', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO547&Crsname=魚類分類學,,,False,海科碩,DO547,0,不分班,"魚類分類學
+FISH TAXONOMY",2,期,False,50,0,4,46,莫顯蕎,海MA 1020,"['', '', '34', '', '', '', '']","《講授類》
+ 
+※英語授課",['生物多樣性學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO552&Crsname=海洋流體力學,,,False,海科碩,DO552,0,不分班,"海洋流體力學
+OCEAN FLUID MECHANICS",2,期,False,50,0,2,48,曾若玄,海MA 3040,"['34', '', '', '', '', '', '']","《講授類》
+與DO342併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO572&Crsname=論文寫作（一）,異動,更換教室1/25,False,海科碩,DO572,0,不分班,"論文寫作（一）
+TECHNICAL WRITING（I）",1,期,False,50,0,3,47,雷漢杰,海MA 2009,"['', '3', '', '', '', '', '']","《講授類》
+適合海地化組研究生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO573&Crsname=高等海洋化學,異動,更換教室1/25,False,海科碩,DO573,0,不分班,"高等海洋化學
+ADVANCED MARINE CHEMISTRY",3,期,False,50,0,1,49,雷漢杰,海MA 2009,"['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO595&Crsname=海洋有機地球化學,異動,更換教室1/25,False,海科碩,DO595,0,不分班,"海洋有機地球化學
+MARINE ORGANIC GEOCHEMISTRY",3,期,False,50,0,2,48,洪慶章,海MA 2009,"['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO613&Crsname=海水微量分析,,,False,海科碩,DO613,0,不分班,"海水微量分析
+TRACE ANALYSIS OF SEAWATER",3,期,False,50,0,0,50,簡國童,海MA 3040,"['', '', '', '678', '', '', '']","《講授類》
+與DO323併班上課。",['擁海學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO627&Crsname=高等古海洋學,異動,更換教室1/25,False,海科碩,DO627,0,不分班,"高等古海洋學
+ADVANCED PALEOCEANOGRAPHY",3,期,False,50,0,1,49,張詠斌,海MA 2009,"['', '', '', '', '678', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO665&Crsname=波浪與潮汐,,,False,海科碩,DO665,0,不分班,"波浪與潮汐
+WAVE AND TIDE",3,期,False,50,0,2,48,陳冠宇,海MA 1020,"['', '67', '', '', '3', '', '']","《講授類》
+與DO346併班上課。","['擁海學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO666&Crsname=海洋地球化學,,,False,海科碩,DO666,0,不分班,"海洋地球化學
+MARINE GEOCHEMISTRY",3,期,False,50,0,1,49,簡國童,海MA 3040,"['', '678', '', '', '', '', '']","《講授類》
+與DO425併班上課。",['擁海學程'],False
