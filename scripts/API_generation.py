@@ -19,7 +19,10 @@ API_ROOT_PATH.mkdir(parents=True, exist_ok=True)
 
 
 async def main():
-    academic_year = os.getenv("ACADEMIC_YEAR")
+    academic_year = os.getenv("ACADEMIC_YEAR", "").strip()
+
+    if not academic_year:
+        academic_year = None
 
     try:
         data, academic_year = await get_academic_year(academic_year)
