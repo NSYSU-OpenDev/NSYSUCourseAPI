@@ -39,6 +39,7 @@ jobs:
         with:
           repository: ${{ github.repository }}
           path: data
+          ref: gh-pages
 
       - name: Start
         run: python main.py start
