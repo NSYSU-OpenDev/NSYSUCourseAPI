@@ -25,12 +25,13 @@ jobs:
           python-version: '3.11'
           cache: pip
 
+      - name: test
+        run: |
+          exho ${{ steps.pysetup.outputs.cache-hit }}
+
       - name: setup-python requires
         if: ${{ steps.pysetup.outputs.cache-hit }} == 'false'
         run: pip install -r requirements.txt
-
-      - name: Set Timezone
-        run: timedatectl set-timezone Asia/Taipei
 
       - name: Clone
         uses: actions/checkout@v4
@@ -40,6 +41,9 @@ jobs:
 
       - name: Start
         run: python main.py start
+        env:
+          # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
+          TZ: TW
 
       - name: Deploy
         run: |
