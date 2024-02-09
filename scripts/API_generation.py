@@ -25,7 +25,7 @@ async def main():
         academic_year = None
 
     try:
-        data, academic_year = await get_academic_year(academic_year)
+        data, academic_year = await get_academic_year(academic_year, max_page=1)
     except ValueError as e:
         print(e)
         return
