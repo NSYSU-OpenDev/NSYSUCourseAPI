@@ -103,16 +103,16 @@ python main.py test
 <details>
   <summary>File</summary>
 
-```json
-{
-  "name": "all.json",
-  "path": "1122/20240208/all.json",
-  "sha256": "f4592e5e23fa54ca89e10fa4528baeed3adc423a015e54a4f3b24a5520ca297c",
-  "size": 2000,
-  "static_url": "https://whats2000.github.io/NSYSUCourseAPI/1122/20240208/all.json",
-  "type": "file",
-}
-```
+  ```json
+  {
+    "name": "all.json",
+    "path": "1122/20240208/all.json",
+    "sha256": "f4592e5e23fa54ca89e10fa4528baeed3adc423a015e54a4f3b24a5520ca297c",
+    "size": 2000,
+    "static_url": "https://whats2000.github.io/NSYSUCourseAPI/1122/20240208/all.json",
+    "type": "file",
+  }
+  ```
 
 </details>
 
@@ -167,20 +167,20 @@ python main.py test
 <details>
   <summary>Academic Year</summary>
 
-| FIELD     | TYPE        | DESCRIPTION            |
-| --------- | ----------- | ---------------------- |
-| `latest`  | `string`    | 最新版本(和路徑名相同) |
-| `history` | `list[str]` | 歷史版本(和路徑名相同) |
+| FIELD     | TYPE             | DESCRIPTION                                                   |
+| --------- | ---------------- | ------------------------------------------------------------- |
+| `latest`  | `string`         | 最新版本(和路徑名相同)                                        |
+| `history` | `dict[str, str]` | 歷史紀錄 `{ [更新時間(與路徑名相同): str]: [ISO 8601: str] }` |
 
   ```json
   {
     "latest": "20240408_010805",
-    "history": [
-      "20240408_010805",
-      "20240407_111005",
-      "20240406_153005",
-      "20240405_204005",
-    ]
+    "history": {
+      "20240408_010805": "2024-04-08T01:08:05Z",
+      "20240407_111005": "2024-04-07T11:10:05Z",
+      "20240406_153005": "2024-04-06T15:30:05Z",
+      "20240405_204005": "2024-04-05T20:40:05Z",
+    }
   }
   ```
 

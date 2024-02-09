@@ -36,7 +36,7 @@ async def fetch(
         callback (Optional[Callable[[], None]]): The callback function
 
     Returns:
-        Coroutine[Any, Any, str]: The response
+        str: The response
     """
     try:
         async with s.post(
@@ -133,6 +133,6 @@ async def get_academic_year(
         html = BeautifulSoup(str(page), "html.parser")
         data = html.select("table tr[bgcolor]")
 
-        result.extend(map(lambda d: parse_course_info(d, page), data))
+        result.extend(filter(bool, map(lambda d: parse_course_info(d, page), data)))
 
     return list(filter(bool, result)), academic_year

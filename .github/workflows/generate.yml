@@ -36,5 +36,32 @@ jobs:
         if: !steps.pysetup.outputs.cache-hit
         run: pip install -r requirements.txt
 
+      - name: Set Timezone
+        run: timedatectl set-timezone Asia/Taipei
+
+      - name: Clone
+        uses: actions/checkout@v4
+        with:
+          repository: ${{ github.repository }}
+          path: data
+
       - name: Start
         run: python main.py start
+
+      - name: Deploy
+        run: |
+          git config --global user.name "GitHub Action"
+          git config --global user.email "action@github.com"
+
+          if [ -d "data" ]; then
+            cd data
+
+            git add -A
+            git commit -m "🚀 Update data for data"
+            git push -f https://_:"$token"@$repository master:"gh-pages"
+
+            cd -
+          fi
+        env:
+          token: ${{ secrets.GITHUB_TOKEN }}
+          repository: github.com/${{ github.repository }}

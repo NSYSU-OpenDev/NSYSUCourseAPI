@@ -8,6 +8,28 @@ from bs4 import Tag
 from utils.utils import is_integer
 
 
+ACADEMIC_YEAR_MAP = ["上", "下", "暑期"]
+
+
+def parse_academic_year_code(academic_year: str) -> str:
+    """
+    Parse an academic year code into a formatted string.
+
+    Args:
+        academic_year (str): Academic year code to parse.
+
+    Returns:
+        str: Formatted academic year string.
+
+    Raises:
+        ValueError: If the academic year code is invalid.
+    """
+    if len(academic_year) != 4 or academic_year[3] not in "012":
+        raise ValueError(f"Invalid academic year code: {academic_year}")
+
+    return academic_year[:3] + ACADEMIC_YEAR_MAP[int(academic_year[3])]
+
+
 def parse_course_info(
     d: Tag,
     original_page: str,
@@ -22,7 +44,7 @@ def parse_course_info(
         kwargs: Flag when an error occurs
 
     Returns:
-        dict | bool: The course information
+        Union[dict, Literal[False]]: The course information
     """
     try:
         # Fixed the problem that br will not be converted to \n when converted to str
@@ -83,9 +105,7 @@ def parse_course_info(
         assert grade, f"grade = {grade}"
         assert credit, f"credit = {credit}"
         assert yearSemester in "年期", f"yearSemester = {yearSemester}"
-        assert (
-            compulsoryElective in "必選"
-        ), f"compulsoryElective = {compulsoryElective}"
+        assert compulsoryElective in "必選", f"compulsoryElective = {compulsoryElective}"
 
         assert is_integer(restrict), f"restrict = {restrict}"
         assert is_integer(select), f"select = {select}"
