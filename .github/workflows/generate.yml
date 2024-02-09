@@ -26,7 +26,7 @@ jobs:
           cache: pip
 
       - name: setup-python requires
-        # if: ${{ !steps.pysetup.outputs.cache-hit }}
+        if: ${{ !steps.pysetup.outputs.cache-hit }}
         run: pip install -r requirements.txt
 
       - name: Clone
@@ -51,7 +51,7 @@ jobs:
 
             git add -A
             git commit -m "🚀 Update data for data"
-            git push -f https://_:"$token"@$repository master:"gh-pages"
+            git push -f https://_:"$token"@$repository main:"gh-pages"
 
             cd -
           fi
