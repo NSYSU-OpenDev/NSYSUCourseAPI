@@ -2,11 +2,11 @@ name: Generate API
 on:
   workflow_dispatch:
     inputs:
-      message:
-        description: 'Academic Year'
+      academic_year:
+        description: Academic Year
         required: false
-  schedule:
-    - cron: '0 0/1 * * *'
+  # schedule:
+  #   - cron: '0 0/1 * * *'
 
 permissions:
   contents: read
@@ -45,6 +45,7 @@ jobs:
         env:
           # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
           TZ: TW
+          ACADEMIC_YEAR: ${{ github.event.inputs.academic_year }}
 
       - name: Deploy
         run: |

@@ -22,7 +22,7 @@ async def main():
     academic_year = os.getenv("ACADEMIC_YEAR")
 
     try:
-        data, academic_year = await get_academic_year(academic_year, max_page=2)
+        data, academic_year = await get_academic_year(academic_year)
     except ValueError as e:
         print(e)
         return
