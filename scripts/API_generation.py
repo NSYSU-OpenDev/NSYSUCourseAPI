@@ -3,6 +3,7 @@ import csv
 import json
 import os
 from pathlib import Path
+import shutil
 
 from deepdiff import DeepDiff
 
@@ -13,6 +14,9 @@ from utils.struct import (
     recursion_generate_paths_info_file,
 )
 from utils.utils import json_minify_dump, paginate
+
+PER_PAGE_SIZE = 20
+MAX_HISTORY_COUNT = 5
 
 API_ROOT_PATH = Path("data")
 ROOT_VERSION_PATH = API_ROOT_PATH / "version.json"
@@ -51,6 +55,13 @@ async def main():
     if root_version_manager.add_version(academic_year):
         root_version_manager.to_file(ROOT_VERSION_PATH)
 
+    academic_year_versions = list(academic_year_version_manager.versions.keys())
+    if len(academic_year_versions) > MAX_HISTORY_COUNT:
+        for old in academic_year_versions[:-MAX_HISTORY_COUNT]:
+            old_dir = academic_year_dir / old
+            if old_dir.is_dir():
+                shutil.rmtree(old_dir)
+
     diff = DeepDiff(data, old_data, ignore_order=True, report_repetition=True)
     if academic_year_version_file.is_file() and not diff:
         return
@@ -66,7 +77,7 @@ async def main():
     (new_academic_year_dir / "all.json").write_text(json_minify_dump(data), encoding="utf-8")
 
     i = 0
-    for i, page in enumerate(paginate(data, 10)):
+    for i, page in enumerate(paginate(data, PER_PAGE_SIZE)):
         page_path = new_academic_year_dir / f"page_{i + 1}.json"
         page_path.write_text(json_minify_dump(page), encoding="utf-8")
 

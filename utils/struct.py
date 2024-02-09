@@ -180,7 +180,7 @@ class _BaseVersionManger:
         return False
 
     @property
-    def version(self) -> dict[str, str]:
+    def versions(self) -> dict[str, str]:
         """
         Get the dictionary containing version numbers and their corresponding data.
 
