@@ -6,8 +6,8 @@ on:
         description: Academic Year
         required: false
   schedule:
-    - cron: '0 0/4 * * *'
-    - cron: '0 0/3 * * *'
+    - cron: '0 0/5 * * *'
+    # - cron: '0 0/3 * * *'
 
 permissions:
   contents: write
@@ -60,10 +60,10 @@ jobs:
             cd data
 
             git add -A
-            git commit -m "🚀 Update data for data"
-            git push -f https://_:"$token"@$repository gh-pages:"gh-pages"
-
-            cd -
+            if [[ `git status --porcelain` ]]; then
+              git commit -m "🚀 Update data for data"
+              git push -f https://_:"$token"@$repository gh-pages:"gh-pages"
+            fi
           fi
         env:
           token: ${{ secrets.GITHUB_TOKEN }}
