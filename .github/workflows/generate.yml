@@ -6,7 +6,7 @@ on:
         description: Academic Year
         required: false
   schedule:
-    - cron: '0 0/5 * * *'
+    - cron: '0 0/1 * * *'
     # - cron: '0 0/3 * * *'
 
 permissions:
