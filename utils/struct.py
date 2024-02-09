@@ -94,7 +94,7 @@ def recursion_generate_paths_info_file(root_path: Path, directory_path: Optional
             root_path,
             path,
             # Exclude the path.json file from the generated paths info (remove yourself)
-            filter=lambda x: x.name != "path.json",
+            filter=lambda x: x.name not in ["path.json", ".git"],
         )
         (path / "path.json").write_text(json_minify_dump(paths_info_struct), encoding="utf-8")
 

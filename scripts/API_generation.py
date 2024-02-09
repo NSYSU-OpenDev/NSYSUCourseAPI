@@ -1,4 +1,5 @@
 import asyncio
+import csv
 import json
 import os
 from pathlib import Path
@@ -68,6 +69,19 @@ async def main():
     for i, page in enumerate(paginate(data, 10)):
         page_path = new_academic_year_dir / f"page_{i + 1}.json"
         page_path.write_text(json_minify_dump(page), encoding="utf-8")
+
+    # generate .env file
+    for path in new_academic_year_dir.glob("**/*.json"):
+        data = json.loads(path.read_text(encoding="utf-8"))
+        csv_file = path.parent / f"{path.name.removesuffix('.json')}.csv"
+        if csv_file.is_file():
+            continue
+
+        if isinstance(data, list) and len(data) > 0:
+            with csv_file.open("w", encoding="utf-8") as f:
+                writer = csv.DictWriter(f, data[0].keys())
+                writer.writeheader()
+                writer.writerows(data)
 
     info_content = json_minify_dump({"page_size": i + 1, "updated": timestamp})
     (new_academic_year_dir / "info.json").write_text(info_content, encoding="utf-8")
