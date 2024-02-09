@@ -58,7 +58,7 @@ jobs:
 
             git add -A
             git commit -m "🚀 Update data for data"
-            git push -f https://_:"$token"@$repository main:"gh-pages"
+            git push -f https://_:"$token"@$repository gh-pages:"gh-pages"
 
             cd -
           fi
