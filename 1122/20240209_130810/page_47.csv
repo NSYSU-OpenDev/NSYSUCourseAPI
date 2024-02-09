@@ -1,0 +1,29 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL406&Crsname=法文三（二）,異動,更換時間1/9,True,外文系,DFLL406,4,不分班,"法文三（二）
+FRENCH III-2",3,期,True,20,0,4,16,王柔惠,文LA 3016,"['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL410&Crsname=德文三（二）,,,True,外文系,DFLL410,4,不分班,"德文三（二）
+GERMAN III-2",3,期,True,20,0,1,19,陳麗雅,文LA 3016,"['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL421&Crsname=美國文學：1865以後,,,True,外文系,DFLL421,4,不分班,"美國文學：1865以後
+AMERICAN LITERATURE : AFTER 1865",3,期,True,50,0,18,32,陳福仁,文LA 3003,"['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['西洋經典文學與文化學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL437&Crsname=當代文學理論,,,False,外文系,DFLL437,4,不分班,"當代文學理論
+CONTEMPORARY LITERARY THEORY",3,期,False,50,1,10,40,黃心雅,文LA 3016,"['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['西洋經典文學與文化學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL444&Crsname=英語文法與教學,,,False,外文系,DFLL444,4,不分班,"英語文法與教學
+ENGLISH GRAMMAR FOR FOREIGN LANGUAGE EDUCATION",3,期,False,50,3,50,0,徐淑瑛,文LA 3004,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL446&Crsname=外語教學法,,,False,外文系,DFLL446,4,不分班,"外語教學法
+FOREIGN LANGUAGE TEACHING METHODS",3,期,False,50,0,24,26,楊郁芬,文LA 3004,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL456&Crsname=英譯臺灣文學,,,False,外文系,DFLL456,4,不分班,"英譯臺灣文學
+ENGLISH TRANSLATION OF TAIWAN LITERATURE",3,期,False,20,3,20,0,賴淑芳,文LA 7001,"['', '', '', '567', '', '', '']",《講授類》,['音樂劇學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL468&Crsname=當代愛爾蘭小說,,,False,外文系,DFLL468,4,不分班,"當代愛爾蘭小說
+CONTEMPORARY IRISH FICTIONS",3,期,False,50,1,39,11,賴怡芃,文LA 3003,"['', '567', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['西洋經典文學與文化學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI101&Crsname=合奏,異動,確認教師1/8,True,音樂系,MUSI101,1,不分班,"合奏
+ENSEMBLE",2,期,True,90,0,61,29,楊智欽,文FA 4031,"['', '', '67', '', '56', '', '']","《音樂類》
+開放20個名額予跨院修課，學生選課於第一週參加樂團甄試，通過後始得修課，外系學生借用琴房練習，依規定繳交費用",['音樂劇學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI102&Crsname=合唱,,,True,音樂系,MUSI102,1,不分班,"合唱
+CHORUS",2,期,True,90,1,34,56,翁佳芬,文FA 4028,"['', '', '67', '89', '', '', '']","《音樂類》
+開放20個名額予跨院修課，選課學生須於第一週參加視譜及歌唱測驗，通過後始得修課，外系學生借用琴房練習須依規定繳交費用※多門必修需自行加選",['音樂劇學程'],False

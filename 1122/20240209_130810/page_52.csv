@@ -1,0 +1,29 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI375&Crsname=特定主題音樂創作（一）,,,False,音樂系,MUSI375,3,不分班,"特定主題音樂創作（一）
+SPECIAL TOPICS ON MUSIC COMPOSITION (I)",2,期,False,50,1,6,44,應廣儀,文FA 4034,"['', '', '', '67', '', '', '']","《講授類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI402&Crsname=弦樂重奏（四）,,,False,音樂系,MUSI402,3,不分班,"弦樂重奏（四）
+STRING CHAMBER ENSEMBLE(Ⅳ)",1,期,False,50,0,6,44,富澤直子,文FA 4031,"['', '34', '', '', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI406&Crsname=現代音樂曲目,,,False,音樂系,MUSI406,4,不分班,"現代音樂曲目
+MODERN MUSIC REPERTOIRE",2,期,False,50,0,23,27,李思嫺,文FA 6011,"['34', '', '', '', '', '', '']","《講授類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI409&Crsname=音樂美學,異動,更換時間1/2,False,音樂系,MUSI409,4,不分班,"音樂美學
+MUSICAL AESTHETICS",2,期,False,50,3,27,23,郭瓊嬌,文FA 7003,"['', '', '', '34', '', '', '']","《講授類》
+限音樂系學生修課",['跨文化人文思潮與美學微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI410&Crsname=畢業製作,,,True,音樂系,MUSI410,4,不分班,"畢業製作
+GRADUATION RECITAL",0,期,True,50,0,23,27,林雅叙,,"['', '', '', '', '', '', '1']","《講授類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI433&Crsname=歌劇曲目,異動,更換時間及教室1/17,False,音樂系,MUSI433,2,不分班,"歌劇曲目
+OPERA REPERTOIRE",2,期,False,50,1,9,41,黃子珊,文FA 4030,"['78', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI451&Crsname=現代擊樂演奏技巧與風格概論,,,False,音樂系,MUSI451,3,不分班,"現代擊樂演奏技巧與風格概論
+PERFORMANCE TECHNIQUES & MUSICAL STYLES OF PERCUSSION ON CONTEMPORARY MUSIC",2,期,False,50,0,15,35,鄭雅心,"文FA 4030,文FA 4031","['', '', '', '', '78', '', '']","《講授類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA105&Crsname=西洋藝術史,,,False,劇藝系,TA105,1,不分班,"西洋藝術史
+HISTORY OF WESTERN ART",2,期,False,50,2,11,39,趙可卿,文FA 3007,"['', '', '67', '', '', '', '']",《講授類》,"['法國語言、文化與社會學程', '跨文化人文思潮與美學微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA107&Crsname=劇場技術基礎,,,True,劇藝系,TA107,1,不分班,"劇場技術基礎
+THE FUNDAMENTALS OF THEATRICAL TECHNIQUES",2,期,True,50,2,21,29,"吳怡瑱,鍾宜泰","文FA 3009, 文FA 2019","['34', '', '', '', '', '', '']","《講授類》
+限本系雙號",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA107A&Crsname=劇場技術基礎,,,True,劇藝系,TA107A,1,不分班,"劇場技術基礎
+THE FUNDAMENTALS OF THEATRICAL TECHNIQUES",2,期,True,50,0,17,33,"吳怡瑱,鍾宜泰","文FA 3012,文FA 2019","['34', '', '', '', '', '', '']","《講授類》
+限本系單號",[],False

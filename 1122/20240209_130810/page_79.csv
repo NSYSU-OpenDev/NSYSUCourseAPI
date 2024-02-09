@@ -1,0 +1,32 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE4805B&Crsname=電波與光電實作專題,,,False,電機系,EE4805B,3,全英班,"電波與光電實作專題
+INDEPENDENT STUDIES IN WAVE AND OPTICS PRACTICE",2,期,True,50,0,1,49,待聘,工EC 6013,"['', '', '', '', 'CDEF', '', '']","《獨立研究》
+請自行找電波組老師做專題，請先至https://forms.gle/abfrVnsjVbZGQQRg6登錄",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE4806&Crsname=通訊實作專題,,,False,電機系,EE4806,3,甲班,"通訊實作專題
+INDEPENDENT STUDIES IN COMMUNICATION PRACTICE",2,期,True,50,1,17,33,待聘,工EC 6013,"['', '', '', '', '', '1234', '']","《獨立研究》
+請自行找通訊所老師做專題，請先至https://forms.gle/abfrVnsjVbZGQQRg6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE4806A&Crsname=通訊實作專題,,,False,電機系,EE4806A,3,乙班,"通訊實作專題
+INDEPENDENT STUDIES IN COMMUNICATION PRACTICE",2,期,True,50,0,13,37,待聘,工EC 6013,"['', '', 'CDEF', '', '', '', '']","《獨立研究》
+請自行找通訊所老師做專題，請先至https://forms.gle/abfrVnsjVbZGQQRg6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE4806B&Crsname=通訊實作專題,,,False,電機系,EE4806B,3,全英班,"通訊實作專題
+INDEPENDENT STUDIES IN COMMUNICATION PRACTICE",2,期,True,50,0,1,49,待聘,工EC 6013,"['', '', '', '', '', '1234', '']","《獨立研究》
+請自行找通訊組老師做專題，請先至https://forms.gle/abfrVnsjVbZGQQRg6登錄",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE4807&Crsname=系統晶片實作專題,,,False,電機系,EE4807,3,甲班,"系統晶片實作專題
+INDEPENDENT STUDIES IN SYSTEM-ON-CHIP DESIGN",2,期,True,50,0,18,32,待聘,工EC 6013,"['', '', '', '', '', '5678', '']","《獨立研究》
+請自行找SOC組老師做專題，請先至https://forms.gle/abfrVnsjVbZGQQRg6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE4807A&Crsname=系統晶片實作專題,,,False,電機系,EE4807A,3,乙班,"系統晶片實作專題
+INDEPENDENT STUDIES IN SYSTEM-ON-CHIP DESIGN",2,期,True,50,0,30,20,待聘,工EC 6013,"['', 'CDEF', '', '', '', '', '']","《獨立研究》
+請自行找SOC組老師做專題，請先至https://forms.gle/abfrVnsjVbZGQQRg6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE4807B&Crsname=系統晶片實作專題,,,False,電機系,EE4807B,3,全英班,"系統晶片實作專題
+INDEPENDENT STUDIES IN SYSTEM-ON-CHIP DESIGN",2,期,True,50,0,10,40,待聘,工EC 6013,"['', '', '', '', '', '5678', '']","《獨立研究》
+請自行找SOC組老師做專題，請先至https://forms.gle/abfrVnsjVbZGQQRg6登錄",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME104&Crsname=微積分（二）,,,False,機電系,MEME104,1,甲班,"微積分（二）
+CALCULUS(II)",3,期,True,55,0,35,20,張中,工EN 4055-1,"['', '', '', '', '234', '', '']","《講授類》
+一甲、一乙班併班上課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME104A&Crsname=微積分（二）,,,False,機電系,MEME104A,1,乙班,"微積分（二）
+CALCULUS(II)",3,期,True,55,0,37,18,張中,工EN 4055-1,"['', '', '', '', '234', '', '']","《講授類》
+一甲、一乙班併班上課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME104B&Crsname=微積分（二）,,,False,機電系,MEME104B,1,全英班,"微積分（二）
+CALCULUS(II)",3,期,True,60,0,56,4,余冠儒,工EC 2006,"['', '', '', '', '234', '', '']","《講授類》
+與化學系英語組併班上課
+※英語授課",['人工智慧與數學學程'],False

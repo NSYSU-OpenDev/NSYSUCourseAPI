@@ -1,0 +1,24 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5711&Crsname=計算理論,,,False,電機碩,EE5711,0,不分班,"計算理論
+THE THEORY OF COMPUTATION",3,期,False,50,1,7,43,邱日清,工EC 3014,"['', '', '', '', '234', '', '']","《講授類》
+與「緯創資通AI跨域應用產業碩士專班」併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5712&Crsname=高等類比積體電路設計,,,False,電機碩,EE5712,0,不分班,"高等類比積體電路設計
+ADVANCED ANALOG IC DESIGN",3,期,False,50,0,29,21,李宗哲,工EC 6016,"['', '', '', '', '567', '', '']","《講授類》
+ 
+※英語授課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5714&Crsname=嵌入式多核心系統與軟體,,,False,電機碩,EE5714,0,不分班,"嵌入式多核心系統與軟體
+EMBEDDED MULTI-CORE SYSTEMS AND SOFTWARE",3,期,False,50,1,4,46,邱日清,工EC 3014,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5721&Crsname=醫學影像系統,,,False,電機碩,EE5721,0,不分班,"醫學影像系統
+MEDICAL IMAGING SYSTEMS",3,期,False,50,0,3,47,莊子肇,工EC 8037,"['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5728&Crsname=照明電子設計專題,異動,更換授課方式12/29,False,電機碩,EE5728,0,不分班,"照明電子設計專題
+INDEPENDENT STUDIES IN DESIGN OF ELECTRONIC CIRCUITS FOR LIGHTING APPLICATIONS",3,期,False,50,0,9,41,謝耀慶,工EC 8037,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5732&Crsname=超大型積體電路數位訊號處理,,,False,電機碩,EE5732,0,不分班,"超大型積體電路數位訊號處理
+VLSI DIGITAL SIGNAL PROCESSING",3,期,False,50,1,15,35,施信毓,工EC 3010,"['', '', '567', '', '', '', '']",《講授類》,['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5736&Crsname=數位通訊電路設計專題,異動,更換授課方式12/29,False,電機碩,EE5736,0,不分班,"數位通訊電路設計專題
+INDEPENDENT STUDIES IN  DIGITAL COMMUNICATION IC DESIGN",3,期,False,50,0,4,46,施信毓,工EC 2018,"['678', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5737&Crsname=電腦視覺,,,False,電機碩,EE5737,0,不分班,"電腦視覺
+COMPUTER VISION",3,期,False,50,4,38,12,魏家博,工EC 2010,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5738&Crsname=混合訊號積體電路設計專題,異動,更換授課方式12/29,False,電機碩,EE5738,0,不分班,"混合訊號積體電路設計專題
+INDEPENDENT STUDIES IN MIXED-SIGNAL INTEGRATED CIRCUIT DESIGN",3,期,False,50,1,2,48,李宗哲,工EC 3010,"['234', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5739&Crsname=軟硬體協同設計之人工智慧晶片設計,,,False,電機碩,EE5739,0,不分班,"軟硬體協同設計之人工智慧晶片設計
+DESIGN OF ARTIFICIAL INTELLIGENCE CHIP BY SOFTWARE AND HARDWARE COOPERATION MECHANISM",3,期,False,50,0,11,39,邱日清,工EC 3009,"['', '', '', '678', '', '', '']",《講授類》,[],False

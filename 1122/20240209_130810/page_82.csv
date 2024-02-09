@@ -1,0 +1,31 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME307A&Crsname=熱傳學,,,False,機電系,MEME307A,3,乙班,"熱傳學
+HEAT TRANSFER",3,期,True,55,1,54,1,許聖彥,工EN 4055-1,"['', '', '', '234', '', '', '']","《講授類》
+三甲、三乙班併班上課","['太空科技微學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME307B&Crsname=熱傳學,,,False,機電系,MEME307B,3,全英班,"熱傳學
+HEAT TRANSFER",3,期,True,60,0,33,27,鄭威利,工EC 2003,"['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['太空科技微學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME308&Crsname=固力實驗,,,False,機電系,MEME308,3,甲班,"固力實驗
+MATERIAL TESTING LABORATORY",1,期,True,60,0,43,17,林韋至,工EC 3006,"['234', '', '', '', '', '', '']","《實驗類》
+實驗室在工EV 2015",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME308A&Crsname=固力實驗,,,False,機電系,MEME308A,3,乙班,"固力實驗
+MATERIAL TESTING LABORATORY",1,期,True,60,0,48,12,林韋至,工EC 3006,"['567', '', '', '', '', '', '']","《實驗類》
+實驗室在工EV 2015",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME308B&Crsname=固力實驗,,,False,機電系,MEME308B,3,全英班,"固力實驗
+MATERIAL TESTING LABORATORY",1,期,True,60,0,26,34,林韋至,工EC 3006,"['', '', '', '', '567', '', '']","《實驗類》
+實驗室在工EV 2015",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME309&Crsname=控制實驗,,,False,機電系,MEME309,3,甲班,"控制實驗
+CONTROL LABORATORY",1,期,True,60,0,43,17,嚴成文,工EC 3003,"['567', '', '', '', '', '', '']","《實驗類》
+實驗室在工EV 2008",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME309A&Crsname=控制實驗,,,False,機電系,MEME309A,3,乙班,"控制實驗
+CONTROL LABORATORY",1,期,True,60,0,44,16,嚴成文,工EC 3003,"['234', '', '', '', '', '', '']","《實驗類》
+實驗室在工EV 2008",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME309B&Crsname=控制實驗,,,False,機電系,MEME309B,3,全英班,"控制實驗
+CONTROL LABORATORY",1,期,True,60,0,22,38,嚴成文,工EC 3006,"['', '', '', '234', '', '', '']","《實驗類》
+實驗室在工EV 2008",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME315&Crsname=機電實作專題研討（二）,,,False,機電系,MEME315,3,不分班,"機電實作專題研討（二）
+SPECIAL TOPICS IN MECHANICAL AND ELECTRO-MECHANICAL ENGINEERING (II)",3,期,False,120,1,90,30,王郁仁,,"['A', '', 'A', '', 'A', '', '']","《研討類》
+已修機電專題研討(一)者，建議續修本課程",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME321&Crsname=數位電子學,,,False,機電系,MEME321,4,不分班,"數位電子學
+DIGITAL ELECTRONICS",3,期,False,50,2,16,34,程啓正,工EN 3021,"['', '567', '', '', '', '', '']",《講授類》,['太空科技微學程'],False

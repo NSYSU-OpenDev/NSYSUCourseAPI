@@ -1,0 +1,23 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV252&Crsname=環境工程化學,,,False,海工系,MAEV252,2,不分班,"環境工程化學
+ENVIRONMENTAL ENGINEERING CHEMISTRY",3,期,True,60,0,49,11,林巧雯,海ME 2003,"['', '234', '', '', '', '', '']",《講授類》,"['環境科技與管理學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV253&Crsname=環境工程化學實驗,,,False,海工系,MAEV253,2,不分班,"環境工程化學實驗
+ENVIRONMENTAL ENGINEERING CHEMISTRY LABORATORY",1,期,True,50,0,44,6,林巧雯,海ME 2003,"['', '567', '', '', '', '', '']",《實驗類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV260&Crsname=計畫學導論,,,False,海工系,MAEV260,1,不分班,"計畫學導論
+INTRODUCTION TO PLANNING THEORY",3,期,True,60,0,53,7,陸曉筠,海ME 3006,"['', '', '', '678', '', '', '']",《講授類》,"['環境科技與管理學程', '公民參與微學程', '環境教育學程', '永續發展與社會創新學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV263&Crsname=應用測量學,異動,確認教師2/5,False,海工系,MAEV263,2,不分班,"應用測量學
+APPLIED SURVEYING TECHNOLOGY",3,期,False,50,0,7,43,鍾秉宸,海ME 2002,"['', '', '', '', '567', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV306&Crsname=營建管理,,,False,海工系,MAEV306,4,不分班,"營建管理
+CONSTRUCTION MANAGEMENT",3,期,False,50,1,27,23,王世旭,海ME 2007,"['', '678', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV320&Crsname=水文學,,,False,海工系,MAEV320,2,不分班,"水文學
+HYDROLOGY",3,期,True,60,0,48,12,莊偉良,海ME 2003,"['', '', '', '234', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV324&Crsname=海岸工程學,,,False,海工系,MAEV324,3,不分班,"海岸工程學
+COASTAL ENGINEERING",3,期,True,65,0,34,31,陳陽益,海ME 2003,"['678', '', '', '', '', '', '']","《講授類》
+限工程數學（一）、工程數學（二）及流體力學等三科50分(D)(含)以上修習，若未符合上述規定者，請洽授課老師後於異常處理階段加選。","['環境教育學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV342&Crsname=基礎工程學,,,False,海工系,MAEV342,3,不分班,"基礎工程學
+FOUNDATION ENGINEERING",3,期,False,50,0,13,37,林俊宏,海ME 2005,"['', '567', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV343&Crsname=結構學,,,False,海工系,MAEV343,2,不分班,"結構學
+STRUCTURE THEORY",3,期,False,50,1,15,35,金尚進,海ME 2003,"['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV354&Crsname=給水及排水工程,異動,確認合授教師2/5,False,海工系,MAEV354,3,不分班,"給水及排水工程
+WATER SUPPLY AND DRAINAGE SYSTEM",3,期,True,60,0,34,26,"林巧雯,鍾秉宸",海ME 2003,"['', '', '567', '', '', '', '']","《講授類》
+限流體力學50分(D)(含)以上及環境工程化學50分(D)(含)以上修習，若未符合上述規定者，請洽授課老師後於異常處理階段加選。","['環境科技與管理學程', '環境教育學程']",False

@@ -1,0 +1,29 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE221&Crsname=運動與健康：初級肌肉適能,,,False,運動健康(必),GEPE221,2,不分班,"運動與健康：初級肌肉適能
+SPORT & HEALTH: BASIC MUSCULAR FITNESS",1,期,True,35,34,35,0,蔡宗晏,體適能中心/Fitness Center,"['', '', '', '67', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE223&Crsname=運動與健康：初級競技桌球,,,False,運動健康(必),GEPE223,2,不分班,"運動與健康：初級競技桌球
+SPORT & HEALTH: BASIC SPORT TABLE TENNIS",1,期,True,50,4,50,0,羅凱暘,桌球室/Table tennis room,"['', '67', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE227&Crsname=運動與健康：初級複合弓,,,False,運動健康(必),GEPE227,2,不分班,"運動與健康：初級複合弓
+SPORT & HEALTH: BASIC COMPOUND BOW",1,期,True,20,16,20,0,黃義博,射箭場/Archery field,"['', '', '', '', '67', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE228&Crsname=運動與健康：初級競技羽球,,,False,運動健康(必),GEPE228,2,不分班,"運動與健康：初級競技羽球
+SPORT & HEALTH：BASIC ATHLETIC BADMINTON",1,期,True,50,0,50,0,林國欽,體育館3樓/3rd floors of Gym,"['', '34', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE229&Crsname=運動與健康：初級水中救生,異動,更換部份時間1/15,False,運動健康(必),GEPE229,2,不分班,"運動與健康：初級水中救生
+SPORT & HEALTH: BASIC LIFE SAVING",2,期,True,20,2,8,12,羅凱暘,,"['CD', 'CD', 'CD', 'CD', 'CD', '1234B5678', '']","《體育類》
+限大二以上選修。200公尺（自由式、蛙式各100公尺）游泳6分鐘完成，方得修習本課程。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE230&Crsname=運動與健康：初級衝浪,,,False,運動健康(必),GEPE230,2,不分班,"運動與健康：初級衝浪
+SPORT & HEALTH：BASIC SURF",1,期,True,25,21,25,0,蔡睿洋,海域中心/Marine sports center,"['', '', '12', '', '', '', '']","《體育類》
+限大二以上選修，且游泳200公尺不落地完成 (自由式或蛙式)，方得修習本課程。",['永續海洋休閒運動產業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE303&Crsname=運動與健康：進階集訓班,,,False,運動進階(選),GEPE303,3,不分班,"運動與健康：進階集訓班
+SPORT & HEALTH:  ADVANCED ASSEMBLED TRAINING CLASS",2,期,False,100,1,37,63,"蔡宗晏,林國欽,林宗正,羅凱暘,蔡鋒樺,黃義博",,"['', 'A', '', 'A', '', '', '']","《體育類》
+限大三以上選修。本校校隊學生需自行加選，非校隊加選以零分計算 。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2105&Crsname=莎劇與文化詮釋,,,False,博雅向度一,GEAE2105,0,不分班,"莎劇與文化詮釋
+APPROACHING SHAKESPEARE：FROM PAGE TO PERFORMANCE",3,期,True,60,21,60,0,林季怡,通GE 2006,"['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2108&Crsname=台灣社會與文化,,,False,博雅向度一,GEAE2108,0,不分班,"台灣社會與文化
+SOCIETY AND CULTURE IN TAIWAN",3,期,True,90,66,82,8,江政寬,通GE 1008,"['567', '', '', '', '', '', '']",《講授類》,"['日本研究學程', '環境教育學程', '地方創生與區域治理微學程', '地方敘事與創生學程', '社區文創微學程', '台日跨文化微學程', '地方敘事與文化設計微學程', '地方創生與永續發展整合學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2109&Crsname=生命禮儀與文化詮釋,,,False,博雅向度一,GEAE2109,0,不分班,"生命禮儀與文化詮釋
+ANALYSIS OF CULTURE PERSPECTIVE ABOUT LIFE CEREMONY",3,期,True,90,61,90,0,楊濟襄,文LA 2004,"['234', '', '', '', '', '', '']","《講授類》
+限非中文系學生修習",[],False

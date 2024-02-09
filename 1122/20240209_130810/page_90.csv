@@ -1,0 +1,23 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES312&Crsname=相變化,,,True,材光系,MOES312,3,不分班,"相變化
+PHASE TRANSFORMATION",3,期,True,50,0,17,33,邱政維,工MS 4023,"['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES318&Crsname=電子學（二）,異動,修正設定1/31,True,材光系,MOES318,3,不分班,"電子學（二）
+ELECTRONICS(II)",3,期,True,50,0,18,32,蔡宗鳴,工MS 4022,"['', '', '', '234', '', '', '']",《講授類》,"['半導體元件學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES319&Crsname=高分子物理,,,True,材光系,MOES319,3,不分班,"高分子物理
+POLYMER PHYSICS",3,期,True,50,3,49,1,葉昀昇,工MS 4022,"['', '', '567', '', '', '', '']",《講授類》,['有機和材料合成學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES333&Crsname=材料機械性質,,,False,材光系,MOES333,3,不分班,"材料機械性質
+MECHANICAL BEHAVIOR OF MATERIALS",3,期,False,50,1,9,41,郭哲男,工MS 4022,"['', '789', '', '', '', '', '']",《講授類》,"['有機和材料合成學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES334&Crsname=材料與光電專題研究（二）,,,False,材光系,MOES334,3,不分班,"材料與光電專題研究（二）
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(II)",1,期,False,50,0,20,30,蔣酉旺,,"['A', 'A', 'A', '', '', '', '']","《講授類》
+修課學生應先找到指導專題教授再進行選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES438&Crsname=材料的光電特性,,,False,材光系,MOES438,4,不分班,"材料的光電特性
+ELECTRICAL AND OPTICAL PROPERTIES OF MATERIALS",3,期,False,50,1,0,50,周明奇,工MS 4019,"['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES440&Crsname=材料與光電專題研究（四）,異動,更換時間12/29,False,材光系,MOES440,4,不分班,"材料與光電專題研究（四）
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(VI)",1,期,False,50,0,12,38,蔣酉旺,,"['1', '1', '1', '', '', '', '']","《講授類》
+修課生應先找到指導專題教授再行選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES446&Crsname=半導體物理與材料,,,False,材光系,MOES446,4,不分班,"半導體物理與材料
+SEMICONDUCTOR PHYSICS AND MATERIALS",3,期,False,50,0,17,33,徐瑞鴻,工 MS 4025,"['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES447&Crsname=材料製程與設計,新增,12/29,False,材光系,MOES447,2,不分班,"材料製程與設計
+MATERIALS PROCESSING AND DESIGN",3,期,False,50,1,42,8,王映樵,工MS 2004,"['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES452&Crsname=專題討論,,,False,材光系,MOES452,3,不分班,"專題討論
+SEMINAR",1,期,True,60,0,56,4,陳致光,工MS 4019,"['', '3', '', '', '', '', '']",《研討類》,[],True

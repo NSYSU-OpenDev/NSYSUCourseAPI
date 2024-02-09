@@ -1,0 +1,31 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL110&Crsname=文學作品導讀（二）,,,False,外文系,DFLL110,1,不分班,"文學作品導讀（二）
+GUIDED READING OF LITERARY WORKS (II)",3,期,True,50,10,50,0,范澤凱,文LA 3001,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL112&Crsname=西洋文學概論（二）,,,False,外文系,DFLL112,1,不分班,"西洋文學概論（二）
+INTRODUCTION TO WESTERN LITERATURE(II)",3,期,True,50,2,50,0,李佳容,文LA 3004,"['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['法國語言、文化與社會學程', '西洋經典文學與文化學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL204&Crsname=英語聽力二（二）,,,True,外文系,DFLL204,2,不分班,"英語聽力二（二）
+ENGLISH LISTENING PRACTICE II(II)",1,期,True,50,1,21,29,曾銘裕,文LA 2001,"['', '567', '', '', '', '', '']","《講授類》
+限本系修畢「英語聽力一（一）、一（二）」、「英語聽力二（一）」學生修習；修課同學須繳「語言教學實習費」",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL206&Crsname=英語口語訓練二（二）,,,True,外文系,DFLL206,2,不分班,"英語口語訓練二（二）
+ENGLISH ORAL TRAINING II(II)",2,期,True,16,18,16,0,盧家達,文LA 3004,"['', '', '', '567', '', '', '']","《講授類》
+限本系修畢「英語口語訓練一(一)、一(二)」、「英語口語訓練二(一)」學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL206A&Crsname=英語口語訓練二（二）,,,True,外文系,DFLL206A,2,不分班,"英語口語訓練二（二）
+ENGLISH ORAL TRAINING II(II)",2,期,True,16,6,16,0,李佳容,文LA 3002,"['', '', '', '567', '', '', '']","《講授類》
+限本系修畢「英語口語訓練一(一)、一(二)」、「英語口語訓練二(一)」學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL208&Crsname=英文寫作二（二）,,,True,外文系,DFLL208,2,不分班,"英文寫作二（二）
+ENGLISH WRITING II(II)",2,期,True,16,0,15,1,賴怡芃,文LA 3004,"['', '', '234', '', '', '', '']","《講授類》
+限本系修畢「英文寫作一(一)、一(二)」、「英文寫作二(一)」學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL208A&Crsname=英文寫作二（二）,,,True,外文系,DFLL208A,2,不分班,"英文寫作二（二）
+ENGLISH WRITING II(II)",2,期,True,16,0,11,5,李祁芳,文LA 3013,"['', '', '234', '', '', '', '']","《講授類》
+限本系修畢「英文寫作一(一)、一(二)」、「英文寫作二(一)」學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL208B&Crsname=英文寫作二（二）,,,True,外文系,DFLL208B,2,不分班,"英文寫作二（二）
+ENGLISH WRITING II(II)",2,期,True,16,0,14,2,施智閔,文LA 3012,"['', '', '234', '', '', '', '']","《講授類》
+限本系修畢「英文寫作一(一)、一(二)」、「英文寫作二(一)」學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL221&Crsname=英語語言學概論（二）,,,False,外文系,DFLL221,2,不分班,"英語語言學概論（二）
+INTRODUCTION TO ENGLISH LINGUISTICS（II）",3,期,True,50,6,50,0,歐淑珍,文LA 3001,"['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL223&Crsname=歐洲文學：1800以後,,,True,外文系,DFLL223,2,不分班,"歐洲文學：1800以後
+EUROPEAN LITERATURE : AFTER 1800",3,期,True,50,0,15,35,洪敏秀,文LA 3001,"['567', '', '', '', '', '', '']",《講授類》,"['法國語言、文化與社會學程', '西洋經典文學與文化學程']",False

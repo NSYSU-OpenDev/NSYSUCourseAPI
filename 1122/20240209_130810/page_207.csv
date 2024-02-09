@@ -1,0 +1,23 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAPA503&Crsname=碩士論文,,,False,亞太英語碩程,MAPA503,0,不分班,"碩士論文
+THESIS",3,期,False,50,0,1,49,希家玹,社SS 4005,"['', '234', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAPA518&Crsname=中國與國際組織,,,False,亞太英語碩程,MAPA518,0,不分班,"中國與國際組織
+CHINA AND INTERNATIONAL ORGANIZATIONS",3,期,False,50,0,3,47,希家玹,社SS 4005,"['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAPA521&Crsname=中國政府與政治,,,False,亞太英語碩程,MAPA521,0,不分班,"中國政府與政治
+GOVERNMENTS AND POLITICS IN CHINA",3,期,False,50,0,7,43,林文程,社SS 2011,"['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAPA525&Crsname=台灣政經發展,,,False,亞太英語碩程,MAPA525,0,不分班,"台灣政經發展
+TAIWAN'S POLITICAL ECONOMY DEVELOPMENT",3,期,False,50,0,11,39,希家玹,社SS 4005,"['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAPA532&Crsname=兩岸關係與亞太安全,,,False,亞太英語碩程,MAPA532,0,不分班,"兩岸關係與亞太安全
+CROSS-STRAIT RELATIONS AND ASIA-PACIFIC SECURITY",3,期,False,50,0,8,42,林正義,社SS 2011,"['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課","['全民國防微學程', '日本研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAPA535&Crsname=韓國外交關係,,,False,亞太英語碩程,MAPA535,0,不分班,"韓國外交關係
+FOREIGN RELATIONS OF KOREA",3,期,False,50,0,3,47,郭育仁,社SS 4005,"['', '', '', '34B', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE501&Crsname=研究方法,,,False,教人全英碩,IGPE501,1,不分班,"研究方法
+RESEARCH METHODS",3,期,True,50,0,8,42,馮雅群,社SS 2002-1,"['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE505&Crsname=比較教育研究,,,False,教人全英碩,IGPE505,0,不分班,"比較教育研究
+STUDIES IN COMPARATIVE EDUCATION",3,期,False,30,0,1,29,紀博善,社SS 2004-3,"['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE512&Crsname=對外英語教學,,,False,教人全英碩,IGPE512,0,不分班,"對外英語教學
+TEACHING ENGLISH TO SPEAKERS OF OTHER LANGUAGES (TESOL)",3,期,False,30,0,3,27,紀博善,社SS 2004-3,"['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE514&Crsname=多媒體學習,新增,1/16,False,教人全英碩,IGPE514,0,不分班,"多媒體學習
+MULTIMEDIA LEARNING",3,期,False,50,0,0,50,陳菁徽,社SS 2002-1,"['', '', '', '234', '', '', '']",《講授類》,[],True

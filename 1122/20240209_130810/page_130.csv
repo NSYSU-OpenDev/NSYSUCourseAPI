@@ -1,0 +1,22 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS527&Crsname=現代生物醫學新知,,,False,生科碩,BIOS527,1,不分班,"現代生物醫學新知
+TRENDS IN CONTEMPORARY BIOMEDICAL SCIENCES",1,期,False,50,1,5,45,康宏佑,理BI 2002,"['', '', '7', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS539&Crsname=分子病毒學,,,False,生科碩,BIOS539,1,不分班,"分子病毒學
+MOLECULAR VIROLOGY",3,期,False,50,0,9,41,李哲欣,理BI 3001,"['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS544&Crsname=細胞動力學,,,False,生科碩,BIOS544,1,不分班,"細胞動力學
+CELL DYNAMICS",3,期,False,50,0,2,48,陳俊霖,理BI 3001,"['', '', '', '', '567', '', '']","《講授類》
+1.限生科系碩士班2.須修過細胞與分子生物學",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS550&Crsname=基因調控專題研究（二）,,,False,生科碩,BIOS550,1,不分班,"基因調控專題研究（二）
+INDEPENDENT STUDIES IN GENE REGULATION （II）",3,期,False,50,0,2,48,吳長益,理SC 3009,"['', '', '', '', '', '567', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS552&Crsname=細胞膜訊息傳導專題研究（二）,,,False,生科碩,BIOS552,1,不分班,"細胞膜訊息傳導專題研究（二）
+INDEPENDENT STUDIES IN MEMBRANE BIOLOGY & SIGNAL TRANSDUCTION（II）",3,期,False,50,0,2,48,陳俊霖,理SC 3008,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS554&Crsname=脊髓損傷醫學專題研究（二）,,,False,生科碩,BIOS554,1,不分班,"脊髓損傷醫學專題研究（二）
+INDEPENDENT STUDIES IN SPINAL CORD INJURY MEDICINE (II)",3,期,False,50,0,0,50,李昆澤,理SC 1014,"['', '', '', '', '', '', '234']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS559&Crsname=電氣生理學專題（二）,,,False,生科碩,BIOS559,2,不分班,"電氣生理學專題（二）
+INDEPENDENT STUDIES IN ELECTROPHYSIOLOGY（II）",3,期,False,50,0,1,49,劉昭成,理SC 1014,"['', '', '', '', '', '234', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS576&Crsname=科學論文寫作與發表,,,False,生科碩,BIOS576,1,不分班,"科學論文寫作與發表
+WRITING AND PUBLISHING OF SCIENTIFIC PAPERS",3,期,False,50,0,7,43,費卡契,理BI 3001,"['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS586&Crsname=分子演化專題(二),,,False,生科碩,BIOS586,1,不分班,"分子演化專題(二)
+INDEPENDENT STUDIES IN MOLECULAR EVOLUTION(II)",3,期,False,50,0,1,49,江友中,理SC 3010,"['', '', '', '', '', '567', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS589&Crsname=生理生態學專題研究,,,False,生科碩,BIOS589,1,不分班,"生理生態學專題研究
+INDEPENDENT STUDIES IN PHYSIOLOGICAL ECOLOGY",3,期,False,50,0,0,50,黃淑萍,理SC 3019,"['', '', '', '', '', '234', '']",《獨立研究》,[],False

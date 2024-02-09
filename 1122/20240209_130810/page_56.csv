@@ -1,0 +1,28 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA352&Crsname=創意表演（一）,,,False,劇藝系,TA352,3,不分班,"創意表演（一）
+CREATIVE PERFORMANCE（I）",2,期,False,50,2,24,26,杜思慧,文FA 2017,"['89', '', '', '', '', '', '']","《展演》
+限修畢排演基礎(一)",['與社會交往的表演藝術微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA360&Crsname=進階表演（四）,,,False,劇藝系,TA360,3,不分班,"進階表演（四）
+ADVANCED ACTING（Ⅳ）",3,期,False,50,1,6,44,何怡璉,文FA 2017,"['', '', '', '234', '', '', '']","《展演》
+限修畢進階表演三",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA365&Crsname=歌唱技巧（一）,,,False,劇藝系,TA365,2,不分班,"歌唱技巧（一）
+SINGING TECHNIQUE AND STYLE (I)",2,期,False,50,2,14,36,林宜誠,文FA 2017,"['', '', '', '', '34', '', '']",《展演》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA367&Crsname=音樂劇表演與製作（二）,,,False,劇藝系,TA367,4,不分班,"音樂劇表演與製作（二）
+ACTING AND PRODUCTION FOR MUSICAL（II）",3,期,False,50,2,13,37,林宜誠,文FA 2017,"['', '', '', '', '567', '', '']",《展演》,"['原民文化探索及永續發展學程', '音樂劇學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA372&Crsname=進階電腦輔助繪圖,,,False,劇藝系,TA372,3,不分班,"進階電腦輔助繪圖
+ADVANCED COMPUTER-AIDED DRAFTING",2,期,False,50,1,5,45,鍾宜泰,文FA 3012,"['56', '', '', '', '', '', '']","《講授類》
+限修畢技術繪圖",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA375&Crsname=舞臺設計（四）,,,False,劇藝系,TA375,3,不分班,"舞臺設計（四）
+STAGE DESIGN (IV)",3,期,False,50,0,10,40,吳怡瑱,文FA 1014,"['', '234', '', '', '', '', '']","《展演》
+限修畢舞臺設計三",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA376&Crsname=服裝造型與構成（二）,,,False,劇藝系,TA376,2,不分班,"服裝造型與構成（二）
+CLOTHES PATTERN DESIGN AND PRACTICE(Ⅱ)",3,期,False,20,0,6,14,劉美蓮,文FA 2016,"['567', '', '', '', '', '', '']","《展演》
+限修畢服裝造型與構成一或劇場技術基礎",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA377&Crsname=燈光設計（二）,異動,更換時間1/10,False,劇藝系,TA377,3,不分班,"燈光設計（二）
+LIGHTING DESIGN (II)",2,期,False,50,1,13,37,鍾宜泰,"文FA 1014, 文FA 2019","['', '', '', '', '34', '', '']","《展演》
+限修畢燈光設計一或燈光設計及技術",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA404&Crsname=畢業製作（二）,,,False,劇藝系,TA404,4,不分班,"畢業製作（二）
+GRADUATION PRODUCTION (Ⅱ)",3,期,True,50,0,41,9,"吳怡瑱,林宜誠,王品惠","文FA 3009, 文FA 2019","['', '', '', '89C', '', '', '']","《展演》
+限修畢畢業製作一",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA433&Crsname=戲劇評論,,,False,劇藝系,TA433,3,不分班,"戲劇評論
+DRAMA REVIEW",3,期,False,50,1,12,38,許仁豪,文FA 3012,"['', '', '', '567', '', '', '']",《講授類》,['與社會交往的表演藝術微學程'],False

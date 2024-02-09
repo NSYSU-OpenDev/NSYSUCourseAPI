@@ -1,0 +1,29 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL457&Crsname=東亞漢文小說,,,False,中文系,CL457,4,不分班,"東亞漢文小說
+THE CHINESE LANGUAGE FICTION OF EAST ASIA",3,期,False,35,1,12,23,羅景文,文LA 4004,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL458&Crsname=現代文學與影像轉譯,,,False,中文系,CL458,4,不分班,"現代文學與影像轉譯
+MODERN LITERATURE AND CROSS MEDIA TRANSLATION",3,期,False,50,0,22,28,黃資婷,文LA 4004,"['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL102&Crsname=學術英文閱讀,,,True,外文系,DFLL102,1,不分班,"學術英文閱讀
+ACADEMIC ENGLISH READING",3,期,True,50,0,29,21,賴淑芳,文LA 3004,"['', '567', '', '', '', '', '']","《講授類》
+限本系修畢「英文閱讀」學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL104&Crsname=英語聽力一（二）,,,True,外文系,DFLL104,1,不分班,"英語聽力一（二）
+ENGLISH LISTENING PRACTICE I(II)",1,期,True,50,0,29,21,黃舒屏,文LA 2003,"['', '', '', '234', '', '', '']","《講授類》
+限本系修畢「英語聽力一(一)」學生修習。修課同學須繳「語言教學實習費」",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL106&Crsname=英語口語訓練一（二）,,,True,外文系,DFLL106,1,不分班,"英語口語訓練一（二）
+ENGLISH ORAL TRAINING I(II)",2,期,True,16,1,18,-2,楊郁芬,文LA 3002,"['567', '', '', '', '', '', '']","《講授類》
+限本系修畢「英語口語訓練一(一)」學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL106A&Crsname=英語口語訓練一（二）,,,True,外文系,DFLL106A,1,不分班,"英語口語訓練一（二）
+ENGLISH ORAL TRAINING I(II)",2,期,True,16,0,15,1,林毓凱,文LA 3003,"['567', '', '', '', '', '', '']","《講授類》
+限本系修畢「英語口語訓練一(一)」學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL106B&Crsname=英語口語訓練一（二）,,,True,外文系,DFLL106B,1,不分班,"英語口語訓練一（二）
+ENGLISH ORAL TRAINING I(II)",2,期,True,16,0,14,2,黃舒屏,文LA 3004,"['567', '', '', '', '', '', '']","《講授類》
+限本系修畢「英語口語訓練一(一)」學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL108&Crsname=英文寫作一（二）,,,True,外文系,DFLL108,1,不分班,"英文寫作一（二）
+ENGLISH WRITING I(II)",2,期,True,16,1,16,0,陳福仁,文LA 3002,"['', '', '234', '', '', '', '']","《講授類》
+限本系修畢「英文寫作一(一)」學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL108A&Crsname=英文寫作一（二）,,,True,外文系,DFLL108A,1,不分班,"英文寫作一（二）
+ENGLISH WRITING I(II)",2,期,True,16,0,15,1,黃舒屏,文LA 3003,"['', '', '234', '', '', '', '']","《講授類》
+限本系修畢英文寫作一(一)學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL108B&Crsname=英文寫作一（二）,,,True,外文系,DFLL108B,1,不分班,"英文寫作一（二）
+ENGLISH WRITING I(II)",2,期,True,16,0,14,2,黃心雅,文LA 3001,"['', '', '234', '', '', '', '']","《講授類》
+限本系修畢英文寫作一(一)學生修習",[],True

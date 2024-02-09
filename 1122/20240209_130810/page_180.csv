@@ -1,0 +1,27 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,不分班,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,15,123,77,"鄭安授,王致遠,謝慧賢,陳世哲",網路大學,"['A', '', '', '', '', '', '']","《講授類》
+限管院生修習/網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM509&Crsname=商管專業實習,異動,更換部份教室1/5,False,管理學院(碩),CM509,0,不分班,"商管專業實習
+INTERNSHIP IN BUSINESS MANAGEMENT",3,期,False,50,5,11,39,唐俊華,"管CM 1023,管CM 1037","['E', '', '', '', '', 'DE', 'DE']","《實習類》
+面試合格者，方能選修此門課程",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM510&Crsname=R：程式、機率與統計,異動,更換教室1/5,False,管理學院(碩),CM510,0,不分班,"R：程式、機率與統計
+R：STATISTICAL PROGRAMMING METHODS",3,期,False,70,3,30,40,吳藺芝,管CM 3015,"['', '', '567', '', '', '', '']","《講授類》
+商業/金融數據分析與創新微學程","['商業數據分析與創新微學程', '金融數據分析與創新微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,不分班,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,15,45,"鄭安授,王致遠,王豫萱",網路大學,"['', 'A', '', '', '', '', '']","《講授類》
+限管院生修習/網大進行之非同步線上課程(二年級優先選課)",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM512&Crsname=商業分析實務,,,False,管理學院(碩),CM512,0,不分班,"商業分析實務
+PRACTICAL BUSINESS ANALYSIS",3,期,False,70,2,24,46,卓雍然,管CM 3051,"['234', '', '', '', '', '', '']","《講授類》
+商業數據分析與創新微學程","['人工智能投資微學程', '商業數據分析與創新微學程', '科技創新與服務業管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM516&Crsname=綠色採購,,,False,管理學院(碩),CM516,0,不分班,"綠色採購
+GREEN PROCUREMENT",1,期,False,50,1,15,35,林新沛,,"['67', '', '', '', '', '', '']","《講授類》
+永續管理微學程/單數周上課，每次上課兩小時14-16點","['企業社會責任學程', '永續管理微學程', '地方創生與永續發展整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM502&Crsname=企業經營策略,,,False,企企管碩,BM502,0,不分班,"企業經營策略
+BUSINESS POLICY AND STRATEGY",3,期,False,50,6,26,24,蔡宗霖,管CM 3035,"['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM504&Crsname=行銷管理與研究,異動,更換時間及教室1/8,False,企企管碩,BM504,0,不分班,"行銷管理與研究
+MARKETING MANAGEMENT AND RESEARCH",3,期,False,50,4,35,15,張純端,管CM 2037,"['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM504A&Crsname=行銷管理與研究,,,False,企企管碩,BM504A,0,不分班,"行銷管理與研究
+MARKETING MANAGEMENT AND RESEARCH",3,期,False,50,15,50,0,黃明新,管CM 4112,"['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM505&Crsname=財務管理與研究,,,False,企企管碩,BM505,0,不分班,"財務管理與研究
+FINANCIAL MANAGEMENT & RESEARCH",3,期,False,50,5,29,21,彭聰敏,管CM 3015,"['', '', 'CDE', '', '', '', '']",《講授類》,[],False
