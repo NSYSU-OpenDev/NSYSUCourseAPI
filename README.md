@@ -31,6 +31,7 @@ python main.py test
 │ │ ├ all.json
 │ │ ├ page-{index}.json
 │ │ ├ info.json
+│ │ ├ diff.txt
 │ │ └ path.json
 │ ├ version.json
 │ └ path.json
