@@ -23,6 +23,59 @@ API_ROOT_PATH = Path("data")
 ROOT_VERSION_PATH = API_ROOT_PATH / "version.json"
 
 
+def trim_version(
+    academic_year_version_manager: AcademicYearPathVersionManager,
+    academic_year_dir: Path,
+    academic_year_version_file: Path,
+) -> None:
+    """
+    Trim the version history for a given academic year.
+
+    Args:
+        academic_year_version_manager (AcademicYearPathVersionManager):
+            The version manager for the academic year.
+        academic_year_dir (Path):
+            The directory containing academic year data.
+        academic_year_version_file (Path):
+            The file path to save the trimmed version history.
+
+    Returns:
+        None
+    """
+    # Get the list of versions for the academic year
+    academic_year_versions = list(academic_year_version_manager.versions.keys())
+
+    # for year in academic_year_versions:
+    #     # Construct the path to the directory of the current version
+    #     current_dir = academic_year_dir / year
+    #     if not current_dir.is_dir():
+    #         # Remove the version from the version manager if the directory does not exist
+    #         try:
+    #             del academic_year_version_manager.versions[year]
+    #         except KeyError:
+    #             pass
+
+    # Check if the number of versions exceeds the maximum allowed history count
+    if len(academic_year_versions) > MAX_HISTORY_COUNT:
+        # Iterate over the old versions to be removed
+        for old in academic_year_versions[:-MAX_HISTORY_COUNT]:
+            # Construct the path to the directory of the old version
+            old_dir = academic_year_dir / old
+
+            # Check if the directory exists and remove it if it does
+            if old_dir.is_dir():
+                shutil.rmtree(old_dir)
+
+            # Remove the old version from the version manager
+            try:
+                del academic_year_version_manager.versions[old]
+            except KeyError:
+                pass
+
+        # Save the trimmed version history to file
+        academic_year_version_manager.to_file(academic_year_version_file)
+
+
 async def main():
     # Retrieve academic year from environment variable
     academic_year = os.getenv("ACADEMIC_YEAR", "").strip()
@@ -70,20 +123,8 @@ async def main():
     if root_version_manager.add_version(academic_year):
         root_version_manager.to_file(ROOT_VERSION_PATH)
 
-    # Manage old versions, keep only a certain number of history
-    academic_year_versions = list(academic_year_version_manager.versions.keys())
-    if len(academic_year_versions) > MAX_HISTORY_COUNT:
-        for old in academic_year_versions[:-MAX_HISTORY_COUNT]:
-            old_dir = academic_year_dir / old
-            if old_dir.is_dir():
-                shutil.rmtree(old_dir)
-
-            try:
-                del academic_year_version_manager.versions[old]
-            except KeyError:
-                pass
-
-        academic_year_version_manager.to_file(academic_year_version_file)
+    # Trim the version history
+    trim_version(academic_year_version_manager, academic_year_dir, academic_year_version_file)
 
     # Find differences between new and old data
     diff = DeepDiff(old_data, data, ignore_order=True, report_repetition=True)
@@ -127,6 +168,9 @@ async def main():
 
     # Generate info file for the current academic year version
     (new_academic_year_dir / "diff.txt").write_text(diff.pretty(), encoding="utf-8")
+
+    # Trim the version history
+    trim_version(academic_year_version_manager, academic_year_dir, academic_year_version_file)
 
     # Update paths info file
     recursion_generate_paths_info_file(API_ROOT_PATH)
