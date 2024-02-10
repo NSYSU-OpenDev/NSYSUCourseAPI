@@ -116,5 +116,15 @@ def to_timestamp(time: datetime) -> str:
 
 
 def paginate(data: list[_T], page_size: int) -> Iterator[list[_T]]:
+    """
+    Paginate a list of data into chunks of a specified size.
+
+    Args:
+        data (List[_T]): The list of data to paginate.
+        page_size (int): The size of each page.
+
+    Yields:
+        Iterator[List[_T]]: An iterator over paginated chunks of data.
+    """
     for i in range(0, len(data), page_size):
         yield data[i : i + page_size]
