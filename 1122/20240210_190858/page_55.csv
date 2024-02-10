@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE102&Crsname=經濟學原理（二）,,,False,政經系,PE102,1,不分班,"經濟學原理（二）
+PRINCIPLES OF ECONOMICS(II)",3,期,True,60,0,59,1,張光亮,社SS 3001,"['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE125&Crsname=政府與企業,,,False,政經系,PE125,1,不分班,"政府與企業
+GOVERNMENT AND BUSINESS",3,期,False,50,13,50,0,張其祿,社SS 1006,"['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE126&Crsname=經濟數學（二）,,,False,政經系,PE126,1,不分班,"經濟數學（二）
+MATHEMATICS FOR ECONOMICS (II)",3,期,False,50,7,46,4,顏孟芬,社SS 3005,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE127&Crsname=會計學,,,False,政經系,PE127,2,不分班,"會計學
+ACCOUNTING",3,期,False,50,8,50,0,李秉正,社SS 1005,"['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE202&Crsname=個體經濟學（二）,,,False,政經系,PE202,2,不分班,"個體經濟學（二）
+MICROECONOMICS(II)",3,期,True,60,14,60,0,李明軒,社SS 3001,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE203&Crsname=總體經濟學（一）,,,False,政經系,PE203,2,不分班,"總體經濟學（一）
+MACROECONOMICS(I)",3,期,True,55,35,55,0,鄭宜玲,社SS 3001,"['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE205&Crsname=統計學（一）,,,False,政經系,PE205,1,不分班,"統計學（一）
+STATISTICS (I)",3,期,True,60,17,60,0,王俊傑,社SS 3001,"['', '', '', '234', '', '', '']",《講授類》,"['金融工程學程', '智慧城市與智慧運輸學程', '數據科學微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE234&Crsname=英文經濟書報導讀,,,False,政經系,PE234,2,不分班,"英文經濟書報導讀
+STUDY ON ECONOMICS NEWS AND REPORTS",3,期,False,50,5,49,1,顏孟芬,社SS 1005,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE235&Crsname=公共政策分析,,,False,政經系,PE235,3,不分班,"公共政策分析
+PUBLIC POLICY ANALYSIS",3,期,False,50,4,20,30,張其祿,社SS 1006,"['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306&Crsname=政經實作專題（一）,,,True,政經系,PE306,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,3,47,張光亮,社SS 1006,"['A1B', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306A&Crsname=政經實作專題（一）,,,True,政經系,PE306A,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,2,48,劉孟奇,社SS 3005,"['', '', '', '', 'A1B', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306B&Crsname=政經實作專題（一）,,,True,政經系,PE306B,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,1,0,50,辛翠玲,社SS 3005,"['', '', 'A1B', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306C&Crsname=政經實作專題（一）,,,True,政經系,PE306C,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,2,48,張其祿,社SS 1005,"['', '', '', 'A1B', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306D&Crsname=政經實作專題（一）,,,True,政經系,PE306D,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,1,0,50,吳世傑,社SS 1006,"['', '', '', '', 'A1B', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306E&Crsname=政經實作專題（一）,,,True,政經系,PE306E,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,1,5,45,李予綱,社SS 1006,"['', '', 'A1B', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306F&Crsname=政經實作專題（一）,異動,更換時間1/30,True,政經系,PE306F,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,6,44,王俊傑,社SS 3001,"['', '', '', '', 'A1B', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306G&Crsname=政經實作專題（一）,,,True,政經系,PE306G,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,5,45,李明軒,社SS 3001,"['', 'A1B', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306H&Crsname=政經實作專題（一）,,,True,政經系,PE306H,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,7,43,陳若蘭,社SS 1005,"['A1B', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306I&Crsname=政經實作專題（一）,,,True,政經系,PE306I,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,6,44,顏孟芬,社SS 3005,"['A1B', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE308&Crsname=政治經濟學（一）,,,False,政經系,PE308,1,不分班,"政治經濟學（一）
+THE POLITICAL ECONOMY(I)",3,期,True,60,20,60,0,李予綱,社SS 3001,"['', '', '567', '', '', '', '']",《講授類》,[],False
