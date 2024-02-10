@@ -325,8 +325,3 @@ class AcademicYearPathVersionManager(_BaseVersionManger):
         ):
             self._latest_version = update_date
             return update_date
-
-
-#################################
-#           path.json           #
-#################################

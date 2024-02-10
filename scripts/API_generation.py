@@ -21,25 +21,33 @@ MAX_HISTORY_COUNT = 5
 # Root path for API data
 API_ROOT_PATH = Path("data")
 ROOT_VERSION_PATH = API_ROOT_PATH / "version.json"
-API_ROOT_PATH.mkdir(parents=True, exist_ok=True)
 
 
 async def main():
     # Retrieve academic year from environment variable
     academic_year = os.getenv("ACADEMIC_YEAR", "").strip()
-
     if not academic_year:
         academic_year = None
 
+    # Retrieve max page from environment variable
+    max_page = os.getenv("MAX_PAGE", "").strip()
+    if not max_page:
+        max_page = None
+    else:
+        max_page = int(max_page)
+
     try:
         # Get academic year data
-        data, academic_year = await get_academic_year(academic_year)
+        data, academic_year = await get_academic_year(academic_year, max_page=max_page)
     except ValueError as e:
         print(e)
         return
 
     if not data:
         return
+
+    # Setup API root path if it doesn't exist
+    API_ROOT_PATH.mkdir(parents=True, exist_ok=True)
 
     # Create directory for academic year data if it doesn't exist
     academic_year_dir = API_ROOT_PATH / academic_year
@@ -50,9 +58,9 @@ async def main():
     academic_year_version_manager = AcademicYearPathVersionManager(academic_year_version_file)
     old_latest_version = academic_year_version_manager.latest_version
 
+    # Load old data if available
     old_data = {}
     if old_latest_version:
-        # Load old data if available
         old_academic_year_file = academic_year_dir / old_latest_version / "all.json"
         if old_academic_year_file.is_file():
             old_data = json.loads(old_academic_year_file.read_text(encoding="utf-8"))
@@ -78,7 +86,7 @@ async def main():
         academic_year_version_manager.to_file(academic_year_version_file)
 
     # Find differences between new and old data
-    diff = DeepDiff(data, old_data, ignore_order=True, report_repetition=True)
+    diff = DeepDiff(old_data, data, ignore_order=True, report_repetition=True)
     if academic_year_version_file.is_file() and not diff:
         return
 
