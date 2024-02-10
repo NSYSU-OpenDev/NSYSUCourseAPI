@@ -120,7 +120,8 @@ async def main():
 
     # Initialize root version manager
     root_version_manager = RootPathVersionManager(ROOT_VERSION_PATH)
-    if root_version_manager.add_version(academic_year):
+    if academic_year not in root_version_manager.versions:
+        root_version_manager.add_version(academic_year)
         root_version_manager.to_file(ROOT_VERSION_PATH)
 
     # Trim the version history
