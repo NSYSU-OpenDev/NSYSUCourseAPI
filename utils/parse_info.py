@@ -27,7 +27,7 @@ def parse_academic_year_code(academic_year: str) -> str:
     if len(academic_year) != 4 or academic_year[3] not in "012":
         raise ValueError(f"Invalid academic year code: {academic_year}")
 
-    return academic_year[:3] + ACADEMIC_YEAR_MAP[int(academic_year[3])]
+    return academic_year[:3] + ACADEMIC_YEAR_MAP[int(academic_year[3]) - 1]
 
 
 def parse_course_info(
