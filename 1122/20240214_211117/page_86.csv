@@ -1,53 +1,53 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS538&Crsname=網路安全,,,False,資管碩,MIS538,0,不分班,"網路安全
-NETWORK SECURITY",3,期,False,50,4,9,41,陳嘉玫,,"['', '', '', '', '', '', '']",《講授類》,"['永續能源學程', '資通安全學程', '金融科技學程']",False
+NETWORK SECURITY",3,期,False,50,4,9,41,陳嘉玫,管CM 4069,"['', '', '', 'CDE', '', '', '']",《講授類》,"['永續能源學程', '資通安全學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS545&Crsname=資料探勘與知識發現,異動,更換教室1/4,False,資管碩,MIS545,0,不分班,"資料探勘與知識發現
-DATA MINING AND KNOWLEDGE DISCOVERY",3,期,False,50,1,3,47,李偉柏,,"['', '', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
+DATA MINING AND KNOWLEDGE DISCOVERY",3,期,False,50,1,3,47,李偉柏,管CM 3038,"['', '', '567', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS550&Crsname=決策理論,,,False,資管碩,MIS550,0,不分班,"決策理論
-DECISION THEORY",3,期,False,50,0,4,46,張德民,,"['', '', '', '', '', '', '']",《講授類》,[],False
+DECISION THEORY",3,期,False,50,0,4,46,張德民,管CM 2016,"['', '', '', '', '567', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS567&Crsname=資訊科技策略,,,False,資管碩,MIS567,0,不分班,"資訊科技策略
-INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,8,42,吳仁和,,"['', '', '', '', '', '', '']",《講授類》,[],False
+INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,8,42,吳仁和,管CM 4069,"['', '', 'CDE', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS571&Crsname=商業智慧,,,False,資管碩,MIS571,0,不分班,"商業智慧
-BUSINESS INTELLIGENCE",3,期,False,50,3,50,0,林耕霈,,"['', '', '', '', '', '', '']",《講授類》,"['碳流資訊盤查與低碳設計微學程', '巨量資料分析學程', '金融科技學程']",False
+BUSINESS INTELLIGENCE",3,期,False,50,3,50,0,林耕霈,管CM 4069,"['', '', '234', '', '', '', '']",《講授類》,"['碳流資訊盤查與低碳設計微學程', '巨量資料分析學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS575&Crsname=教育機器人與物聯網,,,False,資管碩,MIS575,0,不分班,"教育機器人與物聯網
-EDUCATIONAL ROBOTICS AND IOTS",3,期,False,50,0,18,32,魏春旺,,"['', '', '', '', '', '', '']","《講授類》
+EDUCATIONAL ROBOTICS AND IOTS",3,期,False,50,0,18,32,魏春旺,管CM 2016,"['', '', '', '234', '', '', '']","《講授類》
 需自備筆電",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS581&Crsname=社群媒體分析,,,False,資管碩,MIS581,0,不分班,"社群媒體分析
-SOCIAL MEDIA ANALYSIS",3,期,False,50,21,50,0,黃三益,,"['', '', '', '', '', '', '']",《講授類》,['政經大數據分析微學程'],False
+SOCIAL MEDIA ANALYSIS",3,期,False,50,21,50,0,黃三益,管CM 4069,"['', 'CDE', '', '', '', '', '']",《講授類》,['政經大數據分析微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS586&Crsname=數位科技趨勢與應用,,,False,資管碩,MIS586,0,不分班,"數位科技趨勢與應用
-DIGITAL TECHNOLOGY TRENDS AND APPLICATIONS",3,期,False,50,2,24,26,楊淯程,,"['', '', '', '', '', '', '']",《講授類》,[],False
+DIGITAL TECHNOLOGY TRENDS AND APPLICATIONS",3,期,False,50,2,24,26,楊淯程,管CM 4069,"['', '', '567', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS588&Crsname=資料視覺化,,,False,資管碩,MIS588,0,不分班,"資料視覺化
-DATA VISUALIZATION",3,期,False,50,18,50,0,韓毅,,"['', '', '', '', '', '', '']","《講授類》
+DATA VISUALIZATION",3,期,False,50,18,50,0,韓毅,管CM 3051,"['', '678', '', '', '', '', '']","《講授類》
 需自備筆電",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS602&Crsname=電腦網路專題,,,False,資管碩,MIS602,0,不分班,"電腦網路專題
-SPECIAL TOPICS IN COMPUTER NETWORKS",3,期,False,50,0,2,48,陳嘉玫,,"['', '', '', '', '', '', '']","《獨立研究》
+SPECIAL TOPICS IN COMPUTER NETWORKS",3,期,False,50,0,2,48,陳嘉玫,,"['', '', '', '', '', '', 'CDE']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604&Crsname=專題討論,,,False,資管碩,MIS604,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,徐士傑,,"['', '', '', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,"徐士傑,施志遠",,"['', '', '', '', '', '', 'CDE']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604A&Crsname=專題討論,,,False,資管碩,MIS604A,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,1,49,楊惠芳,,"['', '', '', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,1,49,楊惠芳,,"['', '', '', '', '', '', 'CDE']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604B&Crsname=專題討論,,,False,資管碩,MIS604B,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,劉賓陽,,"['', '', '', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,劉賓陽,,"['', '', '', '', '', '', 'CDE']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604C&Crsname=專題討論,,,False,資管碩,MIS604C,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,李捷,,"['', '', '', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,李捷,,"['', 'A1', 'A', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS607&Crsname=智慧型計算,,,False,資管碩,MIS607,0,不分班,"智慧型計算
-INTELLIGENT COMPUTATION",3,期,False,50,0,0,50,李偉柏,,"['', '', '', '', '', '', '']","《講授類》
+INTELLIGENT COMPUTATION",3,期,False,50,0,0,50,"李偉柏,李威杰",,"['', '', '', '', '', '', 'CDE']","《講授類》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS613&Crsname=工作流程管理,,,False,資管碩,MIS613,0,不分班,"工作流程管理
-WORKFLOW MANAGEMENT",3,期,False,50,0,0,50,黃三益,,"['', '', '', '', '', '', '']","《講授類》
+WORKFLOW MANAGEMENT",3,期,False,50,0,0,50,"黃三益,待聘",,"['', '', '', '', '', '', 'CDE']","《講授類》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS615&Crsname=資訊系統開發理論,,,False,資管碩,MIS615,0,不分班,"資訊系統開發理論
-THEORY OF INFORMATION SYSTEM DEVELOPMENT",3,期,False,50,0,0,50,吳仁和,,"['', '', '', '', '', '', '']","《講授類》
+THEORY OF INFORMATION SYSTEM DEVELOPMENT",3,期,False,50,0,0,50,吳仁和,,"['', '', '', '', '', '', 'CDE']","《講授類》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM501&Crsname=財務管理理論與策略,,,False,財管碩,FM501,1,不分班,"財務管理理論與策略
-FINANCIAL MANAGEMENT THEORIES AND STRATEGIES",3,期,False,50,1,37,13,馬黛,,"['', '', '', '', '', '', '']",《講授類》,[],False
+FINANCIAL MANAGEMENT THEORIES AND STRATEGIES",3,期,False,50,1,37,13,馬黛,管CM 1023,"['', '', '567', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM505&Crsname=投資理論與策略,,,False,財管碩,FM505,1,不分班,"投資理論與策略
-INVESTMENT THEORIES AND STRATEGIES",3,期,False,50,3,37,13,王昭文,,"['', '', '', '', '', '', '']",《講授類》,"['金融工程學程', '金融科技學程']",False
+INVESTMENT THEORIES AND STRATEGIES",3,期,False,50,3,37,13,王昭文,管CM 4112,"['', '678', '', '', '', '', '']",《講授類》,"['金融工程學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM509&Crsname=國際投資組合管理,,,False,財管碩,FM509,1,不分班,"國際投資組合管理
-INTERNATIONAL PROTFOLIO MANAGEMENT",3,期,False,50,2,8,42,鄭義,,"['', '', '', '', '', '', '']","《講授類》
+INTERNATIONAL PROTFOLIO MANAGEMENT",3,期,False,50,2,8,42,鄭義,管CM 3022,"['', '234', '', '', '', '', '']","《講授類》
  
 ※英語授課",['金融科技學程'],False
