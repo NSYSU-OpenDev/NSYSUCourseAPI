@@ -1,0 +1,129 @@
+Item root[160]['classTime'][0] removed from iterable.
+Item root[161]['classTime'][3] removed from iterable.
+Item root[162]['classTime'][3] removed from iterable.
+Item root[163]['classTime'][4] removed from iterable.
+Item root[164]['classTime'][3] removed from iterable.
+Item root[165]['classTime'][3] removed from iterable.
+Item root[166]['classTime'][3] removed from iterable.
+Item root[167]['classTime'][1] removed from iterable.
+Item root[168]['classTime'][3] removed from iterable.
+Item root[169]['classTime'][0] removed from iterable.
+Item root[170]['classTime'][0] removed from iterable.
+Item root[171]['classTime'][2] removed from iterable.
+Item root[172]['classTime'][1] removed from iterable.
+Item root[173]['classTime'][0] removed from iterable.
+Item root[174]['classTime'][0] removed from iterable.
+Item root[175]['classTime'][0] removed from iterable.
+Item root[176]['classTime'][2] removed from iterable.
+Item root[177]['classTime'][2] removed from iterable.
+Item root[178]['classTime'][4] removed from iterable.
+Item root[179]['classTime'][0] removed from iterable.
+Item root[1740]['classTime'][3] removed from iterable.
+Item root[1741]['classTime'][4] removed from iterable.
+Item root[1742]['classTime'][3] removed from iterable.
+Item root[1743]['classTime'][2] removed from iterable.
+Item root[1744]['classTime'][1] removed from iterable.
+Item root[1745]['classTime'][3] removed from iterable.
+Item root[1746]['classTime'][1] removed from iterable.
+Item root[1747]['classTime'][0] removed from iterable.
+Item root[1748]['classTime'][1] removed from iterable.
+Item root[1749]['classTime'][3] removed from iterable.
+Item root[1750]['classTime'][4] removed from iterable.
+Item root[1751]['classTime'][0] removed from iterable.
+Item root[1752]['classTime'][5] removed from iterable.
+Item root[1753]['classTime'][4] removed from iterable.
+Item root[1754]['classTime'][5] removed from iterable.
+Item root[1755]['classTime'][2] removed from iterable.
+Item root[1756]['classTime'][3] removed from iterable.
+Item root[1757]['classTime'][6] removed from iterable.
+Item root[1758]['classTime'][1] removed from iterable.
+Item root[1759]['classTime'][5] removed from iterable.
+Repetition change for item root[160]['classTime'][1].
+Repetition change for item root[161]['classTime'][0].
+Repetition change for item root[162]['classTime'][0].
+Repetition change for item root[163]['classTime'][0].
+Repetition change for item root[164]['classTime'][0].
+Repetition change for item root[165]['classTime'][0].
+Repetition change for item root[166]['classTime'][0].
+Repetition change for item root[167]['classTime'][0].
+Repetition change for item root[168]['classTime'][0].
+Repetition change for item root[169]['classTime'][1].
+Repetition change for item root[170]['classTime'][1].
+Repetition change for item root[171]['classTime'][0].
+Repetition change for item root[172]['classTime'][0].
+Repetition change for item root[173]['classTime'][1].
+Repetition change for item root[174]['classTime'][1].
+Repetition change for item root[175]['classTime'][1].
+Repetition change for item root[176]['classTime'][0].
+Repetition change for item root[177]['classTime'][0].
+Repetition change for item root[178]['classTime'][0].
+Repetition change for item root[179]['classTime'][1].
+Repetition change for item root[1740]['classTime'][0].
+Repetition change for item root[1741]['classTime'][0].
+Repetition change for item root[1742]['classTime'][0].
+Repetition change for item root[1743]['classTime'][0].
+Repetition change for item root[1744]['classTime'][0].
+Repetition change for item root[1745]['classTime'][0].
+Repetition change for item root[1746]['classTime'][0].
+Repetition change for item root[1747]['classTime'][1].
+Repetition change for item root[1748]['classTime'][0].
+Repetition change for item root[1749]['classTime'][0].
+Repetition change for item root[1750]['classTime'][0].
+Repetition change for item root[1751]['classTime'][1].
+Repetition change for item root[1752]['classTime'][0].
+Repetition change for item root[1753]['classTime'][0].
+Repetition change for item root[1754]['classTime'][0].
+Repetition change for item root[1755]['classTime'][0].
+Repetition change for item root[1756]['classTime'][0].
+Repetition change for item root[1757]['classTime'][0].
+Repetition change for item root[1758]['classTime'][0].
+Repetition change for item root[1759]['classTime'][0].
+Value of root[160]['teacher'] changed from "劉昭成,李昆澤,陳孟仙" to "劉昭成".
+Value of root[160]['room'] changed from "通GE 1008" to "".
+Value of root[161]['room'] changed from "西SW 1005" to "".
+Value of root[162]['room'] changed from "通GE 4016" to "".
+Value of root[163]['teacher'] changed from "劉叔秋,夏沛亞" to "劉叔秋".
+Value of root[163]['room'] changed from "通GE 1008" to "".
+Value of root[164]['room'] changed from "通GE 2006" to "".
+Value of root[165]['teacher'] changed from "方盈智,張詠斌,托星豪,楊仁凱" to "方盈智".
+Value of root[165]['room'] changed from "海MA 3021" to "".
+Value of root[166]['teacher'] changed from "陳孟仙,劉莉蓮,林梅芳,林裕䕒" to "陳孟仙".
+Value of root[166]['room'] changed from "海MA 3021" to "".
+Value of root[167]['room'] changed from "通GE 1008" to "".
+Value of root[168]['room'] changed from "工EC 1001" to "".
+Value of root[169]['teacher'] changed from "李育諭,劉叔秋,張詠斌" to "李育諭".
+Value of root[169]['room'] changed from "通GE 4016" to "".
+Value of root[170]['room'] changed from "西SW 1007" to "".
+Value of root[171]['room'] changed from "通GE 1010" to "".
+Value of root[172]['room'] changed from "通GE 1008" to "".
+Value of root[173]['teacher'] changed from "李育諭,李容婷,林季怡" to "李育諭".
+Value of root[173]['room'] changed from "通GE 2006" to "".
+Value of root[174]['room'] changed from "圖IL PC02" to "".
+Value of root[175]['room'] changed from "理PH 2006" to "".
+Value of root[176]['room'] changed from "工EN 4055-1" to "".
+Value of root[177]['room'] changed from "國IR 3003" to "".
+Value of root[178]['room'] changed from "工EC 3013" to "".
+Value of root[179]['room'] changed from "海MA 1005" to "".
+Value of root[1740]['teacher'] changed from "吳藺芝,蔡維哲,邱敬貿" to "吳藺芝".
+Value of root[1740]['room'] changed from "管CM 2015" to "".
+Value of root[1741]['room'] changed from "管CM 1020" to "".
+Value of root[1742]['room'] changed from "管CM 1020" to "".
+Value of root[1743]['room'] changed from "管CM 1035" to "".
+Value of root[1744]['room'] changed from "管CM 1020" to "".
+Value of root[1745]['room'] changed from "管CM 1020" to "".
+Value of root[1746]['room'] changed from "管CM 1035" to "".
+Value of root[1747]['room'] changed from "管CM 1035" to "".
+Value of root[1748]['room'] changed from "管CM 1019" to "".
+Value of root[1749]['teacher'] changed from "游尚儒,吳義隆" to "游尚儒".
+Value of root[1749]['room'] changed from "管CM 1020" to "".
+Value of root[1750]['room'] changed from "管CM 1020" to "".
+Value of root[1752]['room'] changed from "管CM 1023" to "".
+Value of root[1753]['room'] changed from "管CM 1020" to "".
+Value of root[1755]['room'] changed from "管CM 1023" to "".
+Value of root[1756]['teacher'] changed from "李澄賢,王豫萱,陳旻男" to "李澄賢".
+Value of root[1756]['room'] changed from "管CM 2023" to "".
+Value of root[1757]['teacher'] changed from "陳寶蓮,王豫萱,謝慧賢" to "陳寶蓮".
+Value of root[1757]['room'] changed from "管CM 3046" to "".
+Value of root[1758]['room'] changed from "管CM 1036" to "".
+Value of root[1759]['teacher'] changed from "王豫萱,陳以亨" to "王豫萱".
+Value of root[1759]['room'] changed from "管CM 1036" to "".
