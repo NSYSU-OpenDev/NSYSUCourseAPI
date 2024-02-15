@@ -1,5 +1,5 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM706&Crsname=產業專案研究,,,False,人管博,HRM706,2,不分班,"產業專案研究
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM706&Crsname=產業專案研究,異動,增加合授教師2/15,False,人管博,HRM706,2,不分班,"產業專案研究
 INDEPENDENT STUDIES IN INDUSTRY",3,期,False,50,0,1,49,陳世哲,管CM 1036,"['', '', '', 'AB5', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM713&Crsname=英文論文寫作（二）,異動,更換時間及教室1/23,False,人管博,HRM713,2,不分班,"英文論文寫作（二）
 PAPER WRITING IN ENGLISH (II)",3,期,False,50,0,4,46,紀乃文,管CM 2038,"['', '', '567', '', '', '', '']","《講授類》
