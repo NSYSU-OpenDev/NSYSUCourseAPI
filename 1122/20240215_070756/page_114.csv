@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS987&Crsname=碩士論文（二）,,,False,資電碩專,MIS987,2,不分班,"碩士論文（二）
+MASTER THESIS（II）",3,期,True,50,0,29,21,指導教授,,"['', '', '', '', '', '', '123']","《講授類》
+限資電碩專班修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS988&Crsname=數位行銷分析,,,False,資電碩專,MIS988,1,不分班,"數位行銷分析
+DIGITAL MARKETING & ANALYTICS",3,期,True,50,0,31,19,待聘,管CM 3051,"['CDE', '', '', '', '', '', '']","《講授類》
+限資電碩專班修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS990&Crsname=社群媒體分析,,,False,資電碩專,MIS990,2,不分班,"社群媒體分析
+SOCIAL MEDIA ANALYSIS",3,期,True,50,0,28,22,黃三益,管CM 4069,"['', 'CDE', '', '', '', '', '']","《講授類》
+限資電碩專班及資管碩專班修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS995&Crsname=研究方法論,,,False,資電碩專,MIS995,1,不分班,"研究方法論
+RESEARCH METHODOLOGY",3,期,True,50,0,31,19,陳燈能,管CM 2016,"['', 'CDE', '', '', '', '', '']","《講授類》
+限資電碩專班及資管碩專班修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRMA916&Crsname=人力資源研究方法（二）,,,False,人亞碩專,HRMA916,0,不分班,"人力資源研究方法（二）
+RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT (II)",3,期,False,50,1,36,14,"李澄賢,王豫萱,陳旻男",管CM 3051,"['', '', '', '', '', '', '234']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA888&Crsname=市場投資與經營,,,True,EMBA碩專,EMBA888,1,不分班,"市場投資與經營
+INVESTMENT AND BUSINESS OPERATIONS",1.5,期,True,80,0,0,80,林豪傑,圖資中信廳,"['', '', '', 'A1', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA9005&Crsname=亞太經貿環境分析（一）,,,True,EMBA碩專,EMBA9005,1,不分班,"亞太經貿環境分析（一）
+ANALYSIS IN ASIA-PACIFIC ECNOMIC AND TRADE ENVIRONMENT （一）",2,期,True,50,0,0,50,王昭文,台北,"['', '', '', '', 'EF', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA9006&Crsname=亞太經貿環境分析（二）,,,True,EMBA碩專,EMBA9006,2,不分班,"亞太經貿環境分析（二）
+ANALYSIS IN ASIA-PACIFIC ECNOMIC AND TRADE ENVIRONMENT （二）",2,期,True,50,0,0,50,王昭文,台北,"['', '', '', '', 'A1', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA901A&Crsname=公司理財分析,,,True,EMBA碩專,EMBA901A,2,不分班,"公司理財分析
+ANALYSIS IN CORPORATE FINANCE",1.5,期,True,80,0,0,80,"蔡佳芬,邱敬貿",圖資博士廳,"['', '', '', '', '', '89', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA901B&Crsname=公司理財分析,,,True,EMBA碩專,EMBA901B,1,不分班,"公司理財分析
+ANALYSIS IN CORPORATE FINANCE",1.5,期,True,50,0,0,50,王昭文,台北,"['', '', 'A1', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA904A&Crsname=碩士論文,,,True,EMBA碩專,EMBA904A,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,80,0,0,80,指導教授,圖資博士廳,"['', '', '', '', '', '', 'DEF']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA904B&Crsname=碩士論文,,,True,EMBA碩專,EMBA904B,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,0,0,50,指導教授,台北,"['', '', '', '', '', '', 'DEF']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA905A&Crsname=高階經營專題（一）,,,True,EMBA碩專,EMBA905A,1,不分班,"高階經營專題（一）
+SPECIAL TOPICS IN EXECUTIVE MANAGEMENT (I)",3,期,True,80,0,0,80,林豪傑,圖資中信廳,"['', '', '', '', 'DEF', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA905B&Crsname=高階經營專題（一）,,,True,EMBA碩專,EMBA905B,1,不分班,"高階經營專題（一）
+SPECIAL TOPICS IN EXECUTIVE MANAGEMENT（I）",3,期,True,50,0,0,50,林豪傑,台北,"['', '', '', 'DEF', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA907A&Crsname=資訊科技與競爭優勢,,,True,EMBA碩專,EMBA907A,1,不分班,"資訊科技與競爭優勢
+INFORMATION TECHNOLOGY AND COMPETITIVE ADVANTAGE",1.5,期,True,80,0,0,80,"黃三益,徐士傑,邱兆民",圖資中信廳,"['', '', '', '', '', '89', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA935A&Crsname=組織與人力資源管理,,,True,EMBA碩專,EMBA935A,1,不分班,"組織與人力資源管理
+ORGANIZATION AND HUMAN RESOURCE MANAGEMENT",2,期,True,80,0,0,80,"王豫萱,陳世哲",圖資中信廳,"['', '', '', 'EF', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA935B&Crsname=組織與人力資源管理,,,True,EMBA碩專,EMBA935B,1,不分班,"組織與人力資源管理
+ORGANIZATION AND HUMAN RESOURCE MANAGEMENT",2,期,True,50,0,0,50,"王豫萱,陳世哲",台北,"['', '', '', '', 'A1', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA975B&Crsname=金融機構與資本市場,,,True,EMBA碩專,EMBA975B,2,不分班,"金融機構與資本市場
+FINANCIAL INSTITUTIONS AND CAPITAL MARKETS",1.5,期,True,50,0,0,50,陳安琳,台北,"['', '', 'A1', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA976&Crsname=當代企業管理課題,,,True,EMBA碩專,EMBA976,2,不分班,"當代企業管理課題
+CONTEMPORARY ISSUES IN BUSINESS AND MANAGEMENT",2,期,True,80,0,0,80,林豪傑,圖資博士廳,"['', '', 'EF', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA998A&Crsname=高階經營專題（二）,,,True,EMBA碩專,EMBA998A,2,不分班,"高階經營專題（二）
+SPECIAL TOPICS IN EXECUTIVE MANAGEMENT (II)",3,期,True,80,0,0,80,林豪傑,圖資博士廳,"['', '', 'A12', '', '', '', '']",《講授類》,[],False
