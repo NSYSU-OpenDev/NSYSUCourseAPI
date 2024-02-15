@@ -1,14 +1,14 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR556&Crsname=海洋總體基因體學,,,False,海資碩,MBR556,1,,"海洋總體基因體學
-MARINE METAGENOMICS",2,期,False,50,0,5,45,"林梅芳,劉勃佑",海MB 1005,"['', '', '34', '', '', '', '']",《講授類》,[],True
+MARINE METAGENOMICS",2,期,False,50,0,5,45,"林梅芳,劉勃佑",,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR574&Crsname=海洋分子生態學,,,False,海資碩,MBR574,1,,"海洋分子生態學
-MARINE MOLECULAR ECOLOGY",3,期,False,50,0,11,39,"林秀瑾,塗子萱,林梅芳",海MB 3013,"['', '', '', '', '234', '', '']","《講授類》
+MARINE MOLECULAR ECOLOGY",3,期,False,50,0,11,39,"林秀瑾,塗子萱,林梅芳",,"['', '', '', '', '', '', '']","《講授類》
  
 ※英語授課",['海洋生物資源開發學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR593&Crsname=海洋生物多樣性與保育（二）,,,True,海資碩,MBR593,1,,"海洋生物多樣性與保育（二）
-MARINE BIODIVERSITY AND CONSERVATION （2）",2,期,True,50,0,6,44,"劉商隱,林秀瑾",海MB 2009,"['', '34', '', '', '', '', '']",《講授類》,[],True
+MARINE BIODIVERSITY AND CONSERVATION （2）",2,期,True,50,0,6,44,"劉商隱,林秀瑾",,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR594&Crsname=分子標靶與天然物開發,,,False,海資碩,MBR594,1,,"分子標靶與天然物開發
-MOLECULAR TARGETS AND NATURAL PRODUCTS DEVELOPMENT",2,期,False,50,0,7,43,翁靖如,海MB 1009,"['', '', '', '', '56', '', '']",《講授類》,['天然藥物合成學程'],False
+MOLECULAR TARGETS AND NATURAL PRODUCTS DEVELOPMENT",2,期,False,50,0,7,43,翁靖如,,"['', '', '', '', '', '', '']",《講授類》,['天然藥物合成學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV502&Crsname=海洋環境書報討論（二）,異動,確認教師2/5,False,海工碩,MAEV502,1,,"海洋環境書報討論（二）
 SEMINAR IN MARINE ENVIRONMENT (II)",2,期,False,50,2,17,33,詹鵬台,海ME 3002,"['', '', '', '67', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV602&Crsname=海洋環境書報討論（四）,異動,確認教師2/5,False,海工碩,MAEV602,2,,"海洋環境書報討論（四）
@@ -26,19 +26,19 @@ TECHNICAL WRITING IN ENGLISH",3,期,False,50,0,7,43,慕樂凡,海MB 1005,"['', '
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO704&Crsname=英文論文寫作,,,False,海科碩,DO704,0,,"英文論文寫作
 TECHNICAL WRITING IN ENGLISH",3,期,False,50,0,7,43,慕樂凡,海MB 1005,"['', '234', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT512&Crsname=應用水中聲學,,,False,海下科技碩,UT512,0,,"應用水中聲學
-APPLIED UNDERWATER SOUND",3,期,False,50,0,1,49,邱永盛,海MA 2052,"['', '', '', '678', '', '', '']","《講授類》
+APPLIED UNDERWATER SOUND",3,期,False,50,0,1,49,邱永盛,,"['', '', '', '', '', '', '']","《講授類》
  
 ※英語授課",['環境教育學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT532&Crsname=工程機率與統計,,,False,海下科技碩,UT532,0,,"工程機率與統計
-PROBABILITY AND STATISTICS IN ENGINEERING",3,期,False,50,0,2,48,周佑誠,海MA 2052,"['', '', '', '234', '', '', '']","《講授類》
+PROBABILITY AND STATISTICS IN ENGINEERING",3,期,False,50,0,2,48,周佑誠,,"['', '', '', '', '', '', '']","《講授類》
  
 ※英語授課",['南星產業樞紐學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT541&Crsname=電子電路與控制,,,False,海下科技碩,UT541,0,,"電子電路與控制
-ELECTRONICS AND CONTROLS",3,期,False,50,0,3,47,謝孟璋,海MA 2052,"['', '', '', '', '234', '', '']","《講授類》
+ELECTRONICS AND CONTROLS",3,期,False,50,0,3,47,謝孟璋,,"['', '', '', '', '', '', '']","《講授類》
  
 ※英語授課",['海事工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT635&Crsname=水下機電專題研究（二）,,,False,海下科技碩,UT635,0,,"水下機電專題研究（二）
-INDEPENDENT STUDIES IN UNDERWATER MECHATRONICS (II)",2,期,False,50,0,2,48,"謝孟璋,周佑誠,邱永盛,陳信宏,魏瑞昌",海MA 2052,"['12', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN UNDERWATER MECHATRONICS (II)",2,期,False,50,0,2,48,謝孟璋,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS503&Crsname=社會科學的哲學,,,False,政治碩,IPS503,1,,"社會科學的哲學
 PHILOSOPHY OF SOCIAL SCIENCE",3,期,True,50,1,11,39,杜坤峰,社SS 3007,"['', '', '567', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS509&Crsname=經世致用的途徑與實踐,異動,更換時間1/9,False,政治碩,IPS509,0,,"經世致用的途徑與實踐
