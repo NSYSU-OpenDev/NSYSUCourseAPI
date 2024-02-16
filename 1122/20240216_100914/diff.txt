@@ -1,0 +1,9 @@
+Item root[1745] added to iterable.
+Type of root[673]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[673]['changeDescription'] changed from NoneType to str and value changed from None to "調升名額2/16".
+Type of root[2500]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2500]['changeDescription'] changed from NoneType to str and value changed from None to "調升名額2/16".
+Value of root[673]['restrict'] changed from 50 to 65.
+Value of root[673]['remaining'] changed from 0 to 15.
+Value of root[2500]['restrict'] changed from 10 to 20.
+Value of root[2500]['remaining'] changed from 0 to 10.
