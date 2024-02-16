@@ -1,0 +1,50 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMPP935&Crsname=兩岸政經情勢,異動,更換部份時間1/8,False,EMPP碩專,EMPP935,1,不分班,"兩岸政經情勢
+CROSS-STRAIT POLITICAL AND ECONOMIC SITUATION",3,期,True,40,0,13,27,"林文程,蔡書瑋,黎寶文",,"['', '', '', '', '', '', '234567']","《講授類》
+併班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMPP935A&Crsname=兩岸政經情勢,異動,更換部份時間1/8,False,EMPP碩專,EMPP935A,2,不分班,"兩岸政經情勢
+CROSS-STRAIT POLITICAL AND ECONOMIC SITUATION",3,期,True,40,0,5,35,"林文程,蔡書瑋,黎寶文",,"['', '', '', '', '', '', '234567']","《講授類》
+併班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMPP937&Crsname=全球局勢與策略管理,異動,更換部份時間1/8,False,EMPP碩專,EMPP937,1,不分班,"全球局勢與策略管理
+GLOBALIZATION AND STRATEGIC MANAGEMENT",3,期,True,40,0,13,27,"李予綱,李明軒,王俊傑,蔡書瑋,辛翠玲,陳若蘭",,"['', '', '', '', '', '234567', '']","《講授類》
+併班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMPP937A&Crsname=全球局勢與策略管理,異動,更換部份時間1/8,False,EMPP碩專,EMPP937A,2,不分班,"全球局勢與策略管理
+GLOBALIZATION AND STRATEGIC MANAGEMENT",3,期,True,40,0,5,35,"李予綱,李明軒,王俊傑,蔡書瑋,辛翠玲,陳若蘭",,"['', '', '', '', '', '234567', '']","《講授類》
+併班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMPP999&Crsname=碩士論文,,,False,EMPP碩專,EMPP999,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,40,0,5,35,指導教授,,"['', '', '', '', '', '89C', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL781&Crsname=漢學英文（二）,,,False,中文博,CL781,0,不分班,"漢學英文（二）
+ENGLISH FOR SINOLOGICAL READING(II)",3,期,False,50,0,2,48,謝薇娜,文LA 4013,"['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL705&Crsname=國族主義與現代愛爾蘭文學,,,False,外文博,DFLL705,0,不分班,"國族主義與現代愛爾蘭文學
+NATIONALISM AND MODERN IRISH LITERATURE",3,期,False,50,0,3,47,賴怡芃,文LA 3018,"['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL712&Crsname=抒情詩歌與理論,,,False,外文博,DFLL712,0,不分班,"抒情詩歌與理論
+LYRIC POETRY AND THEORIES",3,期,False,50,0,4,46,盧家達,文LA 3018,"['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL810&Crsname=專題研究,,,True,外文博,DFLL810,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,1,49,盧莉茹,,"['234', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL812&Crsname=北美原住民生命書寫,,,False,外文博,DFLL812,0,不分班,"北美原住民生命書寫
+NATIVE AMERICAN LIFE WRITING",3,期,False,50,0,2,48,黃心雅,文LA 3018,"['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS702&Crsname=生態研究方法,,,True,生科博,BIOS702,1,不分班,"生態研究方法
+STUDIES IN ECOLOGICAL METHODOLOGY",3,期,True,50,0,0,50,"劉世慧,張楊家豪,黃淑萍",理BI 3001,"['', '', '', '234', '', '', '']","《講授類》
+甲組必修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS711&Crsname=分子與細胞生物學書報討論（二）,,,True,生科博,BIOS711,1,不分班,"分子與細胞生物學書報討論（二）
+MOLECULAR AND CELL BIOLOGY SEMINAR (II)",1,期,True,50,0,3,47,李哲欣,理BI 2002,"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS715&Crsname=生物多樣性書報討論（二）,,,True,生科博,BIOS715,1,不分班,"生物多樣性書報討論（二）
+BIODIVERSITY SEMINAR(II)",1,期,True,50,0,0,50,"夏燦風,劉世慧",理BI 3001,"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS811&Crsname=分子與細胞生物學書報討論（四）,,,True,生科博,BIOS811,2,不分班,"分子與細胞生物學書報討論（四）
+MOLECULAR AND CELL BIOLOGY SEMINAR (IV)",1,期,True,50,0,5,45,李哲欣,理BI 2002,"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS815&Crsname=生物多樣性書報討論（四）,,,True,生科博,BIOS815,2,不分班,"生物多樣性書報討論（四）
+BIODIVERSITY SEMINAR(IV)",1,期,True,50,0,2,48,"夏燦風,劉世慧",理BI 3001,"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM705&Crsname=書報討論（六）,,,True,化學博,CHEM705,1,不分班,"書報討論（六）
+SEMINAR (VI)",1,期,True,50,0,3,47,陳軍互,理SC 0009,"['', '5', '', '', '', '', '']",《演講/參訪》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM725&Crsname=合成方法專題研究（二）,,,True,化學博,CHEM725,1,不分班,"合成方法專題研究（二）
+INDEPENDENT STUDIES IN SYNTHETIC METHODS(II)",3,期,True,50,0,0,50,張均然,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM729&Crsname=材料化學專題研究（二）,,,True,化學博,CHEM729,1,不分班,"材料化學專題研究（二）
+INDEPENDENT STUDIES IN MATERIALS CHEMISTRY (II)",3,期,True,50,0,1,49,李志聰,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM731&Crsname=金屬簇化學專題研究（二）,,,True,化學博,CHEM731,1,不分班,"金屬簇化學專題研究（二）
+INDEPENDENT STUDIES IN METAL CLUSTERS (II)",3,期,True,50,0,0,50,梁子輝,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM735&Crsname=勻相催化專題研究（二）,,,True,化學博,CHEM735,1,不分班,"勻相催化專題研究（二）
+INDEPENDENT STUDIES IN HOMOGENOUS CATALYSIS（II）",3,期,True,50,0,1,49,梁蘭昌,,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
