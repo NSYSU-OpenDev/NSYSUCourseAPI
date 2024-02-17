@@ -1,0 +1,107 @@
+Item root[1780]['classTime'][5] removed from iterable.
+Item root[1781]['classTime'][0] removed from iterable.
+Item root[1782]['classTime'][2] removed from iterable.
+Item root[1783]['classTime'][4] removed from iterable.
+Item root[1784]['classTime'][5] removed from iterable.
+Item root[1785]['classTime'][2] removed from iterable.
+Item root[1786]['classTime'][2] removed from iterable.
+Item root[1787]['classTime'][2] removed from iterable.
+Item root[1788]['classTime'][4] removed from iterable.
+Item root[1789]['classTime'][4] removed from iterable.
+Item root[1790]['classTime'][0] removed from iterable.
+Item root[1791]['classTime'][0] removed from iterable.
+Item root[1791]['classTime'][5] removed from iterable.
+Item root[1791]['classTime'][6] removed from iterable.
+Item root[1792]['classTime'][2] removed from iterable.
+Item root[1793]['classTime'][1] removed from iterable.
+Item root[1794]['classTime'][0] removed from iterable.
+Item root[1795]['classTime'][0] removed from iterable.
+Item root[1860]['classTime'][1] removed from iterable.
+Item root[1861]['classTime'][2] removed from iterable.
+Item root[1861]['classTime'][3] removed from iterable.
+Item root[1862]['classTime'][4] removed from iterable.
+Item root[1863]['classTime'][1] removed from iterable.
+Item root[1864]['classTime'][2] removed from iterable.
+Item root[1865]['classTime'][3] removed from iterable.
+Item root[1866]['classTime'][2] removed from iterable.
+Item root[1867]['classTime'][3] removed from iterable.
+Item root[1868]['classTime'][2] removed from iterable.
+Item root[1869]['classTime'][4] removed from iterable.
+Item root[1870]['classTime'][2] removed from iterable.
+Item root[1871]['classTime'][4] removed from iterable.
+Item root[1872]['classTime'][1] removed from iterable.
+Item root[1873]['classTime'][1] removed from iterable.
+Item root[1874]['classTime'][4] removed from iterable.
+Item root[1875]['classTime'][4] removed from iterable.
+Item root[1876]['classTime'][4] removed from iterable.
+Item root[1877]['classTime'][0] removed from iterable.
+Item root[1878]['classTime'][0] removed from iterable.
+Item root[1879]['classTime'][0] removed from iterable.
+Repetition change for item root[1780]['classTime'][0].
+Repetition change for item root[1781]['classTime'][1].
+Repetition change for item root[1782]['classTime'][0].
+Repetition change for item root[1783]['classTime'][0].
+Repetition change for item root[1784]['classTime'][0].
+Repetition change for item root[1785]['classTime'][0].
+Repetition change for item root[1786]['classTime'][0].
+Repetition change for item root[1787]['classTime'][0].
+Repetition change for item root[1788]['classTime'][0].
+Repetition change for item root[1789]['classTime'][0].
+Repetition change for item root[1790]['classTime'][1].
+Repetition change for item root[1791]['classTime'][1].
+Repetition change for item root[1792]['classTime'][0].
+Repetition change for item root[1793]['classTime'][0].
+Repetition change for item root[1794]['classTime'][1].
+Repetition change for item root[1795]['classTime'][1].
+Repetition change for item root[1860]['classTime'][0].
+Repetition change for item root[1861]['classTime'][0].
+Repetition change for item root[1862]['classTime'][0].
+Repetition change for item root[1863]['classTime'][0].
+Repetition change for item root[1864]['classTime'][0].
+Repetition change for item root[1865]['classTime'][0].
+Repetition change for item root[1866]['classTime'][0].
+Repetition change for item root[1867]['classTime'][0].
+Repetition change for item root[1868]['classTime'][0].
+Repetition change for item root[1869]['classTime'][0].
+Repetition change for item root[1870]['classTime'][0].
+Repetition change for item root[1871]['classTime'][0].
+Repetition change for item root[1872]['classTime'][0].
+Repetition change for item root[1873]['classTime'][0].
+Repetition change for item root[1874]['classTime'][0].
+Repetition change for item root[1875]['classTime'][0].
+Repetition change for item root[1876]['classTime'][0].
+Repetition change for item root[1877]['classTime'][1].
+Repetition change for item root[1878]['classTime'][1].
+Repetition change for item root[1879]['classTime'][1].
+Value of root[1780]['room'] changed from "管CM 2032" to "".
+Value of root[1781]['room'] changed from "管CM 2032" to "".
+Value of root[1782]['room'] changed from "管CM 2029" to "".
+Value of root[1783]['room'] changed from "管CM 2032" to "".
+Value of root[1784]['room'] changed from "管CM 2032" to "".
+Value of root[1785]['room'] changed from "管CM 2032" to "".
+Value of root[1786]['room'] changed from "管CM 2029" to "".
+Value of root[1787]['room'] changed from "管CM 2032" to "".
+Value of root[1788]['room'] changed from "管CM 4069" to "".
+Value of root[1789]['room'] changed from "管CM 3035" to "".
+Value of root[1790]['room'] changed from "網路大學" to "".
+Value of root[1791]['room'] changed from "管CM 1023,管CM 1037" to "".
+Value of root[1792]['room'] changed from "管CM 3015" to "".
+Value of root[1793]['room'] changed from "網路大學" to "".
+Value of root[1794]['room'] changed from "管CM 3051" to "".
+Value of root[1860]['teacher'] changed from "李景欽,廖睿妘" to "李景欽".
+Value of root[1860]['room'] changed from "海MB 1009" to "".
+Value of root[1861]['room'] changed from "海MB 3013" to "".
+Value of root[1862]['room'] changed from "海MB 2016" to "".
+Value of root[1863]['room'] changed from "海MB 2009" to "".
+Value of root[1865]['room'] changed from "海MB 1005" to "".
+Value of root[1866]['room'] changed from "海MB 1005" to "".
+Value of root[1867]['room'] changed from "海MB 1005" to "".
+Value of root[1869]['room'] changed from "海MB 3013" to "".
+Value of root[1872]['room'] changed from "海MB 2009" to "".
+Value of root[1873]['room'] changed from "海生館第二研究大樓R 2002" to "".
+Value of root[1874]['room'] changed from "海MB 1009" to "".
+Value of root[1875]['room'] changed from "海MB 2016" to "".
+Value of root[1876]['room'] changed from "海生館第二研究大樓R 2002" to "".
+Value of root[1877]['room'] changed from "海MB 2015" to "".
+Value of root[1878]['room'] changed from "海MB 1005" to "".
+Value of root[1879]['room'] changed from "海MB 2014" to "".
