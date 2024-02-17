@@ -30,13 +30,13 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM662&
 INDEPENDENT STUDIES IN MARKETING MANAGEMENT",3,期,False,50,0,1,49,張榮華,管CM 2032,"['', '', '567', '', '', '', '']","《獨立研究》
 限行傳所碩士班二年級以上學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM505&Crsname=商業大數據分析資料案例,,,False,管理學院(碩),CM505,0,不分班,"商業大數據分析資料案例
-BUSINESS BIG DATA ANALYTICS CAPSTONE",3,期,False,50,3,25,25,"康藝晃,卓雍然",管CM 4069,"['', '', '', '', '567', '', '']","《講授類》
+BUSINESS BIG DATA ANALYTICS CAPSTONE",3,期,False,50,3,25,25,康藝晃,管CM 4069,"['', '', '', '', '567', '', '']","《講授類》
 商業數據分析與創新微學程/本課程須會使用基礎R語言，未有此能力者請勿修習",['商業數據分析與創新微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM506&Crsname=金融服務與金融科技資料案例,,,False,管理學院(碩),CM506,0,不分班,"金融服務與金融科技資料案例
-FINANCIAL SERVICE AND FINANCIAL TECHNOLOGY CAPSTONE",3,期,False,50,0,10,40,"王昭文,卓雍然",管CM 3035,"['', '', '', '', '567', '', '']","《講授類》
+FINANCIAL SERVICE AND FINANCIAL TECHNOLOGY CAPSTONE",3,期,False,50,0,10,40,王昭文,管CM 3035,"['', '', '', '', '567', '', '']","《講授類》
 金融數據分析與創新微學程/本課程須會使用基礎R語言，未有此能力者請勿修習",['金融數據分析與創新微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,不分班,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,15,123,77,"鄭安授,王致遠,謝慧賢,陳世哲",網路大學,"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,15,123,77,鄭安授,網路大學,"['A', '', '', '', '', '', '']","《講授類》
 限管院生修習/網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM509&Crsname=商管專業實習,異動,更換部份教室1/5,False,管理學院(碩),CM509,0,不分班,"商管專業實習
 INTERNSHIP IN BUSINESS MANAGEMENT",3,期,False,50,5,11,39,唐俊華,"管CM 1023,管CM 1037","['E', '', '', '', '', 'DE', 'DE']","《實習類》
@@ -45,7 +45,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM510&C
 R：STATISTICAL PROGRAMMING METHODS",3,期,False,70,3,30,40,吳藺芝,管CM 3015,"['', '', '567', '', '', '', '']","《講授類》
 商業/金融數據分析與創新微學程","['商業數據分析與創新微學程', '金融數據分析與創新微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,不分班,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,15,45,"鄭安授,王致遠,王豫萱",網路大學,"['', 'A', '', '', '', '', '']","《講授類》
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,15,45,鄭安授,網路大學,"['', 'A', '', '', '', '', '']","《講授類》
 限管院生修習/網大進行之非同步線上課程(二年級優先選課)",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM512&Crsname=商業分析實務,,,False,管理學院(碩),CM512,0,不分班,"商業分析實務
 PRACTICAL BUSINESS ANALYSIS",3,期,False,70,2,24,46,卓雍然,管CM 3051,"['234', '', '', '', '', '', '']","《講授類》
