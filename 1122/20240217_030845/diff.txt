@@ -1,0 +1,18 @@
+Type of root[2034]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師2/17".
+Type of root[2077]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師2/17".
+Type of root[2469]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2469]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/17".
+Type of root[2498]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2498]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師2/17".
+Value of root[2024]['changeDescription'] changed from "更換時間12/29" to "修正備註內容2/17".
+Value of root[2024]['description'] changed from "《講授類》" to "《講授類》
+需先修過高等教育測驗學或試題反應理論".
+Value of root[2034]['teacher'] changed from "莊雪華" to "莊雪華,紀博善".
+Value of root[2077]['teacher'] changed from "莊雪華" to "莊雪華,紀博善".
+Value of root[2466]['changeDescription'] changed from "更換時間12/29" to "修正備註內容2/17".
+Value of root[2466]['description'] changed from "《講授類》" to "《講授類》
+需先修過高等教育測驗學或試題反應理論".
+Value of root[2469]['room'] changed from "社SS 2002-2" to "社SS 2011".
+Value of root[2478]['changeDescription'] changed from "更換授課方式1/4" to "增加合授教師2/17".
+Value of root[2478]['teacher'] changed from "莊雪華" to "莊雪華,紀博善".
+Value of root[2498]['teacher'] changed from "莊雪華" to "莊雪華,紀博善".
