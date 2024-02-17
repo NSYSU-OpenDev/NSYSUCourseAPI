@@ -3838,7 +3838,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5100&
 SEMINAR",1,期,True,150,5,159,-9,李宗璘,工EC 6019,"['', '67', '', '', '', '', '']","《演講/參訪》
 碩、博士班併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5100A&Crsname=書報討論,,,False,電機碩,EE5100A,2,不分班,"書報討論
-SEMINAR",1,期,True,150,3,160,-10,李宗璘,工EC 6019,"['', '67', '', '', '', '', '']","《演講/參訪》
+SEMINAR",1,期,True,150,3,159,-9,李宗璘,工EC 6019,"['', '67', '', '', '', '', '']","《演講/參訪》
 碩、博士班併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5101&Crsname=SOI/MOSFET設計專題,異動,更換教室1/15,False,電機碩,EE5101,0,不分班,"SOI/MOSFET設計專題
 SPECIAL TOPICS IN SOI/MOSFET DESIGN",3,期,False,50,1,1,49,林吉聰,工EC 9010,"['', '', '', '678', '', '', '']",《獨立研究》,[],True
@@ -4475,7 +4475,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE541&
 INDEPENDENT STUDIES IN DECENTRALIZED DATA PRIVACY",3,期,False,20,0,0,20,克拉迪,工EC 5026,"['', '234', '', '', '', '', '']","《獨立研究》
 限本系碩/博士生修習",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOS501&Crsname=書報討論,,,False,前瞻應材,MOS501,1,不分班,"書報討論
-SEMINAR",1,期,True,50,0,14,36,王映樵,工EC 1001,"['', '', '67', '', '', '', '']",《研討類》,[],False
+SEMINAR",1,期,True,50,0,13,37,王映樵,工EC 1001,"['', '', '67', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOS501A&Crsname=書報討論,,,False,前瞻應材,MOS501A,2,不分班,"書報討論
 SEMINAR",1,期,True,50,0,8,42,王映樵,工EC 1001,"['', '', '67', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMPE5010&Crsname=電力系統動態模型建立與模擬,,,False,電機電力碩,IMPE5010,0,不分班,"電力系統動態模型建立與模擬
@@ -4544,52 +4544,52 @@ COMPUTER NETWORKS",3,期,False,50,0,31,19,林耕霈,管CM 3022,"['', '', '', '',
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,異動,更換教室1/4,False,資管碩,MIS535,0,不分班,"服務品質管理
 SERVICE QUALITY MANAGEMENT",3,期,False,50,0,11,39,劉賓陽,管CM 2016,"['', '', 'CDE', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS537&Crsname=專案管理,,,False,資管碩,MIS537,0,不分班,"專案管理
-PROJECT MANAGEMENT",3,期,False,50,9,41,9,李捷,,"['', '', '', '', '', '', '']","《講授類》
+PROJECT MANAGEMENT",3,期,False,50,9,41,9,李捷,管CM 2016,"['', '', '234', '', '', '', '']","《講授類》
  
 ※英語授課",['非營利事業及社會創新微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS538&Crsname=網路安全,,,False,資管碩,MIS538,0,不分班,"網路安全
-NETWORK SECURITY",3,期,False,50,4,9,41,陳嘉玫,,"['', '', '', '', '', '', '']",《講授類》,"['永續能源學程', '資通安全學程', '金融科技學程']",False
+NETWORK SECURITY",3,期,False,50,4,9,41,陳嘉玫,管CM 4069,"['', '', '', 'CDE', '', '', '']",《講授類》,"['永續能源學程', '資通安全學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS545&Crsname=資料探勘與知識發現,異動,更換教室1/4,False,資管碩,MIS545,0,不分班,"資料探勘與知識發現
-DATA MINING AND KNOWLEDGE DISCOVERY",3,期,False,50,1,3,47,李偉柏,,"['', '', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
+DATA MINING AND KNOWLEDGE DISCOVERY",3,期,False,50,1,3,47,李偉柏,管CM 3038,"['', '', '567', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS550&Crsname=決策理論,,,False,資管碩,MIS550,0,不分班,"決策理論
-DECISION THEORY",3,期,False,50,0,4,46,張德民,,"['', '', '', '', '', '', '']",《講授類》,[],False
+DECISION THEORY",3,期,False,50,0,4,46,張德民,管CM 2016,"['', '', '', '', '567', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS567&Crsname=資訊科技策略,,,False,資管碩,MIS567,0,不分班,"資訊科技策略
-INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,8,42,吳仁和,,"['', '', '', '', '', '', '']",《講授類》,[],False
+INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,8,42,吳仁和,管CM 4069,"['', '', 'CDE', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS571&Crsname=商業智慧,,,False,資管碩,MIS571,0,不分班,"商業智慧
-BUSINESS INTELLIGENCE",3,期,False,50,3,50,0,林耕霈,,"['', '', '', '', '', '', '']",《講授類》,"['碳流資訊盤查與低碳設計微學程', '巨量資料分析學程', '金融科技學程']",False
+BUSINESS INTELLIGENCE",3,期,False,50,3,50,0,林耕霈,管CM 4069,"['', '', '234', '', '', '', '']",《講授類》,"['碳流資訊盤查與低碳設計微學程', '巨量資料分析學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS575&Crsname=教育機器人與物聯網,,,False,資管碩,MIS575,0,不分班,"教育機器人與物聯網
-EDUCATIONAL ROBOTICS AND IOTS",3,期,False,50,0,18,32,魏春旺,,"['', '', '', '', '', '', '']","《講授類》
+EDUCATIONAL ROBOTICS AND IOTS",3,期,False,50,0,18,32,魏春旺,管CM 2016,"['', '', '', '234', '', '', '']","《講授類》
 需自備筆電",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS581&Crsname=社群媒體分析,,,False,資管碩,MIS581,0,不分班,"社群媒體分析
-SOCIAL MEDIA ANALYSIS",3,期,False,50,21,50,0,黃三益,,"['', '', '', '', '', '', '']",《講授類》,['政經大數據分析微學程'],False
+SOCIAL MEDIA ANALYSIS",3,期,False,50,21,50,0,黃三益,管CM 4069,"['', 'CDE', '', '', '', '', '']",《講授類》,['政經大數據分析微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS586&Crsname=數位科技趨勢與應用,,,False,資管碩,MIS586,0,不分班,"數位科技趨勢與應用
-DIGITAL TECHNOLOGY TRENDS AND APPLICATIONS",3,期,False,50,2,24,26,楊淯程,,"['', '', '', '', '', '', '']",《講授類》,[],False
+DIGITAL TECHNOLOGY TRENDS AND APPLICATIONS",3,期,False,50,2,24,26,楊淯程,管CM 4069,"['', '', '567', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS588&Crsname=資料視覺化,,,False,資管碩,MIS588,0,不分班,"資料視覺化
-DATA VISUALIZATION",3,期,False,50,18,50,0,韓毅,,"['', '', '', '', '', '', '']","《講授類》
+DATA VISUALIZATION",3,期,False,50,18,50,0,韓毅,管CM 3051,"['', '678', '', '', '', '', '']","《講授類》
 需自備筆電",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS602&Crsname=電腦網路專題,,,False,資管碩,MIS602,0,不分班,"電腦網路專題
-SPECIAL TOPICS IN COMPUTER NETWORKS",3,期,False,50,0,2,48,陳嘉玫,,"['', '', '', '', '', '', '']","《獨立研究》
+SPECIAL TOPICS IN COMPUTER NETWORKS",3,期,False,50,0,2,48,陳嘉玫,,"['', '', '', '', '', '', 'CDE']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604&Crsname=專題討論,,,False,資管碩,MIS604,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,徐士傑,,"['', '', '', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,"徐士傑,施志遠",,"['', '', '', '', '', '', 'CDE']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604A&Crsname=專題討論,,,False,資管碩,MIS604A,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,1,49,楊惠芳,,"['', '', '', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,1,49,楊惠芳,,"['', '', '', '', '', '', 'CDE']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604B&Crsname=專題討論,,,False,資管碩,MIS604B,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,劉賓陽,,"['', '', '', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,劉賓陽,,"['', '', '', '', '', '', 'CDE']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS604C&Crsname=專題討論,,,False,資管碩,MIS604C,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,李捷,,"['', '', '', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,李捷,,"['', 'A1', 'A', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS607&Crsname=智慧型計算,,,False,資管碩,MIS607,0,不分班,"智慧型計算
-INTELLIGENT COMPUTATION",3,期,False,50,0,0,50,李偉柏,,"['', '', '', '', '', '', '']","《講授類》
+INTELLIGENT COMPUTATION",3,期,False,50,0,0,50,"李偉柏,李威杰",,"['', '', '', '', '', '', 'CDE']","《講授類》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS613&Crsname=工作流程管理,異動,確認合聘教師2/15,False,資管碩,MIS613,0,不分班,"工作流程管理
-WORKFLOW MANAGEMENT",3,期,False,50,0,0,50,黃三益,,"['', '', '', '', '', '', '']","《講授類》
+WORKFLOW MANAGEMENT",3,期,False,50,0,0,50,"黃三益,羅珮綺",,"['', '', '', '', '', '', 'CDE']","《講授類》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS615&Crsname=資訊系統開發理論,,,False,資管碩,MIS615,0,不分班,"資訊系統開發理論
-THEORY OF INFORMATION SYSTEM DEVELOPMENT",3,期,False,50,0,0,50,吳仁和,,"['', '', '', '', '', '', '']","《講授類》
+THEORY OF INFORMATION SYSTEM DEVELOPMENT",3,期,False,50,0,0,50,吳仁和,,"['', '', '', '', '', '', 'CDE']","《講授類》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM501&Crsname=財務管理理論與策略,,,False,財管碩,FM501,1,不分班,"財務管理理論與策略
 FINANCIAL MANAGEMENT THEORIES AND STRATEGIES",3,期,False,50,1,37,13,馬黛,管CM 1023,"['', '', '567', '', '', '', '']",《講授類》,[],False
@@ -5307,8 +5307,9 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE557&
 SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,50,0,14,36,張至慶,社SS 2001,"['', '', '7', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE558&Crsname=全球教育研究,,,False,教育碩,IOE558,0,不分班,"全球教育研究
 STUDIES IN GLOBAL EDUCATION",3,期,False,50,0,6,44,周珮儀,社SS 2006,"['', '234', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE561&Crsname=電腦適性測驗,異動,更換時間12/29,False,教育碩,IOE561,0,不分班,"電腦適性測驗
-COMPUTERRIZED ADAPTIVE TESTING",3,期,False,50,0,2,48,施慶麟,社SS 2004-3,"['', '', 'B56', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE561&Crsname=電腦適性測驗,異動,修正備註內容2/17,False,教育碩,IOE561,0,不分班,"電腦適性測驗
+COMPUTERRIZED ADAPTIVE TESTING",3,期,False,50,0,2,48,施慶麟,社SS 2004-3,"['', '', 'B56', '', '', '', '']","《講授類》
+需先修過高等教育測驗學或試題反應理論",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE571&Crsname=科技素養研究,,,False,教育碩,IOE571,0,不分班,"科技素養研究
 SCIENTIFIC AND TECHNOLOGICAL LITERACY STUDIES",3,期,False,20,0,1,19,謝百淇,社SS 2004-3,"['', '', '234', '', '', '', '']","《講授類》
  
@@ -5329,8 +5330,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE635&
 SOCIAL INNOVATION AND EDUCATIONAL ENTREPRENEURSHIP",3,期,False,50,1,3,47,游銘仁,西SW 1003,"['', '', '', '567', '', '', '']",《講授類》,['創新創業微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE643&Crsname=青少年心理與輔導研究,,,False,教育碩,IOE643,0,不分班,"青少年心理與輔導研究
 RESEARCH ON ADOLESCENT PSYCHOLOGY AND GUIDANCE",3,期,False,50,0,7,43,宋宥賢,社SS 1004,"['', '234', '', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE644&Crsname=公正轉型課程實踐研究,,,False,教育碩,IOE644,0,不分班,"公正轉型課程實踐研究
-STUDIES IN PRACTICE OF JUST TRANSITION CURRICULUM",3,期,False,50,0,2,48,莊雪華,社SS 2006,"['', '', 'B56', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE644&Crsname=公正轉型課程實踐研究,,增加合授教師2/17,False,教育碩,IOE644,0,不分班,"公正轉型課程實踐研究
+STUDIES IN PRACTICE OF JUST TRANSITION CURRICULUM",3,期,False,50,0,2,48,"莊雪華,紀博善",社SS 2006,"['', '', 'B56', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE645&Crsname=數位媒體素養與教育研究,異動,更換時間1/10,False,教育碩,IOE645,0,不分班,"數位媒體素養與教育研究
 STUDIES IN DIGITAL LITERACIES IN EDUCATION",3,期,False,15,0,1,14,張宇慧,社SS 3006,"['34B', '', '', '', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE647&Crsname=教師信念與知識論研究,,,False,教育碩,IOE647,0,不分班,"教師信念與知識論研究
@@ -5423,8 +5424,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE551
 STUDIES IN DIGITAL LITERACIES IN EDUCATION",3,期,False,30,0,1,29,張宇慧,社SS 3006,"['34B', '', '', '', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE553&Crsname=全球教育領導,,,False,教人全英碩,IGPE553,0,不分班,"全球教育領導
 LEADERSHIP IN GLOBAL EDUCATION",3,期,False,40,0,7,33,艾玲,社SS 2006,"['', '', 'CDE', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE554&Crsname=公正轉型課程實踐研究,,,False,教人全英碩,IGPE554,0,不分班,"公正轉型課程實踐研究
-STUDIES IN PRACTICE OF JUST TRANSITION CURRICULUM",3,期,False,20,0,0,20,莊雪華,社SS 2006,"['', '', 'B56', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE554&Crsname=公正轉型課程實踐研究,,增加合授教師2/17,False,教人全英碩,IGPE554,0,不分班,"公正轉型課程實踐研究
+STUDIES IN PRACTICE OF JUST TRANSITION CURRICULUM",3,期,False,20,0,0,20,"莊雪華,紀博善",社SS 2006,"['', '', 'B56', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ISI502&Crsname=社會設計與社會創新,,,False,社會創新所,ISI502,0,不分班,"社會設計與社會創新
 SOCIAL DESIGN AND SOCIAL INNOVATION",3,期,False,30,0,5,25,楊士奇,西SW 1004,"['', '', '567', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ISI503&Crsname=社會創新創業與永續治理,新增,2/16,False,社會創新所,ISI503,0,不分班,"社會創新創業與永續治理
@@ -6351,16 +6352,17 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE709&
 STUDIES IN CURRICULUM THEORIES",3,期,False,50,0,4,46,周珮儀,社SS 2002-1,"['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE752&Crsname=專題研討（二）,,,False,教育博,IOE752,1,不分班,"專題研討（二）
 SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,50,0,12,38,張至慶,社SS 2001,"['', '', '7', '', '', '', '']",《研討類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE753&Crsname=電腦適性測驗,異動,更換時間12/29,False,教育博,IOE753,0,不分班,"電腦適性測驗
-COMPUTERRIZED ADAPTIVE TESTING",3,期,False,50,0,0,50,施慶麟,社SS 2004-3,"['', '', 'B56', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE753&Crsname=電腦適性測驗,異動,修正備註內容2/17,False,教育博,IOE753,0,不分班,"電腦適性測驗
+COMPUTERRIZED ADAPTIVE TESTING",3,期,False,50,0,0,50,施慶麟,社SS 2004-3,"['', '', 'B56', '', '', '', '']","《講授類》
+需先修過高等教育測驗學或試題反應理論",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE760&Crsname=科技素養研究,,,False,教育博,IOE760,0,不分班,"科技素養研究
 SCIENTIFIC AND TECHNOLOGICAL LITERACY STUDIES",3,期,False,20,0,3,17,謝百淇,社SS 2004-3,"['', '', '234', '', '', '', '']","《講授類》
  
 ※英語授課",['STREAM永續發展培力微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE764&Crsname=全球教育研究,,,False,教育博,IOE764,0,不分班,"全球教育研究
 STUDIES IN GLOBAL EDUCATION",3,期,False,50,1,0,50,周珮儀,社SS 2006,"['', '234', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE769&Crsname=校園霸凌防制研究,,,False,教育博,IOE769,0,不分班,"校園霸凌防制研究
-STUDIES IN SCHOOL BULLYING PREVENTION",3,期,False,50,0,0,50,陳利銘,社SS 2002-2,"['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE769&Crsname=校園霸凌防制研究,異動,更換教室2/17,False,教育博,IOE769,0,不分班,"校園霸凌防制研究
+STUDIES IN SCHOOL BULLYING PREVENTION",3,期,False,50,0,0,50,陳利銘,社SS 2011,"['', '', '234', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE783&Crsname=行為科學實驗法,,,False,教育博,IOE783,0,不分班,"行為科學實驗法
 EXPERIMENTAL RESEARCH IN BEHAVIORAL SCIENCES",3,期,False,20,0,1,19,馮雅群,社SS 2005,"['567', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE803&Crsname=獨立研究（二）,,,False,教育博,IOE803,2,不分班,"獨立研究（二）
@@ -6377,8 +6379,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE837&
 ANALYSIS IN QUALITATIVE RESEARCH",3,期,False,50,0,0,50,紀博善,社SS 2002-1,"['567', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE850&Crsname=青少年心理與輔導研究,,,False,教育博,IOE850,0,不分班,"青少年心理與輔導研究
 RESEARCH ON ADOLESCENT PSYCHOLOGY AND GUIDANCE",3,期,False,50,0,1,49,宋宥賢,社SS 1004,"['', '234', '', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE851&Crsname=公正轉型課程實踐研究,異動,更換授課方式1/4,False,教育博,IOE851,0,不分班,"公正轉型課程實踐研究
-STUDIES IN PRACTICE OF JUST TRANSITION CURRICULUM",3,期,False,50,0,2,48,莊雪華,社SS 2006,"['', '', 'B56', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE851&Crsname=公正轉型課程實踐研究,異動,增加合授教師2/17,False,教育博,IOE851,0,不分班,"公正轉型課程實踐研究
+STUDIES IN PRACTICE OF JUST TRANSITION CURRICULUM",3,期,False,50,0,2,48,"莊雪華,紀博善",社SS 2006,"['', '', 'B56', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE852&Crsname=數位媒體素養與教育研究,異動,更換時間1/10,False,教育博,IOE852,0,不分班,"數位媒體素養與教育研究
 STUDIES IN DIGITAL LITERACIES IN EDUCATION",3,期,False,50,0,0,50,張宇慧,社SS 3006,"['34B', '', '', '', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE854&Crsname=教師信念與知識論研究,,,False,教育博,IOE854,0,不分班,"教師信念與知識論研究
@@ -6419,8 +6421,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE763
 STUDIES IN DIGITAL LITERACIES IN EDUCATION",3,期,False,20,0,0,20,張宇慧,社SS 3006,"['34B', '', '', '', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE765&Crsname=全球教育領導,,,False,教人全英博,IGPE765,0,不分班,"全球教育領導
 LEADERSHIP IN GLOBAL EDUCATION",3,期,False,50,0,1,49,艾玲,社SS 2006,"['', '', 'CDE', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE766&Crsname=公正轉型課程實踐研究,,,False,教人全英博,IGPE766,0,不分班,"公正轉型課程實踐研究
-STUDIES IN PRACTICE OF JUST TRANSITION CURRICULUM",3,期,False,20,0,1,19,莊雪華,社SS 2006,"['', '', 'B56', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE766&Crsname=公正轉型課程實踐研究,異動,增加合授教師2/17,False,教人全英博,IGPE766,0,不分班,"公正轉型課程實踐研究
+STUDIES IN PRACTICE OF JUST TRANSITION CURRICULUM",3,期,False,20,0,1,19,"莊雪華,紀博善",社SS 2006,"['', '', 'B56', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBMS704&Crsname=書報討論（二）,,,False,生醫博,IBMS704,1,不分班,"書報討論（二）
 SEMINAR (II)",1,期,True,15,0,13,2,"張玉泉,莊博凱",國IR 5005,"['5', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBMS804&Crsname=書報討論（四）,,,False,生醫博,IBMS804,2,不分班,"書報討論（四）
