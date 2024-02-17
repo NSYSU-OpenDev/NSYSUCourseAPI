@@ -1,26 +1,26 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHIL606&Crsname=佛教與哲學專題,,,False,哲學碩,PHIL606,0,不分班,"佛教與哲學專題
-INDEPENDENT STUDIES IN BUDDHISM AND PHILOSOPHY",2,期,False,50,0,0,50,越建東,文LA 2008,"['', '78', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN BUDDHISM AND PHILOSOPHY",2,期,False,50,0,0,50,越建東,,"['', '', '', '', '', '', '']","《獨立研究》
 僅限哲學所學生",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHIL608&Crsname=歐洲哲學與社會政治批判專題,,,False,哲學碩,PHIL608,0,不分班,"歐洲哲學與社會政治批判專題
-INDEPENDENT STUDIES IN EUROPEAN PHILOSOPHY AND SOCIO-POLITICAL CRITIQUE",2,期,False,50,0,0,50,戴遠雄,文LA 7001,"['34', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN EUROPEAN PHILOSOPHY AND SOCIO-POLITICAL CRITIQUE",2,期,False,50,0,0,50,戴遠雄,,"['', '', '', '', '', '', '']","《獨立研究》
 僅限哲學所學生",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHIL609&Crsname=結構主義、解構與其當代遺產專題,,,False,哲學碩,PHIL609,0,不分班,"結構主義、解構與其當代遺產專題
-INDEPENDENT STUDIES IN STRUCTURALISM, DECONSTRUCTION AND THEIR CONTEMPORARY LEGACIES",2,期,False,50,0,0,50,高長空,文LA 2008,"['34', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN STRUCTURALISM, DECONSTRUCTION AND THEIR CONTEMPORARY LEGACIES",2,期,False,50,0,0,50,高長空,,"['', '', '', '', '', '', '']","《獨立研究》
 僅限哲學所學生",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA512&Crsname=臺灣現代戲劇研究,,,False,劇藝碩,TA512,0,不分班,"臺灣現代戲劇研究
-MODERN THEATRE IN TAIWAN",3,期,False,50,0,5,45,康尹貞,文FA 2012,"['', '', '234', '', '', '', '']",《講授類》,[],False
+MODERN THEATRE IN TAIWAN",3,期,False,50,0,5,45,康尹貞,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA536&Crsname=導演實務（二）,,,False,劇藝碩,TA536,0,不分班,"導演實務（二）
-PRACTICAL TRAINING FOR DIRECTING (Ⅱ)",3,期,False,50,0,4,46,楊士平,"文FA 2012, 文FA 2018","['', '', '', '567', '', '', '']",《展演》,[],False
+PRACTICAL TRAINING FOR DIRECTING (Ⅱ)",3,期,False,50,0,4,46,楊士平,,"['', '', '', '', '', '', '']",《展演》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA570&Crsname=跨域創作與研究,新增,1/23,False,劇藝碩,TA570,0,不分班,"跨域創作與研究
-INTERDISCIPLINARY PRACTICE AND RESEARCH",3,期,False,50,0,3,47,"楊士平,吳怡瑱","文FA 2012, 文FA 2018","['', '567', '', '', '', '', '']",《展演》,[],False
+INTERDISCIPLINARY PRACTICE AND RESEARCH",3,期,False,50,0,3,47,楊士平,,"['', '', '', '', '', '', '']",《展演》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA572&Crsname=劇場展演與社會參與,,,False,劇藝碩,TA572,0,不分班,"劇場展演與社會參與
-THEATRE AND PERFORMANCE AS SOCIAL ENGAGEMENT",3,期,False,50,0,5,45,何怡璉,"文FA 2012, 文FA 2018","['', '', '', '', '567', '', '']",《展演》,[],False
+THEATRE AND PERFORMANCE AS SOCIAL ENGAGEMENT",3,期,False,50,0,5,45,何怡璉,,"['', '', '', '', '', '', '']",《展演》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA573&Crsname=跨文化表演研究,,,False,劇藝碩,TA573,0,不分班,"跨文化表演研究
-INTERCULTURAL PERFORMANCE STUDIES",3,期,False,50,2,8,42,許仁豪,,"['234567', '234567', '234567', '234567', '234567', '', '']","《講授類》
+INTERCULTURAL PERFORMANCE STUDIES",3,期,False,50,2,8,42,許仁豪,,"['', '', '', '', '', '', '']","《講授類》
 全英語授課，包含113年暑假至泰國朱拉隆功大學移地教學",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA582&Crsname=畢業專題（二）,,,False,劇藝碩,TA582,2,不分班,"畢業專題（二）
-INDEPENDENT STUDIES(II)",2,期,True,50,0,5,45,"杜思慧,吳怡瑱,康尹貞,許仁豪",文FA 2012,"['AB', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES(II)",2,期,True,50,0,5,45,杜思慧,,"['', '', '', '', '', '', '']","《獨立研究》
 限本系碩二，畢業論文/創作指導",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AME501&Crsname=研究方法,,,False,藝管創業所,AME501,1,不分班,"研究方法
 RESEARCH METHODS",3,期,True,50,0,12,38,陳尚盈,文FA 3011,"['', '234', '', '', '', '', '']","《講授類》
