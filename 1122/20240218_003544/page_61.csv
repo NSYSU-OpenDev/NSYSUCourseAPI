@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MED152&Crsname=藥與毒：藥物濫用,,,False,醫學院,MED152,0,不分班,"藥與毒：藥物濫用
-MEDICINES AND DRUGS: SUBSTANCE ABUSE",3,期,False,15,0,0,15,陳亮傑,,"['', '', '', '', '', '', '']","《講授類》
+MEDICINES AND DRUGS: SUBSTANCE ABUSE",3,期,False,15,0,0,15,陳亮傑,醫IL 9012,"['', '', '', '789', '', '', '']","《講授類》
 限大學部醫學院學生選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL505&Crsname=專題研究,,,False,中文碩,CL505,0,不分班,"專題研究
 INDEPENDENT STUDIES",1,期,False,50,0,2,48,羅景文,文LA 6034,"['', '', '', '', '5', '', '']","《獨立研究》
