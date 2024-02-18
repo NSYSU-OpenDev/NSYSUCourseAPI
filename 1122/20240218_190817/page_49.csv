@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS445&Crsname=電子商務,,,False,資管系,MIS445,3,不分班,"電子商務
-ELECTRONIC COMMERCE",3,期,True,50,15,53,-3,陳偉慶,管CM 2025,"['', '', '', '678', '', '', '']",《講授類》,"['金融科技與創新微學程', '行銷管理學程', '金融科技學程']",False
+ELECTRONIC COMMERCE",3,期,True,50,15,53,-3,陳偉慶,,"['', '', '', '', '', '', '']",《講授類》,"['金融科技與創新微學程', '行銷管理學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM107&Crsname=初級會計學（二）,,,False,財管系,FM107,1,不分班,"初級會計學（二）
 ACCOUNTING(II)",3,期,True,65,0,59,6,吳藺芝,管CM 1037,"['234', '', '', '', '', '', '']","《講授類》
 限財管系",[],True

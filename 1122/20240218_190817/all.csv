@@ -2760,7 +2760,7 @@ PRODUCTION-MARKETING INFORMATION SYSTEMS PROJECT (I)",3,期,True,50,0,7,43,劉�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS329&Crsname=決策支援系統專案（一）,,,True,資管系,MIS329,3,不分班,"決策支援系統專案（一）
 DECISION SUPPORT SYSTEMS PROJECT (I)",3,期,True,50,0,5,45,李捷,管CM 1019,"['', '', '1', 'A1', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS445&Crsname=電子商務,,,False,資管系,MIS445,3,不分班,"電子商務
-ELECTRONIC COMMERCE",3,期,True,50,15,53,-3,陳偉慶,管CM 2025,"['', '', '', '678', '', '', '']",《講授類》,"['金融科技與創新微學程', '行銷管理學程', '金融科技學程']",False
+ELECTRONIC COMMERCE",3,期,True,50,15,53,-3,陳偉慶,,"['', '', '', '', '', '', '']",《講授類》,"['金融科技與創新微學程', '行銷管理學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM107&Crsname=初級會計學（二）,,,False,財管系,FM107,1,不分班,"初級會計學（二）
 ACCOUNTING(II)",3,期,True,65,0,59,6,吳藺芝,管CM 1037,"['234', '', '', '', '', '', '']","《講授類》
 限財管系",[],True
@@ -2823,55 +2823,55 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM413&C
 INTRODUCTION TO HUMAN RESOURCE MANAGEMENT",1,期,False,25,19,25,0,王豫萱,網路大學,"['', '', '', 'A', '', '', '']","《講授類》
 限管院生與電機系選修/網大進行之非同步線上課程",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBBA105&Crsname=經濟學（二）,,,False,國際學士學程,IBBA105,1,全英班,"經濟學（二）
-ECONOMICS(II)",3,期,True,50,0,32,18,劉易,,"['', '', '', '', '', '', '']","《講授類》
+ECONOMICS(II)",3,期,True,50,0,32,18,劉易,管CM 4036,"['', '', '567', '', '', '', '']","《講授類》
 限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBBA106&Crsname=會計學（二）,,,False,國際學士學程,IBBA106,1,全英班,"會計學（二）
-ACCOUNTING(II)",3,期,True,50,0,31,19,馬威爾,,"['', '', '', '', '', '', '']","《講授類》
+ACCOUNTING(II)",3,期,True,50,0,31,19,馬威爾,管CM 4036,"['', '', '', '678', '', '', '']","《講授類》
 限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBBA107&Crsname=人力資源管理,,,True,國際學士學程,IBBA107,1,全英班,"人力資源管理
-HUMAN RESOURCE MANAGEMENT",3,期,True,50,0,26,24,羅芳怡,,"['', '', '', '', '', '', '']","《講授類》
+HUMAN RESOURCE MANAGEMENT",3,期,True,50,0,26,24,羅芳怡,管CM 4036,"['', '', '', '', '234', '', '']","《講授類》
 限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBBA153&Crsname=國際企業永續發展,,,False,國際學士學程,IBBA153,1,全英班,"國際企業永續發展
-SUSTAINABILITY OF GLOBAL ENTERPRISE",3,期,False,50,0,7,43,雷英瑞,,"['', '', '', '', '', '', '']","《講授類》
+SUSTAINABILITY OF GLOBAL ENTERPRISE",3,期,False,50,0,7,43,雷英瑞,管CM 4036,"['678', '', '', '', '', '', '']","《講授類》
 限IBBA學生修習，欲加選學生請於加退選2階段辦理選課
 ※英語授課","['企業社會責任學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBBA205&Crsname=商事法,,,False,國際學士學程,IBBA205,2,全英班,"商事法
-BUSINESS LAW",2,期,True,50,0,32,18,盧憶,,"['', '', '', '', '', '', '']","《講授類》
+BUSINESS LAW",2,期,True,50,0,32,18,盧憶,管CM 4036,"['', '', '', '34', '', '', '']","《講授類》
 限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBBA207&Crsname=財務管理,,,True,國際學士學程,IBBA207,2,全英班,"財務管理
-FINANCIAL MANAGEMENT",3,期,True,50,0,9,41,馬威爾,,"['', '', '', '', '', '', '']","《講授類》
+FINANCIAL MANAGEMENT",3,期,True,50,0,9,41,馬威爾,管CM 1032,"['', '', '', '', '567', '', '']","《講授類》
 限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課
 ※英語授課","['金融工程學程', '金融工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBBA208&Crsname=管理資訊系統,,,True,國際學士學程,IBBA208,2,全英班,"管理資訊系統
-MANAGEMENT INFORMATION SYSTEMS",3,期,True,50,0,9,41,陳文鑫,,"['', '', '', '', '', '', '']","《講授類》
+MANAGEMENT INFORMATION SYSTEMS",3,期,True,50,0,9,41,陳文鑫,管CM 4036,"['', '567', '', '', '', '', '']","《講授類》
 限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBBA209&Crsname=生產與作業管理,,,True,國際學士學程,IBBA209,2,全英班,"生產與作業管理
-PRODUCTION AND OPERATIONS MANAGEMENT",3,期,True,50,1,29,21,劉易,,"['', '', '', '', '', '', '']","《講授類》
+PRODUCTION AND OPERATIONS MANAGEMENT",3,期,True,50,1,29,21,劉易,管CM 4036,"['', '234', '', '', '', '', '']","《講授類》
 限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBBA251&Crsname=統計計算,異動,修正教師及教室1/2,False,國際學士學程,IBBA251,2,全英班,"統計計算
-STATISTICS AND COMPUTING",3,期,False,50,0,1,49,薩尼,,"['', '', '', '', '', '', '']","《講授類》
+STATISTICS AND COMPUTING",3,期,False,50,0,1,49,薩尼,管CM 3051,"['', '', '', '', '567', '', '']","《講授類》
 限IBBA學生修習，欲加選學生請於加退選2階段辦理選課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBBA252&Crsname=商業數據分析,異動,碓認教師1/2,False,國際學士學程,IBBA252,2,全英班,"商業數據分析
-BUSINESS ANALYTICS",3,期,False,50,0,7,43,薩尼,,"['', '', '', '', '', '', '']","《講授類》
+BUSINESS ANALYTICS",3,期,False,50,0,7,43,薩尼,管CM 4036,"['', '', '234', '', '', '', '']","《講授類》
 限IBBA學生修習，欲加選學生請於加退選2階段辦理選課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR104&Crsname=普通生物學（二）,,,False,海資系,MBR104,1,全英班,"普通生物學（二）
-GENERAL BIOLOGY(II)",3,期,True,50,1,42,8,林梅芳,,"['', '', '', '', '', '', '']",《講授類》,[],True
+GENERAL BIOLOGY(II)",3,期,True,50,1,42,8,"林梅芳,張桂祥,林秀瑾",海MB 2020,"['34', '', '', '', '5', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR106&Crsname=普通生物學實驗（二）,,,False,海資系,MBR106,1,全英班,"普通生物學實驗（二）
-GENERAL BIOLOGY LABORATORY(II)",1,期,True,50,0,35,15,廖睿妘,,"['', '', '', '', '', '', '']","《實驗類》
+GENERAL BIOLOGY LABORATORY(II)",1,期,True,50,0,35,15,廖睿妘,海MB 2003,"['', '', '', '', '678', '', '']","《實驗類》
 限海資系(含雙主修、輔系)。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR113&Crsname=生物技術概論,,,False,海資系,MBR113,2,全英班,"生物技術概論
-INTRODUCTION TO BIOTECHNOLOGY",2,期,False,50,0,16,34,李景欽,,"['', '', '', '', '', '', '']",《講授類》,['生物技術學程'],False
+INTRODUCTION TO BIOTECHNOLOGY",2,期,False,50,0,16,34,"李景欽,廖睿妘,李澤民,溫志宏,王亮鈞",海MB 2020,"['89', '', '', '', '', '', '']",《講授類》,['生物技術學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR201&Crsname=有機化學（一）,,,False,海資系,MBR201,1,全英班,"有機化學（一）
-ORGANIC CHEMISTRY(I)",2,期,True,50,0,42,8,張均然,,"['', '', '', '', '', '', '']","《講授類》
+ORGANIC CHEMISTRY(I)",2,期,True,50,0,42,8,張均然,海MB 2020,"['', '', '', '56', '', '', '']","《講授類》
 與生科系英語組BIOS200A併班。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR203&Crsname=有機化學實驗（一）,,,False,海資系,MBR203,1,全英班,"有機化學實驗（一）
-ORGANIC CHEMISTRY LABORATORY(I)",1,期,True,50,1,33,17,張均然,,"['', '', '', '', '', '', '']",《實驗類》,[],True
+ORGANIC CHEMISTRY LABORATORY(I)",1,期,True,50,1,33,17,張均然,理SC 4020,"['', '', '234', '', '', '', '']",《實驗類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR206&Crsname=海洋化學,,,False,海資系,MBR206,2,全英班,"海洋化學
-MARINE CHEMISTRY",2,期,False,50,0,11,39,王維賢,,"['', '', '', '', '', '', '']",《講授類》,[],False
+MARINE CHEMISTRY",2,期,False,50,0,11,39,王維賢,海MB 2020,"['67', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR212&Crsname=海洋微生物學,,,False,海資系,MBR212,2,全英班,"海洋微生物學
-MARINE MICROBIOLOGY",2,期,False,50,1,18,32,邱素芬,,"['', '', '', '', '', '', '']",《講授類》,"['生物技術學程', '環境科技與管理學程', '海洋循環經濟學程', '海洋微生物及應用推廣微學程', '環境教育學程']",False
+MARINE MICROBIOLOGY",2,期,False,50,1,18,32,"邱素芬,王亮鈞",海MB 2016,"['', '56', '', '', '', '', '']",《講授類》,"['生物技術學程', '環境科技與管理學程', '海洋循環經濟學程', '海洋微生物及應用推廣微學程', '環境教育學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR214&Crsname=細胞生物學,,,False,海資系,MBR214,3,不分班,"細胞生物學
-CELL BIOLOGY",3,期,True,60,0,45,15,溫志宏,,"['', '', '', '', '', '', '']",《講授類》,"['生物技術學程', '海洋生產模式整合學程', '生物技術微學程']",False
+CELL BIOLOGY",3,期,True,60,0,45,15,溫志宏,海MB 2020,"['', '567', '', '', '', '', '']",《講授類》,"['生物技術學程', '海洋生產模式整合學程', '生物技術微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR221&Crsname=礦物學,,,False,海資系,MBR221,2,全英班,"礦物學
 MINERALOGY",2,期,False,50,1,14,36,蕭炎宏,海MB 2009,"['34', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR225&Crsname=海洋中藥概論,,,False,海資系,MBR225,2,全英班,"海洋中藥概論
@@ -4639,99 +4639,99 @@ INTRODUCTION TO BIG DATA ANALYTICS",3,期,False,40,4,33,7,李忠軒,管CM 2023,"
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM616&Crsname=金融科技服務開發,異動,調整主授老師1/2,False,財管碩,FM616,1,不分班,"金融科技服務開發
 THE DEVELOPMENT OF FINTECH SERVICES",3,期,False,35,2,16,19,"吳藺芝,蔡維哲,邱敬貿",管CM 2015,"['', '', '', '567', '', '', '']",《講授類》,"['金融科技與創新微學程', '科技創新與服務業管理學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM506&Crsname=法律與公共事務,異動,更換時間1/25,False,公事碩,PAM506,1,不分班,"法律與公共事務
-LAWS AND PUBLIC AFFAIRS",3,期,False,50,2,14,36,毛鈺棻,管CM 1020,"['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+LAWS AND PUBLIC AFFAIRS",3,期,False,50,2,14,36,毛鈺棻,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM512&Crsname=倫理與衝突,,,False,公事碩,PAM512,2,不分班,"倫理與衝突
-ETHICS AND CONFLICT",2,期,True,20,0,17,3,林新沛,管CM 1020,"['', '', '', '67', '', '', '']","《講授類》
+ETHICS AND CONFLICT",2,期,True,20,0,17,3,林新沛,,"['', '', '', '', '', '', '']","《講授類》
 限公事所碩二以上學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM518&Crsname=都市環境管理,異動,更換教室2/15,False,公事碩,PAM518,1,不分班,"都市環境管理
-URBAN ENVIRONMENTAL MANAGEMENT",3,期,False,50,4,29,21,謝旭昇,管CM 1020,"['', '', '567', '', '', '', '']","《講授類》
+URBAN ENVIRONMENTAL MANAGEMENT",3,期,False,50,4,29,21,謝旭昇,,"['', '', '', '', '', '', '']","《講授類》
  
 ※英語授課","['智慧城市與智慧運輸學程', '都市永續規劃與管理微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM528&Crsname=危機管理,新增,2/16,False,公事碩,PAM528,0,不分班,"危機管理
-CRISIS MANAGEMENT",2,期,False,50,0,0,50,吳偉寧,管CM 1020,"['CD', '', '', '', '', '', '']",《講授類》,[],False
+CRISIS MANAGEMENT",2,期,False,50,0,0,50,吳偉寧,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM536&Crsname=國際企業永續發展,,,False,公事碩,PAM536,2,不分班,"國際企業永續發展
-SUSTAINABILITY OF GLOBAL ENTERPRISE",3,期,False,50,0,33,17,張瓊婷,管CM 1020,"['', '678', '', '', '', '', '']","《講授類》
+SUSTAINABILITY OF GLOBAL ENTERPRISE",3,期,False,50,0,33,17,張瓊婷,,"['', '', '', '', '', '', '']","《講授類》
  
 ※英語授課","['公共事務與企業社會責任微學程', '環境教育學程', '企業社會責任學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM539&Crsname=量化資料分析與寫作,,,False,公事碩,PAM539,1,不分班,"量化資料分析與寫作
-QUANTITATIVE DATA ANALYSIS AND WRITING",3,期,False,50,0,13,37,吳偉寧,管CM 1020,"['', '', '', '234', '', '', '']",《講授類》,[],False
+QUANTITATIVE DATA ANALYSIS AND WRITING",3,期,False,50,0,13,37,吳偉寧,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM540&Crsname=公共事務與企業社會責任,,,False,公事碩,PAM540,2,不分班,"公共事務與企業社會責任
-PUBLIC AFFAIRS AND CORPORATE SOCIAL RESPONSIBILITY",2,期,False,50,2,16,34,張緒中,管CM 1035,"['', 'CD', '', '', '', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '企業社會責任學程']",False
+PUBLIC AFFAIRS AND CORPORATE SOCIAL RESPONSIBILITY",2,期,False,50,2,16,34,張緒中,,"['', '', '', '', '', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '企業社會責任學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM541&Crsname=質化資料分析與寫作,,,False,公事碩,PAM541,1,不分班,"質化資料分析與寫作
-QUALITATIVE DATA ANALYSIS AND WRITING",3,期,False,50,0,13,37,蔡錦昌,管CM 1035,"['678', '', '', '', '', '', '']",《講授類》,[],False
+QUALITATIVE DATA ANALYSIS AND WRITING",3,期,False,50,0,13,37,蔡錦昌,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM549&Crsname=永續管理概論,,,False,公事碩,PAM549,1,不分班,"永續管理概論
-INTRODUCTION TO SUSTAINABLE MANAGEMENT",2,期,False,50,1,19,31,林新沛,管CM 1019,"['', '67', '', '', '', '', '']",《講授類》,"['永續管理微學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '企業社會責任學程']",False
+INTRODUCTION TO SUSTAINABLE MANAGEMENT",2,期,False,50,1,19,31,林新沛,,"['', '', '', '', '', '', '']",《講授類》,"['永續管理微學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '企業社會責任學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM552&Crsname=區域發展與政策,,,False,公事碩,PAM552,2,不分班,"區域發展與政策
-REGIONAL REVELOPMENT AND POLICY",3,期,False,50,2,16,34,"游尚儒,吳義隆",管CM 1020,"['', '', '', 'CDE', '', '', '']",《講授類》,"['地方創生與區域治理微學程', '地方創生與永續發展整合學程']",False
+REGIONAL REVELOPMENT AND POLICY",3,期,False,50,2,16,34,游尚儒,,"['', '', '', '', '', '', '']",《講授類》,"['地方創生與區域治理微學程', '地方創生與永續發展整合學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM588&Crsname=性別、組織與管理,,,False,公事碩,PAM588,2,不分班,"性別、組織與管理
-GENDER, ORGANIZATION AND MANAGEMENT",3,期,False,50,2,16,34,彭渰雯,管CM 1020,"['', '', '', '', '567', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '性別研究學程', '性別與管理微學程', '企業社會責任學程']",False
+GENDER, ORGANIZATION AND MANAGEMENT",3,期,False,50,2,16,34,彭渰雯,,"['', '', '', '', '', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '性別研究學程', '性別與管理微學程', '企業社會責任學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM603&Crsname=氣候行動書報討論,,,False,公事碩,PAM603,2,不分班,"氣候行動書報討論
-PAPER READINGS IN CLIMATE ACTIONS",1,期,False,50,0,7,43,林新沛,,"['67', '', '', '', '', '', '']","《研討類》
+PAPER READINGS IN CLIMATE ACTIONS",1,期,False,50,0,7,43,林新沛,,"['', '', '', '', '', '', '']","《研討類》
 雙數周上課，每次上課兩小時14-16點","['地方發展與永續農業微學程', '永續管理微學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '企業社會責任學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM609&Crsname=公共事務專題研究,異動,更換教室1/5,False,公事碩,PAM609,2,不分班,"公共事務專題研究
-INDEPENDENT STUDIES IN PUBLIC AFFAIRS",2,期,False,50,1,7,43,蔡宏政,管CM 1023,"['', '', '', '', '', '56', '']","《獨立研究》
+INDEPENDENT STUDIES IN PUBLIC AFFAIRS",2,期,False,50,1,7,43,蔡宏政,,"['', '', '', '', '', '', '']","《獨立研究》
 主題：碳定價與永續發展","['地方創生與區域治理微學程', '地方創生與永續發展整合學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM611&Crsname=城市再生：理論與實踐,,,False,公事碩,PAM611,1,不分班,"城市再生：理論與實踐
-URBAN REGENERATION: THEORY AND PRACTICE",2,期,False,50,0,13,37,游尚儒,管CM 1020,"['', '', '', '', '34', '', '']",《講授類》,[],True
+URBAN REGENERATION: THEORY AND PRACTICE",2,期,False,50,0,13,37,游尚儒,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM612&Crsname=溫室氣體盤查報告實作,,,False,公事碩,PAM612,2,不分班,"溫室氣體盤查報告實作
-WRINING OF GHG INVENTORY REPORT",2,期,False,50,2,40,10,林新沛,,"['', '', '', '', '', '234B', '']",《講授類》,"['永續管理微學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '企業社會責任學程']",False
+WRINING OF GHG INVENTORY REPORT",2,期,False,50,2,40,10,林新沛,,"['', '', '', '', '', '', '']",《講授類》,"['永續管理微學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '企業社會責任學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM614&Crsname=永續消費,異動,更換時間及教室1/23,False,公事碩,PAM614,2,不分班,"永續消費
-SUSTAINABLE CONSUMPTION",3,期,False,50,5,12,38,張瓊婷,管CM 1023,"['', '', '234', '', '', '', '']",《講授類》,[],True
+SUSTAINABLE CONSUMPTION",3,期,False,50,5,12,38,張瓊婷,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM506&Crsname=人力資源研究方法（二）,異動,更換教室1/23,False,人管碩,HRM506,1,不分班,"人力資源研究方法（二）
-RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT (II)",3,期,True,50,0,31,19,"李澄賢,王豫萱,陳旻男",管CM 2023,"['', '', '', '678', '', '', '']","《講授類》
+RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT (II)",3,期,True,50,0,31,19,李澄賢,,"['', '', '', '', '', '', '']","《講授類》
 限人管所碩士班學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM507&Crsname=人力資源管理專案研究,,,False,人管碩,HRM507,1,不分班,"人力資源管理專案研究
-INDEPENDENT STUDIES IN HUMAN RESOURCES MANAGEMNET",3,期,True,50,0,30,20,"陳寶蓮,王豫萱,謝慧賢",管CM 3046,"['', '', '', '', '', '', 'CDE']","《講授類》
+INDEPENDENT STUDIES IN HUMAN RESOURCES MANAGEMNET",3,期,True,50,0,30,20,陳寶蓮,,"['', '', '', '', '', '', '']","《講授類》
 限人管所學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM528&Crsname=組織研究（二）,新增,1/29,False,人管碩,HRM528,0,不分班,"組織研究（二）
-ORGANIZATION STUDIES (Ⅱ)",3,期,False,50,0,2,48,陳以亨,管CM 1036,"['', '234', '', '', '', '', '']",《講授類》,[],False
+ORGANIZATION STUDIES (Ⅱ)",3,期,False,50,0,2,48,陳以亨,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM541&Crsname=組織發展（二）,,,False,人管碩,HRM541,1,不分班,"組織發展（二）
-ORGANIZATION DEVELOPMENT (II)",3,期,False,50,1,19,31,"王豫萱,陳以亨",管CM 1036,"['', '', '', '', '', 'CDE', '']","《講授類》
+ORGANIZATION DEVELOPMENT (II)",3,期,False,50,1,19,31,王豫萱,,"['', '', '', '', '', '', '']","《講授類》
 限人管所學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM544&Crsname=書報討論,異動,更換時間1/18,False,人管碩,HRM544,1,不分班,"書報討論
-SEMINAR IN HUMAN RESOURCE MANAGEMENT",3,期,False,50,1,6,44,王豫萱,,"['', '', '', '', '', '', '']","《研討類》
+SEMINAR IN HUMAN RESOURCE MANAGEMENT",3,期,False,50,1,6,44,王豫萱,管CM 4091,"['', '', '', '', '678', '', '']","《研討類》
 限人管所學生選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM565&Crsname=研發管理,,,False,人管碩,HRM565,1,不分班,"研發管理
-R&D MANAGEMENT",3,期,False,50,0,39,11,陳旻男,,"['', '', '', '', '', '', '']",《講授類》,[],False
+R&D MANAGEMENT",3,期,False,50,0,39,11,陳旻男,管CM 2037,"['', '', '', 'CDE', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM566&Crsname=服務創新,,,False,人管碩,HRM566,1,不分班,"服務創新
-SERVICE INNOVATION",3,期,False,50,0,10,40,陳旻男,,"['', '', '', '', '', '', '']","《講授類》
+SERVICE INNOVATION",3,期,False,50,0,10,40,陳旻男,管CM 4091,"['', '', 'CDE', '', '', '', '']","《講授類》
 限人管所學生選修",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM567&Crsname=企業社會責任,,,False,人管碩,HRM567,0,不分班,"企業社會責任
-CORPORATE SOCIAL RESPONSIBILITY",3,期,False,50,6,12,38,葉致微,,"['', '', '', '', '', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '企業社會責任學程']",False
+CORPORATE SOCIAL RESPONSIBILITY",3,期,False,50,6,12,38,葉致微,管CM 1036,"['', '', '', '', '234', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '企業社會責任學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM592&Crsname=財務管理,,,False,人管碩,HRM592,1,不分班,"財務管理
-FINANCIAL MANAGEMENT",3,期,False,50,2,17,33,陳妮雲,,"['', '', '', '', '', '', '']",《講授類》,[],False
+FINANCIAL MANAGEMENT",3,期,False,50,2,17,33,陳妮雲,管CM 1032,"['', '', '', '', '', '234', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM601&Crsname=人力資源報償管理,,,False,人管碩,HRM601,1,不分班,"人力資源報償管理
-HUMAN RESOUCE COMPENSATION MANAGEMENT",3,期,False,50,2,13,37,任金剛,,"['', '', '', '', '', '', '']",《講授類》,[],False
+HUMAN RESOUCE COMPENSATION MANAGEMENT",3,期,False,50,2,13,37,任金剛,管CM 1037,"['', '', '', 'CDE', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM632&Crsname=產業與人力專題研究,,,False,人管碩,HRM632,1,不分班,"產業與人力專題研究
-SEMINAR IN RELATIONSHIP OF INDUSTRY AND HUMAN RESOURCES",3,期,False,50,0,0,50,陳世哲,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+SEMINAR IN RELATIONSHIP OF INDUSTRY AND HUMAN RESOURCES",3,期,False,50,0,0,50,陳世哲,管CM 3046,"['567', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM656&Crsname=新興科技事業發展策略,,,False,人管碩,HRM656,1,不分班,"新興科技事業發展策略
-STRATEGIC PLANNING FOR TECHNOLOGY-DRIVEN EMERGING BUSINESS",3,期,False,50,2,14,36,陳寶蓮,,"['', '', '', '', '', '', '']",《講授類》,[],False
+STRATEGIC PLANNING FOR TECHNOLOGY-DRIVEN EMERGING BUSINESS",3,期,False,50,2,14,36,陳寶蓮,管CM 1036,"['', '', '', '', '', '567', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM504&Crsname=質性研究方法,,,False,行銷傳播碩,ICM504,0,不分班,"質性研究方法
-QUALITATIVE RESEARCH METHODS",3,期,False,50,1,21,29,蕭蘋,,"['', '', '', '', '', '', '']",《講授類》,[],False
+QUALITATIVE RESEARCH METHODS",3,期,False,50,1,21,29,蕭蘋,管CM 2032,"['', '234', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM519&Crsname=數位行銷,,,False,行銷傳播碩,ICM519,0,不分班,"數位行銷
-DIGITAL MARKETING",3,期,False,50,4,21,29,李雅靖,,"['', '', '', '', '', '', '']",《講授類》,"['行銷管理學程', '機器學習與多媒體技術學程']",False
+DIGITAL MARKETING",3,期,False,50,4,21,29,李雅靖,管CM 4112,"['', '', '234', '', '', '', '']",《講授類》,"['行銷管理學程', '機器學習與多媒體技術學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM526&Crsname=行銷傳播策略,異動,調整名額1/17,False,行銷傳播碩,ICM526,0,不分班,"行銷傳播策略
-MARKETING COMMUNICATIONS STRATEGY",3,期,False,30,4,30,0,鄭安授,,"['', '', '', '', '', '', '']",《講授類》,"['地方創生與區域治理微學程', '行銷管理學程', '地方創生與永續發展整合學程']",False
+MARKETING COMMUNICATIONS STRATEGY",3,期,False,30,4,30,0,鄭安授,管CM 2032,"['', 'CDE', '', '', '', '', '']",《講授類》,"['地方創生與區域治理微學程', '行銷管理學程', '地方創生與永續發展整合學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM534&Crsname=消費者心理與行為學,異動,更換時間1/4,False,行銷傳播碩,ICM534,0,不分班,"消費者心理與行為學
-CONSUMER PSYCHOLOGY AND BEHAVIOR",3,期,False,50,1,44,6,周軒逸,,"['', '', '', '', '', '', '']",《講授類》,['行銷管理學程'],False
+CONSUMER PSYCHOLOGY AND BEHAVIOR",3,期,False,50,1,44,6,周軒逸,管CM 2032,"['678', '', '', '', '', '', '']",《講授類》,['行銷管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM539&Crsname=策略寫作,,,False,行銷傳播碩,ICM539,0,不分班,"策略寫作
-STRATEGIC WRITING",3,期,False,50,2,3,47,鄭安授,,"['', '', '', '', '', '', '']",《講授類》,[],False
+STRATEGIC WRITING",3,期,False,50,2,3,47,鄭安授,管CM 2032,"['', '', '', '678', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM540&Crsname=廣告創意,,,False,行銷傳播碩,ICM540,0,不分班,"廣告創意
-ADVERTISING CREATIVITY",3,期,False,50,2,43,7,張榮華,,"['', '', '', '', '', '', '']",《講授類》,['行銷管理學程'],False
+ADVERTISING CREATIVITY",3,期,False,50,2,43,7,張榮華,管CM 2037,"['CDE', '', '', '', '', '', '']",《講授類》,['行銷管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM545&Crsname=娛樂行銷與媒體,,,False,行銷傳播碩,ICM545,0,不分班,"娛樂行銷與媒體
-ENTERTAINMENT MARKETING AND MEDIA",3,期,False,50,4,23,27,李雅靖,,"['', '', '', '', '', '', '']",《講授類》,"['行銷管理學程', '機器學習與多媒體技術學程']",False
+ENTERTAINMENT MARKETING AND MEDIA",3,期,False,50,4,23,27,李雅靖,管CM 2032,"['', '', '', '', '234', '', '']",《講授類》,"['行銷管理學程', '機器學習與多媒體技術學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM546&Crsname=媒體科技與社會,,,False,行銷傳播碩,ICM546,0,不分班,"媒體科技與社會
-MEDIA TECHNOLOGY AND SOCIETY",3,期,False,50,1,12,38,蕭蘋,,"['', '', '', '', '', '', '']",《講授類》,[],False
+MEDIA TECHNOLOGY AND SOCIETY",3,期,False,50,1,12,38,蕭蘋,管CM 2029,"['', '', '', '234', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM558&Crsname=行銷傳播管理講座（二）,,,False,行銷傳播碩,ICM558,0,不分班,"行銷傳播管理講座（二）
-SEMINAR ON MARKETING COMMUNICATIONS (II)",1,期,False,50,1,47,3,鄭安授,,"['', '', '', '', '', '', '']",《講授類》,[],False
+SEMINAR ON MARKETING COMMUNICATIONS (II)",1,期,False,50,1,47,3,鄭安授,管CM 2037,"['', '', '', '', '', '2', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM561&Crsname=企業傳播與實務,異動,調整名額1/17,False,行銷傳播碩,ICM561,0,不分班,"企業傳播與實務
-CORPORATE COMMUNICATION AND PRACTICE",1,期,False,10,0,1,9,王紹蓉,,"['', '', '', '', '', '', '']","《講授類》
+CORPORATE COMMUNICATION AND PRACTICE",1,期,False,10,0,1,9,王紹蓉,管CM 2032,"['', '', '', '', '6', '', '']","《講授類》
 限行傳所碩士班學生選修",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM642&Crsname=服務業行銷專題研究,異動,更換時間1/4,False,行銷傳播碩,ICM642,0,不分班,"服務業行銷專題研究
-INDEPENDENT STUDIES IN SERVICE MARKETING",3,期,False,50,0,3,47,周軒逸,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SERVICE MARKETING",3,期,False,50,0,3,47,周軒逸,管CM 2032,"['', '678', '', '', '', '', '']","《獨立研究》
 限行傳所碩士班二年級以上學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM643&Crsname=社群網路產業專題研究,,,False,行銷傳播碩,ICM643,0,不分班,"社群網路產業專題研究
-INDEPENDENT STUDIES IN WEB 2.0 INDUSTRY",3,期,False,50,0,2,48,王紹蓉,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN WEB 2.0 INDUSTRY",3,期,False,50,0,2,48,王紹蓉,管CM 2032,"['', '', '', '234', '', '', '']","《獨立研究》
 限行傳所碩士班二年級以上學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM646&Crsname=全球化媒體專題研究,,,False,行銷傳播碩,ICM646,0,不分班,"全球化媒體專題研究
 INDEPENDENT STUDIES IN MEDIA GLOBALIZATION",3,期,False,50,5,1,49,王紹蓉,管CM 2032,"['', '', '', '', '', 'CDE', '']","《獨立研究》
@@ -4945,52 +4945,52 @@ TEACHING PRACTICE",1,期,True,50,0,0,50,李幸慧,海生館第二研究大樓R 2
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR533&Crsname=分子檢測技術特論,,,False,海資碩,MBR533,1,不分班,"分子檢測技術特論
 SPECIAL TOPICS IN MOLECULAR DIAGNOSTIC TECHNIQUES",3,期,False,50,0,1,49,"李景欽,廖睿妘",海MB 2009,"['', '', '567', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR534&Crsname=生物科技特論,,,False,海資碩,MBR534,1,不分班,"生物科技特論
-SPECIAL TOPICS IN BIOTECHNOLOGY",3,期,False,50,0,1,49,"李景欽,廖睿妘",海MB 1009,"['', '567', '', '', '', '', '']",《講授類》,['生物技術微學程'],False
+SPECIAL TOPICS IN BIOTECHNOLOGY",3,期,False,50,0,1,49,李景欽,,"['', '', '', '', '', '', '']",《講授類》,['生物技術微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR540&Crsname=天然物化學（二）,,,False,海資碩,MBR540,1,不分班,"天然物化學（二）
-NATURAL PRODUCT CHEMISTRY(II)",3,期,False,50,0,0,50,鄭源斌,海MB 3013,"['', '', '34', '2', '', '', '']",《講授類》,[],False
+NATURAL PRODUCT CHEMISTRY(II)",3,期,False,50,0,0,50,鄭源斌,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR543&Crsname=天然葯物化學,,,False,海資碩,MBR543,1,不分班,"天然葯物化學
-MEDICINAL CHEMISTRY OF NATURE PRODUCTS",2,期,False,50,0,3,47,吳永昌,海MB 2016,"['', '', '', '', '78', '', '']",《講授類》,[],False
+MEDICINAL CHEMISTRY OF NATURE PRODUCTS",2,期,False,50,0,3,47,吳永昌,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR546&Crsname=海上實習,,,False,海資碩,MBR546,1,不分班,"海上實習
-OCEANOGRAPHY CRUISE PRACTICE",1,期,False,50,0,1,49,廖志中,海MB 2009,"['', '89', '', '', '', '', '']","《講授類》
+OCEANOGRAPHY CRUISE PRACTICE",1,期,False,50,0,1,49,廖志中,,"['', '', '', '', '', '', '']","《講授類》
 修課學生須取得海科院舉辦之水域活動安全與自救訓練講習證明，始能參與水域活動(含上實習航次)",['環境教育學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR551&Crsname=海洋生物技術專研（二）,,,False,海資碩,MBR551,1,不分班,"海洋生物技術專研（二）
-INDEPENDENT STUDIES IN MARINE BIOTECHNOLOGY (II)",2,期,False,50,0,9,41,"王亮鈞,李景欽,李澤民,溫志宏",,"['', '', 'CD', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN MARINE BIOTECHNOLOGY (II)",2,期,False,50,0,9,41,王亮鈞,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR554&Crsname=海洋動物演化學,,,False,海資碩,MBR554,1,不分班,"海洋動物演化學
-MARINE ANIMAL EVOLUTION",3,期,False,50,0,5,45,林梅芳,海MB 1005,"['', '', '', '234', '', '', '']",《講授類》,[],True
+MARINE ANIMAL EVOLUTION",3,期,False,50,0,5,45,林梅芳,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR556&Crsname=海洋總體基因體學,,,False,海資碩,MBR556,1,不分班,"海洋總體基因體學
-MARINE METAGENOMICS",2,期,False,50,0,5,45,"林梅芳,劉勃佑",海MB 1005,"['', '', '34', '', '', '', '']",《講授類》,[],True
+MARINE METAGENOMICS",2,期,False,50,0,5,45,林梅芳,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR557&Crsname=藥物開發特論,,,False,海資碩,MBR557,1,不分班,"藥物開發特論
-SPECIAL TOPICS IN DRUG DISCOVERY",2,期,False,50,0,2,48,翁靖如,海MB 1005,"['', '', '', '56', '', '', '']",《講授類》,[],False
+SPECIAL TOPICS IN DRUG DISCOVERY",2,期,False,50,0,2,48,翁靖如,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR559&Crsname=水生生態專題研究（二）,,,False,海資碩,MBR559,1,不分班,"水生生態專題研究（二）
-INDEPENDENT STUDIES IN AQUATIC ECOLOGY (II)",2,期,False,50,0,5,45,"林梅芳,劉商隱,林秀瑾",,"['', '', 'CD', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN AQUATIC ECOLOGY (II)",2,期,False,50,0,5,45,林梅芳,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR574&Crsname=海洋分子生態學,,,False,海資碩,MBR574,1,不分班,"海洋分子生態學
-MARINE MOLECULAR ECOLOGY",3,期,False,50,0,11,39,"林秀瑾,塗子萱,林梅芳",海MB 3013,"['', '', '', '', '234', '', '']","《講授類》
+MARINE MOLECULAR ECOLOGY",3,期,False,50,0,11,39,林秀瑾,,"['', '', '', '', '', '', '']","《講授類》
  
 ※英語授課",['海洋生物資源開發學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR577&Crsname=海洋化學生物學專題研究（二）,,,False,海資碩,MBR577,1,不分班,"海洋化學生物學專題研究（二）
-INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (II)",2,期,False,50,0,7,43,"鄭源斌,廖志中,翁靖如",,"['', '', 'CD', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (II)",2,期,False,50,0,7,43,鄭源斌,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR578&Crsname=海洋化學生物學專題研究（四）,,,False,海資碩,MBR578,2,不分班,"海洋化學生物學專題研究（四）
-INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (IV)",2,期,False,50,0,4,46,"鄭源斌,廖志中,翁靖如",,"['', '', '', '', 'CD', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (IV)",2,期,False,50,0,4,46,鄭源斌,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR593&Crsname=海洋生物多樣性與保育（二）,,,True,海資碩,MBR593,1,不分班,"海洋生物多樣性與保育（二）
-MARINE BIODIVERSITY AND CONSERVATION （2）",2,期,True,50,0,6,44,"劉商隱,林秀瑾",海MB 2009,"['', '34', '', '', '', '', '']",《講授類》,[],True
+MARINE BIODIVERSITY AND CONSERVATION （2）",2,期,True,50,0,6,44,劉商隱,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR593A&Crsname=海洋生物多樣性與保育（二）,,,True,海資碩,MBR593A,1,不分班,"海洋生物多樣性與保育（二）
-MARINE BIODIVERSITY AND CONSERVATION （2）",2,期,True,50,0,1,49,李欣,海生館第二研究大樓R 2002,"['', '34', '', '', '', '', '']","《講授類》
+MARINE BIODIVERSITY AND CONSERVATION （2）",2,期,True,50,0,1,49,李欣,,"['', '', '', '', '', '', '']","《講授類》
 請注意上課地點在海生館。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR594&Crsname=分子標靶與天然物開發,,,False,海資碩,MBR594,1,不分班,"分子標靶與天然物開發
-MOLECULAR TARGETS AND NATURAL PRODUCTS DEVELOPMENT",2,期,False,50,0,7,43,翁靖如,海MB 1009,"['', '', '', '', '56', '', '']",《講授類》,['天然藥物合成學程'],False
+MOLECULAR TARGETS AND NATURAL PRODUCTS DEVELOPMENT",2,期,False,50,0,7,43,翁靖如,,"['', '', '', '', '', '', '']",《講授類》,['天然藥物合成學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR598&Crsname=海洋天然物與化學分析（二）,,,True,海資碩,MBR598,1,不分班,"海洋天然物與化學分析（二）
-MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS II",2,期,True,50,0,5,45,"廖志中,鄭源斌",海MB 2016,"['', '', '', '', '34', '', '']",《講授類》,[],True
+MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS II",2,期,True,50,0,5,45,廖志中,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR598A&Crsname=海洋天然物與化學分析（二）,,,True,海資碩,MBR598A,1,不分班,"海洋天然物與化學分析（二）
-MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS II",2,期,False,50,0,3,47,"宋秉鈞,蘇瑞欣",海生館第二研究大樓R 2002,"['', '', '', '', '34', '', '']","《講授類》
+MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS II",2,期,False,50,0,3,47,宋秉鈞,,"['', '', '', '', '', '', '']","《講授類》
 請注意上課地點在海生館。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR602&Crsname=海洋生物科技專題研討（四）,,,False,海資碩,MBR602,2,不分班,"海洋生物科技專題研討（四）
-SEMINAR IN MARINE BIOTECHNOLOGY (IV)",2,期,False,50,0,3,47,李景欽,海MB 2015,"['67', '', '', '', '', '', '']","《研討類》
+SEMINAR IN MARINE BIOTECHNOLOGY (IV)",2,期,False,50,0,3,47,李景欽,,"['', '', '', '', '', '', '']","《研討類》
 碩博士班MBR502 & MBR602 & MBR702 & MBR802併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR604&Crsname=海洋生態專題研討（四）,,,False,海資碩,MBR604,2,不分班,"海洋生態專題研討（四）
-SEMINAR IN MARINE ECOLOGY (IV)",2,期,False,50,0,3,47,劉商隱,海MB 1005,"['67', '', '', '', '', '', '']","《研討類》
+SEMINAR IN MARINE ECOLOGY (IV)",2,期,False,50,0,3,47,劉商隱,,"['', '', '', '', '', '', '']","《研討類》
 碩博士班MBR504 & MBR604 & MBR704 & MBR804併班上課。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR608&Crsname=海洋化學資源專題研討（四）,,,False,海資碩,MBR608,2,不分班,"海洋化學資源專題研討（四）
-SEMINAR IN MARINE CHEMICAL RESOURCES (IV)",2,期,False,50,0,1,49,翁靖如,海MB 2014,"['67', '', '', '', '', '', '']","《研討類》
+SEMINAR IN MARINE CHEMICAL RESOURCES (IV)",2,期,False,50,0,1,49,翁靖如,,"['', '', '', '', '', '', '']","《研討類》
 碩博士班MBR508 & MBR608 & MBR708 & MBR808併班上課。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MBR608A&Crsname=海洋化學資源專題研討（四）,,,False,海資碩,MBR608A,2,不分班,"海洋化學資源專題研討（四）
 SEMINAR IN MARINE CHEMICAL RESOURCES (IV)",2,期,False,50,0,5,45,"宋秉鈞,蘇瑞欣",海生館第二研究大樓R 2002,"['67', '', '', '', '', '', '']","《研討類》
@@ -6425,49 +6425,49 @@ SEMINAR (II)",1,期,True,15,0,13,2,"張玉泉,莊博凱",國IR 5005,"['5', '', '
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBMS804&Crsname=書報討論（四）,,,False,生醫博,IBMS804,2,不分班,"書報討論（四）
 SEMINAR (IV)",1,期,True,20,0,10,10,"許晉銓,戴明泓",國IR 5005,"['6', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBMS806&Crsname=生物醫學專題研究（二）,異動,調升名額2/16,False,生醫博,IBMS806,2,不分班,"生物醫學專題研究（二）
-INDEPENDENT STUDIES IN BIOMEDICAL RESEARCH(II)",3,期,True,20,1,10,10,鄭光宏,,"['', '', '', '', '', '', '']",《獨立研究》,[],True
+INDEPENDENT STUDIES IN BIOMEDICAL RESEARCH(II)",3,期,True,20,1,10,10,"鄭光宏,張玉泉,薛佑玲,許晉銓",國IR 4005,"['', '', '', '', '', '234', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMST702&Crsname=書報討論（二）,,,False,醫科博,IMST702,1,不分班,"書報討論（二）
-SEMINAR (II)",1,期,True,50,0,7,43,范秀芳,,"['', '', '', '', '', '', '']",《研討類》,[],False
+SEMINAR (II)",1,期,True,50,0,7,43,范秀芳,國IR 5002,"['', '', 'B', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMST704&Crsname=書報討論（四）,,,False,醫科博,IMST704,2,不分班,"書報討論（四）
-SEMINAR (IV)",1,期,True,50,0,5,45,范秀芳,,"['', '', '', '', '', '', '']",《研討類》,[],False
+SEMINAR (IV)",1,期,True,50,0,5,45,范秀芳,國IR 5002,"['', '', '5', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DCEM702&Crsname=書報討論（二）,異動,更換時間1/26,False,臨床醫博學程,DCEM702,1,不分班,"書報討論（二）
-SEMINAR（II）",1,期,True,50,0,7,43,楊仁豪,,"['', '', '', '', '', '', '']",《講授類》,[],False
+SEMINAR（II）",1,期,True,50,0,7,43,楊仁豪,國IR 5003,"['', '', '5', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DCEM704&Crsname=書報討論（四）,異動,確認教師及時間1/26,False,臨床醫博學程,DCEM704,2,不分班,"書報討論（四）
-SEMINAR（IV）",1,期,True,50,0,6,44,簡志彥,,"['', '', '', '', '', '', '']",《講授類》,[],False
+SEMINAR（IV）",1,期,True,50,0,6,44,簡志彥,國IR 5004,"['', '', '5', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DCEM707&Crsname=專題研究（二）,異動,確認教師1/26,False,臨床醫博學程,DCEM707,2,不分班,"專題研究（二）
-INDEPENDENT STUDIES（II）",3,期,True,50,0,5,45,簡志彥,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES（II）",3,期,True,50,0,5,45,"簡志彥,楊仁豪",國IR 5004,"['', '', 'CDE', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DCEM708&Crsname=臨床試驗概論,異動,更換時間及教師1/26,False,臨床醫博學程,DCEM708,1,不分班,"臨床試驗概論
-INTRODUCTION OF CLINICAL TRIALS",2,期,True,35,0,10,25,余明隆,,"['', '', '', '', '', '', '']",《講授類》,[],False
+INTRODUCTION OF CLINICAL TRIALS",2,期,True,35,0,10,25,"余明隆,蔡文展,趙敏吾,鄭雅勻,陳彥旭,陳德全",國IR 5001,"['', '', '67', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DCEM717&Crsname=細胞藥物運送與治療,,,False,臨床醫博學程,DCEM717,0,不分班,"細胞藥物運送與治療
-DRUG DELIVERY AND THERAPEUTIC EFFECT",3,期,False,50,0,0,50,楊仁豪,,"['', '', '', '', '', '', '']",《講授類》,[],True
+DRUG DELIVERY AND THERAPEUTIC EFFECT",3,期,False,50,0,0,50,楊仁豪,國IR 5003,"['', '678', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DCEM718&Crsname=論文寫作,,,False,臨床醫博學程,DCEM718,0,不分班,"論文寫作
-DISSERTATION WRITING",3,期,False,50,0,2,48,楊仁豪,,"['', '', '', '', '', '', '']",《講授類》,[],False
+DISSERTATION WRITING",3,期,False,50,0,2,48,楊仁豪,國IR 5003,"['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS119&Crsname=基礎物理數學,,,False,物理系,PHYS119,1,全英班,"基礎物理數學
-MATHEMATICS FOR FUNDAMENTAL PHYSICS",3,期,False,50,2,9,41,杜立偉,,"['', '', '', '', '', '', '']",《講授類》,[],False
+MATHEMATICS FOR FUNDAMENTAL PHYSICS",3,期,False,50,2,9,41,杜立偉,理PH 1008,"['', '', '', '567', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS120&Crsname=物理發展史,,,False,物理系,PHYS120,1,全英班,"物理發展史
-HISTORY OF PHYSICS",3,期,False,30,18,30,0,邱奎霖,,"['', '', '', '', '', '', '']","《講授類》
+HISTORY OF PHYSICS",3,期,False,30,18,30,0,邱奎霖,理SC 1005,"['', '567', '', '', '', '', '']","《講授類》
 物理系學生優先選課，與跨院選修GEAI1225 課程併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS122&Crsname=生活實用物理,,,False,物理系,PHYS122,1,全英班,"生活實用物理
-PRACTICAL PHYSICS IN DAILY LIFE",2,期,False,50,0,6,44,嚴祖強,,"['', '', '', '', '', '', '']",《講授類》,[],False
+PRACTICAL PHYSICS IN DAILY LIFE",2,期,False,50,0,6,44,嚴祖強,理SC 2006,"['CD', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS202&Crsname=應用數學（二）,異動,修正備註說明12/29,False,物理系,PHYS202,2,全英班,"應用數學（二）
-APPLIED MATHEMATICS (II)",3,期,True,50,0,38,12,陳宗緯,,"['', '', '', '', '', '', '']","《講授類》
+APPLIED MATHEMATICS (II)",3,期,True,50,0,38,12,陳宗緯,理PH 1008,"['', '', '6', '34', '', '', '']","《講授類》
 此為一般組必修，另提供全英班學生做為選修課程。","['半導體製程模組學程', '半導體元件學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS204&Crsname=力學（二）,異動,修正備註說明12/29,False,物理系,PHYS204,2,全英班,"力學（二）
-MACHANICS(II)",3,期,True,50,0,34,16,陳龍銘,,"['', '', '', '', '', '', '']","《講授類》
+MACHANICS(II)",3,期,True,50,0,34,16,陳龍銘,理PH 1008,"['234', '', '', '', '', '', '']","《講授類》
 此為一般組必修，另提供全英班學生做為選修課程。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS213&Crsname=科技專題演講（一）,,,False,物理系,PHYS213,2,全英班,"科技專題演講（一）
-COLLOQUIUM ON SCIENCE AND TECHNOLOGY (I)",1,期,False,50,2,19,31,朱家誼,,"['', '', '', '', '', '', '']",《演講/參訪》,[],False
+COLLOQUIUM ON SCIENCE AND TECHNOLOGY (I)",1,期,False,50,2,19,31,朱家誼,理PH 2006,"['', '', '', '5', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS214&Crsname=近代物理,,,False,物理系,PHYS214,2,全英班,"近代物理
-MODERN PHYSICS",3,期,False,50,0,10,40,張鼎張,,"['', '', '', '', '', '', '']",《講授類》,['半導體製程模組學程'],False
+MODERN PHYSICS",3,期,False,50,0,10,40,張鼎張,理PH 2006,"['', '', '', '', '234', '', '']",《講授類》,['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHYS328&Crsname=電動力學導論,異動,修正備註說明12/29,False,物理系,PHYS328,2,全英班,"電動力學導論
-INTRODUCTION TO ELECTRODYNAMICS",3,期,True,50,1,50,0,黃信銘,,"['', '', '', '', '', '', '']","《講授類》
+INTRODUCTION TO ELECTRODYNAMICS",3,期,True,50,1,50,0,黃信銘,理PH 1008,"['67', '', '3', '', '', '', '']","《講授類》
 此為一般組必修，另提供全英班學生做為選修課程。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS206&Crsname=商事法,,,True,資管系,MIS206,2,,"商事法
-BUSINESS LAW",2,期,True,50,1,47,3,薛西全,,"['', '', '', '', '', '', '']",《講授類》,[],False
+BUSINESS LAW",2,期,True,50,1,47,3,薛西全,管CM 4078,"['', '', '', 'CD', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS206&Crsname=商事法,,,True,資管系,MIS206,2,,"商事法
-BUSINESS LAW",2,期,True,50,1,47,3,薛西全,,"['', '', '', '', '', '', '']",《講授類》,[],False
+BUSINESS LAW",2,期,True,50,1,47,3,薛西全,管CM 4078,"['', '', '', 'CD', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS206&Crsname=商事法,,,True,資管系,MIS206,2,,"商事法
-BUSINESS LAW",2,期,True,50,1,47,3,薛西全,,"['', '', '', '', '', '', '']",《講授類》,[],False
+BUSINESS LAW",2,期,True,50,1,47,3,薛西全,管CM 4078,"['', '', '', 'CD', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM312&Crsname=管理會計,,,False,財管系,FM312,3,,"管理會計
 MANAGERIAL ACCOUNTING",3,期,False,50,1,26,24,陳俐聿,管CM 2025,"['', '', '', '234', '', '', '']","《講授類》
  
