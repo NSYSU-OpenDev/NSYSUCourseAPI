@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE855&Crsname=多媒體學習,異動,確認教師1/15,False,教育博,IOE855,0,不分班,"多媒體學習
+MULTIMEDIA LEARNING",3,期,False,50,0,0,50,陳菁徽,"四2,3,4(社SS 2002-1)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE856&Crsname=弱勢年輕成人,,,False,教育博,IOE856,0,不分班,"弱勢年輕成人
+MARGINALIZATION IN EMERGING AND YOUNG ADULTHOOD",3,期,False,50,0,0,50,陳威霖,"四5,6,7(社SS 2002-1)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CAPS775&Crsname=美日關係與軍事同盟,,,False,亞太博,CAPS775,2,不分班,"美日關係與軍事同盟
+US-JAPAN RELATIONS AND MILITARY ALLIANCE",3,期,False,50,0,1,49,郭育仁,"一5,6,7(社SS 2008)","['567', '', '', '', '', '', '']",《講授類》,['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CAPS776&Crsname=亞太國家憲政發展,,,True,亞太博,CAPS776,1,不分班,"亞太國家憲政發展
+CONSTITUTIONAL DEVELOPMENT OF ASIA-PACIFIC COUNTRIES",3,期,True,50,0,11,39,黎寶文,"一2,3,4(社SS 2011)","['234', '', '', '', '', '', '']",《講授類》,['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CAPS803&Crsname=社會國,,,False,亞太博,CAPS803,2,不分班,"社會國
+SOCIAL STATE",3,期,False,50,0,3,47,張道義,"六5,6,7(社SS 2009-1)","['', '', '', '', '', '567', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CAPS857&Crsname=亞太地區公民社會發展之比較研究,,,False,亞太博,CAPS857,2,不分班,"亞太地區公民社會發展之比較研究
+COMPARATIVE STUDY ON THE DEVELOPMENT OF CIVIL SOCIETY OF ASIA PACIFIC",3,期,False,50,1,8,42,林德昌,"二2,3,4(社SS 4001)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CAPS870&Crsname=國際關係理論,,,True,亞太博,CAPS870,1,不分班,"國際關係理論
+THEORIES OF INTERNATIONAL RELATIONS",3,期,True,50,0,6,44,郭育仁,"二C,D,E(社SS 2008)","['', 'CDE', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CAPS873&Crsname=亞太政經發展理論,,,True,亞太博,CAPS873,1,不分班,"亞太政經發展理論
+THE THEORIES OF POLITICAL ECONOMIC DEVELOPMENT IN ASIA-PACIFIC",3,期,True,50,0,5,45,蔡書瑋,"二2,3,4(社SS 2007)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE707&Crsname=比較教育研究,,,False,教人全英博,IGPE707,0,不分班,"比較教育研究
+STUDIES IN COMPARATIVE EDUCATION",3,期,False,15,0,2,13,紀博善,"二6,7,8(社SS 2004-3)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE715&Crsname=對外英語教學,,,False,教人全英博,IGPE715,0,不分班,"對外英語教學
+TEACHING ENGLISH TO SPEAKERS OF OTHER LANGUAGES",3,期,False,30,0,0,30,紀博善,"二2,3,4(社SS 2004-3)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE717&Crsname=多媒體學習,新增,1/16,False,教人全英博,IGPE717,0,不分班,"多媒體學習
+MULTIMEDIA LEARNING",3,期,False,50,0,1,49,陳菁徽,"四2,3,4(社SS 2002-1)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE726&Crsname=質性資料分析,異動,更換教室1/15,False,教人全英博,IGPE726,0,不分班,"質性資料分析
+ANALYSIS IN QUALITATIVE RESEARCH",3,期,False,20,0,2,18,紀博善,"一5,6,7(社SS 2002-1)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE731&Crsname=多變量分析,,,False,教人全英博,IGPE731,0,不分班,"多變量分析
+MULTIVARIATE ANALYSIS",3,期,False,30,0,2,28,艾玲,"四2,3,4(社SS 3006)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課",['政經大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE743&Crsname=質與量的混合研究法,,,False,教人全英博,IGPE743,0,不分班,"質與量的混合研究法
+MIXED-METHODS RESEARCH",3,期,False,30,0,1,29,艾玲,"四5,6,7(社SS 2004-3)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE762&Crsname=青少年心理與輔導研究,異動,更換教室2/19,False,教人全英博,IGPE762,0,不分班,"青少年心理與輔導研究
+RESEARCH ON ADOLESCENT PSYCHOLOGY AND GUIDANCE",3,期,False,20,0,1,19,宋宥賢,"二2,3,4(社SS 2002-1)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE763&Crsname=數位媒體素養與教育研究,異動,更換時間1/10,False,教人全英博,IGPE763,0,不分班,"數位媒體素養與教育研究
+STUDIES IN DIGITAL LITERACIES IN EDUCATION",3,期,False,20,0,0,20,張宇慧,"一3,4,B(社SS 3006)","['34B', '', '', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE765&Crsname=全球教育領導,,,False,教人全英博,IGPE765,0,不分班,"全球教育領導
+LEADERSHIP IN GLOBAL EDUCATION",3,期,False,50,0,1,49,艾玲,"三C,D,E(社SS 2006)","['', '', 'CDE', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE766&Crsname=公正轉型課程實踐研究,異動,增加合授教師2/17,False,教人全英博,IGPE766,0,不分班,"公正轉型課程實踐研究
+STUDIES IN PRACTICE OF JUST TRANSITION CURRICULUM",3,期,False,20,0,1,19,"莊雪華,紀博善","三5,6,B(社SS 2006)","['', '', 'B56', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBMS704&Crsname=書報討論（二）,,,False,生醫博,IBMS704,1,不分班,"書報討論（二）
+SEMINAR (II)",1,期,True,15,0,13,2,"張玉泉,莊博凱",一5(國IR 5005),"['5', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBMS804&Crsname=書報討論（四）,,,False,生醫博,IBMS804,2,不分班,"書報討論（四）
+SEMINAR (IV)",1,期,True,20,0,10,10,"許晉銓,戴明泓",一6(國IR 5005),"['6', '', '', '', '', '', '']",《講授類》,[],True
