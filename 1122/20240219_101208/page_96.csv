@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV596&Crsname=海事工程風險分析及管理,,,False,海工碩,MAEV596,1,不分班,"海事工程風險分析及管理
+RISK ANALYSIS AND MANAGEMENT FOR OFFSHORE ENGINEERING",3,期,False,50,1,15,35,柯宗廷,"二2,3,4(海ME 2001)","['', '234', '', '', '', '', '']",《講授類》,"['永續能源學程', '環境教育學程', '海事工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV602&Crsname=海洋環境書報討論（四）,異動,確認教師2/5,False,海工碩,MAEV602,2,不分班,"海洋環境書報討論（四）
+SEMINAR IN MARINE ENVIRONMENT (IV)",2,期,False,50,0,11,39,鍾秉宸,"四6,7()","['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV611&Crsname=應用有限元素法,,,False,海工碩,MAEV611,2,不分班,"應用有限元素法
+APPLIED FINITE ELEMENT METHOD",3,期,False,50,0,3,47,李賢華,"五2,3,4(海ME 3005)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV628&Crsname=紊流學,,,False,海工碩,MAEV628,1,不分班,"紊流學
+TURBULENCE",3,期,False,50,0,3,47,歐雅森,"二6,7,8(海ME 3005)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV633&Crsname=海面實際波浪現象專研,,,False,海工碩,MAEV633,2,不分班,"海面實際波浪現象專研
+INDEPENDENT STUDIES IN FILED OCEAN WAVES",2,期,False,50,0,0,50,伊格爾‧修兒干,"二5,B()","['', 'B5', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV634&Crsname=波與孔隙物作用專研（二）,,,False,海工碩,MAEV634,2,不分班,"波與孔隙物作用專研（二）
+IND. ST. IN WAVE-POROUS STRUCTURE INTERACTION (II)",2,期,False,50,0,1,49,許弘莒,"一C,D()","['CD', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV645&Crsname=海洋結構破壞檢析專研,,,False,海工碩,MAEV645,2,不分班,"海洋結構破壞檢析專研
+IND. ST. IN DAMAGE ASSESSMENT OF MARINE STRUCTURE",2,期,False,50,0,1,49,李賢華,"四C,D()","['', '', '', 'CD', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV663&Crsname=機器學習於海洋環境管理之應用,,,False,海工碩,MAEV663,1,不分班,"機器學習於海洋環境管理之應用
+APPLIED MACHINE LEARNING FOR MARINE ENVIRONMENTAL MANAGEMENT",3,期,False,50,0,9,41,夏沛亞,"五2,3,4(海ME 2002)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV680&Crsname=波流交會作用專題研究,,,False,海工碩,MAEV680,2,不分班,"波流交會作用專題研究
+INDEPENDENT STUDIES IN WAVE-CURRENTS INTERACTION",2,期,False,50,0,0,50,陳陽益,"一5,B()","['B5', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MA501&Crsname=專題討論,,,False,海事碩,MA501,1,不分班,"專題討論
+SEMINAR",1,期,True,50,0,7,43,張懿,"二3,4(海MA 2034)","['', '34', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MA505&Crsname=社會科學研究方法,,,False,海事碩,MA505,0,不分班,"社會科學研究方法
+RESEARCH METHODS IN SOCIAL SCIENCE",3,期,False,50,0,3,47,蔡宏政,"三5,6,7(海MA 2034)","['', '', '567', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MA506&Crsname=論文研究,,,False,海事碩,MA506,2,不分班,"論文研究
+THESIS RESEARCH",2,期,True,50,0,7,43,"蔡宏政,張懿,高世明","五C,D(海MA 2034)","['', '', '', '', 'CD', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MA562&Crsname=海洋與環境政策,,,False,海事碩,MA562,0,不分班,"海洋與環境政策
+OCEAN AND ENVIRONMENTAL POLICY",3,期,False,50,2,8,42,高世明,"三2,3,4(海MA 2034)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MA582&Crsname=國際法,,,False,海事碩,MA582,0,不分班,"國際法
+INTERNATIONAL LAW",3,期,False,50,1,0,50,胡念祖,"一7,8,9(海MA 2034)","['789', '', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MA583&Crsname=海洋法,,,False,海事碩,MA583,0,不分班,"海洋法
+LAW OF THE SEA",3,期,False,50,0,1,49,高世明,"二D,E,F(海MA 2034)","['', 'DEF', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MA586&Crsname=漁業法規,,,False,海事碩,MA586,0,不分班,"漁業法規
+LAWS AND REGULATIONS OF FISHERIES",3,期,False,50,0,3,47,黃明和,"五6,7,8(海MA 2034)","['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MA611&Crsname=水下文化遺產保存、保護與管理,,,False,海事碩,MA611,0,不分班,"水下文化遺產保存、保護與管理
+PRESERVATION, PROTECTION AND MANAGEMENT OF UNDERWATER CULTURAL HERITAGE",3,期,False,50,0,3,47,吳培福,"四C,D,E(海MA 2034)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MA619&Crsname=海洋保護區：規劃與執行,,,False,海事碩,MA619,0,不分班,"海洋保護區：規劃與執行
+MARINE PROTECTED AREA: PLANNING AND IMPLEMENTING",3,期,False,50,0,1,49,張水鍇,"四7,8,9(海MA 2034)","['', '', '', '789', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MA627&Crsname=島嶼原住民傳統知識與氣候變遷調適,,,False,海事碩,MA627,0,不分班,"島嶼原住民傳統知識與氣候變遷調適
+ISLANDER TRADITIONAL KNOWLEDGE AND CLIMATE CHANGE ADAPTATION",3,期,False,50,0,1,49,劉子銘,"一5,6,B(海MA 2034)","['B56', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MA628&Crsname=海洋政策與資源之經濟分析,,,False,海事碩,MA628,0,不分班,"海洋政策與資源之經濟分析
+ECONOMIC ANALYSIS FOR MARINE POLICY AND NATURAL RESOURCE",3,期,False,50,0,1,49,劉子銘,"二8,9,C(海MA 2034)","['', '89C', '', '', '', '', '']",《講授類》,[],True

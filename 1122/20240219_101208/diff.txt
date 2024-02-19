@@ -1,0 +1,8 @@
+Item root[242] removed from iterable.
+Item root[419] removed from iterable.
+Type of root[2125]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2125]['changeDescription'] changed from NoneType to str and value changed from None to "取消合授教師2/19".
+Value of root[1355]['selected'] changed from 36 to 35.
+Value of root[1355]['remaining'] changed from 14 to 15.
+Value of root[2356]['selected'] changed from 5 to 4.
+Value of root[2356]['remaining'] changed from 45 to 46.
