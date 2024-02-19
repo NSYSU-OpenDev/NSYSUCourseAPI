@@ -1,0 +1,55 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM221A&Crsname=統計學實習（二）,,,False,企管系,BM221A,2,乙班,"統計學實習（二）
+EXERCISE FOR STATISTICS (II)",1,期,False,50,0,38,12,林晉禾,"四8,9(管CM 1037)(實驗)","['', '', '', '89', '', '', '']",《實習類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM225A&Crsname=醫務管理概論,異動,更換教室1/4,False,企管系,BM225A,2,不分班,"醫務管理概論
+INTRODUCTION TO HEALTH CARE MANAGEMENT",3,期,False,50,3,50,0,黃俊智,"五2,3,4(管CM 3017)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM301&Crsname=財務管理,,,False,企管系,BM301,3,甲班,"財務管理
+FINANCIAL MANAGEMENT",3,期,True,50,0,48,2,陳安琳,"一2,3,4(管CM 4112)","['234', '', '', '', '', '', '']","《講授類》
+限企管系甲班(含雙主修、輔系)","['金融工程學程', '金融工程學程', '會計學程', '科技創新與服務業管理學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM301A&Crsname=財務管理,,,False,企管系,BM301A,3,乙班,"財務管理
+FINANCIAL MANAGEMENT",3,期,True,50,0,44,6,陳安琳,"二2,3,4(管CM 4112)","['', '234', '', '', '', '', '']","《講授類》
+限企管系乙班(含雙主修、輔系)","['金融工程學程', '金融工程學程', '會計學程', '科技創新與服務業管理學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM327&Crsname=商用英文（二）,,,False,企管系,BM327,3,不分班,"商用英文（二）
+ENGLISH FOR BUSINESS (II)",3,期,False,50,0,10,40,楊景淳,"三5,6,7(管CM 3017)","['', '', '567', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM328&Crsname=商事法,,,False,企管系,BM328,3,甲班,"商事法
+BUSINESS LAW",3,期,True,50,1,50,0,李清潭,"二2,3,4(管CM 3015)","['', '234', '', '', '', '', '']","《講授類》
+限企管系甲班(含雙主修、輔系)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM328A&Crsname=商事法,,,False,企管系,BM328A,3,乙班,"商事法
+BUSINESS LAW",3,期,True,55,1,39,16,盧憶,"四5,6,7(管CM 1032)","['', '', '', '567', '', '', '']","《講授類》
+限企管系乙班(含雙主修、輔系)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM335&Crsname=會計實務,,,False,企管系,BM335,4,不分班,"會計實務
+ACCOUNTING PRACTICE",3,期,False,50,1,16,34,陳昭誠,"三C,D,E(管CM 3017)","['', '', 'CDE', '', '', '', '']",《講授類》,['會計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM347&Crsname=中級會計學（二）,,,False,企管系,BM347,3,不分班,"中級會計學（二）
+INTERMEDIATE ACCOUNTING(II)",3,期,False,50,0,23,27,王萬成,"三5,6,7(管CM 3035)","['', '', '567', '', '', '', '']",《講授類》,['會計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM356&Crsname=人力資源專題研討（一）,異動,更換教室2/19,True,企管系,BM356,3,甲班,"人力資源專題研討（一）
+SEMINAR IN HUMAN RESOURCES MANAGEMENT （I）",2,期,True,50,1,18,32,施欣宜,"二8,9(管CM 1032)","['', '89', '', '', '', '', '']","《研討類》
+限企管系(含雙主修、輔系)；併班上課",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM356A&Crsname=人力資源專題研討（一）,,,True,企管系,BM356A,3,乙班,"人力資源專題研討（一）
+SEMINAR IN HUMAN RESOURCES MANAGEMENT （I）",2,期,True,50,0,12,38,蔡宗霖,"四8,9(管CM 3015)","['', '', '', '89', '', '', '']","《研討類》
+限企管系(含雙主修、輔系)；併班上課",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM357&Crsname=行銷專題研討（一）,,,True,企管系,BM357,3,甲班,"行銷專題研討（一）
+SEMINAR IN MARKETING MANAGEMENT （I）",2,期,True,50,0,10,40,佘健源,"四8,9(管CM 4069)","['', '', '', '89', '', '', '']","《研討類》
+限企管系(含雙主修、輔系)；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM357A&Crsname=行銷專題研討（一）,,,True,企管系,BM357A,3,乙班,"行銷專題研討（一）
+SEMINAR IN MARKETING MANAGEMENT （I）",2,期,True,50,0,5,45,佘健源,"四8,9(管CM 4069)","['', '', '', '89', '', '', '']","《研討類》
+限企管系(含雙主修、輔系)；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM358&Crsname=新興產業研究與創業專題研討（一）,,,True,企管系,BM358,3,甲班,"新興產業研究與創業專題研討（一）
+SEMINAR IN EMERGING INDUSTRIES AND ENTREPRENEURSHIP （I）",2,期,True,50,1,20,30,王致遠,"二8,9(管CM 3019)","['', '89', '', '', '', '', '']","《研討類》
+限企管系(含雙主修、輔系)；",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM358A&Crsname=新興產業研究與創業專題研討（一）,,,True,企管系,BM358A,3,乙班,"新興產業研究與創業專題研討（一）
+SEMINAR IN EMERGING INDUSTRIES AND ENTREPRENEURSHIP （I）",2,期,True,50,1,12,38,王致遠,"二8,9(管CM 3019)","['', '89', '', '', '', '', '']","《研討類》
+限企管系(含雙主修、輔系)；",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM359&Crsname=科技管理專題研討（一）,異動,更換教室1/4,True,企管系,BM359,3,甲班,"科技管理專題研討（一）
+SEMINAR IN TECHNOLOGY MANAGEMENT （I）",2,期,True,50,0,7,43,盧憶,"四8,9(管CM 4078)","['', '', '', '89', '', '', '']","《研討類》
+限企管系(含雙主修、輔系)；",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM359A&Crsname=科技管理專題研討（一）,,,True,企管系,BM359A,3,乙班,"科技管理專題研討（一）
+SEMINAR IN TECHNOLOGY MANAGEMENT （I）",2,期,True,50,0,7,43,盧憶,"五5,B(管CM 3019)","['', '', '', '', 'B5', '', '']","《研討類》
+限企管系(含雙主修、輔系)；",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM363&Crsname=新興市場議題,異動,取消限修條件2/2,False,企管系,BM363,3,不分班,"新興市場議題
+EMERGING MARKET ISSUES",3,期,False,50,18,50,0,蔡宗霖,"三5,6,7(管CM 4112)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM407&Crsname=企業與經濟立法,,,False,企管系,BM407,4,不分班,"企業與經濟立法
+ENTERPRISE AND ECONOMIC LAW",3,期,False,50,1,37,13,簡良機,"五2,3,4(管CM 1037)","['', '', '', '', '234', '', '']","《講授類》
+限企管系(含雙主修、輔系)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM408&Crsname=行銷個案,,,False,企管系,BM408,4,不分班,"行銷個案
+CASE STUDIES IN MARKETING",3,期,False,50,1,25,25,周泰華,"五2,3,4(管CM 1032)","['', '', '', '', '234', '', '']",《講授類》,['行銷管理學程'],False
