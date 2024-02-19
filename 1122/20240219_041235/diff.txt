@@ -1,0 +1,16 @@
+Type of root[498]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[498]['changeDescription'] changed from NoneType to str and value changed from None to "增加教室2/19".
+Type of root[512]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[512]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/19".
+Value of root[498]['room'] changed from "文FA 6011" to "文FA 6011、文FA6011-1".
+Value of root[512]['room'] changed from "文FA 6011" to "文FA 7003".
+Value of root[789]['selected'] changed from 56 to 55.
+Value of root[789]['remaining'] changed from 4 to 5.
+Value of root[792]['selected'] changed from 43 to 42.
+Value of root[792]['remaining'] changed from 17 to 18.
+Value of root[795]['selected'] changed from 47 to 46.
+Value of root[795]['remaining'] changed from 13 to 14.
+Value of root[2395]['selected'] changed from 7 to 6.
+Value of root[2395]['remaining'] changed from 43 to 44.
+Value of root[2398]['selected'] changed from 7 to 6.
+Value of root[2398]['remaining'] changed from 43 to 44.
