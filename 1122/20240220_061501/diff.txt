@@ -1,0 +1,110 @@
+Item root[257]['classTime'][0] added to iterable.
+Item root[695]['classTime'][0] added to iterable.
+Item root[2063]['classTime'][3] added to iterable.
+Item root[257]['classTime'][0] removed from iterable.
+Item root[257]['classTime'][2] removed from iterable.
+Item root[695]['classTime'][0] removed from iterable.
+Item root[695]['classTime'][2] removed from iterable.
+Item root[2063]['classTime'][3] removed from iterable.
+Item root[1913] removed from iterable.
+Repetition change for item root[257]['classTime'][1].
+Repetition change for item root[695]['classTime'][1].
+Type of root[705]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[705]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間2/20".
+Type of root[849]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[849]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/20".
+Type of root[863]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[863]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/20".
+Type of root[864]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[864]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/20".
+Type of root[1525]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1525]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/20".
+Value of root[35]['select'] changed from 18 to 19.
+Value of root[35]['selected'] changed from 45 to 44.
+Value of root[35]['remaining'] changed from 0 to 1.
+Value of root[83]['selected'] changed from 25 to 26.
+Value of root[83]['remaining'] changed from 0 to -1.
+Value of root[124]['select'] changed from 106 to 107.
+Value of root[124]['selected'] changed from 70 to 69.
+Value of root[124]['remaining'] changed from 0 to 1.
+Value of root[257]['room'] changed from "一7,8(理SC 1003) 三5(理SC 1003)" to "一7,8,9(理SC 1003)".
+Value of root[278]['room'] changed from "三2,3,4(工EC 1001)" to "三2,3,4(工EC 3013)".
+Value of root[289]['room'] changed from "一5,6,7(管CM 1037)" to "一5,6,7(管CM 0052)".
+Value of root[289]['description'] changed from "《講授類》
+優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。 跨院通識與企管系BM202課程併班上課
+※英語授課" to "《講授類》
+優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。跨院通識與企管系BM202課程併班上課
+※英語授課".
+Value of root[316]['selected'] changed from 80 to 79.
+Value of root[316]['remaining'] changed from 0 to 1.
+Value of root[577]['select'] changed from 3 to 2.
+Value of root[695]['room'] changed from "一7,8(理SC 1003) 三5(理SC 1003)" to "一7,8,9(理SC 1003)".
+Value of root[743]['room'] changed from "三2,3,4(工EC 1001)" to "三2,3,4(工EC 3013)".
+Value of root[848]['changeDescription'] changed from "更換教室2/19" to "調升名額2/20".
+Value of root[848]['restrict'] changed from 50 to 70.
+Value of root[848]['remaining'] changed from 0 to 20.
+Value of root[876]['room'] changed from "四2,3,4(工MS 4023)" to "四2,3,4(工EC 3013)".
+Value of root[895]['change'] changed from "新增" to "異動".
+Value of root[895]['changeDescription'] changed from "12/29" to "更換教室2/20".
+Value of root[900]['selected'] changed from 50 to 49.
+Value of root[900]['remaining'] changed from 0 to 1.
+Value of root[901]['selected'] changed from 50 to 49.
+Value of root[901]['remaining'] changed from 0 to 1.
+Value of root[903]['select'] changed from 0 to 1.
+Value of root[903]['selected'] changed from 43 to 42.
+Value of root[903]['remaining'] changed from 7 to 8.
+Value of root[904]['selected'] changed from 50 to 49.
+Value of root[904]['remaining'] changed from 0 to 1.
+Value of root[905]['selected'] changed from 45 to 44.
+Value of root[905]['remaining'] changed from 5 to 6.
+Value of root[907]['select'] changed from 5 to 6.
+Value of root[907]['selected'] changed from 35 to 34.
+Value of root[907]['remaining'] changed from 15 to 16.
+Value of root[908]['selected'] changed from 38 to 37.
+Value of root[908]['remaining'] changed from 12 to 13.
+Value of root[909]['selected'] changed from 40 to 39.
+Value of root[909]['remaining'] changed from 10 to 11.
+Value of root[910]['room'] changed from "一5,6,7(管CM 1037)" to "一5,6,7(管CM 0052)".
+Value of root[911]['room'] changed from "一5,6,7(管CM 1037)" to "一5,6,7(管CM 0052)".
+Value of root[980]['selected'] changed from 32 to 31.
+Value of root[980]['remaining'] changed from 18 to 19.
+Value of root[981]['selected'] changed from 31 to 30.
+Value of root[981]['remaining'] changed from 19 to 20.
+Value of root[1008]['english'] changed from False to True.
+Value of root[1047]['select'] changed from 3 to 2.
+Value of root[1517]['teacher'] changed from "待聘" to "陳則綸".
+Value of root[1524]['teacher'] changed from "陳威翔,張耿崚,彭彥彬,待聘,施育仁,林淵淙,袁中新,高志明" to "陳威翔,張耿崚,彭彥彬,施育仁,林淵淙,袁中新,陳則綸,高志明".
+Value of root[1541]['select'] changed from 6 to 5.
+Value of root[1541]['selected'] changed from 56 to 58.
+Value of root[1541]['remaining'] changed from 44 to 42.
+Value of root[1562]['room'] changed from "三2,3,4(工EC 3013)" to "三2,3,4(工EC 7040)".
+Value of root[1620]['change'] changed from "新增" to "異動".
+Value of root[1620]['changeDescription'] changed from "2/15" to "更換教室2/20".
+Value of root[1681]['room'] changed from "三2,3,4(工EC 3013)" to "三2,3,4(工EC 7040)".
+Value of root[1687]['room'] changed from "三5,6,7(工EC 3014)" to "三5,6,7(工EC 6010)".
+Value of root[1819]['selected'] changed from 23 to 22.
+Value of root[1819]['remaining'] changed from 27 to 28.
+Value of root[2056]['selected'] changed from 10 to 9.
+Value of root[2056]['remaining'] changed from 40 to 41.
+Value of root[2063]['room'] changed from "四3,4,B(社SS 4005)" to "四2,3,4(社SS 4005)".
+Value of root[2070]['room'] changed from "二2,3,4(社SS 2002-1)" to "二2,3,4(社SS 1004)".
+Value of root[2123]['teacher'] changed from "呂春輝,黃中佑" to "呂春輝".
+Value of root[2266]['selected'] changed from 40 to 39.
+Value of root[2266]['remaining'] changed from 10 to 11.
+Value of root[2269]['selected'] changed from 40 to 39.
+Value of root[2269]['remaining'] changed from 10 to 11.
+Value of root[2273]['selected'] changed from 40 to 39.
+Value of root[2273]['remaining'] changed from 10 to 11.
+Value of root[2276]['selected'] changed from 40 to 39.
+Value of root[2276]['remaining'] changed from 10 to 11.
+Value of root[2315]['selected'] changed from 12 to 11.
+Value of root[2315]['remaining'] changed from 38 to 39.
+Value of root[2370]['teacher'] changed from "待聘" to "陳則綸".
+Value of root[2387]['room'] changed from "二2,3,4(管CM 4078)" to "二2,3,4(管CM 2021)".
+Value of root[2411]['selected'] changed from 5 to 4.
+Value of root[2411]['remaining'] changed from 45 to 46.
+Value of root[2468]['selected'] changed from 10 to 9.
+Value of root[2468]['remaining'] changed from 40 to 41.
+Value of root[2469]['selected'] changed from 8 to 7.
+Value of root[2469]['remaining'] changed from 42 to 43.
+Value of root[2492]['room'] changed from "二2,3,4(社SS 2002-1)" to "二2,3,4(社SS 1004)".
