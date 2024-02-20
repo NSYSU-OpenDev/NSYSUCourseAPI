@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS560&Crsname=比較威權,,,False,政治碩,IPS560,0,不分班,"比較威權
+COMPARATIVE AUTHORITARIANISM",3,期,False,50,0,1,49,黃韋豪,"二2,3,4(社SS 3008)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS603&Crsname=專題研究（二）,,,False,政治碩,IPS603,2,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,3,47,陳至潔,"五C,D,E()","['', '', '', '', 'CDE', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS603A&Crsname=專題研究（二）,,,False,政治碩,IPS603A,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,1,49,王群洋,"五C,D,E()","['', '', '', '', 'CDE', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS603B&Crsname=專題研究（二）,,,False,政治碩,IPS603B,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,3,47,陳宗巖,"五C,D,E()","['', '', '', '', 'CDE', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS603C&Crsname=專題研究（二）,,,False,政治碩,IPS603C,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,1,49,楊尚儒,"五C,D,E()","['', '', '', '', 'CDE', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS603D&Crsname=專題研究（二）,,,False,政治碩,IPS603D,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,3,47,黃韋豪,"五C,D,E()","['', '', '', '', 'CDE', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS630&Crsname=國際政治經濟學,異動,增加合授教師1/11,False,政治碩,IPS630,0,不分班,"國際政治經濟學
+INTERNATIONAL POLITICAL ECONOMY",3,期,False,50,0,5,45,"黃韋豪,杜坤峰","四2,3,4(社SS 3010-2)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS631&Crsname=國際法,,,False,政治碩,IPS631,0,不分班,"國際法
+INTERNATIONAL LAW",3,期,False,50,0,0,50,胡念祖,"一7,8,9(海MA 2033)","['789', '', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS635&Crsname=國際安全,,,False,政治碩,IPS635,0,不分班,"國際安全
+INTERNATIONAL SECURITY",3,期,False,50,0,10,40,陳至潔,"一5,6,7(社SS 3010-2)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS652&Crsname=民意與政治行為研究,,,False,政治碩,IPS652,0,不分班,"民意與政治行為研究
+PUBLIC OPINION AND POLITICAL BEHAVIOR",3,期,False,50,1,3,47,劉正山,"四5,6,7(社SS 3008)","['', '', '', '567', '', '', '']",《講授類》,"['公民參與微學程', '政經大數據分析微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS673&Crsname=學門跨域專題講座(二),,,False,政治碩,IPS673,0,不分班,"學門跨域專題講座(二)
+SPECIAL LECTURES ON THE DISCIPLINE AND BEYOND(II)",1,期,False,50,0,0,50,黃韋豪,四B(社SS 3007),"['', '', '', 'B', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON511&Crsname=計量經濟學（二）,,,False,經濟碩,ECON511,1,不分班,"計量經濟學（二）
+ECONOMETRICS (II)",3,期,True,50,0,14,36,王俊傑,"二2,3,4(社SS 3002-1)","['', '234', '', '', '', '', '']",《講授類》,['金融科技學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON512&Crsname=個體經濟學（二）,,,False,經濟碩,ECON512,1,不分班,"個體經濟學（二）
+MICROECONOMICS(II)",3,期,True,50,0,20,30,童永年,"三5,6,7(社SS 3002-1)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON513&Crsname=總體經濟學（二）,,,False,經濟碩,ECON513,1,不分班,"總體經濟學（二）
+MACROECONOMICS (II)",3,期,False,50,0,12,38,陳冠任,"一6,7,8(社SS 3002-1)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON514&Crsname=賽局理論（一）,,,False,經濟碩,ECON514,1,不分班,"賽局理論（一）
+GAME THEORY (I)",3,期,False,50,0,16,34,劉楚俊,"四5,6,7(社SS 3002-1)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON515&Crsname=機制設計,,,False,經濟碩,ECON515,1,不分班,"機制設計
+MECHANISM DESIGN",3,期,True,50,1,12,38,許嘉麟,"四2,3,4(社SS 3002-1)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON530&Crsname=國際貿易理論,,,False,經濟碩,ECON530,1,不分班,"國際貿易理論
+THEORY OF INTERNATIONAL TRADE",3,期,False,50,2,2,48,吳世傑,"三2,3,4(社SS 3002-1)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON536&Crsname=時間數列分析,,,False,經濟碩,ECON536,1,不分班,"時間數列分析
+TIME SERIES ANALYSIS",3,期,False,50,0,3,47,李慶男,"五2,3,4(社SS 3002-1)","['', '', '', '', '234', '', '']",《講授類》,['金融科技學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON543&Crsname=公共選擇,,,False,經濟碩,ECON543,1,不分班,"公共選擇
+PUBLIC CHOICE",3,期,False,50,1,4,46,劉楚俊,"二C,D,E(社SS 1014)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON548&Crsname=契約理論,,,False,經濟碩,ECON548,1,不分班,"契約理論
+CONTRACT THEORY",3,期,False,50,0,0,50,許嘉麟,"一6,7,8(社SS 2003-2)","['678', '', '', '', '', '', '']",《講授類》,[],False
