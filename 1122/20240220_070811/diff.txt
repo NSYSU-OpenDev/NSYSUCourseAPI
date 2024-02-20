@@ -1,0 +1,33 @@
+Item root[703]['classTime'][1] added to iterable.
+Item root[705]['classTime'][0] added to iterable.
+Item root[705]['classTime'][2] added to iterable.
+Item root[705]['classTime'][3] added to iterable.
+Item root[1385]['classTime'][1] added to iterable.
+Item root[703]['classTime'][1] removed from iterable.
+Item root[705]['classTime'][0] removed from iterable.
+Item root[1385]['classTime'][1] removed from iterable.
+Repetition change for item root[705]['classTime'][1].
+Type of root[203]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[203]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/20".
+Type of root[703]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[703]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間及教室2/20".
+Type of root[1385]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1385]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間及教室2/20".
+Value of root[203]['room'] changed from "二5,6,7(西SW 1003)" to "二5,6,7(通GE 3011)".
+Value of root[371]['changeDescription'] changed from "確認教師1/17" to "更換教室2/20".
+Value of root[371]['room'] changed from "三2,3,4(管CM 1020)" to "三2,3,4(管CM 1032)".
+Value of root[577]['selected'] changed from 28 to 29.
+Value of root[577]['remaining'] changed from 22 to 21.
+Value of root[703]['room'] changed from "二3,4,7(理SC 4013)" to "二3,4,B(理SC 4011-2)".
+Value of root[705]['room'] changed from "一2,3,4(理SC 4011-2)" to "一1(理SC 4011-2) 三1(理SC 4011-2) 四1(理SC 4011-2)".
+Value of root[849]['room'] changed from "一2,3,4(理SC 1005)" to "一2,3,4(工EC 1009)".
+Value of root[863]['room'] changed from "二5,6,7(國IR 3001)" to "二5,6,7(國IR 3003)".
+Value of root[864]['room'] changed from "一2,3,4(工EC 4012)" to "一2,3,4(國IR 3003)".
+Value of root[895]['room'] changed from "二5,6,7(工MS 2004)" to "二5,6,7(工MS 4019)".
+Value of root[1047]['selected'] changed from 43 to 44.
+Value of root[1047]['remaining'] changed from 7 to 6.
+Value of root[1385]['room'] changed from "二3,4,7(理SC 4013)" to "二3,4,B(理SC 4011-2)".
+Value of root[1525]['room'] changed from "三2,3,4(工EC 5007)" to "三2,3,4(工EC 5012)".
+Value of root[1541]['selected'] changed from 58 to 59.
+Value of root[1541]['remaining'] changed from 42 to 41.
+Value of root[1620]['room'] changed from "二5,6,7(工MS 4019)" to "二5,6,7(工MS 4025)".
