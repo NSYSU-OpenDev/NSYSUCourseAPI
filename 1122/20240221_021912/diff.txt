@@ -1,0 +1,2 @@
+Value of root[1754]['changeDescription'] changed from "更換教室1/23" to "更換教室2/21".
+Value of root[1754]['room'] changed from "四6,7,8(管CM 2023)" to "四6,7,8(管CM 3051)".
