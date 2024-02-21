@@ -1,0 +1,53 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ENVE583&Crsname=環境決策與管理,,,False,環工碩,ENVE583,0,不分班,"環境決策與管理
+ENVIRONMENT DECISIOIN MAKING AND MANAGEMENT",3,期,False,50,1,20,30,陳威翔,"一6,7,8(工EC 2005)","['678', '', '', '', '', '', '']",《講授類》,"['環境科技與管理學程', '公民參與微學程', '氣膠科學環境教育微學程', '環境教育學程', 'STREAM永續發展培力微學程', '工業污染防治及減排微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ENVE593&Crsname=噪音工程學,,,False,環工碩,ENVE593,0,不分班,"噪音工程學
+NOISE ENGINEERING",3,期,False,50,0,2,48,彭彥彬,"一2,3,4(工EC 2005)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['環境科技與管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ENVE594&Crsname=專題研究（二）,異動,確認教師2/19,False,環工碩,ENVE594,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,1,38,12,"陳威翔,張耿崚,彭彥彬,施育仁,林淵淙,袁中新,陳則綸,高志明","六C,D,E(工EC 1004)","['', '', '', '', '', 'CDE', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE523&Crsname=進階機器學習,異動,更換教室2/20,False,資工碩,CSE523,0,不分班,"進階機器學習
+ADVANCED MACHINE LEARNING",3,期,False,50,1,50,0,張雲南,"三2,3,4(工EC 5012)","['', '', '234', '', '', '', '']",《講授類》,['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE532&Crsname=書報討論（二）,,,False,資工碩,CSE532,1,不分班,"書報討論（二）
+SEMINAR II",1,期,True,120,0,110,10,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+限本系大四生及碩/博士生修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE534&Crsname=書報討論（四）,,,False,資工碩,CSE534,2,不分班,"書報討論（四）
+SEMINAR IV",1,期,True,120,2,102,18,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+限本系大四生及碩/博士生修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE535&Crsname=專題研究（二）,異動,確認教師2/21,False,資工碩,CSE535,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,60,2,28,32,"王友群,張雲南,李淑敏,林俊宏,洪宗貝,蔡崇煒,蕭勝夫,賴威光,鄺獻榮,陳嘉平","六2,3,4(工EC 5007)","['', '', '', '', '', '234', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE536&Crsname=巨量資料分析與機器學習專題,,,False,資工碩,CSE536,0,不分班,"巨量資料分析與機器學習專題
+INDEPENDENT STUDIES IN BIG DATA ANALYSIS AND MACHINE LEARNINGING",3,期,False,50,0,0,50,林俊宏,"一C,D,E(工EC 5007)","['CDE', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE537&Crsname=三度空間設計專題,,,False,資工碩,CSE537,0,不分班,"三度空間設計專題
+INDEPENDENT STUDIES IN 3D DESIGN",3,期,False,50,0,2,48,程正傑,"一2,3,4(工EC 9032)","['234', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE539&Crsname=生醫影像分析專題（二）,,,False,資工碩,CSE539,0,不分班,"生醫影像分析專題（二）
+INDEPENDENT STUDIES IN BIOMEDICAL IMAGE ANALYSIS (II)",3,期,False,50,0,4,46,柯正雯,"一2,3,4(工EC 9014)","['234', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE542&Crsname=通訊與資安專題,,,False,資工碩,CSE542,0,不分班,"通訊與資安專題
+INDEPENDENT STUDIES IN COMMUNICATIONS AND INFORMATION SECURITY",3,期,False,50,1,6,44,柯拉飛,"五2,3,4(工EC 5026)","['', '', '', '', '234', '', '']","《獨立研究》
+限本系碩/博士生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE543&Crsname=高等通訊與資安演算法,,,False,資工碩,CSE543,0,不分班,"高等通訊與資安演算法
+ADVANCED ALGORITHMS FOR COMMUNICATIONS AND INFORMATION SECURITY",3,期,False,50,0,5,45,柯拉飛,"四2,3,4(工EC 5025)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE545&Crsname=專題研究（四）,異動,確認教師2/21,False,資工碩,CSE545,0,不分班,"專題研究（四）
+INDEPENDENT STUDIES(IV)",3,期,False,60,0,4,56,"鄺獻榮,范俊逸","六6,7,8(工EC 5007)","['', '', '', '', '', '678', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE553&Crsname=SOPC設計實務及FPGA系統整合設計,,,False,資工碩,CSE553,0,不分班,"SOPC設計實務及FPGA系統整合設計
+SOPC DESIGN PRACTICE AND FPGA SYSTEM DESIGN",3,期,False,50,1,28,22,張雲南,"五2,3,4(工EC 5007)","['', '', '', '', '234', '', '']",《講授類》,['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE570&Crsname=電子系統層級設計與驗證,,,False,資工碩,CSE570,0,不分班,"電子系統層級設計與驗證
+ELECTRONIC SYSTEM-LEVEL DESIGN AND VERIFICATION",3,期,False,50,7,41,9,鄺獻榮,"二2,3,4(工EC 1005)","['', '234', '', '', '', '', '']",《講授類》,['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE572&Crsname=模糊理論,,,False,資工碩,CSE572,0,不分班,"模糊理論
+FUZZY SET THEORY",3,期,False,50,0,11,39,洪宗貝,"四2,3,4(工EC 5026)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE582&Crsname=高等計算機結構專題,,,False,資工碩,CSE582,0,不分班,"高等計算機結構專題
+SPECIAL TOPICS IN ADVANCED COMPUTER ARCHITECTURE",3,期,False,50,0,3,47,黃英哲,"四C,D,E(工EC 5026)","['', '', '', 'CDE', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE585&Crsname=資料庫系統,,,False,資工碩,CSE585,0,不分班,"資料庫系統
+DATABASE SYSTEMS",3,期,False,50,5,50,0,張玉盈,"二6,7,8(工EC 1005)","['', '678', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE596&Crsname=數位簽章專題,,,False,資工碩,CSE596,0,不分班,"數位簽章專題
+SPECIAL TOPICS IN DIGITAL SIGNATURES",3,期,False,50,0,9,41,范俊逸,"三5,6,7(工EC 1006)","['', '', '567', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE605&Crsname=超大型積體電路設計,,,False,資工碩,CSE605,1,不分班,"超大型積體電路設計
+VLSI DESIGN",3,期,True,100,5,59,41,蕭勝夫,"四2,3,4(工EC 9032)","['', '', '', '234', '', '', '']",《講授類》,['半導體元件學程'],False
