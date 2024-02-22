@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS680&Crsname=入侵生物學獨立研究,,,False,生科碩,BIOS680,1,不分班,"入侵生物學獨立研究
+INDEPENDENT STUDY ON INVASIVE BIOLOGY",3,期,False,50,0,0,50,顏聖紘,"日2,3,4(理SC 3010)","['', '', '', '', '', '', '234']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS683&Crsname=功能生態學獨立研究,,,False,生科碩,BIOS683,1,不分班,"功能生態學獨立研究
+INDEPENDENT STUDIES IN FUNCTIONAL ECOLOGY",3,期,False,50,0,1,49,夏燦風,"六5,6,7(理SC 1014)","['', '', '', '', '', '567', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS685&Crsname=植物演化及系統分類學獨立研究,,,False,生科碩,BIOS685,1,不分班,"植物演化及系統分類學獨立研究
+INDEPENDENT STUDIES IN PLANT EVOLUTION AND SYSTEMATICS",3,期,False,50,0,2,48,劉世慧,"六5,6,7(理SC 3019)","['', '', '', '', '', '567', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM502&Crsname=合成方法專題研究（二）,,,True,化學碩,CHEM502,1,不分班,"合成方法專題研究（二）
+INDEPENDENT STUDIES IN SYNTHETIC METHODS(II)",3,期,True,50,0,4,46,張均然,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM506&Crsname=有機合成專題研究（二）,,,True,化學碩,CHEM506,1,不分班,"有機合成專題研究（二）
+INDEPENDENT STUDIES IN ORGANIC SYNTHESIS（II）",3,期,True,50,0,3,47,廖軒宏,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM512&Crsname=金屬簇化學專題研究（二）,,,True,化學碩,CHEM512,1,不分班,"金屬簇化學專題研究（二）
+INDEPENDENT STUDIES IN METAL CLUSTERS(II)",3,期,True,50,0,4,46,梁子輝,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM518&Crsname=勻相催化專題研究（二）,,,True,化學碩,CHEM518,1,不分班,"勻相催化專題研究（二）
+INDEPENDENT STUDIES IN HOMOGENOUS CATALYSIS（II）",3,期,True,50,1,3,47,梁蘭昌,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM520&Crsname=雷射化學專題研究（二）,,,True,化學碩,CHEM520,1,不分班,"雷射化學專題研究（二）
+INDEPENDENT STUDIES IN LASER CHEMISTRY (II)",3,期,True,50,1,4,46,張元賓,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM524&Crsname=計算化學專題研究（二）,,,True,化學碩,CHEM524,1,不分班,"計算化學專題研究（二）
+INDEPENDENT STUDIES IN COMPUTATIONAL CHEMISTRY(II)",3,期,True,50,0,2,48,邱政超,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM526&Crsname=氣固交互作用專題研究（二）,異動,更換授課方式1/5,True,化學碩,CHEM526,1,不分班,"氣固交互作用專題研究（二）
+INDEPENDENT STUDIES IN GAS/SOLID INTERACTIONS(II)",3,期,True,50,0,2,48,蔣昭明,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM528&Crsname=生物系統固態核磁共振專題研究（二）,,,True,化學碩,CHEM528,1,不分班,"生物系統固態核磁共振專題研究（二）
+INDEPENDENT STUDIES IN SOLID STATE NMR OF BIOLOGICAL SYSTEM(II)",3,期,True,50,0,3,47,丁尚武,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM530&Crsname=奈米力學專題研究（二）,,,True,化學碩,CHEM530,1,不分班,"奈米力學專題研究（二）
+INDEPENDENT STUDIES IN NANOSCALE FORCE MEASUREMENT(II)",3,期,True,50,0,3,47,謝淑貞,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM534&Crsname=有機質譜專題研究（二）,,,True,化學碩,CHEM534,1,不分班,"有機質譜專題研究（二）
+INDEPENDENT STUDIES IN ORGANIC MASS SPECTROMETRY(II)",3,期,True,50,1,8,42,謝建台,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM536&Crsname=微量生物分析專題研究（二）,,,True,化學碩,CHEM536,1,不分班,"微量生物分析專題研究（二）
+TRACE BIOANALYSIS FOR RESEARCH TRAINING(II)",3,期,True,50,0,6,44,曾韋龍,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM538&Crsname=超微奈米藥物生化環境分析專題研究（二）,,,True,化學碩,CHEM538,1,不分班,"超微奈米藥物生化環境分析專題研究（二）
+INDEPENDENT STUDIES IN ULTRA-MICRO RESEARCH FOR NANO-PARTICLE, DRUG, BIOCHEMISTRY AND ENVIRONMENT(II)",3,期,True,50,1,6,44,吳慧芬,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM540&Crsname=材料化學專題研究（二）,,,True,化學碩,CHEM540,1,不分班,"材料化學專題研究（二）
+INDEPENDENT STUDIES IN MATERIALS CHEMISTRY(II)",3,期,True,50,0,7,43,李志聰,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM542&Crsname=顯微影像分析專題研究（二）,,,True,化學碩,CHEM542,1,不分班,"顯微影像分析專題研究（二）
+INDEPENDENT STUDIES IN MICROSCOPIC IMAGE ANALYSIS(II)",3,期,True,50,0,4,46,張柏齡,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM544&Crsname=無機反應專題研究（二）,,,True,化學碩,CHEM544,1,不分班,"無機反應專題研究（二）
+INDEPENDENT STUDIES IN INORGANIC REACTIONS(II)",3,期,True,50,0,3,47,王琢堅,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM549&Crsname=有機化學書報討論（二）,,,True,化學碩,CHEM549,1,不分班,"有機化學書報討論（二）
+SEMINAR IN ORGANIC CHEMISTRY (II)",1,期,True,50,0,17,33,廖軒宏,二3(理SC3003-2),"['', '3', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM550&Crsname=無機化學書報討論（二）,異動,更換教室2/17,True,化學碩,CHEM550,1,不分班,"無機化學書報討論（二）
+SEMINAR IN INORGANIC CHEMISTRY (II)",1,期,True,50,0,13,37,蔡明利,二3(理SC 3001),"['', '3', '', '', '', '', '']",《演講/參訪》,[],False
