@@ -1,0 +1,52 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2005&Crsname=設計溝通與表達,,,False,人科學程,PIS2005,1,不分班,"設計溝通與表達
+COMMUNICATION AND EXPRESSION THROUGH DESIGN",3,期,True,50,3,48,2,張淑美,"三5,6,7(西SW 1005)","['', '', '567', '', '', '', '']",《講授類》,"['STREAM永續發展培力微學程', '中文創意跨域應用整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2009&Crsname=跨領域創新專題（一）,異動,調升名額1/11,False,人科學程,PIS2009,2,不分班,"跨領域創新專題（一）
+INDIVIDUAL STUDIES OF  CROSS-DOMAIN INNOVATION (1)",3,期,True,50,1,33,17,宋世祥,"四2,3,4(西SW 1007)","['', '', '', '234', '', '', '']",《講授類》,"['STREAM永續發展培力微學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2012&Crsname=關懷設計,,,False,人科學程,PIS2012,2,不分班,"關懷設計
+PHILANTHROPIC DESIGN",3,期,False,30,1,9,21,張淑美,"二5,6,7(西SW 1005)","['', '567', '', '', '', '', '']",《講授類》,['智慧長照微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2014&Crsname=精實創業,,,False,人科學程,PIS2014,2,不分班,"精實創業
+THE LEAN STARTUP",3,期,False,50,0,4,46,謝如梅,"一6,7,8(西SW 1003)","['678', '', '', '', '', '', '']",《講授類》,"['永續海洋休閒運動產業學程', '創新創業微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2017&Crsname=創意街區發展實務與藝術管理,,,False,人科學程,PIS2017,2,不分班,"創意街區發展實務與藝術管理
+PRACTICE OF CREATIVE BLOCKS DEVELOPMENT AND ART MANAGEMENT",3,期,False,30,2,9,21,宋世祥,"四5,6,7(西SW 1004)","['', '', '', '567', '', '', '']",《講授類》,['社區文創微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2019&Crsname=商業策略與管理,,,False,人科學程,PIS2019,2,不分班,"商業策略與管理
+BUSINESS STRATEGY AND MANAGEMENT",3,期,False,50,1,5,45,謝如梅,"四6,7,8(西SW 1005)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2025&Crsname=設計文化與人類學：理論與實踐,,,False,人科學程,PIS2025,2,不分班,"設計文化與人類學：理論與實踐
+DESIGN CULTURE: ANTHROPOLOGY: THEORIES AND PRACTICE",3,期,False,25,0,1,24,宋世祥,"三2,3,4(西SW 1003)","['', '', '234', '', '', '', '']",《講授類》,['公民參與微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS2028&Crsname=基礎研究方法,,,False,人科學程,PIS2028,2,不分班,"基礎研究方法
+INTRODUCTION TO RESEARCH METHODS",3,期,True,50,2,33,17,"夏晧清,宋世祥","二2,3,4(西SW 1005)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PIS3003&Crsname=創新設計或創業專題（一）,異動,確認時間及教師12/28,False,人科學程,PIS3003,3,不分班,"創新設計或創業專題（一）
+INDEPENDENT STUDIES IN INNOVATION AND ENTREPRENEURSHIP (1)",2,期,True,50,1,22,28,"楊政融,夏晧清,宋世祥,張淑美,謝如梅,趙可卿","六2,3(西SW 1005)","['', '', '', '', '', '23', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM102&Crsname=程式設計,,,False,後醫學系,DPBM102,0,不分班,"程式設計
+PROGRAMING LANGUAGE",2,期,False,50,0,11,39,于松桓,"一5,6(圖IL PC 01)","['56', '', '', '', '', '', '']","《講授類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM108&Crsname=臨床技能（一）,,,False,後醫學系,DPBM108,1,不分班,"臨床技能（一）
+MEDICAL SKILL TRAINING PROGRAM(I)",0.5,年,True,50,0,23,27,王慧婷,,"['', '23', '67', '23', '678', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM134&Crsname=肌肉骨骼皮膚系統基礎醫學,異動,更換部份時間1/23,False,後醫學系,DPBM134,1,不分班,"肌肉骨骼皮膚系統基礎醫學
+THE BASIC MEDICAL SCIENCE OF MUSCULOSKELETAL, INTEGUMENT SYSTEMS",3,期,True,50,0,23,27,"柯翠玲,劉勃佑,李容婷,李恒昇,柯瓊媛,王慧婷,詹佳穎,趙敏吾,鄭雅勻,陳彥旭",,"['123456789', '12345678', '125', '12345678', '278', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM135&Crsname=肌肉骨骼皮膚系統臨床醫學,異動,增加合授教師2/21,False,後醫學系,DPBM135,1,不分班,"肌肉骨骼皮膚系統臨床醫學
+CLINICAL MEDICINE OF MUSCULOSKELETAL, INTEGUMENT SYSTEMS",2,期,True,50,0,23,27,"楊善為,余明隆,劉文忠,呂穎怡,李欣蓉,林尚宏,許建仁,陳俊宇,陳建良,陳彥旭,黃麗珊",,"['2345689', '1256789', '1256', '1234', '234567', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM136&Crsname=神經系統基礎醫學,,,False,後醫學系,DPBM136,1,不分班,"神經系統基礎醫學
+THE BASIC MEDICAL SCIENCE OF NERVOUS SYSTEM",2,期,True,50,0,23,27,"柯瓊媛,劉勃佑,李容婷,李昇翰,王文宏,甘祐瑜,趙敏吾,陳彥旭,陳彥樺",,"['234', '2345678', '127', '3478', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM137&Crsname=神經系統臨床醫學,異動,確認合授教師2/21,False,後醫學系,DPBM137,1,不分班,"神經系統臨床醫學
+CLINICAL MEDICINE OF NERVOUS SYSTEM",2,期,True,50,0,23,27,"張瓊之,余明隆,柯瓊媛,趙敏吾,陳彥旭,陳德全,陳淑芳",,"['234', '4567', '12', '123478', '2345678', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM138&Crsname=特殊感官系統基礎醫學,,,False,後醫學系,DPBM138,1,不分班,"特殊感官系統基礎醫學
+THE BASIC MEDICAL SCIENCE OF SENSORY SYSTEM",1,期,True,50,0,23,27,"柯瓊媛,劉勃佑,甘祐瑜,趙敏吾",,"['234', '12345678', '1256', '', '23', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM139&Crsname=特殊感官系統臨床醫學,異動,確認教師2/21,False,後醫學系,DPBM139,1,不分班,"特殊感官系統臨床醫學
+CLINICAL MEDICINE OF SENSORY SYSTEM",1,期,True,50,0,23,27,"楊昭輝,余涵如,劉勃佑,林右才,林蓓雯,甘祐瑜,蘇彥燁,黃麗珊",,"['1234', '45678', '12', '', '234', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM140&Crsname=精神與心理,,,False,後醫學系,DPBM140,1,不分班,"精神與心理
+PSYCHIATRY AND PSYCHOPHARMACOLOGY",1.5,期,True,50,0,23,27,"洪琪發,柯瓊媛,趙敏吾,陳彥旭",,"['23', '123478', '12', '78', '12345', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM141&Crsname=溝通與專業素養（二）,,,False,後醫學系,DPBM141,1,不分班,"溝通與專業素養（二）
+COMMUNICATION AND PROFESSIONALISM (II)",0.5,期,True,50,0,23,27,陳德全,,"['', '234678', '', '', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM142&Crsname=偏鄉服務學習,,,False,後醫學系,DPBM142,1,不分班,"偏鄉服務學習
+RURAL SERVICE LEARNING",0,期,True,50,0,23,27,"鄭雅勻,陳彥旭",,"['', '', '', '123456789', '', '123456789', '']","《服務學習類》
+限後醫系學生修課",[],False
