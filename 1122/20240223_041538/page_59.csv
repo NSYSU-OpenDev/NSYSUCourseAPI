@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM143&Crsname=公共衛生與流行病學,,,False,後醫學系,DPBM143,1,不分班,"公共衛生與流行病學
+PUBLIC HEALTH AND EPIDEMIOLOGY",2,期,True,50,0,23,27,"鄭雅勻,李昇翰",,"['', '3456', '', '34789', '34', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM144&Crsname=生物統計,,,False,後醫學系,DPBM144,1,不分班,"生物統計
+BIOSTATISTICS",2,期,True,50,0,23,27,鄭雅勻,,"['', '', '3344', '', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM145&Crsname=人文藝術與生命哲學（二）,,,False,後醫學系,DPBM145,1,不分班,"人文藝術與生命哲學（二）
+MEDICAL HUMANITIES AND LIFE PHILOSOPHY (II)",1,期,True,50,0,23,27,"賴淑芳,何怡璉,楊婉儀",,"['1', '1', '1', '1', '1', '', '']","《演講/參訪》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM146&Crsname=創新科技與健康照護,,,False,後醫學系,DPBM146,1,不分班,"創新科技與健康照護
+INNOVATIVE TECHNOLOGIES IN HEALTHCARE",2,期,True,50,0,23,27,莊承鑫,,"['', '', '', '56', '', '', '']","《演講/參訪》
+限後醫系學生修課",['智慧長照微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM147&Crsname=生命教育,,,False,後醫學系,DPBM147,1,不分班,"生命教育
+LIFE EDUCATION",1,期,True,50,0,23,27,楊婉儀,,"['', '', '6', '', '', '', '']","《講授類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM148&Crsname=代謝體學與生醫應用,,,False,後醫學系,DPBM148,0,不分班,"代謝體學與生醫應用
+METABOLOMICS AND BIOMEDICAL APPLICATION",2,期,False,50,1,1,49,李昇翰,"一8,9(醫IL 9014)","['89', '', '', '', '', '', '']","《講授類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM149&Crsname=生醫諾貝爾獎的榮耀與遺珠,,,False,後醫學系,DPBM149,0,不分班,"生醫諾貝爾獎的榮耀與遺珠
+THE GLORY AND LEGACY OF THE NOBEL PRIZE IN BIOMEDICINE",3,期,False,50,0,1,49,陳彥樺,"一5,6,7(醫IL 9014)","['567', '', '', '', '', '', '']","《講授類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM206&Crsname=內分泌與生殖,異動,確認教師2/21,False,後醫學系,DPBM206,2,不分班,"內分泌與生殖
+REPRODUCTIVE BIOLOGY AND ENDOCRINOLOGY",6.5,期,True,50,0,23,27,"趙敏吾,余明隆,劉勃佑,待聘,待聘,待聘,待聘,待聘,朱志勳,李容婷,李恒昇,李昇翰,李欣蓉,林立德,柯瓊媛,柯翠玲,甘祐瑜,蔡曉文,陳亮傑,陳彥旭,陳彥樺",,"['2345678', '12345678', '1234567', '234567', '12345678', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM207&Crsname=成長與老化,異動,確認教師2/21,False,後醫學系,DPBM207,2,不分班,"成長與老化
+GROWTH AND AGING",11,期,True,50,0,23,27,"陳亮傑,余明隆,刁茂盟,劉亦修,劉婷婷,周明岳,周美香,廖美珍,徐盈欣,李容婷,林盈瑞,林育德,柯瓊媛,梁志光,洪碧蓮,王文宏,王郁鈞,王金洲,甘祐瑜,蕭志誠,許慧雅,趙敏吾,郭光哲,鄭雅勻,陳如意,陳彥旭,陳彥樺,陳德全,陳昱潔,駱聰成,黃新純",,"['234567', '12345678', '1234567', '12345678', '12345678', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM208&Crsname=醫學資訊、實證醫學與研究（二）,,,False,後醫學系,DPBM208,2,不分班,"醫學資訊、實證醫學與研究（二）
+MEDICAL INFORMATION, EVIDENCE-BASED MEDICINE &RESEARCH(II)",1,期,True,50,0,23,27,"陳彥旭,余明隆",,"['12789', '1789', '1', '1', '12', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM209&Crsname=臨床技能（三）,,,False,後醫學系,DPBM209,2,不分班,"臨床技能（三）
+MEDICAL SKILL TRAINING PROGRAM(III)",1,期,True,50,0,23,27,王慧婷,,"['123456789', '', '1234567', '', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM210&Crsname=溝通與專業素養（四）,,,False,後醫學系,DPBM210,2,不分班,"溝通與專業素養（四）
+COMMUNICATION AND PROFESSIONALISM(IV)",1,期,True,50,0,23,27,陳德全,,"['234678', '678', '', '', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM211&Crsname=服務學習（二）,,,False,後醫學系,DPBM211,2,不分班,"服務學習（二）
+SERVICE LEARNING(II)",0,期,True,23,0,23,0,"鄭雅勻,余明隆",,"['', '', '', '', '', '123456789', '123456789']","《服務學習類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MED101&Crsname=基礎生物學,,,False,醫學院,MED101,0,不分班,"基礎生物學
+BASIC CONCEPTS OF BIOLOGY",2,期,False,5,0,0,5,"張玉泉,薛佑玲,鄭光宏","四8,9(通GE 1010)","['', '', '', '89', '', '', '']","《講授類》
+限大學部醫學院學生選修。",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MED103&Crsname=智慧長照服務創新開發模式,異動,更換教室2/21,False,醫學院,MED103,0,不分班,"智慧長照服務創新開發模式
+DEVELOPMENT MODEL OF SERVICE INNOVATION FOR SMART LONG-TERM CARE",3,期,False,10,5,1,9,莊承鑫,"三5,6,7(國IR 4002)","['', '', '567', '', '', '', '']","《講授類》
+限大學部醫學院學生選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MED105&Crsname=醫學史（二）-台灣醫學史,,,False,醫學院,MED105,0,不分班,"醫學史（二）-台灣醫學史
+MEDICAL HISTORY (II) – HISTORY OF MEDICINE IN TAIWAN",2,期,False,15,0,0,15,劉景寬,"四7,8(國IR 5004)","['', '', '', '78', '', '', '']","《講授類》
+限大學部醫學院學生修習。",['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MED106&Crsname=人體結構探索–初階人體解剖學,,,False,醫學院,MED106,0,不分班,"人體結構探索–初階人體解剖學
+HUMAN STRUCTURE EXPLORATION-BASIC HUMAN ANATOMY",3,期,False,15,0,0,15,柯翠玲,"三5,6,7(醫IL 9012)","['', '', '567', '', '', '', '']","《講授類》
+限大學部醫學院學生選修。",['基礎醫學數位微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MED109&Crsname=毒理學概論,,,False,醫學院,MED109,0,不分班,"毒理學概論
+THE BASIC PRINCIPLE OF TOXICOLOGY",3,期,False,15,0,0,15,趙敏吾,"四2,3,4(醫IL 9012)","['', '', '', '234', '', '', '']","《講授類》
+限大學部醫學院學生選修。",['基礎醫學數位微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MED110&Crsname=美容醫學,異動,修改限修條件2/15,False,醫學院,MED110,0,不分班,"美容醫學
+AESTHETIC MEDICINE",2,期,False,15,0,0,15,趙敏吾,"一5,6(醫IL 9012)","['56', '', '', '', '', '', '']","《講授類》
+限大學部醫學院學生選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MED111&Crsname=藥物商品化,,,False,醫學院,MED111,0,不分班,"藥物商品化
+DRUG COMMERCIALIZATION",3,期,False,15,0,0,15,趙敏吾,"二7,8,9(醫IL 9012)","['', '789', '', '', '', '', '']","《講授類》
+限大學部醫學院學生選修。",[],False
