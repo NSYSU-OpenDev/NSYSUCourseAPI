@@ -1,0 +1,54 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE360&Crsname=編譯器製作,,,False,資工系,CSE360,3,不分班,"編譯器製作
+DESIGN AND IMPLEMENTATION OF COMPILER",3,期,True,60,5,60,0,張玉盈,"四6,7,8(工EC 5012)","['', '', '', '678', '', '', '']",《講授類》,"['軟體工程學程', '自然科學之程式應用學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE365&Crsname=UNIX系統程式,,,False,資工系,CSE365,3,不分班,"UNIX系統程式
+UNIX SYSTEM PROGRAMMING",3,期,True,68,14,60,8,希家史提夫,"一2,3,4(工EC 5012)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['自然科學之程式應用學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE381&Crsname=專題製作實驗（一）,,,False,資工系,CSE381,3,不分班,"專題製作實驗（一）
+SPECIAL TOPICS LABORATORY (I)",1,期,True,60,0,55,5,楊昌彪,"五7,8,9(工EC 5012)(實驗)","['', '', '', '', '789', '', '']","《實驗類》
+限本系大三學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE410&Crsname=電腦圖學概論,,,False,資工系,CSE410,4,不分班,"電腦圖學概論
+INTRODUCTION TO COMPUTER GRAPHICS",3,期,False,50,1,11,39,李宗南,"三5,6,7(工EC 1005)","['', '', '567', '', '', '', '']",《講授類》,['機器學習與多媒體技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE435&Crsname=電子設計自動化及測試導論,,,False,資工系,CSE435,2,不分班,"電子設計自動化及測試導論
+INTRODUCTION TO ELECTRONIC DESIGN AUTOMATION & TESTING",3,期,False,50,9,10,40,李淑敏,"三2,3,4(工EC 1005)","['', '', '234', '', '', '', '']",《講授類》,"['半導體設備工程學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE466&Crsname=超大型積體電路設計概論,,,False,資工系,CSE466,4,不分班,"超大型積體電路設計概論
+INTRODUCTION TO VLSI DESIGN",3,期,False,50,8,29,21,蕭勝夫,"二2,3,4(工EC 5007)","['', '234', '', '', '', '', '']",《講授類》,['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE480&Crsname=資訊安全,,,False,資工系,CSE480,4,不分班,"資訊安全
+INFORMATION SECURITY",3,期,False,50,12,47,3,范俊逸,"二2,3,4(工EC 1006)","['', '234', '', '', '', '', '']",《講授類》,"['永續能源學程', '公共交通行動服務微學程', '智慧城市與智慧運輸學程', '全民國防微學程', '資通安全學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE489&Crsname=數值方法導論與應用,,,False,資工系,CSE489,3,不分班,"數值方法導論與應用
+INTRODUCTION TO NUMERICAL METHODS AND APPLICATIONS",3,期,False,50,1,10,40,程正傑,"二6,7,8(工EC 5007)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE490&Crsname=安全電子商務,異動,調升名額2/20,False,資工系,CSE490,4,不分班,"安全電子商務
+SECURE ELECTRONIC COMMERCE",3,期,False,70,16,48,22,徐瑞壕,"四2,3,4(工EC 1005)","['', '', '', '234', '', '', '']",《講授類》,['資通安全學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EO1008&Crsname=微積分（二）,異動,更換教室2/20,False,光電系,EO1008,1,不分班,"微積分（二）
+CALCULUS (II)",3,期,True,50,1,18,32,張福春,"一2,3,4(工EC 1009)","['234', '', '', '', '', '', '']",《講授類》,['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EO1008A&Crsname=微積分（二）,,,False,光電系,EO1008A,1,全英班,"微積分（二）
+CALCULUS (II)",3,期,True,50,7,30,20,許柏翰,"一2,3,4(國IR 3003)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EO1009&Crsname=工程數學（一）,,,False,光電系,EO1009,1,不分班,"工程數學（一）
+ENGINEERING MATHEMATICS (I)",3,期,True,80,2,45,35,洪裕涵,"一5,6,7(工EC 4012)","['567', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EO1009A&Crsname=工程數學（一）,,,False,光電系,EO1009A,1,全英班,"工程數學（一）
+ENGINEERING MATHEMATICS (I)",3,期,True,80,1,22,58,洪裕涵,"一5,6,7(工EC 4012)","['567', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EO1010&Crsname=普通化學,,,False,光電系,EO1010,1,不分班,"普通化學
+GENERAL CHEMISTRY",3,期,True,60,1,26,34,黃文堯,"四5,6,7(國IR 3003)","['', '', '', '567', '', '', '']","《講授類》
+ 
+※英語授課",['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EO1010A&Crsname=普通化學,,,False,光電系,EO1010A,1,全英班,"普通化學
+GENERAL CHEMISTRY",3,期,True,60,0,24,36,黃文堯,"四5,6,7(國IR 3003)","['', '', '', '567', '', '', '']","《講授類》
+ 
+※英語授課",['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EO1044&Crsname=固態物理導論,,,False,光電系,EO1044,3,不分班,"固態物理導論
+INTRODUCTION TO SOLID STATE PHYSICS",3,期,False,50,3,20,30,邱逸仁,"三2,3,4(工EC 4038)","['', '', '234', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EO1045&Crsname=有機光電概論,,,False,光電系,EO1045,3,不分班,"有機光電概論
+INTRODUCTION TO ORGANIC OPTOELECTRONICS",3,期,False,50,2,38,12,張美濙,"五2,3,4(國IR 3002)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EO1046&Crsname=光電替代能源概論,,,False,光電系,EO1046,4,不分班,"光電替代能源概論
+INTRODUCTION TO ELECTROOPTICAL ALTERNATIVE ENERGIES",3,期,False,50,0,24,26,王俊達,"一2,3,4(國IR 3002)","['234', '', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EO1049&Crsname=太陽能電池導論,,,False,光電系,EO1049,4,不分班,"太陽能電池導論
+INTRODUCTION TO SOLAR CELLS",3,期,False,50,1,14,36,朱安國,"五2,3,4(國IR 2006)","['', '', '', '', '234', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EO1054&Crsname=創新資訊科技應用,異動,修正名額2/1,False,光電系,EO1054,4,不分班,"創新資訊科技應用
+CREATIVITY  VIA INFORMATION TECHNOLOGY APPLICATIONS",3,期,False,40,1,40,0,于欽平,"二2,3,4(國IR 3002)","['', '234', '', '', '', '', '']",《講授類》,"['沉浸式體驗技術與應用學程', '原民文化探索及永續發展學程', '音場技術與情境感受微學程', '沉浸式體驗內容應用微學程']",False
