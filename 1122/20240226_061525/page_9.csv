@@ -1,0 +1,59 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2514&Crsname=生命科學,,,False,博雅向度五,GEAE2514,0,不分班,"生命科學
+LIFE SCIENCES",2,期,True,115,34,114,1,"劉昭成,李昆澤,陳孟仙","一8,9(通GE 1008)","['89', '', '', '', '', '', '']","《講授類》
+限非生科、海資系學生修習。",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2519&Crsname=烹飪與科學,,,False,博雅向度五,GEAE2519,0,不分班,"烹飪與科學
+COOKING AND SCIENCE",2,期,True,50,41,50,0,李容婷,"四3,4(西SW 1005)","['', '', '', '34', '', '', '']",《講授類》,"['食品安全學程', '地方發展與永續農業微學程', '飲食文化微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2520&Crsname=科學的本質,,,False,博雅向度五,GEAE2520,0,不分班,"科學的本質
+NATURE OF SCIENCE",2,期,True,70,22,70,0,劉叔秋,"四8,9(通GE 4016)","['', '', '', '89', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['台灣文化英語微學程', '全英語通識教育菁英學程', '科技與環境英語微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2522&Crsname=科學思考與實作,異動,更換教室2/16,False,博雅向度五,GEAE2522,0,不分班,"科學思考與實作
+SCIENTIFIC THINKING AND PRACTICE",2,期,True,70,28,70,0,"劉叔秋,夏沛亞","五6,7(海ME 3006)","['', '', '', '', '67', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['全英語通識教育菁英學程', '科技與環境英語微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2523&Crsname=樂趣化運動指導體驗與設計,,,False,博雅向度五,GEAE2523,0,不分班,"樂趣化運動指導體驗與設計
+EXPERIENCE AND DESIGN OF ENJOYABLE PHYSICAL EDUCATION INSTRUCTION",2,期,True,50,17,50,0,李佳倫,"四8,9(通GE 2006)","['', '', '', '89', '', '', '']","《講授類》
+加簽10名以體資生/體保生、轉學生為限，並以大四生與大三生為優先加簽原則。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2601&Crsname=地球科學,,,False,博雅向度六,GEAE2601,0,不分班,"地球科學
+FUNDAMENTALS OF EARTH SCIENCE",2,期,True,90,38,90,0,"方盈智,張詠斌,托星豪,楊仁凱","四5,6(海MA 3021)","['', '', '', '56', '', '', '']",《講授類》,"['熱帶海洋微學程', '看見臺灣海岸微學程', '環境教育學程', '氣候變遷與調適學分學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2604&Crsname=環境變遷與生態保育,,,False,博雅向度六,GEAE2604,0,不分班,"環境變遷與生態保育
+ENVIRONMENTAL CHANGE AND ECOLOGICAL CONSERVATION",2,期,True,130,103,130,0,"陳孟仙,劉莉蓮,林梅芳,林裕䕒","四8,9(海MA 3021)","['', '', '', '89', '', '', '']",《講授類》,"['環境教育學程', '永續管理微學程', '實踐環境教育微學程', '熱帶海洋微學程', '氣候變遷與調適學分學程', '地方創生與永續發展整合學程', '印象海味微學程', '臺灣研究學程', '企業社會責任學程', '生物多樣性學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2607&Crsname=台灣海岸環境,,,False,博雅向度六,GEAE2607,0,不分班,"台灣海岸環境
+INTRODUCTION TO THE COASTAL ENVIRONMENT OF TAIWAN",2,期,True,95,13,95,0,曾以帆,"二6,7(通GE 1008)","['', '67', '', '', '', '', '']",《講授類》,"['環境教育學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2608&Crsname=環境科學,,,False,博雅向度六,GEAE2608,0,不分班,"環境科學
+ENVIRONMENTAL SCIENCE",2,期,True,95,49,95,0,袁中新,"四C,D(工EC 1001)","['', '', '', 'CD', '', '', '']",《講授類》,"['永續管理微學程', '環境科技與管理學程', '環境教育學程', '地方創生與永續發展整合學程', '氣候變遷與調適學分學程', '臺灣研究學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2613&Crsname=氣候變遷與調適,異動,更換主授教師1/31,False,博雅向度六,GEAE2613,0,不分班,"氣候變遷與調適
+CLIMATE CHANGE ADAPTATION",3,期,True,80,23,80,0,"李育諭,劉叔秋,張詠斌","一5,6,7(通GE 4016)","['567', '', '', '', '', '', '']",《講授類》,"['企業社會責任學程', '地方發展與永續農業微學程', '實踐環境教育微學程', '熱帶海洋微學程', '公共事務與企業社會責任微學程', '環境教育學程', '氣候變遷與調適學分學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2616&Crsname=光電生活與能源永續,,,False,博雅向度六,GEAE2616,0,不分班,"光電生活與能源永續
+OPTOELECTRONIC DAILY LIFE AND ENERGY SUSTAINABILITY",2,期,True,48,23,48,0,于欽平,"一8,9(西SW 1007)","['89', '', '', '', '', '', '']","《講授類》
+限非光電系學生修習。","['智慧港埠微學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2620&Crsname=地球生命概論,,,False,博雅向度六,GEAE2620,0,不分班,"地球生命概論
+AN INTRODUCTION TO LIFE ON EARTH",3,期,True,70,2,57,13,邊安台,"三2,3,4(通GE 1010)","['', '', '234', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2622&Crsname=人類與環境之交互關係,,,False,博雅向度六,GEAE2622,0,不分班,"人類與環境之交互關係
+HUMAN-ENVIRONMENT INTERACTIONS",3,期,True,70,28,70,0,夏燦風,"二2,3,4(通GE 1008)","['', '234', '', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['全英語通識教育菁英學程', '科技與環境英語微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2625&Crsname=在地食物的永續發展與全球脈絡,異動,更換主授教師1/25,False,博雅向度六,GEAE2625,0,不分班,"在地食物的永續發展與全球脈絡
+SUSTAINABLE LOCAL FOOD IN GLOBAL CONTEXT",3,期,True,50,25,50,0,"李育諭,李容婷,林季怡","一8,9,C(通GE 2006)","['89C', '', '', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['地方發展與永續農業微學程', '地方創生與區域治理微學程', '地方創生與永續發展整合學程', '全英語通識教育菁英學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2627&Crsname=永續生活理念UX/UI設計實務,異動,更換教室2/21,False,博雅向度六,GEAE2627,0,不分班,"永續生活理念UX/UI設計實務
+SUSTAINABLE LIFE CONCEPT UX/UI DESIGN PRACTICES",3,期,True,50,10,50,0,廖奕雯,"一6,7,8(圖IL PC03)","['678', '', '', '', '', '', '']","《講授類》
+限非資工、資管系修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHY104&Crsname=普通物理學（二）,,,False,普通物理小組,PHY104,1,不分班,"普通物理學（二）
+GENERAL PHYSICS (II)",3,期,True,50,0,26,24,蔡秀芬,"一2,3,4(理PH 2006)","['234', '', '', '', '', '', '']","《講授類》
+本課程與普通物理學演習(二)一起規劃課程, 需與普通物理學演習(二)一起修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHY105&Crsname=普通物理（二）,,,False,普通物理小組,PHY105,1,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,50,3,82,-32,呂浩宇,"三2,3,4(工EN 4055-1)","['', '', '234', '', '', '', '']","《講授類》
+化學系與機電系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHY105A&Crsname=普通物理（二）,,,False,普通物理小組,PHY105A,1,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,50,18,50,0,陳宗緯,"三2,3,4(國IR 3003)","['', '', '234', '', '', '', '']","《講授類》
+材光系與光電系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHY105B&Crsname=普通物理（二）,異動,調整名額1/29,False,普通物理小組,PHY105B,1,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,59,15,59,0,陳宗緯,"五2,3,4(工EC 3013)","['', '', '', '', '234', '', '']","《講授類》
+電機系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHY105C&Crsname=普通物理（二）,,,False,普通物理小組,PHY105C,2,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,50,4,50,0,陳易馨,"一2,3,4(海MA 1005)","['234', '', '', '', '', '', '']","《講授類》
+海科系二年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
