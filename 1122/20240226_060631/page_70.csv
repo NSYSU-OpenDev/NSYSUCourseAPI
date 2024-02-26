@@ -1,0 +1,42 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH565&Crsname=複變函數論,,,False,應數碩,MATH565,0,不分班,"複變函數論
+COMPLEX ANALYSIS",3,期,False,20,0,4,16,李欣倫,"一2,3,4(理SC 4013)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH569&Crsname=泛函分析,,,False,應數碩,MATH569,0,不分班,"泛函分析
+FUNCTIONAL ANALYSIS",3,期,False,20,0,2,18,何宗軒,"二5,6,B(理SC 4013)","['', 'B56', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH576&Crsname=測度論,,,False,應數碩,MATH576,0,不分班,"測度論
+MEASURE THEORY",3,期,False,20,0,1,19,何宗軒,"四3,4,B(理SC 4013)","['', '', '', '34B', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH580&Crsname=組合設計,,,False,應數碩,MATH580,0,不分班,"組合設計
+COMBINATORIAL DESIGNS",3,期,False,20,0,5,15,王彩蓮,"一7,8,9(理SC 4013)","['789', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH588&Crsname=幾何拓樸,異動,更換部份時間及教室2/20,False,應數碩,MATH588,0,不分班,"幾何拓樸
+GEOMETRIC TOPOLOGY",3,期,False,20,0,2,18,王以晟,"二3,4,B(理SC 4011-2)","['', '34B', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH614&Crsname=統計計算專題研討（二）,,,False,應數碩,MATH614,0,不分班,"統計計算專題研討（二）
+SEMINAR IN STUDIES IN COMPUTATIONAL STATISTICS II",3,期,False,10,0,5,5,張福春,"三5,6,7(理SC 3002-4)","['', '', '567', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH616&Crsname=時間序列專題研討（二）,,,False,應數碩,MATH616,0,不分班,"時間序列專題研討（二）
+INDEPENDENT STUDIES IN TIME SERIES ANALYSIS II",3,期,False,5,1,0,5,郭美惠,"三5,6,7(理SC 4011-2)","['', '', '567', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH618&Crsname=生物統計專題研討（二）,異動,修正備註說明12/29,False,應數碩,MATH618,0,不分班,"生物統計專題研討（二）
+SEMINAR IN BIOSTATISTICS (II)",3,期,False,10,0,2,8,張中,"三5,6,7(理SC 4011)","['', '', '567', '', '', '', '']","《研討類》
+限修畢生物統計專題研討(一)學生選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH619&Crsname=隨機過程專題研討（一）,,,False,應數碩,MATH619,0,不分班,"隨機過程專題研討（一）
+SEMINAR IN STOCHASTIC PROCESSES (I)",3,期,False,5,0,0,5,李欣倫,"一6,7,8(理SC 4009-0)","['678', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH620&Crsname=隨機過程專題研討（二）,異動,更換授課方式1/10,False,應數碩,MATH620,0,不分班,"隨機過程專題研討（二）
+SEMINAR IN STOCHASTIC PROCESSES (II)",3,期,False,10,0,2,8,陳美如,"三5,6,7(理SC 4009-0)","['', '', '567', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH622&Crsname=耦合專題研討（一）,異動,更換授課方式1/10,False,應數碩,MATH622,0,不分班,"耦合專題研討（一）
+SEMINAR IN COPULAS (I)",3,期,False,5,0,1,4,施嘉翰,"三5,6,7(理SC 4014)","['', '', '567', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH625&Crsname=異常檢測專題研討,異動,更換授課方式1/10,False,應數碩,MATH625,0,不分班,"異常檢測專題研討
+SEMINAR IN ANOMALY DETECTION",3,期,False,10,0,3,7,曾聖澧,"三5,6,7(理SC 4027)","['', '', '567', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH637&Crsname=平行處理專題研討,,,False,應數碩,MATH637,0,不分班,"平行處理專題研討
+SEMINAR IN PARALLEL PROCESSING",3,期,False,5,0,2,3,黃杰森,"一6,7,8(理SC 4011)","['678', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH639&Crsname=科學計算專題研討,新增,1/25,False,應數碩,MATH639,0,不分班,"科學計算專題研討
+SEMINAR IN SCIENTIFIC COMPUTING",3,期,False,5,0,1,4,卓建宏,"二6,7,8(理SC 4011-2)","['', '678', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH640&Crsname=常微分方程數值解專題研討,,,False,應數碩,MATH640,0,不分班,"常微分方程數值解專題研討
+SEMINAR IN NUMERICAL ORDINARY DIFFERENTIAL EQUATIONS",3,期,False,10,0,3,7,李宗錂,"二6,7,8(理SC 4011)","['', '678', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH644&Crsname=影像處理專題研討,異動,更換授課方式1/10,False,應數碩,MATH644,0,不分班,"影像處理專題研討
+SEMINAR IN IMAGE PROCESSING",3,期,False,10,0,5,5,鍾思齊,"三5,6,7(理SC 4009-1)","['', '', '567', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH661&Crsname=應用分析專題研討,,,False,應數碩,MATH661,0,不分班,"應用分析專題研討
+SEMINAR IN APPLIED ANALYSIS",3,期,False,5,0,1,4,羅春光,"一6,7,8(理SC 4011-2)","['678', '', '', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH666&Crsname=環論專題研討,,,False,應數碩,MATH666,0,不分班,"環論專題研討
+SEMINAR IN RING THEORY",3,期,False,5,0,2,3,王彩蓮,"五6,7,8(理SC 4009-1)","['', '', '', '', '678', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH675&Crsname=圖形著色專題研討,異動,更換授課方式1/10,False,應數碩,MATH675,2,不分班,"圖形著色專題研討
+SEMINAR IN GRAPH COLORING",3,期,False,5,0,2,3,林晉宏,"五6,7,8(理SC 4009-0)","['', '', '', '', '678', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH681&Crsname=數論專題研討（一）,異動,更換授課方式1/10,False,應數碩,MATH681,0,不分班,"數論專題研討（一）
+SEMINAR IN NUMBER THEORY (I)",3,期,False,5,0,1,4,翁鵬絜,"五6,7,8(理SC 4013)","['', '', '', '', '678', '', '']",《研討類》,[],True
