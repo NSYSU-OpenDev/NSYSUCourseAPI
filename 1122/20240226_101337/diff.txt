@@ -1,0 +1,55 @@
+Item root[658]['classTime'][1] added to iterable.
+Item root[1386]['classTime'][2] added to iterable.
+Item root[658]['classTime'][0] removed from iterable.
+Item root[1386]['classTime'][2] removed from iterable.
+Type of root[658]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[658]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間2/26".
+Type of root[700]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[700]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式2/26".
+Type of root[1373]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1373]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式2/26".
+Type of root[1386]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1386]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及授課方式2/26".
+Type of root[1425]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1425]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式2/26".
+Type of root[2070]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2070]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/26".
+Value of root[96]['selected'] changed from 25 to 27.
+Value of root[96]['remaining'] changed from 0 to -2.
+Value of root[97]['selected'] changed from 19 to 23.
+Value of root[97]['remaining'] changed from 6 to 2.
+Value of root[282]['description'] changed from "《講授類》
+跨院通識與機電系MEME209A課程併班上課" to "《講授類》
+限該班及重修生修習。跨院通識與機電系MEME209A課程併班上課".
+Value of root[658]['room'] changed from "一1,2,A(理PH 5005)" to "二1,A,B(理PH 5005)".
+Value of root[700]['description'] changed from "《講授類》
+與碩士班併班上課。" to "《講授類》
+與碩士班併班上課。
+※英語授課".
+Value of root[788]['description'] changed from "《講授類》
+限該班及重修生修習。『本課程之限修，於加退選2階段開放選修』" to "《講授類》
+限該班及重修生修習。".
+Value of root[789]['description'] changed from "《講授類》
+限該班及重修生修習。『本課程之限修，於加退選2階段開放選修』" to "《講授類》
+限該班及重修生修習。".
+Value of root[800]['description'] changed from "《講授類》
+限該班及重修生修習。『本課程之限修，於加退選2階段開放選修』" to "《講授類》
+限該班及重修生修習。".
+Value of root[801]['description'] changed from "《講授類》
+限該班及重修生修習。『本課程之限修，於加退選2階段開放選修』" to "《講授類》
+限該班及重修生修習。".
+Value of root[818]['description'] changed from "《講授類》
+限該班及重修生修習。『本課程之限修，於加退選2階段開放選修』" to "《講授類》
+限該班及重修生修習。".
+Value of root[819]['description'] changed from "《講授類》
+限該班及重修生修習。『本課程之限修，於加退選2階段開放選修』" to "《講授類》
+限該班及重修生修習。".
+Value of root[886]['description'] changed from "《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號B103100036~B103100055、B103100057、B095020025、B105020040、B105040006、B105040016、B105090004、B105090006、B105090008學生選課" to "《實驗類》
+限學號B103100036~B103100055、B103100057、B095020025、B105020040、B105040006、B105040016、B105090004、B105090006、B105090008學生選課".
+Value of root[1236]['teacher'] changed from "陳鈺雯,林子平,莊孟勳" to "陳鈺雯,林子平".
+Value of root[1373]['english'] changed from False to True.
+Value of root[1386]['room'] changed from "三5,6,7(理SC 4011-2)" to "三2,3,4(理SC 4011-2)".
+Value of root[1386]['english'] changed from False to True.
+Value of root[1425]['english'] changed from False to True.
+Value of root[2070]['room'] changed from "一5,6,7(西SW 1007)" to "一5,6,7(通GE 3013)".
