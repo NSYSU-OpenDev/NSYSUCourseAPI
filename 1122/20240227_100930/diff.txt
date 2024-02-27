@@ -1,0 +1,91 @@
+Item root[1047] removed from iterable.
+Item root[1804] removed from iterable.
+Type of root[2016]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2016]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師2/27".
+Type of root[2376]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2376]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/27".
+Type of root[2377]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2377]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/27".
+Type of root[2459]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2459]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師2/27".
+Value of root[40]['changeDescription'] changed from "更正教室名稱2/22" to "更換教室2/27".
+Value of root[40]['room'] changed from "五2,3,4(工EC 3015)" to "五2,3,4(通GE 3011)".
+Value of root[467]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課，不可同時修習音樂基礎訓練(四)課程" to "《講授類》
+限音樂系學生修課，不可同時修習音樂基礎訓練(四)課程".
+Value of root[468]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課，不可同時修習音樂基礎訓練(四)課程" to "《講授類》
+限音樂系學生修課，不可同時修習音樂基礎訓練(四)課程".
+Value of root[469]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[472]['description'] changed from "《音樂類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《音樂類》
+限音樂系學生修課".
+Value of root[487]['description'] changed from "《音樂類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系創作與應用組學生修課" to "《音樂類》
+限音樂系創作與應用組學生修課".
+Value of root[488]['description'] changed from "《音樂類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系創作與應用組學生修課" to "《音樂類》
+限音樂系創作與應用組學生修課".
+Value of root[489]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[490]['description'] changed from "《音樂類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《音樂類》
+限音樂系學生修課".
+Value of root[491]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[492]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[493]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課，不可同時修習音樂基礎訓練(二)課程" to "《講授類》
+限音樂系學生修課，不可同時修習音樂基礎訓練(二)課程".
+Value of root[494]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課，不可同時修習音樂基礎訓練(二)課程" to "《講授類》
+限音樂系學生修課，不可同時修習音樂基礎訓練(二)課程".
+Value of root[495]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[500]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[501]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系大三大四學生修課" to "《講授類》
+限音樂系大三大四學生修課".
+Value of root[503]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[504]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[507]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[508]['description'] changed from "《音樂類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《音樂類》
+限音樂系學生修課".
+Value of root[509]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[510]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[513]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限音樂系學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[1526]['description'] changed from "《獨立研究》
+『本課程之限修，於加退選2階段開放選修』。限本系碩/博士生修習" to "《獨立研究》
+限本系碩/博士生修習".
+Value of root[2016]['teacher'] changed from "謝百淇" to "謝百淇,周珮儀,張宇慧,張至慶,施慶麟,楊淑晴,莊雪華,陳利銘".
+Value of root[2376]['room'] changed from "二6,7,8(管CM 4078)" to "二6,7,8(管CM 2021)".
+Value of root[2377]['room'] changed from "二6,7,8(管CM 4078)" to "二6,7,8(管CM 2021)".
+Value of root[2411]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限人管所學生選修" to "《講授類》
+限人管所學生選修".
+Value of root[2419]['description'] changed from "《研討類》
+『本課程之限修，於加退選2階段開放選修』。限人管所學生選修" to "《研討類》
+限人管所學生選修".
+Value of root[2459]['teacher'] changed from "謝百淇" to "謝百淇,施慶麟,楊淑晴,紀博善,莊雪華,鄭英耀".
