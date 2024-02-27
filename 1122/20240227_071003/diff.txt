@@ -1,5 +1,0 @@
-Type of root[967]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[967]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/27".
-Value of root[967]['room'] changed from "四5,6,7(管CM 3015)" to "四5,6,7(管CM 3017)".
-Value of root[2410]['changeDescription'] changed from "調整名額1/15" to "更換授課方式2/27".
-Value of root[2410]['english'] changed from False to True.
