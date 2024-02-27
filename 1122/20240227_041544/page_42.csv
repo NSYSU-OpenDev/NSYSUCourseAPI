@@ -26,8 +26,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE223&
 DATA MINING",3,期,False,50,3,50,0,蔡崇煒,"四6,7,8(工EC 1005)","['', '', '', '678', '', '', '']",《講授類》,"['智慧製造聯網微學程', '製造與大數據分析微學程', '跨領域智慧製造學程', '智慧長照微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE240&Crsname=積體電路電腦輔助設計概論,,,False,資工系,CSE240,2,不分班,"積體電路電腦輔助設計概論
 INTRODUCTION TO COMPUTER-AIDED VLSI DESIGN",3,期,False,50,1,38,12,鄺獻榮,"一6,7,8(工EC 1006)","['678', '', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE260&Crsname=計算機組織,,,False,資工系,CSE260,2,不分班,"計算機組織
-COMPUTER ORGANIZATION",3,期,True,60,20,60,0,黃英哲,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']","《講授類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE260&Crsname=計算機組織,異動,更換教室2/27,False,資工系,CSE260,2,不分班,"計算機組織
+COMPUTER ORGANIZATION",3,期,True,60,20,60,0,黃英哲,"二2,3,4(工EC 9032)","['', '234', '', '', '', '', '']","《講授類》
  
 ※英語授課","['軟體工程學程', '數位IC設計學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE270&Crsname=作業系統,異動,更換教室1/4,False,資工系,CSE270,2,不分班,"作業系統
