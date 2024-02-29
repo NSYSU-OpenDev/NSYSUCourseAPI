@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA998B&Crsname=高階經營專題（二）,,,True,EMBA碩專,EMBA998B,2,不分班,"高階經營專題（二）
+SPECIAL TOPICS IN EXECUTIVE MANAGEMENT (II)",3,期,True,50,0,43,7,林豪傑,"四8,9,C(台北)","['', '', '', '89C', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS906&Crsname=高階財務管理,新增,2/23,True,中山同濟EMBA,CS906,2,不分班,"高階財務管理
+EXECUTIVE FINANCIAL MANAGEMENT",2,期,True,50,0,0,50,蔡維哲,"五8,9(上海同濟大學)","['', '', '', '', '89', '', '']","《講授類》
+限CSEMBA學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS910&Crsname=企業個案討論,異動,確認課程資訊2/23,True,中山同濟EMBA,CS910,2,不分班,"企業個案討論
+BUSINESS CASE STUDY",3,期,True,50,0,0,50,盧憶,"一1,2,3(上海同濟大學)","['123', '', '', '', '', '', '']","《講授類》
+限CSEMBA學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS923&Crsname=商務英語與溝通,異動,確認課程資訊2/23,True,中山同濟EMBA,CS923,2,不分班,"商務英語與溝通
+BUSINESS ENGLISH AND COMMUNICATION",3,期,True,50,0,0,50,盧憶,"一5,6,7(上海同濟大學)","['567', '', '', '', '', '', '']","《講授類》
+限CSEMBA學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS923A&Crsname=商務英語與溝通,新增,2/23,True,中山同濟EMBA,CS923A,1,不分班,"商務英語與溝通
+BUSINESS ENGLISH AND COMMUNICATION",3,期,True,50,0,0,50,盧憶,"一D,E,F(上海同濟大學)","['DEF', '', '', '', '', '', '']","《講授類》
+限CSEMBA學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS924&Crsname=領導學,異動,確認課程資訊2/23,True,中山同濟EMBA,CS924,2,不分班,"領導學
+LEADERSHIP",2,期,True,50,0,0,50,盧憶,"六8,9(上海同濟大學)","['', '', '', '', '', '89', '']","《講授類》
+限CSEMBA學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS934&Crsname=管理經濟學,異動,確認時間及教師2/23,True,中山同濟EMBA,CS934,1,不分班,"管理經濟學
+MANAGERIAL ECONOMICS",2,期,True,50,0,0,50,吳基逞,"五8,9(上海同濟大學)","['', '', '', '', '89', '', '']","《講授類》
+限CSEMBA學生加選",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS970&Crsname=企業社會責任與商業倫理,新增,2/23,True,中山同濟EMBA,CS970,1,不分班,"企業社會責任與商業倫理
+BUSINESS ETHICS AND SOCIAL RESPONSIBILITY",2,期,True,50,0,0,50,鄭安授,"五6,7(上海同濟大學)","['', '', '', '', '67', '', '']","《講授類》
+限CSEMBA學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS970A&Crsname=企業社會責任與商業倫理,新增,2/23,True,中山同濟EMBA,CS970A,2,不分班,"企業社會責任與商業倫理
+BUSINESS ETHICS AND SOCIAL RESPONSIBILITY",2,期,True,50,0,0,50,鄭安授,"五C,D(上海同濟大學)","['', '', '', '', 'CD', '', '']","《講授類》
+限CSEMBA",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS907&Crsname=碩士論文,,,False,政治碩專,IPS907,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,0,8,42,指導教授,"五C,D,E()","['', '', '', '', 'CDE', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS927&Crsname=政治與企業,,,False,政治碩專,IPS927,1,不分班,"政治與企業
+POLITICS AND BUSINESS",3,期,False,50,1,14,36,杜坤峰,"三C,D,E(社SS 3010-2)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS930&Crsname=兩岸關係,,,False,政治碩專,IPS930,1,不分班,"兩岸關係
+SELECTED TOPICS OF CROSS-STRAITS RELATIONS",3,期,False,50,0,5,45,陳至潔,"一C,D,E(社SS 3010-2)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS931&Crsname=科技與治理,,,False,政治碩專,IPS931,2,不分班,"科技與治理
+INFORMATION TECHNOLOGY AND GOVERNANCE",3,期,False,50,1,3,47,蔣麗君,"四C,D,E(社SS 3010-2)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS932&Crsname=民意與民調實務,,,False,政治碩專,IPS932,2,不分班,"民意與民調實務
+PUBLIC OPINION AND POLL PRACTICES",3,期,False,50,1,11,39,黃志呈,"二C,D,E(社SS 3010-2)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON906&Crsname=碩士論文,,,False,經濟碩專,ECON906,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,0,5,45,指導教授,"六C,D,E(社SS 3002-1)","['', '', '', '', '', 'CDE', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON908&Crsname=財金與經濟資料計量分析,,,False,經濟碩專,ECON908,1,不分班,"財金與經濟資料計量分析
+ECONOMETRIC ANALYSIS OF FINANCIAL AND ECONOMIC DATA",3,期,True,50,0,10,40,李慶男,"四C,D,E(社SS 3002-1)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON927&Crsname=經濟理論與制度,,,False,經濟碩專,ECON927,2,不分班,"經濟理論與制度
+ECONOMIC THEORIES AND INSTITUTIONS",3,期,False,50,0,8,42,童永年,"二C,D,E(社SS 3002-1)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON933&Crsname=財經研究方法實作,,,False,經濟碩專,ECON933,2,不分班,"財經研究方法實作
+PRACTICE OF FINANCIAL RESEARCH METHOD",3,期,False,50,0,9,41,李國榮,"五C,D,E(社SS 3002-1)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ECON934&Crsname=投資學,,,False,經濟碩專,ECON934,1,不分班,"投資學
+FUNDAMENTALS OF INVESTMENTS",3,期,False,50,0,15,35,李顯儀,"一C,D,E(社SS 3002-1)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CAPS905&Crsname=亞太區域經濟,,,False,亞太碩專,CAPS905,1,不分班,"亞太區域經濟
+ECONOMIC ANALYSIS IN ASIA-PACIFIC REGION",3,期,False,50,0,7,43,陳珮芬,"五C,D,E(社SS 2007)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
