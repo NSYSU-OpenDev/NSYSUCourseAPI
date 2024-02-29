@@ -1,0 +1,64 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH315&Crsname=微分方程（二）,,,False,應數系,MATH315,3,不分班,"微分方程（二）
+DIFFERENTIAL EQUATIONS (II)",3,期,False,50,0,10,40,蔡志賢,"二2,3(理SC 4027) 四2(理SC 4027)","['', '23', '', '2', '', '', '']","《講授類》
+選修過微分方程(一)者才可選修。","['半導體製程模組學程', '應用數學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH401&Crsname=應用機率模型,,,False,應數系,MATH401,4,不分班,"應用機率模型
+APPLIED PROBABILITY MODELS",3,期,False,50,0,1,49,陳美如,"四2,3,4(理SC 4009-0)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH404&Crsname=隨機過程,異動,更換授課方式2/26,False,應數系,MATH404,4,不分班,"隨機過程
+STOCHASTIC  PROCESSES",3,期,False,50,0,1,49,許柏翰,"三2(理SC 4009-1) 四2,3(理SC 4009-1)","['', '', '2', '23', '', '', '']","《講授類》
+與碩士班併班上課。
+※英語授課",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH405&Crsname=統計品管,,,False,應數系,MATH405,4,不分班,"統計品管
+STATISTICAL QUALITY CONTROL",3,期,False,50,0,1,49,郭美惠,"一3,4(理SC 4009-1) 四4(理SC 4009-1)","['34', '', '', '4', '', '', '']","《講授類》
+與碩士班併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH429&Crsname=幾何拓樸,異動,更換部份時間及教室2/20,False,應數系,MATH429,4,不分班,"幾何拓樸
+GEOMETRIC TOPOLOGY",3,期,False,50,0,4,46,王以晟,"二3,4,B(理SC 4011-2)","['', '34B', '', '', '', '', '']","《講授類》
+限修畢線性代數(一)(二)、高等微積分(一)(二)及代數學(一)學生選修。與碩士班併班上課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH445&Crsname=分析代數專題研討（二）,,,False,應數系,MATH445,4,不分班,"分析代數專題研討（二）
+SEMINAR IN ANALYSIS AND ALGEBRA (II)",3,期,False,50,0,1,49,蔡志賢,"二5,6,7(理SC 4027)","['', '567', '', '', '', '', '']","《研討類》
+限修畢高等微積分(一)(二)學生選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH449&Crsname=數學建模專題研究,異動,更換時間2/20,False,應數系,MATH449,4,不分班,"數學建模專題研究
+INDEPENDENT STUDIES IN MATHEMATICAL MODELING",3,期,False,50,0,2,48,呂宗澤,一1(理SC 4011-2) 三1(理SC 4011-2) 四1(理SC 4011-2),"['1', '', '1', '1', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH451&Crsname=數理統計,,,False,應數系,MATH451,4,不分班,"數理統計
+MATHEMATICAL STATISTICS",3,期,False,50,0,2,48,施嘉翰,"二2(理SC 4009-1) 三3,4(理SC 4009-1)","['', '2', '34', '', '', '', '']","《講授類》
+與碩士班併班上課。","['金融工程學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH456&Crsname=存活分析,,,False,應數系,MATH456,4,不分班,"存活分析
+SURVIVAL ANALYSIS",3,期,False,50,0,1,49,張中,"一6,7,8(理SC 4009-1)","['678', '', '', '', '', '', '']","《講授類》
+與碩士班併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH489&Crsname=拓樸學,,,False,應數系,MATH489,3,不分班,"拓樸學
+TOPOLOGY",3,期,False,50,0,5,45,何宗軒,"三3,4,B(理SC 4013)","['', '', '34B', '', '', '', '']","《講授類》
+與碩士班併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SCI103&Crsname=生活科技概論,,,False,理學院,SCI103,0,不分班,"生活科技概論
+INTRODUCTION TO LIVING TECHNOLOGY",3,期,False,50,0,49,1,"劉昭成,林煥祥,郭建成","三C,D,E(理SC 1005)","['', '', 'CDE', '', '', '', '']","《講授類》
+理學院學生：課號SCI103。非理學院學生-跨院通識選修：課號GEAI1217。",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE1004&Crsname=微積分（二）,,,False,電機系,EE1004,1,甲班,"微積分（二）
+CALCULUS(II)",3,期,True,50,0,34,16,鍾思齊,"四2,3,4(工EC 1009)","['', '', '', '234', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班與物理系併班上課；電機系限該班及重修生修習",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE1004A&Crsname=微積分（二）,,,False,電機系,EE1004A,1,乙班,"微積分（二）
+CALCULUS(II)",3,期,True,50,0,32,18,鍾思齊,"四2,3,4(工EC 1009)","['', '', '', '234', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班與物理系併班上課；電機系限該班及重修生修習",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE1004B&Crsname=微積分（二）,,,False,電機系,EE1004B,1,全英班,"微積分（二）
+CALCULUS(II)",3,期,True,70,2,61,9,翁鵬絜,"五2,3,4(工EC 6019)","['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。與物理系全英語班併班上課 
+※英語授課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE1201&Crsname=微分方程,,,False,電機系,EE1201,1,甲班,"微分方程
+DIFFERENTIAL EQUATIONS",3,期,True,75,3,34,41,吳珮歆,"一5,6,7(工EC 3013)","['567', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限該班及重修生修習",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE1201A&Crsname=微分方程,,,False,電機系,EE1201A,1,乙班,"微分方程
+DIFFERENTIAL EQUATIONS",3,期,True,75,5,40,35,莊子肇,"一5,6,7(工EC 3014)","['567', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限該班及重修生修習",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE1201B&Crsname=微分方程,,,False,電機系,EE1201B,1,全英班,"微分方程
+DIFFERENTIAL EQUATIONS",3,期,True,75,0,75,0,吳珮歆,"三5,6,7(工EC 3012)","['', '', '567', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。
+※英語授課",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE2007&Crsname=電工實驗（二）,,,False,電機系,EE2007,2,甲班,"電工實驗（二）
+ELECTRICAL ENGINEERING LAB. (II)",1,期,True,56,0,44,12,"謝東佑,陳有德","四5,6,7(工EC 6023)(實驗)","['', '', '', '567', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課；限該班及重修生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE2007A&Crsname=電工實驗（二）,,,False,電機系,EE2007A,2,乙班,"電工實驗（二）
+ELECTRICAL ENGINEERING LAB. (II)",1,期,True,56,0,40,16,"陳有德,謝東佑","四5,6,7(工EC 6018)(實驗)","['', '', '', '567', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課；限該班及重修生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE2007B&Crsname=電工實驗（二）,,,False,電機系,EE2007B,2,全英班,"電工實驗（二）
+ELECTRICAL ENGINEERING LAB. (II)",1,期,True,56,0,44,12,"謝東佑,陳有德","五5,6,7(工EC 6018)(實驗)","['', '', '', '', '567', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。",[],True
