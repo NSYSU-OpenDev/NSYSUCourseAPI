@@ -1,0 +1,52 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO223&Crsname=環境科學概論,,,False,海科系,DO223,2,不分班,"環境科學概論
+INTRODUCTION TO ENVIRONMENTAL SCIENCE",2,期,False,50,0,28,22,雷漢杰,"四3,4(海MA 3020)","['', '', '', '34', '', '', '']",《講授類》,"['環境科技與管理學程', '看見臺灣海岸微學程', '環境教育學程', '氣候變遷與調適學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO243&Crsname=程式設計,,,False,海科系,DO243,2,不分班,"程式設計
+PROGRAMMING DESIGN",3,期,True,50,1,43,7,周佑誠,"三2,3,4(圖IL PC01)","['', '', '234', '', '', '', '']",《講授類》,"['擁海學程', '軟體工程學程', '自然科學之程式應用學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO246&Crsname=氣象學,,,False,海科系,DO246,2,不分班,"氣象學
+METEOROLOGY",2,期,False,15,0,6,9,"李逸環,陳昭銘","一7,8()","['78', '', '', '', '', '', '']","《講授類》
+本課程需自行前往國立高雄科技大學旗津校區教學大樓U603教室上課，請有意選修同學審慎考慮交通及安全問題！(上課時間每周一下午3:30-5:20)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO249&Crsname=海洋與大氣環流,,,False,海科系,DO249,2,不分班,"海洋與大氣環流
+OCEAN AND ATMOSPHERE CIRCULATIONS",2,期,False,35,2,22,13,李逸環,"四5,6(海MA 3020)","['', '', '', '56', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO253&Crsname=水文資料實作,,,False,海科系,DO253,2,不分班,"水文資料實作
+PRACTICE OF HYDROGRAPHIC DATA",2,期,False,50,0,12,38,方盈智,"五5,6(海MA 3040)","['', '', '', '', '56', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO302&Crsname=科學英文（二）,,,False,海科系,DO302,3,不分班,"科學英文（二）
+SCIENTIFIC ENGLISH (II)",2,期,True,50,0,23,27,林玉詩,"二3,4(海MA 3040)","['', '34', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限本系大三以上學生選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO323&Crsname=海水微量分析,,,False,海科系,DO323,3,不分班,"海水微量分析
+TRACE ANALYSIS OF SEAWATER",3,期,False,50,0,3,47,簡國童,"四6,7,8(海MA 3040)","['', '', '', '678', '', '', '']","《講授類》
+與DO613併班上課",['擁海學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO327&Crsname=海洋化學與地質數據處理,,,False,海科系,DO327,3,不分班,"海洋化學與地質數據處理
+DATA PROCESSING IN MARINE CHEMISTRY AND GEOLOGY",2,期,False,50,1,10,40,黃蔚人,"一6,7(海MA 3040)","['67', '', '', '', '', '', '']","《講授類》
+與DO690併班上課","['擁海學程', '熱帶海洋微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO328&Crsname=淨零碳排策略,,,False,海科系,DO328,3,不分班,"淨零碳排策略
+STRATEGIES TO REACH CARBON NET ZERO",3,期,False,50,2,31,19,洪慶章,"五6,7,8(海MA 3020)","['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO331&Crsname=古海洋學概論,,,False,海科系,DO331,4,不分班,"古海洋學概論
+INTRODUCTION TO PALEOCEANOGRAPHY",3,期,False,50,0,8,42,林慧玲,"三2,3,4(海MA 1005)","['', '', '234', '', '', '', '']",《講授類》,"['環境教育學程', '氣候變遷與調適學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO342&Crsname=流體力學（二）,,,False,海科系,DO342,3,不分班,"流體力學（二）
+FLUID MECHANICS (II)",2,期,False,50,0,5,45,曾若玄,"一3,4(海MA 3040)","['34', '', '', '', '', '', '']","《講授類》
+與DO552併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO346&Crsname=波浪與潮汐,異動,更換教室2/21,False,海科系,DO346,3,不分班,"波浪與潮汐
+WAVE AND TIDE",3,期,False,50,1,5,45,陳冠宇,"二6,7(海MA 2009) 五3(海MA 2009)","['', '67', '', '', '3', '', '']","《講授類》
+與DO665併班上課。","['擁海學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO403&Crsname=校外實習,,,False,海科系,DO403,4,不分班,"校外實習
+OFF-CAMPUS INTERNSHIP AND PRACTICE",3,期,False,50,0,4,46,林玉詩,"六2,3,4,5,6,7()(實驗)","['', '', '', '', '', '234567', '']","《實習類》
+『本課程之限修，於加退選2階段開放選修』。限本系學生選修",['擁海學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO404&Crsname=海洋環境影響評估,,,False,海科系,DO404,4,不分班,"海洋環境影響評估
+MARINE ENVIRONMENTAL IMPACT ASSESSMENT",3,期,False,50,0,13,37,"塗子萱,劉莉蓮","一6,7,8(海MA 3020)","['678', '', '', '', '', '', '']","《講授類》
+與DO714併班上課。",['擁海學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO406&Crsname=專題討論,,,False,海科系,DO406,4,不分班,"專題討論
+SEMINAR",2,期,True,50,0,30,20,黃蔚人,"二3,4(海MA 1005)","['', '34', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO425&Crsname=海洋地球化學,,,False,海科系,DO425,4,不分班,"海洋地球化學
+MARINE GEOCHEMISTRY",3,期,False,50,1,4,46,簡國童,"二6,7,8(海MA 3040)","['', '678', '', '', '', '', '']","《講授類》
+與DO666併班上課",['擁海學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO450&Crsname=海洋遙測及應用,,,False,海科系,DO450,4,不分班,"海洋遙測及應用
+APPLICATION OF REMOTE SENSING IN OCEANOGRAPHY",3,期,False,50,0,14,36,張懿,"三5,6,7(圖IL PC02)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MRSC102&Crsname=基礎海洋學,,,False,海科院（學）,MRSC102,0,不分班,"基礎海洋學
+FUNDAMENTALS OF OCEANOGRAPHY",3,期,False,10,0,8,2,"黃蔚人,張詠斌,托星豪,李逸環","五2,3,4(海MA 3021)","['', '', '', '', '234', '', '']",《講授類》,"['熱帶海洋微學程', '看見臺灣海岸微學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MRSC102A&Crsname=基礎海洋學,,,False,海科院（學）,MRSC102A,0,不分班,"基礎海洋學
+FUNDAMENTALS OF OCEANOGRAPHY",3,期,False,10,1,1,9,慕樂凡,"五2,3,4(海MB 1005)","['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課","['熱帶海洋微學程', '看見臺灣海岸微學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MRSC105&Crsname=環境教育,新增,1/15,False,海科院（學）,MRSC105,0,不分班,"環境教育
+ENVIROMENTAL EDUCATION",2,期,False,50,0,8,42,謝百淇,"一3,4(社SS 2005)","['34', '', '', '', '', '', '']",《講授類》,"['原民文化探索及永續發展學程', '實踐環境教育微學程', '環境教育學程', '氣膠科學環境教育微學程', 'STREAM永續發展培力微學程']",False
