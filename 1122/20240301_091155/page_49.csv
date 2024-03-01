@@ -1,0 +1,62 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS323&Crsname=資料庫系統專案（一）,異動,確認教師2/15,True,資管系,MIS323,3,不分班,"資料庫系統專案（一）
+DATABASE SYSTEMS PROJECT (I)",3,期,True,50,2,4,46,羅珮綺,"六C,D,E(管CM 1019)","['', '', '', '', '', 'CDE', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系三年級",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS324&Crsname=企業流程專案（一）,,,True,資管系,MIS324,3,不分班,"企業流程專案（一）
+BUSINESS PROCESS PROJECT I",3,期,True,50,0,6,44,康藝晃,"日C,D,E(管CM 2016)","['', '', '', '', '', '', 'CDE']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系三年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS325&Crsname=電子商務專案（一）,,,True,資管系,MIS325,3,不分班,"電子商務專案（一）
+ELECTRONIC COMMERCE PROJECT (I)",3,期,True,50,0,6,44,李偉柏,"六C,D,E(管CM 2016)","['', '', '', '', '', 'CDE', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系三年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS326&Crsname=多媒體網路專案（一）,,,True,資管系,MIS326,3,不分班,"多媒體網路專案（一）
+MULTIMEDIA NETWORK PROJECT (I)",3,期,True,50,0,7,43,楊惠芳,一A(管CM 2016) 六A(管CM 2016) 日A(管CM 2016),"['A', '', '', '', '', 'A', 'A']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系三年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS327&Crsname=智慧型系統專案（一）,,,True,資管系,MIS327,3,不分班,"智慧型系統專案（一）
+INTELLIGENT SYSTEM PROJECT (I)",3,期,True,50,1,5,45,林耕霈,一1(管CM 2016) 二1(管CM 2016) 五1(管CM 2016),"['1', '1', '', '', '1', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系三年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS328&Crsname=產銷資訊系統專案（一）,,,True,資管系,MIS328,3,不分班,"產銷資訊系統專案（一）
+PRODUCTION-MARKETING INFORMATION SYSTEMS PROJECT (I)",3,期,True,50,0,7,43,劉賓陽,"三1(管CM 2016) 四1,A(管CM 2016)","['', '', '1', 'A1', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限資管系三年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS329&Crsname=決策支援系統專案（一）,,,True,資管系,MIS329,3,不分班,"決策支援系統專案（一）
+DECISION SUPPORT SYSTEMS PROJECT (I)",3,期,True,50,0,5,45,李捷,"三1(管CM 1019) 四1,A(管CM 1019)","['', '', '1', 'A1', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS445&Crsname=電子商務,異動,更換時間及教室2/23,False,資管系,MIS445,3,不分班,"電子商務
+ELECTRONIC COMMERCE",3,期,True,50,7,52,-2,陳偉慶,"四5,6,7(管CM 4069)","['', '', '', '567', '', '', '']",《講授類》,"['金融科技與創新微學程', '行銷管理學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM107&Crsname=初級會計學（二）,,,False,財管系,FM107,1,不分班,"初級會計學（二）
+ACCOUNTING(II)",3,期,True,65,2,62,3,吳藺芝,"一2,3,4(管CM 1037)","['234', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM109&Crsname=經濟學（二）,,,False,財管系,FM109,1,不分班,"經濟學（二）
+ECONOMICS(II)",3,期,True,60,0,59,1,佘博文,"三2,3,4(管CM 2037)","['', '', '234', '', '', '', '']","《講授類》
+限財管系(含雙主修、輔系)",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM110&Crsname=微積分（二）,,,False,財管系,FM110,1,不分班,"微積分（二）
+CALCULUS(II)",3,期,True,60,9,60,0,卓建宏,"四2,3,4(管CM 1037)","['', '', '', '234', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM111&Crsname=管理學,,,False,財管系,FM111,1,不分班,"管理學
+MANAGEMENT",3,期,True,55,0,54,1,張世賢,"三5,6,7(管CM 1032)","['', '', '567', '', '', '', '']","《講授類》
+限財管系(含雙主修、輔系)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM112&Crsname=財務軟體應用,異動,更換教室2/21,False,財管系,FM112,1,不分班,"財務軟體應用
+COMPUTER APPLICATION IN FINANCIAL MANAGEMENT",3,期,False,50,2,46,4,翁培師,"二5,6,7(圖IL PC02)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM206&Crsname=統計學（二）,,,False,財管系,FM206,2,不分班,"統計學（二）
+STATISTICS(II)",3,期,True,65,0,50,15,蔡秉真,"二5,6,7(管CM 3015)","['', '567', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系
+※英語授課",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM207&Crsname=財務管理（二）,,,False,財管系,FM207,2,不分班,"財務管理（二）
+FINANCIAL MANAGEMENT (II)",3,期,True,50,1,50,0,封之遠,"三5,6,7(管CM 2037)","['', '', '567', '', '', '', '']","《講授類》
+限財管系(含雙主修、輔系)",['財務管理專業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM208&Crsname=中級會計學（二）,,,False,財管系,FM208,2,不分班,"中級會計學（二）
+INTERMEDIATE ACCOUNTING (II)",3,期,True,70,3,60,10,吳藺芝,"二2,3,4(管CM 1037)","['', '234', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系 
+※英語授課",['會計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM209&Crsname=商事法,,,False,財管系,FM209,2,不分班,"商事法
+BUSINESS LAW",3,期,True,60,10,53,7,周宜鋒,"五2,3,4(管CM 1025)","['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM301&Crsname=財務報表分析,異動,更換教室2/27,False,財管系,FM301,3,不分班,"財務報表分析
+FINANCIAL STATEMENT ANALYSIS",3,期,True,75,5,47,28,蔡佳芬,"四5,6,7(管CM 3017)","['', '', '', '567', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系","['會計學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM310&Crsname=期貨與選擇權概論,,,False,財管系,FM310,3,不分班,"期貨與選擇權概論
+INTRODUCTION TO OPTIONS AND FUTURES",3,期,True,50,1,51,-1,鄭義,"一1,2,3(管CM 2037)","['123', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系","['金融工程學程', '金融科技學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM312&Crsname=管理會計,,,False,財管系,FM312,3,不分班,"管理會計
+MANAGERIAL ACCOUNTING",3,期,False,50,1,20,30,陳俐聿,"四2,3,4(管CM 2025)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課",['會計學程'],False
