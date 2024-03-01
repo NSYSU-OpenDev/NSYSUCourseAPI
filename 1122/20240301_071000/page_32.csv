@@ -1,0 +1,59 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM216A&Crsname=無機化學（一）,異動,更換部份時間12/29,False,化學系,CHEM216A,2,全英班,"無機化學（一）
+INORGANIC CHEMISTRY(I)",3,期,True,50,0,24,26,梁蘭昌,"一4(理CH 3002) 三3,4(理CH 3002)","['4', '', '34', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM217&Crsname=物理化學（一）,,,False,化學系,CHEM217,2,不分班,"物理化學（一）
+PHYSICAL CHEMISTRY (I)",3,期,True,50,0,40,10,張元賓,"一4(理SC 3001) 三2,3(理SC 3001)","['4', '', '23', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM217A&Crsname=物理化學（一）,,,False,化學系,CHEM217A,2,全英班,"物理化學（一）
+PHYSICAL CHEMISTRY (I)",3,期,True,50,0,24,26,王家蓁,"一5(理SC 3001) 二5,6(理SC 3001)","['5', '56', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM318&Crsname=專題研究（二）,,,False,化學系,CHEM318,3,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,4,12,38,李志聰,一A() 三A() 五A(),"['A', '', 'A', '', 'A', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM321&Crsname=書報討論,,,True,化學系,CHEM321,3,不分班,"書報討論
+SEMINAR",1,期,True,15,0,15,0,張柏齡,一4(理CH 2002),"['4', '', '', '', '', '', '']","《研討類》
+『本課程之限修，於加退選2階段開放選修』。限分析領域",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM321A&Crsname=書報討論,,,False,化學系,CHEM321A,3,全英班,"書報討論
+SEMINAR",1,期,True,15,1,8,7,梁子輝,一7(理SC 0009),"['7', '', '', '', '', '', '']","《研討類》
+『本課程之限修，於加退選2階段開放選修』。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM321B&Crsname=書報討論,,,True,化學系,CHEM321B,3,不分班,"書報討論
+SEMINAR",1,期,True,20,6,14,6,李志聰,一4(理SC 3003-2),"['4', '', '', '', '', '', '']","《研討類》
+『本課程之限修，於加退選2階段開放選修』。限有機領域",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM321C&Crsname=書報討論,異動,更換教室2/21,True,化學系,CHEM321C,3,不分班,"書報討論
+SEMINAR",1,期,True,15,1,8,7,楊崇鑫,一5(理SC 1003),"['5', '', '', '', '', '', '']","《研討類》
+『本課程之限修，於加退選2階段開放選修』。限物化領域",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM321D&Crsname=書報討論,,,True,化學系,CHEM321D,3,不分班,"書報討論
+SEMINAR",1,期,True,15,1,5,10,蔡明利,一6(理SC 0009),"['6', '', '', '', '', '', '']","《研討類》
+『本課程之限修，於加退選2階段開放選修』。限無機領域",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM404&Crsname=專題研究（四）,,,False,化學系,CHEM404,4,不分班,"專題研究（四）
+INDEPENDENT STUDIES(IV)",3,期,False,50,0,2,48,李志聰,二A() 四A() 五B(),"['', 'A', '', 'A', 'B', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM413&Crsname=奈米薄層結構分析,異動,更換教室2/23,False,化學系,CHEM413,4,不分班,"奈米薄層結構分析
+NANO THIN LAYER STRUCTURE ANALYSIS",3,期,False,50,2,28,22,謝淑貞,"五2,3,4(理SC 0009)","['', '', '', '', '234', '', '']","《講授類》
+化學系主題課程。2-4年級皆可選修。",['有機和材料合成學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM423&Crsname=化學與半導體產業創新與創業講座,,,False,化學系,CHEM423,4,不分班,"化學與半導體產業創新與創業講座
+SPECIAL LECTURES ON INNOVATION AND ENTREPRENEURSHIP IN CHEMICAL AND SEMICONDUCTOR INDUSTRIES",3,期,False,40,3,37,3,"李志聰,曾韋龍","三2,3,4(理SC 1001)","['', '', '234', '', '', '', '']","《演講/參訪》
+2-4年級皆可選修。",['半導體化學'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM427&Crsname=化學實驗之程式應用,,,False,化學系,CHEM427,4,不分班,"化學實驗之程式應用
+PROGRAM APPLICATIONS FOR CHEMICAL EXPERIMENTS",3,期,False,50,2,9,41,楊崇鑫,"一2,3,4(理SC 3004)","['234', '', '', '', '', '', '']","《講授類》
+化學系主題課程。2-4年級皆可選修。",['自然科學之程式應用學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM429&Crsname=氣膠科學導論,,,False,化學系,CHEM429,4,不分班,"氣膠科學導論
+FUNDAMENTALS OF AEROSOL SCIENCES",3,期,False,50,0,2,48,王家蓁,"五6,7,8(理SC 0009)","['', '', '', '', '678', '', '']","《講授類》
+化學系主題課程。2-4年級皆可選修。
+※英語授課","['海洋天然物微學程', '氣膠、大氣與海洋微學程', '氣膠科學環境教育微學程', 'STREAM永續發展培力微學程', '工業污染防治及減排微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM433&Crsname=有機化學（三）,異動,調升名額2/21,False,化學系,CHEM433,2,不分班,"有機化學（三）
+ORGANIC CHEMISTRY(III)",3,期,False,70,2,49,21,王志偉,"三5,6,7(理SC 3001)","['', '', '567', '', '', '', '']","《講授類》
+化學系主題課程。2-4年級皆可選修。","['天然藥物合成學程', '有機和材料合成學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM435&Crsname=食安、微生物、與消化道疾病,,,False,化學系,CHEM435,4,不分班,"食安、微生物、與消化道疾病
+FOOD SAFETY,MICROORGANISMS,AND DISEASE OF DIGESTIVE SYSTEM",3,期,False,200,15,154,46,"謝建台,邱素芬","一5,6,7(理SC 1005)","['567', '', '', '', '', '', '']","《講授類》
+2-4年級皆可選修。","['食品安全學程', '校園預防醫學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM436&Crsname=無機化學（三）,異動,更換部份時間12/29,False,化學系,CHEM436,3,不分班,"無機化學（三）
+INORGANIC CHEMISTRY (III)",3,期,False,50,0,18,32,梁蘭昌,"一2,3(理CH 3002) 三2(理CH 3002)","['23', '', '2', '', '', '', '']","《講授類》
+化學系主題課程。3-4年級皆可選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM437&Crsname=分析化學（三）,異動,更換時間1/16,False,化學系,CHEM437,2,不分班,"分析化學（三）
+ANALYTICAL CHEMISTRY (III)",3,期,False,50,3,47,3,曾韋龍,"四6,7,8(理SC 3001)","['', '', '', '678', '', '', '']","《講授類》
+化學系主題課程。2-4年級皆可選修。",['半導體化學'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM439&Crsname=半導體微汙染化學分析,,,False,化學系,CHEM439,4,不分班,"半導體微汙染化學分析
+CHEMICAL ANALYSIS FOR MICRO-CONTAMINATION IN SEMICONDUCTOR MANUFACTURING",3,期,False,140,13,136,4,謝建台,"四5,6,7(理SC 1005)","['', '', '', '567', '', '', '']","《講授類》
+2-4年級皆可選修。",['半導體化學'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CHEM440&Crsname=物理化學（三）,異動,更換教室2/17,False,化學系,CHEM440,3,不分班,"物理化學（三）
+PHYSICAL CHEMISTRY (III)",3,期,False,50,8,32,18,蔣昭明,"二6,7(理SC 0008) 五5(理SC 0008)","['', '67', '', '', '5', '', '']","《講授類》
+化學系主題課程。3-4年級皆可選修。",[],False
