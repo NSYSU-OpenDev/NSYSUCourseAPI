@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GESL412&Crsname=服務學習：國際扶輪志工服務學習,,,False,服務學習,GESL412,0,不分班,"服務學習：國際扶輪志工服務學習
+SERVICE LEARNING: LEARNING ROTARY INTERNATIONAL VOLUNTEER SERVICE PROJECT",1,期,True,30,0,30,0,張延惠,"一3,4(通GE 3013)","['34', '', '', '', '', '', '']","《服務學習類》
+限大二以上修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GESL415&Crsname=服務學習：弱勢孩童的標靶教學,,,False,服務學習,GESL415,0,不分班,"服務學習：弱勢孩童的標靶教學
+SERVICE LEARNING: TARGET LEARNING FOR DISADVANTAGED STUDENTS",1,期,True,60,3,59,1,游尚儒,"五8,9(管CM 4112)","['', '', '', '', '89', '', '']","《服務學習類》
+1.限大二以上修習。  2.第一週(2/23)請務必參與以了解課程規劃。  3.第三週(3/8)將舉行職前講習訓練，修課同學一律要求參加，若不克前來請勿選修或請退選本課程。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL104&Crsname=國學導讀（二）,,,False,中文系,CL104,1,不分班,"國學導讀（二）
+INTRODUCTION TO CHINESE CLASSICAL STUDIES(II)",2,期,True,55,0,52,3,黃羽璿,"三3,4(文LA 4005)","['', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL106&Crsname=文學概論（二）,,,False,中文系,CL106,1,不分班,"文學概論（二）
+INTRODUCTION TO LITERATURE(II)",2,期,True,50,1,49,1,莫加南,"四3,4(文LA 4005)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL121&Crsname=現代詩選與寫作,,,False,中文系,CL121,1,不分班,"現代詩選與寫作
+MODERN POETRY:READINGS AND COMPOSITION",3,期,False,50,0,13,37,賴佩暄,"四6,7,8(文LA 4001)","['', '', '', '678', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL130&Crsname=楚辭,,,False,中文系,CL130,3,不分班,"楚辭
+CH'U TZ'U",3,期,False,30,0,28,2,鍾志偉,"四5,6,7(文LA 4003)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL144&Crsname=東坡詞,,,False,中文系,CL144,3,不分班,"東坡詞
+SU SHIH'S TSU",3,期,False,25,0,10,15,劉昭明,"一6,7,8(文LA 4001)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL149&Crsname=語言學概論,,,False,中文系,CL149,1,不分班,"語言學概論
+LINGUISTICS",2,期,True,55,2,52,3,杜佳倫,"一3,4(文LA 4005)","['34', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL151&Crsname=古典小說選（二）,,,False,中文系,CL151,4,不分班,"古典小說選（二）
+CLASSICAL NOVELS（II）",3,期,False,35,1,14,21,羅景文,"三2,3,4(文LA 4004)","['', '', '234', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL186&Crsname=李商隱詩,,,False,中文系,CL186,2,不分班,"李商隱詩
+POETRY OF LI SHANG-YIN",3,期,False,50,0,4,46,陳秋宏,"三2,3,4(文LA 4002)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL187&Crsname=中國園林文學,,,False,中文系,CL187,2,不分班,"中國園林文學
+CHINESE GARDEN LITERATURE",3,期,False,50,0,15,35,林孜曄,"一2,3,4(文LA 4002)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL202&Crsname=中國文學史（二）,,,False,中文系,CL202,2,不分班,"中國文學史（二）
+HISTORY OF CHINESE LITERATURE(II)",3,期,True,50,1,49,1,羅景文,"四2,3,4(文LA 2004)","['', '', '', '234', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL206&Crsname=詩選及習作（二）,,,True,中文系,CL206,2,不分班,"詩選及習作（二）
+READING IN CHINESE CLASSICAL POETRY SHIH(II)",3,期,True,30,0,24,6,陳秋宏,"三5,6,7(文LA 2004)","['', '', '567', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL206A&Crsname=詩選及習作（二）,,,True,中文系,CL206A,2,不分班,"詩選及習作（二）
+READING IN CHINESE CLASSICAL POETRY SHIH(II)",3,期,True,30,1,25,5,林孜曄,"三5,6,7(文LA 4002)","['', '', '567', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL208&Crsname=歷代文選及習作（二）,,,True,中文系,CL208,2,不分班,"歷代文選及習作（二）
+READING IN CHINESE CLASSICAL PROSE(II)",3,期,True,30,0,18,12,鍾志偉,"一5,6,7(文LA 4002)","['567', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL208A&Crsname=歷代文選及習作（二）,,,True,中文系,CL208A,2,不分班,"歷代文選及習作（二）
+READING IN CHINESE CLASSICAL PROSE(II)",3,期,True,30,0,25,5,吳孟謙,"二5,6,7(文LA 4002)","['', '567', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL250&Crsname=文字學,,,False,中文系,CL250,2,不分班,"文字學
+CHINESE PALEOGRAPHY",3,期,True,50,1,50,0,顧永光,"二2,3,4(文LA 4002)","['', '234', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL250A&Crsname=佛學概論,,,False,中文系,CL250A,3,不分班,"佛學概論
+INTRODUCTION TO BUDDHISM",3,期,False,50,0,10,40,謝薇娜,"一2,3,4(文LA 4003)","['234', '', '', '', '', '', '']",《講授類》,['國際漢學微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL267&Crsname=史記（一）,,,False,中文系,CL267,1,不分班,"史記（一）
+SHIH CHI(I)",3,期,False,50,1,40,10,黃羽璿,"三5,6,7(文LA 4004)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CL271&Crsname=禪宗導讀,,,False,中文系,CL271,3,不分班,"禪宗導讀
+INTRODUCTION TO CHAN BUDDHISM",3,期,False,35,0,13,22,吳孟謙,"一6,7,8(文LA 4003)","['678', '', '', '', '', '', '']",《講授類》,[],False
