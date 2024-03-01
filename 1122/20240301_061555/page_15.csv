@@ -1,0 +1,66 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1325B&Crsname=微分方程,,,False,跨院選修(工),GEAI1325B,0,不分班,"微分方程
+DIFFERENTIAL EQUATIONS",3,期,True,10,0,4,6,吳珮歆,"三5,6,7(工EC 3012)","['', '', '567', '', '', '', '']","《講授類》
+優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。跨院通識與電機系EE1201B課程併班上課
+※英語授課",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1327&Crsname=嵌入式軟體設計,,,False,跨院選修(工),GEAI1327,0,不分班,"嵌入式軟體設計
+EMBEDDED SOFTWARE DESIGN AND PRACTICE",3,期,False,10,0,8,2,邱日清,"三5,6,7(工EC 2010)","['', '', '567', '', '', '', '']","《講授類》
+跨院通識與電機系EE2710課程併班上課","['人工智慧與數學學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1334&Crsname=機率學,,,False,跨院選修(工),GEAI1334,0,不分班,"機率學
+PROBABILITY",3,期,True,5,1,2,3,陳嘉平,"三2,3,4(工EC 2011)","['', '', '234', '', '', '', '']","《講授類》
+跨院通識與資工系CSE280課程併班上課","['製造與大數據分析微學程', '機器學習與應用微學程', '機器學習與多媒體技術學程', '巨量資料分析學程', '跨領域智慧製造學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1341&Crsname=電機機械,,,False,跨院選修(工),GEAI1341,0,不分班,"電機機械
+ELECTRICAL MACHINES",3,期,True,10,0,0,10,劉承宗,"一2,3,4(工EC 6019)","['234', '', '', '', '', '', '']","《講授類》
+院通識與電機系EE3402課程併班上課","['永續能源學程', '半導體設備工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1341A&Crsname=電機機械,,,False,跨院選修(工),GEAI1341A,0,不分班,"電機機械
+ELECTRICAL MACHINES",3,期,True,10,0,0,10,謝耀慶,"五2,3,4(工EC 1009)","['', '', '', '', '234', '', '']","《講授類》
+跨院通識與電機系EE3402A課程併班上課","['永續能源學程', '半導體設備工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1341B&Crsname=電機機械,異動,更換教室2/16,False,跨院選修(工),GEAI1341B,0,不分班,"電機機械
+ELECTRICAL MACHINES",3,期,True,10,0,0,10,哈菲茲,"一2,3,4(工EC 2002)","['234', '', '', '', '', '', '']","《講授類》
+優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。跨院通識與電機系EE3402B課程併班上課
+※英語授課","['永續能源學程', '半導體設備工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1342&Crsname=電磁學（二）,,,False,跨院選修(工),GEAI1342,0,不分班,"電磁學（二）
+ELECTROMAGNETICS (II)",3,期,True,10,1,0,10,洪子聖,"二2,3,4(工EC 1001)","['', '234', '', '', '', '', '']","《講授類》
+跨院通識與電機系EE3501課程併班上課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1342B&Crsname=電磁學（二）,,,False,跨院選修(工),GEAI1342B,0,不分班,"電磁學（二）
+ELECTROMAGNETICS (II)",3,期,True,10,0,1,9,王復康,"二2,3,4(工EC 3012)","['', '234', '', '', '', '', '']","《講授類》
+優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。跨院通識與電機系EE3501B課程併班上課
+※英語授課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1343&Crsname=機率與統計,異動,更換教室2/19,True,跨院選修(工),GEAI1343,0,不分班,"機率與統計
+PROBABILITY THEORY",3,期,True,10,1,6,4,陳有德,"三2,3,4(工EC 3013)","['', '', '234', '', '', '', '']","《講授類》
+跨院通識與電機系EE3607課程併班上課","['半導體設備工程學程', '南星產業樞紐學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1343B&Crsname=機率與統計,,,True,跨院選修(工),GEAI1343B,0,不分班,"機率與統計
+PROBABILITY THEORY",3,期,True,10,3,1,9,梁家昌,"二6,7,8(工EC 3013)","['', '678', '', '', '', '', '']","《講授類》
+優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。跨院通識與電機系EE3607B課程併班上課
+※英語授課","['半導體設備工程學程', '南星產業樞紐學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1350&Crsname=計算機組織,,,False,跨院選修(工),GEAI1350,0,不分班,"計算機組織
+COMPUTER ORGANIZATION",3,期,False,10,2,8,2,施信毓,"四6,7,8(工EC 2010)","['', '', '', '678', '', '', '']","《講授類》
+跨院通識與電機系EE2711課程併班上課","['軟體工程學程', '數位IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1364&Crsname=資料探勘,,,False,跨院選修(工),GEAI1364,0,不分班,"資料探勘
+DATA MINING",3,期,False,10,2,9,1,蔡崇煒,"四6,7,8(工EC 1005)","['', '', '', '678', '', '', '']","《講授類》
+跨院通識與資工系CSE223課程併班上課","['智慧製造聯網微學程', '製造與大數據分析微學程', '跨領域智慧製造學程', '智慧長照微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1366&Crsname=應用電子學,,,False,跨院選修(工),GEAI1366,0,不分班,"應用電子學
+APPLIED ELECTRONICS",3,期,True,10,0,1,9,林哲信,"三2,3,4(工EC 3002)","['', '', '234', '', '', '', '']","《講授類》
+限該班及重修生修習。跨院通識與機電系MEME209A課程併班上課","['自然科學之程式應用學程', '海事工程學程', '半導體設備工程學程', '半導體元件學程', '南星產業樞紐學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1401&Crsname=經濟學（二）,異動,調整名額2/23,False,跨院選修(管),GEAI1401,0,不分班,"經濟學（二）
+ECONOMICS (II)",3,期,True,15,1,14,1,林晉禾,"三2,3,4(管CM 0052)","['', '', '234', '', '', '', '']","《講授類》
+跨院通識與企管系BM106A課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1403&Crsname=管理學,異動,調升名額2/22,False,跨院選修(管),GEAI1403,0,不分班,"管理學
+MANAGEMENT",3,期,True,26,1,26,0,林豪傑,"一5,6,7(管CM 2037)","['567', '', '', '', '', '', '']","《講授類》
+跨院通識與企管系BM112課程併班上課","['音樂藝術管理與行銷學程', '人力資源管理學程', '地方敘事與創生學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1403A&Crsname=管理學,,,False,跨院選修(管),GEAI1403A,0,不分班,"管理學
+MANAGEMENT",3,期,True,34,0,34,0,王致遠,"三5,6,7(管CM 1037)","['', '', '567', '', '', '', '']","《講授類》
+跨院通識與企管系BM112A課程併班上課","['音樂藝術管理與行銷學程', '人力資源管理學程', '地方敘事與創生學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1409&Crsname=經濟學實習（二）,,,False,跨院選修(管),GEAI1409,0,不分班,"經濟學實習（二）
+ECONOMICS PRACITCE(II)",1,期,False,10,1,1,9,林晉禾,"一8,9(管CM 0052)(實驗)","['89', '', '', '', '', '', '']","《實習類》
+跨院通識與企管系BM108A課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1416&Crsname=財務管理,異動,調整名額2/1,False,跨院選修(管),GEAI1416,0,不分班,"財務管理
+FINANCIAL MANAGEMENT",3,期,True,30,4,28,2,陳安琳,"一2,3,4(管CM 4112)","['234', '', '', '', '', '', '']","《講授類》
+跨院通識與企管系BM301課程併班上課","['金融工程學程', '金融工程學程', '會計學程', '科技創新與服務業管理學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1416A&Crsname=財務管理,,,False,跨院選修(管),GEAI1416A,0,不分班,"財務管理
+FINANCIAL MANAGEMENT",3,期,True,30,5,27,3,陳安琳,"二2,3,4(管CM 4112)","['', '234', '', '', '', '', '']","《講授類》
+ 跨院通識與企管系BM301A課程併班上課","['金融工程學程', '金融工程學程', '會計學程', '科技創新與服務業管理學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1418&Crsname=統計學（二）,異動,更換教室2/19,False,跨院選修(管),GEAI1418,0,不分班,"統計學（二）
+STATISTICS (II)",3,期,True,10,0,5,5,林晉禾,"一5,6,7(管CM 0052)","['567', '', '', '', '', '', '']","《講授類》
+優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。跨院通識與企管系BM202課程併班上課
+※英語授課",['金融工程學程'],False
