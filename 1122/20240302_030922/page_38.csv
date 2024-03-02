@@ -1,0 +1,63 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3113&Crsname=化合物半導體概論,,,False,電機系,EE3113,3,不分班,"化合物半導體概論
+INTRODUCTION TO COMPOUND SEMICONDUCTORS",3,期,False,55,3,41,14,劉漢胤,"三2,3,4(工EC 3009)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3210&Crsname=音頻電路設計,異動,更換時間及教室1/9,False,電機系,EE3210,3,不分班,"音頻電路設計
+AUDIO CIRCUIT DESIGN",3,期,False,50,1,42,8,余祥華,"一5,6,7(工EC 2010)","['567', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3310&Crsname=離散數學,,,True,電機系,EE3310,3,甲班,"離散數學
+DISCRETE MATHEMATICS",3,期,True,56,3,54,2,陳伯煒,"三2,3,4(工EC 6019)","['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課；限該班及重修生修習",['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3310A&Crsname=離散數學,,,True,電機系,EE3310A,3,乙班,"離散數學
+DISCRETE MATHEMATICS",3,期,True,56,2,49,7,陳伯煒,"三2,3,4(工EC 6019)","['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課；限該班及重修生修習",['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3310B&Crsname=離散數學,,,True,電機系,EE3310B,3,全英班,"離散數學
+DISCRETE MATHEMATICS",3,期,True,56,0,9,47,梁家昌,"五6,7,8(工EC 3013)","['', '', '', '', '678', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。
+※英語授課",['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3402&Crsname=電機機械,,,False,電機系,EE3402,2,甲班,"電機機械
+ELECTRICAL MACHINES",3,期,True,75,0,69,6,劉承宗,"一2,3,4(工EC 6019)","['234', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限該班及重修生修習","['永續能源學程', '半導體設備工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3402A&Crsname=電機機械,,,False,電機系,EE3402A,2,乙班,"電機機械
+ELECTRICAL MACHINES",3,期,True,75,0,38,37,謝耀慶,"五2,3,4(工EC 1009)","['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限該班及重修生修習","['永續能源學程', '半導體設備工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3402B&Crsname=電機機械,異動,更換教室2/16,False,電機系,EE3402B,2,全英班,"電機機械
+ELECTRICAL MACHINES",3,期,True,75,4,75,0,哈菲茲,"一2,3,4(工EC 2002)","['234', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。
+※英語授課","['永續能源學程', '半導體設備工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3501&Crsname=電磁學（二）,,,False,電機系,EE3501,2,甲班,"電磁學（二）
+ELECTROMAGNETICS (II)",3,期,True,80,1,66,14,洪子聖,"二2,3,4(工EC 1001)","['', '234', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課；限該班及重修生修習",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3501A&Crsname=電磁學（二）,,,False,電機系,EE3501A,2,乙班,"電磁學（二）
+ELECTROMAGNETICS (II)",3,期,True,80,2,57,23,洪子聖,"二2,3,4(工EC 1001)","['', '234', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課；限該班及重修生修習",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3501B&Crsname=電磁學（二）,,,False,電機系,EE3501B,2,全英班,"電磁學（二）
+ELECTROMAGNETICS (II)",3,期,True,80,3,27,53,王復康,"二2,3,4(工EC 3012)","['', '234', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。
+※英語授課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3503&Crsname=微波元件導論,,,False,電機系,EE3503,2,不分班,"微波元件導論
+INTRODUCTION TO MICROWAVE DEVICES",3,期,False,50,3,32,18,李杰穎,"二5,6,7(工EC 3012)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3607&Crsname=機率與統計,異動,更換教室2/19,True,電機系,EE3607,2,甲班,"機率與統計
+PROBABILITY THEORY",3,期,True,56,2,19,37,陳有德,"三2,3,4(工EC 3013)","['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課；限該班及重修生修習","['半導體設備工程學程', '南星產業樞紐學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3607A&Crsname=機率與統計,異動,更換教室2/29,True,電機系,EE3607A,2,乙班,"機率與統計
+PROBABILITY THEORY",3,期,True,56,0,14,42,陳有德,"三2,3,4(工EC 3013)","['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課；限該班及重修生修習","['半導體設備工程學程', '南星產業樞紐學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3607B&Crsname=機率與統計,,,True,電機系,EE3607B,2,全英班,"機率與統計
+PROBABILITY THEORY",3,期,True,56,1,40,16,梁家昌,"二6,7,8(工EC 3013)","['', '678', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。
+※英語授課","['半導體設備工程學程', '南星產業樞紐學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3617&Crsname=通訊系統模擬,,,False,電機系,EE3617,3,不分班,"通訊系統模擬
+SIMULATIONS OF COMMUNICATION SYSTEMS",3,期,False,50,5,50,0,"黃婉甄,陳彥銘","四5,6,7(工EC 6016)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3702&Crsname=ＶＬＳＩ設計導論,,,False,電機系,EE3702,3,不分班,"ＶＬＳＩ設計導論
+INTRODUCTION TO VLSI DESIGN",3,期,False,50,3,11,39,王朝欽,"一2,3,4(工EC 3012)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '數位IC設計學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3702A&Crsname=ＶＬＳＩ設計導論,,,False,電機系,EE3702A,3,不分班,"ＶＬＳＩ設計導論
+INTRODUCTION TO VLSI DESIGN",3,期,False,50,0,43,7,李宗哲,"四5,6,7(工EC 3014)","['', '', '', '567', '', '', '']",《講授類》,"['半導體元件學程', '數位IC設計學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3705&Crsname=實用數位系統設計,,,False,電機系,EE3705,3,不分班,"實用數位系統設計
+PRACTICAL DIGITAL SYSTEMS DESIGN",3,期,False,80,1,71,9,謝東佑,"三5,6,7(工EC 6019)","['', '', '567', '', '', '', '']",《講授類》,['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE3715&Crsname=生醫工程實驗,,,False,電機系,EE3715,4,不分班,"生醫工程實驗
+BIOMEDICAL ENGINEERING LABORATORY",1,期,False,50,0,0,50,莊子肇,"三5,6,7(工EC 6018)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,[],False
