@@ -1,0 +1,50 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM613H&Crsname=專題研究（二）,,,False,財管碩,FM613H,2,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,30,0,2,28,佘博文,"日C,D,E(管CM 2026)","['', '', '', '', '', '', 'CDE']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM613I&Crsname=專題研究（二）,,,False,財管碩,FM613I,2,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,30,0,1,29,蔡維哲,"四C,D,E(管CM 2020)","['', '', '', 'CDE', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM613J&Crsname=專題研究（二）,新增,1/5,False,財管碩,FM613J,2,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,2,48,蔡秉真,"三5,6,7(管CM 2026)","['', '', '567', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM614&Crsname=金融數據分析與交易策略,,,False,財管碩,FM614,1,不分班,"金融數據分析與交易策略
+PRACTICE IN FINANCIAL DATA ANALYSIS AND TRADING STRATEGIES",3,期,False,50,1,18,32,蔡秉真,"五2,3,4(管CM 2026)","['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課",['金融科技學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM615&Crsname=巨量資料分析導論,,,False,財管碩,FM615,1,不分班,"巨量資料分析導論
+INTRODUCTION TO BIG DATA ANALYTICS",3,期,False,40,0,38,2,李忠軒,"一2,3,4(管CM 2023)","['234', '', '', '', '', '', '']",《講授類》,"['人工智能投資微學程', '金融科技與創新微學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM616&Crsname=金融科技服務開發,異動,調整主授老師1/2,False,財管碩,FM616,1,不分班,"金融科技服務開發
+THE DEVELOPMENT OF FINTECH SERVICES",3,期,False,35,0,17,18,"吳藺芝,蔡維哲,邱敬貿","四5,6,7(管CM 2015)","['', '', '', '567', '', '', '']",《講授類》,"['金融科技與創新微學程', '科技創新與服務業管理學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM506&Crsname=法律與公共事務,異動,更換時間1/25,False,公事碩,PAM506,1,不分班,"法律與公共事務
+LAWS AND PUBLIC AFFAIRS",3,期,False,50,0,10,40,毛鈺棻,"五C,D,E(管CM 1020)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM512&Crsname=倫理與衝突,,,False,公事碩,PAM512,2,不分班,"倫理與衝突
+ETHICS AND CONFLICT",2,期,True,20,0,17,3,林新沛,"四6,7(管CM 1020)","['', '', '', '67', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限公事所碩二以上學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM518&Crsname=都市環境管理,異動,更換教室2/15,False,公事碩,PAM518,1,不分班,"都市環境管理
+URBAN ENVIRONMENTAL MANAGEMENT",3,期,False,50,0,44,6,謝旭昇,"三5,6,7(管CM 1020)","['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課","['智慧城市與智慧運輸學程', '都市永續規劃與管理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM528&Crsname=危機管理,新增,2/16,False,公事碩,PAM528,0,不分班,"危機管理
+CRISIS MANAGEMENT",2,期,False,50,0,27,23,吳偉寧,"一C,D(管CM 1020)","['CD', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM536&Crsname=國際企業永續發展,,,False,公事碩,PAM536,2,不分班,"國際企業永續發展
+SUSTAINABILITY OF GLOBAL ENTERPRISE",3,期,False,50,1,48,2,張瓊婷,"二6,7,8(管CM 1020)","['', '678', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['公共事務與企業社會責任微學程', '環境教育學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM539&Crsname=量化資料分析與寫作,,,False,公事碩,PAM539,1,不分班,"量化資料分析與寫作
+QUANTITATIVE DATA ANALYSIS AND WRITING",3,期,False,50,0,16,34,吳偉寧,"四2,3,4(管CM 1020)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM540&Crsname=公共事務與企業社會責任,,,False,公事碩,PAM540,2,不分班,"公共事務與企業社會責任
+PUBLIC AFFAIRS AND CORPORATE SOCIAL RESPONSIBILITY",2,期,False,50,1,15,35,張緒中,"二C,D(管CM 1035)","['', 'CD', '', '', '', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM541&Crsname=質化資料分析與寫作,,,False,公事碩,PAM541,1,不分班,"質化資料分析與寫作
+QUALITATIVE DATA ANALYSIS AND WRITING",3,期,False,50,0,16,34,蔡錦昌,"一6,7,8(管CM 1035)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM549&Crsname=永續管理概論,,,False,公事碩,PAM549,1,不分班,"永續管理概論
+INTRODUCTION TO SUSTAINABLE MANAGEMENT",2,期,False,50,0,20,30,林新沛,"二6,7(管CM 1019)","['', '67', '', '', '', '', '']",《講授類》,"['永續管理微學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM552&Crsname=區域發展與政策,,,False,公事碩,PAM552,2,不分班,"區域發展與政策
+REGIONAL REVELOPMENT AND POLICY",3,期,False,50,0,17,33,"游尚儒,吳義隆","四C,D,E(管CM 1020)","['', '', '', 'CDE', '', '', '']",《講授類》,"['地方創生與區域治理微學程', '地方創生與永續發展整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM588&Crsname=性別、組織與管理,,,False,公事碩,PAM588,2,不分班,"性別、組織與管理
+GENDER, ORGANIZATION AND MANAGEMENT",3,期,False,50,0,19,31,彭渰雯,"五5,6,7(管CM 1020)","['', '', '', '', '567', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '性別研究學程', '性別與管理微學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM603&Crsname=氣候行動書報討論,,,False,公事碩,PAM603,2,不分班,"氣候行動書報討論
+PAPER READINGS IN CLIMATE ACTIONS",1,期,False,50,0,8,42,林新沛,,"['67', '', '', '', '', '', '']","《研討類》
+雙數周上課，每次上課兩小時14-16點","['地方發展與永續農業微學程', '永續管理微學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM609&Crsname=公共事務專題研究,異動,更換教室2/27,False,公事碩,PAM609,2,不分班,"公共事務專題研究
+INDEPENDENT STUDIES IN PUBLIC AFFAIRS",2,期,False,50,0,2,48,蔡宏政,"六5,6(管CM 1035)","['', '', '', '', '', '56', '']","《獨立研究》
+主題：碳定價與永續發展","['地方創生與區域治理微學程', '地方創生與永續發展整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM611&Crsname=城市再生：理論與實踐,異動,更換時間及教室2/20,False,公事碩,PAM611,1,不分班,"城市再生：理論與實踐
+URBAN REGENERATION: THEORY AND PRACTICE",2,期,False,50,0,17,33,游尚儒,"五6,7(管CM 1023)","['', '', '', '', '67', '', '']",《講授類》,[],True

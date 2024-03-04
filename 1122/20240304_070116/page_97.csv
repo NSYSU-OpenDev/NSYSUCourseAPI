@@ -1,0 +1,47 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO704&Crsname=英文論文寫作,,,False,海科碩,DO704,0,不分班,"英文論文寫作
+TECHNICAL WRITING IN ENGLISH",3,期,False,50,0,5,45,慕樂凡,"二2,3,4(海MB 1005)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO710&Crsname=海洋創業產業創新（二）,,,False,海科碩,DO710,0,不分班,"海洋創業產業創新（二）
+CREATIVENESS AND CREATION FOR NEW IDEA, MARINE SCIENCE (II)",3,期,False,50,0,4,46,洪慶章,"三C,D,E(海MA 3040)","['', '', 'CDE', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO714&Crsname=海洋環境影響評估,,,False,海科碩,DO714,0,不分班,"海洋環境影響評估
+MARINE ENVIRONMENTAL IMPACT ASSESSMENT",3,期,False,50,0,5,45,"塗子萱,劉莉蓮","一6,7,8(海MA 3020)","['678', '', '', '', '', '', '']","《講授類》
+與DO404併班上課。",['擁海學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT505&Crsname=海上實習（二）,,,False,海下科技碩,UT505,0,不分班,"海上實習（二）
+CRUISE PRACTICE (II)",1,期,False,50,0,7,43,謝孟璋,"五8,9(海MA 2052)(實驗)","['', '', '', '', '89', '', '']","《實習類》
+本課程限海下科技研究所碩士班研究生及已取得海下科技研究所五學年學碩士資格之大學部學生選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT531&Crsname=海下科技研討（二）,,,False,海下科技碩,UT531,1,不分班,"海下科技研討（二）
+SEMINAR IN UNDERSEA TECHNOLOGY (II)",1,期,True,50,0,7,43,周佑誠,五6(海MA 2052),"['', '', '', '', '6', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT532&Crsname=工程機率與統計,,,False,海下科技碩,UT532,0,不分班,"工程機率與統計
+PROBABILITY AND STATISTICS IN ENGINEERING",3,期,False,50,0,9,41,周佑誠,"四2,3,4(海MA 2052)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課",['南星產業樞紐學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT535&Crsname=海下科技研討（四）,,,False,海下科技碩,UT535,0,不分班,"海下科技研討（四）
+SEMINAR IN UNDERSEA TECHNOLOGY (IV)",1,期,False,50,0,9,41,魏瑞昌,五7(海MA 2052),"['', '', '', '', '7', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT538&Crsname=被動海洋聲學,,,False,海下科技碩,UT538,0,不分班,"被動海洋聲學
+PASSIVE OCEAN ACOUSTICS",3,期,False,50,0,6,44,魏瑞昌,"二6,7,8(海MA 2052)","['', '678', '', '', '', '', '']",《講授類》,"['海事工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT540&Crsname=水下載具導論,,,False,海下科技碩,UT540,0,不分班,"水下載具導論
+INTRODUCTION TO UNDERWATER VEHICLES",2,期,False,50,0,5,45,陳信宏,"二3,4(海MA 2052)","['', '34', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT541&Crsname=電子電路與控制,,,False,海下科技碩,UT541,0,不分班,"電子電路與控制
+ELECTRONICS AND CONTROLS",3,期,False,50,0,2,48,謝孟璋,"五2,3,4(海MA 2052)","['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課",['海事工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT634&Crsname=水中聲學專題研究（二）,,,False,海下科技碩,UT634,0,不分班,"水中聲學專題研究（二）
+INDEPENDENT STUDIES IN UNDERWATER ACOUSTICS (II)",2,期,False,50,0,3,47,"邱永盛,周佑誠,謝孟璋,陳信宏,魏瑞昌","一3,4(海MA 2052)","['34', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT635&Crsname=水下機電專題研究（二）,,,False,海下科技碩,UT635,0,不分班,"水下機電專題研究（二）
+INDEPENDENT STUDIES IN UNDERWATER MECHATRONICS (II)",2,期,False,50,0,4,46,"謝孟璋,周佑誠,邱永盛,陳信宏,魏瑞昌","一1,2(海MA 2052)","['12', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=UT702&Crsname=大型計畫專案管理,,,False,海下科技碩,UT702,0,不分班,"大型計畫專案管理
+LARGE-SCALE PROJECT MANAGEMENT",3,期,False,50,0,16,34,鍾慶富,"三2,3,4(海MA 2052)","['', '', '234', '', '', '', '']",《講授類》,"['海事工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEC502&Crsname=海洋生物專題討論（二）,,,False,海生保育碩,MEC502,1,不分班,"海洋生物專題討論（二）
+SEMINAR IN MARINE BIOLOGY （II）",1,期,True,50,0,10,40,林裕䕒,三6(海MA 3020),"['', '', '6', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEC504&Crsname=海洋生態與保育專題研究（二）,異動,取消部份合授教師2/21,True,海生保育碩,MEC504,2,不分班,"海洋生態與保育專題研究（二）
+INDEPENDENT STUDIES IN MARINE ECOLOGY AND CONSERVATION（II）",3,期,True,50,0,2,48,"林裕䕒,劉莉蓮,陳孟仙,陳慶能","五C,D,E(海MA 3018)","['', '', '', '', 'CDE', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEC504A&Crsname=海洋生態與保育專題研究（二）,異動,取消部份合授教師2/21,True,海生保育碩,MEC504A,2,不分班,"海洋生態與保育專題研究（二）
+INDEPENDENT STUDIES IN MARINE ECOLOGY AND CONSERVATION（II）",3,期,True,50,0,6,44,"陳孟仙,林裕䕒","六C,D,E(海MA 3018)","['', '', '', '', '', 'CDE', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEC509&Crsname=海洋生物專題討論（四）,,,False,海生保育碩,MEC509,2,不分班,"海洋生物專題討論（四）
+SEMINAR IN MARINE BIOLOGY （IV）",1,期,False,50,0,8,42,陳孟仙,三7(海MA 3020),"['', '', '7', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEC510&Crsname=海洋生態學,,,True,海生保育碩,MEC510,1,不分班,"海洋生態學
+MARINE ECOLOGY",3,期,True,50,0,1,49,"塗子萱,托星豪","二6,7,8(海MA 3020)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEC510A&Crsname=海洋生態學,,,True,海生保育碩,MEC510A,1,不分班,"海洋生態學
+MARINE ECOLOGY",3,期,True,50,0,11,39,"徐華遜,林裕䕒","四5,6,7(海MB 2016)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEC521&Crsname=水產資源概論,,,False,海生保育碩,MEC521,1,不分班,"水產資源概論
+INTRODUCTION TO FISHERIES RESOURCES",2,期,False,50,0,28,22,林裕䕒,"三3,4(海MA 3020)","['', '', '34', '', '', '', '']",《講授類》,['印象海味微學程'],False
