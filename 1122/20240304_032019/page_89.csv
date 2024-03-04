@@ -1,0 +1,46 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM614&Crsname=永續消費,異動,更換時間及教室1/23,False,公事碩,PAM614,2,不分班,"永續消費
+SUSTAINABLE CONSUMPTION",3,期,False,50,0,22,28,張瓊婷,"三2,3,4(管CM 1023)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM506&Crsname=人力資源研究方法（二）,異動,更換教室2/21,False,人管碩,HRM506,1,不分班,"人力資源研究方法（二）
+RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT (II)",3,期,True,50,0,30,20,"李澄賢,王豫萱,陳旻男","四6,7,8(管CM 3051)","['', '', '', '678', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限人管所碩士班學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM507&Crsname=人力資源管理專案研究,,,False,人管碩,HRM507,1,不分班,"人力資源管理專案研究
+INDEPENDENT STUDIES IN HUMAN RESOURCES MANAGEMNET",3,期,True,50,0,29,21,"陳寶蓮,王豫萱,謝慧賢","日C,D,E(管CM 3046)","['', '', '', '', '', '', 'CDE']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限人管所學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM528&Crsname=組織研究（二）,新增,1/29,False,人管碩,HRM528,0,不分班,"組織研究（二）
+ORGANIZATION STUDIES (Ⅱ)",3,期,False,50,0,3,47,陳以亨,"二2,3,4(管CM 1036)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM541&Crsname=組織發展（二）,,,False,人管碩,HRM541,1,不分班,"組織發展（二）
+ORGANIZATION DEVELOPMENT (II)",3,期,False,50,0,25,25,"王豫萱,陳以亨","六C,D,E(管CM 1036)","['', '', '', '', '', 'CDE', '']","《講授類》
+限人管所學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM544&Crsname=書報討論,異動,更換時間1/18,False,人管碩,HRM544,1,不分班,"書報討論
+SEMINAR IN HUMAN RESOURCE MANAGEMENT",3,期,False,50,0,6,44,王豫萱,"五6,7,8(管CM 4091)","['', '', '', '', '678', '', '']","《研討類》
+限人管所學生選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM565&Crsname=研發管理,,,False,人管碩,HRM565,1,不分班,"研發管理
+R&D MANAGEMENT",3,期,False,50,0,42,8,陳旻男,"四C,D,E(管CM 2037)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM566&Crsname=服務創新,,,False,人管碩,HRM566,1,不分班,"服務創新
+SERVICE INNOVATION",3,期,False,50,0,3,47,陳旻男,"三C,D,E(管CM 4091)","['', '', 'CDE', '', '', '', '']","《講授類》
+限人管所學生選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM567&Crsname=企業社會責任,,,False,人管碩,HRM567,0,不分班,"企業社會責任
+CORPORATE SOCIAL RESPONSIBILITY",3,期,False,50,0,17,33,葉致微,"五2,3,4(管CM 1036)","['', '', '', '', '234', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM592&Crsname=財務管理,,,False,人管碩,HRM592,1,不分班,"財務管理
+FINANCIAL MANAGEMENT",3,期,False,50,0,18,32,陳妮雲,"六2,3,4(管CM 1032)","['', '', '', '', '', '234', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM601&Crsname=人力資源報償管理,,,False,人管碩,HRM601,1,不分班,"人力資源報償管理
+HUMAN RESOUCE COMPENSATION MANAGEMENT",3,期,False,50,0,17,33,任金剛,"四C,D,E(管CM 1037)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM632&Crsname=產業與人力專題研究,,,False,人管碩,HRM632,1,不分班,"產業與人力專題研究
+SEMINAR IN RELATIONSHIP OF INDUSTRY AND HUMAN RESOURCES",3,期,False,50,0,2,48,陳世哲,"一5,6,7(管CM 3046)","['567', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRM656&Crsname=新興科技事業發展策略,,,False,人管碩,HRM656,1,不分班,"新興科技事業發展策略
+STRATEGIC PLANNING FOR TECHNOLOGY-DRIVEN EMERGING BUSINESS",3,期,False,50,0,14,36,陳寶蓮,"六5,6,7(管CM 1036)","['', '', '', '', '', '567', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM504&Crsname=質性研究方法,,,False,行銷傳播碩,ICM504,0,不分班,"質性研究方法
+QUALITATIVE RESEARCH METHODS",3,期,False,50,0,23,27,蕭蘋,"二2,3,4(管CM 2032)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM519&Crsname=數位行銷,,,False,行銷傳播碩,ICM519,0,不分班,"數位行銷
+DIGITAL MARKETING",3,期,False,50,0,18,32,李雅靖,"三2,3,4(管CM 4112)","['', '', '234', '', '', '', '']",《講授類》,"['行銷管理學程', '機器學習與多媒體技術學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM526&Crsname=行銷傳播策略,異動,調整名額1/17,False,行銷傳播碩,ICM526,0,不分班,"行銷傳播策略
+MARKETING COMMUNICATIONS STRATEGY",3,期,False,30,0,27,3,鄭安授,"二C,D,E(管CM 2032)","['', 'CDE', '', '', '', '', '']",《講授類》,"['地方創生與區域治理微學程', '行銷管理學程', '地方創生與永續發展整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM534&Crsname=消費者心理與行為學,異動,更換時間1/4,False,行銷傳播碩,ICM534,0,不分班,"消費者心理與行為學
+CONSUMER PSYCHOLOGY AND BEHAVIOR",3,期,False,50,0,38,12,周軒逸,"一6,7,8(管CM 2032)","['678', '', '', '', '', '', '']",《講授類》,['行銷管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM539&Crsname=策略寫作,,,False,行銷傳播碩,ICM539,0,不分班,"策略寫作
+STRATEGIC WRITING",3,期,False,50,0,4,46,鄭安授,"四6,7,8(管CM 2032)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM540&Crsname=廣告創意,,,False,行銷傳播碩,ICM540,0,不分班,"廣告創意
+ADVERTISING CREATIVITY",3,期,False,50,0,41,9,張榮華,"一C,D,E(管CM 2037)","['CDE', '', '', '', '', '', '']",《講授類》,['行銷管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM545&Crsname=娛樂行銷與媒體,,,False,行銷傳播碩,ICM545,0,不分班,"娛樂行銷與媒體
+ENTERTAINMENT MARKETING AND MEDIA",3,期,False,50,0,16,34,李雅靖,"五2,3,4(管CM 2032)","['', '', '', '', '234', '', '']",《講授類》,"['行銷管理學程', '機器學習與多媒體技術學程']",False
