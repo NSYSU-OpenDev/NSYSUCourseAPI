@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBPS539&Crsname=蛋白質降解藥物開發特論（二）,,,False,生技醫藥碩,IBPS539,0,不分班,"蛋白質降解藥物開發特論（二）
+TARGETED PROTEIN DEGRADATION BASED DRUG DEVELOPMENT（II）",3,期,False,50,0,1,49,施柏漳,"五5,6,7(國IR 5005)","['', '', '', '', '567', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBPS540&Crsname=藥物代謝動力學,,,False,生技醫藥碩,IBPS540,0,不分班,"藥物代謝動力學
+DRUG METABOLISM AND PHARMACOKINETICS",3,期,False,10,0,2,8,施柏漳,"三5,6,7(國IR 6017-2)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBPS542&Crsname=雙功能分子藥物開發專題研究（二）,,,False,生技醫藥碩,IBPS542,0,不分班,"雙功能分子藥物開發專題研究（二）
+INDEPENDENT STUDIES IN BIFUNCTIONAL MOLECULE DRUG DISCOVERY（II）",3,期,False,10,0,1,9,施柏漳,"一5,6,7(國IR 6017-2)","['567', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IBPS602&Crsname=書報討論（四）,異動,更換教師1/23,False,生技醫藥碩,IBPS602,2,不分班,"書報討論（四）
+SEMINAR（IV）",1,期,True,50,0,9,41,黃建智,三4(國IR 5004),"['', '', '4', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM502&Crsname=書報討論（二）,,,False,精準醫學碩,IPM502,1,不分班,"書報討論（二）
+SEMINAR(II)",1,期,True,50,0,9,41,"楊佳寧,于松桓",三6(國IR 5001),"['', '', '6', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM504&Crsname=生物程式設計-R,異動,更換教室2/29,False,精準醫學碩,IPM504,0,不分班,"生物程式設計-R
+RPROGRAMMING FOR BIOMEDICAL DATA",3,期,False,50,0,14,36,馮已榕,"二2,3,4(國IR 5005)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM507&Crsname=分子元件設計概論,,,False,精準醫學碩,IPM507,0,不分班,"分子元件設計概論
+MOLECULAR DEVICE DESIGN",2,期,False,50,0,2,48,楊佳寧,"二5,6(國IR 6017-2)","['', '56', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM509&Crsname=蛋白質分子模擬專題研究（二）,,,False,精準醫學碩,IPM509,0,不分班,"蛋白質分子模擬專題研究（二）
+INDEPENDENT STUDIES IN SIMULATIONS ON PROTEIN DYNAMICS (II)",3,期,False,50,0,1,49,楊佳寧,"四5,6,7(國IR 6017-1)","['', '', '', '567', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM512&Crsname=醫療數據分析專題研究（二）,,,False,精準醫學碩,IPM512,0,不分班,"醫療數據分析專題研究（二）
+INDEPENDENT STUDIES IN REAL-WORLD HEALTH DATA (II)",3,期,False,50,0,1,49,馮已榕,"一5,6,7(國IR 4005)","['567', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM517&Crsname=多體學資料分析專題研究（二）,,,False,精準醫學碩,IPM517,0,不分班,"多體學資料分析專題研究（二）
+INDEPENDENT STUDIES IN MULTI-OMICS DATA ANALYSIS (II)",3,期,False,50,0,3,47,于松桓,"五2,3,4(國IR 6017-1)","['', '', '', '', '234', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM524&Crsname=蛋白質體學,,,False,精準醫學碩,IPM524,0,不分班,"蛋白質體學
+PROTEOMICS",2,期,False,50,0,3,47,于松桓,"一3,4(國IR 5002)","['34', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM531&Crsname=病理學,,,False,精準醫學碩,IPM531,0,不分班,"病理學
+PATHOLOGY",3,期,False,50,0,4,46,李佶珉,"三2,3,4(國IR 6017-1)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM532&Crsname=磁振造影：基本原理，臨床運用及科學研究,,,False,精準醫學碩,IPM532,0,不分班,"磁振造影：基本原理，臨床運用及科學研究
+MRI:BASIC PRINCIPLES, CLINICAL APPLICATIONS AND BIOMEDICAL RESEARCHES",2,期,False,50,0,2,48,郭禹廷,"六3,4(國IR 5005)","['', '', '', '', '', '34', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM533&Crsname=癌症生物學,,,False,精準醫學碩,IPM533,0,不分班,"癌症生物學
+CANCER BIOLOGY",3,期,False,50,0,8,42,李佶珉,"二5,6,7(國IR 6017-1)","['', '567', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['醫師科學家微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM535&Crsname=醫療概況,異動,更換時間1/10,False,精準醫學碩,IPM535,0,不分班,"醫療概況
+INTRODUCTION TO HEALTH CARE",2,期,False,50,0,0,50,劉景寬,"一7,8(國IR 4002)","['78', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM539&Crsname=纖維化及癌症治療策略專題研究（二）,,,False,精準醫學碩,IPM539,0,不分班,"纖維化及癌症治療策略專題研究（二）
+INDEPENDENT STUDIES IN THERAPEUTIC STRATEGIES FOR FIBROSIS AND CANCER (II)",3,期,False,50,0,1,49,李佶珉,"五5,6,7(國IR 6017-1)","['', '', '', '', '567', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM542&Crsname=臨床試驗設計與分析,,,False,精準醫學碩,IPM542,0,不分班,"臨床試驗設計與分析
+DESIGN AND ANALYSIS OF CLINICAL TRIALS",2,期,False,50,0,6,44,馮已榕,"四3,4(國IR 5001)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPM602&Crsname=書報討論（四）,,,False,精準醫學碩,IPM602,2,不分班,"書報討論（四）
+SEMINAR(IV)",1,期,True,50,0,7,43,"馮已榕,李佶珉",三7(國IR 5001),"['', '', '7', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ASPT544&Crsname=功能性高分子材料特論,,,False,半導體封測所,ASPT544,1,不分班,"功能性高分子材料特論
+SPECIAL ISSUES IN FUNCTIONAL POLYMER MATERIALS",3,期,False,10,0,10,0,王志逢,"五2,3,4(國IR 4002)","['', '', '', '', '234', '', '']","《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ASPT551&Crsname=有機半導體材料與元件,,,False,半導體封測所,ASPT551,1,不分班,"有機半導體材料與元件
+ORGANIC SEMICONDUCTOR MATERIALS AND DEVICES",3,期,False,10,6,10,0,張美濙,"四2,3,4(國IR 2008)","['', '', '', '234', '', '', '']","《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。",[],False
