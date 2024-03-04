@@ -1,0 +1,46 @@
+Item root[2441]['classTime'][1] removed from iterable.
+Item root[1387]['classTime'][0] removed from iterable.
+Item root[276] removed from iterable.
+Item root[283] removed from iterable.
+Item root[284] removed from iterable.
+Item root[285] removed from iterable.
+Item root[709] removed from iterable.
+Item root[759] removed from iterable.
+Item root[768] removed from iterable.
+Item root[778] removed from iterable.
+Item root[779] removed from iterable.
+Item root[784] removed from iterable.
+Item root[785] removed from iterable.
+Item root[1405] removed from iterable.
+Item root[1637] removed from iterable.
+Item root[1638] removed from iterable.
+Item root[1641] removed from iterable.
+Item root[1642] removed from iterable.
+Item root[1645] removed from iterable.
+Item root[1646] removed from iterable.
+Item root[1666] removed from iterable.
+Item root[2024] removed from iterable.
+Item root[2116] removed from iterable.
+Item root[2480] removed from iterable.
+Repetition change for item root[2441]['classTime'][0].
+Repetition change for item root[1387]['classTime'][1].
+Value of root[2441]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DCEM717&Crsname=細胞藥物運送與治療" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010002&Crsname=人文地理調查法".
+Value of root[2441]['department'] changed from "臨床醫博學程" to "校際(學士班)".
+Value of root[2441]['id'] changed from "DCEM717" to "AF010002".
+Value of root[2441]['name'] changed from "細胞藥物運送與治療
+DRUG DELIVERY AND THERAPEUTIC EFFECT" to "人文地理調查法
+SURVEY METHODS OF HUMAN GEOGRAPHY".
+Value of root[2441]['teacher'] changed from "楊仁豪" to "校際選課".
+Value of root[2441]['room'] changed from "二6,7,8(國IR 5003)" to "".
+Value of root[2441]['english'] changed from True to False.
+Value of root[1387]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MATH619&Crsname=隨機過程專題研討（一）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010003&Crsname=工程力學".
+Value of root[1387]['department'] changed from "應數碩" to "校際(學士班)".
+Value of root[1387]['id'] changed from "MATH619" to "AF010003".
+Value of root[1387]['name'] changed from "隨機過程專題研討（一）
+SEMINAR IN STOCHASTIC PROCESSES (I)" to "工程力學
+ENGINEERING MECHANICS".
+Value of root[1387]['restrict'] changed from 5 to 10.
+Value of root[1387]['remaining'] changed from 5 to 10.
+Value of root[1387]['teacher'] changed from "李欣倫" to "校際選課".
+Value of root[1387]['room'] changed from "一6,7,8(理SC 4009-0)" to "".
+Value of root[1387]['description'] changed from "《研討類》" to "《講授類》".
