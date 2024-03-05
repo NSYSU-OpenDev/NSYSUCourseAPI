@@ -1,0 +1,3 @@
+Value of root[212]['yearSemester'] changed from "期" to "年".
+Value of root[1561]['selected'] changed from 99 to 98.
+Value of root[1561]['remaining'] changed from 21 to 22.
