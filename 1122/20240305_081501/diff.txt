@@ -1,0 +1,9 @@
+Value of root[114]['select'] changed from 1 to 0.
+Value of root[114]['selected'] changed from 24 to 25.
+Value of root[114]['remaining'] changed from 1 to 0.
+Value of root[195]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010012&Crsname=文學專題講座" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010012&Crsname=史學專題講座".
+Value of root[195]['name'] changed from "文學專題講座
+INVITED SPEECHES ON RECENT HISTORY RESEARCH" to "史學專題講座
+INVITED SPEECHES ON RECENT HISTORY RESEARCH".
+Value of root[283]['room'] changed from "四2,3,4(文FA 3001)" to "四2,3,4(文LA 3001)".
+Value of root[516]['room'] changed from "四2,3,4(文FA 3001)" to "四2,3,4(文LA 3001)".
