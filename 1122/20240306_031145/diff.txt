@@ -1,0 +1,10 @@
+Value of root[108]['selected'] changed from 24 to 25.
+Value of root[108]['remaining'] changed from 1 to 0.
+Value of root[334]['selected'] changed from 3 to 4.
+Value of root[334]['remaining'] changed from 7 to 6.
+Value of root[1088]['selected'] changed from 43 to 44.
+Value of root[1088]['remaining'] changed from 7 to 6.
+Value of root[1585]['changeDescription'] changed from "更換教室2/26" to "更換教室3/4".
+Value of root[1585]['room'] changed from "四6,7,8(工EC 9014)" to "四6,7,8(工EC 5025)".
+Value of root[1806]['selected'] changed from 25 to 26.
+Value of root[1806]['remaining'] changed from 45 to 44.
