@@ -1,18 +1,18 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS113&Crsname=普通生物學實驗（二）,異動,調升名額2/27,False,生科系,BIOS113,1,不分班,"普通生物學實驗（二）
-GENERAL BIOLOGY LABORATORY(II)",1,期,True,35,0,30,5,"黃明德,傅瀚儀,吳長益,汪海晏","五7,8,9(理SC 3008)(實驗)","['', '', '', '', '789', '', '']","《實驗類》
+GENERAL BIOLOGY LABORATORY(II)",1,期,True,35,0,29,6,"黃明德,傅瀚儀,吳長益,汪海晏","五7,8,9(理SC 3008)(實驗)","['', '', '', '', '789', '', '']","《實驗類》
 『本課程之限修，於加退選2階段開放選修』。限本系、雙主修及輔系學生選修及本系一年級選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS113A&Crsname=普通生物學實驗（二）,,,False,生科系,BIOS113A,1,全英班,"普通生物學實驗（二）
 GENERAL BIOLOGY LABORATORY(II)",1,期,True,30,0,20,10,"黃明德,傅瀚儀,吳長益,汪海晏","五5,6,B(理SC 3008)(實驗)","['', '', '', '', 'B56', '', '']","《實驗類》
 『本課程之限修，於加退選2階段開放選修』。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS200&Crsname=有機化學（一）,,,False,生科系,BIOS200,1,不分班,"有機化學（一）
-ORGANIC CHEMISTRY(I)",2,期,True,50,0,42,8,廖軒宏,"四6,7(理SC 2001)","['', '', '', '67', '', '', '']",《講授類》,['半導體製程模組學程'],False
+ORGANIC CHEMISTRY(I)",2,期,True,50,0,41,9,廖軒宏,"四6,7(理SC 2001)","['', '', '', '67', '', '', '']",《講授類》,['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS200A&Crsname=有機化學（一）,,,False,生科系,BIOS200A,1,全英班,"有機化學（一）
 ORGANIC CHEMISTRY(I)",2,期,True,50,0,21,29,張均然,"四5,6(海MB 2020)","['', '', '', '56', '', '', '']","《講授類》
  
 ※英語授課",['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS201&Crsname=有機化學實驗（一）,,,False,生科系,BIOS201,1,不分班,"有機化學實驗（一）
-ORGANIC CHEMISTRY LABORATORY(I)",1,期,True,50,0,31,19,廖軒宏,"四2,3,4(理SC 4020)(實驗)","['', '', '', '234', '', '', '']",《實驗類》,[],False
+ORGANIC CHEMISTRY LABORATORY(I)",1,期,True,50,0,30,20,廖軒宏,"四2,3,4(理SC 4020)(實驗)","['', '', '', '234', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS201A&Crsname=有機化學實驗（一）,,,False,生科系,BIOS201A,1,全英班,"有機化學實驗（一）
 ORGANIC CHEMISTRY LABORATORY(I)",1,期,True,50,0,20,30,張均然,"五2,3,4(理SC 4020)(實驗)","['', '', '', '', '234', '', '']",《實驗類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS212&Crsname=遺傳學,,,False,生科系,BIOS212,2,不分班,"遺傳學

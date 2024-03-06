@@ -323,7 +323,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE215
 SPORT & HEALTH: BASIC YACHTING",1,期,True,25,2,29,-4,蔡鋒樺,"一3,4(海域中心/Marine sports center)","['34', '', '', '', '', '', '']","《體育類》
 限大二以上選修。",['永續海洋休閒運動產業學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE215B&Crsname=運動與健康：初級帆船,,,False,運動健康(必),GEPE215B,2,不分班,"運動與健康：初級帆船
-SPORT & HEALTH: BASIC YACHTING",1,期,True,25,5,24,1,蔡鋒樺,"二1,2(海域中心/Marine sports center)","['', '12', '', '', '', '', '']","《體育類》
+SPORT & HEALTH: BASIC YACHTING",1,期,True,25,4,25,0,蔡鋒樺,"二1,2(海域中心/Marine sports center)","['', '12', '', '', '', '', '']","《體育類》
 限大二以上選修。",['永續海洋休閒運動產業學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE215C&Crsname=運動與健康：初級帆船,,,False,運動健康(必),GEPE215C,2,不分班,"運動與健康：初級帆船
 SPORT & HEALTH: BASIC YACHTING",1,期,True,25,2,16,9,吳緒昌,"二1,2(海域中心/Marine sports center)","['', '12', '', '', '', '', '']","《體育類》
@@ -585,7 +585,7 @@ INTRODUCTIONS TO URBAN DESIGN",2,期,False,50,0,1,49,校際選課,"五3,4()","['
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010028&Crsname=普通心理學,,,False,校際(學士班),AF010028,0,不分班,"普通心理學
 GENERAL PSYCHOLOGY",3,期,False,50,0,1,49,校際選課,"四2,3,4()","['', '', '', '234', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010029&Crsname=普通心理學,,,False,校際(學士班),AF010029,0,不分班,"普通心理學
-GENERAL PSYCHOLOGY",3,期,False,50,0,2,48,校際選課,"四2,3,4()","['', '', '', '234', '', '', '']",《講授類》,[],False
+GENERAL PSYCHOLOGY",3,年,False,50,0,2,48,校際選課,"四2,3,4()","['', '', '', '234', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010030&Crsname=普通心理學,,,False,校際(學士班),AF010030,0,不分班,"普通心理學
 GENERAL PSYCHOLOGY",3,期,False,50,0,1,49,校際選課,"五2,3,4()","['', '', '', '', '234', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010031&Crsname=植物生理學,,,False,校際(學士班),AF010031,0,不分班,"植物生理學
@@ -655,7 +655,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHY105F
 GENERAL PHYSICS (II)",3,期,True,68,0,58,10,史丹哲夫,"一5,6,7(工EC 3012)","['567', '', '', '', '', '', '']","《講授類》
 電機系一年級英語專班學生優先選修",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHY107&Crsname=基礎物理,,,False,普通物理小組,PHY107,1,不分班,"基礎物理
-FUNDAMENTAL PHYSICS",3,期,True,50,0,29,21,杜立偉,"三5,6,7(理SC 2001)","['', '', '567', '', '', '', '']","《講授類》
+FUNDAMENTAL PHYSICS",3,期,True,50,0,28,22,杜立偉,"三5,6,7(理SC 2001)","['', '', '567', '', '', '', '']","《講授類》
 限生科系一年級學生選修，本課程無法抵免英語專班基礎物理、普通物理或普通物理學",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PHY107A&Crsname=基礎物理,,,False,普通物理小組,PHY107A,1,全英班,"基礎物理
 FUNDAMENTAL PHYSICS",3,期,True,50,0,22,28,呂浩宇,"三5,6,7(理SC 0008)","['', '', '567', '', '', '', '']","《講授類》
@@ -940,7 +940,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI134
 PROBABILITY THEORY",3,期,True,10,1,6,4,陳有德,"三2,3,4(工EC 3013)","['', '', '234', '', '', '', '']","《講授類》
 跨院通識與電機系EE3607課程併班上課","['半導體設備工程學程', '南星產業樞紐學程', '半導體元件學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1343B&Crsname=機率與統計,,,True,跨院選修(工),GEAI1343B,0,不分班,"機率與統計
-PROBABILITY THEORY",3,期,True,10,1,3,7,梁家昌,"二6,7,8(工EC 3013)","['', '678', '', '', '', '', '']","《講授類》
+PROBABILITY THEORY",3,期,True,10,1,4,6,梁家昌,"二6,7,8(工EC 3013)","['', '678', '', '', '', '', '']","《講授類》
 優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。跨院通識與電機系EE3607B課程併班上課
 ※英語授課","['半導體設備工程學程', '南星產業樞紐學程', '半導體元件學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAI1350&Crsname=計算機組織,,,False,跨院選修(工),GEAI1350,0,不分班,"計算機組織
@@ -1754,23 +1754,23 @@ INTRODUCTION TO PHILOSOPHICAL PROBLEMS",3,期,False,30,1,4,26,高長空,"一6,7,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=LIBA251A&Crsname=哲學問題導論,,,False,文學院,LIBA251A,0,不分班,"哲學問題導論
 INTRODUCTION TO PHILOSOPHICAL PROBLEMS",3,期,False,30,0,21,9,戴遠雄,"三5,6,7(文LA 1003)","['', '', '567', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS112&Crsname=普通生物學（二）,異動,確認部份教師1/29,False,生科系,BIOS112,1,不分班,"普通生物學（二）
-GENERAL BIOLOGY(II)",4,期,True,50,0,44,6,"吳長益,傅瀚儀,汪海晏,高資棟","一1,2(理SC 2001) 三3,4(理SC 0008)","['12', '', '34', '', '', '', '']",《講授類》,[],False
+GENERAL BIOLOGY(II)",4,期,True,50,0,43,7,"吳長益,傅瀚儀,汪海晏,高資棟","一1,2(理SC 2001) 三3,4(理SC 0008)","['12', '', '34', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS112A&Crsname=普通生物學（二）,異動,確認合授教師1/29,False,生科系,BIOS112A,1,全英班,"普通生物學（二）
 GENERAL BIOLOGY(II)",4,期,True,50,0,22,28,"吳長益,傅瀚儀,汪海晏,高資棟","一3,4(理SC 2001) 四3,4(理SC 0008)","['34', '', '', '34', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS113&Crsname=普通生物學實驗（二）,異動,調升名額2/27,False,生科系,BIOS113,1,不分班,"普通生物學實驗（二）
-GENERAL BIOLOGY LABORATORY(II)",1,期,True,35,0,30,5,"黃明德,傅瀚儀,吳長益,汪海晏","五7,8,9(理SC 3008)(實驗)","['', '', '', '', '789', '', '']","《實驗類》
+GENERAL BIOLOGY LABORATORY(II)",1,期,True,35,0,29,6,"黃明德,傅瀚儀,吳長益,汪海晏","五7,8,9(理SC 3008)(實驗)","['', '', '', '', '789', '', '']","《實驗類》
 『本課程之限修，於加退選2階段開放選修』。限本系、雙主修及輔系學生選修及本系一年級選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS113A&Crsname=普通生物學實驗（二）,,,False,生科系,BIOS113A,1,全英班,"普通生物學實驗（二）
 GENERAL BIOLOGY LABORATORY(II)",1,期,True,30,0,20,10,"黃明德,傅瀚儀,吳長益,汪海晏","五5,6,B(理SC 3008)(實驗)","['', '', '', '', 'B56', '', '']","《實驗類》
 『本課程之限修，於加退選2階段開放選修』。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS200&Crsname=有機化學（一）,,,False,生科系,BIOS200,1,不分班,"有機化學（一）
-ORGANIC CHEMISTRY(I)",2,期,True,50,0,42,8,廖軒宏,"四6,7(理SC 2001)","['', '', '', '67', '', '', '']",《講授類》,['半導體製程模組學程'],False
+ORGANIC CHEMISTRY(I)",2,期,True,50,0,41,9,廖軒宏,"四6,7(理SC 2001)","['', '', '', '67', '', '', '']",《講授類》,['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS200A&Crsname=有機化學（一）,,,False,生科系,BIOS200A,1,全英班,"有機化學（一）
 ORGANIC CHEMISTRY(I)",2,期,True,50,0,21,29,張均然,"四5,6(海MB 2020)","['', '', '', '56', '', '', '']","《講授類》
  
 ※英語授課",['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS201&Crsname=有機化學實驗（一）,,,False,生科系,BIOS201,1,不分班,"有機化學實驗（一）
-ORGANIC CHEMISTRY LABORATORY(I)",1,期,True,50,0,31,19,廖軒宏,"四2,3,4(理SC 4020)(實驗)","['', '', '', '234', '', '', '']",《實驗類》,[],False
+ORGANIC CHEMISTRY LABORATORY(I)",1,期,True,50,0,30,20,廖軒宏,"四2,3,4(理SC 4020)(實驗)","['', '', '', '234', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS201A&Crsname=有機化學實驗（一）,,,False,生科系,BIOS201A,1,全英班,"有機化學實驗（一）
 ORGANIC CHEMISTRY LABORATORY(I)",1,期,True,50,0,20,30,張均然,"五2,3,4(理SC 4020)(實驗)","['', '', '', '', '234', '', '']",《實驗類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BIOS212&Crsname=遺傳學,,,False,生科系,BIOS212,2,不分班,"遺傳學
@@ -2197,7 +2197,7 @@ ELECTRONICS (II)",3,期,True,85,0,51,34,劉漢胤,"一5,6,7(工EC 3009)","['567'
 『本課程之限修，於加退選2階段開放選修』。
 ※英語授課","['半導體元件學程', '類比射頻IC設計學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE2200&Crsname=線性代數,,,False,電機系,EE2200,1,甲班,"線性代數
-LINEAR ALGEBRA",3,期,True,80,0,69,11,蔡舜宏,"三2,3,4(工EC 2002)","['', '', '234', '', '', '', '']","《講授類》
+LINEAR ALGEBRA",3,期,True,80,0,70,10,蔡舜宏,"三2,3,4(工EC 2002)","['', '', '234', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課;限該班及重修生修習","['金融工程學程', '半導體元件學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE2200A&Crsname=線性代數,,,False,電機系,EE2200A,1,乙班,"線性代數
 LINEAR ALGEBRA",3,期,True,80,1,55,25,蔡舜宏,"三2,3,4(工EC 2002)","['', '', '234', '', '', '', '']","《講授類》
@@ -3062,7 +3062,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO104&C
 GENERAL CHEMISTRY (II)",3,期,True,50,0,36,14,楊佳寧,"五2,3,4(海MA 1005)","['', '', '', '', '234', '', '']","《講授類》
 海科系學生優先選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO107&Crsname=普通生物學（一）,,,False,海科系,DO107,1,不分班,"普通生物學（一）
-GENERAL BIOLOGY (I)",3,期,True,50,1,43,7,"王志騰,塗子萱","五6,7,8(海MA 1005)","['', '', '', '', '678', '', '']",《講授類》,[],False
+GENERAL BIOLOGY (I)",3,期,True,50,1,44,6,"王志騰,塗子萱","五6,7,8(海MA 1005)","['', '', '', '', '678', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO121&Crsname=海洋化學實驗（一）,,,False,海科系,DO121,1,不分班,"海洋化學實驗（一）
 MARINE CHEMISTRY LABORATORY (I)",1,期,False,50,0,7,43,"洪慶章,施詠嚴","一8,9(海MA 1005)(實驗)","['89', '', '', '', '', '', '']",《實驗類》,"['擁海學程', '環境教育學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DO131&Crsname=海洋地質概論,,,False,海科系,DO131,1,不分班,"海洋地質概論
@@ -4162,7 +4162,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE532&
 SEMINAR II",1,期,True,120,0,111,9,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
 『本課程之限修，於加退選2階段開放選修』。限本系大四生及碩/博士生修習。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE534&Crsname=書報討論（四）,,,False,資工碩,CSE534,2,不分班,"書報討論（四）
-SEMINAR IV",1,期,True,120,1,99,21,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+SEMINAR IV",1,期,True,120,1,98,22,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
 『本課程之限修，於加退選2階段開放選修』。限本系大四生及碩/博士生修習。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE535&Crsname=專題研究（二）,異動,確認教師2/21,False,資工碩,CSE535,0,不分班,"專題研究（二）
 INDEPENDENT STUDIES(II)",3,期,False,60,0,33,27,"王友群,張雲南,李淑敏,林俊宏,洪宗貝,蔡崇煒,蕭勝夫,賴威光,鄺獻榮,陳嘉平","六2,3,4(工EC 5007)","['', '', '', '', '', '234', '']","《獨立研究》
@@ -4223,8 +4223,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE662&
 UNIX SYSTEM PROGRAMMING",3,期,False,50,0,29,21,希家史提夫,"一2,3,4(工EC 5012)","['234', '', '', '', '', '', '']","《講授類》
  
 ※英語授課","['自然科學之程式應用學程', '半導體設備工程學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE663&Crsname=無線隨意與感測網路技術,異動,更換教室2/26,False,資工碩,CSE663,0,不分班,"無線隨意與感測網路技術
-WIRELESS AD HOC AND SENSOR NETWORK TECHNOLOGY",3,期,False,50,0,12,38,王友群,"四6,7,8(工EC 9014)","['', '', '', '678', '', '', '']",《講授類》,['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE663&Crsname=無線隨意與感測網路技術,異動,更換教室3/4,False,資工碩,CSE663,0,不分班,"無線隨意與感測網路技術
+WIRELESS AD HOC AND SENSOR NETWORK TECHNOLOGY",3,期,False,50,0,12,38,王友群,"四6,7,8(工EC 5025)","['', '', '', '678', '', '', '']",《講授類》,['半導體設備工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE672&Crsname=雲端運算專題（二）,,,False,資工碩,CSE672,0,不分班,"雲端運算專題（二）
 INDEPENDENT STUDIES IN CLOUD COMPUTING (II)",3,期,False,50,0,5,45,林俊宏,"二C,D,E(工EC 5007)","['', 'CDE', '', '', '', '', '']","《獨立研究》
 限本系碩/博士生修習",[],False
@@ -4773,7 +4773,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM511&C
 ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,26,34,"鄭安授,王致遠,王豫萱",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限管院生修習/網大進行之非同步線上課程(二年級優先選課)",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM512&Crsname=商業分析實務,,,False,管理學院(碩),CM512,0,不分班,"商業分析實務
-PRACTICAL BUSINESS ANALYSIS",3,期,False,70,0,25,45,卓雍然,"一2,3,4(管CM 3051)","['234', '', '', '', '', '', '']","《講授類》
+PRACTICAL BUSINESS ANALYSIS",3,期,False,70,0,26,44,卓雍然,"一2,3,4(管CM 3051)","['234', '', '', '', '', '', '']","《講授類》
 商業數據分析與創新微學程","['人工智能投資微學程', '商業數據分析與創新微學程', '科技創新與服務業管理學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM516&Crsname=綠色採購,,,False,管理學院(碩),CM516,0,不分班,"綠色採購
 GREEN PROCUREMENT",1,期,False,50,0,18,32,林新沛,,"['67', '', '', '', '', '', '']","《講授類》
