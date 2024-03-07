@@ -1,0 +1,12 @@
+Type of root[999]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[999]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室3/7".
+Type of root[2485]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2485]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室3/7".
+Type of root[2486]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2486]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室3/7".
+Type of root[2487]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2487]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室3/7".
+Value of root[999]['room'] changed from "四C,D(管CM 4078)" to "四C,D(管CM 3017)".
+Value of root[2485]['room'] changed from "四C,D(管CM 4078)" to "四C,D(管CM 3017)".
+Value of root[2486]['room'] changed from "四C,D(管CM 4078)" to "四C,D(管CM 3017)".
+Value of root[2487]['room'] changed from "四C,D(管CM 4078)" to "四C,D(管CM 3017)".
