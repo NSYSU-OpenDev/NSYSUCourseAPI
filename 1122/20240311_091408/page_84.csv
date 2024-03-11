@@ -1,0 +1,57 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES538&Crsname=高分子光譜學,,,False,材光碩,MOES538,0,不分班,"高分子光譜學
+POLYMER SPECTROSCOPY",3,期,False,50,0,25,25,郭紹偉,"二6,7,8(工MS 4023)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES542&Crsname=高分子黏土奈米複合材料,異動,更換教室2/26,False,材光碩,MOES542,0,不分班,"高分子黏土奈米複合材料
+POLYMER/CLAY NANOCOMPOSITES",3,期,False,50,0,37,13,葉昀昇,"一2,3,4(工MS 4022)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES556&Crsname=光電晶體的生長,異動,更換教室2/20,False,材光碩,MOES556,0,不分班,"光電晶體的生長
+GROWTH OF OPTOELECTRONIC CRYSTAL",3,期,False,50,0,5,45,周明奇,"二5,6,7(工MS 4025)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES558&Crsname=固態電子性質與結構,,,False,材光碩,MOES558,0,不分班,"固態電子性質與結構
+ELECTRONIC PROPERTIES AND STRUCTURES IN SOLIDS",3,期,False,50,0,6,44,杭大任,"四C,D,E(工MS 4025)","['', '', '', 'CDE', '', '', '']","《講授類》
+先修科目：「半導體物理」及格",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES560&Crsname=傅氏光學,,,False,材光碩,MOES560,0,不分班,"傅氏光學
+FOURIER OPTICS",3,期,False,50,2,12,38,蘇威宏,"一4(工MS 2001) 四3,4(工MS 2001)","['4', '', '', '34', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572B&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572B,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,1,49,黃冠榮,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572C&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572C,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,2,48,郭哲男,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572D&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572D,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,4,46,陳致光,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572E&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572E,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,6,44,葉昀昇,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572F&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572F,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,1,49,杭大任,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572G&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572G,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,2,48,王致傑,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572I&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572I,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,3,47,蘇威宏,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572J&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572J,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,5,45,周明奇,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572K&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572K,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,8,42,郭紹偉,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572L&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572L,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,2,48,張六文,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572M&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572M,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,3,47,蔣酉旺,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572N&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572N,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,3,47,王映樵,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572O&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572O,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,6,44,曼哈迪,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES572P&Crsname=專題研究（二）,新增,1/2,False,材光碩,MOES572P,0,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,6,44,邱政維,"日2,3,4()","['', '', '', '', '', '', '234']","《獨立研究》
+學生選課前請先詢問指導教授是否選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOES574B&Crsname=專題研究（四）,新增,1/2,False,材光碩,MOES574B,0,不分班,"專題研究（四）
+INDEPENDENT STUDIES(IV)",3,期,False,50,0,1,49,黃冠榮,"日6,7,8()","['', '', '', '', '', '', '678']","《獨立研究》
+學生選課前請先詢問指導教授是否選課。",[],True
