@@ -1,0 +1,48 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306E&Crsname=政經實作專題（一）,,,True,政經系,PE306E,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,9,41,李予綱,"三1,A,B(社SS 1006)","['', '', 'A1B', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306F&Crsname=政經實作專題（一）,異動,更換時間1/30,True,政經系,PE306F,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,6,44,王俊傑,"五1,A,B(社SS 3001)","['', '', '', '', 'A1B', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306G&Crsname=政經實作專題（一）,,,True,政經系,PE306G,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,6,44,李明軒,"二1,A,B(社SS 3001)","['', 'A1B', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306H&Crsname=政經實作專題（一）,,,True,政經系,PE306H,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,7,43,陳若蘭,"一1,A,B(社SS 1005)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE306I&Crsname=政經實作專題（一）,,,True,政經系,PE306I,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,0,6,44,顏孟芬,"一1,A,B(社SS 3005)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE308&Crsname=政治經濟學（一）,,,False,政經系,PE308,1,不分班,"政治經濟學（一）
+THE POLITICAL ECONOMY(I)",3,期,True,80,0,75,5,李予綱,"三5,6,7(社SS 3001)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE321&Crsname=國際貿易原理與政策（一）,,,False,政經系,PE321,3,不分班,"國際貿易原理與政策（一）
+INTERNATIONAL TRADE:THEORY AND POLICIES(I)",3,期,False,50,0,50,0,吳世傑,"三5,6,7(社SS 1006)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE325&Crsname=政治與文學,,,False,政經系,PE325,1,不分班,"政治與文學
+POLITICS AND LITERATURE",3,期,False,35,0,34,1,辛翠玲,"三2,3,4(社SS 3005)","['', '', '234', '', '', '', '']","《講授類》
+與跨院併班授課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE328&Crsname=公共經濟學,,,False,政經系,PE328,3,不分班,"公共經濟學
+PUBLIC ECONOMICS",3,期,True,55,0,64,-9,吳世傑,"五2,3,4(社SS 3005)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE354&Crsname=資料分析與應用-R語言之應用,,,False,政經系,PE354,3,不分班,"資料分析與應用-R語言之應用
+DATA ANALYSIS AND MANIPULATION-R LANGUAGE APPLICATIONS",3,期,False,50,0,59,-9,張光亮,"四5,6,7(社SS 3006)","['', '', '', '567', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '數據科學微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE428&Crsname=計量經濟學,,,False,政經系,PE428,4,不分班,"計量經濟學
+ECONOMETRICS",3,期,False,50,0,7,43,王俊傑,"一2,3,4(社SS 1006)","['234', '', '', '', '', '', '']",《講授類》,['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE438&Crsname=東南亞政府與政治概論,,,False,政經系,PE438,2,不分班,"東南亞政府與政治概論
+INTRODUCTION TO GOVERNMENTS AND POLITICS IN SOUTHEAST ASIA",3,期,False,35,2,18,17,黎寶文,"一5,6,7(社SS 1006)","['567', '', '', '', '', '', '']","《講授類》
+與跨院併班授課",['臺灣研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PE439&Crsname=中國政治經濟發展,,,False,政經系,PE439,4,不分班,"中國政治經濟發展
+POLITICAL AND ECONOMIC DEVELOPMENT IN CHINA",3,期,False,50,1,15,35,陳若蘭,"一5,6,7(社SS 3005)","['567', '', '', '', '', '', '']",《講授類》,['臺灣研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC103&Crsname=社會學（二）,,,False,社會系,SOC103,1,不分班,"社會學（二）
+SOCIOLOGY（II）",3,期,True,50,0,55,-5,萬毓澤,"四6,7,8(社SS 4001)","['', '', '', '678', '', '', '']","《講授類》
+限修過本系或跨院選修之社會學(一)且及格，點選本課請同時點選《社會學實習(二)》",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC106&Crsname=社會學實習（二）,,,False,社會系,SOC106,1,不分班,"社會學實習（二）
+SOCIOLOGY PRACTICE (II)",1,期,True,50,0,52,-2,萬毓澤,"三D,E(社SS 1003)(實驗)","['', '', 'DE', '', '', '', '']","《實習類》
+本課程限選修本系《社會學（二）》之學生。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC203&Crsname=社會統計（二）,,,False,社會系,SOC203,2,不分班,"社會統計（二）
+SOCIAL STATISTICS (II)",3,期,True,50,1,52,-2,戴昀,"二2,3,4(圖IL PC 02)","['', '234', '', '', '', '', '']","《講授類》
+限修過本系社會統計(一)且及格，點選本課請同時點選社會統計實習(二)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC212&Crsname=媒體與社會,,,False,社會系,SOC212,2,不分班,"媒體與社會
+MEDIA AND SOCIETY",3,期,False,50,0,33,17,戴昀,"四6,7,8(社SS 4004-2)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC216&Crsname=糧食、農業與社會,異動,更換時間12/28,False,社會系,SOC216,2,不分班,"糧食、農業與社會
+FOOD,AGRICULTURE AND SOCIETY",3,期,False,50,2,10,40,"巴清雄,王宏仁",,"['', '', '', '123456789', '123456789', '123456789', '']","《講授類》
+寒假部分課程先修，限有修課同學選修",['原民文化探索及永續發展學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC221&Crsname=社會統計實習（二）,,,False,社會系,SOC221,2,不分班,"社會統計實習（二）
+SOCIAL STATISTICS PRACTICE ( II )",1,期,True,50,0,50,0,戴昀,"四D,E(圖IL PC 02)(實驗)","['', '', '', 'DE', '', '', '']","《實習類》
+本課程限選修本系《社會統計（二）》之學生。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=SOC249&Crsname=歷史社會學,,,False,社會系,SOC249,2,不分班,"歷史社會學
+HISTORICAL SOCIOLOGY",3,期,False,50,1,50,0,林傳凱,"一6,7,8(社SS 1003)","['678', '', '', '', '', '', '']",《講授類》,[],False
