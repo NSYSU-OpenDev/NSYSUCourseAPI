@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2616&Crsname=光電生活與能源永續,,,False,博雅向度六,GEAE2616,0,不分班,"光電生活與能源永續
+OPTOELECTRONIC DAILY LIFE AND ENERGY SUSTAINABILITY",2,期,True,48,1,47,1,于欽平,"一8,9(西SW 1007)","['89', '', '', '', '', '', '']","《講授類》
+限非光電系學生修習。","['智慧港埠微學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2620&Crsname=地球生命概論,,,False,博雅向度六,GEAE2620,0,不分班,"地球生命概論
+AN INTRODUCTION TO LIFE ON EARTH",3,期,True,70,3,64,6,邊安台,"三2,3,4(通GE 1010)","['', '', '234', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2622&Crsname=人類與環境之交互關係,,,False,博雅向度六,GEAE2622,0,不分班,"人類與環境之交互關係
+HUMAN-ENVIRONMENT INTERACTIONS",3,期,True,70,5,74,-4,夏燦風,"二2,3,4(通GE 1008)","['', '234', '', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['全英語通識教育菁英學程', '科技與環境英語微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2625&Crsname=在地食物的永續發展與全球脈絡,異動,更換主授教師1/25,False,博雅向度六,GEAE2625,0,不分班,"在地食物的永續發展與全球脈絡
+SUSTAINABLE LOCAL FOOD IN GLOBAL CONTEXT",3,期,True,50,3,61,-11,"李育諭,李容婷,林季怡","一8,9,C(通GE 2006)","['89C', '', '', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['地方發展與永續農業微學程', '地方創生與區域治理微學程', '地方創生與永續發展整合學程', '全英語通識教育菁英學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2627&Crsname=永續生活理念UX/UI設計實務,異動,更換教室2/21,False,博雅向度六,GEAE2627,0,不分班,"永續生活理念UX/UI設計實務
+SUSTAINABLE LIFE CONCEPT UX/UI DESIGN PRACTICES",3,期,True,50,0,54,-4,廖奕雯,"一6,7,8(圖IL PC03)","['678', '', '', '', '', '', '']","《講授類》
+限非資工、資管系修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010001&Crsname=電腦輔助英語教學,,,False,校際(學士班),AF010001,0,不分班,"電腦輔助英語教學
+COMPUTER-ASSISTED ENGLISH INSTRUCTION",3,期,False,50,0,1,49,校際選課,"一2,3,4()","['234', '', '', '', '', '', '']","《講授類》
+國立屏東大學英語系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010002&Crsname=人文地理調查法,,,False,校際(學士班),AF010002,0,不分班,"人文地理調查法
+SURVEY METHODS OF HUMAN GEOGRAPHY",3,期,False,50,0,1,49,校際選課,"四2,3,4()","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010003&Crsname=工程力學,,,False,校際(學士班),AF010003,0,不分班,"工程力學
+ENGINEERING MECHANICS",3,期,False,10,0,1,9,校際選課,"一2,3() 四9()","['23', '', '', '9', '', '', '']",《不調查》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010004&Crsname=中國地理,,,False,校際(學士班),AF010004,0,不分班,"中國地理
+CHINESE GEOGRAPHY",3,期,False,10,0,1,9,校際選課,"四5,6,7()","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010005&Crsname=中國哲學史（二）,,,False,校際(學士班),AF010005,0,不分班,"中國哲學史（二）
+HISTORY OF CHINESE PHILOSORHY(II)",3,期,False,10,0,2,8,校際選課,"三2,3,4()","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010006&Crsname=中國哲學史（二）,,,False,校際(學士班),AF010006,0,不分班,"中國哲學史（二）
+HISTORY OF CHINESE PLILOSOPHY(II)",3,期,False,50,0,4,46,校際選課,"二1,2,3()","['', '123', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010007&Crsname=中國通史（二）,,,False,校際(學士班),AF010007,0,不分班,"中國通史（二）
+SURVEY OF CHINESE HISTORY (2)",3,期,False,50,0,1,49,校際選課,"五2,3,4()","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010008&Crsname=公民教育,,,False,校際(學士班),AF010008,0,不分班,"公民教育
+CIVIL EDUCATION",2,期,False,50,0,1,49,校際選課,"二3,4()","['', '34', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010009&Crsname=心理及教育統計學,,,False,校際(學士班),AF010009,0,不分班,"心理及教育統計學
+STATISTICS IN EDUCATION AND PSYCHOLOGY",3,期,False,50,0,1,49,校際選課,"四7,8,9()","['', '', '', '789', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010010&Crsname=心理及教育統計學,,,False,校際(學士班),AF010010,0,不分班,"心理及教育統計學
+STATISTICS IN EDUCATION AND PSYCHOLOGY",3,年,False,50,0,4,46,校際選課,"四7,8,9()","['', '', '', '789', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010012&Crsname=史學專題講座,,,False,校際(學士班),AF010012,0,不分班,"史學專題講座
+INVITED SPEECHES ON RECENT HISTORY RESEARCH",0,期,False,50,0,1,49,校際選課,"四D,E()","['', '', '', 'DE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010013&Crsname=台灣建築史,,,False,校際(學士班),AF010013,0,不分班,"台灣建築史
+THE HISTORY OF ARCHITECTURE IN TAIWAN",2,期,False,50,0,1,49,校際選課,"四5,6()","['', '', '', '56', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010014&Crsname=史學方法,,,False,校際(學士班),AF010014,0,不分班,"史學方法
+METHODOLOGY OF HISTORIOGRAPHY",3,期,False,50,0,1,49,校際選課,"三2,3,4()","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010015&Crsname=民法債編總論,,,False,校際(學士班),AF010015,0,不分班,"民法債編總論
+CIVIL LAW:GENERAL PROVISIONS OF OBLIGATIONS",4,期,False,50,0,2,48,校際選課,"五3,4,5,6()","['', '', '', '', '3456', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF010016&Crsname=生物統計學,,,False,校際(學士班),AF010016,0,不分班,"生物統計學
+BIOSTATISTICS",3,期,False,50,0,1,49,校際選課,"一5,6,7()","['567', '', '', '', '', '', '']",《講授類》,[],False

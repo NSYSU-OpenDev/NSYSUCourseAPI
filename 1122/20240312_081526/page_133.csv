@@ -1,0 +1,21 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRMA901&Crsname=碩士論文,新增,專簽核准增開2/17,False,人亞碩專,HRMA901,0,,"碩士論文
+MASTER THESIS",3,期,False,50,0,8,42,指導教授,"日C,D,E(管CM 3043)","['', '', '', '', '', '', 'CDE']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=HRMA916&Crsname=人力資源研究方法（二）,,,False,人亞碩專,HRMA916,0,,"人力資源研究方法（二）
+RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT (II)",3,期,False,50,0,42,8,"李澄賢,王豫萱,陳旻男","日2,3,4(管CM 3051)","['', '', '', '', '', '', '234']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS703&Crsname=研究方法（二）,,,False,資管博,MIS703,1,,"研究方法（二）
+RESEARCH METHODOLOGY(II)",3,期,True,50,0,4,46,邱兆民,"三5,6,7(管CM 2016)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS735&Crsname=中國的國際關係與外交政策,,,False,政治博,IPS735,0,,"中國的國際關係與外交政策
+CHINA’S INTERNATIONAL RELATIONS AND FOREIGN POLICY",3,期,False,50,0,3,47,沈旭暉,"五6,7,8(社SS 3008)","['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IPS830&Crsname=比較外交政策,,,False,政治博,IPS830,0,,"比較外交政策
+COMPARATIVE FOREIGN POLICY",3,期,False,50,0,6,44,王群洋,"二2,3,4(社SS 3010-2)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE760&Crsname=科技素養研究,異動,更換教室2/22,False,教育博,IOE760,0,,"科技素養研究
+SCIENTIFIC AND TECHNOLOGICAL LITERACY STUDIES",3,期,False,20,1,8,12,謝百淇,"三2,3,4(社SS 2005)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['STREAM永續發展培力微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE854&Crsname=教師信念與知識論研究,異動,更換教室2/29,False,教育博,IOE854,0,,"教師信念與知識論研究
+STUDIES IN TEACHER BELIEFS AND EPISTEMOLOGIES",3,期,False,20,0,1,19,張至慶,"五2,3,4(社SS 2002-2)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IOE856&Crsname=弱勢年輕成人,,,False,教育博,IOE856,0,,"弱勢年輕成人
+MARGINALIZATION IN EMERGING AND YOUNG ADULTHOOD",3,期,False,50,0,2,48,陳威霖,"四5,6,7(社SS 2002-1)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IGPE765&Crsname=全球教育領導,,,False,教人全英博,IGPE765,0,,"全球教育領導
+LEADERSHIP IN GLOBAL EDUCATION",3,期,False,50,0,5,45,艾玲,"三C,D,E(社SS 2006)","['', '', 'CDE', '', '', '', '']",《講授類》,[],True
