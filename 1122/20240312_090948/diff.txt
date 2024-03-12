@@ -1,0 +1,14 @@
+Item root[1801]['classTime'][5] added to iterable.
+Item root[2252] added to iterable.
+Item root[1801]['classTime'][5] removed from iterable.
+Type of root[1801]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1801]['changeDescription'] changed from NoneType to str and value changed from None to "更換課名及學分3/12".
+Value of root[1801]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM646&Crsname=全球化媒體專題研究" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=ICM646&Crsname=全球化媒體".
+Value of root[1801]['name'] changed from "全球化媒體專題研究
+INDEPENDENT STUDIES IN MEDIA GLOBALIZATION" to "全球化媒體
+MEDIA GLOBALIZATION".
+Value of root[1801]['credit'] changed from "3" to "1".
+Value of root[1801]['room'] changed from "六C,D,E(管CM 2032)" to "六6(管CM 2032)".
+Value of root[1801]['description'] changed from "《獨立研究》
+『本課程之限修，於加退選2階段開放選修』。限行傳所學生選修" to "《講授類》
+限行傳所碩士班學生選修".

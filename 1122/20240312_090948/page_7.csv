@@ -1,0 +1,52 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE221&Crsname=運動與健康：初級肌肉適能,,,False,運動健康(必),GEPE221,2,不分班,"運動與健康：初級肌肉適能
+SPORT & HEALTH: BASIC MUSCULAR FITNESS",1,期,True,35,7,42,-7,蔡宗晏,"四6,7(體適能中心/Fitness Center)","['', '', '', '67', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE223&Crsname=運動與健康：初級競技桌球,,,False,運動健康(必),GEPE223,2,不分班,"運動與健康：初級競技桌球
+SPORT & HEALTH: BASIC SPORT TABLE TENNIS",1,期,True,50,1,33,17,羅凱暘,"二6,7(桌球室/Table tennis room)","['', '67', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE227&Crsname=運動與健康：初級複合弓,,,False,運動健康(必),GEPE227,2,不分班,"運動與健康：初級複合弓
+SPORT & HEALTH: BASIC COMPOUND BOW",1,期,True,20,3,26,-6,黃義博,"五6,7(射箭場/Archery field)","['', '', '', '', '67', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE228&Crsname=運動與健康：初級競技羽球,,,False,運動健康(必),GEPE228,2,不分班,"運動與健康：初級競技羽球
+SPORT & HEALTH：BASIC ATHLETIC BADMINTON",1,期,True,50,1,49,1,林國欽,"二3,4(體育館3樓/3rd floors of Gym)","['', '34', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE229&Crsname=運動與健康：初級水中救生,異動,更換部份時間1/15,False,運動健康(必),GEPE229,2,不分班,"運動與健康：初級水中救生
+SPORT & HEALTH: BASIC LIFE SAVING",2,期,True,20,0,7,13,羅凱暘,,"['CD', 'CD', 'CD', 'CD', 'CD', '1234B5678', '']","《體育類》
+限大二以上選修。200公尺（自由式、蛙式各100公尺）游泳6分鐘完成，方得修習本課程。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE230&Crsname=運動與健康：初級衝浪,,,False,運動健康(必),GEPE230,2,不分班,"運動與健康：初級衝浪
+SPORT & HEALTH：BASIC SURF",1,期,True,25,3,30,-5,蔡睿洋,"三1,2(海域中心/Marine sports center)","['', '', '12', '', '', '', '']","《體育類》
+限大二以上選修，且游泳200公尺不落地完成 (自由式或蛙式)，方得修習本課程。",['永續海洋休閒運動產業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEPE303&Crsname=運動與健康：進階集訓班,,,False,運動進階(選),GEPE303,3,不分班,"運動與健康：進階集訓班
+SPORT & HEALTH:  ADVANCED ASSEMBLED TRAINING CLASS",2,期,False,100,0,43,57,"蔡宗晏,林國欽,林宗正,羅凱暘,蔡鋒樺,黃義博",二A() 四A(),"['', 'A', '', 'A', '', '', '']","《體育類》
+限大三以上選修。本校校隊學生需自行加選，非校隊加選以零分計算 。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2105&Crsname=莎劇與文化詮釋,,,False,博雅向度一,GEAE2105,0,不分班,"莎劇與文化詮釋
+APPROACHING SHAKESPEARE：FROM PAGE TO PERFORMANCE",3,期,True,60,1,69,-9,林季怡,"四5,6,7(通GE 2006)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2108&Crsname=台灣社會與文化,,,False,博雅向度一,GEAE2108,0,不分班,"台灣社會與文化
+SOCIETY AND CULTURE IN TAIWAN",3,期,True,90,12,103,-13,江政寬,"一5,6,7(通GE 1008)","['567', '', '', '', '', '', '']",《講授類》,"['日本研究學程', '環境教育學程', '地方創生與區域治理微學程', '地方敘事與創生學程', '社區文創微學程', '台日跨文化微學程', '地方敘事與文化設計微學程', '地方創生與永續發展整合學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2109&Crsname=生命禮儀與文化詮釋,,,False,博雅向度一,GEAE2109,0,不分班,"生命禮儀與文化詮釋
+ANALYSIS OF CULTURE PERSPECTIVE ABOUT LIFE CEREMONY",3,期,True,90,2,90,0,楊濟襄,"一2,3,4(文LA 2004)","['234', '', '', '', '', '', '']","《講授類》
+限非中文系學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2117&Crsname=當代劇場藝術的價值與思維,,,False,博雅向度一,GEAE2117,0,不分班,"當代劇場藝術的價值與思維
+MODERNISM IN THEATRE",2,期,True,80,8,89,-9,林宜誠,"二8,9(通GE 1008)","['', '89', '', '', '', '', '']","《講授類》
+限非劇藝系學生修習","['音樂劇學程', '法國語言、文化與社會學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2132&Crsname=紀錄片企劃與製作,,,False,博雅向度一,GEAE2132,0,不分班,"紀錄片企劃與製作
+PLAN AND MAKING OF DOCUMENTARY",3,期,True,70,4,74,-4,顏蘭權,"一5,6,7(通GE 2006)","['567', '', '', '', '', '', '']",《講授類》,"['地方創生與區域治理微學程', '地方創生與永續發展整合學程', '臺灣研究學程', '中文創意跨域應用整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2136&Crsname=飲食與文學,,,False,博雅向度一,GEAE2136,0,不分班,"飲食與文學
+PLEASURE OF THE LITERARY MEAL",3,期,True,80,25,89,-9,吳亦昕,"三2,3,4(通GE 1008)","['', '', '234', '', '', '', '']",《講授類》,"['飲食文化微學程', '地方敘事與創生學程', '臺灣研究學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2141&Crsname=願望的視界：天方夜譚的世界,,,False,博雅向度一,GEAE2141,0,不分班,"願望的視界：天方夜譚的世界
+HORIZONS OF DESIRE: THE WORLD OF ARABIAN NIGHTS",2,期,True,50,9,55,-5,蘇其康,"三6,7(通GE 1010)","['', '', '67', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2144&Crsname=美學與美感體驗,,,False,博雅向度一,GEAE2144,0,不分班,"美學與美感體驗
+AESTHETICS AND AESTHETIC EXPERIENCE",2,期,True,70,14,80,-10,王以亮,"五3,4(通GE 2006)","['', '', '', '', '34', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2145&Crsname=從國際新聞學人文地理,異動,確認教師1/11,False,博雅向度一,GEAE2145,0,不分班,"從國際新聞學人文地理
+EXPLORING HUMAN GEOGRAPHY IN WORLD NEWS",3,期,True,50,1,57,-7,賴慧玲,"四5,6,7(通GE 4016)","['', '', '', '567', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2205&Crsname=視覺文化與哲學反思,,,False,博雅向度二,GEAE2205,0,不分班,"視覺文化與哲學反思
+VISUAL CULTURE AND PHILOSOPHICAL REFLECTION",3,期,True,80,8,89,-9,楊婉儀,"四2,3,4(通GE 1010)","['', '', '', '234', '', '', '']",《講授類》,"['法國語言、文化與社會學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2207&Crsname=文化差異與倫理規範,,,False,博雅向度二,GEAE2207,0,不分班,"文化差異與倫理規範
+CULTURAL DIFFERENCE AND ETHICAL NORMS",3,期,True,60,6,64,-4,游淙祺,"一5,6,7(文LA 7006)","['567', '', '', '', '', '', '']",《講授類》,"['法國語言、文化與社會學程', '跨文化人文思潮與美學微學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2208&Crsname=東方哲學思想（一）,異動,更換時間及教室2/17,False,博雅向度二,GEAE2208,0,不分班,"東方哲學思想（一）
+EASTERN PHILOSOPHY（I）",3,期,True,70,10,75,-5,越建東,"三2,3,4(海ME 3006)","['', '', '234', '', '', '', '']",《講授類》,['國際漢學微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GEAE2210&Crsname=生命教育,,,False,博雅向度二,GEAE2210,0,不分班,"生命教育
+LIFE EDUCATION",2,期,True,50,6,55,-5,楊婉儀,"三3,4(文LA 1004)","['', '', '34', '', '', '', '']",《講授類》,"['臺灣研究學程', '與社會交往的表演藝術微學程']",False
