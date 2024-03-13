@@ -1,0 +1,1 @@
+Item root[1984] removed from iterable.
