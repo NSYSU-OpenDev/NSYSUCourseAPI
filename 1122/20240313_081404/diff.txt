@@ -1,0 +1,41 @@
+Item root[279] removed from iterable.
+Item root[306] removed from iterable.
+Item root[309] removed from iterable.
+Item root[311] removed from iterable.
+Item root[313] removed from iterable.
+Item root[318] removed from iterable.
+Item root[328] removed from iterable.
+Item root[330] removed from iterable.
+Item root[721] removed from iterable.
+Item root[722] removed from iterable.
+Item root[724] removed from iterable.
+Item root[726] removed from iterable.
+Item root[729] removed from iterable.
+Item root[732] removed from iterable.
+Item root[741] removed from iterable.
+Item root[1397] removed from iterable.
+Item root[1776] removed from iterable.
+Item root[1801] removed from iterable.
+Item root[1954] removed from iterable.
+Item root[2003] removed from iterable.
+Item root[2027] removed from iterable.
+Item root[2067] removed from iterable.
+Item root[2073] removed from iterable.
+Item root[2443] removed from iterable.
+Item root[2444] removed from iterable.
+Item root[2449] removed from iterable.
+Item root[2458] removed from iterable.
+Value of root[634]['selected'] changed from 40 to 39.
+Value of root[634]['remaining'] changed from 10 to 11.
+Value of root[638]['selected'] changed from 43 to 42.
+Value of root[638]['remaining'] changed from 7 to 8.
+Value of root[639]['selected'] changed from 40 to 39.
+Value of root[639]['remaining'] changed from 10 to 11.
+Value of root[640]['selected'] changed from 7 to 6.
+Value of root[640]['remaining'] changed from 43 to 44.
+Value of root[642]['selected'] changed from 28 to 27.
+Value of root[642]['remaining'] changed from 22 to 23.
+Value of root[643]['selected'] changed from 35 to 34.
+Value of root[643]['remaining'] changed from 15 to 16.
+Value of root[644]['selected'] changed from 62 to 61.
+Value of root[644]['remaining'] changed from -12 to -11.
