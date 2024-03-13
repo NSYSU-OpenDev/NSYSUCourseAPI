@@ -1,5 +1,0 @@
-Value of root[102]['english'] changed from False to True.
-Value of root[2244]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM990&Crsname=性別、組織與管理" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAMA990&Crsname=性別、組織與管理".
-Value of root[2244]['change'] changed from "新增" to "異動".
-Value of root[2244]['changeDescription'] changed from "2/15" to "專簽更換課號3/12".
-Value of root[2244]['id'] changed from "PAM990" to "PAMA990".
