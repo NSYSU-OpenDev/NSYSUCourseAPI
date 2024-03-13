@@ -1,0 +1,59 @@
+Item root[1085]['classTime'][1] added to iterable.
+Item root[244] added to iterable.
+Item root[245] added to iterable.
+Item root[246] added to iterable.
+Item root[1085]['classTime'][1] removed from iterable.
+Item root[1085]['tags'][0] removed from iterable.
+Value of root[98]['selected'] changed from 50 to 51.
+Value of root[98]['remaining'] changed from 0 to -1.
+Value of root[105]['selected'] changed from 55 to 56.
+Value of root[105]['remaining'] changed from -5 to -6.
+Value of root[122]['selected'] changed from 26 to 27.
+Value of root[122]['remaining'] changed from -6 to -7.
+Value of root[155]['selected'] changed from 105 to 106.
+Value of root[155]['remaining'] changed from -10 to -11.
+Value of root[164]['selected'] changed from 81 to 82.
+Value of root[164]['remaining'] changed from -1 to -2.
+Value of root[166]['selected'] changed from 84 to 86.
+Value of root[166]['remaining'] changed from -14 to -16.
+Value of root[169]['selected'] changed from 80 to 81.
+Value of root[169]['remaining'] changed from -10 to -11.
+Value of root[176]['selected'] changed from 158 to 159.
+Value of root[176]['remaining'] changed from -28 to -29.
+Value of root[179]['selected'] changed from 93 to 94.
+Value of root[179]['remaining'] changed from -13 to -14.
+Value of root[181]['selected'] changed from 64 to 63.
+Value of root[181]['remaining'] changed from 6 to 7.
+Value of root[1085]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MAEV342&Crsname=基礎工程學" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=AF020010&Crsname=生物與醫學資訊專論".
+Value of root[1085]['department'] changed from "海工系" to "校際(研究所)".
+Value of root[1085]['id'] changed from "MAEV342" to "AF020010".
+Value of root[1085]['grade'] changed from "3" to "0".
+Value of root[1085]['name'] changed from "基礎工程學
+FOUNDATION ENGINEERING" to "生物與醫學資訊專論
+SPECIAL TOPICS ON BIOINFORMATICS & BIOMEDICAL INFORMATICS".
+Value of root[1085]['selected'] changed from 3 to 1.
+Value of root[1085]['remaining'] changed from 47 to 49.
+Value of root[1085]['teacher'] changed from "林俊宏" to "校際選課".
+Value of root[1085]['room'] changed from "二5,6,7(海ME 2005)" to "二7,8,9()".
+Value of root[245]['selected'] changed from 77 to 78.
+Value of root[245]['remaining'] changed from -27 to -28.
+Value of root[430]['selected'] changed from 54 to 55.
+Value of root[430]['remaining'] changed from -4 to -5.
+Value of root[438]['selected'] changed from 33 to 34.
+Value of root[438]['remaining'] changed from -3 to -4.
+Value of root[494]['selected'] changed from 19 to 20.
+Value of root[494]['remaining'] changed from -3 to -4.
+Value of root[989]['selected'] changed from 62 to 63.
+Value of root[989]['remaining'] changed from -12 to -13.
+Value of root[998]['selected'] changed from 55 to 56.
+Value of root[998]['remaining'] changed from -5 to -6.
+Value of root[1565]['selected'] changed from 47 to 49.
+Value of root[1565]['remaining'] changed from 3 to 1.
+Value of root[1716]['selected'] changed from 70 to 71.
+Value of root[1716]['remaining'] changed from -20 to -21.
+Value of root[2482]['selected'] changed from 55 to 56.
+Value of root[2482]['remaining'] changed from -5 to -6.
+Value of root[2483]['selected'] changed from 55 to 56.
+Value of root[2483]['remaining'] changed from -5 to -6.
+Value of root[2484]['selected'] changed from 55 to 56.
+Value of root[2484]['remaining'] changed from -5 to -6.
