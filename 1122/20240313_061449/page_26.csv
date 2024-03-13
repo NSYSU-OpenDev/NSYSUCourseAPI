@@ -1,0 +1,59 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL223&Crsname=歐洲文學：1800以後,,,True,外文系,DFLL223,2,不分班,"歐洲文學：1800以後
+EUROPEAN LITERATURE : AFTER 1800",3,期,True,50,0,15,35,洪敏秀,"一5,6,7(文LA 3001)","['567', '', '', '', '', '', '']",《講授類》,"['法國語言、文化與社會學程', '西洋經典文學與文化學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL225&Crsname=英國文學：1660-1800,,,True,外文系,DFLL225,2,不分班,"英國文學：1660-1800
+ENGLISH LITERATURE : 1660-1800",3,期,True,50,0,40,10,范澤凱,"一2,3,4(文LA 3002)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['西洋經典文學與文化學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL231&Crsname=百老匯表演與戲劇藝術（二）,,,False,外文系,DFLL231,2,不分班,"百老匯表演與戲劇藝術（二）
+BROADWAY PERFORMING AND DRAMATIC ARTS(II)",3,期,False,50,1,37,13,鍾敬堂,"五2,3,4(文LA 2003)","['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課","['跨文化人文思潮與美學微學程', '西洋經典文學與文化學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL233&Crsname=日文（二）,,,True,外文系,DFLL233,2,不分班,"日文（二）
+JAPANESE(II)",3,期,False,20,11,20,0,森國松江,"三5,6,7(文LA 3013)","['', '', '567', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。外文系學生優先選修。本課程限修，於加退選2階段開放選修。",['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL233A&Crsname=日文（二）,,,True,外文系,DFLL233A,2,不分班,"日文（二）
+JAPANESE(II)",3,期,False,20,2,28,-8,森國松江,"三2,3,4(文LA 2003)","['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。非外文系同學優先選修",['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL235&Crsname=西班牙文（二）,異動,取消限修條件2/21,True,外文系,DFLL235,2,不分班,"西班牙文（二）
+SPANISH(II)",3,期,False,20,0,12,8,高長空,"三5,6,7(文LA 3014)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL235A&Crsname=西班牙文（二）,,,True,外文系,DFLL235A,2,不分班,"西班牙文（二）
+SPANISH(II)",3,期,False,20,0,6,14,李優俐,"三2,3,4(文LA 1002)","['', '', '234', '', '', '', '']","《講授類》
+非外文系同學優先選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL237&Crsname=法文（二）,,,True,外文系,DFLL237,2,不分班,"法文（二）
+FRENCH(II)",3,期,False,20,0,15,5,白士禮,"三5,6,7(文LA 3002)","['', '', '567', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。外文系學生優先選修。本課程限修，於加退選2階段開放選修。
+※英語授課",['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL237A&Crsname=法文（二）,,,True,外文系,DFLL237A,2,不分班,"法文（二）
+FRENCH(II)",3,期,False,20,0,14,6,戴遠雄,"二2,3,4(文LA 3004)","['', '234', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。非外文系同學優先選修",['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL239&Crsname=德文（二）,,,True,外文系,DFLL239,2,不分班,"德文（二）
+GERMAN(II)",3,期,False,20,1,17,3,盧家達,"三5,6,7(文LA 3003)","['', '', '567', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。外文系學生優先選修。本課程限修，於加退選2階段開放選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL239A&Crsname=德文（二）,,,True,外文系,DFLL239A,2,不分班,"德文（二）
+GERMAN(II)",3,期,False,20,0,17,3,陳麗雅,"三2,3,4(文LA 1001)","['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。非外文系同學優先選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL306&Crsname=日文二（二）,,,True,外文系,DFLL306,3,不分班,"日文二（二）
+JAPANESE II-2",3,期,True,20,0,14,6,森國松江,"一2,3,4(文LA 3013)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL308&Crsname=西班牙文二（二）,,,True,外文系,DFLL308,3,不分班,"西班牙文二（二）
+SPANISH II-2",3,期,True,20,0,12,8,李優俐,"一2,3,4(文LA 3014)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL310&Crsname=法文二（二）,,,True,外文系,DFLL310,3,不分班,"法文二（二）
+FRENCH II-2",3,期,True,20,0,8,12,白士禮,"四2,3,4(文LA 3013)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL321&Crsname=英國文學：1900以後,異動,更換教室2/21,True,外文系,DFLL321,3,不分班,"英國文學：1900以後
+ENGLISH LITERATURE : AFTER 1900",3,期,True,50,0,3,47,林玉珍,"二5,6,7(文LA 3016)","['', '567', '', '', '', '', '']",《講授類》,['西洋經典文學與文化學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL326&Crsname=當代電影藝術,,,False,外文系,DFLL326,3,不分班,"當代電影藝術
+CONTEMPORARY FILM ART",3,期,False,50,0,25,25,鍾敬堂,"四5,6,7(文LA 2003)","['', '', '', '567', '', '', '']","《講授類》
+ 
+※英語授課","['法國語言、文化與社會學程', '跨文化人文思潮與美學微學程', '西洋經典文學與文化學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL331&Crsname=英文中譯（二）,,,False,外文系,DFLL331,3,不分班,"英文中譯（二）
+TRANSLATING ENGLISH TEXTS INTO CHINESE (II)",3,期,False,20,0,17,3,林毓凱,"三5,6,7(文LA 2001)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL337&Crsname=觀光英語,異動,更換時間1/23,False,外文系,DFLL337,3,不分班,"觀光英語
+TOURISM ENGLISH",3,期,False,50,5,50,0,施智閔,"二2,3,4(海ME 3006)","['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['法國語言、文化與社會學程', '地方敘事與文化設計微學程', '地方敘事與創生學程', '臺灣研究學程', '實用英語跨域學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL339&Crsname=英國浪漫主義與現代性：1789-1840,,,False,外文系,DFLL339,4,不分班,"英國浪漫主義與現代性：1789-1840
+ENGLISH ROMANTICISM AND MODERNITY: 1789-1840",3,期,False,50,1,15,35,李佳容,"三2,3,4(文LA 3014)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['西洋經典文學與文化學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DFLL402&Crsname=日文三（二）,,,True,外文系,DFLL402,4,不分班,"日文三（二）
+JAPANESE III-2",3,期,True,20,0,13,7,森國松江,"一5,6,7(文LA 3013)","['567', '', '', '', '', '', '']",《講授類》,['日本研究學程'],False
