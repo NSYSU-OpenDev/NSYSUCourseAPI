@@ -1,0 +1,58 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM690&Crsname=產業資料分析與因果推論,,,False,企企管碩,BM690,0,不分班,"產業資料分析與因果推論
+INDUSTRIAL DATA ANALYSIS AND CAUSAL INFERENCE",3,期,False,50,0,20,30,佘健源,"四2,3,4(管CM 1032)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM693&Crsname=研究方法,,,False,企企管碩,BM693,1,甲班,"研究方法
+RESEARCH METHODOLOGY",3,期,True,50,0,57,-7,"蔡宗霖,林晉禾","二C,D,E(管CM 1037)","['', 'CDE', '', '', '', '', '']","《講授類》
+甲乙併班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM693A&Crsname=研究方法,,,False,企企管碩,BM693A,1,乙班,"研究方法
+RESEARCH METHODOLOGY",3,期,True,50,0,20,30,"蔡宗霖,林晉禾","二C,D,E(管CM 1037)","['', 'CDE', '', '', '', '', '']","《講授類》
+甲乙併班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IHCM507&Crsname=醫務管理研究方法,,,False,企醫管碩,IHCM507,1,不分班,"醫務管理研究方法
+RESEARCH METHODOLOGY IN HEALTH SERVICES MANAGEMENT",3,期,True,50,0,16,34,李英俊,"二6,7,8(管CM 3035)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IHCM511&Crsname=醫療機構組織理論與管理,異動,增加合授教師12/26,False,企醫管碩,IHCM511,1,不分班,"醫療機構組織理論與管理
+THE ORGANIZATIONAL THEORY AND MANAGEMENT IN HEALTH CARE ORGANIZATIONS",3,期,True,50,0,16,34,"李英俊,余憲忠","二C,D,E(管CM 3035)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IHCM610&Crsname=醫療管理專案研究,異動,確認合授教師1/25,False,企醫管碩,IHCM610,0,不分班,"醫療管理專案研究
+RESEARCH ON HEALTH CARE MANAGEMENT PROJECT",3,期,False,50,0,8,42,"李英俊,蔡忠榮","四C,D,E(管CM 3035)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB501&Crsname=管理經濟學,,,False,國際經營學程,IB501,0,不分班,"管理經濟學
+MANAGERIAL ECONOMICS",3,期,False,50,0,28,22,安大衛,"三5,6,7(管CM 2015)","['', '', '567', '', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB508&Crsname=國際人力資源管理,,,False,國際經營學程,IB508,0,不分班,"國際人力資源管理
+INTERNATIONAL HUMAN RESOURCE MANAGEMENT",3,期,False,50,0,13,37,林帆,"一C,D,E(管CM 4036)","['CDE', '', '', '', '', '', '']","《講授類》
+限IBMBA及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB514&Crsname=管理資訊系統,,,False,國際經營學程,IB514,0,不分班,"管理資訊系統
+MANAGEMENT INFORMATION SYSTEMS",3,期,False,50,0,7,43,陳文鑫,"一6,7,8(管CM 1023)","['678', '', '', '', '', '', '']","《講授類》
+限IBMBA及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB515&Crsname=財務管理,,,False,國際經營學程,IB515,1,不分班,"財務管理
+FINANCIAL MANAGEMENT",3,期,True,50,0,44,6,張世賢,"二2,3,4(管CM 3051)","['', '234', '', '', '', '', '']","《講授類》
+限IBMBA及GHRM MBA學程學生修習，欲加選學生請於異常處理時辦理加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB517&Crsname=投資組合,,,False,國際經營學程,IB517,0,不分班,"投資組合
+PORTFOLIO MANAGEMENT",3,期,False,50,0,20,30,鄭義,"四2,3,4(管CM 1023)","['', '', '', '234', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB521&Crsname=會計學,,,False,國際經營學程,IB521,0,不分班,"會計學
+ACCOUNTING",3,期,False,50,0,19,31,馬威爾,"五2,3,4(管CM 1023)","['', '', '', '', '234', '', '']","《講授類》
+限IBMBA及GHRM MBA學程學生修習，欲加選學生請於異常處理時辦理加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB524&Crsname=國際企業永續發展,,,False,國際經營學程,IB524,0,不分班,"國際企業永續發展
+SUSTAINABILITY OF GLOBAL ENTERPRISE",3,期,False,50,0,10,40,雷英瑞,"一2,3,4(管CM 4036)","['234', '', '', '', '', '', '']","《講授類》
+限IBMBA及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選 
+※英語授課",['企業社會責任學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB525&Crsname=企業決策分析,,,False,國際經營學程,IB525,0,不分班,"企業決策分析
+CORPORATE DECISION ANALYSIS",3,期,False,50,0,20,30,羅芳怡,"四6,7,8(管CM 3022)","['', '', '', '678', '', '', '']","《講授類》
+限IBMBA及GHRM MBA學程學生修習，欲加選學生請於異常處理階段辦理加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB528&Crsname=亞太經營環境,,,False,國際經營學程,IB528,0,不分班,"亞太經營環境
+ASIA PACIFIC BUSINESS ENVIRONMENT",3,期,False,50,0,13,37,雷英瑞,"二6,7,8(管CM 3038)","['', '678', '', '', '', '', '']","《講授類》
+限IBMBA及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB536&Crsname=歐美市場,,,False,國際經營學程,IB536,0,不分班,"歐美市場
+EUROPEAN AND N0RTH AMERICAN MARKETS",3,期,False,50,0,3,47,安大衛,"二C,D,E(管CM 1023)","['', 'CDE', '', '', '', '', '']","《講授類》
+限IBMBA及GHRM MBA學程學生修習，欲加選學生請於異常處理階段加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB603&Crsname=全球供應鏈管理,,,False,國際經營學程,IB603,0,不分班,"全球供應鏈管理
+GLOBAL SUPPLY CHAIN MANAGEMENT",3,期,False,50,0,21,29,楊淯程,"四6,7,8(管CM 1023)","['', '', '', '678', '', '', '']","《講授類》
+限IBMBA及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB610&Crsname=商管論文寫作,,,False,國際經營學程,IB610,0,不分班,"商管論文寫作
+ACADEMIC WRITING FOR BUSINESS",3,期,False,50,0,24,26,羅芳怡,"四2,3,4(管CM 3022)","['', '', '', '234', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IB612&Crsname=企業諮詢方法與實作,異動,更換主授教師1/23,False,國際經營學程,IB612,0,不分班,"企業諮詢方法與實作
+CONSULTING METHODS AND PRACTICE",3,期,False,50,0,11,39,"佘健源,張姮燕","三5,6,7(管CM 3022)","['', '', '567', '', '', '', '']","《講授類》
+與GHRM MBA併班上課，限IBMBA及GHRM MBA學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=GHRM507&Crsname=企業諮詢方法與實作,異動,更換主授教師1/23,False,人管英語碩程,GHRM507,1,不分班,"企業諮詢方法與實作
+CONSULTING METHODS AND PRACTICE",3,期,True,50,0,22,28,"佘健源,張姮燕","三5,6,7(管CM 3022)","['', '', '567', '', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理階段辦理加選",[],True
