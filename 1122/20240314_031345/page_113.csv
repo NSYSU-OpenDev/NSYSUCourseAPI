@@ -1,0 +1,48 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA901A&Crsname=公司理財分析,,,True,EMBA碩專,EMBA901A,2,不分班,"公司理財分析
+ANALYSIS IN CORPORATE FINANCE",1.5,期,True,80,0,72,8,"蔡佳芬,邱敬貿","六8,9(圖資博士廳)","['', '', '', '', '', '89', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA901B&Crsname=公司理財分析,,,True,EMBA碩專,EMBA901B,1,不分班,"公司理財分析
+ANALYSIS IN CORPORATE FINANCE",1.5,期,True,50,0,39,11,王昭文,"三1,A(台北)","['', '', 'A1', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA904A&Crsname=碩士論文,,,True,EMBA碩專,EMBA904A,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,80,0,72,8,指導教授,"日D,E,F(圖資博士廳)","['', '', '', '', '', '', 'DEF']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA904B&Crsname=碩士論文,,,True,EMBA碩專,EMBA904B,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,0,43,7,指導教授,"日D,E,F(台北)","['', '', '', '', '', '', 'DEF']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA905A&Crsname=高階經營專題（一）,,,True,EMBA碩專,EMBA905A,1,不分班,"高階經營專題（一）
+SPECIAL TOPICS IN EXECUTIVE MANAGEMENT (I)",3,期,True,80,0,66,14,林豪傑,"五D,E,F(圖資中信廳)","['', '', '', '', 'DEF', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA905B&Crsname=高階經營專題（一）,,,True,EMBA碩專,EMBA905B,1,不分班,"高階經營專題（一）
+SPECIAL TOPICS IN EXECUTIVE MANAGEMENT（I）",3,期,True,50,0,39,11,林豪傑,"四D,E,F(台北)","['', '', '', 'DEF', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA907A&Crsname=資訊科技與競爭優勢,,,True,EMBA碩專,EMBA907A,1,不分班,"資訊科技與競爭優勢
+INFORMATION TECHNOLOGY AND COMPETITIVE ADVANTAGE",1.5,期,True,80,0,66,14,"黃三益,徐士傑,邱兆民","六8,9(圖資中信廳)","['', '', '', '', '', '89', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA935A&Crsname=組織與人力資源管理,,,True,EMBA碩專,EMBA935A,1,不分班,"組織與人力資源管理
+ORGANIZATION AND HUMAN RESOURCE MANAGEMENT",2,期,True,80,0,66,14,"王豫萱,陳世哲","四E,F(圖資中信廳)","['', '', '', 'EF', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA935B&Crsname=組織與人力資源管理,,,True,EMBA碩專,EMBA935B,1,不分班,"組織與人力資源管理
+ORGANIZATION AND HUMAN RESOURCE MANAGEMENT",2,期,True,50,0,39,11,"王豫萱,陳世哲","五1,A(台北)","['', '', '', '', 'A1', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA975B&Crsname=金融機構與資本市場,,,True,EMBA碩專,EMBA975B,2,不分班,"金融機構與資本市場
+FINANCIAL INSTITUTIONS AND CAPITAL MARKETS",1.5,期,True,50,0,43,7,陳安琳,"三1,A(台北)","['', '', 'A1', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA976&Crsname=當代企業管理課題,,,True,EMBA碩專,EMBA976,2,不分班,"當代企業管理課題
+CONTEMPORARY ISSUES IN BUSINESS AND MANAGEMENT",2,期,True,80,0,72,8,林豪傑,"三E,F(圖資博士廳)","['', '', 'EF', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA998A&Crsname=高階經營專題（二）,,,True,EMBA碩專,EMBA998A,2,不分班,"高階經營專題（二）
+SPECIAL TOPICS IN EXECUTIVE MANAGEMENT (II)",3,期,True,80,0,72,8,林豪傑,"三1,2,A(圖資博士廳)","['', '', 'A12', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EMBA998B&Crsname=高階經營專題（二）,,,True,EMBA碩專,EMBA998B,2,不分班,"高階經營專題（二）
+SPECIAL TOPICS IN EXECUTIVE MANAGEMENT (II)",3,期,True,50,0,43,7,林豪傑,"四8,9,C(台北)","['', '', '', '89C', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS906&Crsname=高階財務管理,新增,2/23,True,中山同濟EMBA,CS906,2,不分班,"高階財務管理
+EXECUTIVE FINANCIAL MANAGEMENT",2,期,True,50,0,2,48,蔡維哲,"五8,9(上海同濟大學)","['', '', '', '', '89', '', '']","《講授類》
+限CSEMBA學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS910&Crsname=企業個案討論,異動,確認課程資訊2/23,True,中山同濟EMBA,CS910,2,不分班,"企業個案討論
+BUSINESS CASE STUDY",3,期,True,50,0,2,48,盧憶,"一1,2,3(上海同濟大學)","['123', '', '', '', '', '', '']","《講授類》
+限CSEMBA學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS923&Crsname=商務英語與溝通,異動,確認課程資訊2/23,True,中山同濟EMBA,CS923,2,不分班,"商務英語與溝通
+BUSINESS ENGLISH AND COMMUNICATION",3,期,True,50,0,2,48,盧憶,"一5,6,7(上海同濟大學)","['567', '', '', '', '', '', '']","《講授類》
+限CSEMBA學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS923A&Crsname=商務英語與溝通,新增,2/23,True,中山同濟EMBA,CS923A,1,不分班,"商務英語與溝通
+BUSINESS ENGLISH AND COMMUNICATION",3,期,True,50,0,3,47,盧憶,"一D,E,F(上海同濟大學)","['DEF', '', '', '', '', '', '']","《講授類》
+限CSEMBA學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS924&Crsname=領導學,異動,確認課程資訊2/23,True,中山同濟EMBA,CS924,2,不分班,"領導學
+LEADERSHIP",2,期,True,50,0,2,48,盧憶,"六8,9(上海同濟大學)","['', '', '', '', '', '89', '']","《講授類》
+限CSEMBA學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS934&Crsname=管理經濟學,異動,確認時間及教師2/23,True,中山同濟EMBA,CS934,1,不分班,"管理經濟學
+MANAGERIAL ECONOMICS",2,期,True,50,0,3,47,吳基逞,"五8,9(上海同濟大學)","['', '', '', '', '89', '', '']","《講授類》
+限CSEMBA學生加選",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CS970&Crsname=企業社會責任與商業倫理,新增,2/23,True,中山同濟EMBA,CS970,1,不分班,"企業社會責任與商業倫理
+BUSINESS ETHICS AND SOCIAL RESPONSIBILITY",2,期,True,50,0,3,47,鄭安授,"五6,7(上海同濟大學)","['', '', '', '', '67', '', '']","《講授類》
+限CSEMBA學生選修",[],False
