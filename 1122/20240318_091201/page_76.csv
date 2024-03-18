@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5732&Crsname=超大型積體電路數位訊號處理,,,False,電機碩,EE5732,0,不分班,"超大型積體電路數位訊號處理
+VLSI DIGITAL SIGNAL PROCESSING",3,期,False,50,0,14,36,施信毓,"三5,6,7(工EC 3010)","['', '', '567', '', '', '', '']",《講授類》,['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5736&Crsname=數位通訊電路設計專題,異動,更換授課方式12/29,False,電機碩,EE5736,0,不分班,"數位通訊電路設計專題
+INDEPENDENT STUDIES IN  DIGITAL COMMUNICATION IC DESIGN",3,期,False,50,0,4,46,施信毓,"一6,7,8(工EC 2018)","['678', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5737&Crsname=電腦視覺,,,False,電機碩,EE5737,0,不分班,"電腦視覺
+COMPUTER VISION",3,期,False,50,0,46,4,魏家博,"一2,3,4(工EC 2010)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5738&Crsname=混合訊號積體電路設計專題,異動,更換授課方式12/29,False,電機碩,EE5738,0,不分班,"混合訊號積體電路設計專題
+INDEPENDENT STUDIES IN MIXED-SIGNAL INTEGRATED CIRCUIT DESIGN",3,期,False,50,0,5,45,李宗哲,"一2,3,4(工EC 3010)","['234', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5739&Crsname=軟硬體協同設計之人工智慧晶片設計,異動,更換時間及教室2/27,False,電機碩,EE5739,0,不分班,"軟硬體協同設計之人工智慧晶片設計
+DESIGN OF ARTIFICIAL INTELLIGENCE CHIP BY SOFTWARE AND HARDWARE COOPERATION MECHANISM",3,期,False,50,0,38,12,邱日清,"一9,C,D(工EC 6018)","['9CD', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5801&Crsname=生理訊號研究專題,異動,更換授課方式12/29,False,電機碩,EE5801,0,不分班,"生理訊號研究專題
+INDEPENDENT STUDIES IN PHYSIOLOGY-RELATED SIGNAL",3,期,False,50,0,3,47,吳珮歆,"一2,3,4(工EC 8037)","['234', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5806&Crsname=生醫訊號處理,異動,更換部份時間1/25,False,電機碩,EE5806,0,不分班,"生醫訊號處理
+BIOMEDICAL SIGNAL PROCESSING",3,期,False,50,0,20,30,曾乙立,"一6,7,8(工EC 6016)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5807&Crsname=腦機介面專題,異動,更換授課方式12/29,False,電機碩,EE5807,0,不分班,"腦機介面專題
+INDEPENDENT STUDIES IN BRAIN-COMPUTER INTERFACE",3,期,False,50,0,2,48,曾乙立,"四5,6,7(工EC 6015-2)","['', '', '', '567', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE5809&Crsname=三維視覺,,,False,電機碩,EE5809,0,不分班,"三維視覺
+3D VISION",3,期,False,50,1,29,21,魏家博,"三2,3,4(工EC 2007)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME501&Crsname=書報討論,,,False,機電碩,MEME501,1,不分班,"書報討論
+SEMINAR",1,期,True,100,0,92,8,王郁仁,"四6,7(工EN 2028)","['', '', '', '67', '', '', '']","《演講/參訪》
+碩、博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME505&Crsname=高等熱力學,異動,更換教室2/29,False,機電碩,MEME505,1,不分班,"高等熱力學
+ADVANCED THERMODYNAMICS",3,期,False,50,0,34,16,郭振坤,"一5,6,7(工EC 3002)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME5110&Crsname=先進功能材料於生命科學應用,,,False,機電碩,MEME5110,1,不分班,"先進功能材料於生命科學應用
+ADVANCED FUNCTIONAL MATERIALS FOR LIFE SCIENCE APPLICATIONS",3,期,False,50,0,36,14,郭清德,"二5,6,7(工EN 2022)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME5112&Crsname=煉鋼製程設備技術導論,,,False,機電碩,MEME5112,1,不分班,"煉鋼製程設備技術導論
+INTRODUCTION TO THE FACILITIES FOR STEEL MAKING PROCESS",3,期,False,85,0,67,18,林哲信,"五6,7,8(工EN 4055-1)","['', '', '', '', '678', '', '']","《講授類》
+中鋼公司委託開課，提供修課成績優秀學生獎學金及優先甄選工作機會。(歡迎大三、大四學生選修)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME517&Crsname=流體進程之數學建模,,,False,機電碩,MEME517,1,不分班,"流體進程之數學建模
+MATHEMATICAL MODELLING OF FLUIDIC PROCESSES",3,期,False,50,0,14,36,鄭威利,"一2,3,4(工EN 2022)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME526&Crsname=複合材料力學,,,False,機電碩,MEME526,1,不分班,"複合材料力學
+MECHANICS OF COMPOSITE MATERIALS",3,期,False,50,0,28,22,蔡尚南,"二2,3,4(工EC 3005)","['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體設備工程學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME531&Crsname=塑性加工學,,,False,機電碩,MEME531,1,不分班,"塑性加工學
+PLASTIC WORKING TECHNOLOGY",3,期,False,50,0,12,38,黃永茂,"一2,3,4(工EN 0031)","['234', '', '', '', '', '', '']",《講授類》,['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME539&Crsname=進階仿生工程,,,False,機電碩,MEME539,1,不分班,"進階仿生工程
+ADVANCED BIOMIMICRY ENGINEERING",3,期,False,50,0,10,40,林韋至,"五8,9,C(工EN 0031)","['', '', '', '', '89C', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME542&Crsname=隨機過程與模式,,,False,機電碩,MEME542,1,不分班,"隨機過程與模式
+STOCHASTIC PROCESSES AND MODELLING",3,期,False,50,0,31,19,劉耿豪,"四2,3,4(工EC 3005)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME545&Crsname=非線性系統及控制,,,False,機電碩,MEME545,1,不分班,"非線性系統及控制
+NONLINEAR SYSYTERMS AND CONTROL",3,期,False,50,0,40,10,程啓正,"一5,6,7(工EN 3021)","['567', '', '', '', '', '', '']",《講授類》,['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME553&Crsname=感測器原理與應用,,,False,機電碩,MEME553,1,不分班,"感測器原理與應用
+SENSOR PRINCIPLES AND APPLICATIONS",3,期,False,50,0,9,41,許煜亮,"二5,6,7(工EN 4055-1)","['', '567', '', '', '', '', '']",《講授類》,[],False
