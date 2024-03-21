@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CM516&Crsname=綠色採購,,,False,管理學院(碩),CM516,0,不分班,"綠色採購
-GREEN PROCUREMENT",1,期,False,50,0,18,32,林新沛,,"['67', '', '', '', '', '', '']","《講授類》
+GREEN PROCUREMENT",1,期,False,50,0,19,31,林新沛,,"['67', '', '', '', '', '', '']","《講授類》
 永續管理微學程/單數周上課，每次上課兩小時14-16點","['企業社會責任學程', '永續管理微學程', '地方創生與永續發展整合學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=BM502&Crsname=企業經營策略,異動,更換教室2/21,False,企企管碩,BM502,0,不分班,"企業經營策略
 BUSINESS POLICY AND STRATEGY",3,期,False,50,0,27,23,蔡宗霖,"一C,D,E(管CM 3019)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
