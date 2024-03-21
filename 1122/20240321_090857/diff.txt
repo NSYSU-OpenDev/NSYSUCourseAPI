@@ -1,0 +1,7 @@
+Value of root[1383]['selected'] changed from 2 to 1.
+Value of root[1383]['remaining'] changed from 48 to 49.
+Value of root[1385]['selected'] changed from 34 to 33.
+Value of root[1385]['remaining'] changed from 16 to 17.
+Value of root[1391]['selected'] changed from 20 to 19.
+Value of root[1391]['remaining'] changed from 30 to 31.
+Value of root[2218]['teacher'] changed from "張瓊婷" to "張瓊婷,林新沛,謝旭昇".
