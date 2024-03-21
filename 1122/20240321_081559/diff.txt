@@ -1,0 +1,2 @@
+Value of root[2218]['change'] changed from "新增" to "異動".
+Value of root[2218]['changeDescription'] changed from "2/15" to "專簽更動3/21".

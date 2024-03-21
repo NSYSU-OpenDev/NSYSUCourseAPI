@@ -1568,7 +1568,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI205
 INSTRUMENTATION",2,期,False,50,1,16,34,應廣儀,"二5,6(文FA 4034)","['', '56', '', '', '', '', '']","《講授類》
 限音樂系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI207&Crsname=聲音互動,,,False,音樂系,MUSI207,2,不分班,"聲音互動
-INTERACTIVE MUSIC",2,期,False,50,0,49,1,陳以軒,"四3,4(文FA 4034)","['', '', '', '34', '', '', '']","《講授類》
+INTERACTIVE MUSIC",2,期,False,50,0,50,0,陳以軒,"四3,4(文FA 4034)","['', '', '', '34', '', '', '']","《講授類》
 限音樂系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI211&Crsname=音樂基礎訓練（四）,,,True,音樂系,MUSI211,2,不分班,"音樂基礎訓練（四）
 MUSICIANSHIP (IV)",1,期,True,50,0,21,29,楊妮蓉,一2(文FA 4030),"['2', '', '', '', '', '', '']","《講授類》
@@ -1624,7 +1624,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI410
 GRADUATION RECITAL",0,期,True,50,0,29,21,林雅叙,日1(),"['', '', '', '', '', '', '1']","《講授類》
 限音樂系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI433&Crsname=歌劇曲目,異動,更換教室3/4,False,音樂系,MUSI433,2,不分班,"歌劇曲目
-OPERA REPERTOIRE",2,期,False,50,0,11,39,黃子珊,"一7,8(文FA 6011-1)","['78', '', '', '', '', '', '']",《講授類》,[],True
+OPERA REPERTOIRE",2,期,False,50,0,12,38,黃子珊,"一7,8(文FA 6011-1)","['78', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MUSI451&Crsname=現代擊樂演奏技巧與風格概論,,,False,音樂系,MUSI451,3,不分班,"現代擊樂演奏技巧與風格概論
 PERFORMANCE TECHNIQUES & MUSICAL STYLES OF PERCUSSION ON CONTEMPORARY MUSIC",2,期,False,50,0,23,27,鄭雅心,五7(文FA 4030) 五8(文FA 4031),"['', '', '', '', '78', '', '']","《講授類》
 限音樂系學生修課",[],False
@@ -1723,7 +1723,7 @@ ADVANCED ACTING（Ⅳ）",3,期,False,50,0,8,42,何怡璉,"四2,3,4(文FA 2017)"
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA365&Crsname=歌唱技巧（一）,,,False,劇藝系,TA365,2,不分班,"歌唱技巧（一）
 SINGING TECHNIQUE AND STYLE (I)",2,期,False,50,0,19,31,林宜誠,"五3,4(文FA 2017)","['', '', '', '', '34', '', '']",《展演》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA367&Crsname=音樂劇表演與製作（二）,,,False,劇藝系,TA367,4,不分班,"音樂劇表演與製作（二）
-ACTING AND PRODUCTION FOR MUSICAL（II）",3,期,False,50,0,17,33,林宜誠,"五5,6,7(文FA 2017	)","['', '', '', '', '567', '', '']",《展演》,"['原民文化探索及永續發展學程', '音樂劇學程']",False
+ACTING AND PRODUCTION FOR MUSICAL（II）",3,期,False,50,0,18,32,林宜誠,"五5,6,7(文FA 2017	)","['', '', '', '', '567', '', '']",《展演》,"['原民文化探索及永續發展學程', '音樂劇學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=TA372&Crsname=進階電腦輔助繪圖,,,False,劇藝系,TA372,3,不分班,"進階電腦輔助繪圖
 ADVANCED COMPUTER-AIDED DRAFTING",2,期,False,50,0,6,44,鍾宜泰,"一5,6(文FA 3012)","['56', '', '', '', '', '', '']","《講授類》
 限修畢技術繪圖",[],False
@@ -4528,7 +4528,7 @@ DATA MINING AND KNOWLEDGE DISCOVERY",3,期,False,50,0,3,47,李偉柏,"三5,6,7(�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS550&Crsname=決策理論,,,False,資管碩,MIS550,0,不分班,"決策理論
 DECISION THEORY",3,期,False,50,0,2,48,張德民,"五5,6,7(管CM 2016)","['', '', '', '', '567', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS567&Crsname=資訊科技策略,,,False,資管碩,MIS567,0,不分班,"資訊科技策略
-INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,10,40,吳仁和,"三C,D,E(管CM 4069)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,11,39,吳仁和,"三C,D,E(管CM 4069)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS571&Crsname=商業智慧,,,False,資管碩,MIS571,0,不分班,"商業智慧
 BUSINESS INTELLIGENCE",3,期,False,50,0,52,-2,林耕霈,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']",《講授類》,"['碳流資訊盤查與低碳設計微學程', '巨量資料分析學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS575&Crsname=教育機器人與物聯網,,,False,資管碩,MIS575,0,不分班,"教育機器人與物聯網
@@ -5703,15 +5703,15 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS951&
 SERVICE QUALITY MANAGEMENT",3,期,True,50,0,36,14,劉賓陽,"三C,D,E(管CM 2016)","['', '', 'CDE', '', '', '', '']","《講授類》
 限資電碩專班及資管碩專班修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM901&Crsname=財務研究方法,異動,更換教室2/21,False,財管碩專,FM901,1,不分班,"財務研究方法
-METHODOLOGY FOR FINANCE",3,期,False,40,0,29,11,蔡佳芬,"四C,D,E(管CM 1025)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+METHODOLOGY FOR FINANCE",3,期,False,40,0,28,12,蔡佳芬,"四C,D,E(管CM 1025)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM905&Crsname=投資理論與實務,異動,更換時間及教室1/23,False,財管碩專,FM905,1,不分班,"投資理論與實務
-THE THEORY AND PRACTICE OF INVESTMENT MANAGEMENT",3,期,False,50,0,34,16,王昭文,"三C,D,E(管CM 2025)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+THE THEORY AND PRACTICE OF INVESTMENT MANAGEMENT",3,期,False,50,0,33,17,王昭文,"三C,D,E(管CM 2025)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM908&Crsname=財務模型和應用,異動,更換教室2/21,False,財管碩專,FM908,1,不分班,"財務模型和應用
-FINANCIAL MODELES AND APPLICATIONS",3,期,False,50,0,22,28,邱敬貿,"二C,D,E(管CM 1025)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+FINANCIAL MODELES AND APPLICATIONS",3,期,False,50,0,21,29,邱敬貿,"二C,D,E(管CM 1025)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM910&Crsname=碩士論文（二）,,,False,財管碩專,FM910,2,不分班,"碩士論文（二）
 MASTER THESIS（二）",3,期,True,50,0,33,17,指導教授,"六C,D,E(管CM 1025)","['', '', '', '', '', 'CDE', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=FM912&Crsname=當前財金問題分析,異動,調整名額2/17,False,財管碩專,FM912,1,不分班,"當前財金問題分析
-CURRENT FINANCIAL PROBLEMS ANALYSIS",2,期,True,30,0,29,1,蔡維哲,"五C,D(管CM 1037)","['', '', '', '', 'CD', '', '']",《講授類》,[],False
+CURRENT FINANCIAL PROBLEMS ANALYSIS",2,期,True,30,0,28,2,蔡維哲,"五C,D(管CM 1037)","['', '', '', '', 'CD', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM908&Crsname=碩士論文,,,False,公事碩專,PAM908,2,不分班,"碩士論文
 MASTER THESIS",3,期,True,50,0,24,26,指導教授,"六C,D,E(管CM 1020)","['', '', '', '', '', 'CDE', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM981&Crsname=組織行為與管理,,,False,公事碩專,PAM981,2,不分班,"組織行為與管理
@@ -5727,7 +5727,7 @@ QUANTITATIVE DATA ANALYSIS AND WRITING",3,期,False,50,0,3,47,謝政勳,"日7,8,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM986&Crsname=公共管理實務個案研討（二）,,,False,公事碩專,PAM986,1,不分班,"公共管理實務個案研討（二）
 CASE STUDIES IN PUBLIC MANAGEMENT PRACTICE（II）",2,期,False,50,0,17,33,蔡錦昌,"日C,D(管CM 1020)","['', '', '', '', '', '', 'CD']","《研討類》
 限公事所碩士專班學生修課",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM989&Crsname=公共事務管理講座,新增,2/15,False,公事碩專,PAM989,2,不分班,"公共事務管理講座
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM989&Crsname=公共事務管理講座,異動,專簽更動3/21,False,公事碩專,PAM989,2,不分班,"公共事務管理講座
 SPECIAL LECTURES ON PUBLIC AFFAIRS MANAGEMENT",1,期,False,30,0,10,20,張瓊婷,六9(澎湖),"['', '', '', '', '', '9', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=PAM991&Crsname=非營利組織管理研討,,,False,公事碩專,PAM991,2,不分班,"非營利組織管理研討
 SEMINAR IN NONPROFIT ORGANIZATION MANAGEMENT",2,期,False,50,0,5,45,謝政勳,"六3,4(管CM 1020)","['', '', '', '', '', '34', '']",《研討類》,[],False
@@ -6441,13 +6441,13 @@ DECISION THEORY",3,期,False,50,0,2,48,張德民,"五5,6,7(管CM 2016)","['', ''
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS550&Crsname=決策理論,,,False,資管碩,MIS550,0,,"決策理論
 DECISION THEORY",3,期,False,50,0,2,48,張德民,"五5,6,7(管CM 2016)","['', '', '', '', '567', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS567&Crsname=資訊科技策略,,,False,資管碩,MIS567,0,,"資訊科技策略
-INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,10,40,吳仁和,"三C,D,E(管CM 4069)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,11,39,吳仁和,"三C,D,E(管CM 4069)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS567&Crsname=資訊科技策略,,,False,資管碩,MIS567,0,,"資訊科技策略
-INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,10,40,吳仁和,"三C,D,E(管CM 4069)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,11,39,吳仁和,"三C,D,E(管CM 4069)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS567&Crsname=資訊科技策略,,,False,資管碩,MIS567,0,,"資訊科技策略
-INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,10,40,吳仁和,"三C,D,E(管CM 4069)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,11,39,吳仁和,"三C,D,E(管CM 4069)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS567&Crsname=資訊科技策略,,,False,資管碩,MIS567,0,,"資訊科技策略
-INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,10,40,吳仁和,"三C,D,E(管CM 4069)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,0,11,39,吳仁和,"三C,D,E(管CM 4069)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS571&Crsname=商業智慧,,,False,資管碩,MIS571,0,,"商業智慧
 BUSINESS INTELLIGENCE",3,期,False,50,0,52,-2,林耕霈,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']",《講授類》,"['碳流資訊盤查與低碳設計微學程', '巨量資料分析學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MIS571&Crsname=商業智慧,,,False,資管碩,MIS571,0,,"商業智慧
