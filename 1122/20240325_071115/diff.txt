@@ -1,0 +1,10 @@
+Value of root[2143]['selected'] changed from 5 to 4.
+Value of root[2143]['remaining'] changed from 0 to 1.
+Value of root[2146]['selected'] changed from 5 to 4.
+Value of root[2146]['remaining'] changed from 0 to 1.
+Value of root[2147]['selected'] changed from 70 to 69.
+Value of root[2147]['remaining'] changed from 10 to 11.
+Value of root[2159]['selected'] changed from 21 to 20.
+Value of root[2159]['remaining'] changed from -2 to -1.
+Value of root[2445]['teacher'] changed from "簡志彥" to "簡志彦".
+Value of root[2446]['teacher'] changed from "簡志彥,楊仁豪" to "簡志彦,楊仁豪".
