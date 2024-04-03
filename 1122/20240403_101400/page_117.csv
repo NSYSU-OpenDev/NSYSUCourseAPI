@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=EE7100&Crsname=書報討論,,,False,電機博,EE7100,1,不分班,"書報討論
-SEMINAR",1,期,True,90,0,6,84,李宗璘,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《研討類》
+SEMINAR",1,期,True,90,0,5,85,李宗璘,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《研討類》
 碩、博士班併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MEME701&Crsname=書報討論,,,False,機電博,MEME701,1,不分班,"書報討論
 SEMINAR",1,期,True,20,0,4,16,王郁仁,"四6,7(工EN 2028)","['', '', '', '67', '', '', '']","《演講/參訪》
