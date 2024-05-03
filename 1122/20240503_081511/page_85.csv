@@ -1,0 +1,58 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE517&Crsname=網路安全,,,False,資安碩,CSE517,1,不分班,"網路安全
+NETWORK SECURITY",3,期,True,30,0,20,10,陳嘉玫,"四C,D,E(管CM 4069)","['', '', '', 'CDE', '', '', '']",《講授類》,['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE527&Crsname=書報討論（二）,,,False,資安碩,CSE527,1,不分班,"書報討論（二）
+SEMINAR II",1,期,True,30,0,20,10,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+『本課程之限修，於加退選2階段開放選修』。限本系大四生及碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE529&Crsname=書報討論（四）,,,False,資安碩,CSE529,2,不分班,"書報討論（四）
+SEMINAR IV",1,期,True,30,0,18,12,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+『本課程之限修，於加退選2階段開放選修』。限本系大四生及碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=CSE541&Crsname=去中心化數據隱私專題,,,False,資安碩,CSE541,0,不分班,"去中心化數據隱私專題
+INDEPENDENT STUDIES IN DECENTRALIZED DATA PRIVACY",3,期,False,20,0,1,19,克拉迪,"二2,3,4(工EC 5026)","['', '234', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOS501&Crsname=書報討論,,,False,前瞻應材,MOS501,1,不分班,"書報討論
+SEMINAR",1,期,True,50,0,12,38,王映樵,"三6,7(工EC 1001)","['', '', '67', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=MOS501A&Crsname=書報討論,,,False,前瞻應材,MOS501A,2,不分班,"書報討論
+SEMINAR",1,期,True,50,0,8,42,王映樵,"三6,7(工EC 1001)","['', '', '67', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMPE5010&Crsname=電力系統動態模型建立與模擬,,,False,電機電力碩,IMPE5010,0,不分班,"電力系統動態模型建立與模擬
+POWER SYSTEM DYNAMIC MODELING AND SIMULATION",3,期,False,50,0,4,46,艾慕明,"一6,7,8(工EC 7040)","['678', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['永續能源學程', '海事工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMPE5011&Crsname=電力系統規劃,,,False,電機電力碩,IMPE5011,0,不分班,"電力系統規劃
+POWER SYSTEM PLANNING",3,期,False,50,0,5,45,艾慕明,"四6,7,8(工EC 3010)","['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課",['海事工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMPE5013&Crsname=電力系統暫態及動態分析專題,,,False,電機電力碩,IMPE5013,0,不分班,"電力系統暫態及動態分析專題
+INDEPENDENT STUDIES IN POWER SYSTEM TRANSIENT AND DYNAMIC ANALYSIS",3,期,False,50,0,2,48,艾慕明,"六6,7,8(工EC 6015-1)","['', '', '', '', '', '678', '']","《獨立研究》
+ 
+※英語授課",['海事工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMPE502&Crsname=電力品質,,,False,電機電力碩,IMPE502,0,不分班,"電力品質
+POWER QUALITY",3,期,False,50,0,6,44,哈菲茲,"五6,7,8(工EC 2007)","['', '', '', '', '678', '', '']","《講授類》
+ 
+※英語授課",['海事工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMPTE501&Crsname=數位通訊,,,False,電信碩程,IMPTE501,0,不分班,"數位通訊
+DIGITAL COMMUNICATIONS",3,期,False,50,2,4,46,新可夫,"一5,6,7(工EC 6015-2)","['567', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMPTE505&Crsname=電磁理論,異動,更換時間12/28,False,電信碩程,IMPTE505,0,不分班,"電磁理論
+ELECTROMAGNETIC THEORY",3,期,False,50,0,1,49,郭志文,"一1,2,3(工EC 7040)","['123', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMPTE512&Crsname=多重輸入輸出無線通訊系統,異動,更換教室2/19,False,電信碩程,IMPTE512,0,不分班,"多重輸入輸出無線通訊系統
+MULTI-INPUT-MULTI-OUTPUT WIRELESS COMMUNICATION SYSTEMS",3,期,False,50,2,4,46,黃婉甄,"三2,3,4(工EC 7040)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMPTE514&Crsname=隨機過程,,,False,電信碩程,IMPTE514,0,不分班,"隨機過程
+RANDOM PROCESSES",3,期,False,50,0,3,47,王藏億,"二2,3,4(工EC 2018)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMPTE518&Crsname=下世代無線網路之全雙工通訊,異動,更換教室1/15,False,電信碩程,IMPTE518,0,不分班,"下世代無線網路之全雙工通訊
+FULL-DUPLEX COMMUNICATIONS FOR FUTURE WIRELESS NETWORKS",3,期,False,50,2,4,46,新可夫,"四5,6,7(工EC 7040)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=IMPTE602&Crsname=5G/B5G網路之全雙工通訊專題,,,False,電信碩程,IMPTE602,0,不分班,"5G/B5G網路之全雙工通訊專題
+INDEPENDENT STUDIES IN FULL-DUPLEX COMMUNICATIONS FOR 5G/B5G NETWORKS",3,期,False,50,2,4,46,新可夫,"五5,6,7(工EC 8019-2)","['', '', '', '', '567', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=WS5001&Crsname=書報討論,,,False,緯創資通產碩,WS5001,1,不分班,"書報討論
+SEMINAR",1,期,True,50,0,14,36,李宗璘,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《演講/參訪》
+與電機系碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=WS5002&Crsname=計算理論,,,True,緯創資通產碩,WS5002,1,不分班,"計算理論
+THE THEORY OF COMPUTATION",3,期,True,50,0,7,43,邱日清,"五2,3,4(工EC 3014)","['', '', '', '', '234', '', '']","《講授類》
+與電機系碩士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=WS5003&Crsname=計算機網路,異動,更換教室3/1,True,緯創資通產碩,WS5003,1,不分班,"計算機網路
+COMPUTER NETWORK",3,期,True,50,0,8,42,許蒼嶺,"三5,6,7(工EC 3014)","['', '', '567', '', '', '', '']","《講授類》
+與電機系碩士班併班上課",['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=WS5004&Crsname=演算法設計及分析,異動,更換教室2/23,True,緯創資通產碩,WS5004,1,不分班,"演算法設計及分析
+DESIGN AND ANALYSIS OF ALGORITHMS",3,期,True,50,1,7,43,周孜燦,"四6,7,8(工EC 3013)","['', '', '', '678', '', '', '']","《講授類》
+與電機系碩士班併班上課",[],False
