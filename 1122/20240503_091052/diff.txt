@@ -1,0 +1,14 @@
+Value of root[415]['selected'] changed from 38 to 37.
+Value of root[415]['remaining'] changed from -3 to -2.
+Value of root[662]['selected'] changed from 51 to 50.
+Value of root[662]['remaining'] changed from -1 to 0.
+Value of root[664]['selected'] changed from 49 to 48.
+Value of root[664]['remaining'] changed from 11 to 12.
+Value of root[678]['selected'] changed from 11 to 10.
+Value of root[678]['remaining'] changed from 4 to 5.
+Value of root[682]['selected'] changed from 39 to 38.
+Value of root[682]['remaining'] changed from 1 to 2.
+Value of root[688]['selected'] changed from 49 to 48.
+Value of root[688]['remaining'] changed from 1 to 2.
+Value of root[690]['selected'] changed from 40 to 39.
+Value of root[690]['remaining'] changed from 10 to 11.
