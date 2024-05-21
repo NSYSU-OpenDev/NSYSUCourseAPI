@@ -1,18 +1,18 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM143&Crsname=公共衛生與流行病學,,,False,後醫學系,DPBM143,1,不分班,"公共衛生與流行病學
-PUBLIC HEALTH AND EPIDEMIOLOGY",2,期,True,50,0,23,27,"鄭雅勻,李昇翰",,"['', '3456', '', '34789', '34', '', '']","《醫學類》
+PUBLIC HEALTH AND EPIDEMIOLOGY",2,期,True,50,0,22,28,"鄭雅勻,李昇翰",,"['', '3456', '', '34789', '34', '', '']","《醫學類》
 限後醫系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM144&Crsname=生物統計,,,False,後醫學系,DPBM144,1,不分班,"生物統計
-BIOSTATISTICS",2,期,True,50,0,23,27,鄭雅勻,,"['', '', '3344', '', '', '', '']","《醫學類》
+BIOSTATISTICS",2,期,True,50,0,22,28,鄭雅勻,,"['', '', '3344', '', '', '', '']","《醫學類》
 限後醫系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM145&Crsname=人文藝術與生命哲學（二）,,,False,後醫學系,DPBM145,1,不分班,"人文藝術與生命哲學（二）
-MEDICAL HUMANITIES AND LIFE PHILOSOPHY (II)",1,期,True,50,0,23,27,"賴淑芳,何怡璉,楊婉儀",,"['1', '1', '1', '1', '1', '', '']","《演講/參訪》
+MEDICAL HUMANITIES AND LIFE PHILOSOPHY (II)",1,期,True,50,0,22,28,"賴淑芳,何怡璉,楊婉儀",,"['1', '1', '1', '1', '1', '', '']","《演講/參訪》
 限後醫系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM146&Crsname=創新科技與健康照護,,,False,後醫學系,DPBM146,1,不分班,"創新科技與健康照護
-INNOVATIVE TECHNOLOGIES IN HEALTHCARE",2,期,True,50,0,23,27,莊承鑫,,"['', '', '', '56', '', '', '']","《演講/參訪》
+INNOVATIVE TECHNOLOGIES IN HEALTHCARE",2,期,True,50,0,22,28,莊承鑫,,"['', '', '', '56', '', '', '']","《演講/參訪》
 限後醫系學生修課",['智慧長照微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM147&Crsname=生命教育,,,False,後醫學系,DPBM147,1,不分班,"生命教育
-LIFE EDUCATION",1,期,True,50,0,23,27,楊婉儀,,"['', '', '6', '', '', '', '']","《講授類》
+LIFE EDUCATION",1,期,True,50,0,22,28,楊婉儀,,"['', '', '6', '', '', '', '']","《講授類》
 限後醫系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=2&CrsDat=DPBM148&Crsname=代謝體學與生醫應用,,,False,後醫學系,DPBM148,0,不分班,"代謝體學與生醫應用
 METABOLOMICS AND BIOMEDICAL APPLICATION",2,期,False,50,0,2,48,李昇翰,"一8,9(醫IL 9014)","['89', '', '', '', '', '', '']","《講授類》

@@ -1,0 +1,3 @@
+Value of root[140]['name'] changed from "生命倫理的探索
+EXPLORATION OF HUMAN LIFE ETHICS" to "生命倫理的探索
+EXPLORATION OF ETHICS IN HUMAN EXISTENCE".
