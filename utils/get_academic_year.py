@@ -101,7 +101,7 @@ async def get_academic_year(
 
             if data := soup.select_one("#YRSM > option[value]:not([value=''])"):
                 academic_year = data.attrs["value"]
-            else:
+            if academic_year is None:
                 raise ValueError("No data (academic_year)")
             print("Current crawl:", academic_year)
 

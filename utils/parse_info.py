@@ -8,7 +8,7 @@ from bs4 import Tag
 from utils.utils import is_integer
 
 
-ACADEMIC_YEAR_MAP = ["上", "下", "暑期"]
+ACADEMIC_YEAR_MAP = ["暑碩", "上", "下", "暑期"]
 
 
 def parse_academic_year_code(academic_year: str) -> str:
@@ -24,7 +24,7 @@ def parse_academic_year_code(academic_year: str) -> str:
     Raises:
         ValueError: If the academic year code is invalid.
     """
-    if len(academic_year) != 4 or academic_year[3] not in "012":
+    if len(academic_year) != 4 or academic_year[3] not in "0123":
         raise ValueError(f"Invalid academic year code: {academic_year}")
 
     return academic_year[:3] + ACADEMIC_YEAR_MAP[int(academic_year[3]) - 1]
