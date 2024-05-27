@@ -1,0 +1,9 @@
+Item root[0]['classTime'][0] added to iterable.
+Item root[3] added to iterable.
+Item root[12]['classTime'][2] added to iterable.
+Item root[0]['classTime'][1] removed from iterable.
+Repetition change for item root[12]['classTime'][0].
+Value of root[0]['teacher'] changed from "邱文彬" to "待聘".
+Value of root[0]['room'] changed from "二X,X(社SS 1002)" to "一3,X()".
+Value of root[12]['teacher'] changed from "邱文彬" to "待聘".
+Value of root[12]['room'] changed from "" to "三4,6,X()".
