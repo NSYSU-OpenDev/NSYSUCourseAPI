@@ -1,0 +1,20 @@
+Item root[0]['classTime'][1] added to iterable.
+Item root[25]['classTime'][0] added to iterable.
+Item root[0]['classTime'][1] removed from iterable.
+Repetition change for item root[25]['classTime'][0].
+Type of root[25]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[25]['changeDescription'] changed from NoneType to str and value changed from None to "5/27".
+Value of root[0]['room'] changed from "二3,X(社SS 1002)" to "二X,X(社SS 1002)".
+Value of root[25]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MIS948&Crsname=商業分析專題演講" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=CSS114&Crsname=國際關係導論".
+Value of root[25]['department'] changed from "資管碩專" to "社科院".
+Value of root[25]['id'] changed from "MIS948" to "CSS114".
+Value of root[25]['grade'] changed from "1" to "0".
+Value of root[25]['name'] changed from "商業分析專題演講
+SEMINAR IN BUSINESS ANALYTICS" to "國際關係導論
+INTRODUCTION OF INTERNATIONAL RELATIONS".
+Value of root[25]['compulsory'] changed from True to False.
+Value of root[25]['teacher'] changed from "待聘" to "邱文彬".
+Value of root[25]['room'] changed from "" to "一2,3,X()".
+Value of root[25]['description'] changed from "《演講/參訪》
+【本課程不開放準大學生修習】" to "《講授類》
+測試課程".
