@@ -1,4 +1,16 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MOES595&Crsname=先進材料國際研習,,,False,材光碩,MOES595,1,不分班,"先進材料國際研習
+OVERSEA STUDY ON INTRODUCTION TO ADVANCED MATERIALS",3,期,False,16,0,0,16,王映樵,,"['234567', '234567', '234', '234567', '234567', '', '']","《講授類》
+本課程為日本研修課程，限已申請通過學生修習，費用部分補助。上課日期：7/08(一)~7/21(日)共計2週。【本課程不開放準大學生修習】",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=WS5020&Crsname=ＡＩ產業專業實習,,,False,緯創資通產碩,WS5020,1,不分班,"ＡＩ產業專業實習
+PROFESSIONAL PRACTICE IN AI",6,期,True,50,0,0,50,"邱日清,待聘,待聘",,"['123456789', '23456789', '23456789', '23456789', '23456789', '', '']","《企業實習》
+需到緯創資通公司實習，限緯創資通AI跨域應用產業碩士專班學生修讀。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MA617&Crsname=海洋生物資源永續管理,,,False,海事碩,MA617,0,不分班,"海洋生物資源永續管理
+SUSTAINABLE MANAGEMENT OF MARINE BIOLOGICAL RESOURCES",3,期,False,50,0,0,50,張水鍇,"一7,8,9(海MA 2034) 二7,8,9(海MA 2034) 三7,8,9(海MA 2034)","['789', '789', '789', '', '', '', '']","《講授類》
+★上課日期：7/8(一)~8/16(五)，共計6週。【本課程不開放準大學生修習】",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=IOE592&Crsname=班級經營研究,,,False,教育碩,IOE592,0,不分班,"班級經營研究
+STUDIES IN CLASSROOM MANAGEMENT",3,期,False,30,0,0,30,陳利銘,"四2,3,4,5,6,7,8,9,B(社SS 2002-2)","['', '', '', '234B56789', '', '', '']","《講授類》
+上課時間：7/11(四)~8/15(四)共六週，每週四上課。【本課程不開放准大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=ASPT591&Crsname=高端應用電子產品實務,,,True,半導體封測所,ASPT591,2,不分班,"高端應用電子產品實務
 HIGH-END ELECTRONIC PRODUCT PRACTICE",3,期,True,60,0,0,60,林智偉,"二1,2,3,4,5,6,7,8(日月光廠區)(實驗) 三1,2,3,4(日月光廠區)(實驗)","['', '12345678', '1234', '', '', '', '']","《企業實習》
 限先進半導體封測所學生修課。★課程期間：7/9(二)-8/14(三)。【本課程不開放準大學生修習】",[],False
@@ -14,9 +26,6 @@ INTERNSHIP IN HIGH FREQUENCY TESTING AND RELATED MATERIAL APPLICATION",3,期,Tru
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=PEC691&Crsname=產品生命週期管理/產品開發模式介紹實務,,,True,零組件研究所,PEC691,2,不分班,"產品生命週期管理/產品開發模式介紹實務
 INTERNSHIP IN INTRODUCTION OF PRODUCT LIFECYCLE MANAGEMENT/ PRODUCT LAUNCH MANAGEMENT",3,期,True,19,0,0,19,蘇哲儀,"二1,2,3,4,5,6,7,8(國巨廠區)(實驗) 三1,2,3,4(國巨廠區)(實驗)","['', '12345678', '1234', '', '', '', '']","《企業實習》
 限精密電子零組件研究所-被動元件組學生修課。★課程期間：7/9~8/14。【本課程不開放準大學生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MIS948&Crsname=商業分析專題演講,,,False,資管碩專,MIS948,1,不分班,"商業分析專題演講
-SEMINAR IN BUSINESS ANALYTICS",3,期,True,50,0,0,50,待聘,,"['', '', '', '', '', '', '']","《演講/參訪》
-【本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MIS949&Crsname=電子商務專題演講,,,False,資管碩專,MIS949,1,不分班,"電子商務專題演講
 SEMINAR IN ELECTRONIC COMMERCE",3,期,True,50,0,0,50,"康藝晃,徐士傑,李偉柏,李捷,林耕霈,楊惠芳,楊淯程,邱兆民,韓毅,黃三益","一C,D,E(管CM 4069) 二C,D,E(管CM 4069) 四C,D,E(管CM 4069)","['CDE', 'CDE', '', 'CDE', '', '', '']","《演講/參訪》
 限資管碩專班修習。★上課日期：7/8(一)~8/15(四)，共計6週。【本課程不開放準大學生修習】",[],False

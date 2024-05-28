@@ -1,2 +1,0 @@
-Item root[0] added to iterable.
-Item root[12] added to iterable.
