@@ -1,7 +1,0 @@
-Item root[4]['classTime'][3] added to iterable.
-Item root[4]['classTime'][4] added to iterable.
-Item root[11]['classTime'][0] added to iterable.
-Item root[11]['classTime'][1] added to iterable.
-Repetition change for item root[4]['classTime'][0].
-Repetition change for item root[11]['classTime'][0].
-Value of root[11]['room'] changed from "" to "一2,2() 二X,X()".
