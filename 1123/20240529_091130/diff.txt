@@ -1,0 +1,16 @@
+Item root[10]['classTime'][2] added to iterable.
+Item root[10]['classTime'][3] added to iterable.
+Item root[10]['classTime'][4] added to iterable.
+Item root[10]['classTime'][0] removed from iterable.
+Item root[10]['classTime'][1] removed from iterable.
+Item root[0] removed from iterable.
+Repetition change for item root[10]['classTime'][2].
+Value of root[10]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MATH201&Crsname=高等微積分（一）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=GEAE2217&Crsname=全球化社會的倫理道德".
+Value of root[10]['department'] changed from "應數系" to "博雅向度二".
+Value of root[10]['id'] changed from "MATH201" to "GEAE2217".
+Value of root[10]['name'] changed from "高等微積分（一）
+ADVANCED CALCULUS (I)" to "全球化社會的倫理道德
+ETHICS IN A GLOBAL SOCIETY".
+Value of root[10]['credit'] changed from "4" to "3".
+Value of root[10]['compulsory'] changed from False to True.
+Value of root[10]['room'] changed from "一2,2() 二X,X()" to "".
