@@ -8,10 +8,8 @@ SPORT & HEALTH: BASIC SWIMMING",1,期,True,50,0,0,50,林宗正,"二2,3,4(游泳�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=GEPE203&Crsname=運動與健康：初級潛水,,,False,運動健康(必),GEPE203,2,不分班,"運動與健康：初級潛水
 SPORT & HEALTH: BASIC DIVING",1,期,True,50,0,0,50,林宗正,"二6,7,8(游泳池) 三6,7,8(游泳池)","['', '678', '678', '', '', '', '']","《體育類》
 ★上課日期：7/9(二)~8/14(三)共6週，人數超過時，依繳費時間前35名為準。【本課程採實體授課，不開放準大學生修習】。",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=GEAE2113&Crsname=通識專題講座：美學與文化識讀,,,False,博雅向度一,GEAE2113,0,不分班,"通識專題講座：美學與文化識讀
-LECTURESHIP ON GENERAL EDUCATION－ESTHETICS AND CULTURAL LITERACY",2,期,True,50,0,0,50,待聘,,"['23', '2X', 'X', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=GEAE2116&Crsname=音樂中的愛,,,False,博雅向度一,GEAE2116,0,不分班,"音樂中的愛
-LOVE IN THE MUSIC",2,期,True,50,0,0,50,待聘,,"['', '', '', '', '', '', '']",《講授類》,[],False
+LOVE IN THE MUSIC",2,期,True,50,0,0,50,待聘,,"['', '', '', '234', 'X', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=PHY102&Crsname=普通物理（一）,,,False,普通物理小組,PHY102,0,不分班,"普通物理（一）
 GENERAL PHYSICS(I)",3,期,True,50,0,0,50,黃旭明,"二2,3,4(理PH 2006) 三2,3,4(理PH 2006) 四2,3,4(理PH 2006)","['', '234', '234', '234', '', '', '']","《講授類》
 ★上課日期：7/8(一)~8/16(五)，共計6週。本課程無法抵免英語專班普通物理。本課程開放準大學生修習。",[],False
@@ -31,7 +29,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=CHEM106
 CALCULUS(II)",3,期,False,50,0,0,50,莊秉樺,"一5,6,7(理SC 2001) 二5,6,7(理SC 2001) 三2,3,4(理SC 2001)","['567', '567', '234', '', '', '', '']","《講授類》
 為符合各系抵免標準，本課程授課內容為理工學院程度，非理、工、海洋學院學生如欲選修請謹慎考量。應數系及英語班學生不可選修。★上課日期：7/8(一)~8/14(三)共計6週。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MATH201&Crsname=高等微積分（一）,,,False,應數系,MATH201,0,不分班,"高等微積分（一）
-ADVANCED CALCULUS (I)",4,期,False,50,0,0,50,待聘,,"['', '', '', '', '', '', '']","《講授類》
+ADVANCED CALCULUS (I)",4,期,False,50,0,0,50,待聘,"一2,2() 二X,X()","['22', 'XX', '', '', '', '', '']","《講授類》
 測試課程",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=EE4011&Crsname=電機工程國際研習,,,False,電機系,EE4011,0,不分班,"電機工程國際研習
 OVERSEA STUDY ON ELECTRICAL ENGINEERING",2,期,False,50,0,0,50,謝耀慶,"一2,3,4(日本參訪實習) 三2,3,4(日本參訪實習)","['234', '', '234', '', '', '', '']","《演講/參訪》
@@ -42,12 +40,6 @@ MECHANISM",3,期,False,50,0,0,50,許正和,"一6,7,8(工EN 4055-1) 二6,7,8(工E
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MEME303&Crsname=自動控制,,,False,機電系,MEME303,3,甲班,"自動控制
 AUTOMATIC CONTROL",3,期,False,50,0,0,50,程啓正,"二2,3,4(工EN 3021) 三2,3,4(工EN 3021) 四5,6,7(工EN 3021)","['', '234', '234', '567', '', '', '']","《講授類》
 ★上課日期：7/9(二)~8/15(四)，共計6週。【本課程不開放準大學生修習，僅限重修生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=CSS101&Crsname=心理學,新增,5/27,False,社科院,CSS101,0,不分班,"心理學
-INTRODUCTION TO PSYCHOLOGY",3,期,False,50,0,0,50,待聘,"三4,6,X()","['', '', '46X', '', '', '', '']","《講授類》
-測試課程",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=CSS114&Crsname=國際關係導論,新增,5/27,False,社科院,CSS114,0,不分班,"國際關係導論
-INTRODUCTION OF INTERNATIONAL RELATIONS",3,期,False,50,0,0,50,邱文彬,"一2,3,X()","['23X', '', '', '', '', '', '']","《講授類》
-測試課程",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=PIS3001&Crsname=跨領域實作,,,False,人科學程,PIS3001,2,不分班,"跨領域實作
 CROSS-DISCIPLINARY KNOWLEDGE EXPLORATION AND PRELIMINARY INNOVATION PRACTICE",1,期,True,50,0,0,50,"謝如梅,吳亦昕,夏晧清,宋世祥,張淑美",,"['', '', '', '', '', '234567', '234567']","《講授類》
 1.限人科學程學生修習2.不開放準大學生修習；本校生修習不收學分費，惟學士班延修生及他校生仍須繳學分費。3.選上即算學期成績，未於選課期間辦理退選又未到課者，有未通過之成績。",[],False
@@ -63,8 +55,8 @@ OVERSEA STUDY ON INTRODUCTION TO ADVANCED MATERIALS",3,期,False,16,0,0,16,王�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=WS5020&Crsname=ＡＩ產業專業實習,,,False,緯創資通產碩,WS5020,1,不分班,"ＡＩ產業專業實習
 PROFESSIONAL PRACTICE IN AI",6,期,True,50,0,0,50,"邱日清,待聘,待聘",,"['123456789', '23456789', '23456789', '23456789', '23456789', '', '']","《企業實習》
 需到緯創資通公司實習，限緯創資通AI跨域應用產業碩士專班學生修讀。",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MA617&Crsname=海洋生物資源永續管理,,,False,海事碩,MA617,0,不分班,"海洋生物資源永續管理
-SUSTAINABLE MANAGEMENT OF MARINE BIOLOGICAL RESOURCES",3,期,False,50,0,0,50,張水鍇,"一7,8,9(海MA 2034) 二7,8,9(海MA 2034) 三7,8,9(海MA 2034)","['789', '789', '789', '', '', '', '']","《講授類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MA619&Crsname=海洋保護區：規劃與執行,新增,5/29,False,海事碩,MA619,0,不分班,"海洋保護區：規劃與執行
+MARINE PROTECTED AREA: PLANNING AND IMPLEMENTING",3,期,False,50,0,0,50,張水鍇,"一7,8,9(海MA 2034) 二7,8,9(海MA 2034) 三7,8,9(海MA 2034)","['789', '789', '789', '', '', '', '']","《講授類》
 ★上課日期：7/8(一)~8/16(五)，共計6週。【本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=IOE592&Crsname=班級經營研究,,,False,教育碩,IOE592,0,不分班,"班級經營研究
 STUDIES IN CLASSROOM MANAGEMENT",3,期,False,30,0,0,30,陳利銘,"四2,3,4,5,6,7,8,9,B(社SS 2002-2)","['', '', '', '234B56789', '', '', '']","《講授類》
