@@ -1,15 +1,10 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=STP101&Crsname=教育心理學,新增,5/27,False,中學學程,STP101,0,不分班,"教育心理學
-EDUCATIONAL PSYCHOLOGY",2,期,False,50,0,0,50,待聘,"一3,X()","['3X', '', '', '', '', '', '']","《講授類》
-測試課程",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=GEPE103&Crsname=運動與健康：初級游泳,,,False,運動健康(必),GEPE103,1,不分班,"運動與健康：初級游泳
 SPORT & HEALTH: BASIC SWIMMING",1,期,True,50,0,0,50,林宗正,"二2,3,4(游泳池) 三2,3,4(游泳池)","['', '234', '234', '', '', '', '']","《體育類》
 ★上課日期：7/9(二)~8/14(三)共6週。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=GEPE203&Crsname=運動與健康：初級潛水,,,False,運動健康(必),GEPE203,2,不分班,"運動與健康：初級潛水
 SPORT & HEALTH: BASIC DIVING",1,期,True,50,0,0,50,林宗正,"二6,7,8(游泳池) 三6,7,8(游泳池)","['', '678', '678', '', '', '', '']","《體育類》
 ★上課日期：7/9(二)~8/14(三)共6週，人數超過時，依繳費時間前35名為準。【本課程採實體授課，不開放準大學生修習】。",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=GEAE2116&Crsname=音樂中的愛,,,False,博雅向度一,GEAE2116,0,不分班,"音樂中的愛
-LOVE IN THE MUSIC",2,期,True,50,0,0,50,待聘,,"['', '', '', '234', 'X', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=PHY102&Crsname=普通物理（一）,,,False,普通物理小組,PHY102,0,不分班,"普通物理（一）
 GENERAL PHYSICS(I)",3,期,True,50,0,0,50,黃旭明,"二2,3,4(理PH 2006) 三2,3,4(理PH 2006) 四2,3,4(理PH 2006)","['', '234', '234', '234', '', '', '']","《講授類》
 ★上課日期：7/8(一)~8/16(五)，共計6週。本課程無法抵免英語專班普通物理。本課程開放準大學生修習。",[],False
@@ -28,9 +23,9 @@ CALCULUS(I)",3,期,False,50,0,0,50,張福春,"一2,3,4(理SC 2001) 二2,3,4(理S
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=CHEM106&Crsname=微積分（二）,,,False,化學系,CHEM106,1,不分班,"微積分（二）
 CALCULUS(II)",3,期,False,50,0,0,50,莊秉樺,"一5,6,7(理SC 2001) 二5,6,7(理SC 2001) 三2,3,4(理SC 2001)","['567', '567', '234', '', '', '', '']","《講授類》
 為符合各系抵免標準，本課程授課內容為理工學院程度，非理、工、海洋學院學生如欲選修請謹慎考量。應數系及英語班學生不可選修。★上課日期：7/8(一)~8/14(三)共計6週。",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MATH201&Crsname=高等微積分（一）,,,False,應數系,MATH201,0,不分班,"高等微積分（一）
-ADVANCED CALCULUS (I)",4,期,False,50,0,0,50,待聘,"一2,2() 二X,X()","['22', 'XX', '', '', '', '', '']","《講授類》
-測試課程",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=EE3501B&Crsname=電磁學（二）,,,False,電機系,EE3501B,2,全英班,"電磁學（二）
+ELECTROMAGNETICS (II)",3,期,False,50,0,0,50,王復康,"一2,3,4(工EC 3009) 三2,3,4(工EC 3009) 四2,3,4(工EC 3009)","['234', '', '234', '234', '', '', '']","《講授類》
+★上課日期：7/8(一)~8/15(四)，共計6週。【本課程不開放準大學生修習】",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=EE4011&Crsname=電機工程國際研習,,,False,電機系,EE4011,0,不分班,"電機工程國際研習
 OVERSEA STUDY ON ELECTRICAL ENGINEERING",2,期,False,50,0,0,50,謝耀慶,"一2,3,4(日本參訪實習) 三2,3,4(日本參訪實習)","['234', '', '234', '', '', '', '']","《演講/參訪》
 本課程為日本參訪實習，限參與出國學生修習。【本課程不開放準大學生修習】",[],False
@@ -58,3 +53,9 @@ PROFESSIONAL PRACTICE IN AI",6,期,True,50,0,0,50,"邱日清,待聘,待聘",,"['
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MA619&Crsname=海洋保護區：規劃與執行,新增,5/29,False,海事碩,MA619,0,不分班,"海洋保護區：規劃與執行
 MARINE PROTECTED AREA: PLANNING AND IMPLEMENTING",3,期,False,50,0,0,50,張水鍇,"一7,8,9(海MA 2034) 二7,8,9(海MA 2034) 三7,8,9(海MA 2034)","['789', '789', '789', '', '', '', '']","《講授類》
 ★上課日期：7/8(一)~8/16(五)，共計6週。【本課程不開放準大學生修習】",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=IOE592&Crsname=班級經營研究,,,False,教育碩,IOE592,0,不分班,"班級經營研究
+STUDIES IN CLASSROOM MANAGEMENT",3,期,False,30,0,0,30,陳利銘,"四2,3,4,5,6,7,8,9,B(社SS 2002-2)","['', '', '', '234B56789', '', '', '']","《講授類》
+上課時間：7/11(四)~8/15(四)共六週，每週四上課。【本課程不開放準大學生修習】",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=ASPT591&Crsname=高端應用電子產品實務,,,True,半導體封測所,ASPT591,2,不分班,"高端應用電子產品實務
+HIGH-END ELECTRONIC PRODUCT PRACTICE",3,期,True,60,0,0,60,林智偉,"二1,2,3,4,5,6,7,8(日月光廠區)(實驗) 三1,2,3,4(日月光廠區)(實驗)","['', '12345678', '1234', '', '', '', '']","《企業實習》
+限先進半導體封測所學生修課。★課程期間：7/9(二)-8/14(三)。【本課程不開放準大學生修習】",[],False
