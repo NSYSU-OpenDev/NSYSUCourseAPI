@@ -1,3 +1,0 @@
-Item root[8] added to iterable.
-Repetition change for item root[31]['classTime'][0].
-Repetition change for item root[31]['classTime'][5].
