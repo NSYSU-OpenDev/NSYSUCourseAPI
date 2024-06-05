@@ -1,2 +1,0 @@
-Value of root[3]['description'] changed from "《講授類》" to "《講授類》
-測試課程".
