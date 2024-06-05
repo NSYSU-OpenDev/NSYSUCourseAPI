@@ -1,2 +1,0 @@
-Item root[2] removed from iterable.
-Item root[3] removed from iterable.
