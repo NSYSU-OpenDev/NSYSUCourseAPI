@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=GEPE103&Crsname=運動與健康：初級游泳,,,False,運動健康(必),GEPE103,1,不分班,"運動與健康：初級游泳
-SPORT & HEALTH: BASIC SWIMMING",1,期,True,50,4,0,50,林宗正,"二2,3,4(游泳池) 三2,3,4(游泳池)","['', '234', '234', '', '', '', '']","《體育類》
+SPORT & HEALTH: BASIC SWIMMING",1,期,True,50,6,0,50,林宗正,"二2,3,4(游泳池) 三2,3,4(游泳池)","['', '234', '234', '', '', '', '']","《體育類》
 ★上課日期：7/9(二)~8/14(三)共6週。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=GEPE203&Crsname=運動與健康：初級潛水,,,False,運動健康(必),GEPE203,2,不分班,"運動與健康：初級潛水
 SPORT & HEALTH: BASIC DIVING",1,期,True,50,4,0,50,林宗正,"二6,7,8(游泳池) 三6,7,8(游泳池)","['', '678', '678', '', '', '', '']","《體育類》
@@ -9,16 +9,16 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=PHY102&
 GENERAL PHYSICS(I)",3,期,True,50,4,0,50,黃旭明,"二2,3,4(理PH 2006) 三2,3,4(理PH 2006) 四2,3,4(理PH 2006)","['', '234', '234', '234', '', '', '']","《講授類》
 ★上課日期：7/8(一)~8/16(五)，共計6週。本課程無法抵免英語專班普通物理。本課程開放準大學生修習。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=PHY105&Crsname=普通物理（二）,,,False,普通物理小組,PHY105,0,不分班,"普通物理（二）
-GENERAL PHYSICS (II)",3,期,True,50,4,0,50,陳宗緯,"二2,3,4(理PH 1008) 三2,3,4(理PH 1008) 四2,3,4(理PH 1008)","['', '234', '234', '234', '', '', '']","《講授類》
+GENERAL PHYSICS (II)",3,期,True,50,5,0,50,陳宗緯,"二2,3,4(理PH 1008) 三2,3,4(理PH 1008) 四2,3,4(理PH 1008)","['', '234', '234', '234', '', '', '']","《講授類》
 ★上課日期：7/8(一)~8/16(五)，共計6週。本課程無法抵免英語專班普通物理。本課程開放準大學生修習。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=GESL414&Crsname=服務學習：弱勢偏鄉服務夏令營,,,False,服務學習,GESL414,2,不分班,"服務學習：弱勢偏鄉服務夏令營
 SERVICE LEARNING: VOLUNTEER SERVICES SUMMER CAMP",1,期,True,30,11,0,30,葉博弘,,"['', '56789', '56789', '4B56789CD', '234B56789', '', '']","《服務學習類》
 1.需參加5/20說明會(18:00/GE1008)及符合條件方能選課，不開放準大學生修習。 2.本校生不收學分費，惟學士班延修生及外校生仍須繳學分費。 3.選上即算學期成績，未於選課期間辦退選又未到課，有未通過成績。 4.8/6-8/7、8/15-8/16於校內進行培訓課程，8/22-8/23於臺東大王國小進行服務。 5.8/22-8/23若因不可抗力因素停辦，則營隊活動順延1週於8/29-8/30辦理。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=GESL416&Crsname=服務學習：協助霧台原民申請農業文化遺產,,,False,服務學習,GESL416,0,不分班,"服務學習：協助霧台原民申請農業文化遺產
-SERVICE LEARNING: ASSISTING  WUTAI INDIGENOUS  IN APPLYING FOR AGRICULTURAL CULTURAL HERITAGE",1,期,True,30,23,0,30,"王宏仁,黃郁晴",,"['234678', '2345678', '1234B56789', '2345678', '234678', '', '']","《服務學習類》
+SERVICE LEARNING: ASSISTING  WUTAI INDIGENOUS  IN APPLYING FOR AGRICULTURAL CULTURAL HERITAGE",1,期,True,30,22,0,30,"王宏仁,黃郁晴",,"['234678', '2345678', '1234B56789', '2345678', '234678', '', '']","《服務學習類》
 1.需於5/27前報名(詳見西灣學院網站最新消息)及符合條件方能選課，不開放準大學生修習。 2.本校生不收學分費，惟學士班延修生及外校生仍須繳學分費。  3.選上即算學期成績，未於選課期間辦退選又未到課，有未通過成績。  4.6/24~25及6/27~28校內上課，6/26前往屏東霧台原鄉。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=CHEM105&Crsname=微積分（一）,,,False,化學系,CHEM105,1,不分班,"微積分（一）
-CALCULUS(I)",3,期,False,50,15,0,50,張福春,"一2,3,4(理SC 2001) 二2,3,4(理SC 2001) 四2,3,4(理SC 2001)","['234', '234', '', '234', '', '', '']","《講授類》
+CALCULUS(I)",3,期,False,50,16,0,50,張福春,"一2,3,4(理SC 2001) 二2,3,4(理SC 2001) 四2,3,4(理SC 2001)","['234', '234', '', '234', '', '', '']","《講授類》
 為符合各系抵免標準，本課程授課內容為理工學院程度，非理、工、海洋學院學生如欲選修請謹慎考量。應數系及英語班學生不可選修。★上課日期：7/8(一)~8/15(四)共計6週。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=CHEM106&Crsname=微積分（二）,,,False,化學系,CHEM106,1,不分班,"微積分（二）
 CALCULUS(II)",3,期,False,50,12,0,50,莊秉樺,"一5,6,7(理SC 2001) 二5,6,7(理SC 2001) 三2,3,4(理SC 2001)","['567', '567', '234', '', '', '', '']","《講授類》
@@ -27,7 +27,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=EE3501B
 ELECTROMAGNETICS (II)",3,期,False,50,10,0,50,王復康,"一2,3,4(工EC 3009) 三2,3,4(工EC 3009) 四2,3,4(工EC 3009)","['234', '', '234', '234', '', '', '']","《講授類》
 ★上課日期：7/8(一)~8/15(四)，共計6週。【本課程不開放準大學生修習】",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=EE4011&Crsname=電機工程國際研習,,,False,電機系,EE4011,0,不分班,"電機工程國際研習
-OVERSEA STUDY ON ELECTRICAL ENGINEERING",2,期,False,50,4,0,50,謝耀慶,"一2,3,4(日本參訪實習) 三2,3,4(日本參訪實習)","['234', '', '234', '', '', '', '']","《演講/參訪》
+OVERSEA STUDY ON ELECTRICAL ENGINEERING",2,期,False,50,5,0,50,謝耀慶,"一2,3,4(日本參訪實習) 三2,3,4(日本參訪實習)","['234', '', '234', '', '', '', '']","《演講/參訪》
 本課程為日本參訪實習，限參與出國學生修習。【本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MEME208&Crsname=機動學,,,False,機電系,MEME208,2,甲班,"機動學
 MECHANISM",3,期,False,50,5,0,50,許正和,"一6,7,8(工EN 4055-1) 二6,7,8(工EN 4055-1) 四2,3,4(工EN 4055-1)","['678', '678', '', '234', '', '', '']","《講授類》
@@ -51,7 +51,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=WS5020&
 PROFESSIONAL PRACTICE IN AI",6,期,True,50,6,0,50,"邱日清,待聘,待聘",,"['123456789', '23456789', '23456789', '23456789', '23456789', '', '']","《企業實習》
 需到緯創資通公司實習，限緯創資通AI跨域應用產業碩士專班學生修讀。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MA619&Crsname=海洋保護區：規劃與執行,新增,5/29,False,海事碩,MA619,0,不分班,"海洋保護區：規劃與執行
-MARINE PROTECTED AREA: PLANNING AND IMPLEMENTING",3,期,False,50,2,0,50,張水鍇,"一7,8,9(海MA 2034) 二7,8,9(海MA 2034) 三7,8,9(海MA 2034)","['789', '789', '789', '', '', '', '']","《講授類》
+MARINE PROTECTED AREA: PLANNING AND IMPLEMENTING",3,期,False,50,3,0,50,張水鍇,"一7,8,9(海MA 2034) 二7,8,9(海MA 2034) 三7,8,9(海MA 2034)","['789', '789', '789', '', '', '', '']","《講授類》
 ★上課日期：7/8(一)~8/16(五)，共計6週。【本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=IOE592&Crsname=班級經營研究,,,False,教育碩,IOE592,0,不分班,"班級經營研究
 STUDIES IN CLASSROOM MANAGEMENT",3,期,False,30,3,0,30,陳利銘,"四2,3,4,5,6,7,8,9,B(社SS 2002-2)","['', '', '', '234B56789', '', '', '']","《講授類》
@@ -59,39 +59,3 @@ STUDIES IN CLASSROOM MANAGEMENT",3,期,False,30,3,0,30,陳利銘,"四2,3,4,5,6,7
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=ASPT591&Crsname=高端應用電子產品實務,,,True,半導體封測所,ASPT591,2,不分班,"高端應用電子產品實務
 HIGH-END ELECTRONIC PRODUCT PRACTICE",3,期,True,60,1,0,60,林智偉,"二1,2,3,4,5,6,7,8(日月光廠區)(實驗) 三1,2,3,4(日月光廠區)(實驗)","['', '12345678', '1234', '', '', '', '']","《企業實習》
 限先進半導體封測所學生修課。★課程期間：7/9(二)-8/14(三)。【本課程不開放準大學生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=ASPT591A&Crsname=高端應用電子產品實務,,,True,半導體封測所,ASPT591A,2,不分班,"高端應用電子產品實務
-HIGH-END ELECTRONIC PRODUCT PRACTICE",3,期,True,10,0,0,10,康宗仁,"三1,2,3,4(華泰廠區)(實驗) 四1,2,3,4,5,6,7,8(華泰廠區)(實驗)","['', '', '1234', '12345678', '', '', '']","《企業實習》
-限先進半導體封測所學生修課。★課程期間：7/10(三)-8/15(四)。【本課程不開放準大學生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=ASPT591B&Crsname=高端應用電子產品實務,,,True,半導體封測所,ASPT591B,2,不分班,"高端應用電子產品實務
-HIGH-END ELECTRONIC PRODUCT PRACTICE",3,期,True,5,0,0,5,孫家彬,"二1,2,3,4,5,6,7,8(穎崴廠區)(實驗) 四5,6,7,8(穎崴廠區)(實驗)","['', '12345678', '', '5678', '', '', '']","《企業實習》
-限先進半導體封測所學生修課。★課程期間：7/9(二)-8/15(四)。【本課程不開放準大學生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=PEC681&Crsname=高頻測試與材料應用實作,,,True,零組件研究所,PEC681,2,不分班,"高頻測試與材料應用實作
-INTERNSHIP IN HIGH FREQUENCY TESTING AND RELATED MATERIAL APPLICATION",3,期,True,20,2,0,20,"孫家彬,李英杰,蔡潤波","一1,2,3,4,5,6,7,8(國IR 6002J)(實驗) 四1,2,3,4(各自培育企業廠區)(實驗)","['12345678', '', '', '1234', '', '', '']","《企業實習》
-限精密電子零組件研究所-電子零組件及設備組學生修課。★課程期間：7/8~8/15。【本課程不開放準大學生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=PEC691&Crsname=產品生命週期管理/產品開發模式介紹實務,,,True,零組件研究所,PEC691,2,不分班,"產品生命週期管理/產品開發模式介紹實務
-INTERNSHIP IN INTRODUCTION OF PRODUCT LIFECYCLE MANAGEMENT/ PRODUCT LAUNCH MANAGEMENT",3,期,True,19,1,0,19,蘇哲儀,"二1,2,3,4,5,6,7,8(國巨廠區)(實驗) 三1,2,3,4(國巨廠區)(實驗)","['', '12345678', '1234', '', '', '', '']","《企業實習》
-限精密電子零組件研究所-被動元件組學生修課。★課程期間：7/9~8/14。【本課程不開放準大學生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MIS949&Crsname=電子商務專題演講,,,False,資管碩專,MIS949,1,不分班,"電子商務專題演講
-SEMINAR IN ELECTRONIC COMMERCE",3,期,True,50,0,0,50,"康藝晃,徐士傑,李偉柏,李捷,林耕霈,楊惠芳,楊淯程,邱兆民,韓毅,黃三益","一C,D,E(管CM 4069) 二C,D,E(管CM 4069) 四C,D,E(管CM 4069)","['CDE', 'CDE', '', 'CDE', '', '', '']","《演講/參訪》
-限資管碩專班修習。★上課日期：7/8(一)~8/15(四)，共計6週。【本課程不開放準大學生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=MIS992&Crsname=電子商務專題演講,,,False,資電碩專,MIS992,1,不分班,"電子商務專題演講
-SEMINAR IN ELECTRONIC COMMERCE",3,期,True,50,0,0,50,康藝晃,"一C,D,E(管CM 4069) 二C,D,E(管CM 4069) 四C,D,E(管CM 4069)","['CDE', 'CDE', '', 'CDE', '', '', '']","《演講/參訪》
-限電商碩專班修習。★上課日期：7/8(一)~8/15(四)，共計6週。【本課程不開放準大學生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=EMBA967&Crsname=企業法律環境,,,True,EMBA碩專,EMBA967,1,不分班,"企業法律環境
-THE LEGAL ENVIRONMENT OF BUSINESS",1.5,期,True,50,0,0,50,李清潭,"六3,4(臺北)","['', '', '', '', '', '34', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=EMBA997A&Crsname=全球運籌管理,,,True,EMBA碩專,EMBA997A,1,不分班,"全球運籌管理
-GLOBAL LOGISTICS MANAGEMENT",1.5,期,True,80,0,0,80,李捷,"六3,4(圖資博士廳)","['', '', '', '', '', '34', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=EMBA997B&Crsname=全球運籌管理,,,True,EMBA碩專,EMBA997B,1,不分班,"全球運籌管理
-GLOBAL LOGISTICS MANAGEMENT",1.5,期,True,50,0,0,50,李捷,"日5,6(臺北)","['', '', '', '', '', '', '56']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=IOE960&Crsname=當代社會心理學,,,False,教育碩專,IOE960,0,不分班,"當代社會心理學
-CURRENT ISSUES IN SOCIAL PSYCHOLOGY",3,期,False,25,9,0,25,邱文彬,"二5,6,7,8,9(社SS 2005) 三5,6,7,8(社SS 2005)","['', '56789', '5678', '', '', '', '']","《講授類》
-上課時間：7/9(二)~8/14(三)共六週，每週二、三上課。【本課程不開放準大學生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=EMPP911&Crsname=高階公共政策與管理,,,False,EMPP碩專,EMPP911,1,不分班,"高階公共政策與管理
-ADVANCED PUBLIC POLICY AND MANAGEMENT",3,期,True,50,0,0,50,"黃韋豪,劉正山,張其祿,曾國祥,楊尚儒,陳宗巖,陳至潔",,"['', '', '', '', '', '', '223344556677']","《講授類》
-限EMPP碩專班學生修課【本課程不開放準大學生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=EMPP938&Crsname=組織管理與數位行銷,,,False,EMPP碩專,EMPP938,1,不分班,"組織管理與數位行銷
-PUBLIC POLICY ＆ MARKETING",3,期,True,50,0,0,50,李予綱,,"['', '', '', '', '', '234567', '']","《講授類》
-限EMPP碩專班學生修課【本課程不開放準大學生修習】",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=112&SEM=3&CrsDat=EMPP939&Crsname=高階公共政策專題講座,,,False,EMPP碩專,EMPP939,1,不分班,"高階公共政策專題講座
-LECTURES ON ADVANCED PUBLIC POLICY",1,期,True,50,0,0,50,陳美華,,"['', '', '', '', '', '89C', '89C']","《講授類》
-限EMPP碩專班學生修課【本課程不開放準大學生修習】",[],False
