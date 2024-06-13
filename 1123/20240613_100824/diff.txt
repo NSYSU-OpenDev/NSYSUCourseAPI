@@ -1,2 +1,0 @@
-Value of root[7]['select'] changed from 16 to 17.
-Value of root[13]['select'] changed from 16 to 17.
