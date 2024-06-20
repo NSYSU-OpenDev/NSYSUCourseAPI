@@ -1,0 +1,9 @@
+Value of root[6]['select'] changed from 2 to 3.
+Value of root[7]['selected'] changed from 0 to 1.
+Value of root[7]['remaining'] changed from 50 to 49.
+Value of root[8]['selected'] changed from 1 to 2.
+Value of root[8]['remaining'] changed from 49 to 48.
+Value of root[15]['selected'] changed from 17 to 18.
+Value of root[15]['remaining'] changed from 33 to 32.
+Value of root[19]['select'] changed from 10 to 9.
+Value of root[22]['select'] changed from 6 to 7.
