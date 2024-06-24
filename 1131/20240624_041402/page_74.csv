@@ -1,0 +1,44 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH655&Crsname=分析導論,,,False,應數碩,MATH655,0,不分班,"分析導論
+INTRODUCTION TO ANALYSIS",3,期,False,20,0,0,20,陳志偉,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH666&Crsname=環論專題研討,,,False,應數碩,MATH666,0,不分班,"環論專題研討
+SEMINAR IN RING THEORY",3,期,False,5,0,0,5,林晉宏,,"['', '', '', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH675&Crsname=圖形著色專題研討,,,False,應數碩,MATH675,0,不分班,"圖形著色專題研討
+SEMINAR IN GRAPH COLORING",3,期,False,5,0,0,5,王彩蓮,,"['', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH686&Crsname=生物數學專題研討（二）,,,False,應數碩,MATH686,0,不分班,"生物數學專題研討（二）
+SEMINAR IN BIOMATHEMATICS (II)",3,期,False,5,0,0,5,余冠儒,,"['', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH691&Crsname=耦合專題研討（二）,,,False,應數碩,MATH691,0,不分班,"耦合專題研討（二）
+SEMINAR IN COPULAS (II)",3,期,False,10,0,0,10,施嘉翰,,"['', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH692&Crsname=社交網絡專題研討（一）,,,False,應數碩,MATH692,0,不分班,"社交網絡專題研討（一）
+SEMINAR IN SOCIAL NETWORK (I)",3,期,False,10,0,0,10,李欣倫,,"['', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5100&Crsname=書報討論,,,False,電機碩,EE5100,1,不分班,"書報討論
+SEMINAR",1,期,True,150,0,0,150,謝耀慶,,"['', '', '', '', '', '', '']","《演講/參訪》
+碩、博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5100A&Crsname=書報討論,,,False,電機碩,EE5100A,2,不分班,"書報討論
+SEMINAR",1,期,True,150,0,0,150,謝耀慶,,"['', '', '', '', '', '', '']","《演講/參訪》
+碩、博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5102&Crsname=ＳＯＩ積體電路工程,,,False,電機碩,EE5102,0,不分班,"ＳＯＩ積體電路工程
+SOI IC ENGINEERING",3,期,False,50,0,0,50,林吉聰,,"['', '', '', '', '', '', '']","《講授類》
+開放大三、大四學生選修","['矽光子微學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5107&Crsname=光電半導體元件專題,,,False,電機碩,EE5107,0,不分班,"光電半導體元件專題
+SPECIAL TOPICS IN SEMICONDUCTOR OPTOELECTRONICS",3,期,False,50,0,0,50,莊豐任,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5111&Crsname=固態電子元件（一）,,,False,電機碩,EE5111,0,不分班,"固態電子元件（一）
+SOLID STATE ELECTRONIC DEVICES (I)",3,期,False,50,0,0,50,馬誠佑,,"['', '', '', '', '', '', '']",《講授類》,['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5121&Crsname=微電子工程專題,,,False,電機碩,EE5121,0,不分班,"微電子工程專題
+SPECIAL TOPICS IN MICROELECTRONICS ENGINEERING",3,期,False,50,0,0,50,林吉聰,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5122&Crsname=微機電系統,,,False,電機碩,EE5122,0,不分班,"微機電系統
+MICROELECTROMECHANICAL SYSTEM (MEMS)",3,期,False,50,0,0,50,黃義佑,,"['', '', '', '', '', '', '']",《講授類》,"['半導體元件學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5128&Crsname=電子陶瓷,,,False,電機碩,EE5128,0,不分班,"電子陶瓷
+ELECTRONICS CERAMICS",3,期,False,50,0,0,50,陳英忠,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5129&Crsname=薄膜工程專題,,,False,電機碩,EE5129,0,不分班,"薄膜工程專題
+INDEPENDENT STUDIES IN THIN-FILM TECHNOLOGY",3,期,False,50,0,0,50,陳英忠,,"['', '', '', '', '', '', '']",《獨立研究》,['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5132&Crsname=先進元件分析專題,,,False,電機碩,EE5132,0,不分班,"先進元件分析專題
+INDEPENDENT STUDIES IN ADVANCED DEVICE ANALYSIS",3,期,False,50,0,0,50,馬誠佑,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5133&Crsname=積體電路技術,,,False,電機碩,EE5133,0,不分班,"積體電路技術
+INTEGRATED CIRCUIT TECHNOLOGY",3,期,False,50,0,0,50,馬誠佑,,"['', '', '', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5137&Crsname=二維材料合成專題,,,False,電機碩,EE5137,0,不分班,"二維材料合成專題
+INDEPENDENT STUDIES IN TWO-DIMENSIONAL MATERIALS FABRICATION",3,期,False,50,0,0,50,陳昶孝,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5138&Crsname=低維度電子材料,,,False,電機碩,EE5138,0,不分班,"低維度電子材料
+LOW-DIMENSIONAL ELECTRONIC MATERIALS",3,期,False,50,0,0,50,陳昶孝,,"['', '', '', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5141&Crsname=氧化物電子專題,,,False,電機碩,EE5141,0,不分班,"氧化物電子專題
+INDEPENDENT STUDIES IN OXIDE-BASED ELECTRONICS",3,期,False,50,0,0,50,劉漢胤,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
