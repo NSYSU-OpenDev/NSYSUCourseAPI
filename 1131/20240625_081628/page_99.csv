@@ -1,0 +1,23 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAEV662&Crsname=應用Python於海洋環境資料分析,,,False,海工碩,MAEV662,1,不分班,應用Python於海洋環境資料分析,3,期,False,50,0,0,50,夏沛亞,海ME 3004,"['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAEV679&Crsname=波與孔隙物作用專研（一）,,,False,海工碩,MAEV679,2,不分班,波與孔隙物作用專研（一）,2,期,False,50,0,0,50,許弘莒,,"['A1', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA501&Crsname=專題討論,,,False,海事碩,MA501,1,不分班,專題討論,1,期,True,50,0,0,50,張水鍇,海MA 2034,"['', '34', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA502&Crsname=海洋事務總論,,,False,海事碩,MA502,1,不分班,海洋事務總論,3,期,True,50,0,0,50,蔡宏政,海MA 2034,"['', '567', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA504&Crsname=海洋學導論,,,False,海事碩,MA504,0,不分班,海洋學導論,3,期,False,50,0,0,50,"李逸環,劉莉蓮,張詠斌,雷漢杰",海MA 3040,"['234', '', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA506&Crsname=論文研究,,,False,海事碩,MA506,2,不分班,論文研究,2,期,True,50,0,0,50,"張懿,高世明",海MA 2034,"['', '', '', '', 'A1', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA546&Crsname=海洋政策,,,False,海事碩,MA546,0,不分班,海洋政策,3,期,False,50,0,0,50,高世明,海MA 2034,"['', '', '', '', 'B56', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA581&Crsname=公共政策,,,False,海事碩,MA581,0,不分班,公共政策,3,期,False,50,0,0,50,胡念祖,海MA 2034,"['789', '', '', '', '', '', '']",《講授類》,['公民參與微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA587&Crsname=國際漁業法,,,False,海事碩,MA587,0,不分班,國際漁業法,3,期,False,50,0,0,50,高世明,海MA 2034,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA601&Crsname=南海議題特論,,,False,海事碩,MA601,0,不分班,南海議題特論,3,期,False,50,0,0,50,高世明,海MA 2034,"['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA612&Crsname=我國水下文化資產保存法令,,,False,海事碩,MA612,0,不分班,我國水下文化資產保存法令,3,期,False,50,0,0,50,吳培福,海MA 2034,"['B56', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA615&Crsname=生態資料處理,,,False,海事碩,MA615,0,不分班,生態資料處理,3,期,False,50,0,0,50,張水鍇,海MA 2034,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA617&Crsname=海洋生物資源永續管理,,,False,海事碩,MA617,0,不分班,海洋生物資源永續管理,3,期,False,50,0,0,50,張水鍇,海MA 2034,"['', '', '', '', '789', '', '']","《講授類》
+ 
+※英語授課",['印象海味微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA620&Crsname=海洋空間規劃,,,False,海事碩,MA620,0,不分班,海洋空間規劃,3,期,False,50,0,0,50,張懿,海MA 2034,"['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA629&Crsname=海洋產業經濟理論與實務,,,False,海事碩,MA629,0,不分班,海洋產業經濟理論與實務,3,期,False,50,0,0,50,劉子銘,海MA 1020,"['', 'B56', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA630&Crsname=海洋環境變遷與南島民族,,,False,海事碩,MA630,0,不分班,海洋環境變遷與南島民族,3,期,False,50,0,0,50,劉子銘,海MA 1020,"['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA635&Crsname=永續發展,,,False,海事碩,MA635,0,不分班,永續發展,3,期,False,50,0,0,50,蔡宏政,海MA 2034,"['', '', '', '567', '', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA668&Crsname=永續海洋與漁業專題研究（一）,,,False,海事碩,MA668,0,不分班,永續海洋與漁業專題研究（一）,2,期,False,50,0,0,50,張水鍇,海MA 2034,"['', '89', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA670&Crsname=海洋空間規劃專題研究（一）,,,False,海事碩,MA670,0,不分班,海洋空間規劃專題研究（一）,2,期,False,50,0,0,50,張懿,海MA 2034,"['', '', 'A1', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA672&Crsname=環境變遷與調適專題研究（一）,,,False,海事碩,MA672,0,不分班,環境變遷與調適專題研究（一）,2,期,False,50,0,0,50,"蔡宏政,劉子銘",海MA 2034,"['', 'A1', '', '', '', '', '']",《獨立研究》,[],False

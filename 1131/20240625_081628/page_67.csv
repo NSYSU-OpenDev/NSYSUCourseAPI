@@ -1,0 +1,31 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MUSI698&Crsname=音樂學術寫作技巧,,,False,音樂碩,MUSI698,0,不分班,音樂學術寫作技巧,1,期,False,50,0,0,50,"呂承祐,莊孟勳",,"['', '', 'A', '', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL501&Crsname=當代歐陸哲學,,,False,哲學碩,PHIL501,1,不分班,當代歐陸哲學,3,期,True,50,0,0,50,宋灝,文LA 2009,"['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL521&Crsname=藝術與哲學,,,False,哲學碩,PHIL521,0,不分班,藝術與哲學,3,期,False,50,0,0,50,宋灝,文LA 2009,"['', '234', '', '', '', '', '']",《講授類》,['跨文化人文思潮與美學微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL523&Crsname=倫理與他者,,,False,哲學碩,PHIL523,0,不分班,倫理與他者,3,期,False,50,0,0,50,楊婉儀,文LA 2009,"['', '', '', '678', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL565&Crsname=政治、主體與普遍性,,,False,哲學碩,PHIL565,0,不分班,政治、主體與普遍性,3,期,False,50,0,0,50,洪世謙,文LA 2009,"['', '', '567', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL570&Crsname=攝影哲學,,,False,哲學碩,PHIL570,0,不分班,攝影哲學,3,期,False,50,0,0,50,高長空,文LA 2009,"['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL573&Crsname=沙特的《存在與虛無》,,,False,哲學碩,PHIL573,0,不分班,沙特的《存在與虛無》,3,期,False,50,0,0,50,戴遠雄,文LA 2009,"['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL575&Crsname=佛教語文與經典,,,False,哲學碩,PHIL575,0,不分班,佛教語文與經典,3,期,False,50,0,0,50,越建東,文LA 2009,"['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL601&Crsname=當代德語哲學與美學專題,,,False,哲學碩,PHIL601,0,不分班,當代德語哲學與美學專題,2,期,False,50,0,0,50,宋灝,文LA 2008,"['', '', '34', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL602&Crsname=當代法語哲學與美學專題,,,False,哲學碩,PHIL602,0,不分班,當代法語哲學與美學專題,2,期,False,50,0,0,50,楊婉儀,文LA 2008,"['', '', '12', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL605&Crsname=解構的世界圖像與實踐專題,,,False,哲學碩,PHIL605,0,不分班,解構的世界圖像與實踐專題,2,期,False,50,0,0,50,洪世謙,文LA 7001,"['', '', '34', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL606&Crsname=佛教與哲學專題,,,False,哲學碩,PHIL606,0,不分班,佛教與哲學專題,2,期,False,50,0,0,50,越建東,文LA 2008,"['', '78', '', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL608&Crsname=歐洲哲學與社會政治批判專題,,,False,哲學碩,PHIL608,0,不分班,歐洲哲學與社會政治批判專題,2,期,False,50,0,0,50,戴遠雄,文LA 7001,"['34', '', '', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL609&Crsname=結構主義、解構與其當代遺產專題,,,False,哲學碩,PHIL609,0,不分班,結構主義、解構與其當代遺產專題,2,期,False,50,0,0,50,高長空,文LA 2008,"['34', '', '', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA501&Crsname=研究方法,,,False,劇藝碩,TA501,1,不分班,研究方法,3,期,True,50,0,0,50,"曾景濱,黃資絜",文FA 2012,"['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA502&Crsname=戲劇學研究,,,False,劇藝碩,TA502,1,不分班,戲劇學研究,3,期,True,50,0,0,50,許仁豪,文FA 2012,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA503&Crsname=專業劇場英文,,,False,劇藝碩,TA503,0,不分班,專業劇場英文,2,期,False,50,0,0,50,待聘,"文FA 2012, 文FA 2018","['', '', '34', '', '', '', '']","《講授類》
+全英語授課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA530&Crsname=表導演研究與實作,,,False,劇藝碩,TA530,0,不分班,表導演研究與實作,3,期,False,50,0,0,50,待聘,"文FA 2012, 文FA 2018","['', '', '', '567', '', '', '']","《展演》
+全英語授課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA533&Crsname=排演實務（一）,,,False,劇藝碩,TA533,0,不分班,排演實務（一）,3,期,False,50,0,0,50,"杜思慧,吳維緯",文FA 2019,"['', '89C', '', '', '', '', '']","《展演》
+限年度製作劇組學生（大四以上學生）",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA552&Crsname=展演設計（一）,,,False,劇藝碩,TA552,0,不分班,展演設計（一）,3,期,False,50,0,0,50,李怡賡,文FA 1014,"['', '', '', '', '234', '', '']",《展演》,[],False
