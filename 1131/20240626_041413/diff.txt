@@ -1,0 +1,4 @@
+Type of root[705]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[705]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間6/26".
+Type of root[1467]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1467]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間6/26".
