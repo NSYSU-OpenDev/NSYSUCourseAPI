@@ -1,0 +1,455 @@
+Item root[23]['tags'][0] added to iterable.
+Item root[118]['tags'][0] added to iterable.
+Item root[132]['tags'][0] added to iterable.
+Item root[139]['tags'][0] added to iterable.
+Item root[141]['tags'][0] added to iterable.
+Item root[141]['tags'][1] added to iterable.
+Item root[142]['tags'][7] added to iterable.
+Item root[145]['tags'][5] added to iterable.
+Item root[145]['tags'][6] added to iterable.
+Item root[150]['tags'][4] added to iterable.
+Item root[151]['tags'][0] added to iterable.
+Item root[151]['tags'][1] added to iterable.
+Item root[152]['tags'][0] added to iterable.
+Item root[153]['tags'][0] added to iterable.
+Item root[153]['tags'][1] added to iterable.
+Item root[153]['tags'][2] added to iterable.
+Item root[153]['tags'][3] added to iterable.
+Item root[153]['tags'][4] added to iterable.
+Item root[154]['tags'][0] added to iterable.
+Item root[154]['tags'][1] added to iterable.
+Item root[154]['tags'][2] added to iterable.
+Item root[154]['tags'][3] added to iterable.
+Item root[155]['tags'][0] added to iterable.
+Item root[155]['tags'][1] added to iterable.
+Item root[155]['tags'][2] added to iterable.
+Item root[155]['tags'][3] added to iterable.
+Item root[155]['tags'][4] added to iterable.
+Item root[156]['tags'][1] added to iterable.
+Item root[158]['tags'][3] added to iterable.
+Item root[161]['tags'][3] added to iterable.
+Item root[161]['tags'][4] added to iterable.
+Item root[174]['tags'][8] added to iterable.
+Item root[176]['tags'][8] added to iterable.
+Item root[178]['tags'][0] added to iterable.
+Item root[179]['tags'][2] added to iterable.
+Item root[181]['tags'][4] added to iterable.
+Item root[198]['tags'][0] added to iterable.
+Item root[201]['tags'][6] added to iterable.
+Item root[202]['tags'][0] added to iterable.
+Item root[228]['tags'][0] added to iterable.
+Item root[228]['tags'][1] added to iterable.
+Item root[230]['tags'][0] added to iterable.
+Item root[230]['tags'][1] added to iterable.
+Item root[260]['tags'][5] added to iterable.
+Item root[260]['tags'][6] added to iterable.
+Item root[272]['tags'][4] added to iterable.
+Item root[273]['tags'][4] added to iterable.
+Item root[278]['tags'][0] added to iterable.
+Item root[280]['tags'][7] added to iterable.
+Item root[300]['tags'][0] added to iterable.
+Item root[301]['tags'][0] added to iterable.
+Item root[306]['tags'][3] added to iterable.
+Item root[309]['tags'][3] added to iterable.
+Item root[315]['tags'][0] added to iterable.
+Item root[315]['tags'][1] added to iterable.
+Item root[315]['tags'][2] added to iterable.
+Item root[315]['tags'][3] added to iterable.
+Item root[324]['tags'][0] added to iterable.
+Item root[324]['tags'][1] added to iterable.
+Item root[324]['tags'][2] added to iterable.
+Item root[325]['tags'][0] added to iterable.
+Item root[365]['tags'][0] added to iterable.
+Item root[366]['tags'][0] added to iterable.
+Item root[451]['tags'][0] added to iterable.
+Item root[461]['tags'][0] added to iterable.
+Item root[461]['tags'][1] added to iterable.
+Item root[532]['tags'][0] added to iterable.
+Item root[538]['tags'][1] added to iterable.
+Item root[560]['tags'][0] added to iterable.
+Item root[561]['tags'][0] added to iterable.
+Item root[592]['tags'][2] added to iterable.
+Item root[594]['tags'][0] added to iterable.
+Item root[595]['tags'][0] added to iterable.
+Item root[627]['tags'][0] added to iterable.
+Item root[630]['tags'][0] added to iterable.
+Item root[631]['tags'][0] added to iterable.
+Item root[641]['tags'][0] added to iterable.
+Item root[642]['tags'][0] added to iterable.
+Item root[667]['tags'][0] added to iterable.
+Item root[668]['tags'][5] added to iterable.
+Item root[668]['tags'][6] added to iterable.
+Item root[713]['tags'][3] added to iterable.
+Item root[714]['tags'][3] added to iterable.
+Item root[715]['tags'][3] added to iterable.
+Item root[726]['tags'][5] added to iterable.
+Item root[748]['tags'][1] added to iterable.
+Item root[786]['tags'][0] added to iterable.
+Item root[837]['tags'][4] added to iterable.
+Item root[845]['tags'][7] added to iterable.
+Item root[848]['tags'][7] added to iterable.
+Item root[849]['tags'][6] added to iterable.
+Item root[849]['tags'][7] added to iterable.
+Item root[857]['tags'][3] added to iterable.
+Item root[858]['tags'][3] added to iterable.
+Item root[864]['tags'][3] added to iterable.
+Item root[864]['tags'][4] added to iterable.
+Item root[878]['tags'][1] added to iterable.
+Item root[904]['tags'][2] added to iterable.
+Item root[906]['tags'][2] added to iterable.
+Item root[908]['tags'][0] added to iterable.
+Item root[912]['tags'][2] added to iterable.
+Item root[912]['tags'][3] added to iterable.
+Item root[912]['tags'][4] added to iterable.
+Item root[913]['tags'][0] added to iterable.
+Item root[913]['tags'][1] added to iterable.
+Item root[913]['tags'][2] added to iterable.
+Item root[914]['tags'][0] added to iterable.
+Item root[914]['tags'][1] added to iterable.
+Item root[914]['tags'][2] added to iterable.
+Item root[914]['tags'][3] added to iterable.
+Item root[914]['tags'][4] added to iterable.
+Item root[915]['tags'][0] added to iterable.
+Item root[915]['tags'][1] added to iterable.
+Item root[920]['tags'][0] added to iterable.
+Item root[921]['tags'][0] added to iterable.
+Item root[949]['tags'][0] added to iterable.
+Item root[965]['tags'][3] added to iterable.
+Item root[973]['tags'][5] added to iterable.
+Item root[987]['tags'][3] added to iterable.
+Item root[995]['tags'][0] added to iterable.
+Item root[1005]['tags'][1] added to iterable.
+Item root[1022]['tags'][0] added to iterable.
+Item root[1033]['tags'][6] added to iterable.
+Item root[1041]['tags'][1] added to iterable.
+Item root[1085]['tags'][2] added to iterable.
+Item root[1102]['tags'][1] added to iterable.
+Item root[1107]['tags'][0] added to iterable.
+Item root[1110]['tags'][3] added to iterable.
+Item root[1111]['tags'][2] added to iterable.
+Item root[1113]['tags'][0] added to iterable.
+Item root[1119]['tags'][0] added to iterable.
+Item root[1123]['tags'][1] added to iterable.
+Item root[1144]['tags'][0] added to iterable.
+Item root[1145]['tags'][5] added to iterable.
+Item root[1149]['tags'][0] added to iterable.
+Item root[1149]['tags'][1] added to iterable.
+Item root[1170]['tags'][0] added to iterable.
+Item root[1280]['tags'][0] added to iterable.
+Item root[1340]['tags'][0] added to iterable.
+Item root[1352]['tags'][0] added to iterable.
+Item root[1356]['tags'][0] added to iterable.
+Item root[1356]['tags'][1] added to iterable.
+Item root[1427]['tags'][2] added to iterable.
+Item root[1431]['tags'][0] added to iterable.
+Item root[1434]['tags'][5] added to iterable.
+Item root[1434]['tags'][6] added to iterable.
+Item root[1444]['tags'][1] added to iterable.
+Item root[1446]['tags'][1] added to iterable.
+Item root[1477]['tags'][0] added to iterable.
+Item root[1483]['tags'][1] added to iterable.
+Item root[1722]['tags'][0] added to iterable.
+Item root[1724]['tags'][0] added to iterable.
+Item root[1725]['tags'][0] added to iterable.
+Item root[1725]['tags'][1] added to iterable.
+Item root[1726]['tags'][0] added to iterable.
+Item root[1760]['tags'][0] added to iterable.
+Item root[1771]['tags'][0] added to iterable.
+Item root[1776]['tags'][1] added to iterable.
+Item root[1817]['tags'][0] added to iterable.
+Item root[1817]['tags'][1] added to iterable.
+Item root[1817]['tags'][2] added to iterable.
+Item root[1817]['tags'][3] added to iterable.
+Item root[1817]['tags'][4] added to iterable.
+Item root[1823]['tags'][4] added to iterable.
+Item root[1850]['tags'][2] added to iterable.
+Item root[1850]['tags'][8] added to iterable.
+Item root[1862]['tags'][0] added to iterable.
+Item root[1889]['tags'][0] added to iterable.
+Item root[1924]['tags'][0] added to iterable.
+Item root[1926]['tags'][0] added to iterable.
+Item root[1942]['tags'][1] added to iterable.
+Item root[1948]['tags'][0] added to iterable.
+Item root[1950]['tags'][2] added to iterable.
+Item root[1974]['tags'][0] added to iterable.
+Item root[1976]['tags'][2] added to iterable.
+Item root[2009]['tags'][0] added to iterable.
+Item root[2009]['tags'][1] added to iterable.
+Item root[2009]['tags'][2] added to iterable.
+Item root[2047]['tags'][0] added to iterable.
+Item root[2066]['tags'][0] added to iterable.
+Item root[2071]['tags'][0] added to iterable.
+Item root[2116]['tags'][0] added to iterable.
+Item root[2127]['tags'][0] added to iterable.
+Item root[2146]['tags'][0] added to iterable.
+Item root[2157]['tags'][2] added to iterable.
+Item root[2162]['tags'][0] added to iterable.
+Item root[2164]['tags'][0] added to iterable.
+Item root[2166]['tags'][0] added to iterable.
+Item root[2169]['tags'][0] added to iterable.
+Item root[2217]['tags'][0] added to iterable.
+Item root[2223]['tags'][3] added to iterable.
+Item root[2240]['tags'][0] added to iterable.
+Item root[2246]['tags'][0] added to iterable.
+Item root[2257]['tags'][0] added to iterable.
+Item root[2259]['tags'][0] added to iterable.
+Item root[2530]['tags'][0] added to iterable.
+Item root[2536]['tags'][0] added to iterable.
+Item root[2543]['tags'][0] added to iterable.
+Item root[2620]['tags'][2] added to iterable.
+Item root[2621]['tags'][2] added to iterable.
+Item root[2622]['tags'][2] added to iterable.
+Item root[2650]['tags'][0] added to iterable.
+Item root[2651]['tags'][0] added to iterable.
+Item root[2658]['tags'][1] added to iterable.
+Item root[2659]['tags'][1] added to iterable.
+Item root[2692]['tags'][0] added to iterable.
+Item root[2693]['tags'][0] added to iterable.
+Item root[2694]['tags'][0] added to iterable.
+Item root[2695]['tags'][0] added to iterable.
+Item root[2702]['tags'][0] added to iterable.
+Item root[2724]['tags'][0] added to iterable.
+Repetition change for item root[305]['tags'][2].
+Repetition change for item root[320]['tags'][1].
+Repetition change for item root[819]['tags'][0].
+Repetition change for item root[1166]['tags'][1].
+Value of root[139]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[139]['english'] changed from True to False.
+Value of root[152]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。 
+※英語授課".
+Value of root[152]['english'] changed from True to False.
+Value of root[155]['description'] changed from "《講授類》
+1. 須具備英語溝通能力。 2. 須繳交霧台踏查行程交通與食宿等費用，一人4500元。 3. 須填寫報名表單，經通知錄取並完成繳費者，方能選課。" to "《講授類》
+1. 須具備英語溝通能力。 2. 須繳交霧台踏查行程交通與食宿等費用，一人4500元。 3. 須填寫報名表單，經通知錄取並完成繳費者，方能選課。
+※英語授課".
+Value of root[155]['english'] changed from True to False.
+Value of root[178]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[178]['english'] changed from True to False.
+Value of root[228]['description'] changed from "《講授類》
+建議修畢本校英文中級課程或相當多益測驗600分以上英文程度學生修習。本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與外文系DFLL325課程併班上課" to "《講授類》
+建議修畢本校英文中級課程或相當多益測驗600分以上英文程度學生修習。本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與外文系DFLL325課程併班上課
+※英語授課".
+Value of root[228]['english'] changed from True to False.
+Value of root[230]['description'] changed from "《講授類》
+建議修畢本校英文中級課程或相當多益測驗600分以上英文程度學生修習。本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與外文系DFLL430課程併班上課" to "《講授類》
+建議修畢本校英文中級課程或相當多益測驗600分以上英文程度學生修習。本課程為優先選修課程，依選課須知規定優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生(2)其他學士班學生。跨院通識與外文系DFLL430課程併班上課
+※英語授課".
+Value of root[230]['english'] changed from True to False.
+Value of root[278]['description'] changed from "《講授類》
+跨院通識與機電系MEME109課程併班上課" to "《講授類》
+跨院通識與機電系MEME109課程併班上課
+※英語授課".
+Value of root[278]['english'] changed from True to False.
+Value of root[324]['description'] changed from "《講授類》
+跨院通識與社會系SOC257課程併班上課" to "《講授類》
+跨院通識與社會系SOC257課程併班上課
+※英語授課".
+Value of root[324]['english'] changed from True to False.
+Value of root[325]['description'] changed from "《講授類》
+跨院通識與社科院CSS154課程併班上課" to "《講授類》
+跨院通識與社科院CSS154課程併班上課
+※英語授課".
+Value of root[325]['english'] changed from True to False.
+Value of root[365]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。 
+※英語授課".
+Value of root[365]['english'] changed from True to False.
+Value of root[366]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。 
+※英語授課".
+Value of root[366]['english'] changed from True to False.
+Value of root[461]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[461]['english'] changed from True to False.
+Value of root[561]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[561]['english'] changed from True to False.
+Value of root[595]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[595]['english'] changed from True to False.
+Value of root[627]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程" to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程
+※英語授課".
+Value of root[627]['english'] changed from True to False.
+Value of root[631]['description'] changed from "《講授類》
+與材光系英文組併班上課" to "《講授類》
+與材光系英文組併班上課
+※英語授課".
+Value of root[631]['english'] changed from True to False.
+Value of root[641]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程。" to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程。
+※英語授課".
+Value of root[641]['english'] changed from True to False.
+Value of root[642]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程。" to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程。
+※英語授課".
+Value of root[642]['english'] changed from True to False.
+Value of root[667]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程." to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.
+※英語授課".
+Value of root[667]['english'] changed from True to False.
+Value of root[786]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[786]['english'] changed from True to False.
+Value of root[913]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[913]['english'] changed from True to False.
+Value of root[914]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[914]['english'] changed from True to False.
+Value of root[915]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[915]['english'] changed from True to False.
+Value of root[920]['description'] changed from "《講授類》
+限企管系(含雙主修、輔系)；併班上課" to "《講授類》
+限企管系(含雙主修、輔系)；併班上課 ※英語授課".
+Value of root[920]['english'] changed from True to False.
+Value of root[921]['description'] changed from "《講授類》
+限企管系(含雙主修、輔系)；併班上課" to "《講授類》
+限企管系(含雙主修、輔系)；併班上課 ※英語授課".
+Value of root[921]['english'] changed from True to False.
+Value of root[1022]['description'] changed from "《講授類》
+與生科系英語組併班" to "《講授類》
+與生科系英語組併班
+※英語授課".
+Value of root[1022]['english'] changed from True to False.
+Value of root[1119]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1119]['english'] changed from True to False.
+Value of root[1144]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1144]['english'] changed from True to False.
+Value of root[1149]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1149]['english'] changed from True to False.
+Value of root[1170]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1170]['english'] changed from True to False.
+Value of root[1280]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1280]['english'] changed from True to False.
+Value of root[1431]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1431]['english'] changed from True to False.
+Value of root[1722]['description'] changed from "《講授類》
+與電機碩併班上課" to "《講授類》
+與電機碩併班上課
+※英語授課".
+Value of root[1722]['english'] changed from True to False.
+Value of root[1724]['description'] changed from "《講授類》
+與電機碩併班上課" to "《講授類》
+與電機碩併班上課
+※英語授課".
+Value of root[1724]['english'] changed from True to False.
+Value of root[1725]['description'] changed from "《講授類》
+與電機碩併班上課" to "《講授類》
+與電機碩併班上課
+※英語授課".
+Value of root[1725]['english'] changed from True to False.
+Value of root[1726]['description'] changed from "《講授類》
+與電機碩併班上課" to "《講授類》
+與電機碩併班上課
+※英語授課".
+Value of root[1726]['english'] changed from True to False.
+Value of root[1862]['description'] changed from "《講授類》
+與GHRM併班" to "《講授類》
+與GHRM併班
+※英語授課".
+Value of root[1862]['english'] changed from True to False.
+Value of root[1889]['description'] changed from "《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。" to "《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。 
+※英語授課".
+Value of root[1889]['english'] changed from True to False.
+Value of root[1924]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1924]['english'] changed from True to False.
+Value of root[1926]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1926]['english'] changed from True to False.
+Value of root[1948]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1948]['english'] changed from True to False.
+Value of root[1974]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1974]['english'] changed from True to False.
+Value of root[2071]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2071]['english'] changed from True to False.
+Value of root[2116]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2116]['english'] changed from True to False.
+Value of root[2127]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2127]['english'] changed from True to False.
+Value of root[2146]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2146]['english'] changed from True to False.
+Value of root[2162]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2162]['english'] changed from True to False.
+Value of root[2164]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2164]['english'] changed from True to False.
+Value of root[2246]['description'] changed from "《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。" to "《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課".
+Value of root[2246]['english'] changed from True to False.
+Value of root[2692]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2692]['english'] changed from True to False.
+Value of root[2693]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2693]['english'] changed from True to False.
+Value of root[2694]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2694]['english'] changed from True to False.
+Value of root[2695]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2695]['english'] changed from True to False.
+Value of root[2702]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2702]['english'] changed from True to False.
