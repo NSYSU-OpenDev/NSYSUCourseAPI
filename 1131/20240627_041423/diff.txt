@@ -1,0 +1,7 @@
+Type of root[1147]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1147]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額6/27".
+Type of root[2103]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2103]['changeDescription'] changed from NoneType to str and value changed from None to "更換主授教師6/27".
+Value of root[1147]['restrict'] changed from 50 to 20.
+Value of root[1147]['remaining'] changed from 50 to 20.
+Value of root[2103]['teacher'] changed from "葉高華" to "林傳凱".
