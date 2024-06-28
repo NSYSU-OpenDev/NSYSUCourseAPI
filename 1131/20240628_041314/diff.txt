@@ -1,0 +1,2 @@
+Type of root[167]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[167]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師6/28".
