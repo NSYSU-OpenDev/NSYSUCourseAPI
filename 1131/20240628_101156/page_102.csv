@@ -1,0 +1,28 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=UT543&Crsname=模糊邏輯控制與水下載具應用,,,False,海下科技碩,UT543,0,不分班,模糊邏輯控制與水下載具應用,3,期,False,50,0,0,50,周佑誠,海MA 2052,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=UT632&Crsname=水中聲學專題研究（一）,,,False,海下科技碩,UT632,0,不分班,水中聲學專題研究（一）,2,期,False,50,0,0,50,"魏瑞昌,周佑誠,王兆璋,謝孟璋,邱永盛,陳信宏",海MA 2052,"['34', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=UT633&Crsname=水下機電專題研究（一）,,,False,海下科技碩,UT633,0,不分班,水下機電專題研究（一）,2,期,False,50,0,0,50,"周佑誠,王兆璋,謝孟璋,邱永盛,陳信宏,魏瑞昌",海MA 2052,"['12', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEC501A&Crsname=海洋生態與保育專題討論（一）,,,False,海生保育碩,MEC501A,1,不分班,海洋生態與保育專題討論（一）,1,期,True,50,0,0,50,林裕䕒,海MA 1005,"['', '', '6', '', '', '', '']","《研討類》
+與DO684共同授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEC503A&Crsname=海洋生態與保育專題研究（一）,,,False,海生保育碩,MEC503A,2,不分班,海洋生態與保育專題研究（一）,3,期,True,50,0,0,50,"陳孟仙,劉莉蓮,廖德裕,張揚祺,張至維,徐華遜,林裕,洪慶章,陳慶能",海MA 1020,"['', 'A', 'A', 'A', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEC506&Crsname=海上實習,,,False,海生保育碩,MEC506,0,不分班,海上實習,1,期,False,50,0,0,50,"洪慶章,塗子萱,李逸環",海MA 3020,"['67', '', '', '', '', '', '']","《實習類》
+與DO502併班",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEC507&Crsname=海洋學導論,,,False,海生保育碩,MEC507,0,不分班,海洋學導論,3,期,False,50,0,0,50,慕樂凡,海MA 1020,"['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEC508&Crsname=海洋生態與保育專題討論（三）,,,False,海生保育碩,MEC508,0,不分班,海洋生態與保育專題討論（三）,1,期,False,50,0,0,50,陳孟仙,海MB 3013,"['', '', '7', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEC513A&Crsname=海洋生物多樣性與保育（一）,,,False,海生保育碩,MEC513A,1,不分班,海洋生物多樣性與保育（一）,2,期,True,50,0,0,50,劉商隱,海MB 2016,"['', '', '34', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEC514A&Crsname=海洋保育個案研析,,,False,海生保育碩,MEC514A,1,不分班,海洋保育個案研析,3,期,True,50,0,0,50,"陳孟仙,林裕",海MA 3020,"['', '', '', '', '567', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEC520&Crsname=生物統計,,,False,海生保育碩,MEC520,1,不分班,生物統計,3,期,True,50,0,0,50,林裕䕒,海MA 3020,"['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEC522&Crsname=軟骨魚類特論,,,False,海生保育碩,MEC522,0,不分班,軟骨魚類特論,2,期,False,50,0,0,50,徐華遜,海MA 3020,"['', '234', '', '', '', '', '']","《講授類》
+每週教室有異，請留意開課通知",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=OWP502&Crsname=離岸風電書報討論（一）,,,False,離岸風電碩,OWP502,1,不分班,離岸風電書報討論（一）,2,期,False,50,0,0,50,李賢華,海ME 3002,"['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=OWP504&Crsname=離岸風電書報討論（三）,,,False,離岸風電碩,OWP504,2,不分班,離岸風電書報討論（三）,2,期,False,50,0,0,50,王右仁,海ME 3002,"['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=OWP513&Crsname=離岸浮式構造物工程導論,,,False,離岸風電碩,OWP513,1,不分班,離岸浮式構造物工程導論,3,期,False,50,0,0,50,林俊宏,海ME 2005,"['', '', '234', '', '', '', '']",《講授類》,['海事工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=OWP515&Crsname=離岸風電工程開發實務,,,False,離岸風電碩,OWP515,1,不分班,離岸風電工程開發實務,3,期,False,50,0,0,50,王右仁,海ME 2001,"['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS501&Crsname=台灣政府與政治,,,False,政治碩,IPS501,0,不分班,台灣政府與政治,3,期,False,50,0,0,50,杜坤峰,社SS 3010-2,"['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課",['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS507&Crsname=社會科學方法論,,,True,政治碩,IPS507,1,不分班,社會科學方法論,3,期,True,50,0,0,50,陳宗巖,社SS 3010-2,"['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS508&Crsname=資料分析方法入門,,,False,政治碩,IPS508,0,不分班,資料分析方法入門,3,期,False,50,0,0,50,黃韋豪,社SS 3010-1,"['', '', '234', '', '', '', '']",《講授類》,['政經大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS518&Crsname=政治理論與思想史,,,True,政治碩,IPS518,1,不分班,政治理論與思想史,3,期,True,50,0,0,50,楊尚儒,社SS 3010-2,"['', '567', '', '', '', '', '']",《講授類》,[],False
