@@ -1,0 +1,25 @@
+Item root[1002]['classTime'][4] added to iterable.
+Item root[1003]['classTime'][1] added to iterable.
+Item root[1004]['classTime'][2] added to iterable.
+Item root[1005]['classTime'][4] added to iterable.
+Item root[1006]['classTime'][3] added to iterable.
+Item root[1007]['classTime'][3] added to iterable.
+Item root[1008]['classTime'][2] added to iterable.
+Repetition change for item root[1002]['classTime'][0].
+Repetition change for item root[1003]['classTime'][0].
+Repetition change for item root[1004]['classTime'][0].
+Repetition change for item root[1005]['classTime'][0].
+Repetition change for item root[1006]['classTime'][0].
+Repetition change for item root[1007]['classTime'][0].
+Repetition change for item root[1008]['classTime'][0].
+Value of root[1002]['teacher'] changed from "葉淑娟" to "葉淑娟,蔡錦昌".
+Value of root[1002]['room'] changed from "" to "五6(管CM 4069)".
+Value of root[1003]['teacher'] changed from "蔡佳芬" to "蔡佳芬,王昭文,蔡維哲".
+Value of root[1003]['room'] changed from "" to "二B(網路大學)".
+Value of root[1004]['room'] changed from "" to "三B(網路大學)".
+Value of root[1005]['room'] changed from "" to "五B(網路大學)".
+Value of root[1006]['room'] changed from "" to "四B(網路大學)".
+Value of root[1007]['teacher'] changed from "王豫萱" to "王豫萱,王致遠,謝慧賢,鄭安授,陳世哲".
+Value of root[1007]['room'] changed from "" to "四A(網路大學)".
+Value of root[1008]['teacher'] changed from "王豫萱" to "王豫萱,王致遠,鄭安授".
+Value of root[1008]['room'] changed from "" to "三A(網路大學)".
