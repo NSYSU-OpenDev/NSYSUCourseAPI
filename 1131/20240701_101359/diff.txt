@@ -1,0 +1,3 @@
+Item root[1144] removed from iterable.
+Value of root[2392]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IOE619&Crsname=高等教育校務研究專題" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IOE994&Crsname=高等教育校務研究專題".
+Value of root[2392]['id'] changed from "IOE619" to "IOE994".
