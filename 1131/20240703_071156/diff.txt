@@ -1,0 +1,12 @@
+Item root[1137] added to iterable.
+Type of root[2009]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2009]['changeDescription'] changed from NoneType to str and value changed from None to "修正備註說明7/3".
+Type of root[2010]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2010]['changeDescription'] changed from NoneType to str and value changed from None to "修正備註說明7/3".
+Value of root[1116]['teacher'] changed from "待聘" to "顏孟芬".
+Value of root[2009]['description'] changed from "《講授類》
+與DO206併班上課。" to "《講授類》
+選修「應用統計學(一)」課程需同時選修「應用統計學實習(一)」課程。與DO206併班上課。".
+Value of root[2010]['description'] changed from "《實習類》
+與DO207併班上課。" to "《實習類》
+選修「應用統計學實習(一)」課程需同時選修「應用統計學(一)」課程。與DO207併班上課。".
