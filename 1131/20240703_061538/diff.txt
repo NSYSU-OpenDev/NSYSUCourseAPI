@@ -1,0 +1,38 @@
+Item root[2035]['tags'][0] added to iterable.
+Item root[2035]['tags'][1] added to iterable.
+Item root[2035]['tags'][2] added to iterable.
+Type of root[359]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[359]['changeDescription'] changed from NoneType to str and value changed from None to "確認教室7/3".
+Type of root[360]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[360]['changeDescription'] changed from NoneType to str and value changed from None to "確認教室7/3".
+Type of root[365]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[365]['changeDescription'] changed from NoneType to str and value changed from None to "確認教室7/3".
+Type of root[1010]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1010]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師7/3".
+Type of root[1116]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1116]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/3".
+Type of root[1173]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1173]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室7/3".
+Type of root[1177]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1177]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/3".
+Type of root[1576]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1576]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室7/3".
+Type of root[1578]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1578]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室7/3".
+Type of root[1641]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1641]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式7/3".
+Type of root[1948]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1948]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室7/3".
+Type of root[1954]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1954]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間7/3".
+Type of root[2035]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[2035]['changeDescription'] changed from NoneType to str and value changed from None to "7/3".
+Value of root[1010]['teacher'] changed from "顏孟芬" to "安大衛".
+Value of root[1641]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2035]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=OWP515&Crsname=離岸風電工程開發實務" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=OWP501&Crsname=離岸風電概論".
+Value of root[2035]['id'] changed from "OWP515" to "OWP501".
+Value of root[2035]['name'] changed from "離岸風電工程開發實務
+OFFSHORE WIND FARM DEVELOPMENT PRACTICES" to "離岸風電概論
+INTRODUCTION TO OFFSHORE WIND ENERGY".
