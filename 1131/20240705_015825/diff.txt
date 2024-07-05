@@ -1,0 +1,3 @@
+Item root[1860] added to iterable.
+Type of root[1860]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1860]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/5".
