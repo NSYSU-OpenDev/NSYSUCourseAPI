@@ -1,3 +1,0 @@
-Value of root[1968]['changeDescription'] changed from "更換時間6/28" to "更換時間及教室6/28".
-Value of root[2701]['changeDescription'] changed from "更換時間6/28" to "更換時間及教室6/28".
-Value of root[2702]['changeDescription'] changed from "更換時間6/28" to "更換時間及教室6/28".
