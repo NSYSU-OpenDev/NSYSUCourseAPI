@@ -1,0 +1,8 @@
+Item root[202] removed from iterable.
+Item root[287] removed from iterable.
+Type of root[286]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[286]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額7/9".
+Value of root[286]['restrict'] changed from 10 to 5.
+Value of root[286]['remaining'] changed from 10 to 5.
+Value of root[834]['teacher'] changed from "柯拉飛" to "希家史提夫".
+Value of root[911]['teacher'] changed from "柯拉飛" to "希家史提夫".
