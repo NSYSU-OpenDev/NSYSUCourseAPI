@@ -1,0 +1,62 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS313R&Crsname=物理研究專題（一）,,,True,物理系,PHYS313R,3,全英班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,True,50,0,0,50,范越芳,"三1,A,B(理PH 7011)","['', '', 'A1B', '', '', '', '']","《獨立研究》
+研究主題：Materials Physics & Electronic Surfaces，請事先與老師洽談。
+※英語授課",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS313S&Crsname=物理研究專題（一）,,,True,物理系,PHYS313S,3,全英班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,True,50,0,0,50,呂浩宇,"二1,A,B(理SC 2006-3)","['', 'A1B', '', '', '', '', '']","《獨立研究》
+研究主題：電波干涉天文原理與實務應用，請事先與老師洽談。
+※英語授課",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS313T&Crsname=物理研究專題（一）,新增,6/28,True,物理系,PHYS313T,3,全英班,"物理研究專題（一）
+INDEPENDENT STUDIES IN PHYSICS (I)",3,期,True,50,0,0,50,待聘,"三1,A,B(理PH 3001)","['', '', 'A1B', '', '', '', '']","《獨立研究》
+研究主題：量子磁性材料合成及物理特性研究，請事先與老師洽談。
+※英語授課",['半導體物理與先進元件分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS315&Crsname=科技專題演講（二）,,,False,物理系,PHYS315,3,不分班,"科技專題演講（二）
+COLLOQUIUM ON SCIENCE AND TECHNOLOGY (II)",1,期,False,50,0,0,50,杜立偉,四5(理PH 2006),"['', '', '', '5', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS334&Crsname=量子科技導論,,,False,物理系,PHYS334,3,全英班,"量子科技導論
+INTRODUCTION TO QUANTUM TECHNOLOGY",3,期,True,50,0,0,50,周雄,"三2,3,4(理PH 1009)","['', '', '234', '', '', '', '']","《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.
+※英語授課",['量子材料微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS409&Crsname=半導體奈米元件製造技術,,,False,物理系,PHYS409,4,不分班,"半導體奈米元件製造技術
+MANUFACTURING TECHNOLOGY OF SEMICONDUCTOR FOR NANO DEVICE",3,期,False,25,0,0,25,張鼎張,"一C,D,E(理PH 2006)","['CDE', '', '', '', '', '', '']",《講授類》,"['半導體化學學程', '半導體物理與先進元件分析微學程', '矽光子微學程', '半導體製程模組學程', '類比射頻IC設計學程', '半導體設備工程學程', '量子材料微學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS418&Crsname=論文專題（一）,,,False,物理系,PHYS418,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,0,50,陳易馨,"三1,A,B(理PH 6010)","['', '', 'A1B', '', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書.",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS418A&Crsname=論文專題（一）,,,False,物理系,PHYS418A,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,0,50,周雄,"一C,D,E(理PH 7008)","['CDE', '', '', '', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書.",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS418B&Crsname=論文專題（一）,,,False,物理系,PHYS418B,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,0,50,鍾佳民,"一1,A,B(理PH 6001)","['A1B', '', '', '', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書.",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS418C&Crsname=論文專題（一）,,,False,物理系,PHYS418C,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,0,50,洪昇廷,"四1,A,B(理PH 6008)","['', '', '', 'A1B', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書.",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS418D&Crsname=論文專題（一）,,,False,物理系,PHYS418D,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,0,50,郭政育,"一1,A,B(理PH 5005)","['A1B', '', '', '', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書.",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS418E&Crsname=論文專題（一）,,,False,物理系,PHYS418E,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,0,50,黃旭明,"二C,D,E(理PH 2008)","['', 'CDE', '', '', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書.",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS418F&Crsname=論文專題（一）,,,False,物理系,PHYS418F,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,0,50,張鼎張,"日5,6,7(理PH 7009)","['', '', '', '', '', '', '567']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書.",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS418G&Crsname=論文專題（一）,,,False,物理系,PHYS418G,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,0,50,盧怡穎,"三1,A,B(理PH 6009)","['', '', 'A1B', '', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS418H&Crsname=論文專題（一）,,,False,物理系,PHYS418H,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,0,50,莊豐權,"四1,A,B(理PH 4007)","['', '', '', 'A1B', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書.",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS418I&Crsname=論文專題（一）,,,False,物理系,PHYS418I,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,0,50,郭建成,"四1,A,B(理PH 2009)","['', '', '', 'A1B', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書.",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS418J&Crsname=論文專題（一）,,,False,物理系,PHYS418J,4,不分班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,0,50,呂浩宇,"三1,A,B(理SC 2006-3)","['', '', 'A1B', '', '', '', '']","《獨立研究》
+需先修習物理研究專題(二)，學生需於學期末提出論文計畫書.",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH101&Crsname=微積分（一）,,,False,應數系,MATH101,1,不分班,"微積分（一）
+CALCULUS (I)",4,期,True,50,0,0,50,黃毅青,"一2,3(理SC 2001) 四2,3(理SC 2001)","['23', '', '', '23', '', '', '']",《講授類》,"['人工智慧與數學學程', '應用數學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH101A&Crsname=微積分（一）,,,False,應數系,MATH101A,1,全英班,"微積分（一）
+CALCULUS (I)",4,期,True,50,0,0,50,待聘,"一2,3(理SC 0008) 四2,3(理SC 0008)","['23', '', '', '23', '', '', '']","《講授類》
+ 
+※英語授課","['人工智慧與數學學程', '應用數學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH103&Crsname=線性代數（一）,,,False,應數系,MATH103,1,不分班,"線性代數（一）
+LINEAR ALGEBRA(I)",3,期,True,50,0,0,50,翁鵬絜,"三6,7(理SC 2001) 四5(理SC 2001)","['', '', '67', '5', '', '', '']",《講授類》,"['人工智慧與數學學程', '應用數學學程']",False
