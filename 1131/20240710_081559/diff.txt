@@ -1,3 +1,0 @@
-Item root[936] removed from iterable.
-Type of root[764]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[764]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/10".

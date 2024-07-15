@@ -1,0 +1,32 @@
+Item root[2566]['classTime'][2] added to iterable.
+Item root[2258]['classTime'][1] added to iterable.
+Item root[2566]['classTime'][2] removed from iterable.
+Item root[2258]['classTime'][4] removed from iterable.
+Item root[2080] removed from iterable.
+Item root[2119] removed from iterable.
+Item root[2553] removed from iterable.
+Type of root[2566]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[2566]['changeDescription'] changed from NoneType to str and value changed from None to "7/15".
+Type of root[2259]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2259]['changeDescription'] changed from NoneType to str and value changed from None to "調降名額7/15".
+Type of root[2260]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2260]['changeDescription'] changed from NoneType to str and value changed from None to "調降名額7/15".
+Value of root[2566]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE721&Crsname=社會心理學" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=STP101&Crsname=教育心理學".
+Value of root[2566]['department'] changed from "教人全英博" to "中學學程".
+Value of root[2566]['id'] changed from "IGPE721" to "STP101".
+Value of root[2566]['name'] changed from "社會心理學
+SOCIAL PSYCHOLOGY" to "教育心理學
+EDUCATIONAL PSYCHOLOGY".
+Value of root[2566]['credit'] changed from "3" to "2".
+Value of root[2566]['restrict'] changed from 20 to 50.
+Value of root[2566]['remaining'] changed from 20 to 50.
+Value of root[2566]['room'] changed from "三2,3,4(社SS 2002-1)" to "三5,6(社SS 2001)".
+Value of root[2566]['description'] changed from "《講授類》" to "《講授類》
+本課程為教育學程課程".
+Value of root[2566]['english'] changed from True to False.
+Value of root[2258]['changeDescription'] changed from "更換教師及名額7/5" to "更換時間7/15".
+Value of root[2258]['room'] changed from "五2,3,4(國IR 6002J)" to "二6,7,8(國IR 6002J)".
+Value of root[2259]['restrict'] changed from 13 to 11.
+Value of root[2259]['remaining'] changed from 13 to 11.
+Value of root[2260]['restrict'] changed from 13 to 11.
+Value of root[2260]['remaining'] changed from 13 to 11.
