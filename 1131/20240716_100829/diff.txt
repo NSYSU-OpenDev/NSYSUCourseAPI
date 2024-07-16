@@ -1,0 +1,1 @@
+Value of root[1653]['teacher'] changed from "洪裕涵,于欽平,林元堯,洪玉珠,邱逸仁,黃文堯" to "洪裕涵".
