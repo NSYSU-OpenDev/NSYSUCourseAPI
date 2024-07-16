@@ -765,7 +765,7 @@ INTRODUCTION TO MATHEMATICS (I)",3,期,True,15,0,0,15,許柏翰,"三5(理SC 0008
 跨院通識與應數系MATH107A課程併班上課
 ※英語授課",['應用數學學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEAI1219&Crsname=科學史,,,False,跨院選修(理),GEAI1219,0,不分班,"科學史
-HISTORY OF SCIENCE",2,期,False,45,0,0,45,"郭政育,吳長益,郭政育,黃毅青","四8,9(理SC 1005)","['', '', '', '89', '', '', '']","《講授類》
+HISTORY OF SCIENCE",2,期,False,45,0,0,45,"郭政育,吳長益,黃毅青","四8,9(理SC 1005)","['', '', '', '89', '', '', '']","《講授類》
 理學院學生：課號SCI105，非理學院學生-跨院通識選修課號：GEAI1219。跨院通識與理學院SCI105課程併班上課",['應用數學學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEAI1233&Crsname=半導體奈米元件製造技術,,,False,跨院選修(理),GEAI1233,0,不分班,"半導體奈米元件製造技術
 MANUFACTURING TECHNOLOGY OF SEMICONDUCTOR FOR NANO DEVICE",3,期,False,25,0,0,25,張鼎張,"一C,D,E(理PH 2006)","['CDE', '', '', '', '', '', '']","《講授類》
@@ -2050,7 +2050,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH491
 INTRODUCTION TO ANALYSIS",3,期,False,50,0,0,50,陳志偉,"二3,4,B(理SC 4013)","['', '34B', '', '', '', '', '']","《講授類》
 與碩士班併班上課。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SCI105&Crsname=科學史,,,False,理學院,SCI105,0,不分班,"科學史
-HISTORY OF SCIENCE",2,期,False,45,0,0,45,"郭政育,吳長益,郭政育,黃毅青","四8,9(理SC 1005)","['', '', '', '89', '', '', '']","《講授類》
+HISTORY OF SCIENCE",2,期,False,45,0,0,45,"郭政育,吳長益,黃毅青","四8,9(理SC 1005)","['', '', '', '89', '', '', '']","《講授類》
 理學院學生：課號SCI105，非理學院學生-跨院通識選修課號：GEAI1219。",['應用數學學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1003&Crsname=微積分（一）,,,False,電機系,EE1003,1,甲班,"微積分（一）
 CALCULUS(I)",3,期,True,50,0,0,50,陳美如,"四2,3,4(工EC 2011)","['', '', '', '234', '', '', '']","《講授類》
@@ -4933,7 +4933,8 @@ STRATEGIC STAFFING",3,期,False,25,0,0,25,任金剛,"五6,7,8(CM 1036)","['', ''
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM674&Crsname=應用統計與資料分析,,,False,人管碩,HRM674,1,不分班,"應用統計與資料分析
 APPLIED STATISTICS AND DATA ANALYSIS",3,期,False,40,0,0,40,待聘,"四2,3,4(CM 2023)","['', '', '', '234', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICM507&Crsname=應用傳播統計學,,,False,行銷傳播碩,ICM507,0,不分班,"應用傳播統計學
-APPLIED STATISTICS IN COMMUNICATIONS",3,期,False,50,0,0,50,鄭安授,"四C,D,E(管CM 2023)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+APPLIED STATISTICS IN COMMUNICATIONS",3,期,False,30,0,0,30,鄭安授,"四C,D,E(管CM 2023)","['', '', '', 'CDE', '', '', '']","《講授類》
+限行傳所學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICM532&Crsname=電腦中介傳播,,,False,行銷傳播碩,ICM532,0,不分班,"電腦中介傳播
 COMPUTER-MEDIATED COMMUNICATION",3,期,False,50,0,0,50,王紹蓉,"四5,6,7(管CM 2032)","['', '', '', '567', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICM541&Crsname=品牌行銷,,,False,行銷傳播碩,ICM541,0,不分班,"品牌行銷
@@ -5635,8 +5636,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE560
 ARTIFICIAL INTELLIGENCE IN EDUCATION",3,期,False,30,0,0,30,陳菁徽,"四2,3,4(社SS 2002-1)","['', '', '', '234', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE601&Crsname=獨立研究,,,False,教人全英碩,IGPE601,2,不分班,"獨立研究
 INDEPENDENT STUDIES",3,期,True,5,0,0,5,艾玲,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI507&Crsname=文化創新理論,,,False,社會創新所,ISI507,0,不分班,"文化創新理論
-THEORIES OF CULTURAL INNOVATION",3,期,False,10,0,0,10,楊士奇,"二6,7,8(西SW 1003)","['', '678', '', '', '', '', '']",《講授類》,"['地方敘事與文化設計微學程', '地方敘事與創生學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI507&Crsname=文化創新理論,異動,調升名額7/16,False,社會創新所,ISI507,0,不分班,"文化創新理論
+THEORIES OF CULTURAL INNOVATION",3,期,False,30,0,0,30,楊士奇,"二6,7,8(西SW 1003)","['', '678', '', '', '', '', '']",《講授類》,"['地方敘事與文化設計微學程', '地方敘事與創生學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI516&Crsname=地方、草根創新與永續轉型,,,False,社會創新所,ISI516,0,不分班,"地方、草根創新與永續轉型
 PLACE AND GRASSROOTS INNOVATIONS FOR SUSTAINABILITY TRANSITIONS",3,期,False,30,0,0,30,賴慧玲,"三2,3,4(西SW 1004)","['', '', '234', '', '', '', '']","《講授類》
  
@@ -6906,40 +6907,40 @@ ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,�
 網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
 ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 企業管理組;
-網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 網大進行之非同步線上課程(二年級優先選課)","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
 ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
