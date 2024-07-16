@@ -1,0 +1,4 @@
+Type of root[2126]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2126]['changeDescription'] changed from NoneType to str and value changed from None to "調升名額7/16".
+Value of root[2126]['restrict'] changed from 10 to 30.
+Value of root[2126]['remaining'] changed from 10 to 30.
