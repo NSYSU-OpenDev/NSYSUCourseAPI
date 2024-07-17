@@ -1,7 +1,0 @@
-Item root[1172]['classTime'][1] added to iterable.
-Item root[1172]['classTime'][1] removed from iterable.
-Item root[1666] removed from iterable.
-Type of root[1653]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[1653]['changeDescription'] changed from NoneType to str and value changed from None to "取消合授教師7/16".
-Value of root[1172]['changeDescription'] changed from "更換教室7/3" to "更換時間7/16".
-Value of root[1172]['room'] changed from "二5,6,7(圖IL PC03)" to "二6,7,8(圖IL PC03)".

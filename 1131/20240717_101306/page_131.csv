@@ -12,6 +12,10 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS312&
 MARKETING MANAGEMENT",3,期,True,50,0,0,50,待聘,"二2,3,4(管CM 4069)","['', '234', '', '', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '音樂藝術管理與行銷學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS312&Crsname=行銷管理,,,True,資管系,MIS312,3,,"行銷管理
 MARKETING MANAGEMENT",3,期,True,50,0,0,50,待聘,"二2,3,4(管CM 4069)","['', '234', '', '', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '音樂藝術管理與行銷學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM304&Crsname=成本會計學,,,False,財管系,FM304,3,,"成本會計學
+COST ACCOUNTING",3,期,False,50,0,0,50,陳俐聿,"五2,3,4(管CM 3019)","['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課","['會計學程', '金融工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM411&Crsname=倫理與社會責任的理論與實務,,,False,管理學院,CM411,0,,"倫理與社會責任的理論與實務
 THEORY AND PRACTICE OF ETHICS AND SOCIAL",1,期,False,200,0,0,200,"王豫萱,王致遠,謝慧賢,鄭安授,陳世哲",四A(網路大學),"['', '', '', 'A', '', '', '']","《講授類》
 限管院生修習/網大進行之非同步線上課程","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
@@ -51,5 +55,3 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS534
 PLANT STRESS PHYSIOLOGY",3,期,False,50,0,0,50,陳顯榮,"五2,3,4(理BI 3001)","['', '', '', '', '234', '', '']",《講授類》,['海洋循環經濟學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS560&Crsname=高等植物分類學,,,False,生科碩,BIOS560,1,,"高等植物分類學
 ADVANCED PLANT TAXONOMY",3,期,False,50,0,0,50,劉世慧,"二2,3,4(理BI 6005)","['', '234', '', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS668&Crsname=生物地理學概論,,,False,生科碩,BIOS668,1,,"生物地理學概論
-INTRODUCTION TO BIOGEOGRAPHY",3,期,False,50,0,0,50,費卡契,"三2,3,4(理BI 6005)","['', '', '234', '', '', '', '']",《講授類》,[],True

@@ -1,4 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA946&Crsname=科技管理,,,False,人亞碩專,HRMA946,1,,"科技管理
+MANAGEMENT OF TECHNOLOGY",3,期,False,30,0,0,30,陳旻男,"三C,D,E(CM 3022)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA974&Crsname=應用統計與資料分析,,,False,人亞碩專,HRMA974,1,,"應用統計與資料分析
 APPLIED STATISTICS AND DATA ANALYSIS",3,期,False,30,0,0,30,李澄賢,"二C,D,E(CM 3051)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA983&Crsname=策略管理,,,False,人亞碩專,HRMA983,2,,"策略管理

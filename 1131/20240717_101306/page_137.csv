@@ -1,4 +1,10 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS518&Crsname=政治理論與思想史,,,True,政治碩,IPS518,1,,"政治理論與思想史
+POLITICAL
+THEORY AND
+HISTORY OF
+POLITICAL
+THOUGHT",3,期,True,50,0,0,50,楊尚儒,"二5,6,7(社SS 3010-2)","['', '567', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS530&Crsname=區域研究,,,False,政治碩,IPS530,0,,"區域研究
 AREA STUDIES",3,期,False,50,0,0,50,王群洋,"二2,3,4(社SS 3010-2)","['', '234', '', '', '', '', '']",《講授類》,['日本研究學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS531&Crsname=國際關係,,,True,政治碩,IPS531,1,,"國際關係
@@ -38,5 +44,3 @@ HUMAN RESOURCE MANAGEMENT",3,期,False,30,0,0,30,謝慧賢,"一C,D,E(CM 1036)","
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA914&Crsname=人力資源研究方法,,,False,人亞碩專,HRMA914,1,,"人力資源研究方法
 RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT",3,期,False,50,0,0,50,紀乃文,"五C,D,E(CM 3044)","['', '', '', '', 'CDE', '', '']","《講授類》
 限暑假已參與課程者修課",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA946&Crsname=科技管理,,,False,人亞碩專,HRMA946,1,,"科技管理
-MANAGEMENT OF TECHNOLOGY",3,期,False,30,0,0,30,陳旻男,"三C,D,E(CM 3022)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
