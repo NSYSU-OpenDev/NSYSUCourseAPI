@@ -1,4 +1,0 @@
-Value of root[259]['teacher'] changed from "郭政育,吳長益,郭政育,黃毅青" to "郭政育,吳長益,黃毅青".
-Value of root[704]['teacher'] changed from "郭政育,吳長益,郭政育,黃毅青" to "郭政育,吳長益,黃毅青".
-Value of root[1833]['description'] changed from "《講授類》" to "《講授類》
-限行傳所學生選修".
