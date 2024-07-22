@@ -1,0 +1,45 @@
+Item root[1218]['classTime'][0] added to iterable.
+Item root[1679]['classTime'][0] added to iterable.
+Item root[1823]['classTime'][5] added to iterable.
+Item root[2634]['classTime'][0] added to iterable.
+Item root[1218]['classTime'][0] removed from iterable.
+Item root[1679]['classTime'][3] removed from iterable.
+Item root[1823]['classTime'][4] removed from iterable.
+Item root[1823]['classTime'][5] removed from iterable.
+Item root[2634]['classTime'][3] removed from iterable.
+Item root[316] removed from iterable.
+Item root[1124] removed from iterable.
+Repetition change for item root[1823]['classTime'][0].
+Type of root[357]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[357]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額7/22".
+Type of root[361]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[361]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額7/22".
+Type of root[825]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[825]['changeDescription'] changed from NoneType to str and value changed from None to "更換主授教師7/22".
+Type of root[1218]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1218]['changeDescription'] changed from NoneType to str and value changed from None to "確認時數7/22".
+Type of root[1679]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1679]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室7/22".
+Type of root[2634]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2634]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室7/22".
+Value of root[34]['select'] changed from 0 to 1.
+Value of root[35]['select'] changed from 1 to 2.
+Value of root[45]['select'] changed from 0 to 1.
+Value of root[51]['select'] changed from 0 to 1.
+Value of root[53]['select'] changed from 0 to 1.
+Value of root[59]['select'] changed from 0 to 1.
+Value of root[65]['select'] changed from 0 to 1.
+Value of root[86]['select'] changed from 0 to 1.
+Value of root[357]['restrict'] changed from 50 to 35.
+Value of root[357]['remaining'] changed from 50 to 35.
+Value of root[361]['restrict'] changed from 50 to 35.
+Value of root[361]['remaining'] changed from 50 to 35.
+Value of root[686]['selected'] changed from 23 to 22.
+Value of root[686]['remaining'] changed from 27 to 28.
+Value of root[825]['teacher'] changed from "汪正祺,劉耿豪,林哲信,胡龍豪,許煜亮,許聖彥" to "林哲信,劉耿豪,汪正祺,胡龍豪,許煜亮,許聖彥".
+Value of root[887]['teacher'] changed from "周明奇" to "徐瑞鴻".
+Value of root[1110]['teacher'] changed from "劉莉蓮,吳岱穎,張水鍇,徐韶良" to "劉莉蓮,張水鍇".
+Value of root[1110]['description'] changed from "《講授類》" to "《講授類》
+共同授課業界專家：海洋國家公園管理處徐韶良處長、吳岱穎技士。".
+Value of root[1679]['room'] changed from "四2,3,4(工MS 4025)" to "一6,7,8(工MS 4025)".
+Value of root[2634]['room'] changed from "四2,3,4(工MS 4025)" to "一6,7,8(工MS 4025)".
