@@ -2,7 +2,7 @@ url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,c
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE3009A&Crsname=電工實驗（五）,,,False,電機系,EE3009A,4,乙班,"電工實驗（五）
 ELECTRICAL ENGINEERING LAB. (V)",1,期,True,56,0,50,6,"王復康,溫朝凱","三5,6,7(工EC 6018)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE3009B&Crsname=電工實驗（五）,,,False,電機系,EE3009B,4,全英班,"電工實驗（五）
-ELECTRICAL ENGINEERING LAB. (V)",1,期,True,50,0,25,25,"王復康,溫朝凱","二5,6,7(工EC 6018)(實驗)","['', '567', '', '', '', '', '']",《實驗類》,[],True
+ELECTRICAL ENGINEERING LAB. (V)",1,期,True,50,0,24,26,"王復康,溫朝凱","二5,6,7(工EC 6018)(實驗)","['', '567', '', '', '', '', '']",《實驗類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE3102&Crsname=電子學（三）,,,False,電機系,EE3102,3,不分班,"電子學（三）
 ELECTRONICS (III)",3,期,False,50,0,0,50,陳有德,"三2,3,4(工EC 3014)","['', '', '234', '', '', '', '']",《講授類》,['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE3106&Crsname=半導體元件（一）,,,False,電機系,EE3106,3,不分班,"半導體元件（一）
