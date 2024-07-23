@@ -1,0 +1,52 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME401A&Crsname=熱流實驗,,,False,機電系,MEME401A,4,乙班,"熱流實驗
+THERMALFLUIDS EXPERIMENT",1,期,True,60,0,48,12,許聖彥,"四2,3,4(工EN 4055-1)(實驗)","['', '', '', '234', '', '', '']","《實驗類》
+四甲、四乙、四英併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME401B&Crsname=熱流實驗,,,False,機電系,MEME401B,4,全英班,"熱流實驗
+THERMALFLUIDS EXPERIMENT",1,期,True,60,0,22,38,許聖彥,"四2,3,4(工EN 4055-1)(實驗)","['', '', '', '234', '', '', '']","《實驗類》
+四甲、四乙、四英併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME403&Crsname=有限元素法概論,,,False,機電系,MEME403,3,不分班,"有限元素法概論
+INTRODUCTION TO FINITE ELEMENT METHOD",3,期,False,50,0,0,50,吳美玲,"二5,6,7(工EN 4055-2)","['', '567', '', '', '', '', '']",《講授類》,['南星產業樞紐學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME410&Crsname=工程日文（一）,,,False,機電系,MEME410,4,不分班,"工程日文（一）
+ENGINEERING JAPANESE (I)",3,期,False,50,0,0,50,黃永茂,"三2,3,4(工EN 3021)","['', '', '234', '', '', '', '']",《講授類》,['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME429&Crsname=機電實務專案,異動,更換主授教師7/22,False,機電系,MEME429,4,甲班,"機電實務專案
+PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,45,5,"林哲信,劉耿豪,汪正祺,胡龍豪,許煜亮,許聖彥",一A()(實驗) 四1()(實驗) 五1()(實驗),"['A', '', '', '1', '1', '', '']",《實習類》,['太空科技微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME429A&Crsname=機電實務專案,,,False,機電系,MEME429A,4,乙班,"機電實務專案
+PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,48,2,"蔡尚南,嚴成文,潘正堂,鄭威利",一A()(實驗) 四1()(實驗) 五1()(實驗),"['A', '', '', '1', '1', '', '']",《實習類》,['太空科技微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME429B&Crsname=機電實務專案,,,False,機電系,MEME429B,4,全英班,"機電實務專案
+PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,22,28,"王郁仁,李伯軒,程正",一A()(實驗) 四1()(實驗) 五1()(實驗),"['A', '', '', '1', '1', '', '']","《實習類》
+ 
+※英語授課",['太空科技微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME430&Crsname=電腦輔助熱流工程分析,,,False,機電系,MEME430,4,不分班,"電腦輔助熱流工程分析
+COMPUTER AIDED THERMAL-FLUID ENGINEERING",3,期,False,50,0,0,50,許聖彥,"二2,3,4(工EN 4055-2)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE102&Crsname=Ｃ程式設計實驗（一）,,,False,資工系,CSE102,1,不分班,"Ｃ程式設計實驗（一）
+C COMPUTER PROGRAMMING LABORATORY（I）",1,期,True,60,0,3,57,蔣依吾,"四5,6,7(圖IL PC02, PC03)(實驗)","['', '', '', '567', '', '', '']","《實驗類》
+限本系學生修習",['機器學習與多媒體技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE104&Crsname=微積分,,,False,資工系,CSE104,1,不分班,"微積分
+CALCULUS",3,期,True,60,0,3,57,程正傑,"三5,6,7(工EC 9032)","['', '', '567', '', '', '', '']","《講授類》
+限本系學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE110&Crsname=離散數學,,,False,資工系,CSE110,1,不分班,"離散數學
+DISCRETE MATHEMATICS",3,期,True,60,0,3,57,范俊逸,"五2,3,4(工EC 1009)","['', '', '', '', '234', '', '']",《講授類》,['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE131&Crsname=Ｃ程式設計（一）,,,False,資工系,CSE131,1,不分班,"Ｃ程式設計（一）
+C COMPUTER PROGRAMMING（I）",3,期,True,60,0,3,57,蔣依吾,"四2,3,4(工EC 9032)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['半導體設備工程學程', '公共交通行動服務微學程', '智慧城市與智慧運輸學程', '軟體工程學程', '機器學習與多媒體技術學程', '自然科學之程式應用學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE201&Crsname=AI輔助程式設計,,,False,資工系,CSE201,3,不分班,"AI輔助程式設計
+PROGRAMMING WITH AI-ASSISTANCE TOOLS",3,期,False,50,0,0,50,希家史提夫,"一6,7,8(工EC 9013)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE210&Crsname=線性代數,異動,更換教師7/9,False,資工系,CSE210,2,不分班,"線性代數
+LINEAR ALGEBRA",3,期,True,60,0,57,3,希家史提夫,"三5,6,7(工EC 5012)","['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課","['金融工程學程', '機器學習與應用微學程', '機器學習與多媒體技術學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE215&Crsname=資料結構,,,False,資工系,CSE215,2,不分班,"資料結構
+DATA STRUCTURES",3,期,True,60,0,57,3,楊昌彪,"一6,7,8(工EC 9032)","['678', '', '', '', '', '', '']",《講授類》,"['軟體工程學程', '巨量資料分析學程', '金融科技學程', '自然科學之程式應用學程', '計算物理及人工智慧微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE220&Crsname=數位系統,,,False,資工系,CSE220,2,不分班,"數位系統
+DIGITAL SYSTEM",3,期,True,60,0,57,3,鄺獻榮,"二2,3,4(工EC 1006)","['', '234', '', '', '', '', '']",《講授類》,"['機器學習與多媒體技術學程', '數位IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE221&Crsname=數位系統實驗,,,False,資工系,CSE221,2,不分班,"數位系統實驗
+DIGITAL SYSTEM LABORATORY",1,期,True,60,0,57,3,鄺獻榮,"一2,3,4(圖IL PC03)(實驗)","['234', '', '', '', '', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE301&Crsname=資訊工程論壇,,,False,資工系,CSE301,3,不分班,"資訊工程論壇
+COMPUTER SCIENCE AND ENGINEERING FORUM",1,期,True,60,0,58,2,王友群,一5(工EC 5012),"['5', '', '', '', '', '', '']","《演講/參訪》
+限本系大三學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE310&Crsname=組合語言與微處理機,,,False,資工系,CSE310,3,不分班,"組合語言與微處理機
+ASSEMBLY LANGUAGE AND MICROCOMPUTER",3,期,True,60,0,58,2,張雲南,"四6,7,8(工EC 5012)","['', '', '', '678', '', '', '']",《講授類》,['自然科學之程式應用學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE312&Crsname=組合語言與微處理機實驗,,,False,資工系,CSE312,3,不分班,"組合語言與微處理機實驗
+ASSEMBLY LANGUAGE AND MICROCOMPUTER LABORATORY",1,期,True,60,0,58,2,張雲南,"五2,3,4(圖IL PC03)(實驗)","['', '', '', '', '234', '', '']",《實驗類》,[],False
