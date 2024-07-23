@@ -1,0 +1,13 @@
+Item root[362] added to iterable.
+Type of root[1033]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1033]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/23".
+Type of root[2221]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2221]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/23".
+Type of root[2224]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2224]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/23".
+Type of root[2228]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2228]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/23".
+Type of root[2231]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2231]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/23".
+Type of root[2554]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2554]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/23".
