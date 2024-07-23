@@ -1,0 +1,5 @@
+Type of root[1822]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1822]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額7/23".
+Value of root[1192]['teacher'] changed from "甘祐瑜,劉婷婷,黃玄贏" to "甘祐瑜,劉婷婷,陳彥旭,黃玄贏".
+Value of root[1822]['restrict'] changed from 50 to 5.
+Value of root[1822]['remaining'] changed from 50 to 5.
