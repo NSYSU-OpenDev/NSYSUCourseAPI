@@ -1,0 +1,53 @@
+Type of root[1040]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1040]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/30".
+Type of root[1911]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1911]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/30".
+Type of root[1916]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1916]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/30".
+Type of root[1918]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1918]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/30".
+Type of root[1935]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1935]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/30".
+Type of root[2506]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2506]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/30".
+Type of root[2515]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2515]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/30".
+Type of root[2691]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2691]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/30".
+Type of root[2692]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2692]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/30".
+Value of root[0]['select'] changed from 3 to 4.
+Value of root[28]['select'] changed from 0 to 1.
+Value of root[35]['select'] changed from 1 to 2.
+Value of root[49]['select'] changed from 1 to 2.
+Value of root[54]['select'] changed from 0 to 1.
+Value of root[59]['select'] changed from 2 to 3.
+Value of root[76]['select'] changed from 0 to 1.
+Value of root[98]['select'] changed from 0 to 1.
+Value of root[117]['select'] changed from 2 to 3.
+Value of root[161]['select'] changed from 1 to 2.
+Value of root[184]['select'] changed from 1 to 2.
+Value of root[199]['select'] changed from 1 to 2.
+Value of root[375]['select'] changed from 1 to 2.
+Value of root[384]['select'] changed from 1 to 2.
+Value of root[908]['select'] changed from 1 to 2.
+Value of root[1040]['teacher'] changed from "蔡欣原,待聘" to "蔡欣原,水晶".
+Value of root[1094]['select'] changed from 0 to 1.
+Value of root[1876]['select'] changed from 1 to 2.
+Value of root[1911]['teacher'] changed from "待聘" to "水晶".
+Value of root[1911]['english'] changed from False to True.
+Value of root[1916]['teacher'] changed from "待聘" to "水晶".
+Value of root[1918]['teacher'] changed from "待聘" to "水晶".
+Value of root[1935]['teacher'] changed from "待聘" to "水晶".
+Value of root[1935]['english'] changed from False to True.
+Value of root[2027]['select'] changed from 1 to 2.
+Value of root[2506]['teacher'] changed from "待聘" to "水晶".
+Value of root[2506]['english'] changed from False to True.
+Value of root[2512]['select'] changed from 1 to 2.
+Value of root[2515]['teacher'] changed from "待聘" to "水晶".
+Value of root[2515]['english'] changed from False to True.
+Value of root[2579]['select'] changed from 0 to 1.
+Value of root[2691]['teacher'] changed from "待聘" to "水晶".
+Value of root[2692]['teacher'] changed from "待聘" to "水晶".
+Value of root[2745]['select'] changed from 1 to 2.
+Value of root[2746]['select'] changed from 1 to 2.
