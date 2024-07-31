@@ -1,0 +1,22 @@
+Item root[1218]['classTime'][2] added to iterable.
+Item root[1220]['classTime'][0] added to iterable.
+Item root[1220]['classTime'][1] added to iterable.
+Item root[1220]['classTime'][3] added to iterable.
+Item root[1220]['classTime'][4] added to iterable.
+Item root[1220]['classTime'][2] added to iterable.
+Item root[1221]['classTime'][0] added to iterable.
+Item root[1221]['classTime'][1] added to iterable.
+Item root[1221]['classTime'][3] added to iterable.
+Item root[1221]['classTime'][4] added to iterable.
+Item root[1221]['classTime'][2] added to iterable.
+Item root[1225]['classTime'][3] removed from iterable.
+Repetition change for item root[1218]['classTime'][1].
+Repetition change for item root[1218]['classTime'][2].
+Repetition change for item root[1220]['classTime'][0].
+Repetition change for item root[1221]['classTime'][0].
+Repetition change for item root[1225]['classTime'][0].
+Type of root[1221]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1221]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Value of root[1220]['teacher'] changed from "待聘,待聘,待聘,待聘,待聘,待聘" to "張博智,待聘,待聘,待聘,待聘,待聘".
+Value of root[1221]['teacher'] changed from "待聘,待聘,待聘,待聘,待聘,待聘" to "林立德,待聘,待聘,待聘,待聘,待聘".
+Value of root[1225]['teacher'] changed from "待聘,待聘,待聘,待聘,待聘,待聘" to "劉亦修,待聘,待聘,待聘,待聘,待聘".
