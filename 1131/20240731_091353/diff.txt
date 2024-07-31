@@ -1,0 +1,44 @@
+Item root[375] added to iterable.
+Item root[1224]['classTime'][0] added to iterable.
+Item root[1224]['classTime'][1] added to iterable.
+Item root[1224]['classTime'][4] added to iterable.
+Item root[1224]['classTime'][2] added to iterable.
+Item root[1224]['classTime'][3] added to iterable.
+Repetition change for item root[1224]['classTime'][0].
+Type of root[1224]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1224]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Type of root[1229]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1229]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Value of root[1202]['description'] changed from "《講授類》" to "《講授類》
+限醫學院學生加選".
+Value of root[1203]['description'] changed from "《講授類》" to "《講授類》
+限醫學院學生加選".
+Value of root[1217]['teacher'] changed from "待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘" to "待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘".
+Value of root[1229]['teacher'] changed from "陳德全" to "陳德全,楊婉儀,王宏仁,王慧婷,蘇昱日".
+Value of root[1291]['select'] changed from 0 to 1.
+Value of root[1331]['select'] changed from 0 to 1.
+Value of root[1335]['select'] changed from 0 to 1.
+Value of root[1341]['select'] changed from 0 to 1.
+Value of root[1373]['select'] changed from 0 to 1.
+Value of root[1852]['select'] changed from 1 to 2.
+Value of root[1909]['select'] changed from 0 to 1.
+Value of root[2100]['select'] changed from 0 to 1.
+Value of root[2217]['select'] changed from 0 to 1.
+Value of root[2224]['select'] changed from 1 to 2.
+Value of root[2265]['select'] changed from 0 to 1.
+Value of root[2431]['select'] changed from 0 to 1.
+Value of root[2504]['select'] changed from 0 to 1.
+Value of root[2538]['select'] changed from 0 to 1.
+Value of root[2584]['select'] changed from 1 to 2.
+Value of root[2589]['select'] changed from 0 to 1.
+Value of root[2623]['select'] changed from 0 to 1.
+Value of root[2677]['select'] changed from 1 to 2.
+Value of root[2678]['select'] changed from 1 to 2.
+Value of root[2679]['select'] changed from 1 to 2.
+Value of root[2680]['select'] changed from 1 to 2.
+Value of root[2682]['select'] changed from 1 to 2.
+Value of root[2683]['select'] changed from 1 to 2.
+Value of root[2684]['select'] changed from 1 to 2.
+Value of root[2685]['select'] changed from 1 to 2.
+Value of root[2686]['select'] changed from 1 to 2.
+Value of root[2681]['select'] changed from 1 to 2.
