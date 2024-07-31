@@ -1,0 +1,49 @@
+Item root[355] added to iterable.
+Item root[2313] added to iterable.
+Type of root[32]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[32]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Type of root[211]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[211]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Type of root[212]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[212]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Type of root[520]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[520]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Type of root[527]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[527]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Type of root[538]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[538]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Type of root[1331]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1331]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Type of root[1332]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1332]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Type of root[1340]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1340]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式7/31".
+Value of root[32]['teacher'] changed from "待聘" to "蘇凰蘭".
+Value of root[211]['teacher'] changed from "待聘" to "方化雨".
+Value of root[212]['teacher'] changed from "待聘" to "陳金結".
+Value of root[241]['teacher'] changed from "待聘" to "廖志恒".
+Value of root[353]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。 
+※英語授課" to "《講授類》
+限非外文系。建議英文程度『中級』以上程度學生修習選課。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。 
+※英語授課".
+Value of root[517]['changeDescription'] changed from "更換教室6/25" to "確認教師7/31".
+Value of root[517]['teacher'] changed from "待聘" to "廖志恒".
+Value of root[520]['teacher'] changed from "待聘" to "約書亞沙發兒".
+Value of root[527]['teacher'] changed from "待聘" to "廖志恒".
+Value of root[538]['teacher'] changed from "待聘" to "約書亞沙發兒".
+Value of root[1331]['teacher'] changed from "待聘" to "約書亞沙發兒".
+Value of root[1331]['description'] changed from "《講授類》
+全英語授課" to "《講授類》".
+Value of root[1331]['english'] changed from False to True.
+Value of root[1332]['teacher'] changed from "待聘" to "約書亞沙發兒".
+Value of root[1332]['description'] changed from "《展演》
+全英語授課" to "《展演》".
+Value of root[1332]['english'] changed from False to True.
+Value of root[1340]['english'] changed from True to False.
+Value of root[1437]['select'] changed from 0 to 1.
+Value of root[2160]['select'] changed from 0 to 1.
+Value of root[2199]['select'] changed from 0 to 1.
+Value of root[2213]['select'] changed from 1 to 2.
+Value of root[2573]['select'] changed from 0 to 1.
+Value of root[2583]['select'] changed from 0 to 1.
