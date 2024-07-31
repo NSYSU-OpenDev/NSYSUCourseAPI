@@ -1,0 +1,9 @@
+Item root[1217]['classTime'][0] added to iterable.
+Item root[1217]['classTime'][1] added to iterable.
+Repetition change for item root[1217]['classTime'][0].
+Type of root[1204]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1204]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Value of root[1204]['teacher'] changed from "待聘,待聘,待聘,待聘,待聘,待聘" to "許堯欽,張嘉祐,陳貞吟".
+Value of root[1204]['description'] changed from "《講授類》" to "《講授類》
+限醫學院學生加選。".
+Value of root[1217]['teacher'] changed from "待聘,待聘,待聘,待聘,待聘,待聘" to "待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘,待聘".
