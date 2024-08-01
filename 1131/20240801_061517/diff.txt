@@ -1,0 +1,18 @@
+Item root[1867]['classTime'][3] added to iterable.
+Item root[1867]['tags'][0] added to iterable.
+Item root[1867]['tags'][1] added to iterable.
+Item root[942]['classTime'][2] added to iterable.
+Item root[1867]['classTime'][2] removed from iterable.
+Item root[942]['classTime'][3] removed from iterable.
+Value of root[1867]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM509&Crsname=管理會計學" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM315&Crsname=成本會計學".
+Value of root[1867]['changeDescription'] changed from "7/10" to "8/1".
+Value of root[1867]['department'] changed from "企企管碩" to "企管系".
+Value of root[1867]['id'] changed from "BM509" to "BM315".
+Value of root[1867]['grade'] changed from "0" to "3".
+Value of root[1867]['name'] changed from "管理會計學
+MANAGERIAL ACCOUNTING" to "成本會計學
+COST ACCOUNTING".
+Value of root[1867]['room'] changed from "三5,6,7(管CM 2025)" to "四2,3,4(管CM 2025)".
+Value of root[942]['changeDescription'] changed from "更換時間7/10" to "更換時間8/1".
+Value of root[942]['room'] changed from "四2,3,4(管CM 2025)" to "三5,6,7(管CM 2025)".
+Value of root[1220]['teacher'] changed from "待聘,待聘,待聘,待聘,待聘,待聘" to "周明岳,待聘,待聘,待聘,待聘,待聘".
