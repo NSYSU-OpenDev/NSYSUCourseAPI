@@ -1,0 +1,67 @@
+Item root[127] added to iterable.
+Item root[2278]['classTime'][3] added to iterable.
+Item root[2278]['tags'][0] added to iterable.
+Repetition change for item root[2278]['classTime'][0].
+Type of root[130]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[130]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室及名額8/1".
+Type of root[2278]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[2278]['changeDescription'] changed from NoneType to str and value changed from None to "8/1".
+Type of root[541]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[541]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/1".
+Type of root[2055]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2055]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/1".
+Type of root[2064]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2064]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/1".
+Type of root[2085]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2085]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/1".
+Type of root[2086]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2086]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/1".
+Type of root[2088]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2088]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/1".
+Type of root[2090]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2090]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/1".
+Type of root[2092]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2092]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/1".
+Type of root[2093]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2093]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/1".
+Type of root[2095]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2095]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/1".
+Type of root[2377]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2377]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/1".
+Type of root[2383]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2383]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/1".
+Type of root[2558]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2558]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/1".
+Type of root[2561]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2561]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/1".
+Value of root[130]['restrict'] changed from 60 to 50.
+Value of root[130]['remaining'] changed from 60 to 50.
+Value of root[130]['room'] changed from "五5,6(通GE 2006)" to "五5,6(文FA 3009)".
+Value of root[242]['room'] changed from "三3,4(文FA 2017)" to "二3,4(文FA 2017)".
+Value of root[2278]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MB002&Crsname=永續金融導論" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA191&Crsname=藝術概論".
+Value of root[2278]['department'] changed from "數位金融所" to "劇藝系".
+Value of root[2278]['id'] changed from "MB002" to "TA191".
+Value of root[2278]['name'] changed from "永續金融導論
+INTRODUCTION TO SUSTAINABLE FINANCE" to "藝術概論
+INTRODUCTION TO THE ARTS".
+Value of root[2278]['credit'] changed from "3" to "2".
+Value of root[2278]['compulsory'] changed from True to False.
+Value of root[2278]['select'] changed from 1 to 0.
+Value of root[2278]['teacher'] changed from "" to "王以亮".
+Value of root[2278]['room'] changed from "" to "四3,4(文FA 3007)".
+Value of root[541]['room'] changed from "三3,4(文FA 2017)" to "二3,4(文FA 2017)".
+Value of root[1918]['changeDescription'] changed from "確認教師7/30" to "更換授課方式8/1".
+Value of root[1918]['english'] changed from False to True.
+Value of root[2055]['room'] changed from "五2,3,4(社SS 3002-1)" to "一2,3,4(社SS 3002-1)".
+Value of root[2064]['room'] changed from "一2,3,4(社SS 3002-1)" to "五2,3,4(社SS 3002-1)".
+Value of root[2085]['teacher'] changed from "待聘" to "楊健弘".
+Value of root[2086]['teacher'] changed from "待聘" to "劉奇峯".
+Value of root[2088]['teacher'] changed from "待聘" to "林雅淇".
+Value of root[2090]['teacher'] changed from "待聘" to "陳盈雪".
+Value of root[2092]['teacher'] changed from "待聘" to "林雅淇".
+Value of root[2093]['teacher'] changed from "待聘" to "楊健弘".
+Value of root[2095]['teacher'] changed from "待聘" to "陳盈雪".
+Value of root[2377]['teacher'] changed from "李慶男" to "鄭子長".
+Value of root[2383]['teacher'] changed from "待聘" to "林雅淇".
+Value of root[2558]['teacher'] changed from "待聘" to "楊健弘".
+Value of root[2561]['teacher'] changed from "待聘" to "陳盈雪".
