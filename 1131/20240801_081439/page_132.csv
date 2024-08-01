@@ -1,0 +1,55 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MRSC114&Crsname=海洋基礎科學,,,False,海科院（學）,MRSC114,0,,"海洋基礎科學
+BASIC MARINE SCIENCES",2,期,True,150,0,0,150,"黃蔚人,林梅芳,陳冠宇","一6,7(海MA 3021)","['67', '', '', '', '', '', '']","《講授類》
+海資系、海工系及海科系大一必修。
+※英語授課","['擁海學程', '永續海洋休閒運動產業學程', '生物資訊與演化生態微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS532&Crsname=生物技術原理,,,False,生科碩,BIOS532,1,,"生物技術原理
+PRINCIPLES OF BIOTECHNOLOGY",3,期,False,50,0,0,50,陳顯榮,"二2,3,4(理BI 2002)","['', '234', '', '', '', '', '']",《講授類》,['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS534&Crsname=植物逆境生理學,,,False,生科碩,BIOS534,1,,"植物逆境生理學
+PLANT STRESS PHYSIOLOGY",3,期,False,50,0,0,50,陳顯榮,"五2,3,4(理BI 3001)","['', '', '', '', '234', '', '']",《講授類》,['海洋循環經濟學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS547&Crsname=演化生物學,,,False,生科碩,BIOS547,1,,"演化生物學
+EVOLUTIONARY BIOLOGY",3,期,False,50,0,0,50,江友中,"二C,D,E(理SC 3005)","['', 'CDE', '', '', '', '', '']",《講授類》,"['海洋生物資源與實務應用微學程', '環境教育學程', '生物技術學程', '海洋循環經濟學程', '生物多樣性學程', '海洋生物資源開發學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS560&Crsname=高等植物分類學,,,False,生科碩,BIOS560,1,,"高等植物分類學
+ADVANCED PLANT TAXONOMY",3,期,False,50,0,0,50,劉世慧,"二2,3,4(理BI 6005)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS668&Crsname=生物地理學概論,,,False,生科碩,BIOS668,1,,"生物地理學概論
+INTRODUCTION TO BIOGEOGRAPHY",3,期,False,50,0,0,50,費卡契,"三2,3,4(理BI 6005)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS672&Crsname=生物科學繪圖和圖形,,,False,生科碩,BIOS672,1,,"生物科學繪圖和圖形
+ILLUSTRATION AND GRAPHICS FOR BIOLOGICAL SCIENCES",3,期,False,50,1,0,50,費卡契,"二2,3,4(理BI 3001)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES503&Crsname=Ｘ光繞射學,,,False,材光碩,MOES503,0,,"Ｘ光繞射學
+X-RAY DIFFRACTION",3,期,False,50,0,0,50,王致傑,"二2,3,4(工MS 4019)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES505&Crsname=材料變形與破壞,,,False,材光碩,MOES505,0,,"材料變形與破壞
+DEFORMATION AND FRACTURE OF MATERIALS",3,期,False,50,0,0,50,郭哲男,"四6,7,8(工MS 2004)","['', '', '', '678', '', '', '']",《講授類》,"['半導體設備工程學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES506&Crsname=固態相變化,,,False,材光碩,MOES506,0,,"固態相變化
+PHASE TRANSFORMATION IN SOLIDS",3,期,False,50,0,0,50,張六文,"三4(工MS 4023) 四3,4(工MS 4023)","['', '', '4', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES508&Crsname=高分子合成與反應,,,False,材光碩,MOES508,0,,"高分子合成與反應
+SYNTHESIS AND REACTIONS OF POLYMERS",3,期,False,50,4,0,50,曼哈迪,"三C,D,E(工MS 4022)","['', '', 'CDE', '', '', '', '']","《講授類》
+ 
+※英語授課",['有機和材料合成學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES512&Crsname=半導體物理,,,False,材光碩,MOES512,0,,"半導體物理
+PHYSICS OF SEMICONDUCTOR",3,期,False,50,0,0,50,杭大任,"四C,D,E(工MS 4025)","['', '', '', 'CDE', '', '', '']","《講授類》
+初選限研究生",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES513&Crsname=波動光學,,,False,材光碩,MOES513,0,,"波動光學
+WAVE OPTICS",3,期,False,50,0,0,50,蘇威宏,"一4(工MS 4022) 四3,4(工MS 4022)","['4', '', '', '34', '', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES515&Crsname=電磁與量子物理,,,False,材光碩,MOES515,0,,"電磁與量子物理
+ELECTROMAGNETISM AND QUANTUM PHYSICS",3,期,False,50,0,0,50,杭大任,"三C,D,E(工MS 4025)","['', '', 'CDE', '', '', '', '']","《講授類》
+初選限研究生",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES541&Crsname=高分子檢測與分析,,,False,材光碩,MOES541,0,,"高分子檢測與分析
+POLYMER CHARACTERIZATION",3,期,False,50,0,0,50,葉昀昇,"四6,7,8(工MS 4019)","['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課","['有機和材料合成學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES543&Crsname=軟質材料,,,False,材光碩,MOES543,0,,"軟質材料
+SOFT MATERIALS",3,期,False,50,0,0,50,郭紹偉,"二6,7,8(工MS 4023)","['', '678', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES546&Crsname=電子顯微鏡於軟物質研究之應用,,,False,材光碩,MOES546,0,,"電子顯微鏡於軟物質研究之應用
+ELECTRON MICROSCOPY FOR SOFT MATERIALS",3,期,False,50,0,0,50,蔣酉旺,"二C,D,E(工MS 4023)","['', 'CDE', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES547&Crsname=半導體元件,,,False,材光碩,MOES547,0,,"半導體元件
+SEMICONDUCTOR DEVICE",3,期,False,50,0,0,50,蔡宗鳴,"四C,D,E(工MS 4022)","['', '', '', 'CDE', '', '', '']",《講授類》,"['半導體物理與先進元件分析微學程', '半導體製程模組學程', '類比射頻IC設計學程', '半導體設備工程學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES548&Crsname=半導體材料測試與分析,異動,更換教室7/22,False,材光碩,MOES548,0,,"半導體材料測試與分析
+CHARACTERIZATION OF SEMICONDUCTOR MATERIALS",3,期,False,50,0,0,50,徐瑞鴻,"一6,7,8(工MS 4025)","['678', '', '', '', '', '', '']",《講授類》,"['半導體設備工程學程', '半導體製程模組學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES557&Crsname=材料光譜分析,,,False,材光碩,MOES557,0,,"材料光譜分析
+SPECTROSCOPIC METHODS IN MATERIALS CHARACTERIZATION",3,期,False,50,0,0,50,徐瑞鴻,"三2,3,4(工MS 2004)","['', '', '234', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體元件學程']",False
