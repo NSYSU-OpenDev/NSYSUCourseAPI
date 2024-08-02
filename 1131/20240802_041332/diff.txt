@@ -1,0 +1,1 @@
+Value of root[1019]['room'] changed from "一2,3,4(海MB 3021)" to "一2,3,4(海MA 3021)".
