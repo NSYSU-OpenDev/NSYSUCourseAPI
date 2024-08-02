@@ -1,0 +1,20 @@
+Item root[1862]['classTime'][4] added to iterable.
+Item root[1862]['tags'][0] added to iterable.
+Item root[1862]['classTime'][4] removed from iterable.
+Item root[124] removed from iterable.
+Value of root[1862]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CM518&Crsname=法金業務與綠能授信實務" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=STP182&Crsname=探究與實作".
+Value of root[1862]['change'] changed from "異動" to "新增".
+Value of root[1862]['changeDescription'] changed from "更換教室7/23" to "8/2".
+Value of root[1862]['department'] changed from "管理學院(碩)" to "中學學程".
+Value of root[1862]['id'] changed from "CM518" to "STP182".
+Value of root[1862]['name'] changed from "法金業務與綠能授信實務
+CORPORATE BANKING AND GREEN LOAN PRACTICES" to "探究與實作
+INQUIRY AND PRACTICE".
+Value of root[1862]['credit'] changed from "1" to "2".
+Value of root[1862]['restrict'] changed from 24 to 50.
+Value of root[1862]['remaining'] changed from 24 to 50.
+Value of root[1862]['teacher'] changed from "張世賢" to "楊淑晴".
+Value of root[1862]['room'] changed from "" to "五5,B(社SS 2002-1)".
+Value of root[1862]['description'] changed from "《講授類》
+每次三小時密集授課，共6次" to "《講授類》
+本課程為教育學程課程".
