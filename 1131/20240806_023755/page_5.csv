@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE202&Crsname=運動與健康：初級集訓班,,,False,運動健康(必),GEPE202,2,不分班,"運動與健康：初級集訓班
+SPORT & HEALTH:BASIC ASSEMBLED TRAINING CLASS",1,期,True,100,0,0,100,"蔡宗晏,林國欽,林宗正,羅凱暘,蔡鋒樺,黃義博",一A() 三A(),"['A', '', 'A', '', '', '', '']","《體育類》
+限大二以上選修且本校校隊學生需自行加選；非校隊加選以零分計。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE203&Crsname=運動與健康：初級潛水,異動,更換時間8/6,False,運動健康(必),GEPE203,2,不分班,"運動與健康：初級潛水
+SPORT & HEALTH: BASIC DIVING",1,期,True,25,0,0,25,林宗正,"四3,4(游泳池/Swimming pool)","['', '', '', '34', '', '', '']","《體育類》
+限大二以上選修。",['永續海洋休閒運動產業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE203A&Crsname=運動與健康：初級潛水,,,False,運動健康(必),GEPE203A,2,不分班,"運動與健康：初級潛水
+SPORT & HEALTH: BASIC DIVING",1,期,True,25,0,0,25,林宗正,"五3,4(游泳池/Swimming pool)","['', '', '', '', '34', '', '']","《體育類》
+限大二以上選修。",['永續海洋休閒運動產業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE203B&Crsname=運動與健康：初級潛水,,,False,運動健康(必),GEPE203B,2,不分班,"運動與健康：初級潛水
+SPORT & HEALTH: BASIC DIVING",1,期,True,25,0,0,25,林宗正,"五6,7(游泳池/Swimming pool)","['', '', '', '', '67', '', '']","《體育類》
+限大二以上選修。",['永續海洋休閒運動產業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE204&Crsname=運動與健康：初級壘球,,,False,運動健康(必),GEPE204,2,不分班,"運動與健康：初級壘球
+SPORT & HEALTH: BASIC SOFT BALL",1,期,True,50,2,0,50,林宗正,"二8,9(壘球場/Softball field)","['', '89', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE205&Crsname=運動與健康：初級羽球,,,False,運動健康(必),GEPE205,2,不分班,"運動與健康：初級羽球
+SPORT & HEALTH: BASIC BADMINTON",1,期,True,50,0,0,50,林國欽,"一6,7(體育館3樓/3rd floors of Gym)","['67', '', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE205A&Crsname=運動與健康：初級羽球,,,False,運動健康(必),GEPE205A,2,不分班,"運動與健康：初級羽球
+SPORT & HEALTH: BASIC BADMINTON",1,期,True,50,0,0,50,林國欽,"一8,9(體育館3樓/3rd floors of Gym)","['89', '', '', '', '', '', '']","《體育類》
+游泳池/Swimming pool",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE208&Crsname=運動與健康：初級桌球,,,False,運動健康(必),GEPE208,2,不分班,"運動與健康：初級桌球
+SPORT & HEALTH: BASIC TABLE TENNIS",1,期,True,50,0,0,50,羅凱暘,"一6,7(桌球室/Table tennis room)","['67', '', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE208A&Crsname=運動與健康：初級桌球,,,False,運動健康(必),GEPE208A,2,不分班,"運動與健康：初級桌球
+SPORT & HEALTH: BASIC TABLE TENNIS",1,期,True,50,0,0,50,羅凱暘,"二6,7(桌球室/Table tennis room)","['', '67', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE210&Crsname=運動與健康：初級籃球,,,False,運動健康(必),GEPE210,2,不分班,"運動與健康：初級籃球
+SPORT & HEALTH: BASIC BASKETBALL",1,期,True,50,0,0,50,羅郁平,"三1,2(體育館3樓/3rd floors of Gym)","['', '', '12', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE210A&Crsname=運動與健康：初級籃球,,,False,運動健康(必),GEPE210A,2,不分班,"運動與健康：初級籃球
+SPORT & HEALTH: BASIC BASKETBALL",1,期,True,50,0,0,50,羅郁平,"三3,4(體育館3樓/3rd floors of Gym)","['', '', '34', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE211&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211,2,不分班,"運動與健康：初級墊上核心
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,許秀桃,"二6,7(韻律教室/Aerobics classroom)","['', '67', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE211A&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211A,2,不分班,"運動與健康：初級墊上核心
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,李佳倫,"二3,4(韻律教室/Aerobics classroom)","['', '34', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE211B&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211B,2,不分班,"運動與健康：初級墊上核心
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,李佳倫,"二5,B(韻律教室/Aerobics classroom)","['', 'B5', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE211C&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211C,2,不分班,"運動與健康：初級墊上核心
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,許秀桃,"三3,4(韻律教室/Aerobics classroom)","['', '', '34', '', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE211D&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211D,2,不分班,"運動與健康：初級墊上核心
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,李佳倫,"四3,4(韻律教室/Aerobics classroom)","['', '', '', '34', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE211E&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211E,2,不分班,"運動與健康：初級墊上核心
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,許秀桃,"四6,7(韻律教室/Aerobics classroom)","['', '', '', '67', '', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE212&Crsname=運動與健康：初級太極拳,,,False,運動健康(必),GEPE212,2,不分班,"運動與健康：初級太極拳
+SPORT & HEALTH: BASIC TAI-CHI CHUEN",1,期,True,50,0,0,50,曹德弘,"五5,B(韻律教室/Aerobics classroom)","['', '', '', '', 'B5', '', '']","《體育類》
+限大二以上選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE215&Crsname=運動與健康：初級帆船,,,False,運動健康(必),GEPE215,2,不分班,"運動與健康：初級帆船
+SPORT & HEALTH: BASIC YACHTING",1,期,True,25,2,0,25,蔡鋒樺,"一1,2(海域中心/Marine sports center)","['12', '', '', '', '', '', '']","《體育類》
+限大二以上選修。",['永續海洋休閒運動產業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE215A&Crsname=運動與健康：初級帆船,,,False,運動健康(必),GEPE215A,2,不分班,"運動與健康：初級帆船
+SPORT & HEALTH: BASIC YACHTING",1,期,True,25,0,0,25,蔡鋒樺,"一3,4(海域中心/Marine sports center)","['34', '', '', '', '', '', '']","《體育類》
+限大二以上選修。",['永續海洋休閒運動產業學程'],False
