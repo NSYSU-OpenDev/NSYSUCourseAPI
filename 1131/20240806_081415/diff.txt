@@ -1,0 +1,12 @@
+Item root[2135] added to iterable.
+Item root[2148] added to iterable.
+Type of root[2134]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2134]['changeDescription'] changed from NoneType to str and value changed from None to "更換合授教師8/6".
+Type of root[2137]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2137]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師8/6".
+Value of root[2134]['teacher'] changed from "鄭光宏,張玉泉,戴明泓,楊仁豪,莊博凱,薛佑玲,許晉銓" to "鄭光宏,張榮賢,張玉泉,戴明泓,楊仁豪,莊博凱,薛佑玲,許晉銓".
+Value of root[2137]['teacher'] changed from "鄭光宏" to "鄭光宏,張榮賢".
+Value of root[2139]['change'] changed from "新增" to "異動".
+Value of root[2139]['changeDescription'] changed from "6/27" to "更換教師及時間8/6".
+Value of root[2139]['teacher'] changed from "柯瓊媛" to "張榮賢".
+Value of root[2139]['room'] changed from "三2,3,4(國IR 4005)" to "五2,3,4(國IR 4014)".
