@@ -1,0 +1,26 @@
+Type of root[2]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2]['changeDescription'] changed from NoneType to str and value changed from None to "修正備註文字8/6".
+Type of root[316]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[316]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師8/6".
+Type of root[943]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[943]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/6".
+Type of root[1163]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1163]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師8/6".
+Value of root[316]['teacher'] changed from "邱文彬" to "邱文彬,馮雅群".
+Value of root[891]['selected'] changed from 28 to 27.
+Value of root[891]['remaining'] changed from 32 to 33.
+Value of root[893]['selected'] changed from 28 to 27.
+Value of root[893]['remaining'] changed from 37 to 38.
+Value of root[895]['selected'] changed from 28 to 27.
+Value of root[895]['remaining'] changed from 37 to 38.
+Value of root[897]['selected'] changed from 28 to 27.
+Value of root[897]['remaining'] changed from 23 to 24.
+Value of root[1025]['selected'] changed from 35 to 34.
+Value of root[1025]['remaining'] changed from 15 to 16.
+Value of root[1026]['selected'] changed from 35 to 34.
+Value of root[1026]['remaining'] changed from 15 to 16.
+Value of root[1034]['selected'] changed from 35 to 34.
+Value of root[1034]['remaining'] changed from 15 to 16.
+Value of root[1035]['selected'] changed from 35 to 34.
+Value of root[1035]['remaining'] changed from 15 to 16.
+Value of root[1163]['teacher'] changed from "邱文彬" to "邱文彬,馮雅群".
