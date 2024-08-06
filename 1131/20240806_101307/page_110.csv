@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IMST608&Crsname=長期照護技術特論,,,False,醫科碩,IMST608,1,不分班,"長期照護技術特論
+SPECIAL TOPICS IN TECHNOLOGY FOR LONG-TERM CARE",2,期,True,20,0,2,18,"袁建漢,李柏群","四7,8(國IR 1006-1)","['', '', '', '78', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IMST610&Crsname=醫用微機電系統,,,True,醫科碩,IMST610,1,不分班,"醫用微機電系統
+MICROELECTROMECHANICAL SYSTEM FOR MEDICAL APPLICATIONS",3,期,True,20,0,0,20,莊承鑫,"二2,3,4(國IR 5003)","['', '234', '', '', '', '', '']",《講授類》,['醫師工程師微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IMST611&Crsname=高齡AI睡眠及聽損,異動,增加合授教師7/22,False,醫科碩,IMST611,0,不分班,"高齡AI睡眠及聽損
+THE ARTIFICIAL INTELLIGENCE APPLICATION FOR SLEEP AND HEARING LOSS IN THE ELDERLY",2,期,False,10,0,0,10,"曾崇智,陳逸鴻","四3,4(國IR 4005)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS501&Crsname=書報討論（一）,,,False,生技醫藥碩,IBPS501,1,不分班,"書報討論（一）
+SEMINAR（I）",1,期,True,50,0,2,48,"待聘,余靈珊,孫羽佑,徐志文,施柏漳,黃建智",三3(國IR 4002),"['', '', '3', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS503&Crsname=生技醫藥智財與法規,,,False,生技醫藥碩,IBPS503,1,不分班,"生技醫藥智財與法規
+THE INTELLECTUAL PROPERTY AND REGULATION IN BIOPHARMACEUTICALS",2,期,True,50,0,2,48,"溫志宏,施柏漳","五3,4(國IR 5005)","['', '', '', '', '34', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS508&Crsname=毒理學,,,False,生技醫藥碩,IBPS508,0,不分班,"毒理學
+TOXIC RESPONSES OF ORGANS",3,期,False,50,2,0,50,施柏漳,"二6,7,8(國IR 5003)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS518&Crsname=醫藥研究動物模式與技術,,,False,生技醫藥碩,IBPS518,0,不分班,"醫藥研究動物模式與技術
+THE ANIMAL MODEL AND TECHNOLOGY IN BIOPHARMACEUTICAL RESEARCH",2,期,False,50,0,0,50,孫羽佑,"四3,4(國IR 5005)","['', '', '', '34', '', '', '']",《講授類》,['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS521&Crsname=癌症細胞自噬專題研究（一）,,,False,生技醫藥碩,IBPS521,0,不分班,"癌症細胞自噬專題研究（一）
+INDEPENDENT STUDIES IN CANCER AUTOPHAGY (I)",3,期,False,50,0,0,50,徐志文,"一2,3,4(國IR 5003)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS523&Crsname=生醫晶片專題研究(一),,,False,生技醫藥碩,IBPS523,1,不分班,"生醫晶片專題研究(一)
+INDEPENDENT STUDIES IN BIOSENSORS (I)",3,期,False,50,0,0,50,余靈珊,"一2,3,4(國IR 6017-1)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS525&Crsname=腫瘤分子生物學,,,False,生技醫藥碩,IBPS525,0,不分班,"腫瘤分子生物學
+TUMOR MOLECULAR BIOLOGY",3,期,False,50,0,0,50,徐志文,"四5,6,7(國IR 5001)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS527&Crsname=生物資訊學及其應用,,,False,生技醫藥碩,IBPS527,1,不分班,"生物資訊學及其應用
+BIOINFORMATICS AND APPLICATIONS",3,期,False,50,0,0,50,余靈珊,"二2,3,4(國IR 5005)","['', '234', '', '', '', '', '']",《講授類》,['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS528&Crsname=神經疾病與藥物開發特論,,,False,生技醫藥碩,IBPS528,0,不分班,"神經疾病與藥物開發特論
+DRUG DEVELOPMENT IN CENTRAL NERVOUS SYSTEM (CNS) DISORDERS",3,期,False,50,0,0,50,孫羽佑,"二2,3,4(國IR 6017-1)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS529&Crsname=藥物開發通論,異動,更換時間6/24,False,生技醫藥碩,IBPS529,1,不分班,"藥物開發通論
+GENERAL THEORY OF DRUG DISCOVERY",2,期,True,50,0,2,48,"待聘,余靈珊,孫羽佑,徐志文,施柏漳,黃建智","一7,8(國IR 5002)","['78', '', '', '', '', '', '']",《講授類》,['天然藥物合成學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS530&Crsname=腦缺氧專題研究（一）,,,False,生技醫藥碩,IBPS530,0,不分班,"腦缺氧專題研究（一）
+INDEPENDENT STUDIES IN CEREBRAL ISCHEMIA (I)",3,期,False,50,0,0,50,孫羽佑,"三5,6,7(國IR 6017-1)","['', '', '567', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS534&Crsname=抗癌藥物開發專題研究（一）,,,False,生技醫藥碩,IBPS534,1,不分班,"抗癌藥物開發專題研究（一）
+INDEPENDENT STUDIES IN ANTICANCER DRUG DISCOVERY（Ｉ）",3,期,False,50,0,0,50,黃建智,"一2,3,4(國IR 6017-2)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS538&Crsname=蛋白質降解藥物開發特論 (一),,,False,生技醫藥碩,IBPS538,0,不分班,"蛋白質降解藥物開發特論 (一)
+TARGETED PROTEIN DEGRADATION BASED DRUG DEVELOPMENT（I）",3,期,False,50,0,0,50,施柏漳,"四6,7,8(國IR 6017-1)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS541&Crsname=雙功能分子藥物開發專題研究（一）,,,False,生技醫藥碩,IBPS541,0,不分班,"雙功能分子藥物開發專題研究（一）
+INDEPENDENT STUDIES IN BIFUNCTIONAL MOLECULE DRUG DISCOVERY（I）",3,期,False,50,0,0,50,施柏漳,"三5,6,7(國IR 6017-2)","['', '', '567', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS543&Crsname=小分子結構鑑定之光譜技術,,,False,生技醫藥碩,IBPS543,1,不分班,"小分子結構鑑定之光譜技術
+SPECTROSCOPIC IDENTIFICATION OF SMALL MOLECULE DRUGS",3,期,False,50,0,0,50,黃建智,"二2,3,4(國IR 6017-2)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS601&Crsname=書報討論（三）,,,False,生技醫藥碩,IBPS601,2,不分班,"書報討論（三）
+SEMINAR（III）",1,期,True,50,0,8,42,"余靈珊,孫羽佑,待聘,徐志文,施柏漳,黃建智",三4(國IR 4002),"['', '', '4', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS603&Crsname=科技論文寫作,,,False,生技醫藥碩,IBPS603,2,不分班,"科技論文寫作
+SCIENTIFIC WRITING",2,期,True,50,0,8,42,余靈珊,"五5,6(國IR 5005)","['', '', '', '', '56', '', '']",《講授類》,[],True
