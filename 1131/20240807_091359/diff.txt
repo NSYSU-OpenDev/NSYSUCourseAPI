@@ -1,0 +1,52 @@
+Item root[171] added to iterable.
+Item root[1329] added to iterable.
+Type of root[800]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[800]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[801]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[801]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[805]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[805]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[806]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[806]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[807]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[807]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[1142]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1142]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[1146]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1146]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[1148]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1148]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[1548]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1548]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[2387]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2387]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Value of root[399]['selected'] changed from 45 to 44.
+Value of root[399]['remaining'] changed from 5 to 6.
+Value of root[431]['selected'] changed from 47 to 46.
+Value of root[431]['remaining'] changed from 3 to 4.
+Value of root[493]['selected'] changed from 35 to 34.
+Value of root[493]['remaining'] changed from 15 to 16.
+Value of root[496]['selected'] changed from 35 to 34.
+Value of root[496]['remaining'] changed from 15 to 16.
+Value of root[800]['teacher'] changed from "待聘" to "施孟鎧".
+Value of root[801]['teacher'] changed from "待聘" to "施孟鎧".
+Value of root[805]['teacher'] changed from "待聘" to "梁俊德".
+Value of root[806]['teacher'] changed from "待聘" to "梁俊德".
+Value of root[807]['teacher'] changed from "待聘" to "梁俊德".
+Value of root[1000]['description'] changed from "《講授類》
+限大三、大四，限修畢財務管理(一)及財務管理(二)
+※英語授課" to "《講授類》
+限修畢財管系財務管理(一)及財務管理(二)
+※英語授課".
+Value of root[1142]['teacher'] changed from "待聘" to "楊又欣".
+Value of root[1146]['teacher'] changed from "待聘" to "葉一飛".
+Value of root[1148]['teacher'] changed from "待聘" to "葉一飛".
+Value of root[1548]['teacher'] changed from "待聘" to "施孟鎧".
+Value of root[1807]['teacher'] changed from "待聘" to "蕭珮婕".
+Value of root[2099]['teacher'] changed from "待聘" to "楊又欣".
+Value of root[2104]['teacher'] changed from "待聘" to "楊又欣".
+Value of root[2105]['teacher'] changed from "待聘" to "楊又欣".
+Value of root[2387]['teacher'] changed from "王宏仁,待聘" to "王宏仁,葉一飛".
+Value of root[2530]['teacher'] changed from "張桂祥,待聘" to "張桂祥,王敬湧".
+Value of root[2531]['teacher'] changed from "張桂祥,待聘" to "張桂祥,王敬湧".
+Value of root[2532]['teacher'] changed from "張桂祥,待聘" to "張桂祥,王敬湧".
