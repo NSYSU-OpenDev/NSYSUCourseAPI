@@ -1,0 +1,29 @@
+Item root[1971] removed from iterable.
+Type of root[633]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[633]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師及教室8/7".
+Type of root[1000]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1000]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師及備註8/7".
+Type of root[1807]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1807]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[2100]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2100]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[2105]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2105]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[2106]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2106]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[2531]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2531]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[2532]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2532]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[2533]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2533]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Value of root[477]['english'] changed from False to True.
+Value of root[633]['teacher'] changed from "蔡秀芬" to "陳龍銘".
+Value of root[633]['room'] changed from "三6(理PH 2006)" to "三6(理PH 5009)".
+Value of root[1000]['teacher'] changed from "待聘" to "蕭珮婕".
+Value of root[1000]['room'] changed from "四6,7,8(管CM 1025)" to "四6,7,8(管CM 2015)".
+Value of root[1000]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》
+限大三、大四，限修畢財務管理(一)及財務管理(二)
+※英語授課".
