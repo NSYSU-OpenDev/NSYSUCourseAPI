@@ -1,0 +1,270 @@
+Item root[20]['classTime'][2] added to iterable.
+Item root[21]['classTime'][2] added to iterable.
+Item root[22]['classTime'][2] added to iterable.
+Item root[23]['classTime'][0] added to iterable.
+Item root[24]['classTime'][2] added to iterable.
+Item root[25]['classTime'][1] added to iterable.
+Item root[26]['classTime'][1] added to iterable.
+Item root[27]['classTime'][1] added to iterable.
+Item root[28]['classTime'][1] added to iterable.
+Item root[29]['classTime'][1] added to iterable.
+Item root[30]['classTime'][1] added to iterable.
+Item root[31]['classTime'][1] added to iterable.
+Item root[32]['classTime'][1] added to iterable.
+Item root[33]['classTime'][1] added to iterable.
+Item root[34]['classTime'][1] added to iterable.
+Item root[35]['classTime'][1] added to iterable.
+Item root[36]['classTime'][4] added to iterable.
+Item root[37]['classTime'][4] added to iterable.
+Item root[38]['classTime'][1] added to iterable.
+Item root[39]['classTime'][1] added to iterable.
+Item root[661]['classTime'][1] added to iterable.
+Item root[662]['classTime'][2] added to iterable.
+Item root[663]['classTime'][2] added to iterable.
+Item root[664]['classTime'][1] added to iterable.
+Item root[665]['classTime'][2] added to iterable.
+Item root[666]['classTime'][3] added to iterable.
+Item root[667]['classTime'][2] added to iterable.
+Item root[668]['classTime'][0] added to iterable.
+Item root[669]['classTime'][2] added to iterable.
+Item root[670]['classTime'][0] added to iterable.
+Item root[671]['classTime'][0] added to iterable.
+Item root[672]['classTime'][3] added to iterable.
+Item root[673]['classTime'][0] added to iterable.
+Item root[674]['classTime'][1] added to iterable.
+Item root[675]['classTime'][6] added to iterable.
+Item root[676]['classTime'][2] added to iterable.
+Item root[677]['classTime'][3] added to iterable.
+Item root[678]['classTime'][3] added to iterable.
+Item root[679]['classTime'][2] added to iterable.
+Item root[1460]['classTime'][2] added to iterable.
+Item root[1461]['classTime'][3] added to iterable.
+Item root[1462]['classTime'][3] added to iterable.
+Item root[1463]['classTime'][2] added to iterable.
+Item root[1464]['classTime'][1] added to iterable.
+Item root[1465]['classTime'][1] added to iterable.
+Item root[1466]['classTime'][3] added to iterable.
+Item root[1467]['classTime'][1] added to iterable.
+Item root[1468]['classTime'][4] added to iterable.
+Item root[1469]['classTime'][4] added to iterable.
+Item root[1470]['classTime'][4] added to iterable.
+Item root[1471]['classTime'][2] added to iterable.
+Item root[1472]['classTime'][0] added to iterable.
+Item root[1780]['classTime'][0] added to iterable.
+Item root[1780]['classTime'][1] added to iterable.
+Item root[1780]['classTime'][2] added to iterable.
+Item root[1781]['classTime'][0] added to iterable.
+Item root[1781]['classTime'][1] added to iterable.
+Item root[1781]['classTime'][2] added to iterable.
+Item root[1782]['classTime'][0] added to iterable.
+Item root[1782]['classTime'][1] added to iterable.
+Item root[1782]['classTime'][2] added to iterable.
+Item root[1783]['classTime'][0] added to iterable.
+Item root[1783]['classTime'][1] added to iterable.
+Item root[1783]['classTime'][2] added to iterable.
+Item root[1784]['classTime'][0] added to iterable.
+Item root[1784]['classTime'][1] added to iterable.
+Item root[1784]['classTime'][2] added to iterable.
+Item root[1785]['classTime'][0] added to iterable.
+Item root[1785]['classTime'][1] added to iterable.
+Item root[1785]['classTime'][2] added to iterable.
+Item root[1900]['classTime'][4] added to iterable.
+Item root[1901]['classTime'][3] added to iterable.
+Item root[1902]['classTime'][1] added to iterable.
+Item root[1903]['classTime'][0] added to iterable.
+Item root[1904]['classTime'][4] added to iterable.
+Item root[1905]['classTime'][4] added to iterable.
+Item root[1906]['classTime'][2] added to iterable.
+Item root[1907]['classTime'][1] added to iterable.
+Item root[1908]['classTime'][3] added to iterable.
+Item root[1909]['classTime'][4] added to iterable.
+Item root[1910]['classTime'][5] added to iterable.
+Item root[1911]['classTime'][5] added to iterable.
+Item root[1912]['classTime'][0] added to iterable.
+Item root[1913]['classTime'][0] added to iterable.
+Item root[1914]['classTime'][0] added to iterable.
+Item root[1915]['classTime'][0] added to iterable.
+Item root[1916]['classTime'][0] added to iterable.
+Item root[1917]['classTime'][1] added to iterable.
+Item root[1918]['classTime'][1] added to iterable.
+Item root[1919]['classTime'][1] added to iterable.
+Item root[2013]['classTime'][4] added to iterable.
+Item root[2014]['classTime'][2] added to iterable.
+Item root[2015]['classTime'][1] added to iterable.
+Item root[2016]['classTime'][2] added to iterable.
+Item root[2017]['classTime'][1] added to iterable.
+Item root[2018]['classTime'][4] added to iterable.
+Item root[2019]['classTime'][4] added to iterable.
+Repetition change for item root[20]['classTime'][0].
+Repetition change for item root[21]['classTime'][0].
+Repetition change for item root[22]['classTime'][0].
+Repetition change for item root[23]['classTime'][0].
+Repetition change for item root[24]['classTime'][0].
+Repetition change for item root[25]['classTime'][0].
+Repetition change for item root[26]['classTime'][0].
+Repetition change for item root[27]['classTime'][0].
+Repetition change for item root[28]['classTime'][0].
+Repetition change for item root[29]['classTime'][0].
+Repetition change for item root[30]['classTime'][0].
+Repetition change for item root[31]['classTime'][0].
+Repetition change for item root[32]['classTime'][0].
+Repetition change for item root[33]['classTime'][0].
+Repetition change for item root[34]['classTime'][0].
+Repetition change for item root[35]['classTime'][0].
+Repetition change for item root[36]['classTime'][0].
+Repetition change for item root[37]['classTime'][0].
+Repetition change for item root[38]['classTime'][0].
+Repetition change for item root[39]['classTime'][0].
+Repetition change for item root[661]['classTime'][0].
+Repetition change for item root[662]['classTime'][0].
+Repetition change for item root[663]['classTime'][0].
+Repetition change for item root[664]['classTime'][0].
+Repetition change for item root[665]['classTime'][0].
+Repetition change for item root[666]['classTime'][0].
+Repetition change for item root[667]['classTime'][0].
+Repetition change for item root[668]['classTime'][0].
+Repetition change for item root[669]['classTime'][0].
+Repetition change for item root[670]['classTime'][0].
+Repetition change for item root[671]['classTime'][0].
+Repetition change for item root[672]['classTime'][0].
+Repetition change for item root[673]['classTime'][0].
+Repetition change for item root[674]['classTime'][0].
+Repetition change for item root[675]['classTime'][0].
+Repetition change for item root[676]['classTime'][0].
+Repetition change for item root[677]['classTime'][0].
+Repetition change for item root[678]['classTime'][0].
+Repetition change for item root[679]['classTime'][0].
+Repetition change for item root[1460]['classTime'][0].
+Repetition change for item root[1461]['classTime'][0].
+Repetition change for item root[1462]['classTime'][0].
+Repetition change for item root[1463]['classTime'][0].
+Repetition change for item root[1464]['classTime'][0].
+Repetition change for item root[1465]['classTime'][0].
+Repetition change for item root[1466]['classTime'][0].
+Repetition change for item root[1467]['classTime'][0].
+Repetition change for item root[1468]['classTime'][0].
+Repetition change for item root[1469]['classTime'][0].
+Repetition change for item root[1470]['classTime'][0].
+Repetition change for item root[1471]['classTime'][0].
+Repetition change for item root[1472]['classTime'][0].
+Repetition change for item root[1780]['classTime'][0].
+Repetition change for item root[1781]['classTime'][0].
+Repetition change for item root[1782]['classTime'][0].
+Repetition change for item root[1783]['classTime'][0].
+Repetition change for item root[1784]['classTime'][0].
+Repetition change for item root[1785]['classTime'][0].
+Repetition change for item root[1900]['classTime'][0].
+Repetition change for item root[1901]['classTime'][0].
+Repetition change for item root[1902]['classTime'][0].
+Repetition change for item root[1903]['classTime'][0].
+Repetition change for item root[1904]['classTime'][0].
+Repetition change for item root[1905]['classTime'][0].
+Repetition change for item root[1906]['classTime'][0].
+Repetition change for item root[1907]['classTime'][0].
+Repetition change for item root[1908]['classTime'][0].
+Repetition change for item root[1909]['classTime'][0].
+Repetition change for item root[1910]['classTime'][0].
+Repetition change for item root[1911]['classTime'][0].
+Repetition change for item root[1912]['classTime'][0].
+Repetition change for item root[1913]['classTime'][0].
+Repetition change for item root[1914]['classTime'][0].
+Repetition change for item root[1915]['classTime'][0].
+Repetition change for item root[1916]['classTime'][0].
+Repetition change for item root[1917]['classTime'][0].
+Repetition change for item root[1918]['classTime'][0].
+Repetition change for item root[1919]['classTime'][0].
+Repetition change for item root[2013]['classTime'][0].
+Repetition change for item root[2014]['classTime'][0].
+Repetition change for item root[2015]['classTime'][0].
+Repetition change for item root[2016]['classTime'][0].
+Repetition change for item root[2017]['classTime'][0].
+Repetition change for item root[2018]['classTime'][0].
+Repetition change for item root[2019]['classTime'][0].
+Value of root[20]['room'] changed from "" to "三3,4(社SS 2006)".
+Value of root[21]['room'] changed from "" to "三1,2(社SS 2004-3)".
+Value of root[22]['room'] changed from "" to "三1,2(社SS 2004-3)".
+Value of root[23]['room'] changed from "" to "一8,9(社SS 2006)".
+Value of root[24]['room'] changed from "" to "三5,6(社SS  2005)".
+Value of root[25]['room'] changed from "" to "二2,3,4(文LA 1002)".
+Value of root[26]['room'] changed from "" to "二2,3,4(理SC 0014)".
+Value of root[27]['room'] changed from "" to "二2,3,4(工EC 2007)".
+Value of root[28]['room'] changed from "" to "二2,3,4(工EN 0032)".
+Value of root[29]['room'] changed from "" to "二2,3,4(管CM 0052)".
+Value of root[30]['room'] changed from "" to "二5,6,7(理SC 0014)".
+Value of root[31]['room'] changed from "" to "二5,6,7(工EC 2007)".
+Value of root[32]['room'] changed from "" to "二5,6,7(文LA 1004)".
+Value of root[33]['room'] changed from "" to "二5,6,7(管CM 3017)".
+Value of root[34]['room'] changed from "" to "二5,6,7(工EN 0032)".
+Value of root[35]['room'] changed from "" to "二5,6,7(管CM 0052)".
+Value of root[36]['room'] changed from "" to "五2,3,4(西SW 1005)".
+Value of root[37]['room'] changed from "" to "五5,6,7(理SC 0008)".
+Value of root[38]['room'] changed from "" to "二2,3,4(海ME 3004)".
+Value of root[39]['room'] changed from "" to "二5,6,7(通GE 3013)".
+Value of root[661]['room'] changed from "" to "二1,A,B(理PH 2009)".
+Value of root[662]['room'] changed from "" to "三1,A,B(理SC 2006-1)".
+Value of root[663]['room'] changed from "" to "三1,A,B(理PH 7011)".
+Value of root[664]['room'] changed from "" to "二1,A,B(理SC 2006-3)".
+Value of root[665]['room'] changed from "" to "三1,A,B(理PH 3001)".
+Value of root[666]['room'] changed from "" to "四5(理PH 2006)".
+Value of root[667]['room'] changed from "" to "三2,3,4(理PH 1009)".
+Value of root[668]['room'] changed from "" to "一C,D,E(理PH 2006)".
+Value of root[669]['room'] changed from "" to "三1,A,B(理PH 6010)".
+Value of root[670]['room'] changed from "" to "一C,D,E(理PH 7008)".
+Value of root[671]['room'] changed from "" to "一1,A,B(理PH 6001)".
+Value of root[672]['room'] changed from "" to "四1,A,B(理PH 6008)".
+Value of root[673]['room'] changed from "" to "一1,A,B(理PH 5005)".
+Value of root[674]['room'] changed from "" to "二C,D,E(理PH 2008)".
+Value of root[675]['room'] changed from "" to "日5,6,7(理PH 7009)".
+Value of root[676]['room'] changed from "" to "三1,A,B(理PH 6009)".
+Value of root[677]['room'] changed from "" to "四1,A,B(理PH 4007)".
+Value of root[678]['room'] changed from "" to "四1,A,B(理PH 2009)".
+Value of root[679]['room'] changed from "" to "三1,A,B(理SC 2006-3)".
+Value of root[1460]['room'] changed from "" to "三5,6,7(理SC 4011)".
+Value of root[1461]['room'] changed from "" to "四6,7,8(理SC 4009-0)".
+Value of root[1462]['room'] changed from "" to "四6(理SC 4011)".
+Value of root[1463]['room'] changed from "" to "三5,6,7(理SC 4009-1)".
+Value of root[1464]['room'] changed from "" to "二6,7,8(理SC 4011)".
+Value of root[1465]['room'] changed from "" to "二6,7,8(理SC 4011-2)".
+Value of root[1466]['room'] changed from "" to "四6(理SC 4013)".
+Value of root[1467]['room'] changed from "" to "二3,4,B(理SC 4013)".
+Value of root[1468]['room'] changed from "" to "五6,7,8(理SC 4009-0)".
+Value of root[1469]['room'] changed from "" to "五6,7,8(理SC 4013)".
+Value of root[1470]['room'] changed from "" to "五6,7,8(理SC 4011-2)".
+Value of root[1471]['room'] changed from "" to "三5,6,7(理SC 4027)".
+Value of root[1472]['room'] changed from "" to "一7,8,9(理SC 4027)".
+Value of root[1780]['room'] changed from "" to "一A() 二A() 三A()".
+Value of root[1781]['room'] changed from "" to "一A() 二A() 三A()".
+Value of root[1782]['room'] changed from "" to "一A() 二A() 三A()".
+Value of root[1783]['room'] changed from "" to "一A() 二A() 三A()".
+Value of root[1784]['room'] changed from "" to "一A() 二A() 三A()".
+Value of root[1785]['room'] changed from "" to "一A() 二A() 三A()".
+Value of root[1900]['room'] changed from "" to "五2,3,4(管CM 4112)".
+Value of root[1901]['room'] changed from "" to "四6,7,8(管CM 2025)".
+Value of root[1902]['room'] changed from "" to "二2,3,4(管CM 1023)".
+Value of root[1903]['room'] changed from "" to "一6,7,8(管CM 4112)".
+Value of root[1904]['room'] changed from "" to "五6,7(管CM 4112)".
+Value of root[1905]['room'] changed from "" to "五8(管CM 4112)".
+Value of root[1906]['room'] changed from "" to "三5,6,7(管CM 3017)".
+Value of root[1907]['room'] changed from "" to "二6,7,8(管CM 1019)".
+Value of root[1908]['room'] changed from "" to "四2,3,4(管CM 1023)".
+Value of root[1909]['room'] changed from "" to "五2,3,4(管CM 3022)".
+Value of root[1910]['room'] changed from "" to "六1,2,3,4(管CM 2020)(實驗)".
+Value of root[1911]['room'] changed from "" to "六5,6,7,8(管CM 2026)(實驗)".
+Value of root[1912]['teacher'] changed from "佘博文" to "佘博文,張世賢,翁培師,蔡佳芬,蔡秉真,邱敬貿,鄭義".
+Value of root[1912]['room'] changed from "" to "一2,3,4(管CM 2026)".
+Value of root[1913]['room'] changed from "" to "一6,7(海MB 2015)".
+Value of root[1914]['room'] changed from "" to "一6,7(海MB 1005)".
+Value of root[1915]['room'] changed from "" to "一6,7(海MB 2014)".
+Value of root[1916]['teacher'] changed from "宋秉鈞" to "宋秉鈞,蘇瑞欣".
+Value of root[1916]['room'] changed from "" to "一6,7(海生館第二研究大樓R 2002)".
+Value of root[1917]['teacher'] changed from "溫志宏" to "溫志宏,李景欽".
+Value of root[1917]['room'] changed from "" to "二3,4(海MB 3013)".
+Value of root[1918]['room'] changed from "" to "二3,4(海生館第二研究大樓R 2002)".
+Value of root[1919]['room'] changed from "" to "二8,9(海MB 2016)(實驗)".
+Value of root[2013]['room'] changed from "" to "五8,9(海MA 2052)(實驗)".
+Value of root[2014]['room'] changed from "" to "三5,6,7(海MA 2052)".
+Value of root[2015]['room'] changed from "" to "二2,3,4(海MA 2052)".
+Value of root[2016]['room'] changed from "" to "三2,3,4(海MA 2052)".
+Value of root[2017]['room'] changed from "" to "二6,7,8(海MA 2052)".
+Value of root[2018]['room'] changed from "" to "五6(海MA 2052)".
+Value of root[2019]['room'] changed from "" to "五7(海MA 2052)".
