@@ -1,0 +1,47 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM703&Crsname=高等研究方法（一）,,,False,人管博,HRM703,1,不分班,"高等研究方法（一）
+ADVANCED RESEARCH METHODS (I)",3,期,True,15,0,1,14,謝慧賢,"二6,7,8(管CM 4091)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM705&Crsname=專案研究,,,False,人管博,HRM705,2,不分班,"專案研究
+INDEPENDENT STUDIES",3,期,True,50,0,6,44,"李澄賢,謝慧賢,陳旻男","四1,5,B()","['', '', '', '1B5', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM721&Crsname=研究方法專題研討,,,False,人管博,HRM721,2,不分班,"研究方法專題研討
+SEMINAR IN RESEARCH METHODS",3,期,False,15,0,0,15,李澄賢,"一5,6,7(管CM 4091)","['567', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM741&Crsname=高階組織行為,,,False,人管博,HRM741,2,不分班,"高階組織行為
+ADVANCED ORGANIZATIONAL BEHAVIOR",3,期,False,35,0,0,35,王豫萱,"四2,3,4(管CM 1036)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM747&Crsname=創新管理,,,False,人管博,HRM747,2,不分班,"創新管理
+INNOVATION MANAGEMENT",3,期,False,15,0,0,15,陳旻男,"三2,3,4(管CM 1036)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM748&Crsname=組織與永續性研究專題,異動,確認教師8/5,False,人管博,HRM748,1,不分班,"組織與永續性研究專題
+SEMINAR IN ORGANIZATION AND SUSTAINABILITY",3,期,False,35,0,0,35,何佳澔,"四6,7,8(管CM 1036)","['', '', '', '678', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HCM702&Crsname=高等統計分析（一）,,,False,企醫管博,HCM702,1,不分班,"高等統計分析（一）
+ADVANCED STATISTICAL ANALYSIS (I)",3,期,True,50,0,0,50,彭聖翔,"四6,7,8(管CM 3035)","['', '', '', '678', '', '', '']","《講授類》
+與企管博併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HCM705&Crsname=高等醫療經濟,,,False,企醫管博,HCM705,1,不分班,"高等醫療經濟
+ADVANCED HEALTH ECONOMICS",3,期,True,50,0,0,50,黃俊智,"四2,3,4(管CM 3035)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HCM801&Crsname=醫務管理專題研討（一）,,,False,企醫管博,HCM801,0,不分班,"醫務管理專題研討（一）
+SEMINAR IN HEALTH CARE MANAGEMENT（I）",2,期,False,50,0,0,50,李英俊,"一7,8(管CM 3038)","['78', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HCM803&Crsname=醫務管理專題研討（三）,,,False,企醫管博,HCM803,0,不分班,"醫務管理專題研討（三）
+SEMINAR IN HEALTH CARE MANAGEMENT（III）",2,期,False,50,0,0,50,李英俊,"一7,8(管CM 3038)","['78', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR701&Crsname=海洋生物科技專題研討（五）,,,True,海資博,MBR701,1,不分班,"海洋生物科技專題研討（五）
+SEMINAR IN MARINE BIOTECHNOLOGY (V)",2,期,True,50,0,0,50,邱素芬,"一6,7(海MB 2015)","['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR703&Crsname=海洋生態專題研討（五）,異動,確認教師7/30,True,海資博,MBR703,1,不分班,"海洋生態專題研討（五）
+SEMINAR IN MARINE ECOLOGY (V)",2,期,True,50,0,0,50,水晶,"一6,7(海MB 1005)","['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR707&Crsname=海洋化學資源專題研討（五）,,,True,海資博,MBR707,1,不分班,"海洋化學資源專題研討（五）
+SEMINAR IN MARINE CHEMICAL RESOURCES (V)",2,期,True,50,0,0,50,廖志中,"一6,7(海MB 2014)","['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR716&Crsname=水生生態專題研究（五）,,,False,海資博,MBR716,1,不分班,"水生生態專題研究（五）
+INDEPENDENT STUDIES IN AQUATIC ECOLOGY (５)",2,期,False,50,0,0,50,"劉商隱,張桂祥,林梅芳,林秀瑾","三1,A()","['', '', 'A1', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR725&Crsname=高等海洋微生物學,,,False,海資博,MBR725,1,不分班,"高等海洋微生物學
+ADVANCED MARINE MICROBIOLOGY",2,期,False,50,0,0,50,王亮鈞,"三3,4(海MB 2009)","['', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR726&Crsname=海洋化學生物學專題研究（五）,,,False,海資博,MBR726,1,不分班,"海洋化學生物學專題研究（五）
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (V)",2,期,False,50,0,0,50,"鄭源斌,廖志中,李益銘,翁靖如","三1,A()","['', '', 'A1', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR734&Crsname=海洋資源與生物科技專題,,,False,海資博,MBR734,1,不分班,"海洋資源與生物科技專題
+SPECIAL TOPICS ON MARINE RESOURCES AND BIOTECHNOLOGY",3,期,False,50,1,0,50,"林秀瑾,廖志中,待聘,林梅芳,王亮鈞,翁靖如","四5,6,7(海MB 3013)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR737&Crsname=海洋生物科技專題研究（五）,,,False,海資博,MBR737,1,不分班,"海洋生物科技專題研究（五）
+INDEPENDENT STUDIES IN MARINE BIOTECHNOLOGY(V)",2,期,False,50,0,0,50,"溫志宏,廖睿妘,李景欽,王亮鈞,蔡欣原","三1,A()","['', '', 'A1', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR801&Crsname=海洋生物科技專題研討（七）,,,True,海資博,MBR801,2,不分班,"海洋生物科技專題研討（七）
+SEMINAR IN MARINE BIOTECHNOLOGY (VII)",2,期,True,50,0,0,50,邱素芬,"一6,7(海MB 2015)","['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR803&Crsname=海洋生態專題研討（七）,異動,確認教師7/30,True,海資博,MBR803,2,不分班,"海洋生態專題研討（七）
+SEMINAR IN MARINE ECOLOGY (VII)",2,期,True,50,0,0,50,水晶,"一6,7(海MB 1005)","['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],True
