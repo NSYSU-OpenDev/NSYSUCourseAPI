@@ -1,0 +1,41 @@
+Type of root[24]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[24]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室8/9".
+Type of root[782]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[782]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/9".
+Type of root[814]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[814]['changeDescription'] changed from NoneType to str and value changed from None to "更換合授教師8/9".
+Type of root[858]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[858]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師8/9".
+Type of root[862]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[862]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/9".
+Type of root[863]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[863]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/9".
+Type of root[870]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[870]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/9".
+Type of root[871]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[871]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/9".
+Type of root[1547]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1547]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/9".
+Value of root[5]['select'] changed from 1 to 0.
+Value of root[404]['selected'] changed from 49 to 48.
+Value of root[404]['remaining'] changed from 1 to 2.
+Value of root[409]['selected'] changed from 49 to 48.
+Value of root[409]['remaining'] changed from 1 to 2.
+Value of root[433]['select'] changed from 0 to 1.
+Value of root[594]['select'] changed from 0 to 1.
+Value of root[633]['select'] changed from 0 to 1.
+Value of root[862]['room'] changed from "二2,3,4(國IR 3002)" to "三2,3,4(國IR 3002)".
+Value of root[863]['room'] changed from "二2,3,4(國IR 3002)" to "三2,3,4(國IR 3002)".
+Value of root[870]['room'] changed from "三2,3,4(國IR 3003)" to "二2,3,4(國IR 3003)".
+Value of root[983]['select'] changed from 0 to 1.
+Value of root[1001]['select'] changed from 0 to 1.
+Value of root[1108]['select'] changed from 0 to 1.
+Value of root[1530]['select'] changed from 0 to 1.
+Value of root[1673]['select'] changed from 0 to 1.
+Value of root[2307]['selected'] changed from 22 to 21.
+Value of root[2307]['remaining'] changed from 28 to 29.
+Value of root[2595]['select'] changed from 0 to 1.
+Value of root[2613]['select'] changed from 0 to 1.
+Value of root[2614]['select'] changed from 0 to 1.
+Value of root[2615]['select'] changed from 0 to 1.
+Value of root[2629]['select'] changed from 0 to 1.
