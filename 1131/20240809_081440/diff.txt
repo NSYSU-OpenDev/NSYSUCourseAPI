@@ -1,0 +1,88 @@
+Item root[1215]['classTime'][0] added to iterable.
+Item root[1215]['classTime'][1] added to iterable.
+Item root[1215]['classTime'][2] added to iterable.
+Item root[1215]['classTime'][3] added to iterable.
+Item root[1215]['classTime'][4] added to iterable.
+Item root[2193] added to iterable.
+Item root[2194] added to iterable.
+Item root[2195] added to iterable.
+Item root[1215]['classTime'][0] removed from iterable.
+Item root[1215]['classTime'][4] removed from iterable.
+Repetition change for item root[1215]['classTime'][1].
+Type of root[1215]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1215]['changeDescription'] changed from NoneType to str and value changed from None to "確認時間及教師8/9".
+Type of root[2178]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2178]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/9".
+Type of root[2193]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2193]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/9".
+Value of root[5]['select'] changed from 0 to 2.
+Value of root[189]['select'] changed from 1 to 2.
+Value of root[192]['select'] changed from 1 to 2.
+Value of root[200]['select'] changed from 1 to 2.
+Value of root[201]['select'] changed from 1 to 2.
+Value of root[982]['description'] changed from "《講授類》
+限財管系" to "《講授類》
+限財管系(含雙主修及輔系)".
+Value of root[983]['description'] changed from "《講授類》
+限財管系" to "《講授類》
+限財管系(含雙主修及輔系)".
+Value of root[985]['description'] changed from "《講授類》
+限財管系" to "《講授類》
+限財管系(含雙主修及輔系)".
+Value of root[986]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系(含雙主修及輔系)" to "《講授類》
+限財管系(含雙主修及輔系)".
+Value of root[987]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系(含雙主修及輔系)
+※英語授課" to "《講授類》
+限財管系(含雙主修及輔系)
+※英語授課".
+Value of root[989]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系" to "《講授類》
+限財管系".
+Value of root[990]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系" to "《講授類》
+限財管系".
+Value of root[992]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系" to "《講授類》
+限財管系".
+Value of root[995]['description'] changed from "《講授類》
+本課程之限修，於加退選2階段開放選修』。限財管系" to "《講授類》
+限財管系".
+Value of root[998]['description'] changed from "《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系 
+※英語授課" to "《講授類》
+限財管系 
+※英語授課".
+Value of root[1215]['teacher'] changed from "王弘仁,待聘,待聘,待聘,待聘,鄭雅勻,陳德全" to "王弘仁,張博智,沈元琦,鄭雅勻,陳建旭,陳德全".
+Value of root[1530]['select'] changed from 1 to 2.
+Value of root[1673]['select'] changed from 1 to 2.
+Value of root[1849]['select'] changed from 1 to 2.
+Value of root[1906]['select'] changed from 1 to 2.
+Value of root[2178]['teacher'] changed from "待聘,余靈珊,孫羽佑,徐志文,施柏漳,黃建智" to "賴至人,余靈珊,孫羽佑,徐志文,施柏漳,黃建智".
+Value of root[2183]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS523&Crsname=生醫晶片專題研究(一)" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS523&Crsname=生醫晶片專題研究（一）".
+Value of root[2183]['name'] changed from "生醫晶片專題研究(一)
+INDEPENDENT STUDIES IN BIOSENSORS (I)" to "生醫晶片專題研究（一）
+INDEPENDENT STUDIES IN BIOSENSORS (I)".
+Value of root[2187]['changeDescription'] changed from "更換時間6/24" to "確認教師8/9".
+Value of root[2187]['teacher'] changed from "待聘,余靈珊,孫羽佑,徐志文,施柏漳,黃建智" to "賴至人,余靈珊,孫羽佑,徐志文,施柏漳,黃建智".
+Value of root[2193]['teacher'] changed from "余靈珊,孫羽佑,待聘,徐志文,施柏漳,黃建智" to "余靈珊,孫羽佑,徐志文,施柏漳,賴至人,黃建智".
+Value of root[2266]['select'] changed from 1 to 2.
+Value of root[2271]['select'] changed from 0 to 1.
+Value of root[2484]['select'] changed from 1 to 2.
+Value of root[2536]['select'] changed from 1 to 2.
+Value of root[2629]['select'] changed from 1 to 2.
+Value of root[2663]['select'] changed from 1 to 2.
+Value of root[2664]['select'] changed from 1 to 2.
+Value of root[2666]['select'] changed from 1 to 2.
+Value of root[2667]['select'] changed from 1 to 2.
+Value of root[2668]['select'] changed from 1 to 2.
+Value of root[2669]['select'] changed from 1 to 2.
+Value of root[2670]['select'] changed from 1 to 2.
+Value of root[2671]['select'] changed from 1 to 2.
+Value of root[2672]['select'] changed from 1 to 2.
+Value of root[2673]['select'] changed from 1 to 2.
+Value of root[2674]['select'] changed from 1 to 2.
+Value of root[2675]['select'] changed from 1 to 2.
+Value of root[2676]['select'] changed from 1 to 2.
+Value of root[2665]['select'] changed from 1 to 2.
