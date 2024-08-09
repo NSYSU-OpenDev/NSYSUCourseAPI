@@ -1,0 +1,67 @@
+Item root[1218]['classTime'][0] added to iterable.
+Item root[1218]['classTime'][1] added to iterable.
+Item root[1218]['classTime'][3] added to iterable.
+Item root[1218]['classTime'][4] added to iterable.
+Item root[1218]['classTime'][2] added to iterable.
+Item root[1222]['classTime'][0] added to iterable.
+Item root[1222]['classTime'][1] added to iterable.
+Item root[1222]['classTime'][3] added to iterable.
+Item root[1222]['classTime'][4] added to iterable.
+Item root[1222]['classTime'][2] added to iterable.
+Item root[1223]['classTime'][0] added to iterable.
+Item root[1223]['classTime'][1] added to iterable.
+Item root[1223]['classTime'][3] added to iterable.
+Item root[1223]['classTime'][4] added to iterable.
+Item root[1223]['classTime'][2] added to iterable.
+Item root[1237] added to iterable.
+Item root[1238] added to iterable.
+Repetition change for item root[1218]['classTime'][0].
+Repetition change for item root[1222]['classTime'][0].
+Repetition change for item root[1223]['classTime'][0].
+Type of root[561]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[561]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/9".
+Type of root[678]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[678]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/9".
+Type of root[988]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[988]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/9".
+Type of root[1222]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1222]['changeDescription'] changed from NoneType to str and value changed from None to "確認時間及教師8/9".
+Type of root[1445]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1445]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/9".
+Value of root[5]['select'] changed from 2 to 4.
+Value of root[561]['teacher'] changed from "待聘" to "陳志漢".
+Value of root[662]['changeDescription'] changed from "確認教師8/2" to "更換教室8/9".
+Value of root[662]['room'] changed from "三1,A,B(理PH 3001)" to "三1,A,B(理PH 6003)".
+Value of root[678]['teacher'] changed from "待聘" to "陳志漢".
+Value of root[988]['room'] changed from "四5,6,7(管CM 2015)" to "四5,6,7(管CM 1025)".
+Value of root[1218]['teacher'] changed from "待聘,待聘,待聘,待聘,待聘,待聘" to "蔣士仁,待聘,待聘,待聘,待聘,待聘".
+Value of root[1428]['changeDescription'] changed from "更換教師6/28" to "更換教師8/9".
+Value of root[1428]['teacher'] changed from "待聘" to "余健文".
+Value of root[1445]['teacher'] changed from "李宗錂,待聘" to "李宗錂,陳志漢".
+Value of root[1530]['select'] changed from 2 to 5.
+Value of root[1673]['select'] changed from 2 to 5.
+Value of root[1849]['select'] changed from 2 to 5.
+Value of root[1906]['select'] changed from 2 to 5.
+Value of root[2097]['select'] changed from 1 to 4.
+Value of root[2269]['select'] changed from 2 to 5.
+Value of root[2274]['select'] changed from 1 to 4.
+Value of root[2279]['select'] changed from 0 to 1.
+Value of root[2288]['select'] changed from 0 to 1.
+Value of root[2399]['select'] changed from 0 to 1.
+Value of root[2487]['select'] changed from 2 to 5.
+Value of root[2539]['select'] changed from 2 to 5.
+Value of root[2632]['select'] changed from 2 to 5.
+Value of root[2666]['select'] changed from 2 to 5.
+Value of root[2667]['select'] changed from 2 to 5.
+Value of root[2668]['select'] changed from 2 to 5.
+Value of root[2669]['select'] changed from 2 to 5.
+Value of root[2670]['select'] changed from 2 to 5.
+Value of root[2671]['select'] changed from 2 to 5.
+Value of root[2672]['select'] changed from 2 to 5.
+Value of root[2673]['select'] changed from 2 to 5.
+Value of root[2674]['select'] changed from 2 to 5.
+Value of root[2675]['select'] changed from 2 to 5.
+Value of root[2676]['select'] changed from 2 to 5.
+Value of root[2677]['select'] changed from 2 to 5.
+Value of root[2679]['select'] changed from 2 to 5.
+Value of root[2678]['select'] changed from 2 to 5.
