@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR803&Crsname=海洋生態專題研討（七）,異動,確認教師7/30,True,海資博,MBR803,2,不分班,"海洋生態專題研討（七）
+SEMINAR IN MARINE ECOLOGY (VII)",2,期,True,50,0,0,50,水晶,"一6,7(海MB 1005)","['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR807&Crsname=海洋化學資源專題研討（七）,,,True,海資博,MBR807,2,不分班,"海洋化學資源專題研討（七）
+SEMINAR IN MARINE CHEMICAL RESOURCES (VII)",2,期,True,50,0,0,50,廖志中,"一6,7(海MB 2014)","['67', '', '', '', '', '', '']","《研討類》
+碩博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR813&Crsname=水生生態專題研究（七）,,,False,海資博,MBR813,3,不分班,"水生生態專題研究（七）
+INDEPENDENT STUDIES IN AQUATIC ECOLOGY (７)",2,期,False,50,0,0,50,"劉商隱,張桂祥,林梅芳,林秀瑾","五1,A()","['', '', '', '', 'A1', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR821&Crsname=海洋化學生物學專題研究（七）,,,False,海資博,MBR821,2,不分班,"海洋化學生物學專題研究（七）
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (VII)",2,期,False,50,0,0,50,"鄭源斌,廖志中,翁靖如","五1,A()","['', '', '', '', 'A1', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR823&Crsname=海洋生物科技專題研究（七）,,,False,海資博,MBR823,2,不分班,"海洋生物科技專題研究（七）
+INDEPENDENT STUDIES IN MARINE BIOTECHNOLOGY (VII)",2,期,False,50,0,0,50,"溫志宏,李景欽,王亮鈞","五1,A()","['', '', '', '', 'A1', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAEV721&Crsname=高等波浪理論（一）,,,False,海工博,MAEV721,0,不分班,"高等波浪理論（一）
+ADVANCED WAVE THEORY(I)",3,期,False,50,0,0,50,陳陽益,"二6,7,8(海ME 3005)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAEV750&Crsname=近海海象預報理論及模擬（一）,,,False,海工博,MAEV750,0,不分班,"近海海象預報理論及模擬（一）
+THEORY OF PREDICTION AND MODELING FOR COASTAL OCEAN(I)",3,期,False,50,0,0,50,許弘莒,"二2,3,4(海ME 3005)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO752&Crsname=海洋生物專題研究（三）,,,False,海科博,DO752,0,不分班,"海洋生物專題研究（三）
+INDEPENDENT STUDIES IN MARINE BIOLOGY (III)",3,期,False,50,0,0,50,指導教授,"一1,A() 五A()","['A1', '', '', '', 'A', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO754&Crsname=海洋生物專題討論（一）,,,False,海科博,DO754,0,不分班,"海洋生物專題討論（一）
+SEMINAR IN MARINE BIOLOGY (I)",1,期,False,50,0,0,50,陳慶能,三6(海MA 1005),"['', '', '6', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO756&Crsname=海洋生物專題討論（三）,,,False,海科博,DO756,0,不分班,"海洋生物專題討論（三）
+SEMINAR IN MARINE BIOLOGY (III)",1,期,False,50,0,0,50,托星豪,三7(海MA 1005),"['', '', '7', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DDMB701&Crsname=專題討論（一）,,,False,海生科技博士學程,DDMB701,1,不分班,"專題討論（一）
+SEMINAR (I)",1,期,True,50,0,0,50,林梅芳,"一2,3,4(MB 1005)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DDMB703&Crsname=海洋生物學,,,False,海生科技博士學程,DDMB703,1,不分班,"海洋生物學
+MARINE BIOLOGY",3,期,True,50,0,0,50,林梅芳,"二2,3,4(MB 1005)","['', '234', '', '', '', '', '']",《講授類》,['生物資訊與演化生態微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DDMB801&Crsname=博士論文,異動,確認教師8/6,False,海生科技博士學程,DDMB801,3,不分班,"博士論文
+DISSERTATION",3,期,True,50,0,1,49,廖志中,"五7,8,9(各研究室)","['', '', '', '', '789', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPM701&Crsname=專題討論（一）,異動,確認教師8/7,False,海科全英博,IGPM701,1,不分班,"專題討論（一）
+SEMINAR (I)",1,期,False,50,0,0,50,"張桂祥,王敬湧",三6(MB 3013),"['', '', '6', '', '', '', '']","《研討類》
+與MEC508 合併授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPM703&Crsname=專題討論（三）,異動,確認教師8/7,False,海科全英博,IGPM703,2,不分班,"專題討論（三）
+SEMINAR (III)",1,期,False,50,0,0,50,"張桂祥,王敬湧",三7(MB 3013),"['', '', '7', '', '', '', '']","《研討類》
+與MEC508 合併授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPM705&Crsname=專題研究（一）,異動,確認教師8/7,False,海科全英博,IGPM705,1,不分班,"專題研究（一）
+INDEPENDENT STUDY (I)",3,期,False,50,0,0,50,"張桂祥,王敬湧","二2,3,4(各研究室)","['', '234', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS701&Crsname=政治學方法論,,,False,政治博,IPS701,1,不分班,"政治學方法論
+METHODOLOGY OF POLITICAL SCIENCE",3,期,True,50,0,0,50,劉正山,"五2,3,4(社SS 3007)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IOE714&Crsname=教育統計學研究,,,False,教育博,IOE714,0,不分班,"教育統計學研究
+STUDIES IN EDUCATIONAL STATISTICS",3,期,False,50,0,0,50,施慶麟,"三2,3,4(社SS 3006)","['', '', '234', '', '', '', '']",《講授類》,['政經大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IOE732&Crsname=發展心理學研究,,,False,教育博,IOE732,0,不分班,"發展心理學研究
+RESEARCH IN DEVELOPMENTAL PSYCHOLOGY",3,期,False,20,0,0,20,宋宥賢,"二6,7,8(社SS 2002-2)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IOE735&Crsname=質性研究法,,,False,教育博,IOE735,0,不分班,"質性研究法
+QUALITATIVE RESEARCH METHOD",3,期,False,50,0,0,50,莊雪華,"三5,6,B(社SS 2006)","['', '', 'B56', '', '', '', '']",《講授類》,[],False
