@@ -1,0 +1,15 @@
+Value of root[203]['teacher'] changed from "林季怡,李育諭" to "李育諭,林季怡".
+Value of root[1475]['room'] changed from "三2,3,4(工EC 8037)" to "三2,3,4(工EC 3013)".
+Value of root[1497]['room'] changed from "二3,4(工EC 3013) 三4(工EC 3013)" to "二3,4(工EC 3009) 三4(工EC 3009)".
+Value of root[1824]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2176]['select'] changed from 0 to 1.
+Value of root[2176]['selected'] changed from 15 to 14.
+Value of root[2176]['remaining'] changed from 35 to 36.
+Value of root[2177]['select'] changed from 0 to 1.
+Value of root[2177]['selected'] changed from 15 to 14.
+Value of root[2177]['remaining'] changed from 35 to 36.
+Value of root[2185]['select'] changed from 0 to 1.
+Value of root[2185]['selected'] changed from 15 to 14.
+Value of root[2185]['remaining'] changed from 35 to 36.
