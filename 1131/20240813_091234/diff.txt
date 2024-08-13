@@ -1,0 +1,63 @@
+Item root[2731]['classTime'][3] added to iterable.
+Item root[1139]['classTime'][4] added to iterable.
+Item root[2254] added to iterable.
+Item root[2731]['classTime'][2] removed from iterable.
+Item root[2731]['tags'][0] removed from iterable.
+Item root[1139]['classTime'][1] removed from iterable.
+Item root[1139]['tags'][0] removed from iterable.
+Item root[1139]['tags'][1] removed from iterable.
+Item root[1139]['tags'][2] removed from iterable.
+Item root[1139]['tags'][3] removed from iterable.
+Item root[1139]['tags'][4] removed from iterable.
+Item root[1139]['tags'][5] removed from iterable.
+Item root[2042]['tags'][0] removed from iterable.
+Type of root[2731]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[2731]['changeDescription'] changed from NoneType to str and value changed from None to "8/13".
+Type of root[2731]['class'] changed from NoneType to str and value changed from None to "不分班".
+Type of root[2240]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2240]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/13".
+Type of root[1139]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[1139]['changeDescription'] changed from NoneType to str and value changed from None to "8/13".
+Type of root[2514]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2514]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/13".
+Type of root[2042]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[2042]['changeDescription'] changed from NoneType to str and value changed from None to "8/13".
+Type of root[2747]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2747]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/13".
+Type of root[2748]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2748]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/13".
+Value of root[845]['select'] changed from 0 to 1.
+Value of root[1141]['changeDescription'] changed from "調整名額6/27" to "更換時間8/13".
+Value of root[1141]['restrict'] changed from 20 to 50.
+Value of root[1141]['remaining'] changed from 20 to 50.
+Value of root[1141]['room'] changed from "" to "一1,2,3,4,5,6,7,8,9,C,D(社SS 4004-2) 二1,2,3,4,5,6,7,8,9,C,D(社SS 4004-2) 三1,2,3,4,5,6,7,C,D,E,F(社SS 4004-2) 四1,2,3,4,5,6,7,8,9,C,D(社SS 4004-2) 五1,2,3,4,5,6,7,8,9,C(社SS 4004-2)".
+Value of root[2731]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS617&Crsname=比較政治思想" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS602G&Crsname=專題研究（一）".
+Value of root[2731]['id'] changed from "IPS617" to "IPS602G".
+Value of root[2731]['name'] changed from "比較政治思想
+COMPARATIVE POLITICAL THOUGHT" to "專題研究（一）
+INDEPENDENT STUDIES(I)".
+Value of root[2731]['teacher'] changed from "楊尚儒" to "陳若蘭".
+Value of root[2731]['room'] changed from "三5,6,7(社SS 3007)" to "四2,3,4()".
+Value of root[2731]['description'] changed from "《講授類》" to "《獨立研究》
+限政治所碩士生選修".
+Value of root[2240]['room'] changed from "三2,3,4(國IR 6002K)" to "三2,3,4(工EC 3013)".
+Value of root[1139]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC213&Crsname=環境社會學" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PEC683&Crsname=專利基礎知識與應用實務".
+Value of root[1139]['department'] changed from "社會系" to "零組件研究所".
+Value of root[1139]['id'] changed from "SOC213" to "PEC683".
+Value of root[1139]['grade'] changed from "2" to "3".
+Value of root[1139]['name'] changed from "環境社會學
+ENVIRONMENTAL SOCIOLOGY" to "專利基礎知識與應用實務
+INTERNSHIP IN PATENT BASIC KNOWLEDGE AND APPLICATION PRACTICE.".
+Value of root[1139]['restrict'] changed from 50 to 3.
+Value of root[1139]['remaining'] changed from 50 to 3.
+Value of root[1139]['teacher'] changed from "邱花妹" to "熊學毅".
+Value of root[1139]['room'] changed from "二6,7,8(社SS 4004-2)" to "五6,7()(實驗) 五5(雷科廠區)(實驗)".
+Value of root[1139]['description'] changed from "《講授類》" to "《企業實習》
+限精密電子零組件研究所-電子零組件及設備組學生修課".
+Value of root[2042]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS617&Crsname=比較政治思想" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS710&Crsname=西洋政治思想專題研討".
+Value of root[2042]['department'] changed from "政治碩" to "政治博".
+Value of root[2042]['id'] changed from "IPS617" to "IPS710".
+Value of root[2042]['name'] changed from "比較政治思想
+COMPARATIVE POLITICAL THOUGHT" to "西洋政治思想專題研討
+INDEPENDENT STUDIES IN WESTERN POLITICAL THOUGHT".
+Value of root[2042]['description'] changed from "《講授類》" to "《研討類》".
