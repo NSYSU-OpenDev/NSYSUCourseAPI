@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE503&Crsname=數位信號處理,,,False,通訊碩,ICE503,0,不分班,"數位信號處理
+DIGITAL SIGNAL PROCESSING",3,期,False,80,0,0,80,溫朝凱,"四2,3,4(工EC 2002)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE504&Crsname=數位通訊,,,False,通訊碩,ICE504,0,不分班,"數位通訊
+DIGITAL COMMUNICATIONS",3,期,False,50,0,0,50,王藏億,"二2,3,4(工EC 3012)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE505&Crsname=錯誤更正碼,,,False,通訊碩,ICE505,0,不分班,"錯誤更正碼
+ERROR-CORRECTION CODING",3,期,False,50,0,0,50,陳彥銘,"四5,6,7(工EC 8037)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE508&Crsname=最佳化理論,,,False,通訊碩,ICE508,0,不分班,"最佳化理論
+OPTIMIZATION THEORY",3,期,False,50,0,0,50,曾凡碩,"五5,6,7(工EC 2002)","['', '', '', '', '567', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE508A&Crsname=最佳化理論,,,False,通訊碩,ICE508A,0,不分班,"最佳化理論
+OPTIMIZATION THEORY",3,期,False,50,0,0,50,新可夫,"一5,6,7(工EC 6015-1)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE541&Crsname=通信系統性能評估,,,False,通訊碩,ICE541,0,不分班,"通信系統性能評估
+PERFORMANCE EVALUATION OF COMMUNICATIONS SYSTEMS",3,期,False,50,0,0,50,梁家昌,"五6,7,8(工EC 8037)","['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE607&Crsname=無線通訊通道估測專題,,,False,通訊碩,ICE607,0,不分班,"無線通訊通道估測專題
+INDEPENDENT STUDIES IN WIRELESS COMMUNICATIONS CHANNEL ESTIMATION",3,期,False,50,0,0,50,李志鵬,"五6,7,8(工EC 9011)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE608&Crsname=無線感測器網路之合作式偵測專題,,,False,通訊碩,ICE608,0,不分班,"無線感測器網路之合作式偵測專題
+INDEPENDENT STUDIES IN COLLABORATIVE DETECTION FOR WIRELESS SENSOR NETWORKS",3,期,False,50,0,0,50,王藏億,"二C,D,E(工EC 1007)","['', 'CDE', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE619&Crsname=無線傳收設計專題,,,False,通訊碩,ICE619,0,不分班,"無線傳收設計專題
+INDEPENDENT STUDIES IN TRANSCEIVER DESIGN IN WIRELESS NETWORKS",3,期,False,50,0,0,50,曾凡碩,"五C,D,E(工EC 2016-1)","['', '', '', '', 'CDE', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE624&Crsname=編碼與調變訊號設計專題,,,False,通訊碩,ICE624,0,不分班,"編碼與調變訊號設計專題
+INDEPENDENT STUDIES IN CODING AND MODULATION DESIGN",3,期,False,50,0,0,50,陳彥銘,"三C,D,E(工EC 2021)","['', '', 'CDE', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE628&Crsname=無人機輔助通訊系統專題,,,False,通訊碩,ICE628,0,不分班,"無人機輔助通訊系統專題
+INDEPENDENT STUDIES IN UAV-ASSISTED COMMUNICATIONS",3,期,False,50,0,0,50,新可夫,"五5,6,7(工EC 7040)","['', '', '', '', '567', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE629&Crsname=多天線系統設計專題,,,False,通訊碩,ICE629,0,不分班,"多天線系統設計專題
+INDEPENDENT STUDIES IN MULTI-ANTENNA SYSTEM DESIGN",3,期,False,50,0,0,50,溫朝凱,"四C,D,E(工EC 9029)","['', '', '', 'CDE', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE632&Crsname=通訊網路專題,,,False,通訊碩,ICE632,0,不分班,"通訊網路專題
+INDEPENDENT STUDIES IN COMMUNICATION NETWORKS",3,期,False,50,0,0,50,梁家昌,"二C,D,E(工EC 7018-1)","['', 'CDE', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO5001&Crsname=書報討論（一）,,,False,光電碩,EO5001,1,不分班,"書報討論（一）
+SEMINAR(I)",1,期,True,80,4,93,-13,林煒淳,"一6,7,8(國IR 3003)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO5002&Crsname=光電電磁學,,,False,光電碩,EO5002,0,不分班,"光電電磁學
+WAVES AND FIELDS IN OPTOELECTRONICS",3,期,False,50,0,0,50,王耀霆,"四5,6,7(國IR 2008)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO5012&Crsname=高速光電元件專題,,,False,光電碩,EO5012,0,不分班,"高速光電元件專題
+SPECIAL TOPICS IN HIGH-SPEED OPTOELECTRONIC DEVICES",3,期,False,50,0,0,50,邱逸仁,"三5,6,7(工EC 4007)","['', '', '567', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO5014&Crsname=光電數值方法,,,False,光電碩,EO5014,0,不分班,"光電數值方法
+NUMERICAL METHODS FOR ELECTRO-OPTICAL ENGINEERING",3,期,False,50,0,0,50,林元堯,"四5,6,7(國IR 3003)","['', '', '', '567', '', '', '']",《講授類》,['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO5016&Crsname=積體光電元件原理與設計,異動,更換授課方式7/3,False,光電碩,EO5016,0,不分班,"積體光電元件原理與設計
+PRINCIPLES AND DESIGN OF INTEGRATED OPTO-ELECTRONIC DEVICES",3,期,False,50,0,0,50,于欽平,"四2,3,4(國IR 2006)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課",['矽光子微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO5029&Crsname=有機光電材料專題,,,False,光電碩,EO5029,0,不分班,"有機光電材料專題
+SPECIAL TOPICS IN ORGANIC ELECTROLUMINESCENCE MATERIALS",3,期,False,50,0,0,50,張美濙,"三5,6,7(國IR 2004)","['', '', '567', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO5034&Crsname=光電實驗（一）,,,False,光電碩,EO5034,0,不分班,"光電實驗（一）
+ELECTRO-OPTICS LAB (I)",3,期,False,50,0,0,50,林元堯,"五1,5,6,7,8,9(國IR 3014)(實驗)","['', '', '', '', '156789', '', '']",《實驗類》,[],False
