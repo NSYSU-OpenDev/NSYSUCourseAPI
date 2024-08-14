@@ -1,0 +1,39 @@
+Item root[2107]['classTime'][3] added to iterable.
+Item root[2107]['classTime'][4] removed from iterable.
+Type of root[2317]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2317]['changeDescription'] changed from NoneType to str and value changed from None to "修改限修條件8/14".
+Type of root[2738]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2738]['changeDescription'] changed from NoneType to str and value changed from None to "修改限修條件8/14".
+Value of root[1074]['select'] changed from 0 to 1.
+Value of root[1074]['selected'] changed from 3 to 2.
+Value of root[1074]['remaining'] changed from 47 to 48.
+Value of root[1076]['select'] changed from 0 to 1.
+Value of root[1076]['selected'] changed from 3 to 2.
+Value of root[1076]['remaining'] changed from 47 to 48.
+Value of root[1078]['select'] changed from 0 to 1.
+Value of root[1078]['selected'] changed from 3 to 2.
+Value of root[1078]['remaining'] changed from 42 to 43.
+Value of root[1079]['select'] changed from 0 to 1.
+Value of root[1079]['selected'] changed from 3 to 2.
+Value of root[1079]['remaining'] changed from 47 to 48.
+Value of root[1264]['select'] changed from 1 to 2.
+Value of root[1264]['selected'] changed from 15 to 14.
+Value of root[1264]['remaining'] changed from 35 to 36.
+Value of root[1468]['select'] changed from 3 to 4.
+Value of root[1468]['selected'] changed from 149 to 148.
+Value of root[1468]['remaining'] changed from 1 to 2.
+Value of root[1539]['select'] changed from 1 to 14.
+Value of root[1539]['selected'] changed from 117 to 104.
+Value of root[1539]['remaining'] changed from -17 to -4.
+Value of root[1871]['select'] changed from 0 to 2.
+Value of root[1871]['selected'] changed from 22 to 20.
+Value of root[1871]['remaining'] changed from 28 to 30.
+Value of root[1874]['select'] changed from 0 to 2.
+Value of root[1874]['selected'] changed from 22 to 20.
+Value of root[1874]['remaining'] changed from 28 to 30.
+Value of root[2107]['changeDescription'] changed from "更換時間8/6" to "更換時間8/14".
+Value of root[2107]['room'] changed from "五2,3,4(社SS 4005)" to "四6,7,8(社SS 4005)".
+Value of root[2317]['description'] changed from "《講授類》" to "《講授類》
+限人管所學生選修".
+Value of root[2738]['description'] changed from "《講授類》" to "《講授類》
+限人管所學生選修".
