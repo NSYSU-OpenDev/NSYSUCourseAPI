@@ -1,0 +1,9 @@
+Type of root[2472]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2472]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式8/14".
+Type of root[2508]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2508]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式8/14".
+Value of root[1665]['select'] changed from 0 to 1.
+Value of root[1665]['selected'] changed from 68 to 67.
+Value of root[1665]['remaining'] changed from 2 to 3.
+Value of root[2472]['english'] changed from False to True.
+Value of root[2508]['english'] changed from False to True.
