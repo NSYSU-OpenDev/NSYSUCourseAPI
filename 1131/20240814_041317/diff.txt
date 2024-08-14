@@ -1,6 +1,0 @@
-Value of root[353]['change'] changed from "新增" to "異動".
-Value of root[353]['changeDescription'] changed from "7/31" to "8/14".
-Value of root[353]['teacher'] changed from "待聘" to "馬文".
-Value of root[1289]['select'] changed from 0 to 2.
-Value of root[1289]['selected'] changed from 19 to 17.
-Value of root[1289]['remaining'] changed from 31 to 33.
