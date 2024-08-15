@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM307&Crsname=精神科學實習,,,False,後醫學系,DPBM307,3,不分班,"精神科學實習
-CLERKSHIP IN PSYCHIATRY",4,年,True,23,0,23,0,"待聘,待聘,待聘,待聘,待聘,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+CLERKSHIP IN PSYCHIATRY",4,年,True,23,0,23,0,"張志誠,待聘,待聘,待聘,待聘,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
 限後醫系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM308&Crsname=復健科學實習,異動,確認教師7/31,False,後醫學系,DPBM308,3,不分班,"復健科學實習
 CLERKSHIP IN REHABILITATION MEDICINE",2,年,True,23,0,23,0,"劉亦修,待聘,待聘,待聘,待聘,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
