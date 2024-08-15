@@ -1,5 +1,0 @@
-Value of root[1219]['teacher'] changed from "待聘,待聘,待聘,待聘,待聘,待聘" to "謝孟倉,待聘,待聘,待聘,待聘,待聘".
-Value of root[1220]['teacher'] changed from "待聘,待聘,待聘,待聘,待聘,待聘" to "張志誠,待聘,待聘,待聘,待聘,待聘".
-Value of root[1762]['select'] changed from 0 to 1.
-Value of root[1762]['selected'] changed from 50 to 49.
-Value of root[1762]['remaining'] changed from 0 to 1.

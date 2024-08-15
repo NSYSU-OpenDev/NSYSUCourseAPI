@@ -1,0 +1,67 @@
+Item root[2683] added to iterable.
+Item root[2670] removed from iterable.
+Item root[2671] removed from iterable.
+Item root[2672] removed from iterable.
+Item root[2673] removed from iterable.
+Item root[2674] removed from iterable.
+Item root[2675] removed from iterable.
+Item root[2676] removed from iterable.
+Item root[2677] removed from iterable.
+Item root[2678] removed from iterable.
+Item root[2679] removed from iterable.
+Item root[2680] removed from iterable.
+Item root[2681] removed from iterable.
+Item root[2682] removed from iterable.
+Type of root[1003]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1003]['changeDescription'] changed from NoneType to str and value changed from None to "修改限修說明８／１３".
+Type of root[2616]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2616]['changeDescription'] changed from NoneType to str and value changed from None to "修改限修說明８／１３".
+Type of root[2617]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2617]['changeDescription'] changed from NoneType to str and value changed from None to "修改限修說明８／１３".
+Type of root[2618]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2618]['changeDescription'] changed from NoneType to str and value changed from None to "修改限修說明８／１３".
+Type of root[2619]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2619]['changeDescription'] changed from NoneType to str and value changed from None to "修改限修說明８／１３".
+Value of root[910]['select'] changed from 0 to 1.
+Value of root[910]['selected'] changed from 28 to 27.
+Value of root[910]['remaining'] changed from 32 to 33.
+Value of root[911]['select'] changed from 0 to 1.
+Value of root[911]['selected'] changed from 28 to 27.
+Value of root[911]['remaining'] changed from 32 to 33.
+Value of root[912]['select'] changed from 0 to 1.
+Value of root[912]['selected'] changed from 28 to 27.
+Value of root[912]['remaining'] changed from 32 to 33.
+Value of root[1002]['description'] changed from "《講授類》
+限管院生修習/網大進行之非同步線上課程" to "《講授類》
+限管理學院大學部學生修習(含雙主修、輔系)/網大進行之非同步線上課程".
+Value of root[1003]['description'] changed from "《講授類》
+限管院生修習/網大進行之非同步線上課程" to "《講授類》
+限管理學院大學部院生修習/網大進行之非同步線上課程".
+Value of root[1848]['description'] changed from "《講授類》
+網大進行之非同步線上課程(二年級優先選課)" to "《講授類》
+限管理學院學生選修/網大進行之非同步線上課程(二年級優先選課)".
+Value of root[2613]['description'] changed from "《講授類》
+限管院生修習/網大進行之非同步線上課程" to "《講授類》
+限管理學院大學部學生修習(含雙主修、輔系)/網大進行之非同步線上課程".
+Value of root[2614]['description'] changed from "《講授類》
+限管院生修習/網大進行之非同步線上課程" to "《講授類》
+限管理學院大學部學生修習(含雙主修、輔系)/網大進行之非同步線上課程".
+Value of root[2615]['description'] changed from "《講授類》
+限管院生修習/網大進行之非同步線上課程" to "《講授類》
+限管理學院大學部學生修習(含雙主修、輔系)/網大進行之非同步線上課程".
+Value of root[2616]['description'] changed from "《講授類》
+限管院生修習/網大進行之非同步線上課程" to "《講授類》
+限管理學院大學部院生修習/網大進行之非同步線上課程".
+Value of root[2617]['description'] changed from "《講授類》
+限管院生修習/網大進行之非同步線上課程" to "《講授類》
+限管理學院大學部院生修習/網大進行之非同步線上課程".
+Value of root[2618]['description'] changed from "《講授類》
+限管院生修習/網大進行之非同步線上課程" to "《講授類》
+限管理學院大學部院生修習/網大進行之非同步線上課程".
+Value of root[2619]['description'] changed from "《講授類》
+限管院生修習/網大進行之非同步線上課程" to "《講授類》
+限管理學院大學部院生修習/網大進行之非同步線上課程".
+Value of root[2683]['description'] changed from "《講授類》
+企業管理組;
+網大進行之非同步線上課程(二年級優先選課)" to "《講授類》
+限管理學院學生選修/網大進行之非同步線上課程(二年級優先選課)".
