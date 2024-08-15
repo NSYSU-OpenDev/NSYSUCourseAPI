@@ -1,0 +1,22 @@
+Item root[761]['classTime'][2] added to iterable.
+Item root[1300]['classTime'][4] added to iterable.
+Item root[761]['classTime'][4] removed from iterable.
+Item root[1300]['classTime'][3] removed from iterable.
+Type of root[760]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[760]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/15".
+Type of root[761]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[761]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室8/15".
+Type of root[1300]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[1300]['changeDescription'] changed from NoneType to str and value changed from None to "8/15".
+Value of root[760]['room'] changed from "三5,6,7(工EC 3009)" to "三5,6,7(工EC 3014)".
+Value of root[761]['room'] changed from "五5,6,7(工EC 3012)" to "三2,3,4(工EC 1001)".
+Value of root[1300]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MUSI614&Crsname=鋼琴合作" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS603&Crsname=表面物理".
+Value of root[1300]['department'] changed from "音樂碩" to "物理碩".
+Value of root[1300]['id'] changed from "MUSI614" to "PHYS603".
+Value of root[1300]['grade'] changed from "0" to "2".
+Value of root[1300]['name'] changed from "鋼琴合作
+PIANO ACCOMPANIMENT" to "表面物理
+SURFACE SCIENCE".
+Value of root[1300]['credit'] changed from "2" to "3".
+Value of root[1300]['teacher'] changed from "林雅叙" to "盧怡穎".
+Value of root[1300]['room'] changed from "四3,4(文FA 4028)" to "五5,6,7(理PH 5008)".
