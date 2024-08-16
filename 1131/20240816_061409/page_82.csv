@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE501&Crsname=書報討論,,,False,通訊碩,ICE501,1,不分班,"書報討論
-SEMINAR",1,期,True,70,2,31,39,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
+SEMINAR",1,期,True,70,4,29,41,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
 與ICE501A、ICE701併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE501A&Crsname=書報討論,,,False,通訊碩,ICE501A,2,不分班,"書報討論
 SEMINAR",1,期,True,70,1,29,41,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》

@@ -12,13 +12,13 @@ PRINCIPLE OF INSTRUMENT ANALYSIS",3,期,False,50,0,0,50,陳則綸,"二6,7,8(工E
  
 ※英語授課",['半導體設備工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE505&Crsname=計算機結構,,,False,資工碩,CSE505,1,不分班,"計算機結構
-COMPUTER ARCHITECTURES",3,期,True,80,13,116,-36,李淑敏,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']",《講授類》,[],True
+COMPUTER ARCHITECTURES",3,期,True,80,15,114,-34,李淑敏,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE510&Crsname=演算法設計與分析,,,False,資工碩,CSE510,1,不分班,"演算法設計與分析
-ALGORITHM DESIGN AND ANALYSIS",3,期,True,80,13,116,-36,楊昌彪,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
+ALGORITHM DESIGN AND ANALYSIS",3,期,True,80,15,114,-34,楊昌彪,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE515&Crsname=高等電腦網路,,,False,資工碩,CSE515,1,不分班,"高等電腦網路
-ADVANCED COMPUTER NETWORKS",3,期,True,80,13,116,-36,林俊宏,"三2,3,4(工EC 5012)","['', '', '234', '', '', '', '']",《講授類》,['永續能源學程'],False
+ADVANCED COMPUTER NETWORKS",3,期,True,80,15,114,-34,林俊宏,"三2,3,4(工EC 5012)","['', '', '234', '', '', '', '']",《講授類》,['永續能源學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE520&Crsname=高等作業系統,,,False,資工碩,CSE520,1,不分班,"高等作業系統
-ADVANCED OPERATING SYSTEMS",3,期,True,80,13,116,-36,王友群,"四6,7,8(工EC 9032)","['', '', '', '678', '', '', '']",《講授類》,[],False
+ADVANCED OPERATING SYSTEMS",3,期,True,80,15,114,-34,王友群,"四6,7,8(工EC 9032)","['', '', '', '678', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE522&Crsname=進階資料探勘,,,False,資工碩,CSE522,0,不分班,"進階資料探勘
 ADVANCED DATA MINING",3,期,False,50,0,0,50,洪宗貝,"四2,3,4(工EC 1005)","['', '', '', '234', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE530&Crsname=專題研究（一）,,,False,資工碩,CSE530,0,不分班,"專題研究（一）
@@ -46,8 +46,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE530G
 INDEPENDENT STUDIES(I)",3,期,False,50,0,0,50,楊昌彪,"二6,7,8(工EC 9014)","['', '678', '', '', '', '', '']","《獨立研究》
 限本系碩/博士生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE531&Crsname=書報討論（一）,,,False,資工碩,CSE531,1,不分班,"書報討論（一）
-SEMINAR I",1,期,True,120,13,116,4,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+SEMINAR I",1,期,True,120,15,114,6,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
 限本系大四生及碩/博士生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE533&Crsname=書報討論（三）,,,False,資工碩,CSE533,2,不分班,"書報討論（三）
-SEMINAR III",1,期,True,120,2,106,14,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+SEMINAR III",1,期,True,120,3,106,14,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
 限本系大四生及碩/博士生修習",[],False

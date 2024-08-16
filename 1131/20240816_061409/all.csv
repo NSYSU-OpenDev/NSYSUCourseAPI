@@ -2283,7 +2283,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME201
 ENGINEERING MATHEMATICS(I)",3,期,True,55,1,32,23,劉耿豪,"四5,6,7(工EN 4055-1)","['', '', '', '567', '', '', '']","《講授類》
 二甲、二乙併班上課",['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME201A&Crsname=工程數學（一）,,,False,機電系,MEME201A,2,乙班,"工程數學（一）
-ENGINEERING MATHEMATICS(I)",3,期,True,55,0,36,19,劉耿豪,"四5,6,7(工EN 4055-1)","['', '', '', '567', '', '', '']","《講授類》
+ENGINEERING MATHEMATICS(I)",3,期,True,55,1,36,19,劉耿豪,"四5,6,7(工EN 4055-1)","['', '', '', '567', '', '', '']","《講授類》
 二甲、二乙併班上課",['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME201B&Crsname=工程數學（一）,,,False,機電系,MEME201B,2,全英班,"工程數學（一）
 ENGINEERING MATHEMATICS(I)",3,期,True,60,0,36,24,汪正祺,"三2,3,4(工EC 2003)","['', '', '234', '', '', '', '']","《講授類》
@@ -2293,7 +2293,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME203
 THERMODYNAMICS",3,期,True,55,1,32,23,郭振坤,"二5,6,7(工EN 4055-1)","['', '567', '', '', '', '', '']","《講授類》
 二甲、二乙併班上課","['半導體製程模組學程', '半導體設備工程學程', '南星產業樞紐學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME203A&Crsname=熱力學,,,False,機電系,MEME203A,2,乙班,"熱力學
-THERMODYNAMICS",3,期,True,55,0,36,19,郭振坤,"二5,6,7(工EN 4055-1)","['', '567', '', '', '', '', '']","《講授類》
+THERMODYNAMICS",3,期,True,55,1,36,19,郭振坤,"二5,6,7(工EN 4055-1)","['', '567', '', '', '', '', '']","《講授類》
 二甲、二乙併班上課","['半導體製程模組學程', '半導體設備工程學程', '南星產業樞紐學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME203B&Crsname=熱力學,,,False,機電系,MEME203B,2,全英班,"熱力學
 THERMODYNAMICS",3,期,True,60,0,36,24,鄭威利,"一2,3,4(工EC 2003)","['234', '', '', '', '', '', '']","《講授類》
@@ -2303,7 +2303,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME204
 ELECTRIC CIRCUIT THEORY",3,期,True,55,1,32,23,許煜亮,"一2,3,4(工EN 4055-1)","['234', '', '', '', '', '', '']","《講授類》
 二甲、二乙併班上課","['南星產業樞紐學程', '太空科技微學程', '半導體製程模組學程', '半導體設備工程學程', '類比射頻IC設計學程', '半導體元件學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME204A&Crsname=電路學,,,False,機電系,MEME204A,2,乙班,"電路學
-ELECTRIC CIRCUIT THEORY",3,期,True,55,0,36,19,許煜亮,"一2,3,4(工EN 4055-1)","['234', '', '', '', '', '', '']","《講授類》
+ELECTRIC CIRCUIT THEORY",3,期,True,55,1,36,19,許煜亮,"一2,3,4(工EN 4055-1)","['234', '', '', '', '', '', '']","《講授類》
 二甲、二乙併班上課","['南星產業樞紐學程', '太空科技微學程', '半導體製程模組學程', '半導體設備工程學程', '類比射頻IC設計學程', '半導體元件學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME204B&Crsname=電路學,,,False,機電系,MEME204B,2,全英班,"電路學
 ELECTRIC CIRCUIT THEORY",3,期,True,60,0,36,24,程啓正,"四2,3,4(工EC 2006)","['', '', '', '234', '', '', '']","《講授類》
@@ -2312,7 +2312,7 @@ ELECTRIC CIRCUIT THEORY",3,期,True,60,0,36,24,程啓正,"四2,3,4(工EC 2006)",
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME205&Crsname=精密機械製造,,,False,機電系,MEME205,2,甲班,"精密機械製造
 PRECISION MANUFACTURING PROCESS",3,期,True,60,1,32,28,楊政融,"三2,3,4(工EC 3002)","['', '', '234', '', '', '', '']",《講授類》,"['智慧製造聯網微學程', '製造與大數據分析微學程', '半導體設備工程學程', '跨領域智慧製造學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME205A&Crsname=精密機械製造,,,False,機電系,MEME205A,2,乙班,"精密機械製造
-PRECISION MANUFACTURING PROCESS",3,期,True,60,0,36,24,楊政融,"三5,6,7(工EC 3002)","['', '', '567', '', '', '', '']",《講授類》,"['智慧製造聯網微學程', '製造與大數據分析微學程', '半導體設備工程學程', '跨領域智慧製造學程']",False
+PRECISION MANUFACTURING PROCESS",3,期,True,60,1,36,24,楊政融,"三5,6,7(工EC 3002)","['', '', '567', '', '', '', '']",《講授類》,"['智慧製造聯網微學程', '製造與大數據分析微學程', '半導體設備工程學程', '跨領域智慧製造學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME205B&Crsname=精密機械製造,,,False,機電系,MEME205B,2,全英班,"精密機械製造
 PRECISION MANUFACTURING PROCESS",3,期,True,60,0,36,24,李伯軒,"二2,3,4(工EC 2006)","['', '234', '', '', '', '', '']","《講授類》
  
@@ -2321,7 +2321,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME207
 MECHANICS OF MATERIALS",3,期,True,60,1,32,28,黃永茂,"四2,3,4(工EC 3002)","['', '', '', '234', '', '', '']","《講授類》
 限該班及重修生修習",['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME207A&Crsname=材料力學,異動,確認教師8/7,False,機電系,MEME207A,2,乙班,"材料力學
-MECHANICS OF MATERIALS",3,期,True,60,0,36,24,施孟鎧,"五2,3,4(工EC 3002)","['', '', '', '', '234', '', '']","《講授類》
+MECHANICS OF MATERIALS",3,期,True,60,1,36,24,施孟鎧,"五2,3,4(工EC 3002)","['', '', '', '', '234', '', '']","《講授類》
 限該班及重修生修習",['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME207B&Crsname=材料力學,異動,確認教師8/7,False,機電系,MEME207B,2,全英班,"材料力學
 MECHANICS OF MATERIALS",3,期,True,60,0,36,24,施孟鎧,"二5,6,7(工EC 2003)","['', '567', '', '', '', '', '']","《講授類》
@@ -4313,13 +4313,13 @@ PRINCIPLE OF INSTRUMENT ANALYSIS",3,期,False,50,0,0,50,陳則綸,"二6,7,8(工E
  
 ※英語授課",['半導體設備工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE505&Crsname=計算機結構,,,False,資工碩,CSE505,1,不分班,"計算機結構
-COMPUTER ARCHITECTURES",3,期,True,80,13,116,-36,李淑敏,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']",《講授類》,[],True
+COMPUTER ARCHITECTURES",3,期,True,80,15,114,-34,李淑敏,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE510&Crsname=演算法設計與分析,,,False,資工碩,CSE510,1,不分班,"演算法設計與分析
-ALGORITHM DESIGN AND ANALYSIS",3,期,True,80,13,116,-36,楊昌彪,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
+ALGORITHM DESIGN AND ANALYSIS",3,期,True,80,15,114,-34,楊昌彪,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE515&Crsname=高等電腦網路,,,False,資工碩,CSE515,1,不分班,"高等電腦網路
-ADVANCED COMPUTER NETWORKS",3,期,True,80,13,116,-36,林俊宏,"三2,3,4(工EC 5012)","['', '', '234', '', '', '', '']",《講授類》,['永續能源學程'],False
+ADVANCED COMPUTER NETWORKS",3,期,True,80,15,114,-34,林俊宏,"三2,3,4(工EC 5012)","['', '', '234', '', '', '', '']",《講授類》,['永續能源學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE520&Crsname=高等作業系統,,,False,資工碩,CSE520,1,不分班,"高等作業系統
-ADVANCED OPERATING SYSTEMS",3,期,True,80,13,116,-36,王友群,"四6,7,8(工EC 9032)","['', '', '', '678', '', '', '']",《講授類》,[],False
+ADVANCED OPERATING SYSTEMS",3,期,True,80,15,114,-34,王友群,"四6,7,8(工EC 9032)","['', '', '', '678', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE522&Crsname=進階資料探勘,,,False,資工碩,CSE522,0,不分班,"進階資料探勘
 ADVANCED DATA MINING",3,期,False,50,0,0,50,洪宗貝,"四2,3,4(工EC 1005)","['', '', '', '234', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE530&Crsname=專題研究（一）,,,False,資工碩,CSE530,0,不分班,"專題研究（一）
@@ -4347,10 +4347,10 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE530G
 INDEPENDENT STUDIES(I)",3,期,False,50,0,0,50,楊昌彪,"二6,7,8(工EC 9014)","['', '678', '', '', '', '', '']","《獨立研究》
 限本系碩/博士生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE531&Crsname=書報討論（一）,,,False,資工碩,CSE531,1,不分班,"書報討論（一）
-SEMINAR I",1,期,True,120,13,116,4,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+SEMINAR I",1,期,True,120,15,114,6,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
 限本系大四生及碩/博士生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE533&Crsname=書報討論（三）,,,False,資工碩,CSE533,2,不分班,"書報討論（三）
-SEMINAR III",1,期,True,120,2,106,14,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+SEMINAR III",1,期,True,120,3,106,14,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
 限本系大四生及碩/博士生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE536&Crsname=巨量資料分析與機器學習專題,,,False,資工碩,CSE536,0,不分班,"巨量資料分析與機器學習專題
 INDEPENDENT STUDIES IN BIG DATA ANALYSIS AND MACHINE LEARNINGING",3,期,False,50,0,0,50,林俊宏,"五2,3,4(工EC 5000)","['', '', '', '', '234', '', '']","《獨立研究》
@@ -4404,7 +4404,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE698&
 INDEPENDENT STUDIES IN EDGE ARTIFICIAL INTELLIGENCE CHIP DESIGN AND APPLICATION",3,期,False,50,0,0,50,蕭勝夫,"一5,6,7(工EC 5000)","['567', '', '', '', '', '', '']","《獨立研究》
 限本系碩/博士生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE501&Crsname=書報討論,,,False,通訊碩,ICE501,1,不分班,"書報討論
-SEMINAR",1,期,True,70,2,31,39,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
+SEMINAR",1,期,True,70,4,29,41,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
 與ICE501A、ICE701併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE501A&Crsname=書報討論,,,False,通訊碩,ICE501A,2,不分班,"書報討論
 SEMINAR",1,期,True,70,1,29,41,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
@@ -6024,13 +6024,13 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SBF563&
 ENGLISH FOR BUSINESS",1,期,False,100,0,0,100,柯馬丁,,"['', '', '', 'E', '', '', '']","《講授類》
 本課程限國際金融研究學院學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DSF501&Crsname=數位金融與數位轉型導論,異動,更正限修條件8/15,False,數位金融所,DSF501,1,不分班,"數位金融與數位轉型導論
-INTRODUCTION TO DIGITAL FINANCE AND DIGITAL TRANSFORMATION",3,期,True,50,0,34,16,王可言,,"['', '', '', '', '', '234', '']","《講授類》
+INTRODUCTION TO DIGITAL FINANCE AND DIGITAL TRANSFORMATION",3,期,True,50,1,33,17,王可言,,"['', '', '', '', '', '234', '']","《講授類》
 本課程限國際金融研究學院學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DSF502&Crsname=永續金融導論,,,False,數位金融所,DSF502,1,不分班,"永續金融導論
-INTRODUCTION TO SUSTAINABLE FINANCE",3,期,True,50,0,34,16,貝賽峰,,"['', '', '', '', '', '567', '']","《講授類》
+INTRODUCTION TO SUSTAINABLE FINANCE",3,期,True,50,1,33,17,貝賽峰,,"['', '', '', '', '', '567', '']","《講授類》
 本課程限國際金融研究學院學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DSF503&Crsname=創新商業模式實作（一）,,,False,數位金融所,DSF503,1,不分班,"創新商業模式實作（一）
-IMPLEMENTATION OF INNOVATIVE BUSINESS MODELS (I)",1,期,True,50,0,34,16,郭志文,,"['', '', '', '', '7', '', '']","《講授類》
+IMPLEMENTATION OF INNOVATIVE BUSINESS MODELS (I)",1,期,True,50,1,33,17,郭志文,,"['', '', '', '', '7', '', '']","《講授類》
 本課程限數金所學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DSF551&Crsname=碳匯和綠色金融工具,異動,更正限修條件8/15,False,數位金融所,DSF551,1,不分班,"碳匯和綠色金融工具
 CARBON SINKS AND GREEN FINANCIAL INSTRUMENTS",2,期,False,50,0,0,50,貝賽峰,,"['', '', '', '', '', '89', '']","《講授類》
