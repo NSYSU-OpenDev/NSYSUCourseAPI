@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISM520&Crsname=半導體元件與物理,異動,更換時間及教室7/5,False,半導體製造碩,ISM520,1,不分班,"半導體元件與物理
-SEMICONDUCTOR DEVICES AND PHYSICS",3,期,True,25,1,24,1,馬誠佑,"一6,7,8(國IR 6002J)","['678', '', '', '', '', '', '']","《講授類》
+SEMICONDUCTOR DEVICES AND PHYSICS",3,期,True,25,3,22,3,馬誠佑,"一6,7,8(國IR 6002J)","['678', '', '', '', '', '', '']","《講授類》
 網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISM545&Crsname=人工智慧理論與應用,異動,調整名額7/5,False,半導體製造碩,ISM545,1,不分班,"人工智慧理論與應用
 ARTIFICIAL INTELLIGENCE THEORY AND APPLICATIONS",3,期,False,11,0,0,11,蔡崇煒,"四6,7,8(工EC 1006)","['', '', '', '678', '', '', '']","《講授類》
