@@ -1,0 +1,50 @@
+Item root[641] added to iterable.
+Item root[665]['classTime'][1] added to iterable.
+Item root[665]['classTime'][2] added to iterable.
+Item root[665]['classTime'][2] removed from iterable.
+Repetition change for item root[665]['classTime'][0].
+Type of root[196]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[196]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/19".
+Type of root[251]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[251]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/19".
+Type of root[665]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[665]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間8/19".
+Value of root[50]['teacher'] changed from "陳楓旻" to "溫惠珍".
+Value of root[50]['room'] changed from "二5,6,7(管CM 2025)" to "五5,6,7(社SS 2006)".
+Value of root[52]['room'] changed from "二5,6,7(海ME 3004)" to "二5,6,7(管CM 2025)".
+Value of root[196]['teacher'] changed from "陳易馨" to "洪昇廷".
+Value of root[251]['teacher'] changed from "陳易馨" to "洪昇廷".
+Value of root[251]['description'] changed from "《實驗類》
+跨院通識與普通物理小組PHY108A課程併班上課" to "《實驗類》
+學生優先選修跨院通識與普通物理小組PHY108A課程併班上課".
+Value of root[604]['select'] changed from 0 to 1.
+Value of root[604]['selected'] changed from 21 to 20.
+Value of root[604]['remaining'] changed from 29 to 30.
+Value of root[606]['select'] changed from 0 to 1.
+Value of root[606]['selected'] changed from 21 to 20.
+Value of root[606]['remaining'] changed from 39 to 40.
+Value of root[665]['room'] changed from "三2,3,4(理PH 1009)" to "二5(理PH 1009) 三3,4(理PH 1009)".
+Value of root[915]['select'] changed from 0 to 1.
+Value of root[915]['selected'] changed from 4 to 3.
+Value of root[915]['remaining'] changed from 46 to 47.
+Value of root[919]['select'] changed from 0 to 1.
+Value of root[919]['selected'] changed from 4 to 3.
+Value of root[919]['remaining'] changed from 46 to 47.
+Value of root[924]['select'] changed from 0 to 1.
+Value of root[924]['selected'] changed from 4 to 3.
+Value of root[924]['remaining'] changed from 46 to 47.
+Value of root[1744]['teacher'] changed from "李宗璘,哈菲茲,艾慕明,蘇健翔,謝耀慶,鄧人豪" to "謝耀慶,哈菲茲,李宗璘,艾慕明,蘇健翔,鄧人豪".
+Value of root[1887]['select'] changed from 1 to 2.
+Value of root[1887]['selected'] changed from 60 to 59.
+Value of root[1887]['remaining'] changed from 0 to 1.
+Value of root[1894]['select'] changed from 1 to 2.
+Value of root[1894]['selected'] changed from 60 to 59.
+Value of root[1894]['remaining'] changed from 0 to 1.
+Value of root[1895]['select'] changed from 1 to 2.
+Value of root[1895]['selected'] changed from 60 to 59.
+Value of root[1895]['remaining'] changed from 0 to 1.
+Value of root[1898]['select'] changed from 1 to 2.
+Value of root[1898]['selected'] changed from 60 to 59.
+Value of root[1898]['remaining'] changed from 0 to 1.
+Value of root[2070]['selected'] changed from 23 to 22.
+Value of root[2070]['remaining'] changed from 27 to 28.
