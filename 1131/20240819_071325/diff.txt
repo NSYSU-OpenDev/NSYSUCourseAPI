@@ -1,0 +1,32 @@
+Item root[2248] removed from iterable.
+Type of root[15]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[15]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/19".
+Type of root[2245]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2245]['changeDescription'] changed from NoneType to str and value changed from None to "調降名額8/19".
+Type of root[2246]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2246]['changeDescription'] changed from NoneType to str and value changed from None to "調降名額8/19".
+Type of root[2249]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2249]['changeDescription'] changed from NoneType to str and value changed from None to "調降名額8/19".
+Type of root[2250]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2250]['changeDescription'] changed from NoneType to str and value changed from None to "調降名額8/19".
+Type of root[2251]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2251]['changeDescription'] changed from NoneType to str and value changed from None to "調降名額8/19".
+Type of root[2252]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2252]['changeDescription'] changed from NoneType to str and value changed from None to "調降名額8/19".
+Value of root[429]['selected'] changed from 47 to 45.
+Value of root[429]['remaining'] changed from 3 to 5.
+Value of root[2245]['restrict'] changed from 15 to 10.
+Value of root[2245]['remaining'] changed from 15 to 10.
+Value of root[2246]['restrict'] changed from 15 to 10.
+Value of root[2246]['remaining'] changed from 15 to 10.
+Value of root[2247]['changeDescription'] changed from "更換教室8/13" to "調降名額8/19".
+Value of root[2247]['restrict'] changed from 15 to 10.
+Value of root[2247]['remaining'] changed from 15 to 10.
+Value of root[2249]['restrict'] changed from 15 to 10.
+Value of root[2249]['remaining'] changed from 15 to 10.
+Value of root[2250]['restrict'] changed from 15 to 10.
+Value of root[2250]['remaining'] changed from 15 to 10.
+Value of root[2251]['restrict'] changed from 15 to 10.
+Value of root[2251]['remaining'] changed from 15 to 10.
+Value of root[2252]['restrict'] changed from 15 to 10.
+Value of root[2252]['remaining'] changed from 15 to 10.

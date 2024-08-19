@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS602D&Crsname=專題研究（一）,,,False,政治碩,IPS602D,0,,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,0,50,楊尚儒,"五2,3,4()","['', '', '', '', '234', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS602E&Crsname=專題研究（一）,,,False,政治碩,IPS602E,0,,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,0,50,張晉赫,"五2,3,4()","['', '', '', '', '234', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS620&Crsname=當代政治思想,,,False,政治碩,IPS620,0,,"當代政治思想
+CONTEMPORARY POLITICAL THOUGHT",3,期,False,50,0,0,50,杜坤峰,"四5,6,7(社SS 3010-2)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS641&Crsname=韓國與東亞政治經濟,,,False,政治碩,IPS641,0,,"韓國與東亞政治經濟
+POLITICAL ECONOMY OF KOREA  AND EAST ASIA",3,期,False,50,0,0,50,張晉赫,"三5,6,7(社SS 3008)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS651&Crsname=比較議會政治,,,False,政治碩,IPS651,0,,"比較議會政治
+COMPARATIVE LEGISLATURE STUDIES",3,期,False,50,0,0,50,張晉赫,"三2,3,4(社SS 3008)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IPS672&Crsname=學門跨域專題講座(一),,,False,政治碩,IPS672,0,,"學門跨域專題講座(一)
+SPECIAL LECTURES ON THE DISCIPLINE AND BEYOND(I)",1,期,False,50,0,0,50,陳宗巖,四B(社SS 3007),"['', '', '', 'B', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM911&Crsname=組織理論與管理,,,False,人管碩專,HRM911,1,,"組織理論與管理
+ORGANIZATION THEORY AND MANAGEMENT",3,期,False,25,0,0,25,陳旻男,"四C,D,E(管CM 3043)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM912&Crsname=組織行為,異動,修改限修條件8/14,False,人管碩專,HRM912,1,,"組織行為
+ORGANIZATIONAL BEHAVIOR",3,期,False,25,0,0,25,王豫萱,"六C,D,E(管CM 3043)","['', '', '', '', '', 'CDE', '']","《講授類》
+限人管所學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM914&Crsname=人力資源研究方法,異動,修正時間8/7,False,人管碩專,HRM914,1,,"人力資源研究方法
+RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT",3,期,False,50,0,0,50,紀乃文,,"['', '', '', '', '', '234', '234']","《講授類》
+限暑假已參與課程者修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM968&Crsname=個案研究方法,,,False,人管碩專,HRM968,2,,"個案研究方法
+CASE STUDY RESEARCH",3,期,False,35,0,0,35,葉致微,"三C,D,E(管CM 1036)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM974&Crsname=應用統計與資料分析,,,False,人管碩專,HRM974,1,,"應用統計與資料分析
+APPLIED STATISTICS AND DATA ANALYSIS",3,期,False,25,0,0,25,李澄賢,"日2,3,4(管CM 3043)","['', '', '', '', '', '', '234']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM976&Crsname=人工智慧在測驗下的相關應用與發展,異動,確認教師8/7,False,人管碩專,HRM976,1,,"人工智慧在測驗下的相關應用與發展
+RELEVANT APPLICATIONS AND DEVELOPMENT OF ARTIFICIAL INTELLIGENCE IN MEASUREMENT",3,期,False,30,0,0,30,鄭怡玲,"六2,3,4(管CM 1036)","['', '', '', '', '', '234', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA911&Crsname=組織理論與管理,,,False,人亞碩專,HRMA911,1,,"組織理論與管理
+ORGANIZATION THEORY & MANAGEMENT",3,期,False,30,0,0,30,葉致微,"四C,D,E(管CM 1019)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA913&Crsname=人力資源管理,,,False,人亞碩專,HRMA913,1,,"人力資源管理
+HUMAN RESOURCE MANAGEMENT",3,期,False,30,0,0,30,謝慧賢,"一C,D,E(管CM 1036)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA946&Crsname=科技管理,,,False,人亞碩專,HRMA946,1,,"科技管理
+MANAGEMENT OF TECHNOLOGY",3,期,False,30,0,0,30,陳旻男,"三C,D,E(管CM 3022)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA974&Crsname=應用統計與資料分析,,,False,人亞碩專,HRMA974,1,,"應用統計與資料分析
+APPLIED STATISTICS AND DATA ANALYSIS",3,期,False,30,0,0,30,李澄賢,"二C,D,E(管CM 3051)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA983&Crsname=策略管理,,,False,人亞碩專,HRMA983,2,,"策略管理
+STRATEGIC MANAGEMENT",3,期,False,30,0,0,30,陳寶蓮,"六5,6,7(管CM 1032)","['', '', '', '', '', '567', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR734&Crsname=海洋資源與生物科技專題,異動,確認教師8/13,False,海資博,MBR734,1,,"海洋資源與生物科技專題
+SPECIAL TOPICS ON MARINE RESOURCES AND BIOTECHNOLOGY",3,期,False,50,0,0,50,"林秀瑾,廖志中,林梅芳,王亮鈞,王敬湧,翁靖如","四5,6,7(海MB 3013)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MBR734&Crsname=海洋資源與生物科技專題,異動,確認教師8/13,False,海資博,MBR734,1,,"海洋資源與生物科技專題
+SPECIAL TOPICS ON MARINE RESOURCES AND BIOTECHNOLOGY",3,期,False,50,0,0,50,"林秀瑾,廖志中,林梅芳,王亮鈞,王敬湧,翁靖如","四5,6,7(海MB 3013)","['', '', '', '567', '', '', '']",《講授類》,[],True
