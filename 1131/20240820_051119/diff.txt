@@ -1,3 +1,0 @@
-Type of root[1747]['change'] changed from str to NoneType and value changed from "異動" to None.
-Type of root[1747]['changeDescription'] changed from str to NoneType and value changed from "更換主授教師8/19" to None.
-Value of root[1747]['teacher'] changed from "謝耀慶,哈菲茲,李宗璘,艾慕明,蘇健翔,鄧人豪" to "李宗璘,哈菲茲,艾慕明,蘇健翔,謝耀慶,鄧人豪".
