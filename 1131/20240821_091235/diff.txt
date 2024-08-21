@@ -1,0 +1,47 @@
+Type of root[1233]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1233]['changeDescription'] changed from NoneType to str and value changed from None to "增加備註說明8/21".
+Type of root[1234]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1234]['changeDescription'] changed from NoneType to str and value changed from None to "修正備註內容8/21".
+Type of root[1878]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1878]['changeDescription'] changed from NoneType to str and value changed from None to "更換合授教師8/21".
+Type of root[1881]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1881]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師8/21".
+Value of root[718]['select'] changed from 2 to 3.
+Value of root[718]['selected'] changed from 52 to 51.
+Value of root[718]['remaining'] changed from 6 to 7.
+Value of root[721]['select'] changed from 2 to 3.
+Value of root[721]['selected'] changed from 52 to 51.
+Value of root[721]['remaining'] changed from 23 to 24.
+Value of root[726]['select'] changed from 2 to 3.
+Value of root[726]['selected'] changed from 52 to 51.
+Value of root[726]['remaining'] changed from 28 to 29.
+Value of root[731]['select'] changed from 2 to 3.
+Value of root[731]['selected'] changed from 52 to 51.
+Value of root[731]['remaining'] changed from 28 to 29.
+Value of root[734]['select'] changed from 2 to 3.
+Value of root[734]['selected'] changed from 52 to 51.
+Value of root[734]['remaining'] changed from 4 to 5.
+Value of root[837]['select'] changed from 1 to 2.
+Value of root[837]['selected'] changed from 59 to 58.
+Value of root[837]['remaining'] changed from 1 to 2.
+Value of root[838]['select'] changed from 1 to 2.
+Value of root[838]['selected'] changed from 59 to 58.
+Value of root[838]['remaining'] changed from 1 to 2.
+Value of root[839]['select'] changed from 1 to 2.
+Value of root[839]['selected'] changed from 59 to 58.
+Value of root[839]['remaining'] changed from 1 to 2.
+Value of root[840]['select'] changed from 1 to 2.
+Value of root[840]['selected'] changed from 59 to 58.
+Value of root[840]['remaining'] changed from 1 to 2.
+Value of root[845]['select'] changed from 1 to 2.
+Value of root[845]['selected'] changed from 59 to 58.
+Value of root[845]['remaining'] changed from 1 to 2.
+Value of root[1233]['description'] changed from "《講授類》" to "《講授類》
+醫工組".
+Value of root[1234]['description'] changed from "《講授類》" to "《講授類》
+生醫組".
+Value of root[1878]['teacher'] changed from "莊旺川,黃偉春" to "莊旺川,余憲忠".
+Value of root[1881]['teacher'] changed from "李英俊" to "李英俊,余憲忠".
+Value of root[1884]['description'] changed from "《研討類》
+《研討類》 海外參訪、限企醫管碩博班高齡產業學程 醫務管理整合學程" to "《研討類》
+海外參訪、限企醫管碩博班高齡產業學程 醫務管理整合學程".
