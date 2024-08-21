@@ -53,8 +53,8 @@ SUBJECT MATTER AND PEDAGOGY FOR CHINESE",2,期,False,50,0,0,50,吳慧君,"四8,9
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=STP268&Crsname=語文領域-英語文專長教材教法,,,False,中學學程,STP268,0,不分班,"語文領域-英語文專長教材教法
 SUBJECT MATTER AND PEDAGOGY FOR ENGLISH",2,期,False,50,0,0,50,莊雪華,"二3,4(社SS 2005)","['', '34', '', '', '', '', '']","《講授類》
 本課程為中等教育學程課程，需修畢(含當學期修習)教育基礎必選課程至少4學分、教育方法必選課程至少4學分，選修至少4學分，共計12學分，始得修習本課程。",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=STP270&Crsname=數學領域-數學專長教材教法,,,False,中學學程,STP270,0,不分班,"數學領域-數學專長教材教法
-MATHEMATICS TEACHING METHODS",2,期,False,50,0,0,50,黃家杰,"五3,4(社SS 2004-3)","['', '', '', '', '34', '', '']","《講授類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=STP270&Crsname=數學領域-數學專長教材教法,異動,更換時間8/21,False,中學學程,STP270,0,不分班,"數學領域-數學專長教材教法
+MATHEMATICS TEACHING METHODS",2,期,False,50,0,0,50,黃家杰,"三1,A(社SS 2004-3)","['', '', 'A1', '', '', '', '']","《講授類》
 本課程為中等教育學程課程，需修畢(含當學期修習)教育基礎必選課程至少4學分、教育方法必選課程至少4學分，選修至少4學分，共計12學分，始得修習本課程。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=STP272&Crsname=社會領域-公民與社會專長教材教法,,,False,中學學程,STP272,0,不分班,"社會領域-公民與社會專長教材教法
 SUBJECT MATTER AND PEDAGOGY FOR SOCIAL STUDIES",2,期,False,50,0,0,50,張至慶,"五5,6(社SS 2002-2)","['', '', '', '', '56', '', '']","《講授類》
@@ -1669,8 +1669,8 @@ BIOSTATISTICS",3,期,True,50,0,19,31,夏燦風,"五2,3,4(理SC 3001)","['', '', 
 ※英語授課",['環境教育學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS220&Crsname=基礎解剖學,,,False,生科系,BIOS220,2,不分班,"基礎解剖學
 BASIC ANATOMY",3,期,False,50,0,0,50,汪海晏,"二5,6,7(理SC 3001)","['', '567', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS223&Crsname=植物解剖學,,,False,生科系,BIOS223,2,不分班,"植物解剖學
-PLANT ANATOMY",3,期,False,50,0,0,50,高資棟,"三5,6,7(理SC 0009)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS223&Crsname=植物解剖學,異動,更換教室8/21,False,生科系,BIOS223,2,不分班,"植物解剖學
+PLANT ANATOMY",3,期,False,50,0,0,50,高資棟,"三5,6,7(理SC 3010)","['', '', '567', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS230&Crsname=微生物學,異動,更換時間及教室8/6,False,生科系,BIOS230,2,不分班,"微生物學
 MICROBIOLOGY",3,期,False,50,0,0,50,李哲欣,"五5,6,7(理SC 0009)","['', '', '', '', '567', '', '']",《講授類》,"['海洋微生物及應用推廣微學程', '生物技術學程', '環境教育學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS231&Crsname=神經科學,,,False,生科系,BIOS231,4,不分班,"神經科學
@@ -1799,21 +1799,21 @@ ESSENTIAL CODING AND DATA ANALYSIS ON PHYSICS",3,期,True,50,0,27,23,鍾佳民,"
 此為全英組必修課程，提供一般組學生做為選修課程
 ※英語授課",['計算物理及人工智慧微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS111&Crsname=微積分（一）,,,False,物理系,PHYS111,1,不分班,"微積分（一）
-CALCULUS(I)",3,期,True,50,1,33,17,陳美如,"四2,3,4(工EC 2011)","['', '', '', '234', '', '', '']","《講授類》
+CALCULUS(I)",3,期,True,50,2,32,18,陳美如,"四2,3,4(工EC 2011)","['', '', '', '234', '', '', '']","《講授類》
 與電機系併班上課",['人工智慧與數學學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS111A&Crsname=微積分（一）,,,False,物理系,PHYS111A,1,全英班,"微積分（一）
 CALCULUS(I)",3,期,True,50,0,27,23,陳美如,"五2,3,4(理SC 1005)","['', '', '', '', '234', '', '']","《講授類》
 與電機系英文組、醫科系醫工組併班上課
 ※英語授課",['人工智慧與數學學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS113&Crsname=普通化學（一）,,,False,物理系,PHYS113,1,不分班,"普通化學（一）
-GENERAL CHEMISTRY(I)",3,期,True,50,1,33,17,謝淑貞,"五2,3,4(理SC 0012)","['', '', '', '', '234', '', '']","《講授類》
+GENERAL CHEMISTRY(I)",3,期,True,50,2,32,18,謝淑貞,"五2,3,4(理SC 0012)","['', '', '', '', '234', '', '']","《講授類》
 與材光系併班上課",['半導體設備工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS113A&Crsname=普通化學（一）,,,False,物理系,PHYS113A,1,全英班,"普通化學（一）
 GENERAL CHEMISTRY(I)",3,期,True,50,0,27,23,克里斯那,"五5,6,7(工EN 0032)","['', '', '', '', '567', '', '']","《講授類》
 與材光系英文組併班上課
 ※英語授課",['半導體設備工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS115&Crsname=普通化學實驗（一）,,,False,物理系,PHYS115,1,不分班,"普通化學實驗（一）
-GENERAL CHEMISTRY LABORATORY(I)",1,期,True,26,1,33,-7,王家蓁,"五5,6,7(理SC 4019)(實驗)","['', '', '', '', '567', '', '']","《實驗類》
+GENERAL CHEMISTRY LABORATORY(I)",1,期,True,26,2,32,-6,王家蓁,"五5,6,7(理SC 4019)(實驗)","['', '', '', '', '567', '', '']","《實驗類》
 與材光系併班上課。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS115A&Crsname=普通化學實驗（一）,,,False,物理系,PHYS115A,1,全英班,"普通化學實驗（一）
 GENERAL CHEMISTRY LABORATORY(I)",1,期,True,26,0,27,-1,楊崇鑫,"四5,6,7(理SC 4019)(實驗)","['', '', '', '567', '', '', '']","《實驗類》
@@ -2099,7 +2099,7 @@ ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,0,33,25,"莊豐任,謝耀慶","三
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2006A&Crsname=電工實驗（一）,,,False,電機系,EE2006A,2,乙班,"電工實驗（一）
 ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,0,34,24,"莊豐任,謝耀慶","三2,3,4(工EC 6018)(實驗)","['', '', '234', '', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2006B&Crsname=電工實驗（一）,,,False,電機系,EE2006B,2,全英班,"電工實驗（一）
-ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,1,53,5,"莊豐任,謝耀慶","四5,6,7(工EC 6023)(實驗)","['', '', '', '567', '', '', '']",《實驗類》,[],True
+ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,2,52,6,"莊豐任,謝耀慶","四5,6,7(工EC 6023)(實驗)","['', '', '', '567', '', '', '']",《實驗類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2100&Crsname=電子學（一）,,,False,電機系,EE2100,2,甲班,"電子學（一）
 ELECTRONICS (I)",3,期,True,75,0,33,42,馬誠佑,"四2,3,4(工EC 3009)","['', '', '', '234', '', '', '']","《講授類》
 甲乙班併班上課","['半導體設備工程學程', '半導體製程模組學程', '數位IC設計學程', '類比射頻IC設計學程', '半導體元件學程']",False
@@ -2107,7 +2107,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2100A
 ELECTRONICS (I)",3,期,True,75,0,34,41,馬誠佑,"四2,3,4(工EC 3009)","['', '', '', '234', '', '', '']","《講授類》
 甲乙班併班上課","['半導體設備工程學程', '半導體製程模組學程', '數位IC設計學程', '類比射頻IC設計學程', '半導體元件學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2100B&Crsname=電子學（一）,,,False,電機系,EE2100B,2,全英班,"電子學（一）
-ELECTRONICS (I)",3,期,True,75,1,53,22,劉漢胤,"三5,6,7(工EC 3012)","['', '', '567', '', '', '', '']","《講授類》
+ELECTRONICS (I)",3,期,True,75,2,52,23,劉漢胤,"三5,6,7(工EC 3012)","['', '', '567', '', '', '', '']","《講授類》
  
 ※英語授課","['半導體設備工程學程', '半導體製程模組學程', '數位IC設計學程', '類比射頻IC設計學程', '半導體元件學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2204&Crsname=矩陣理論及應用,,,False,電機系,EE2204,2,不分班,"矩陣理論及應用
@@ -2121,7 +2121,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2401A
 CIRCUIT THEORY (II)",3,期,True,80,0,34,46,李宗璘,"一2,3,4(工EC 3013)","['234', '', '', '', '', '', '']","《講授類》
 甲乙班併班上課","['半導體製程模組學程', '半導體設備工程學程', '南星產業樞紐學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2401B&Crsname=電路學（二）,異動,更換時間及教室8/9,False,電機系,EE2401B,2,全英班,"電路學（二）
-CIRCUIT THEORY (II)",3,期,True,80,1,53,27,余祥華,"五2,3,4(工EC 2010)","['', '', '', '', '234', '', '']","《講授類》
+CIRCUIT THEORY (II)",3,期,True,80,2,52,28,余祥華,"五2,3,4(工EC 2010)","['', '', '', '', '234', '', '']","《講授類》
  
 ※英語授課","['半導體製程模組學程', '半導體設備工程學程', '南星產業樞紐學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2403&Crsname=電力電子學,,,False,電機系,EE2403,3,不分班,"電力電子學
@@ -2137,7 +2137,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2500A
 ELECTROMAGNETIC THEORY (I)",3,期,True,80,0,34,46,李杰穎,"二5,6,7(工EC 3012)","['', '567', '', '', '', '', '']","《講授類》
 甲乙班併班上課",['半導體元件學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2500B&Crsname=電磁學（一）,,,False,電機系,EE2500B,2,全英班,"電磁學（一）
-ELECTROMAGNETIC THEORY (I)",3,期,True,80,1,53,27,王復康,"二2,3,4(工EC 3013)","['', '234', '', '', '', '', '']","《講授類》
+ELECTROMAGNETIC THEORY (I)",3,期,True,80,2,52,28,王復康,"二2,3,4(工EC 3013)","['', '234', '', '', '', '', '']","《講授類》
  
 ※英語授課",['半導體元件學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2600&Crsname=訊號與系統,,,False,電機系,EE2600,2,甲班,"訊號與系統
@@ -2147,7 +2147,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2600A
 SIGNALS AND SYSTEMS",3,期,True,56,0,34,22,曾凡碩,"四5,6,7(工EC 2002)","['', '', '', '567', '', '', '']","《講授類》
 甲乙班併班上課","['南星產業樞紐學程', '智慧製造聯網微學程', '製造與大數據分析微學程', '跨領域智慧製造學程', '類比射頻IC設計學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2600B&Crsname=訊號與系統,,,False,電機系,EE2600B,2,全英班,"訊號與系統
-SIGNALS AND SYSTEMS",3,期,True,56,1,53,3,曾乙立,"二5,6,7(工EC 3009)","['', '567', '', '', '', '', '']","《講授類》
+SIGNALS AND SYSTEMS",3,期,True,56,2,52,4,曾乙立,"二5,6,7(工EC 3009)","['', '567', '', '', '', '', '']","《講授類》
  
 ※英語授課","['南星產業樞紐學程', '智慧製造聯網微學程', '製造與大數據分析微學程', '跨領域智慧製造學程', '類比射頻IC設計學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2701&Crsname=硬體描述語言,,,False,電機系,EE2701,2,不分班,"硬體描述語言
@@ -2784,17 +2784,17 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM428A&
 SEMINAR IN TECHNOLOGY MANAGEMENT （II）",2,期,True,50,0,0,50,盧憶,"五5,B(管CM 3035)","['', '', '', '', 'B5', '', '']","《研討類》
 限企管系(含雙主修、輔系)；",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS101&Crsname=計算機概論,,,False,資管系,MIS101,1,不分班,"計算機概論
-BASIC COMPUTER CONCEPTS",3,期,True,50,0,53,-3,羅珮綺,"三5,6,7(管CM 4069)","['', '', '567', '', '', '', '']","《講授類》
+BASIC COMPUTER CONCEPTS",3,期,True,50,1,52,-2,羅珮綺,"三5,6,7(管CM 4069)","['', '', '567', '', '', '', '']","《講授類》
 限資管系一年級修習且需搭配實習一同修習
 ※英語授課",['軟體工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS103&Crsname=微積分,,,False,資管系,MIS103,1,不分班,"微積分
-CALCULUS",3,期,True,50,0,53,-3,卓建宏,"四2,3,4(理SC 1005)","['', '', '', '234', '', '', '']","《講授類》
+CALCULUS",3,期,True,50,1,52,-2,卓建宏,"四2,3,4(理SC 1005)","['', '', '', '234', '', '', '']","《講授類》
 限資管系一年級修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS104&Crsname=會計學（一）,,,False,資管系,MIS104,1,不分班,"會計學（一）
-ACCOUNTING(I)",3,期,True,50,0,53,-3,蕭哲芬,"一5,6,7(管CM 4069)","['567', '', '', '', '', '', '']","《講授類》
+ACCOUNTING(I)",3,期,True,50,1,52,-2,蕭哲芬,"一5,6,7(管CM 4069)","['567', '', '', '', '', '', '']","《講授類》
 限資管系一年級修習且需搭配實習一同修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS108&Crsname=資訊經濟學,,,False,資管系,MIS108,1,不分班,"資訊經濟學
-THE ECONOMICS OF IT AND E-COMMERCE",3,期,True,50,0,53,-3,楊宗文,"三C,D,E(管CM 3015)","['', '', 'CDE', '', '', '', '']",《講授類》,['金融工程學程'],False
+THE ECONOMICS OF IT AND E-COMMERCE",3,期,True,50,1,52,-2,楊宗文,"三C,D,E(管CM 3015)","['', '', 'CDE', '', '', '', '']",《講授類》,['金融工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS131&Crsname=計算機概論實習,,,False,資管系,MIS131,1,不分班,"計算機概論實習
 INTRODUCTION TO COMPUTER SCIENCE PRACTICE",1,期,False,50,0,0,50,羅珮綺,"一3,4(管CM 3051)(實驗)","['34', '', '', '', '', '', '']","《實習類》
 限資管系一年級修習且需搭配正課一同修習",[],False
@@ -5300,8 +5300,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA629&C
 ENVIRONMENTAL TRANSFORMATIONS AND CULTURAL RESPONSES IN OCEANIA",3,期,False,50,0,0,50,劉子銘,"二5,6,B(海MA 1020)","['', 'B56', '', '', '', '', '']","《講授類》
  
 ※英語授課",['環境教育學程'],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA630&Crsname=海洋環境變遷與南島民族,,,False,海事碩,MA630,0,不分班,"海洋環境變遷與南島民族
-ENVIRONMENTAL TRANSFORMATIONS AND CULTURAL RESPONSES IN OCEANIA",3,期,False,50,0,0,50,劉子銘,"三5,6,7(海MA 1020)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA630&Crsname=海洋環境變遷與南島民族,異動,更換時間8/21,False,海事碩,MA630,0,不分班,"海洋環境變遷與南島民族
+ENVIRONMENTAL TRANSFORMATIONS AND CULTURAL RESPONSES IN OCEANIA",3,期,False,50,0,0,50,劉子銘,"二7,8,9(海MA 1020)","['', '789', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA635&Crsname=永續發展,,,False,海事碩,MA635,0,不分班,"永續發展
 SUSTAINABLE DEVELOPMENT",3,期,False,50,0,0,50,蔡宏政,"四5,6,7(海MA 2034)","['', '', '', '567', '', '', '']",《講授類》,"['公共事務與企業社會責任微學程', '企業社會責任學程', '淨零轉型微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MA668&Crsname=永續海洋與漁業專題研究（一）,,,False,海事碩,MA668,0,不分班,"永續海洋與漁業專題研究（一）
@@ -5791,8 +5791,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS541
 INDEPENDENT STUDIES IN BIFUNCTIONAL MOLECULE DRUG DISCOVERY（I）",3,期,False,50,0,0,50,施柏漳,"三5,6,7(國IR 6017-2)","['', '', '567', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS543&Crsname=小分子結構鑑定之光譜技術,,,False,生技醫藥碩,IBPS543,1,不分班,"小分子結構鑑定之光譜技術
 SPECTROSCOPIC IDENTIFICATION OF SMALL MOLECULE DRUGS",3,期,False,50,0,0,50,黃建智,"二2,3,4(國IR 6017-2)","['', '234', '', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS544&Crsname=疫苗開發專題研究（一）,新增,8/9,False,生技醫藥碩,IBPS544,1,不分班,"疫苗開發專題研究（一）
-INDEPENDENT STUDY IN VACCINE DEVELOPMENT（I）",3,期,False,50,0,0,50,賴至人,"四2,3,4(國IR 6017-2)","['', '', '', '234', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS544&Crsname=疫苗開發專題研究（一）,異動,更換時間8/21,False,生技醫藥碩,IBPS544,1,不分班,"疫苗開發專題研究（一）
+INDEPENDENT STUDY IN VACCINE DEVELOPMENT（I）",3,期,False,50,0,0,50,賴至人,"五7,8,9(國IR 6017-2)","['', '', '', '', '789', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS545&Crsname=血管新生與癌症轉移治療,新增,8/9,False,生技醫藥碩,IBPS545,1,不分班,"血管新生與癌症轉移治療
 INVESTIGATION OF ANGIOGENESIS AND METASTASIS FOR CANCER THERAPY",3,期,False,50,0,0,50,賴至人,"二6,7,8(國IR 6017-2)","['', '678', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBPS546&Crsname=mRNA藥物應用於新興病毒與癌症疫苗,新增,8/9,False,生技醫藥碩,IBPS546,1,不分班,"mRNA藥物應用於新興病毒與癌症疫苗
