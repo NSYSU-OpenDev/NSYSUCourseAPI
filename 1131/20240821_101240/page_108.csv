@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS511&Crsname=巨分子生物學專題研究（一）,異動,更換教師及時間8/6,False,生醫碩,IBMS511,0,不分班,"巨分子生物學專題研究（一）
+INDEPENDENT STUDIES IN MACROMOLECULE BIOLOGY(I)",3,期,False,50,0,0,50,張榮賢,"五2,3,4(國IR 4014)","['', '', '', '', '234', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS512&Crsname=抗癌藥物研發專題研究（一）,,,False,生醫碩,IBMS512,0,不分班,"抗癌藥物研發專題研究（一）
+INDEPENDENT STUDIES IN ANTI-CANCER DRUG DEVELOPMENT(I)",3,期,False,10,0,0,10,許晉銓,"二5,6,7(國IR 5004)","['', '567', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS513&Crsname=新陳代謝專題研究（一）,,,False,生醫碩,IBMS513,0,不分班,"新陳代謝專題研究（一）
+SPECIAL TOPICS ON METABOLISM(I)",3,期,False,10,0,0,10,戴明泓,"五6,7,8(國IR 6017-1)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS514&Crsname=序列分析資訊開採專題研究（一）,,,False,生醫碩,IBMS514,0,不分班,"序列分析資訊開採專題研究（一）
+INDEPENDENT STUDIES IN SEQUENCE ANALYSIS AND DATA MINING (I)",3,期,False,10,0,0,10,薛佑玲,"五4,6,7(國IR 4005)","['', '', '', '', '467', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS515&Crsname=癌症專題研究（一）,,,False,生醫碩,IBMS515,0,不分班,"癌症專題研究（一）
+INDEPENDENT STUDIES IN CANCER (I)",3,期,False,10,0,0,10,張玉泉,"一7,8,9(國IR 5004)","['789', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS516&Crsname=基因專題研究（一）,,,False,生醫碩,IBMS516,0,不分班,"基因專題研究（一）
+INDEPENDENT STUDIES IN GENES(I)",3,期,False,10,0,0,10,楊仁豪,"一7,8,9(國IR 5005)","['789', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS517&Crsname=癌症幹細胞生物學專題研究（一）,,,False,生醫碩,IBMS517,0,不分班,"癌症幹細胞生物學專題研究（一）
+SPECIAL TOPICS IN CANCER AND STEM CELL(I)",3,期,False,10,0,0,10,鄭光宏,"五6,7,8(國IR 5001)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS535&Crsname=基因工程,,,False,生醫碩,IBMS535,0,不分班,"基因工程
+GENE ENGINEERING",3,期,False,20,0,0,20,戴明泓,"三2,3,4(國IR 5005)","['', '', '234', '', '', '', '']",《講授類》,['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS537&Crsname=論文寫作,新增,8/6,False,生醫碩,IBMS537,0,不分班,"論文寫作
+TECHNICAL WRITING",2,期,False,50,0,0,50,張榮賢,"五6,7(國IR 5004)","['', '', '', '', '67', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS621&Crsname=高等分子癌症學,,,False,生醫碩,IBMS621,0,不分班,"高等分子癌症學
+ADVANCED MOLECULAR CARCINOGENESIS",3,期,False,15,0,0,15,莊博凱,"四6,7,8(國IR 5004)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS628&Crsname=細胞遷移與疾病,,,False,生醫碩,IBMS628,0,不分班,"細胞遷移與疾病
+CELL MIGRATION AND DISEASES",3,期,False,20,0,0,20,張玉泉,"五2,3,4(國IR 5001)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS629&Crsname=RNA分子生物學及RNA技術應用,,,False,生醫碩,IBMS629,0,不分班,"RNA分子生物學及RNA技術應用
+RNA MOLECULAR BIOLOGY, METHODOLOGIES, AND APPLICATIONS",3,期,False,20,0,0,20,楊仁豪,"二6,7,8(國IR 5005)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS630&Crsname=mRNA 疫苗與 RNA 醫藥應用,,,False,生醫碩,IBMS630,0,不分班,"mRNA 疫苗與 RNA 醫藥應用
+MRNA VACCINE AND RNA THERAPEUTICS",3,期,False,10,0,0,10,楊仁豪,"五2,3,4(國IR 6017-1)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS632&Crsname=醣生物學與醫學應用,,,False,生醫碩,IBMS632,0,不分班,"醣生物學與醫學應用
+GLYCOBIOLOGY AND MEDICAL APPLICATIONS",3,期,False,20,0,0,20,莊博凱,"二6,7,8(國IR 4002)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IBMS633&Crsname=醣生物學與醫學應用專題研究（一）,異動,更換合授教師6/25,False,生醫碩,IBMS633,0,不分班,"醣生物學與醫學應用專題研究（一）
+INDEPENDENT STUDIES IN GLYCOBIOLOGY AND MEDICAL APPLICATIONS (I)",3,期,False,10,0,0,10,莊博凱,"一7,8,9(國IR 5001)","['789', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IMST501&Crsname=書報討論（一）,,,False,醫科碩,IMST501,1,不分班,"書報討論（一）
+SEMINAR（I）",1,期,True,30,0,25,5,陳志杰,三6(國IR 5002),"['', '', '6', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IMST505&Crsname=細胞分子生物學,,,True,醫科碩,IMST505,1,不分班,"細胞分子生物學
+CELL MOLECULAR BIOLOGY",3,期,True,20,0,0,20,廖子嫻,"二2,3,4(國IR 1006-1)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IMST512&Crsname=醫療法規與倫理特論,,,False,醫科碩,IMST512,0,不分班,"醫療法規與倫理特論
+SPECIAL TOPICS IN MEDICAL LAWS AND MEDICAL ETHICS",3,期,False,15,0,0,15,廖子嫻,"二5,6,7(國IR 1006-1)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IMST518&Crsname=生物資訊學,,,False,醫科碩,IMST518,0,不分班,"生物資訊學
+BIOINFORMATICS",3,期,False,10,0,0,10,陳志杰,"一2,3,4(國IR 1006-1)","['234', '', '', '', '', '', '']",《講授類》,"['生物技術學程', '醫師科學家微學程', '醫師工程師微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IMST522&Crsname=奈米材料專題研究（一）,,,False,醫科碩,IMST522,0,不分班,"奈米材料專題研究（一）
+INDEPENDENT STUDIES IN NANOMATERIALS （I）",3,期,False,20,0,0,20,廖子嫻,"五5,6,7(國IR 5003)","['', '', '', '', '567', '', '']",《獨立研究》,[],False
