@@ -1,0 +1,7 @@
+Value of root[719]['select'] changed from 1 to 2.
+Value of root[722]['select'] changed from 1 to 2.
+Value of root[727]['select'] changed from 1 to 2.
+Value of root[732]['select'] changed from 1 to 2.
+Value of root[735]['select'] changed from 1 to 2.
+Value of root[2197]['change'] changed from "新增" to "異動".
+Value of root[2197]['changeDescription'] changed from "8/9" to "更換時間8/21".
