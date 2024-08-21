@@ -1,0 +1,57 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IHCM508&Crsname=醫療倫理與法律,,,False,企醫管碩,IHCM508,0,不分班,"醫療倫理與法律
+MEDICAL ETHICS AND LAW",3,期,False,50,0,0,50,蔡文展,"二2,3,4(管CM 1026)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IHCM512&Crsname=高齡產業經營與管理,異動,增加合授教師8/21,False,企醫管碩,IHCM512,0,不分班,"高齡產業經營與管理
+MANAGEMENT IN BUSINESS FOR ELDERLY",3,期,False,50,0,0,50,"李英俊,余憲忠","三5,6,7(管CM 3035)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IHCM605&Crsname=醫療經濟政策與管理,,,False,企醫管碩,IHCM605,0,不分班,"醫療經濟政策與管理
+HEALTH ECONOMICS, POLICY AND MANAGEMENT",3,期,False,50,0,0,50,黃俊智,"四6,7,8(管CM 3035)","['', '', '', '678', '', '', '']",《講授類》,"['醫務管理整合學程', '醫務管理整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IHCM620&Crsname=長期照護,,,False,企醫管碩,IHCM620,0,不分班,"長期照護
+LONG-TERM CARE",3,期,False,50,0,0,50,葉淑娟,"二2,3,4(管CM 3035)","['', '234', '', '', '', '', '']",《講授類》,"['音樂應用與高齡友善多元性微學程', '智慧長照微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IHCM622&Crsname=國際健康照護分析,,,False,企醫管碩,IHCM622,0,不分班,"國際健康照護分析
+HEALTHCARE ISSUES IN INTERNATIONAL PERSPECTIVE",3,期,False,50,0,0,50,李英俊,"一1,2,3(管CM 3035)","['123', '', '', '', '', '', '']","《研討類》
+海外參訪、限企醫管碩博班高齡產業學程 醫務管理整合學程",['醫務管理整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IHCM628&Crsname=醫院經營管理,,,False,企醫管碩,IHCM628,0,不分班,"醫院經營管理
+HOSPITAL OPERATIONS MANAGEMENT",3,期,False,50,0,0,50,顏家祺,"四C,D,E(管CM 3022)","['', '', '', 'CDE', '', '', '']",《講授類》,['醫務管理整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IHCM635&Crsname=醫療監管科學,,,False,企醫管碩,IHCM635,0,不分班,"醫療監管科學
+REGULATORY SCIENCE OF MEDICAL HEALTHCARE",3,期,False,50,0,0,50,李清潭,"四C,D,E(管 CM 3035)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB502&Crsname=統計與計量方法,,,False,國際經營學程,IB502,1,不分班,"統計與計量方法
+STATISTICS AND QUANTITATIVE METHODS",3,期,True,60,1,59,1,李澄賢,"二2,3,4(管CM 3051)","['', '234', '', '', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB506&Crsname=組織理論與管理,,,False,國際經營學程,IB506,0,不分班,"組織理論與管理
+ORGANISATIONAL THEORY AND MANAGEMENT",3,期,False,50,0,0,50,羅芳怡,"四6,7,8(管CM 2025)","['', '', '', '678', '', '', '']","《講授類》
+與GHRM併班上課，限IBMBA及GHRM學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB519&Crsname=國際行銷,,,False,國際經營學程,IB519,0,不分班,"國際行銷
+INTERNATIONAL MARKETING MANAGEMENT",3,期,False,50,0,0,50,陳文鑫,"三5,6,7(管CM 1023)","['', '', '567', '', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。
+※英語授課",['行銷管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB521&Crsname=會計學,,,False,國際經營學程,IB521,0,不分班,"會計學
+ACCOUNTING",3,期,False,50,0,0,50,馬威爾,"四2,3,4(管CM 1032)","['', '', '', '234', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。 
+※英語授課",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB527&Crsname=顧客關係管理,異動,更換部份時間8/21,False,國際經營學程,IB527,0,不分班,"顧客關係管理
+CUSTOMER RELATIONSHIP MANAGEMENT",3,期,False,50,0,0,50,林帆,"五5,6,7(管CM 3022)","['', '', '', '', '567', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB531&Crsname=社會企業商業模式發展與實作,,,False,國際經營學程,IB531,0,不分班,"社會企業商業模式發展與實作
+BUSINESS MODEL DEVELOPMENT AND PRACTICE OF SOCIAL ENTERPRISES",3,期,False,50,0,0,50,鄭義,"二6,7,8(管CM 1023)","['', '678', '', '', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB535&Crsname=國際經濟,,,False,國際經營學程,IB535,0,不分班,"國際經濟
+INTERNATIONAL ECONOMICS",3,期,False,50,0,0,50,安大衛,"三2,3,4(管CM 1023)","['', '', '234', '', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB538&Crsname=企業倫理與社會責任實踐,,,False,國際經營學程,IB538,1,不分班,"企業倫理與社會責任實踐
+THE PRACTICE OF CORPORATE ETHICS AND SOCIAL RESPONSIBILITY",2,期,True,60,1,59,1,劉易,"五6,7(管CM 4112)","['', '', '', '', '67', '', '']","《講授類》
+與GHRM併班上課，限IBMBA及GHRM學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB539&Crsname=永續領導力論壇,,,False,國際經營學程,IB539,1,不分班,"永續領導力論壇
+SUSTAINABLE LEADERSHIP FORUM",1,期,True,60,1,59,1,劉易,五8(管CM 4112),"['', '', '', '', '8', '', '']","《研討類》
+與GHRM併班上課，限IBMBA及GHRM學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB540&Crsname=亞太創新經濟研討,異動,修改限定條件8/6,False,國際經營學程,IB540,0,不分班,"亞太創新經濟研討
+SEMINAR ON THE INNOVATION ECONOMY IN THE ASIA-PACIFIC REGION",3,期,False,50,0,0,50,"安大衛,佘健源",,"['234678', '678', '234567', '234678', '234678', '', '']","《研討類》
+此為暑期密集授課課程(6/24-7/8),僅限有修該課程之學生修習。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB604&Crsname=企業經營策略,,,False,國際經營學程,IB604,0,不分班,"企業經營策略
+BUSINESS STRATEGY",3,期,False,50,0,0,50,馬威爾,"四6,7,8(管CM 1023)","['', '', '', '678', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB616&Crsname=國際企業管理,,,False,國際經營學程,IB616,1,不分班,"國際企業管理
+INTERNATIONAL BUSINESS MANAGEMENT",3,期,True,60,1,59,1,羅芳怡,"五2,3,4(管CM 4112)","['', '', '', '', '234', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GHRM501&Crsname=組織理論與管理,,,False,人管英語碩程,GHRM501,1,不分班,"組織理論與管理
+ORGANIZATION THEORY & MANAGEMENT",3,期,True,50,0,24,26,羅芳怡,"四6,7,8(管CM 2025)","['', '', '', '678', '', '', '']","《講授類》
+與IBMBA併班上課，限IBMBA及GHRM學生修習，欲加選學生請於異常處理時加選。",[],True
