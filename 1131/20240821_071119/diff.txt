@@ -1,0 +1,30 @@
+Type of root[1892]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1892]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間8/21".
+Value of root[186]['selected'] changed from 0 to 30.
+Value of root[186]['remaining'] changed from 50 to 20.
+Value of root[187]['selected'] changed from 0 to 26.
+Value of root[187]['remaining'] changed from 50 to 24.
+Value of root[188]['selected'] changed from 0 to 53.
+Value of root[188]['remaining'] changed from 50 to -3.
+Value of root[189]['selected'] changed from 0 to 56.
+Value of root[189]['remaining'] changed from 50 to -6.
+Value of root[190]['selected'] changed from 0 to 68.
+Value of root[190]['remaining'] changed from 100 to 32.
+Value of root[191]['selected'] changed from 0 to 72.
+Value of root[191]['remaining'] changed from 100 to 28.
+Value of root[192]['selected'] changed from 0 to 46.
+Value of root[192]['remaining'] changed from 60 to 14.
+Value of root[193]['selected'] changed from 0 to 60.
+Value of root[193]['remaining'] changed from 50 to -10.
+Value of root[194]['selected'] changed from 0 to 33.
+Value of root[194]['remaining'] changed from 50 to 17.
+Value of root[195]['selected'] changed from 0 to 83.
+Value of root[195]['remaining'] changed from 70 to -13.
+Value of root[196]['selected'] changed from 0 to 46.
+Value of root[196]['remaining'] changed from 70 to 24.
+Value of root[197]['selected'] changed from 0 to 33.
+Value of root[197]['remaining'] changed from 70 to 37.
+Value of root[198]['selected'] changed from 0 to 46.
+Value of root[198]['remaining'] changed from 70 to 24.
+Value of root[199]['selected'] changed from 0 to 23.
+Value of root[199]['remaining'] changed from 50 to 27.
