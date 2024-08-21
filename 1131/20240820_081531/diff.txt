@@ -1,8 +1,0 @@
-Item root[62]['classTime'][0] added to iterable.
-Item root[62]['classTime'][0] removed from iterable.
-Item root[62]['classTime'][1] removed from iterable.
-Repetition change for item root[62]['classTime'][2].
-Type of root[1221]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[1221]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/20".
-Value of root[62]['room'] changed from "一3() 二4()" to "一3,4()".
-Value of root[1221]['teacher'] changed from "蔣士仁,待聘,待聘,待聘,待聘,待聘" to "張瑋婷,待聘,待聘,待聘,待聘,待聘".
