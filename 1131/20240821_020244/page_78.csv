@@ -1,0 +1,46 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5733&Crsname=數位通訊電路設計,異動,更換時間7/18,False,電機碩,EE5733,0,不分班,"數位通訊電路設計
+DIGITAL COMMUNICATION IC DESIGN",3,期,False,50,0,0,50,施信毓,"三5,6,7(工EC 3009)","['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '數位IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5734&Crsname=高等數位電路設計專題,,,False,電機碩,EE5734,0,不分班,"高等數位電路設計專題
+INDEPENDENT STUDIES IN ADVANCED DIGITAL CIRCUIT DESIGN",3,期,False,50,0,0,50,施信毓,"一6,7,8(工EC 2018)","['678', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5804&Crsname=醫學影像分析專題,,,False,電機碩,EE5804,0,不分班,"醫學影像分析專題
+INDEPENDENT STUDIES IN MEDICAL IMAGE ANALYSIS",3,期,False,50,0,0,50,吳珮歆,"一2,3,4(工EC 7017)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5808&Crsname=腦機介面與大腦網路,,,False,電機碩,EE5808,0,不分班,"腦機介面與大腦網路
+BRAIN-COMPUTER INTERFACE AND BRAIN NETWORKS",3,期,False,50,0,0,50,曾乙立,"三5,6,7(工EC 6016)","['', '', '567', '', '', '', '']","《講授類》
+開放大三、大四學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME501&Crsname=書報討論,,,False,機電碩,MEME501,1,不分班,"書報討論
+SEMINAR",1,期,True,100,1,105,-5,王郁仁,"四6,7(工EN 2028)","['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME502&Crsname=熱對流,,,False,機電碩,MEME502,1,不分班,"熱對流
+HEAT CONVECTION",3,期,False,50,0,0,50,鄭威利,"三2,3,4(工EN 2022)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME5111&Crsname=半導體製程設備與技術,,,False,機電碩,MEME5111,1,不分班,"半導體製程設備與技術
+SEMICONDUCTOR PROCESS EQUIPMENT AND TECHNOLOGY",3,期,False,100,0,0,100,林哲信,"五6,7,8(工EN 4055-1)","['', '', '', '', '678', '', '']",《講授類》,"['半導體製程模組學程', '半導體設備工程學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME516&Crsname=氫能與燃料電池原理與應用,,,False,機電碩,MEME516,1,不分班,"氫能與燃料電池原理與應用
+PRINCIPLES AND APPLICATIONS OF HYDROGEN AND FUEL CELLS",3,期,False,50,0,0,50,郭振坤,"一5,6,7(工EC 3005)","['567', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME522&Crsname=彈性力學,異動,確認教師8/7,False,機電碩,MEME522,1,不分班,"彈性力學
+ELASTICITY",3,期,False,50,0,0,50,施孟鎧,"五5,6,7(工EN 3005)","['', '', '', '', '567', '', '']",《講授類》,['南星產業樞紐學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME523&Crsname=有限元素法,,,False,機電碩,MEME523,1,不分班,"有限元素法
+FINITE ELEMENT METHODS",3,期,False,50,0,0,50,蔡尚南,"三2,3,4(工EN 4055-2)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME529&Crsname=最佳化理論,異動,確認教師8/9,False,機電碩,MEME529,1,不分班,"最佳化理論
+OPTIMIZATION THEORY",3,期,False,50,0,0,50,盧威廷,"二5,6,7(工EC 3005)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME532&Crsname=塑性力學,,,False,機電碩,MEME532,1,不分班,"塑性力學
+PLASTICITY",3,期,False,50,0,0,50,黃永茂,"一2,3,4(工EN 0031)","['234', '', '', '', '', '', '']",《講授類》,['南星產業樞紐學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME549&Crsname=類神經網路概論,,,False,機電碩,MEME549,1,不分班,"類神經網路概論
+INTRODUCTION TO NEURAL NETWORKS",3,期,False,80,0,0,80,嚴成文,"一2,3,4(工EC 3002)","['234', '', '', '', '', '', '']",《講授類》,"['製造與大數據分析微學程', '跨領域智慧製造學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME562&Crsname=摩潤學,,,False,機電碩,MEME562,1,不分班,"摩潤學
+TRIBOLOGY",3,期,False,50,0,0,50,邱源成,"二5,6,7(工EN 0031)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME573&Crsname=智慧製造與監測技術,,,False,機電碩,MEME573,1,不分班,"智慧製造與監測技術
+SMART MANUFACTURING AND MONITORING TECHNOLOGY",3,期,False,50,0,0,50,"王郁仁,汪正祺","一2,3,4(工EC 3006)","['234', '', '', '', '', '', '']",《講授類》,"['智慧港埠微學程', '智慧製造聯網微學程', '製造與大數據分析微學程', '碳流資訊盤查與低碳設計微學程', '跨領域智慧製造學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME577&Crsname=半導體微影設備系統概論,,,False,機電碩,MEME577,1,不分班,"半導體微影設備系統概論
+INTRODUCTION TO LITHOGRAPHY EQUIPMENT AND SYSTEMS FOR SEMICONDUCTOR MANUFACTURING",3,期,False,25,0,0,25,胡龍豪,"三5,6,7(工EN 4055-1)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME583&Crsname=奈米元件電腦輔助設計,,,False,機電碩,MEME583,1,不分班,"奈米元件電腦輔助設計
+COMPUTER-AIDED DESIGN AT NANO-DEVICE",3,期,False,50,0,0,50,朱訓鵬,"二5,6,7(工EN 4075-2)","['', '567', '', '', '', '', '']",《講授類》,['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME606&Crsname=燃料電池系統專題（一）,,,False,機電碩,MEME606,2,不分班,"燃料電池系統專題（一）
+SPECIAL TOPICS IN FUEL CELL SYSTEMS (I)",3,期,False,50,0,0,50,郭振坤,"一9(工EN 3035-1) 二8,9(工EN 3035-1)","['9', '89', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME6109&Crsname=應用微奈米技術專題（一）,,,False,機電碩,MEME6109,2,不分班,"應用微奈米技術專題（一）
+INDEPENDENT STUDIES IN APPLIED MICRO AND NANO TECHNOLOGY(I)",3,期,False,50,0,0,50,郭清德,"一8,9(工EN 0036) 二9(工EN 0036)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME6111&Crsname=先進複材結構設計專題（一）,,,False,機電碩,MEME6111,2,不分班,"先進複材結構設計專題（一）
+INDEPENDENT STUDIES IN ADVANCED COMPOSITE STRUCTURE DESIGN (I)",3,期,False,50,0,0,50,蔡尚南,"三5,6,7(工EN 3035-2)","['', '', '567', '', '', '', '']",《獨立研究》,[],False
