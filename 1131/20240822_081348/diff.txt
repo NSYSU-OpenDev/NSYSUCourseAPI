@@ -1,0 +1,19 @@
+Item root[1158] added to iterable.
+Value of root[402]['selected'] changed from 48 to 47.
+Value of root[402]['remaining'] changed from 2 to 3.
+Value of root[407]['selected'] changed from 48 to 47.
+Value of root[407]['remaining'] changed from 2 to 3.
+Value of root[513]['selected'] changed from 42 to 41.
+Value of root[513]['remaining'] changed from 8 to 9.
+Value of root[521]['selected'] changed from 42 to 41.
+Value of root[521]['remaining'] changed from 8 to 9.
+Value of root[533]['selected'] changed from 42 to 41.
+Value of root[533]['remaining'] changed from 8 to 9.
+Value of root[1141]['changeDescription'] changed from "更換主授教師8/20" to "更換主授教師8/22".
+Value of root[1141]['teacher'] changed from "王梅香,林傳凱" to "林傳凱,王梅香".
+Value of root[1293]['selected'] changed from 18 to 17.
+Value of root[1293]['remaining'] changed from 32 to 33.
+Value of root[1318]['selected'] changed from 11 to 10.
+Value of root[1318]['remaining'] changed from 39 to 40.
+Value of root[1340]['selected'] changed from 7 to 6.
+Value of root[1340]['remaining'] changed from 43 to 44.
