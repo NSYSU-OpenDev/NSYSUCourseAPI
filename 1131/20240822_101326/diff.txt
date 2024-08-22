@@ -1,0 +1,22 @@
+Type of root[2273]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2273]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/22".
+Type of root[2275]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2275]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/22".
+Type of root[2280]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2280]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室與教師8/22".
+Value of root[601]['select'] changed from 0 to 1.
+Value of root[601]['selected'] changed from 20 to 19.
+Value of root[601]['remaining'] changed from 30 to 31.
+Value of root[603]['select'] changed from 0 to 1.
+Value of root[603]['selected'] changed from 20 to 19.
+Value of root[603]['remaining'] changed from 40 to 41.
+Value of root[1141]['select'] changed from 0 to 1.
+Value of root[1141]['selected'] changed from 43 to 42.
+Value of root[1141]['remaining'] changed from 7 to 8.
+Value of root[1150]['select'] changed from 0 to 1.
+Value of root[1150]['selected'] changed from 43 to 42.
+Value of root[1150]['remaining'] changed from 7 to 8.
+Value of root[1156]['select'] changed from 0 to 1.
+Value of root[1156]['selected'] changed from 43 to 42.
+Value of root[1156]['remaining'] changed from 7 to 8.
+Value of root[2280]['teacher'] changed from "郭志文" to "郭志文,王昭文".
