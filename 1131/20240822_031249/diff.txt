@@ -1,0 +1,14 @@
+Type of root[1043]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1043]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室8/22".
+Type of root[2277]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2277]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/22".
+Type of root[2283]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2283]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/22".
+Value of root[1043]['room'] changed from "三2,3,4(海MB 1009)" to "五2,3,4(海MB 1005)".
+Value of root[2277]['teacher'] changed from "柯馬丁" to "李汀洧".
+Value of root[2280]['description'] changed from "《講授類》
+本課程限數金所學生加選" to "《獨立研究》
+本課程限數金所學生加選".
+Value of root[2282]['changeDescription'] changed from "更換教室8/15" to "確定教師8/22".
+Value of root[2282]['teacher'] changed from "待聘" to "Dan Galai".
+Value of root[2283]['teacher'] changed from "柯馬丁" to "李汀洧".
