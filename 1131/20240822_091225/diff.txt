@@ -1,0 +1,22 @@
+Item root[1197]['classTime'][4] added to iterable.
+Item root[1215]['classTime'][4] added to iterable.
+Item root[1197]['classTime'][4] removed from iterable.
+Item root[1215]['classTime'][4] removed from iterable.
+Item root[126] removed from iterable.
+Type of root[1197]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1197]['changeDescription'] changed from NoneType to str and value changed from None to "更正部份時間8/22".
+Value of root[1020]['select'] changed from 2 to 3.
+Value of root[1020]['selected'] changed from 29 to 28.
+Value of root[1020]['remaining'] changed from 21 to 22.
+Value of root[1021]['select'] changed from 2 to 3.
+Value of root[1021]['selected'] changed from 29 to 28.
+Value of root[1021]['remaining'] changed from 21 to 22.
+Value of root[1029]['select'] changed from 2 to 3.
+Value of root[1029]['selected'] changed from 29 to 28.
+Value of root[1029]['remaining'] changed from 21 to 22.
+Value of root[1030]['select'] changed from 2 to 3.
+Value of root[1030]['selected'] changed from 29 to 28.
+Value of root[1030]['remaining'] changed from 21 to 22.
+Value of root[1215]['changeDescription'] changed from "確認教師7/18" to "更換部份時間8/22".
+Value of root[2403]['changeDescription'] changed from "更換時間7/18" to "更換教師8/22".
+Value of root[2403]['teacher'] changed from "黃韋豪,劉正山,廖達琪,張其祿,曾國祥,楊尚儒,陳宗巖,陳至潔" to "黃韋豪,劉正山,廖達琪,張其祿,曾國祥,楊尚儒,陳宗巖".
