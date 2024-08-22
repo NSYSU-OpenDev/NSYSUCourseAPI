@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE531&Crsname=書報討論（一）,,,False,資工碩,CSE531,1,不分班,"書報討論（一）
-SEMINAR I",1,期,True,120,2,116,4,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+SEMINAR I",1,期,True,120,3,115,5,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
 限本系大四生及碩/博士生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE533&Crsname=書報討論（三）,,,False,資工碩,CSE533,2,不分班,"書報討論（三）
 SEMINAR III",1,期,True,120,3,104,16,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
