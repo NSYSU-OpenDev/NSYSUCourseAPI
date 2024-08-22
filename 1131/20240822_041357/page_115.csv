@@ -1,15 +1,15 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DSF503&Crsname=創新商業模式實作（一）,,,False,數位金融所,DSF503,1,不分班,"創新商業模式實作（一）
-IMPLEMENTATION OF INNOVATIVE BUSINESS MODELS (I)",1,期,True,50,0,33,17,郭志文,,"['', '', '', '', '7', '', '']","《講授類》
+IMPLEMENTATION OF INNOVATIVE BUSINESS MODELS (I)",1,期,True,50,0,33,17,郭志文,,"['', '', '', '', '7', '', '']","《獨立研究》
 本課程限數金所學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DSF551&Crsname=碳匯和綠色金融工具,異動,更正限修條件8/15,False,數位金融所,DSF551,1,不分班,"碳匯和綠色金融工具
 CARBON SINKS AND GREEN FINANCIAL INSTRUMENTS",2,期,False,50,0,0,50,貝賽峰,,"['', '', '', '', '', '89', '']","《講授類》
 本課程限國際金融研究學院學生加選",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DSF552&Crsname=財務風險與永續金融,異動,更換教室8/15,False,數位金融所,DSF552,1,不分班,"財務風險與永續金融
-FINANCIAL RISK AND SUSTAINABLE FINANCE",2,期,False,50,0,0,50,待聘,,"['', '', '', '', '56', '', '']","《講授類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DSF552&Crsname=財務風險與永續金融,異動,確定教師8/22,False,數位金融所,DSF552,1,不分班,"財務風險與永續金融
+FINANCIAL RISK AND SUSTAINABLE FINANCE",2,期,False,50,0,0,50,Dan Galai,,"['', '', '', '', '56', '', '']","《講授類》
 本課程限國際金融研究學院學生加選",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DSF553&Crsname=商用英文實務,,,False,數位金融所,DSF553,1,不分班,"商用英文實務
-ENGLISH FOR BUSINESS",1,期,False,50,0,0,50,柯馬丁,,"['', '', '', 'E', '', '', '']","《講授類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DSF553&Crsname=商用英文實務,異動,更換教師8/22,False,數位金融所,DSF553,1,不分班,"商用英文實務
+ENGLISH FOR BUSINESS",1,期,False,50,0,0,50,李汀洧,,"['', '', '', 'E', '', '', '']","《講授類》
 本課程限國際金融研究學院學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DSF554&Crsname=開放型總體經濟與國際金融,新增,8/15,False,數位金融所,DSF554,1,不分班,"開放型總體經濟與國際金融
 OPEN MACROECONOMICS AND INTERNATIONAL FINANCE",2,期,False,50,0,0,50,艾西亞,,"['', '', '', '', '', '89', '']","《講授類》
