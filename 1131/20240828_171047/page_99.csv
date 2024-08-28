@@ -1,8 +1,8 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAEV648&Crsname=海岸現場試驗,,,False,海工碩,MAEV648,1,不分班,"海岸現場試驗
 COASTAL FIELD EXPERIMENT",3,期,False,50,0,0,50,曾以帆,"三5,6,7(海ME 3005)","['', '', '567', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAEV652&Crsname=水化學,,,False,海工碩,MAEV652,1,不分班,"水化學
-WATER CHEMISTRY",3,期,False,50,0,0,50,林巧雯,"三5,6,7(海ME 3002)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAEV652&Crsname=水化學,異動,更換時間及教室8/28,False,海工碩,MAEV652,1,不分班,"水化學
+WATER CHEMISTRY",3,期,False,50,0,0,50,林巧雯,"二6,7,8(海ME 3004)","['', '678', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAEV662&Crsname=應用Python於海洋環境資料分析,,,False,海工碩,MAEV662,1,不分班,"應用Python於海洋環境資料分析
 PYTHON FOR MARINE ENVIRONMENTAL DATA ANALYSIS",3,期,False,50,0,0,50,夏沛亞,"一6,7,8(海ME 3004)","['678', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAEV679&Crsname=波與孔隙物作用專研（一）,,,False,海工碩,MAEV679,2,不分班,"波與孔隙物作用專研（一）

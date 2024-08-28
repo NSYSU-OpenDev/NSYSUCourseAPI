@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB616&Crsname=國際企業管理,,,False,國際經營學程,IB616,1,不分班,"國際企業管理
-INTERNATIONAL BUSINESS MANAGEMENT",3,期,True,60,0,58,2,羅芳怡,"五2,3,4(管CM 4112)","['', '', '', '', '234', '', '']","《講授類》
+INTERNATIONAL BUSINESS MANAGEMENT",3,期,True,60,0,57,3,羅芳怡,"五2,3,4(管CM 4112)","['', '', '', '', '234', '', '']","《講授類》
 限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GHRM501&Crsname=組織理論與管理,,,False,人管英語碩程,GHRM501,1,不分班,"組織理論與管理
 ORGANIZATION THEORY & MANAGEMENT",3,期,True,50,0,22,28,羅芳怡,"四6,7,8(管CM 2025)","['', '', '', '678', '', '', '']","《講授類》
