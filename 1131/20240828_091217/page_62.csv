@@ -1,0 +1,55 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM304&Crsname=婦產科學實習（一）,異動,確認教師7/31,False,後醫學系,DPBM304,3,不分班,"婦產科學實習（一）
+CLERKSHIP IN OBSTETRICS AND GYNECOLOGY(I)",4,年,True,23,0,0,23,"林立德,待聘,待聘,待聘,待聘,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM305&Crsname=兒科學實習（一）,異動,確認時間及教師7/30,False,後醫學系,DPBM305,3,不分班,"兒科學實習（一）
+CLERKSHIP IN PEDIATRICS(I)",4,年,True,23,0,23,0,"蕭志誠,待聘,待聘,待聘,待聘,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM306&Crsname=神經科學實習,異動,確認時間及教師8/9,False,後醫學系,DPBM306,3,不分班,"神經科學實習
+CLERKSHIP IN NEUROLOGY",4,年,True,23,0,23,0,"謝孟倉,待聘,待聘,待聘,待聘,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM307&Crsname=精神科學實習,,,False,後醫學系,DPBM307,3,不分班,"精神科學實習
+CLERKSHIP IN PSYCHIATRY",4,年,True,23,0,0,23,"張志誠,待聘,待聘,待聘,待聘,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM308&Crsname=復健科學實習,異動,確認教師7/31,False,後醫學系,DPBM308,3,不分班,"復健科學實習
+CLERKSHIP IN REHABILITATION MEDICINE",2,年,True,23,0,23,0,"劉亦修,待聘,待聘,待聘,待聘,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM309&Crsname=家庭醫學實習,異動,確認時間及教師7/30,False,後醫學系,DPBM309,3,不分班,"家庭醫學實習
+CLERKSHIP IN FAMILY MEDICINE",2,年,True,23,0,23,0,"駱聰成,待聘,待聘,待聘,待聘,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM310&Crsname=臨床實習選修（一）,異動,確認時間及教師7/30,False,後醫學系,DPBM310,3,不分班,"臨床實習選修（一）
+CLERKSHIP IN ELECTIVE COURSE(I)",4,年,True,23,0,0,23,"陳德全,待聘,待聘,待聘,待聘,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM311&Crsname=臨床技能（四）,,,False,後醫學系,DPBM311,3,不分班,"臨床技能（四）
+MEDICAL SKILL TRAINING PROGRAM(IV)",1,年,True,50,0,23,27,王慧婷,,"['1234', '1234', '1234', '', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM312&Crsname=醫學資訊、實證醫學與研究（三）,,,False,後醫學系,DPBM312,3,不分班,"醫學資訊、實證醫學與研究（三）
+MEDICAL INFORMATION, EVIDENCE-BASED MEDICINE AND RESEARCH(III)",1,期,True,23,0,0,23,王慧婷,,"['345678', '56789', '567', '', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM313&Crsname=溝通與專業素養（五）,異動,確認教師7/31,False,後醫學系,DPBM313,3,不分班,"溝通與專業素養（五）
+COMMUNICATION AND PROFESSIONALISM(V)",1,期,True,50,0,0,50,"陳德全,楊婉儀,王宏仁,王慧婷,蘇昱日",,"['123478', '5678', '1234', '', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM320&Crsname=實證醫學,,,False,後醫學系,DPBM320,2,不分班,"實證醫學
+EVIDENCE-BASED MEDICINE",1,期,True,50,0,22,28,刁茂盟,,"['', '', '234', '678', '678', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BMST101&Crsname=普通生物學,異動,更換時間及教師8/5,False,生醫科技系,BMST101,1,全英班,"普通生物學
+GENERAL BIOLOGY",3,期,True,40,0,33,7,"廖睿妘,廖志中,水晶,王亮鈞","一2,3,4(海MA 3021)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BMST102&Crsname=普通生物學實驗,,,False,生醫科技系,BMST102,1,全英班,"普通生物學實驗
+GENERAL BIOLOGY LABORATORY",1,期,True,50,0,32,18,"鄭光宏,顏聖紘","二5,6,7(海MB 2003)(實驗)","['', '567', '', '', '', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BMST103&Crsname=微積分（一）,異動,增加備註說明8/21,False,生醫科技系,BMST103,1,全英班,"微積分（一）
+CALCULUS（Ⅰ）",3,期,True,50,0,20,30,陳美如,"五2,3,4(理SC 1005)","['', '', '', '', '234', '', '']","《講授類》
+醫工組",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BMST103A&Crsname=微積分（一）,異動,修正備註內容8/21,False,生醫科技系,BMST103A,1,全英班,"微積分（一）
+CALCULUS（Ⅰ）",3,期,True,50,0,18,32,余冠儒,"五2,3,4(工EC 1001)","['', '', '', '', '234', '', '']","《講授類》
+生醫組",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BMST104&Crsname=生物醫學科技導論（一）,,,False,生醫科技系,BMST104,1,全英班,"生物醫學科技導論（一）
+INTRODUCTION TO BIOMEDICAL SCIENCE AND TECHNOLOGY（I）",2,期,True,50,0,33,17,"范秀芳,余靈珊,張玉泉,陳志杰","四5,6(國IR 5002)","['', '', '', '56', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BMST211&Crsname=神經科學探索,,,False,生醫科技系,BMST211,1,全英班,"神經科學探索
+INTRODUCTION TO NEUROSCIENCE",3,期,False,50,0,0,50,楊仁豪,"一5,6,7(工EC 2006)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BMST231&Crsname=計算機概論,新增,8/9,False,生醫科技系,BMST231,1,不分班,"計算機概論
+INTRODUCTION TO COMPUTER SCIENCE",3,期,False,50,0,0,50,巫建興,"三5,6,7(國IR 4002)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BMST232&Crsname=工程電腦程式,新增,8/9,False,生醫科技系,BMST232,1,不分班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,False,50,0,0,50,巫建興,"一5,6,7(工EN 4055-2)","['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MED101&Crsname=基礎生物學,,,False,醫學院,MED101,0,不分班,"基礎生物學
+BASIC CONCEPTS OF BIOLOGY",2,期,False,5,0,0,5,"張玉泉,薛佑玲,鄭光宏","四8,9(通GE 1010)","['', '', '', '89', '', '', '']","《講授類》
+限醫學院大學部學生修習",['環境教育學程'],False
