@@ -1,0 +1,51 @@
+Item root[385] added to iterable.
+Item root[2499]['classTime'][1] added to iterable.
+Item root[2681] added to iterable.
+Item root[2499]['classTime'][0] removed from iterable.
+Type of root[2499]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2499]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室8/29".
+Value of root[84]['selected'] changed from 50 to 49.
+Value of root[84]['remaining'] changed from 0 to 1.
+Value of root[161]['selected'] changed from 61 to 60.
+Value of root[161]['remaining'] changed from 19 to 20.
+Value of root[174]['select'] changed from 101 to 100.
+Value of root[174]['selected'] changed from 90 to 91.
+Value of root[174]['remaining'] changed from 0 to -1.
+Value of root[175]['select'] changed from 55 to 54.
+Value of root[175]['selected'] changed from 72 to 73.
+Value of root[175]['remaining'] changed from 8 to 7.
+Value of root[176]['select'] changed from 48 to 47.
+Value of root[176]['selected'] changed from 29 to 30.
+Value of root[176]['remaining'] changed from 44 to 43.
+Value of root[177]['select'] changed from 233 to 232.
+Value of root[177]['selected'] changed from 80 to 81.
+Value of root[177]['remaining'] changed from 0 to -1.
+Value of root[180]['select'] changed from 10 to 9.
+Value of root[180]['selected'] changed from 21 to 22.
+Value of root[180]['remaining'] changed from 34 to 33.
+Value of root[374]['selected'] changed from 30 to 29.
+Value of root[374]['remaining'] changed from 0 to 1.
+Value of root[715]['selected'] changed from 33 to 32.
+Value of root[715]['remaining'] changed from 25 to 26.
+Value of root[718]['selected'] changed from 33 to 32.
+Value of root[718]['remaining'] changed from 42 to 43.
+Value of root[723]['selected'] changed from 33 to 32.
+Value of root[723]['remaining'] changed from 47 to 48.
+Value of root[728]['selected'] changed from 33 to 32.
+Value of root[728]['remaining'] changed from 47 to 48.
+Value of root[731]['selected'] changed from 33 to 32.
+Value of root[731]['remaining'] changed from 23 to 24.
+Value of root[1075]['select'] changed from 1 to 0.
+Value of root[1075]['selected'] changed from 0 to 1.
+Value of root[1075]['remaining'] changed from 50 to 49.
+Value of root[1590]['selected'] changed from 94 to 92.
+Value of root[1590]['remaining'] changed from -14 to -12.
+Value of root[1591]['selected'] changed from 74 to 72.
+Value of root[1591]['remaining'] changed from 6 to 8.
+Value of root[1592]['selected'] changed from 76 to 74.
+Value of root[1592]['remaining'] changed from 4 to 6.
+Value of root[1593]['selected'] changed from 83 to 81.
+Value of root[1593]['remaining'] changed from -3 to -1.
+Value of root[1603]['selected'] changed from 114 to 112.
+Value of root[1603]['remaining'] changed from 6 to 8.
+Value of root[2499]['room'] changed from "一6,7,8(管CM 3022)" to "二2,3,4(管CM 2021)".
