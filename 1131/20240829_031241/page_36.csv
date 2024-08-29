@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH481&Crsname=組合學,,,False,應數系,MATH481,4,不分班,"組合學
-COMBINATORICS",3,期,False,50,0,0,50,王彩蓮,"一5,6,B(理SC 4013)","['B56', '', '', '', '', '', '']","《講授類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH481&Crsname=組合學,異動,更換時間8/28,False,應數系,MATH481,4,不分班,"組合學
+COMBINATORICS",3,期,False,50,0,0,50,王彩蓮,"一6,7,8(理SC 4013)","['678', '', '', '', '', '', '']","《講授類》
 與碩士班併班上課。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH491&Crsname=分析導論,異動,更換時間6/26,False,應數系,MATH491,4,不分班,"分析導論
 INTRODUCTION TO ANALYSIS",3,期,False,50,0,0,50,陳志偉,"二3,4,B(理SC 4013)","['', '34B', '', '', '', '', '']","《講授類》

@@ -2041,8 +2041,8 @@ STATISTICAL INFERENCE",3,期,False,50,0,0,50,施嘉翰,"二2(理SC 4009-1) 四3,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH457&Crsname=數據科學實務與創新,,,False,應數系,MATH457,4,不分班,"數據科學實務與創新
 PRACTICAL AND INNOVATIVE ANALYTICS IN DATA SCIENCE",3,期,False,50,0,0,50,鍾思齊,"一2,3,4(理SC 2004)","['234', '', '', '', '', '', '']","《講授類》
 與碩士班併班上課。",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH481&Crsname=組合學,,,False,應數系,MATH481,4,不分班,"組合學
-COMBINATORICS",3,期,False,50,0,0,50,王彩蓮,"一5,6,B(理SC 4013)","['B56', '', '', '', '', '', '']","《講授類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH481&Crsname=組合學,異動,更換時間8/28,False,應數系,MATH481,4,不分班,"組合學
+COMBINATORICS",3,期,False,50,0,0,50,王彩蓮,"一6,7,8(理SC 4013)","['678', '', '', '', '', '', '']","《講授類》
 與碩士班併班上課。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH491&Crsname=分析導論,異動,更換時間6/26,False,應數系,MATH491,4,不分班,"分析導論
 INTRODUCTION TO ANALYSIS",3,期,False,50,0,0,50,陳志偉,"二3,4,B(理SC 4013)","['', '34B', '', '', '', '', '']","《講授類》
@@ -2718,13 +2718,13 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM217A&
 EXERCISE FOR STATISTICS(I)",1,期,False,50,0,0,50,林晉禾,"四5,B(管CM 4069)(實驗)","['', '', '', 'B5', '', '', '']","《實習類》
 限企管系(含雙主修、輔系)",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM302&Crsname=管理會計,,,False,企管系,BM302,3,甲班,"管理會計
-MANAGERIAL ACCOUNTING",3,期,True,50,0,39,11,陳妮雲,"二2,3,4(管CM 4078)","['', '234', '', '', '', '', '']","《講授類》
+MANAGERIAL ACCOUNTING",3,期,True,50,0,38,12,陳妮雲,"二2,3,4(管CM 4078)","['', '234', '', '', '', '', '']","《講授類》
 限企管系(含雙主修、輔系)",['會計學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM302A&Crsname=管理會計,,,False,企管系,BM302A,3,乙班,"管理會計
 MANAGERIAL ACCOUNTING",3,期,True,50,0,41,9,陳妮雲,"三2,3,4(管CM 3015)","['', '', '234', '', '', '', '']","《講授類》
 限企管系(含雙主修、輔系)",['會計學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM303&Crsname=管理資訊系統,,,False,企管系,BM303,3,甲班,"管理資訊系統
-MANAGEMENT INFORMATION SYSTEM",3,期,True,50,0,39,11,黃鋒樟,"二5,6,7(管CM 1037)","['', '567', '', '', '', '', '']","《講授類》
+MANAGEMENT INFORMATION SYSTEM",3,期,True,50,0,38,12,黃鋒樟,"二5,6,7(管CM 1037)","['', '567', '', '', '', '', '']","《講授類》
 限企管系(含雙主修、輔系)；併班上課",['科技創新與服務業管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM303A&Crsname=管理資訊系統,,,False,企管系,BM303A,3,乙班,"管理資訊系統
 MANAGEMENT INFORMATION SYSTEM",3,期,True,50,0,41,9,黃鋒樟,"二5,6,7(管CM 1037)","['', '567', '', '', '', '', '']","《講授類》
@@ -2749,7 +2749,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM413&C
 STRATEGIC MANAGEMENT",3,期,True,50,0,42,8,蔡宗霖,"一5,6,7(管CM 3019)","['567', '', '', '', '', '', '']","《講授類》
 限企管系(含雙主修、輔系)","['科技創新與服務業管理學程', '人力資源管理學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM413A&Crsname=策略管理,,,False,企管系,BM413A,4,乙班,"策略管理
-STRATEGIC MANAGEMENT",3,期,True,50,0,39,11,林豪傑,"一5,6,7(管CM 2037)","['567', '', '', '', '', '', '']","《講授類》
+STRATEGIC MANAGEMENT",3,期,True,50,0,38,12,林豪傑,"一5,6,7(管CM 2037)","['567', '', '', '', '', '', '']","《講授類》
 限企管系(含雙主修、輔系)","['科技創新與服務業管理學程', '人力資源管理學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM416&Crsname=審計學,,,False,企管系,BM416,3,不分班,"審計學
 AUDITINGS",3,期,False,50,0,0,50,陳昭誠,"三C,D,E(管CM 3019)","['', '', 'CDE', '', '', '', '']",《講授類》,['會計學程'],False
@@ -4020,12 +4020,12 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH529
 MATRIX COMPUTATIONS",3,期,False,20,0,0,20,"李宗錂,陳志漢","三3,4(理SC 4011) 四4(理SC 4011)","['', '', '34', '4', '', '', '']",《講授類》,['巨量資料分析學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH536&Crsname=符號計算,,,False,應數碩,MATH536,0,不分班,"符號計算
 SYMBOLIC CONPUTATIONS",3,期,False,20,0,0,20,呂宗澤,"四3(理SC 4011) 五3,4(理SC 4011)","['', '', '', '3', '34', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH555&Crsname=組合學,,,False,應數碩,MATH555,0,不分班,"組合學
-COMBINATORICS",3,期,False,20,0,0,20,王彩蓮,"一5,6,B(理SC 4013)","['B56', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH555&Crsname=組合學,異動,更換時間8/28,False,應數碩,MATH555,0,不分班,"組合學
+COMBINATORICS",3,期,False,20,0,0,20,王彩蓮,"一6,7,8(理SC 4013)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH557&Crsname=實變函數論,,,False,應數碩,MATH557,0,不分班,"實變函數論
 REAL ANALYSIS",3,期,False,20,0,0,20,何宗軒,"四3,4,B(理SC 4013)","['', '', '', '34B', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH563&Crsname=代數學,,,False,應數碩,MATH563,0,不分班,"代數學
-ALGEBRA",3,期,False,20,0,0,20,王彩蓮,"一7,8,9(理SC 4013)","['789', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH563&Crsname=代數學,異動,更換時間8/28,False,應數碩,MATH563,0,不分班,"代數學
+ALGEBRA",3,期,False,20,0,0,20,王彩蓮,"三5,6,7(理SC 4013)","['', '', '567', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH579&Crsname=應用泛函分析,,,False,應數碩,MATH579,0,不分班,"應用泛函分析
 APPLIED FUNCTIONAL ANALYSIS",3,期,False,20,0,0,20,何宗軒,"三3,4,B(理SC 4013)","['', '', '34B', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH589&Crsname=圖論中的拓樸方法,,,False,應數碩,MATH589,0,不分班,"圖論中的拓樸方法
@@ -4075,8 +4075,8 @@ SEMINAR",1,期,True,150,0,158,-8,謝耀慶,"二6,7(工EC 6019)","['', '67', '', 
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5102&Crsname=ＳＯＩ積體電路工程,,,False,電機碩,EE5102,0,不分班,"ＳＯＩ積體電路工程
 SOI IC ENGINEERING",3,期,False,50,0,0,50,林吉聰,"三5,6,7(工EC 3010)","['', '', '567', '', '', '', '']","《講授類》
 開放大三、大四學生選修","['矽光子微學程', '半導體元件學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5107&Crsname=光電半導體元件專題,,,False,電機碩,EE5107,0,不分班,"光電半導體元件專題
-SPECIAL TOPICS IN SEMICONDUCTOR OPTOELECTRONICS",3,期,False,50,0,0,50,莊豐任,"一2,3,4(工EC 7040)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5107&Crsname=光電半導體元件專題,異動,更換時間及教室8/29,False,電機碩,EE5107,0,不分班,"光電半導體元件專題
+SPECIAL TOPICS IN SEMICONDUCTOR OPTOELECTRONICS",3,期,False,50,0,0,50,莊豐任,"一5,6,7(工EC 2010)","['567', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5111&Crsname=固態電子元件（一）,,,False,電機碩,EE5111,0,不分班,"固態電子元件（一）
 SOLID STATE ELECTRONIC DEVICES (I)",3,期,False,50,0,0,50,馬誠佑,"二2,3,4(工EC 3014)","['', '234', '', '', '', '', '']",《講授類》,"['半導體設備工程學程', '半導體元件學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE5121&Crsname=微電子工程專題,,,False,電機碩,EE5121,0,不分班,"微電子工程專題
@@ -5078,7 +5078,7 @@ HOSPITAL OPERATIONS MANAGEMENT",3,期,False,50,0,0,50,顏家祺,"四C,D,E(管CM 
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IHCM635&Crsname=醫療監管科學,,,False,企醫管碩,IHCM635,0,不分班,"醫療監管科學
 REGULATORY SCIENCE OF MEDICAL HEALTHCARE",3,期,False,50,0,0,50,李清潭,"四C,D,E(管 CM 3035)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB502&Crsname=統計與計量方法,,,False,國際經營學程,IB502,1,不分班,"統計與計量方法
-STATISTICS AND QUANTITATIVE METHODS",3,期,True,60,0,57,3,李澄賢,"二2,3,4(管CM 3051)","['', '234', '', '', '', '', '']","《講授類》
+STATISTICS AND QUANTITATIVE METHODS",3,期,True,60,0,56,4,李澄賢,"二2,3,4(管CM 3051)","['', '234', '', '', '', '', '']","《講授類》
 限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB506&Crsname=組織理論與管理,,,False,國際經營學程,IB506,0,不分班,"組織理論與管理
 ORGANISATIONAL THEORY AND MANAGEMENT",3,期,False,50,0,0,50,羅芳怡,"四6,7,8(管CM 2025)","['', '', '', '678', '', '', '']","《講授類》
@@ -5101,10 +5101,10 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB535&C
 INTERNATIONAL ECONOMICS",3,期,False,50,0,0,50,安大衛,"三2,3,4(管CM 1023)","['', '', '234', '', '', '', '']","《講授類》
 限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB538&Crsname=企業倫理與社會責任實踐,,,False,國際經營學程,IB538,1,不分班,"企業倫理與社會責任實踐
-THE PRACTICE OF CORPORATE ETHICS AND SOCIAL RESPONSIBILITY",2,期,True,60,0,58,2,劉易,"五6,7(管CM 4112)","['', '', '', '', '67', '', '']","《講授類》
+THE PRACTICE OF CORPORATE ETHICS AND SOCIAL RESPONSIBILITY",2,期,True,60,0,57,3,劉易,"五6,7(管CM 4112)","['', '', '', '', '67', '', '']","《講授類》
 與GHRM併班上課，限IBMBA及GHRM學生修習，欲加選學生請於異常處理時加選。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB539&Crsname=永續領導力論壇,,,False,國際經營學程,IB539,1,不分班,"永續領導力論壇
-SUSTAINABLE LEADERSHIP FORUM",1,期,True,60,0,58,2,劉易,五8(管CM 4112),"['', '', '', '', '8', '', '']","《研討類》
+SUSTAINABLE LEADERSHIP FORUM",1,期,True,60,0,57,3,劉易,五8(管CM 4112),"['', '', '', '', '8', '', '']","《研討類》
 與GHRM併班上課，限IBMBA及GHRM學生修習，欲加選學生請於異常處理時加選。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB540&Crsname=亞太創新經濟研討,異動,修改限定條件8/6,False,國際經營學程,IB540,0,不分班,"亞太創新經濟研討
 SEMINAR ON THE INNOVATION ECONOMY IN THE ASIA-PACIFIC REGION",3,期,False,50,0,0,50,"安大衛,佘健源",,"['234678', '678', '234567', '234678', '234678', '', '']","《研討類》
@@ -5113,7 +5113,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB604&C
 BUSINESS STRATEGY",3,期,False,50,0,0,50,馬威爾,"四6,7,8(管CM 1023)","['', '', '', '678', '', '', '']","《講授類》
 限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IB616&Crsname=國際企業管理,,,False,國際經營學程,IB616,1,不分班,"國際企業管理
-INTERNATIONAL BUSINESS MANAGEMENT",3,期,True,60,0,58,2,羅芳怡,"五2,3,4(管CM 4112)","['', '', '', '', '234', '', '']","《講授類》
+INTERNATIONAL BUSINESS MANAGEMENT",3,期,True,60,0,57,3,羅芳怡,"五2,3,4(管CM 4112)","['', '', '', '', '234', '', '']","《講授類》
 限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GHRM501&Crsname=組織理論與管理,,,False,人管英語碩程,GHRM501,1,不分班,"組織理論與管理
 ORGANIZATION THEORY & MANAGEMENT",3,期,True,50,0,22,28,羅芳怡,"四6,7,8(管CM 2025)","['', '', '', '678', '', '', '']","《講授類》
@@ -6013,10 +6013,10 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SBF505A
 WEALTH MANAGEMENT: OPERATION & RISK MANAGEMENT",3,期,True,50,0,0,50,彭聰敏,,"['', '', '', '', '', '567', '']","《講授類》
 本課程限國資所(企業組)學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SBF506&Crsname=國際金融監理變革趨勢與研討,異動,修正限修條件8/15,False,國際資產所,SBF506,1,不分班,"國際金融監理變革趨勢與研討
-EVOLUTION OF FINANCIAL REGULATION & SUPERVISION: AN INTERNATIONAL PERSPECTIVE",2,期,True,60,0,58,2,饒永華,,"['', '', '', '', '34', '', '']","《講授類》
+EVOLUTION OF FINANCIAL REGULATION & SUPERVISION: AN INTERNATIONAL PERSPECTIVE",2,期,True,60,0,57,3,饒永華,,"['', '', '', '', '34', '', '']","《講授類》
 本課程限國際金融研究學院學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SBF507&Crsname=創新商業模式實作（二）,異動,更換教室8/22,False,國際資產所,SBF507,1,不分班,"創新商業模式實作（二）
-INDEPENDENT STUDIES IN INNOVATIVE BUSINESS MODELS-2",1,期,True,60,0,58,2,"郭志文,王昭文",,"['', '', '', '', '7', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN INNOVATIVE BUSINESS MODELS-2",1,期,True,60,0,57,3,"郭志文,王昭文",,"['', '', '', '', '7', '', '']","《獨立研究》
 本課程限國際金融研究學院學生加選",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SBF509&Crsname=高資產客戶投資理財實務分享,異動,修正限修條件8/15,False,國際資產所,SBF509,1,不分班,"高資產客戶投資理財實務分享
 CASE STUDY OF HNW INVESTMENT MANAGEMENT",2,期,False,50,0,0,50,賈安霈,,"['', '', '', '', '', '89', '']","《講授類》
@@ -6131,7 +6131,7 @@ PUBLIC AFFAIRS AND MANAGEMENT",3,期,True,50,0,0,50,"吳偉寧,游尚儒","日5,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PAM998&Crsname=公共事務專題研究,異動,更換時間8/7,False,公事碩專,PAM998,2,不分班,"公共事務專題研究
 INDEPENDENT STUDIES IN PUBLIC AFFAIRS",2,期,False,50,0,0,50,"張瓊婷,彭渰雯,林新沛,蔡錦昌","六8,9(澎湖)","['', '', '', '', '', '89', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM901&Crsname=碩士論文,,,False,人管碩專,HRM901,2,不分班,"碩士論文
-MASTER THESIS",3,期,True,50,0,30,20,指導教授,"日C,D,E()","['', '', '', '', '', '', 'CDE']",《研討類》,[],False
+MASTER THESIS",3,期,True,50,0,29,21,指導教授,"日C,D,E()","['', '', '', '', '', '', 'CDE']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM911&Crsname=組織理論與管理,,,False,人管碩專,HRM911,1,不分班,"組織理論與管理
 ORGANIZATION THEORY AND MANAGEMENT",3,期,False,25,0,0,25,陳旻男,"四C,D,E(管CM 3043)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM912&Crsname=組織行為,異動,修改限修條件8/14,False,人管碩專,HRM912,1,不分班,"組織行為
@@ -6444,7 +6444,7 @@ SEMINAR",1,期,True,50,0,2,48,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '',
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO7139&Crsname=書報討論（一）,,,False,光電博,EO7139,1,不分班,"書報討論（一）
 SEMINAR(I)",1,期,True,50,0,6,44,林煒淳,"一6,7,8(國IR 3003)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES702&Crsname=書報討論,,,False,材光博,MOES702,1,不分班,"書報討論
-SEMINAR",1,期,True,50,0,15,35,郭哲男,"三6,7(工EC 1001)","['', '', '67', '', '', '', '']",《研討類》,[],False
+SEMINAR",1,期,True,50,0,14,36,郭哲男,"三6,7(工EC 1001)","['', '', '67', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES702A&Crsname=書報討論,,,False,材光博,MOES702A,2,不分班,"書報討論
 SEMINAR",1,期,True,50,0,9,41,郭哲男,"三6,7(工EC 1001)","['', '', '67', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE711&Crsname=駭客攻防與電腦鑑識技術,,,False,資工資安博,CSE711,2,不分班,"駭客攻防與電腦鑑識技術
@@ -6750,8 +6750,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DCEM705
 INNOVATION IN TRANSLATIONAL MEDICINE",3,期,True,50,0,6,44,簡志彦,"三5,6,7(國IR 5005)","['', '', '567', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DCEM706&Crsname=專題研究（一）,,,False,臨床醫博學程,DCEM706,2,不分班,"專題研究（一）
 INDEPENDENT STUDIES（I）",3,期,True,50,0,8,42,"簡志彦,楊仁豪","二2,3,4(國IR 5002)","['', '234', '', '', '', '', '']",《獨立研究》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DCEM712&Crsname=人類疾病之創新動物模式研究,,,False,臨床醫博學程,DCEM712,0,不分班,"人類疾病之創新動物模式研究
-TRANSLATIONAL RESEARCH USING INNOVATIVE ANIMAL MODELS",3,期,False,50,0,0,50,楊仁豪,"一2,3,4(國IR 4005)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DCEM712&Crsname=人類疾病之創新動物模式研究,異動,更換時間及教室8/29,False,臨床醫博學程,DCEM712,0,不分班,"人類疾病之創新動物模式研究
+TRANSLATIONAL RESEARCH USING INNOVATIVE ANIMAL MODELS",3,期,False,50,0,0,50,楊仁豪,"四2,3,4(國IR 6017-2)","['', '', '', '234', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISM720&Crsname=半導體元件與物理,異動,更換時間及教室7/5,False,半導體製造博,ISM720,1,不分班,"半導體元件與物理
 SEMICONDUCTOR DEVICES AND PHYSICS",3,期,False,2,0,0,2,馬誠佑,"一6,7,8(國IR 6002J)","['678', '', '', '', '', '', '']","《講授類》
 網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],False
