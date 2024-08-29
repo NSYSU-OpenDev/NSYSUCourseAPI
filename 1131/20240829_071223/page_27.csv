@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA204&Crsname=導演概論,,,False,劇藝系,TA204,2,不分班,"導演概論
-INTRODUCTION TO THE HISTORY AND THEORY OF DIRECTING",2,期,True,50,0,40,10,楊士平,"四3,4(文FA 3012)","['', '', '', '34', '', '', '']",《講授類》,[],False
+INTRODUCTION TO THE HISTORY AND THEORY OF DIRECTING",2,期,True,50,0,39,11,楊士平,"四3,4(文FA 3012)","['', '', '', '34', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA209&Crsname=西洋戲劇史（一）,,,False,劇藝系,TA209,1,不分班,"西洋戲劇史（一）
 HISTORY OF WESTERN DRAMA(I)",2,期,True,50,0,49,1,許仁豪,"三3,4(文FA 3012)","['', '', '34', '', '', '', '']",《講授類》,['跨文化人文思潮與美學微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA232&Crsname=藝術行銷概論,,,False,劇藝系,TA232,2,不分班,"藝術行銷概論
@@ -29,7 +29,7 @@ COSTUME DESIGN FOR THEATRE",3,期,False,50,0,0,50,吳怡瑱,"一2,3,4(文FA 2016
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA302&Crsname=劇本創作（一）,,,False,劇藝系,TA302,3,不分班,"劇本創作（一）
 PLAYWRITING(I)",3,期,True,50,0,38,12,黃資絜,"四5,6,7(文FA 3012)","['', '', '', '567', '', '', '']",《講授類》,"['中文創意跨域應用整合學程', '社區文創微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA303&Crsname=西方名劇選讀,,,False,劇藝系,TA303,2,不分班,"西方名劇選讀
-SELECTED READINGS OF WESTERN PLAYS",3,期,True,50,0,40,10,黃資絜,"三5,6,7(文FA 3009)","['', '', '567', '', '', '', '']",《講授類》,['跨文化人文思潮與美學微學程'],False
+SELECTED READINGS OF WESTERN PLAYS",3,期,True,50,0,39,11,黃資絜,"三5,6,7(文FA 3009)","['', '', '567', '', '', '', '']",《講授類》,['跨文化人文思潮與美學微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA306&Crsname=演出製作（一）,,,True,劇藝系,TA306,3,不分班,"演出製作（一）
 PRODUCTION(I)",3,期,True,50,0,0,50,"杜思慧,吳怡瑱,許仁豪","二8,9,C(文FA 3012, 文FA 2019)","['', '89C', '', '', '', '', '']","《講授類》
 限年度製作劇組大三學生",[],False

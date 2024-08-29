@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DCEM712&Crsname=人類疾病之創新動物模式研究,,,False,臨床醫博學程,DCEM712,0,不分班,"人類疾病之創新動物模式研究
-TRANSLATIONAL RESEARCH USING INNOVATIVE ANIMAL MODELS",3,期,False,50,0,0,50,楊仁豪,"一2,3,4(國IR 4005)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DCEM712&Crsname=人類疾病之創新動物模式研究,異動,更換時間及教室8/29,False,臨床醫博學程,DCEM712,0,不分班,"人類疾病之創新動物模式研究
+TRANSLATIONAL RESEARCH USING INNOVATIVE ANIMAL MODELS",3,期,False,50,0,0,50,楊仁豪,"四2,3,4(國IR 6017-2)","['', '', '', '234', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISM720&Crsname=半導體元件與物理,異動,更換時間及教室7/5,False,半導體製造博,ISM720,1,不分班,"半導體元件與物理
 SEMICONDUCTOR DEVICES AND PHYSICS",3,期,False,2,0,0,2,馬誠佑,"一6,7,8(國IR 6002J)","['678', '', '', '', '', '', '']","《講授類》
 網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],False

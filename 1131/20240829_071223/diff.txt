@@ -1,0 +1,12 @@
+Type of root[502]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[502]['changeDescription'] changed from NoneType to str and value changed from None to "修正課名8/29".
+Value of root[426]['selected'] changed from 45 to 44.
+Value of root[426]['remaining'] changed from 5 to 6.
+Value of root[512]['selected'] changed from 40 to 39.
+Value of root[512]['remaining'] changed from 10 to 11.
+Value of root[520]['selected'] changed from 40 to 39.
+Value of root[520]['remaining'] changed from 10 to 11.
+Value of root[532]['selected'] changed from 40 to 39.
+Value of root[532]['remaining'] changed from 10 to 11.
+Value of root[1341]['selected'] changed from 20 to 19.
+Value of root[1341]['remaining'] changed from 30 to 31.
