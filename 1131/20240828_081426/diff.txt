@@ -1,7 +1,0 @@
-Type of root[1210]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[1210]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間8/28".
-Value of root[1211]['changeDescription'] changed from "更換時間及教師7/18" to "更換時間8/28".
-Value of root[2314]['selected'] changed from 38 to 37.
-Value of root[2314]['remaining'] changed from 12 to 13.
-Value of root[2320]['selected'] changed from 38 to 37.
-Value of root[2320]['remaining'] changed from 12 to 13.
