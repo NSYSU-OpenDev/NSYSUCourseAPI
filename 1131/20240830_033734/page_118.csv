@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS993&Crsname=商業分析專題演講,,,False,資電碩專,MIS993,1,不分班,"商業分析專題演講
+SEMINAR IN BUSINESS ANALYTICS",3,期,True,50,0,31,19,李捷,"日C,D,E()","['', '', '', '', '', '', 'CDE']","《演講/參訪》
+限資電碩專學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS994&Crsname=管理資訊系統,,,False,資電碩專,MIS994,1,不分班,"管理資訊系統
+MANAGEMENT IFFORMATION SYSTEM",3,期,True,50,0,31,19,林東清,"一C,D,E(管CM 2016)","['CDE', '', '', '', '', '', '']","《講授類》
+限資電碩專學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA901&Crsname=碩士論文,,,False,人亞碩專,HRMA901,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,0,12,38,指導教授,"日C,D,E()","['', '', '', '', '', '', 'CDE']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA911&Crsname=組織理論與管理,,,False,人亞碩專,HRMA911,1,不分班,"組織理論與管理
+ORGANIZATION THEORY & MANAGEMENT",3,期,False,30,2,0,30,葉致微,"四C,D,E(管CM 1019)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA913&Crsname=人力資源管理,,,False,人亞碩專,HRMA913,1,不分班,"人力資源管理
+HUMAN RESOURCE MANAGEMENT",3,期,False,30,6,0,30,謝慧賢,"一C,D,E(管CM 1036)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA946&Crsname=科技管理,,,False,人亞碩專,HRMA946,1,不分班,"科技管理
+MANAGEMENT OF TECHNOLOGY",3,期,False,30,4,0,30,陳旻男,"三C,D,E(管CM 3022)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA974&Crsname=應用統計與資料分析,,,False,人亞碩專,HRMA974,1,不分班,"應用統計與資料分析
+APPLIED STATISTICS AND DATA ANALYSIS",3,期,False,30,6,0,30,李澄賢,"二C,D,E(管CM 3051)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRMA983&Crsname=策略管理,,,False,人亞碩專,HRMA983,2,不分班,"策略管理
+STRATEGIC MANAGEMENT",3,期,False,30,10,0,30,陳寶蓮,"六5,6,7(管CM 1032)","['', '', '', '', '', '567', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA9005&Crsname=國際企業管理,,,True,EMBA碩專,EMBA9005,1,不分班,"國際企業管理
+INTERNATIONAL BUSINESS MANAGEMENT",1.5,期,True,50,0,0,50,"林杏娥,陳寶蓮","四E,F(台北)","['', '', '', 'EF', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA907B&Crsname=資訊科技與競爭優勢,,,True,EMBA碩專,EMBA907B,1,不分班,"資訊科技與競爭優勢
+INFORMATION TECHNOLOGY AND COMPETITIVE ADVANTAGE",1.5,期,True,50,0,0,50,"徐士傑,黃三益","日9,C(台北)","['', '', '', '', '', '', '9C']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA908&Crsname=企業經營策略,,,True,EMBA碩專,EMBA908,1,不分班,"企業經營策略
+BUSINESS POLICY AND STRATEGY",3,期,True,80,0,0,80,林豪傑,"三D,E,F(圖資中信廳)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA920&Crsname=企業研究方法,,,True,EMBA碩專,EMBA920,2,不分班,"企業研究方法
+BUSINESS RESEARCH METHODS",2,期,True,50,0,0,50,"葉淑娟,王致遠,鄭安授","三1,2(台北)","['', '', '12', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA922&Crsname=網路科技策略運用,,,True,EMBA碩專,EMBA922,2,不分班,"網路科技策略運用
+WEB TECHNOLOGY STRATEGY APPLICATION",1.5,期,True,80,0,0,80,"康藝晃,張榮華","日5,6(圖資博士廳)","['', '', '', '', '', '', '56']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA922B&Crsname=網路科技策略運用,,,True,EMBA碩專,EMBA922B,2,不分班,"網路科技策略運用
+WEB TECHNOLOGY STRATEGY APPLICATION",1.5,期,True,50,0,0,50,康藝晃,"五E,F(台北)","['', '', '', '', 'EF', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA927&Crsname=策略行銷管理,,,True,EMBA碩專,EMBA927,1,不分班,"策略行銷管理
+STRATEGIC MARKETING MANAGEMENT",3,期,True,80,0,0,80,"黃明新,張純端","六1,2,A(圖資中信廳)","['', '', '', '', '', 'A12', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA934&Crsname=管理經濟學,,,True,EMBA碩專,EMBA934,1,不分班,"管理經濟學
+MANAGERIAL ECONOMICS",3,期,True,80,0,0,80,吳基逞,"五D,E,F(圖資中信廳)","['', '', '', '', 'DEF', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA934B&Crsname=管理經濟學,,,True,EMBA碩專,EMBA934B,2,不分班,"管理經濟學
+MANAGERIAL ECONOMICS",2,期,True,50,0,0,50,吳基逞,"六5,6(台北)","['', '', '', '', '', '56', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA940A&Crsname=管理會計與財報分析,,,True,EMBA碩專,EMBA940A,1,不分班,"管理會計與財報分析
+MANAGEMENT ACCOUNTING AND FINANCIAL STATEMENT ANALYSIS",2,期,True,50,0,0,50,陳安琳,"六1,A(台北)","['', '', '', '', '', 'A1', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA947&Crsname=企業家精神與社會責任,,,True,EMBA碩專,EMBA947,2,不分班,"企業家精神與社會責任
+ENTERPRENEURSHIP AND SOCIAL RESPONSIBILITIES",2,期,True,50,0,0,50,林豪傑,"四E,F(台北)","['', '', '', 'EF', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMBA974&Crsname=企業研究方法,,,True,EMBA碩專,EMBA974,2,不分班,"企業研究方法
+BUSINESS RESEARCH METHODS",2,期,True,80,0,0,80,"葉淑娟,王致遠,鄭安授","三E,F(圖資博士廳)","['', '', 'EF', '', '', '', '']",《講授類》,[],False
