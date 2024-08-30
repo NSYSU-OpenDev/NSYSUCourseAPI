@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE630&Crsname=資料挖掘專題,,,False,資工碩,CSE630,0,不分班,"資料挖掘專題
+SPECIAL TOPICS IN DATA MINING",3,期,False,50,4,0,50,張玉盈,"一6,7,8(工EC 5025)","['678', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",['巨量資料分析學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE639&Crsname=科技英文寫作,,,False,資工碩,CSE639,0,不分班,"科技英文寫作
+ENGLISH TECHNICAL WRITING",3,期,False,50,28,0,50,希家史提夫,"二2,3,4(工EC 9032)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE668&Crsname=硬體描述語言,,,False,資工碩,CSE668,0,不分班,"硬體描述語言
+HARDWARE DESCRIPTION LANGUAGES",3,期,False,50,25,0,50,蕭勝夫,"二6,7,8(工EC 1005)","['', '678', '', '', '', '', '']",《講授類》,['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE692&Crsname=人工智慧專題 (一),,,False,資工碩,CSE692,0,不分班,"人工智慧專題 (一)
+INDEPENDENT STUDIES IN ARTIFICIAL INTELLIGENCE (I)",3,期,False,50,3,0,50,蔡崇煒,"三5,6,7(工EC 5007)","['', '', '567', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE695&Crsname=深度學習,,,False,資工碩,CSE695,0,不分班,"深度學習
+DEEP LEARNING",3,期,False,50,10,0,50,陳嘉平,"二2,3,4(工EC 5000)","['', '234', '', '', '', '', '']",《講授類》,['機器學習與應用微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE696&Crsname=定量磁振造影方法專題,,,False,資工碩,CSE696,0,不分班,"定量磁振造影方法專題
+INDEPENDENT STUDIES IN QUANTITATIVE MRI METHODS",3,期,False,50,0,0,50,程正傑,"一2,3,4(工EC 9032)","['234', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE698&Crsname=邊緣裝置人工智慧晶片設計應用專題,,,False,資工碩,CSE698,0,不分班,"邊緣裝置人工智慧晶片設計應用專題
+INDEPENDENT STUDIES IN EDGE ARTIFICIAL INTELLIGENCE CHIP DESIGN AND APPLICATION",3,期,False,50,4,0,50,蕭勝夫,"一5,6,7(工EC 5000)","['567', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE501&Crsname=書報討論,,,False,通訊碩,ICE501,1,不分班,"書報討論
+SEMINAR",1,期,True,70,0,33,37,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
+與ICE501A、ICE701併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE501A&Crsname=書報討論,,,False,通訊碩,ICE501A,2,不分班,"書報討論
+SEMINAR",1,期,True,70,0,29,41,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
+與ICE501、ICE701併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE503&Crsname=數位信號處理,,,False,通訊碩,ICE503,0,不分班,"數位信號處理
+DIGITAL SIGNAL PROCESSING",3,期,False,80,44,0,80,溫朝凱,"四2,3,4(工EC 2002)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE504&Crsname=數位通訊,,,False,通訊碩,ICE504,0,不分班,"數位通訊
+DIGITAL COMMUNICATIONS",3,期,False,50,25,0,50,王藏億,"二2,3,4(工EC 3012)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE505&Crsname=錯誤更正碼,,,False,通訊碩,ICE505,0,不分班,"錯誤更正碼
+ERROR-CORRECTION CODING",3,期,False,50,6,0,50,陳彥銘,"四5,6,7(工EC 8037)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE508&Crsname=最佳化理論,,,False,通訊碩,ICE508,0,不分班,"最佳化理論
+OPTIMIZATION THEORY",3,期,False,50,12,0,50,曾凡碩,"五5,6,7(工EC 2002)","['', '', '', '', '567', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE508A&Crsname=最佳化理論,,,False,通訊碩,ICE508A,0,不分班,"最佳化理論
+OPTIMIZATION THEORY",3,期,False,50,3,0,50,新可夫,"一5,6,7(工EC 6015-1)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE541&Crsname=通信系統性能評估,,,False,通訊碩,ICE541,0,不分班,"通信系統性能評估
+PERFORMANCE EVALUATION OF COMMUNICATIONS SYSTEMS",3,期,False,50,2,0,50,梁家昌,"五6,7,8(工EC 8037)","['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE607&Crsname=無線通訊通道估測專題,,,False,通訊碩,ICE607,0,不分班,"無線通訊通道估測專題
+INDEPENDENT STUDIES IN WIRELESS COMMUNICATIONS CHANNEL ESTIMATION",3,期,False,50,4,0,50,李志鵬,"五6,7,8(工EC 9011)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE608&Crsname=無線感測器網路之合作式偵測專題,,,False,通訊碩,ICE608,0,不分班,"無線感測器網路之合作式偵測專題
+INDEPENDENT STUDIES IN COLLABORATIVE DETECTION FOR WIRELESS SENSOR NETWORKS",3,期,False,50,0,0,50,王藏億,"二C,D,E(工EC 1007)","['', 'CDE', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE619&Crsname=無線傳收設計專題,,,False,通訊碩,ICE619,0,不分班,"無線傳收設計專題
+INDEPENDENT STUDIES IN TRANSCEIVER DESIGN IN WIRELESS NETWORKS",3,期,False,50,2,0,50,曾凡碩,"五C,D,E(工EC 2016-1)","['', '', '', '', 'CDE', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE624&Crsname=編碼與調變訊號設計專題,,,False,通訊碩,ICE624,0,不分班,"編碼與調變訊號設計專題
+INDEPENDENT STUDIES IN CODING AND MODULATION DESIGN",3,期,False,50,3,0,50,陳彥銘,"三C,D,E(工EC 2021)","['', '', 'CDE', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICE628&Crsname=無人機輔助通訊系統專題,,,False,通訊碩,ICE628,0,不分班,"無人機輔助通訊系統專題
+INDEPENDENT STUDIES IN UAV-ASSISTED COMMUNICATIONS",3,期,False,50,0,0,50,新可夫,"五5,6,7(工EC 7040)","['', '', '', '', '567', '', '']",《獨立研究》,[],True
