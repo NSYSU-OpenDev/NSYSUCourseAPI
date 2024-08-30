@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC903&Crsname=當代原住民族議題（一）,異動,確認教師8/7,False,社會原碩專,SOC903,1,不分班,"當代原住民族議題（一）
+CONTEMPORARY ISSUES OF INDIGENOUS PEOPLES（I）",3,期,True,50,0,8,42,"王宏仁,葉一飛","六5,6,B(社 SS 3004-2)","['', '', '', '', '', 'B56', '']",《講授類》,['原民文化探索及永續發展學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC907&Crsname=博物館與文化資產保存,,,False,社會原碩專,SOC907,2,不分班,"博物館與文化資產保存
+MUSEUM AND CULTURAL HERITAGE PRESERVATION",3,期,False,50,4,0,50,巴清雄,"六2,3,4(社 SS 3004-2)","['', '', '', '', '', '234', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IOE908&Crsname=教育政策分析,,,False,教育碩專,IOE908,0,不分班,"教育政策分析
+ANALYSES ON EDUCATIONAL POLICIES",3,期,False,50,5,0,50,顏慶祥,"六2,3,4(社SS 2006)","['', '', '', '', '', '234', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IOE954&Crsname=碩士論文,新增,7/8,False,教育碩專,IOE954,0,不分班,"碩士論文
+MASTER THESIS",3,期,False,50,0,0,50,指導教授,"六C,D,E()","['', '', '', '', '', 'CDE', '']","《研討類》
+限本所110學年度(含)以前入學學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IOE975&Crsname=碩士論文,,,False,教育碩專,IOE975,2,不分班,"碩士論文
+MASTER THESIS",1,期,True,50,0,12,38,指導教授,六1(),"['', '', '', '', '', '1', '']","《獨立研究》
+限本所111學年度(含)以後學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IOE982&Crsname=諮商理論與技術研究,,,False,教育碩專,IOE982,0,不分班,"諮商理論與技術研究
+RESEARCH ON COUNSELING THEORIES AND PRACTICES",3,期,False,20,5,0,20,宋宥賢,"三C,D,E(社SS 2005)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IOE993&Crsname=跨領域對話教育研究,,,False,教育碩專,IOE993,0,不分班,"跨領域對話教育研究
+RESEARCH ON INTERDISCIPLINARY DIALOGIC EDUCATION",3,期,False,30,6,0,30,張至慶,"四C,D,E(社SS 2005)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IOE994&Crsname=高等教育校務研究專題,,,False,教育碩專,IOE994,0,不分班,"高等教育校務研究專題
+THE FOUNDATIONS OF INSTITUTIONAL RESEARCH",3,期,False,50,2,0,50,林靜慧,"一C,D,E(社SS 2005)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMPP911&Crsname=高階公共政策與管理,異動,更換教師8/22,False,EMPP碩專,EMPP911,1,不分班,"高階公共政策與管理
+ADVANCED PUBLIC POLICY AND MANAGEMENT",3,期,True,50,0,5,45,"黃韋豪,劉正山,廖達琪,張其祿,曾國祥,楊尚儒,陳宗巖",,"['', '', '', '', '', '', '234567']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMPP913&Crsname=研究方法,異動,更換時間7/18,False,EMPP碩專,EMPP913,1,不分班,"研究方法
+RESEARCH METHODOLOGY",3,期,True,50,0,5,45,"邱文彬,莊雪華",,"['', '', '', '', '', '234567', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMPP913A&Crsname=研究方法,,,False,EMPP碩專,EMPP913A,2,不分班,"研究方法
+RESEARCH METHODOLOGY",3,期,True,50,0,13,37,"邱文彬,莊雪華",,"['', '', '', '', '', '234567', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMPP931&Crsname=組織治理專題講座,異動,更換教師7/18,False,EMPP碩專,EMPP931,1,不分班,"組織治理專題講座
+LECTURES ON ORGANIZATIONAL GOVERNANCE",1,期,True,50,0,5,45,陳美華,,"['', '', '', '', '', '23456789C', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMPP931A&Crsname=組織治理專題講座,異動,更換教師7/18,False,EMPP碩專,EMPP931A,2,不分班,"組織治理專題講座
+LECTURES ON ORGANIZATIONAL GOVERNANCE",1,期,True,50,0,13,37,陳美華,,"['', '', '', '', '', '23456789C', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMPP934&Crsname=組織與管理經濟學,,,False,EMPP碩專,EMPP934,1,不分班,"組織與管理經濟學
+ORGANIZATIONAL AND MANAGERIAL ECONOMICS",3,期,True,50,0,5,45,"劉楚俊,吳世傑,李明軒,王俊傑,陳珮芬",,"['', '', '', '', '', '', '234567']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMPP934A&Crsname=組織與管理經濟學,異動,更換時間7/18,False,EMPP碩專,EMPP934A,2,不分班,"組織與管理經濟學
+ORGANIZATIONAL AND MANAGERIAL ECONOMICS",3,期,True,50,0,13,37,"劉楚俊,吳世傑,李明軒,王俊傑,陳珮芬",,"['', '', '', '', '', '', '234567']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMPP938&Crsname=組織管理與數位行銷,異動,7/18,False,EMPP碩專,EMPP938,1,不分班,"組織管理與數位行銷
+PUBLIC POLICY ＆ MARKETING",3,期,True,50,0,5,45,"李予綱,張其祿,王俊傑",,"['', '', '', '', '', '234567', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EMPP939&Crsname=高階公共政策專題講座,異動,更換時間7/23,False,EMPP碩專,EMPP939,1,不分班,"高階公共政策專題講座
+LECTURES ON ADVANCED PUBLIC POLICY",1,期,True,50,0,5,45,陳美華,,"['', '', '', '', '', '23456789C', '23456789C']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL728&Crsname=東坡詩詞,,,False,中文博,CL728,0,不分班,"東坡詩詞
+THE TZU POETRY OF SU SHIH",3,期,False,50,4,0,50,劉昭明,"一2,3,4(文LA 4013)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL780&Crsname=漢學英文（一）,,,False,中文博,CL780,0,不分班,"漢學英文（一）
+ENGLISH FOR SINOLOGICAL READING(I)",3,期,False,50,2,0,50,謝薇娜,"一5,6,7(文LA 4014)","['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL861&Crsname=語言與文化討論,,,False,中文博,CL861,0,不分班,"語言與文化討論
+DISCUSSION ON LANGUAGE AND CULTURE STUDIES",2,期,False,50,1,0,50,張屏生,"一8,9(文LA 4013)","['89', '', '', '', '', '', '']",《講授類》,[],False
