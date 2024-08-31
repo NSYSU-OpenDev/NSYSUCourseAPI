@@ -1,0 +1,58 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO103&Crsname=普通化學,,,False,海科系,DO103,1,不分班,"普通化學
+GENERAL CHEMISTRY",3,期,True,50,4,37,13,蔡明利,"三5,6,7(海MA 3020)","['', '', '567', '', '', '', '']","《講授類》
+與BIOS101併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO121&Crsname=海洋化學實驗（一）,,,False,海科系,DO121,3,不分班,"海洋化學實驗（一）
+MARINE CHEMISTRY LABORATORY (I)",1,期,False,50,1,0,50,洪慶章,"一8,9(海MA 1005)(實驗)","['89', '', '', '', '', '', '']",《實驗類》,"['擁海學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO131&Crsname=海洋地質概論,,,False,海科系,DO131,1,不分班,"海洋地質概論
+INTRODUCTION TO MARINE GEOLOGY",2,期,True,45,6,34,11,林慧玲,"四3,4(海MA 1005)","['', '', '', '34', '', '', '']",《講授類》,"['環境教育學程', '氣候變遷與調適學分學程', '看見臺灣海岸微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO201&Crsname=海洋化學概論,異動,更換教室8/29,False,海科系,DO201,2,不分班,"海洋化學概論
+INTRODUCTION TO MARINE CHEMISTRY",2,期,False,50,0,0,50,簡國童,"三3,4(海MA 3040)","['', '', '34', '', '', '', '']","《講授類》
+限本系二年級以上學生選修",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO203&Crsname=海洋生物概論,,,False,海科系,DO203,1,不分班,"海洋生物概論
+INTRODUCTION TO MARINE BIOLOGY",2,期,True,50,8,34,16,"陳慶能,劉莉蓮,王志騰,陳孟仙","四5,6(海MA 1005)","['', '', '', '56', '', '', '']",《講授類》,"['環境教育學程', '自然生物資產微學程', '生物多樣性學程', '印象海味微學程', '科技與環境英語微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO203A&Crsname=海洋生物概論,,,False,海科系,DO203A,1,不分班,"海洋生物概論
+INTRODUCTION TO MARINE BIOLOGY",2,期,False,25,1,0,25,熊寶兒,"四7,8(海MA 1005)","['', '', '', '78', '', '', '']","《講授類》
+ 
+※英語授課","['環境教育學程', '自然生物資產微學程', '生物多樣性學程', '印象海味微學程', '科技與環境英語微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO206&Crsname=應用統計學（一）,,,False,海科系,DO206,3,不分班,"應用統計學（一）
+APPLIED STATISTICS (I)",2,期,False,50,5,0,50,托星豪,"五3,4(海MA 1005)","['', '', '', '', '34', '', '']","《講授類》
+選修「應用統計學(一)」課程需同時選修「應用統計學實習(一)」課程。","['擁海學程', '環境教育學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO207&Crsname=應用統計學實習（一）,,,False,海科系,DO207,3,不分班,"應用統計學實習（一）
+APPLIED STATISTICS PRACTICE(I)",1,期,False,50,5,0,50,吳淑娟,"五7,8,9(圖IL PC01)(實驗)","['', '', '', '', '789', '', '']","《實習類》
+選修「應用統計學實習(一)」課程需同時選修「應用統計學(一)」課程。",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO210&Crsname=物理海洋概論,新增,8/19,False,海科系,DO210,2,不分班,"物理海洋概論
+INTRODUCTION TO PHYSICAL OCEANOGRAPHY",2,期,False,50,1,0,50,李逸環,"二6,7(海MA 3040)","['', '67', '', '', '', '', '']","《講授類》
+限本系二年級以上學生選修",['氣候變遷與調適學分學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO219&Crsname=基礎生物化學,,,False,海科系,DO219,2,不分班,"基礎生物化學
+FUNDAMENTAL BIOCHEMISTRY",3,期,False,50,6,0,50,陳慶能,"一6,7,8(海MA 2009)","['678', '', '', '', '', '', '']","《講授類》
+※隔年開設課程。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO225&Crsname=全球環境變遷概論,,,False,海科系,DO225,2,不分班,"全球環境變遷概論
+INTRODUCTION TO GLOBAL ENVIRONMENTAL CHANGE",2,期,False,35,11,0,35,"雷漢杰,陳鎮東","四3,4(海MA 3020)","['', '', '', '34', '', '', '']","《講授類》
+ 
+※英語授課","['環境教育學程', '地方創生與永續發展整合學程', '氣候變遷與調適學分學程', '科技與環境英語微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO231&Crsname=海洋微體古生物學,,,False,海科系,DO231,3,不分班,"海洋微體古生物學
+MARINE MICROPALEONTOLOGY",2,期,False,50,6,0,50,張詠斌,"二5,6(海MA 2009)","['', '56', '', '', '', '', '']","《講授類》
+1.限本系學生選修。 2.選修「海洋微體古生物學」課程需同時選修「海洋微體古生物學實習」課程。","['環境教育學程', '氣候變遷與調適學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO232&Crsname=海洋微體古生物學實習,,,False,海科系,DO232,3,不分班,"海洋微體古生物學實習
+MARINE MICROPALEONTOLOGY EXERCISE",1,期,False,50,5,0,50,張詠斌,"二7,8,9(海MA 2009)(實驗)","['', '789', '', '', '', '', '']","《實習類》
+1.限本系學生選修。 2.選修「海洋微體古生物學實習」課程需同時選修「海洋微體古生物學」課程。","['環境教育學程', '氣候變遷與調適學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO252&Crsname=海流資料實作,,,False,海科系,DO252,3,不分班,"海流資料實作
+PRACTICE OF OCEAN CURRENT DATA",2,期,False,50,7,0,50,方盈智,"四3,4(海MA 3040)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO301&Crsname=科學英文（一）,,,False,海科系,DO301,3,不分班,"科學英文（一）
+SCIENTIFIC ENGLISH (I)",2,期,True,50,0,25,25,熊寶兒,"二3,4(海MA 3040)","['', '34', '', '', '', '', '']","《講授類》
+限本系大三以上學生選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO303&Crsname=海上實習,,,False,海科系,DO303,3,不分班,"海上實習
+SHIPBOARD OPERATIONS PRACTICE",1,期,True,50,0,26,24,方盈智,"五5,6(海MA 1005)(實驗)","['', '', '', '', '56', '', '']","《實習類》
+1.修課學生須取得海科院舉辦之水域活動安全與自救訓練講習證明，始能參與水域活動(含海上實習航次)。2.限本系學生修習。","['擁海學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO311&Crsname=海洋脊椎動物學,,,False,海科系,DO311,3,不分班,"海洋脊椎動物學
+MARINE VERTEBRATE ZOOLOGY",2,期,False,50,12,0,50,"陳孟仙,廖德裕","一6,7(海MA 1005)","['67', '', '', '', '', '', '']","《講授類》
+隔年開設課程。","['擁海學程', '環境教育學程', '生物多樣性學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO315&Crsname=海洋生物生理學,,,False,海科系,DO315,4,不分班,"海洋生物生理學
+PHYSIOLOGY OF MARINE ORGANISMS",3,期,False,50,2,0,50,王志騰,"二2,3,4(海MA 1005)","['', '234', '', '', '', '', '']","《講授類》
+與DO539併班上課。","['生物多樣性學程', '海洋生物資源開發學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO321&Crsname=海洋化學,,,False,海科系,DO321,3,不分班,"海洋化學
+MARINE CHEMISTRY",3,期,False,50,6,0,50,黃蔚人,"五2,3,4(海MA 3040)","['', '', '', '', '234', '', '']",《講授類》,"['擁海學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO324&Crsname=海洋觀測與調查,,,False,海科系,DO324,3,不分班,"海洋觀測與調查
+OCEAN OBSERVATION AND INVESTIGATION",3,期,False,50,7,0,50,簡國童,"四6,7,8(海MA 3040)","['', '', '', '678', '', '', '']","《講授類》
+與DO614併班上課。","['擁海學程', '環境教育學程']",False
