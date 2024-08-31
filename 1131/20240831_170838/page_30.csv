@@ -1,0 +1,55 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS340&Crsname=植物細胞工程,,,False,生科系,BIOS340,3,不分班,"植物細胞工程
+PLANT CELL ENGINEERING",3,期,False,50,10,0,50,"傅瀚儀,黃明德","五2,3,4(理SC 0009)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS361&Crsname=植物分類學,,,False,生科系,BIOS361,2,不分班,"植物分類學
+PLANT TAXONOMY",3,期,False,50,19,0,50,劉世慧,"三2,3,4(理SC 0009)","['', '', '234', '', '', '', '']",《講授類》,"['環境教育學程', '自然生物資產微學程', '生物多樣性學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS396&Crsname=生物科學專題（一）,,,False,生科系,BIOS396,3,不分班,"生物科學專題（一）
+INDEPENDENT STUDIES IN BIOLOGICAL SCIENCES (I)",3,期,False,50,3,0,50,顏聖紘,三A() 四A() 五A(),"['', '', 'A', 'A', 'A', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS410&Crsname=書報討論（一）,,,False,生科系,BIOS410,4,不分班,"書報討論（一）
+SEMINAR(I)",1,期,True,50,3,47,3,李哲欣,"四5,B(理SC 3001)","['', '', '', 'B5', '', '', '']","《演講/參訪》
+限本系大四生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS464&Crsname=演化生物學,,,False,生科系,BIOS464,3,不分班,"演化生物學
+EVOLUTIONARY BIOLOGY",3,期,True,50,24,38,12,江友中,"二C,D,E(理SC 3005)","['', 'CDE', '', '', '', '', '']",《講授類》,"['海洋生物資源與實務應用微學程', '環境教育學程', '生物技術學程', '海洋循環經濟學程', '生物多樣性學程', '海洋生物資源開發學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS465&Crsname=動植物交互作用生態學,,,False,生科系,BIOS465,4,不分班,"動植物交互作用生態學
+ECOLOGY OF PLANT-ANIMAL INTERACTIONS",3,期,False,50,7,0,50,邊安台,"二5,6,7(理SC 0009)","['', '567', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['環境教育學程', '生物多樣性學程', '生態想想微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS495&Crsname=生物科學學士論文專題（一）,,,False,生科系,BIOS495,4,不分班,"生物科學學士論文專題（一）
+INDEPENDENT STUDIES IN BACHELOR'S THESIS OF BIOLOGICAL SCIENCES (I)",3,期,False,50,1,0,50,"吳長益,陳俊霖",三1() 四1() 五1(),"['', '', '1', '1', '1', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM101&Crsname=普通化學,,,False,化學系,CHEM101,1,不分班,"普通化學
+GENERAL CHEMISTRY",4,期,True,50,4,26,24,"張元賓,廖軒宏,張柏齡,梁子輝","一6,7(理SC 0014) 四3,4(理SC 0014)","['67', '', '', '34', '', '', '']",《講授類》,['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM101A&Crsname=普通化學,,,False,化學系,CHEM101A,1,全英班,"普通化學
+GENERAL CHEMISTRY",4,期,True,50,3,26,24,"王琢堅,邱政超","一6,7(理SC 3004) 五5,6(理SC 3004)","['67', '', '', '', '56', '', '']","《講授類》
+ 
+※英語授課",['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM103&Crsname=化學實驗（一）,,,False,化學系,CHEM103,1,不分班,"化學實驗（一）
+CHEMISTRY LABORATORY(I)",2,期,True,50,5,26,24,蔡明利,"五2(理SC 4019) 五3,4(理SC 4019)(實驗)","['', '', '', '', '234', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM103A&Crsname=化學實驗（一）,,,False,化學系,CHEM103A,1,全英班,"化學實驗（一）
+CHEMISTRY LABORATORY(I)",2,期,True,50,2,26,24,王琢堅,"三5(理SC 4019) 三6,7(理SC 4019)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM105&Crsname=微積分（一）,,,False,化學系,CHEM105,1,不分班,"微積分（一）
+CALCULUS(I)",3,期,True,50,8,26,24,張福春,"一2,3,4(理SC 1005)","['234', '', '', '', '', '', '']","《講授類》
+限化學系同學選修。與光電系、材光系併班。",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM105A&Crsname=微積分（一）,異動,更換教室8/23,False,化學系,CHEM105A,1,全英班,"微積分（一）
+CALCULUS(I)",3,期,True,50,2,26,24,翁鵬絜,"一2,3,4(工EC 1009)","['234', '', '', '', '', '', '']","《講授類》
+限化學系同學選修。與光電系、材光系併班。
+※英語授課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM111&Crsname=普通生物學,異動,更換教室6/28,False,化學系,CHEM111,1,不分班,"普通生物學
+GENERAL BIOLOGY",3,期,False,50,3,0,50,謝文發,"三2,3,4(理SC 0012)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM207&Crsname=化學數學,,,False,化學系,CHEM207,2,不分班,"化學數學
+MATHEMATICS FOR CHEMISTS",3,期,False,50,24,0,50,丁尚武,"五5,6,7(理SC 0014)","['', '', '', '', '567', '', '']","《講授類》
+化學系主題課程。2-4年級皆可選修。",['自然科學之程式應用學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM209&Crsname=生物化學（一）,,,False,化學系,CHEM209,4,不分班,"生物化學（一）
+BIOCHEMISTRY(I)",3,期,False,50,17,0,50,范秀芳,"二2,3,4(理CH 4002)","['', '234', '', '', '', '', '']","《講授類》
+化學系主題課程。2-4年級皆可選修。",['天然藥物合成學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM212&Crsname=化學實驗（三）,,,True,化學系,CHEM212,2,不分班,"化學實驗（三）
+CHEMISTRY LABORATORY(III)",2,期,True,50,8,0,50,"曾韋龍,廖軒宏","三2(理SC 4032) 三3,4(理SC 4032)(實驗)","['', '', '234', '', '', '', '']","《實驗類》
+限學號雙號選",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM212A&Crsname=化學實驗（三）,,,True,化學系,CHEM212A,2,全英班,"化學實驗（三）
+CHEMISTRY LABORATORY(III)",2,期,True,50,4,0,50,"林渝亞,克里斯那","一6(理SC 4020) 一7,8(理SC 4020)(實驗)","['678', '', '', '', '', '', '']","《實驗類》
+限學號單號選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM212B&Crsname=化學實驗（三）,,,True,化學系,CHEM212B,2,不分班,"化學實驗（三）
+CHEMISTRY LABORATORY(III)",2,期,True,50,11,0,50,"廖軒宏,曾韋龍","三2(理SC 4020) 三3,4(理SC 4020)(實驗)","['', '', '234', '', '', '', '']","《實驗類》
+限學號單號選",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM212C&Crsname=化學實驗（三）,,,True,化學系,CHEM212C,2,全英班,"化學實驗（三）
+CHEMISTRY LABORATORY(III)",2,期,True,50,7,0,50,"克里斯那,林渝亞","一6(理SC 4032) 一7,8(理SC 4032)(實驗)","['678', '', '', '', '', '', '']","《實驗類》
+限學號雙號選",[],True
