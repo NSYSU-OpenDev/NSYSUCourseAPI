@@ -1,0 +1,48 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GESL411&Crsname=服務學習：打造英語友善社區,,,False,服務學習,GESL411,0,不分班,"服務學習：打造英語友善社區
+SERVICE LEARNING: TO ESTABLISH AN ENGLISH-FRIENDLY COMMUNITY",1,期,True,30,2,30,0,莊家雄,"三3,4(通GE 3011)","['', '', '34', '', '', '', '']","《服務學習類》
+限大二以上修習
+※英語授課",['全英語通識教育菁英學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GESL412&Crsname=服務學習：國際扶輪志工服務學習,新增,8/19,False,服務學習,GESL412,0,不分班,"服務學習：國際扶輪志工服務學習
+SERVICE LEARNING: LEARNING ROTARY INTERNATIONAL VOLUNTEER SERVICE PROJECT",1,期,True,30,14,21,9,張延惠,"一3,4(通GE 3013)","['34', '', '', '', '', '', '']","《服務學習類》
+限大二以上修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GESL415&Crsname=服務學習：弱勢孩童的標靶教學,,,False,服務學習,GESL415,0,不分班,"服務學習：弱勢孩童的標靶教學
+SERVICE LEARNING: TARGET LEARNING FOR DISADVANTAGED STUDENTS",1,期,True,60,15,60,0,游尚儒,"四8,9(管CM 4112)","['', '', '', '89', '', '', '']","《服務學習類》
+1.限大二以上修習。 2.第一週務必參與了解課程規劃。 3.職前講習訓練修課同學一律要求參加，若不克前來請勿選修或請退選本課程。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GESL417&Crsname=服務學習：英文識字教學與繪本閱讀,,,False,服務學習,GESL417,0,不分班,"服務學習：英文識字教學與繪本閱讀
+SERVICE LEARNING: ENGLISH LITERACY INSTRUCTION AND PICTURE BOOK READING",1,期,True,30,3,30,0,張延惠,"一7,8(通GE 3013)","['78', '', '', '', '', '', '']","《服務學習類》
+限大二以上修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GESL418&Crsname=服務學習：校園科普展演,,,False,服務學習,GESL418,0,不分班,"服務學習：校園科普展演
+SERVICE LEARNING: GENERAL SCIENCE DEMONSTRATION IN CAMPUS",1,期,True,50,18,22,28,黃旭明,"二3,4(西SW 1007)","['', '34', '', '', '', '', '']","《服務學習類》
+1.限大二以上修習。 2.時間須配合數個高雄中小學校校慶來進行科普展演。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GESL420&Crsname=服務學習：展演下的人文實踐,新增,8/29,False,服務學習,GESL420,0,不分班,"服務學習：展演下的人文實踐
+SERVICE LEARNING: EXPLORING AND PRACTICING HUMANITIES THROUGH PERFORMING ARTS",1,期,True,30,40,0,30,王品惠,"四8,9(通GE 3013)","['', '', '', '89', '', '', '']","《服務學習類》
+大二以上修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL103&Crsname=國學導讀（一）,,,False,中文系,CL103,1,不分班,"國學導讀（一）
+INTRODUCTION TO CHINESE CLASSICAL STUDIES(I)",2,期,True,50,1,51,-1,黃羽璿,"三6,7(文LA 4005)","['', '', '67', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL105&Crsname=文學概論（一）,,,False,中文系,CL105,1,不分班,"文學概論（一）
+INTRODUCTION TO LITERATURE(I)",2,期,True,50,6,51,-1,莫加南,"四3,4(文LA 4005)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL152&Crsname=當代戲曲（一）,,,False,中文系,CL152,1,不分班,"當代戲曲（一）
+MODERN CHINESE DRAMA（I）",3,期,False,30,5,0,30,林芷瑩,"二5,6,7(文LA 4001)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL174&Crsname=國文,,,True,中文系,CL174,1,不分班,"國文
+CHINESE",3,期,True,30,21,0,30,劉昭明,"五2,3,4(文LA 4001)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL174A&Crsname=國文,,,True,中文系,CL174A,1,不分班,"國文
+CHINESE",3,期,True,30,13,0,30,張屏生,"一2,3,4(文LA 4001)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL183&Crsname=晚清到當代華文科幻小說,,,False,中文系,CL183,3,不分班,"晚清到當代華文科幻小說
+CHINESE SCIENCE FICTION FROM LATE QING DYNASTY TO CONTEMPORARY",3,期,False,50,14,0,50,賴佩暄,"四5,6,7(文LA 4003)","['', '', '', '567', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL188&Crsname=中外文學經典選讀（一）,,,False,中文系,CL188,4,不分班,"中外文學經典選讀（一）
+SELECTIONS OF  CHINESE AND FOREIGN LITERATURE CLASSICS （I）",3,期,False,50,5,0,50,黃資婷,"五6,7,8(文LA 4002)","['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL191&Crsname=非虛構文學選讀,,,False,中文系,CL191,2,不分班,"非虛構文學選讀
+SELECTED READINGS OF NON-FICTION WRITING",3,期,False,50,12,0,50,賴佩暄,"二2,3,4(文LA 4002)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL192&Crsname=華文文學與性別文化（一）,,,False,中文系,CL192,3,不分班,"華文文學與性別文化（一）
+CHINESE LITERATURE AND GENDER CULTURES (I)",3,期,False,50,9,0,50,黃資婷,"五2,3,4(文LA 4003)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL201&Crsname=中國文學史（一）,,,False,中文系,CL201,2,不分班,"中國文學史（一）
+HISTORY OF CHINESE LITERATURE(I)",3,期,True,50,4,40,10,陳秋宏,"三5,6,7(文LA 2004)","['', '', '567', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL205&Crsname=詩選及習作（一）,,,True,中文系,CL205,2,不分班,"詩選及習作（一）
+READING IN CHINESE CLASSICAL POETRY SHIH(I)",3,期,True,30,6,0,30,陳秋宏,"三2,3,4(文LA 4002)","['', '', '234', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL205A&Crsname=詩選及習作（一）,,,True,中文系,CL205A,2,不分班,"詩選及習作（一）
+READING IN CHINESE CLASSICAL POETRY SHIH(I)",3,期,True,30,14,0,30,林孜曄,"一2,3,4(文LA 4002)","['234', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL207&Crsname=歷代文選及習作（一）,,,True,中文系,CL207,2,不分班,"歷代文選及習作（一）
+READING IN CHINESE CLASSICAL PROSE(I)",3,期,True,30,12,0,30,鍾志偉,"一5,6,7(文LA 4002)","['567', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL207A&Crsname=歷代文選及習作（一）,,,True,中文系,CL207A,2,不分班,"歷代文選及習作（一）
+READING IN CHINESE CLASSICAL PROSE(I)",3,期,True,30,8,0,30,吳孟謙,"三2,3,4(文LA 4003)","['', '', '234', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
