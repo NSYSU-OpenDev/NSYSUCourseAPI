@@ -1,0 +1,50 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CAPS668&Crsname=專題研究（一),,,False,亞太碩,CAPS668,2,不分班,"專題研究（一)
+INDEPENDENT STUDIES(I)",3,期,False,50,2,0,50,陳珮芬,"四6,7,8(社SS 2008)","['', '', '', '678', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CAPS668A&Crsname=專題研究（一),,,False,亞太碩,CAPS668A,2,不分班,"專題研究（一)
+INDEPENDENT STUDIES(I)",3,期,False,50,0,0,50,蔡書瑋,"五6,7,8(社SS 2008)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC501&Crsname=社會學經典,,,False,社會碩,SOC501,1,不分班,"社會學經典
+SOCIOLOGICAL CLASSIC",3,期,True,50,0,10,40,葉高華,"三2,3,4(社SS 3004-2)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC509&Crsname=南方社會議題（一）,異動,確認教師8/7,False,社會碩,SOC509,1,不分班,"南方社會議題（一）
+ISSUES OF SOUTH SOCIETY(Ⅰ)",1,期,True,50,1,10,40,楊又欣,三5(社SS 3004-2),"['', '', '5', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC511&Crsname=亞洲社會學,,,False,社會碩,SOC511,1,不分班,"亞洲社會學
+SOCIOLOGY OF ASIAN SOCIETY",3,期,False,50,0,0,50,"林傳凱,王梅香,葉高華","五2,3,4(社SS 3004-1)","['', '', '', '', '234', '', '']","《講授類》
+本課程為學位論文指導課程，限本系同學選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC570&Crsname=科技與民主,,,False,社會碩,SOC570,1,不分班,"科技與民主
+SCIENCE, TECHNOLOGY AND DEMOCRACY",3,期,False,50,8,0,50,李宛儒,"一6,7,8(社SS 3004-2 )","['678', '', '', '', '', '', '']",《講授類》,['公民參與微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC582&Crsname=檔案與社會研究,異動,更換主授教師6/27,False,社會碩,SOC582,1,不分班,"檔案與社會研究
+ARCHIVE AND SOCIOLOGY STUDY",3,期,False,50,5,0,50,"林傳凱,葉高華","二2,3,4(社SS 3004-2)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC584&Crsname=社會科學英文寫作,,,False,社會碩,SOC584,1,不分班,"社會科學英文寫作
+ENGLISH WRITING FOR SOCIAL SCIENCE",3,期,False,50,2,0,50,趙恩潔,"四6,7,8(社SS 3004-2)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC585&Crsname=性/別與空間,異動,確認教師8/7,False,社會碩,SOC585,1,不分班,"性/別與空間
+GENDER/SEXUALITIES AND SPACES",3,期,False,50,2,0,50,楊又欣,"二6,7,8(社SS 3004-2)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC607&Crsname=南方社會議題（三）,異動,確認教師8/7,False,社會碩,SOC607,2,不分班,"南方社會議題（三）
+ISSUES OF SOUTH SOCIETY (III)",1,期,True,50,0,7,43,楊又欣,三6(社SS 3004-2),"['', '', '6', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC648&Crsname=量化研究（二）,,,False,社會碩,SOC648,2,不分班,"量化研究（二）
+QUANTITATIVE STUDY (II)",3,期,False,50,1,0,50,戴昀,"四2,3,4(社SS 3004-2)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAPA501&Crsname=社會科學研究方法,,,False,亞太英語碩程,MAPA501,1,不分班,"社會科學研究方法
+RESEARCH METHODS IN SOCIAL SCIENCE",3,期,True,50,0,4,46,希家玹,"一2,3,4(社SS 4005)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAPA503&Crsname=碩士論文,異動,增加合授教師8/8,False,亞太英語碩程,MAPA503,2,不分班,"碩士論文
+THESIS",3,期,True,50,1,4,46,"希家玹,劉奇","二2,3,4(社SS 4005)","['', '234', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAPA514&Crsname=日本政府與政治,,,False,亞太英語碩程,MAPA514,0,不分班,"日本政府與政治
+POLITICS AND GOVERNMENT OF JAPAN",3,期,False,50,4,0,50,希家玹,"一6,7,8(社SS 4005)","['678', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAPA519&Crsname=東北亞的戰略安全與外交關係,,,False,亞太英語碩程,MAPA519,0,不分班,"東北亞的戰略安全與外交關係
+NORTHEAST ASIA STRATEGIC SECURITY AND DIPLOMATIC RELATIONS",3,期,False,50,9,0,50,希家玹,"三2,3,4(社SS 4005)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAPA524&Crsname=東南亞政府與政治,異動,確認教師8/8,False,亞太英語碩程,MAPA524,0,不分班,"東南亞政府與政治
+GOVERNMENTS AND POLITICS IN SOUTHEAST ASIA",3,期,False,50,1,0,50,劉奇峯,"三5,6,7(社SS 4005)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAPA534&Crsname=韓國公共外交政策,異動,更換時間8/14,False,亞太英語碩程,MAPA534,0,不分班,"韓國公共外交政策
+PUBLIC DIPLOMACY IN KOREAN PERSPECTIVES",3,期,False,50,3,0,50,郭育仁,"四6,7,8(社SS 4005)","['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課",['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAPA537&Crsname=印太地區的政治與安全,異動,確認教師8/8,False,亞太英語碩程,MAPA537,0,不分班,"印太地區的政治與安全
+POLITICS AND SECURITY IN THE INDO-PACIFIC",3,期,False,50,8,0,50,劉奇峯,"二6,7,8(社SS 4005)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAPA541&Crsname=國家安全與危機處理,,,False,亞太英語碩程,MAPA541,0,不分班,"國家安全與危機處理
+NATIONAL SECURITY AND CRISIS MANAGEMENT",3,期,False,50,3,0,50,林文程,"五6,7,8(社SS 4005)","['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE503&Crsname=教育統計學研究,,,False,教人全英碩,IGPE503,0,不分班,"教育統計學研究
+STUDIES IN EDUCATIONAL STATISTICS",3,期,False,30,1,0,30,艾玲,"三5,6,7(社SS 3006)","['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課",['政經大數據分析微學程'],False
