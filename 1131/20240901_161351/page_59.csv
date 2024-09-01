@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC333&Crsname=文化資產保存與創新,新增,8/22,False,社會系,SOC333,3,不分班,"文化資產保存與創新
+CULTURAL HERITAGE PRESERVATION AND INNOVATION",3,期,False,50,6,0,50,"王梅香,林傳凱","五1,5,B(社SS 1003)","['', '', '', '', '1B5', '', '']","《講授類》
+限有修過113-1學期「社區文創設計」課程的同學選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC339&Crsname=社區文創設計,,,False,社會系,SOC339,3,不分班,"社區文創設計
+CULTURAL AND CREATIVE DESIGN OF COMMUNITY",3,期,False,50,6,0,50,"王梅香,林傳凱",,"['123456789CD', '123456789CD', '1234567CDE', '123456789CD', '123456789CD', '', '']","《講授類》
+暑假密集式授課6/24-6/28，限有修課同學選修","['環境教育學程', '中文創意跨域應用整合學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC341&Crsname=台灣漢人社區民族誌,,,False,社會系,SOC341,3,不分班,"台灣漢人社區民族誌
+ETHNOGRAPHY OF TAIWAN HAN CHINESE COMMUNITY",3,期,False,50,14,0,50,莊英章,"四6,7,8(社SS 4004-2)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SOC347&Crsname=R語言與數據分析,,,False,社會系,SOC347,3,不分班,"R語言與數據分析
+R PROGRAMMING FOR DATA ANALYSIS",3,期,False,50,15,0,50,戴昀,"四6,7,8(社SS 1003)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSS101&Crsname=心理學,異動,增加合授教師8/6,False,社科院,CSS101,0,不分班,"心理學
+INTRODUCTION TO PSYCHOLOGY",3,期,False,20,62,0,20,"邱文彬,馮雅群","一5,6,7(社SS 2001)","['567', '', '', '', '', '', '']",《講授類》,['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSS120&Crsname=剖析都市：數據分析方法與應用,,,False,社科院,CSS120,0,不分班,"剖析都市：數據分析方法與應用
+THE ANATOMY OF THE CITY: DATA ANALYSIS METHOD AND APPLICATION",3,期,False,20,30,0,20,李予綱,"一5,6,7(社SS 4001)","['567', '', '', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '數據科學微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSS128&Crsname=創意手機遊戲程式設計,,,False,社科院,CSS128,0,不分班,"創意手機遊戲程式設計
+CREATIVE MOBILE GAME PROGRAMMING",3,期,False,30,4,0,30,李春雄,"四2,3,4(圖IL PC02)","['', '', '', '234', '', '', '']","《講授類》
+限非應數、電機、機電、資工、材光、光電、資管、海工系學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSS134&Crsname=智慧城市與智慧運輸趨勢、發展及課題研析,,,False,社科院,CSS134,0,不分班,"智慧城市與智慧運輸趨勢、發展及課題研析
+THE TREND, DEVELOPMENT, AND CHALLENGE OF SMART CITY AND SMART TRANSIT",3,期,False,20,91,0,20,"李予綱,蔣依吾","五6,7,8(社SS 3001)","['', '', '', '', '678', '', '']",《演講/參訪》,"['製造與大數據分析微學程', '數據科學微學程', '數據科學微學程', '都市文化與地景微學程', '環境、社會及公司治理微學程', '公共交通行動服務微學程', '智慧城市與智慧運輸學程', '城市行銷微學程', '都市永續規劃與管理微學程', '運輸管理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSS140&Crsname=智慧城市數位轉型,,,False,社科院,CSS140,0,不分班,"智慧城市數位轉型
+DIGITAL TRANSFORMATION OF SMART CITIES",3,期,False,100,63,0,100,李予綱,"三2,3,4(社SS 4001)","['', '', '234', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '城市行銷微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSS151&Crsname=文化地景專題: 遺產化的政治經濟學,,,False,社科院,CSS151,0,不分班,"文化地景專題: 遺產化的政治經濟學
+TOPICS IN EAST ASIAN CITIES: CULTURAL ECONOMY AND CULTURAL GOVERNANCE",3,期,False,20,3,0,20,蔡書瑋,"二5,6,7(社SS 1004)","['', '567', '', '', '', '', '']",《講授類》,"['原民文化探索及永續發展學程', '智慧城市與智慧運輸學程', '都市文化與地景微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SWC101&Crsname=職涯探索與實習,異動,修正限修條件8/27,False,西灣學院,SWC101,0,不分班,"職涯探索與實習
+CAREER EXPLORATION AND INTERNSHIP LEARNING",2,期,False,60,26,0,60,"王致遠,王啟仲","二8,9(西SW 1007)","['', '89', '', '', '', '', '']","《講授類》
+此課程僅限參與課程甄選，入選者方得加選。詳見職涯學院粉專：國立中山大學西灣職涯學院。",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1001&Crsname=文化人類學,,,False,人科學程,PIS1001,1,不分班,"文化人類學
+CULTURAL ANTHROPOLOGY",3,期,True,40,8,33,7,宋世祥,"三2,3,4(西SW 1005)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1002&Crsname=基礎程式應用,,,False,人科學程,PIS1002,1,不分班,"基礎程式應用
+BASIC COMPUTER PROGRAMMING AND APPLICATION",3,期,True,35,9,34,1,楊政融,"四2,3,4(西SW 1007)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1006&Crsname=科學應用,異動,更換時間7/16,False,人科學程,PIS1006,2,不分班,"科學應用
+SCIENTIFIC APPLICTIONAL",3,期,True,50,4,28,22,"謝如梅,許智超","二6,7,8(圖IL PC03)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1101&Crsname=智慧型運輸系統,,,False,人科學程,PIS1101,1,不分班,"智慧型運輸系統
+INTRODUCTION TO INTELLIGENT TRANSPORTATION SYSTEMS",3,期,False,20,6,0,20,夏晧清,"二5,6,7(西SW 1007)","['', '567', '', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '公共交通行動服務微學程', '智慧港埠微學程', '運輸管理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1103&Crsname=都市環境概論,,,False,人科學程,PIS1103,1,不分班,"都市環境概論
+INTRODUCTION TO URBAN ENVIRONMENT",3,期,False,50,20,0,50,夏晧清,"二2,3,4(西SW 1005)","['', '234', '', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '綠色港市微學程', '都市永續規劃與管理微學程', '碳流資訊盤查與低碳設計微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1213&Crsname=場景設計導論,,,False,人科學程,PIS1213,1,不分班,"場景設計導論
+INTRODUCTION TO SCENE DESIGN",2,期,False,50,6,0,50,李怡賡,"四3,4(文LA 1012)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1302&Crsname=食品科學概論,異動,更換時間7/3,False,人科學程,PIS1302,1,不分班,"食品科學概論
+INTRODUCTION TO FOOD SCIENCE",2,期,False,50,38,0,50,吳長益,"五5,B(理SC 3001)","['', '', '', '', 'B5', '', '']",《講授類》,"['食品安全學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1305&Crsname=營養與藥物安全講座,,,False,人科學程,PIS1305,1,不分班,"營養與藥物安全講座
+SPECIAL LECTURES ON NUTRITION AND MEDICATION SAFETY",2,期,False,60,35,0,60,"廖志中,李景欽","三3,4(海MA 3021)","['', '', '34', '', '', '', '']",《講授類》,"['食品安全學程', '校園預防醫學學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1306&Crsname=身心健康醫學講座,異動,確認教室8/28,False,人科學程,PIS1306,1,不分班,"身心健康醫學講座
+SPECIAL LECTURES ON PHYSICAL AND MENTAL HEALTH",2,期,False,70,40,0,70,"余靈珊,王文宏","一5,6(通GE 1010)","['56', '', '', '', '', '', '']",《講授類》,['校園預防醫學學程'],False
