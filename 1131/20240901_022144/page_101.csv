@@ -1,0 +1,46 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO671&Crsname=海洋地質及生地化學專題研究（一）,,,False,海科碩,DO671,0,不分班,"海洋地質及生地化學專題研究（一）
+INDEPENDENT STUDIES IN MARINE GEOLOGY AND BIOGEOCHEMISTRY(I)",3,期,False,50,2,0,50,"簡國童,張詠斌,慕樂凡,林慧玲,林玉詩,洪慶章,雷漢杰,黃蔚人",二1() 三1() 四1(),"['', '1', '1', '1', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO684&Crsname=海洋生物專題討論（一）,,,True,海科碩,DO684,1,不分班,"海洋生物專題討論（一）
+SEMINAR IN MARINE BIOLOGY (I)",1,期,True,50,5,0,50,陳慶能,三6(海MA 1005),"['', '', '6', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO686&Crsname=海洋生物專題討論（三）,,,False,海科碩,DO686,0,不分班,"海洋生物專題討論（三）
+SEMINAR IN MARINE BIOLOGY (III)",1,期,False,50,8,0,50,托星豪,三7(海MA 1005),"['', '', '7', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO692&Crsname=物理海洋專題討論（一）,,,False,海科碩,DO692,0,不分班,"物理海洋專題討論（一）
+SEMINAR IN PHYSICAL OCEANOGRAPHY (I)",1,期,False,50,2,0,50,陳冠宇,三6(),"['', '', '6', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO694&Crsname=物理海洋專題討論（三）,,,False,海科碩,DO694,0,不分班,"物理海洋專題討論（三）
+SEMINAR IN PHYSICAL OCEANOGRAPHY (III)",1,期,False,50,2,0,50,方盈智,三7(),"['', '', '7', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO696&Crsname=高等物理海洋學（一）,,,False,海科碩,DO696,0,不分班,"高等物理海洋學（一）
+ADVANCED PHYSICAL OCEANOGRAPHY (I)",2,期,False,50,4,0,50,陳冠宇,"三3,4(海MA 1020)","['', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO698&Crsname=物理海洋專題研究（一）,,,False,海科碩,DO698,0,不分班,"物理海洋專題研究（一）
+INDEPENDENT STUDIES IN PHYSICAL OCEANOGRAPHY(I)",3,期,False,50,2,0,50,"李逸環,方盈智,陳冠宇",一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO701&Crsname=進階科學英文,,,False,海科碩,DO701,0,不分班,"進階科學英文
+ADVANCED SCIENTIFIC ENGLISH",3,期,False,50,2,0,50,慕樂凡,"二6,7,8(海MB 1009)","['', '678', '', '', '', '', '']","《講授類》
+1. 與DO405併班上課。 2. TOEIC above 600 or equivalent",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO709&Crsname=海洋創業產業創新（一）,,,False,海科碩,DO709,0,不分班,"海洋創業產業創新（一）
+CREATIVENESS AND CREATION FOR NEW IDEA,MARINE SCIENCE(I)",3,期,False,50,3,0,50,洪慶章,"一2,3,4(海MA 2009)","['234', '', '', '', '', '', '']",《演講/參訪》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO711&Crsname=珊瑚礁生物學,,,False,海科碩,DO711,0,不分班,"珊瑚礁生物學
+BIOLOGY OF CORAL REEFS",2,期,False,50,4,0,50,王志騰,"五6,7(海MA 3040)","['', '', '', '', '67', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO713&Crsname=海冰與高緯度海洋學,,,False,海科碩,DO713,0,不分班,"海冰與高緯度海洋學
+SEA ICE AND HIGH-LATITUDE OCEANOGRAPHY",2,期,False,50,0,0,50,方盈智,"三3,4(海MA 1005)","['', '', '34', '', '', '', '']","《講授類》
+與DO353併班上課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO717&Crsname=海洋基礎生產力,,,False,海科碩,DO717,0,不分班,"海洋基礎生產力
+MARINE PRIMARY PRODUCTIVITY",2,期,False,50,3,0,50,托星豪,"四3,4(海MA 1020)","['', '', '', '34', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO718&Crsname=應用統計學（一）,異動,修正備註說明7/3,False,海科碩,DO718,0,不分班,"應用統計學（一）
+APPLIED STATISTICS (I)",2,期,False,50,1,0,50,托星豪,"五3,4(海MA 1005)","['', '', '', '', '34', '', '']","《講授類》
+選修「應用統計學(一)」課程需同時選修「應用統計學實習(一)」課程。與DO206併班上課。","['環境教育學程', '擁海學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO719&Crsname=應用統計學實習（一）,異動,修正備註說明7/3,False,海科碩,DO719,0,不分班,"應用統計學實習（一）
+APPLIED STATISTICS PRACTICE (I)",1,期,False,50,0,0,50,吳淑娟,"五7,8,9(圖IL PC01)(實驗)","['', '', '', '', '789', '', '']","《實習類》
+選修「應用統計學實習(一)」課程需同時選修「應用統計學(一)」課程。與DO207併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DO720&Crsname=機器學習概論及其在海洋科學的應用,新增,8/29,False,海科碩,DO720,0,不分班,"機器學習概論及其在海洋科學的應用
+INTRODUCTORY MACHINE LEARNING AND ITS APPLICATION IN MARINE SCIENCES",3,期,False,50,2,0,50,王敬湧,"四2,3,4(海MB 2009)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=UT502&Crsname=海上實習（一）,,,False,海下科技碩,UT502,0,不分班,"海上實習（一）
+CRUISE PRACTICE (I)",1,期,False,50,5,0,50,周佑誠,"五8,9(海MA 2052)(實驗)","['', '', '', '', '89', '', '']","《實習類》
+本課程限海下科技研究所碩士班研究生及已取得海下科技研究所五學年學碩士資格之大學部學生選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=UT508&Crsname=工程聲學,,,False,海下科技碩,UT508,0,不分班,"工程聲學
+ENGINEERING ACOUSTICS",3,期,False,50,9,0,50,魏瑞昌,"三5,6,7(海MA 2052)","['', '', '567', '', '', '', '']",《講授類》,"['南星產業樞紐學程', '環境教育學程', '海事工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=UT513&Crsname=電腦語言與數值模擬,,,False,海下科技碩,UT513,0,不分班,"電腦語言與數值模擬
+COMPUTER LANGUAGE AND SIMULATION",3,期,False,50,5,0,50,王兆璋,"二2,3,4(海MA 2052)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=UT514&Crsname=數值方法與軟體應用,,,False,海下科技碩,UT514,0,不分班,"數值方法與軟體應用
+NUMERICAL METHODS WITH MATLAB",3,期,False,50,8,0,50,陳信宏,"三2,3,4(海MA 2052)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=UT520&Crsname=訊號與系統,,,False,海下科技碩,UT520,0,不分班,"訊號與系統
+SIGNALS AND SYSTEMS",3,期,False,50,3,0,50,魏瑞昌,"二6,7,8(海MA 2052)","['', '678', '', '', '', '', '']",《講授類》,"['南星產業樞紐學程', '海事工程學程']",False
