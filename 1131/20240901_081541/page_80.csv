@@ -1,0 +1,50 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE521A&Crsname=書報討論,,,False,環工碩,ENVE521A,2,不分班,"書報討論
+SEMINAR",1,期,True,50,0,22,28,施育仁,"三6,7(工EV 4024)","['', '', '67', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE531&Crsname=環境化學,,,False,環工碩,ENVE531,0,不分班,"環境化學
+ENVIRONMENTAL CHEMISTRY",3,期,False,50,24,0,50,施育仁,"二2,3,4(工EC 1004)","['', '234', '', '', '', '', '']",《講授類》,"['環境教育學程', '環境科技與管理學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE537&Crsname=環境生物技術,異動,更換教室7/3,False,環工碩,ENVE537,0,不分班,"環境生物技術
+ENVIRONMENTAL BIOTECHNOLOGY",3,期,False,50,12,0,50,張耿崚,"五6,7,8(工EC 2005)","['', '', '', '', '678', '', '']","《講授類》
+ 
+※英語授課",['科技與環境英語微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE539&Crsname=環境電化學原理與技術,,,False,環工碩,ENVE539,0,不分班,"環境電化學原理與技術
+PRINCIPLE AND TECHNOLOGY OF ENVIRONMENTAL ELECTROCHEMISTRY",3,期,False,50,9,0,50,施育仁,"四2,3,4(工EC 1004)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE541&Crsname=水及廢水分析,異動,更換教室7/3,False,環工碩,ENVE541,0,不分班,"水及廢水分析
+WATER AND WASTEWATER ANALYSIS",3,期,False,50,18,0,50,張耿崚,"五1,2(工EC 2005) 五3,4(工EC 2005)(實驗)","['', '', '', '', '1234', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE545&Crsname=廢棄物及土壤分析,,,False,環工碩,ENVE545,0,不分班,"廢棄物及土壤分析
+SOLID WASTE AND SOIL ANALYSIS",3,期,False,50,15,0,50,林淵淙,"三C,D(工EC 1004) 三E,F(工EC 1004)(實驗)","['', '', 'CDEF', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE563&Crsname=空氣污染控制設計,,,False,環工碩,ENVE563,0,不分班,"空氣污染控制設計
+AIR POLLUTION CONTROL & DESIGN",3,期,False,50,5,0,50,袁中新,"三2,3,4(工EC 2005)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE571&Crsname=廢棄物自然處理系統,,,False,環工碩,ENVE571,0,不分班,"廢棄物自然處理系統
+NATURAL SYSTEMS FOR WASTE TREATMENT",3,期,False,50,68,0,50,高志明,"四C,D,E(工EC 1004)","['', '', '', 'CDE', '', '', '']",《講授類》,"['環境教育學程', '生物技術學程', '環境科技與管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE592&Crsname=專題研究（一）,,,False,環工碩,ENVE592,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,33,0,50,"陳威翔,張耿崚,彭彥彬,施育仁,林淵淙,袁中新,陳則綸,高志明","六C,D,E(工EC 1004)","['', '', '', '', '', 'CDE', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE596&Crsname=大氣模式特論,,,False,環工碩,ENVE596,0,不分班,"大氣模式特論
+SPECIAL TOPICS ON ATMOSPHERIC MODELS",3,期,False,50,15,0,50,彭彥彬,"一2,3,4(工EC 2005)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE598&Crsname=實驗方法設計,,,False,環工碩,ENVE598,0,不分班,"實驗方法設計
+DESIGN OF EXPERIMENTAL METHODS",3,期,False,50,14,0,50,彭彥彬,"一C,D,E(工EC 1004)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ENVE599&Crsname=儀器分析,,,False,環工碩,ENVE599,0,不分班,"儀器分析
+PRINCIPLE OF INSTRUMENT ANALYSIS",3,期,False,50,4,0,50,陳則綸,"二6,7,8(工EC 1004)","['', '678', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE505&Crsname=計算機結構,,,False,資工碩,CSE505,1,不分班,"計算機結構
+COMPUTER ARCHITECTURES",3,期,True,80,11,77,3,李淑敏,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE510&Crsname=演算法設計與分析,,,False,資工碩,CSE510,1,不分班,"演算法設計與分析
+ALGORITHM DESIGN AND ANALYSIS",3,期,True,80,2,57,23,楊昌彪,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE515&Crsname=高等電腦網路,,,False,資工碩,CSE515,1,不分班,"高等電腦網路
+ADVANCED COMPUTER NETWORKS",3,期,True,80,12,60,20,林俊宏,"三2,3,4(工EC 5012)","['', '', '234', '', '', '', '']",《講授類》,['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE520&Crsname=高等作業系統,,,False,資工碩,CSE520,1,不分班,"高等作業系統
+ADVANCED OPERATING SYSTEMS",3,期,True,80,8,74,6,王友群,"四6,7,8(工EC 9032)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE522&Crsname=進階資料探勘,,,False,資工碩,CSE522,0,不分班,"進階資料探勘
+ADVANCED DATA MINING",3,期,False,50,12,0,50,洪宗貝,"四2,3,4(工EC 1005)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE530&Crsname=專題研究（一）,,,False,資工碩,CSE530,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,6,0,50,李淑敏,"五7,8,9(工EC 1014B)","['', '', '', '', '789', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE530A&Crsname=專題研究（一）,,,False,資工碩,CSE530A,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,2,0,50,楊惠芳,"五7,8,9(工EC 3015)","['', '', '', '', '789', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE530B&Crsname=專題研究（一）,,,False,資工碩,CSE530B,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,1,0,50,洪宗貝,"五7,8,9(工EC 9014)","['', '', '', '', '789', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
