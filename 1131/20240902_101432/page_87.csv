@@ -1,0 +1,58 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES573P&Crsname=專題研究（三）,,,False,材光碩,MOES573P,0,不分班,"專題研究（三）
+INDEPENDENT STUDIES(III)",3,期,False,50,1,0,50,呂德,"五C,D,E()","['', '', '', '', 'CDE', '', '']","《獨立研究》
+材料科學中的 AR/VR 相關專題。先修科目: 線性代數、微積分、編碼、伺服器客戶端操作的基本了解、幾何學、基本 ML 技術、AR/VR 概念、固態和分子物理學。學生選課前請先與指導教授洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES591&Crsname=材料化學,,,False,材光碩,MOES591,0,不分班,"材料化學
+MATERIALS CHEMISTRY",3,期,False,50,14,0,50,王映樵,"二2,3,4(工MS 4025)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES592&Crsname=生醫材料,異動,更換時間及教室8/19,False,材光碩,MOES592,0,不分班,"生醫材料
+BIOMATERIALS",3,期,False,50,5,0,50,陳致光,"二2,3,4(工MS 4023)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MOES594&Crsname=工程英文寫作,,,False,材光碩,MOES594,0,不分班,"工程英文寫作
+ENGLISH TECHNICAL WRITING",3,期,False,50,10,0,50,邱政維,"五5,6,7(工MS 4023)","['', '', '', '', '567', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD501&Crsname=書報討論,,,False,積體電路碩,IICD501,1,不分班,"書報討論
+SEMINAR",1,期,True,50,0,15,35,謝東佑,"二6,7(工EC 6011)","['', '67', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD502&Crsname=系統晶片設計,異動,更換教室8/15,False,積體電路碩,IICD502,0,不分班,"系統晶片設計
+SYSTEM-ON-CHIP DESIGN",3,期,False,50,10,0,50,施信毓,"四6,7,8(工EC 3009)","['', '', '', '678', '', '', '']","《講授類》
+與電機碩併班上課
+※英語授課",['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD503&Crsname=計算機結構,,,False,積體電路碩,IICD503,0,不分班,"計算機結構
+COMPUTER ARCHITECTURE",3,期,False,50,13,0,50,李淑敏,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']","《講授類》
+與資工碩併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD504&Crsname=系統晶片測試,異動,更換時間8/15,False,積體電路碩,IICD504,0,不分班,"系統晶片測試
+SYSTEM-ON-CHIP TESTING",3,期,False,50,14,0,50,謝東佑,"二2,3,4(工EC 6019)","['', '234', '', '', '', '', '']","《講授類》
+與電機碩併班上課
+※英語授課",['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD520&Crsname=數位通訊電路設計,異動,更換時間7/18,False,積體電路碩,IICD520,0,不分班,"數位通訊電路設計
+DIGITAL COMMUNICATION IC DESIGN",3,期,False,50,2,0,50,施信毓,"三5,6,7(工EC 3009)","['', '', '567', '', '', '', '']","《講授類》
+與電機碩併班上課
+※英語授課","['半導體元件學程', '數位IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD522&Crsname=低功率系統設計,,,False,積體電路碩,IICD522,0,不分班,"低功率系統設計
+LOW-POWER SYSTEM DESIGN",3,期,False,50,8,0,50,李宗哲,"五5,6,7(工EC 6016)","['', '', '', '', '567', '', '']","《講授類》
+與電機碩併班上課
+※英語授課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD524&Crsname=數位信號處理,,,False,積體電路碩,IICD524,0,不分班,"數位信號處理
+DIGITAL SIGNAL PROCESSING",3,期,False,50,15,0,50,溫朝凱,"四2,3,4(工EC 2002)","['', '', '', '234', '', '', '']","《講授類》
+與通訊碩併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD526&Crsname=類比積體電路設計,,,False,積體電路碩,IICD526,0,不分班,"類比積體電路設計
+ANALOG INTEGRATED CIRCUIT DESIGN",3,期,False,50,6,0,50,郭可驥,"一5,6,7(工EC 5026)","['567', '', '', '', '', '', '']","《講授類》
+與資工碩併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD580&Crsname=高等數位電路設計專題,,,False,積體電路碩,IICD580,0,不分班,"高等數位電路設計專題
+INDEPENDENT STUDIES IN ADVANCED DIGITAL CIRCUIT DESIGN",3,期,False,50,2,0,50,施信毓,"一6,7,8(工EC 2018)","['678', '', '', '', '', '', '']","《獨立研究》
+與電機碩併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD582&Crsname=積體電路佈局專題,,,False,積體電路碩,IICD582,0,不分班,"積體電路佈局專題
+INDEPENDENT STUDIES IN IC LAYOUT",3,期,False,50,5,0,50,李宗哲,"一C,D,E(工EC 7021)","['CDE', '', '', '', '', '', '']","《獨立研究》
+與電機碩併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD583&Crsname=積體電路系統測試專題,,,False,積體電路碩,IICD583,0,不分班,"積體電路系統測試專題
+INDEPENDENT STUDIES IN VLSI TESTING",3,期,False,50,4,0,50,謝東佑,"一6,7,8(工EC 8037)","['678', '', '', '', '', '', '']","《獨立研究》
+與電機碩併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IICD584&Crsname=類比與混合訊號積體電路設計專題,,,False,積體電路碩,IICD584,0,不分班,"類比與混合訊號積體電路設計專題
+INDEPENDENT STUDIES IN THE ANALOG AND MIXED-SIGNAL INTEGRATED CIRCUIT DESIGN",3,期,False,50,1,0,50,郭可驥,"三5,6,7(工EC 6015-2)","['', '', '567', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE503&Crsname=抗量子密碼學應用,新增,7/11,False,資安碩,CSE503,0,不分班,"抗量子密碼學應用
+APPLICATIONS OF QUANTUM-RESISTANT CRYPTOGRAPHY",3,期,False,50,7,0,50,克拉迪,"四6,7,8(工EC 5000)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE506&Crsname=計算機結構,,,False,資安碩,CSE506,1,不分班,"計算機結構
+COMPUTER ARCHITECTURES",3,期,True,30,3,6,24,李淑敏,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE511&Crsname=演算法設計與分析,,,False,資安碩,CSE511,1,不分班,"演算法設計與分析
+ALGORITHM DESIGN AND ANALYSIS",3,期,True,30,0,9,21,楊昌彪,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE512&Crsname=密碼學,,,False,資安碩,CSE512,1,不分班,"密碼學
+CRYPTOGRAPHY",3,期,True,30,13,15,15,徐瑞壕,"四2,3,4(工EC 9014)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['軟體工程學程', '資通安全學程']",False
