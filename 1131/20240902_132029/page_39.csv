@@ -1,0 +1,54 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE3602A&Crsname=通訊系統,異動,更換教室8/9,False,電機系,EE3602A,3,乙班,"通訊系統
+COMMUNICATION SYSTEMS",3,期,True,66,8,40,26,王藏億,"五2,3,4(工EC 2002)","['', '', '', '', '234', '', '']","《講授類》
+甲乙班併班上課","['南星產業樞紐學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE3602B&Crsname=通訊系統,異動,更換教室8/15,False,電機系,EE3602B,3,全英班,"通訊系統
+COMMUNICATION SYSTEMS",3,期,True,65,6,35,30,陳彥銘,"三5,6,7(工EC 3014)","['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課","['南星產業樞紐學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE3705&Crsname=實用數位系統設計,異動,更換時間及教室8/15,False,電機系,EE3705,3,不分班,"實用數位系統設計
+PRACTICAL DIGITAL SYSTEMS DESIGN",3,期,False,50,16,0,50,謝東佑,"三2,3,4(工EC 1001)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE3901&Crsname=數值運算實務,,,False,電機系,EE3901,3,不分班,"數值運算實務
+PRACTICE OF NUMERICAL COMPUTING",3,期,False,50,10,0,50,吳珮歆,"三2,3,4(工EC 6016)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE4505&Crsname=天線工程概論,異動,確認教師7/10,False,電機系,EE4505,4,不分班,"天線工程概論
+INTRODUCTION TO ANTENNA ENGINEERING",3,期,False,50,14,0,50,沈昭元,"一6,7,8(工EC 3009)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE4612&Crsname=數位訊號處理導論,,,False,電機系,EE4612,4,不分班,"數位訊號處理導論
+INTRODUCTION TO DIGITAL SIGNAL PROCESSING",3,期,False,50,1,0,50,陳有德,"五2,3,4(工EC 3013)","['', '', '', '', '234', '', '']",《講授類》,['南星產業樞紐學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE4616&Crsname=機率模式與應用,,,False,電機系,EE4616,4,不分班,"機率模式與應用
+PROBABILITY MODELS AND APPLICATIONS",3,期,False,50,10,0,50,陳有德,"四5,6,7(工EC 2007)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE4616A&Crsname=機率模式與應用,,,False,電機系,EE4616A,4,不分班,"機率模式與應用
+PROBABILITY MODELS AND APPLICATIONS",3,期,False,50,3,0,50,梁家昌,"二6,7,8(工EC 3013)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE4706&Crsname=生醫工程導論,,,False,電機系,EE4706,3,不分班,"生醫工程導論
+INTRODUCTION TO BIOMEDICAL ENGINEERING",3,期,False,50,8,0,50,莊子肇,"四6,7,8(工EC 3010)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE4713&Crsname=多維度媒體工程實務,,,False,電機系,EE4713,3,不分班,"多維度媒體工程實務
+PRACTICAL ENGINEERING IN MULTIDIMENSIONAL MULTIMEDIA",3,期,False,50,3,0,50,邱日清,"五6,7,8(工EC 6018)","['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE4808&Crsname=電機工程進階實作專案,,,False,電機系,EE4808,4,不分班,"電機工程進階實作專案
+ADVANCED ELECTRICAL ENGINEERING PROJECT",3,期,False,50,11,0,50,吳珮歆,一A(工EC 6013) 二A(工EC 6013)(實驗) 三A(工EC 6013)(實驗) 四A(工EC 6013)(實驗) 五A(工EC 6013)(實驗),"['A', 'A', 'A', 'A', 'A', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME101&Crsname=微積分（一）,,,False,機電系,MEME101,1,甲班,"微積分（一）
+CALCULUS(I)",3,期,True,55,14,36,19,鍾思齊,"五2,3,4(工EN 4055-1)","['', '', '', '', '234', '', '']","《講授類》
+一甲、一乙併班上課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME101A&Crsname=微積分（一）,,,False,機電系,MEME101A,1,乙班,"微積分（一）
+CALCULUS(I)",3,期,True,55,11,35,20,鍾思齊,"五2,3,4(工EN 4055-1)","['', '', '', '', '234', '', '']","《講授類》
+一甲、一乙併班上課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME101B&Crsname=微積分（一）,,,False,機電系,MEME101B,1,全英班,"微積分（一）
+CALCULUS(I)",3,期,True,60,6,43,17,余冠儒,"五2,3,4(工EC 1001)","['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME102&Crsname=圖學,,,False,機電系,MEME102,1,甲班,"圖學
+GRAPHICS",2,期,True,50,10,37,13,郭清德,"四5,6(工EN 4055-2)","['', '', '', '56', '', '', '']",《講授類》,['碳流資訊盤查與低碳設計微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME102A&Crsname=圖學,,,False,機電系,MEME102A,1,乙班,"圖學
+GRAPHICS",2,期,True,50,4,35,15,郭清德,"四7,8(工EN 4055-2)","['', '', '', '78', '', '', '']",《講授類》,['碳流資訊盤查與低碳設計微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME102B&Crsname=圖學,,,False,機電系,MEME102B,1,全英班,"圖學
+GRAPHICS",2,期,True,50,5,43,7,王郁仁,"四3,4(工EN 4055-2)","['', '', '', '34', '', '', '']","《講授類》
+ 
+※英語授課",['碳流資訊盤查與低碳設計微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME103&Crsname=工程電腦程式,,,False,機電系,MEME103,1,甲班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,True,50,9,37,13,朱訓鵬,"三5,6,7(工EN 4055-2)","['', '', '567', '', '', '', '']",《講授類》,"['南星產業樞紐學程', '半導體設備工程學程', '自然科學之程式應用學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME103A&Crsname=工程電腦程式,,,False,機電系,MEME103A,1,乙班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,True,50,4,34,16,朱訓鵬,"一2,3,4(工EN 4055-2)","['234', '', '', '', '', '', '']",《講授類》,"['南星產業樞紐學程', '半導體設備工程學程', '自然科學之程式應用學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MEME103B&Crsname=工程電腦程式,,,False,機電系,MEME103B,1,全英班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,True,50,5,43,7,劉耿豪,"五5,6,7(工EN 4055-2)","['', '', '', '', '567', '', '']","《講授類》
+ 
+※英語授課","['南星產業樞紐學程', '半導體設備工程學程', '自然科學之程式應用學程']",False
