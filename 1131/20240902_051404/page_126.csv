@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM852&Crsname=科技創新策略專題討論,,,False,企管博,BM852,0,不分班,"科技創新策略專題討論
+SEMINAR IN TECHNOLOGY INNOVATION STRATEGY",3,期,False,50,7,0,50,林杏娥,"五2,3,4(管CM 1030)","['', '', '', '', '234', '', '']","《獨立研究》
+企業管理組;",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM857&Crsname=文化雙融管理專題研討,,,False,企管博,BM857,0,不分班,"文化雙融管理專題研討
+SEMINAR IN AMBICULTURAL MANAGEMENT",3,期,False,50,7,0,50,林豪傑,"二2,3,4(管CM 1030)","['', '234', '', '', '', '', '']","《研討類》
+企業管理組;",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM858&Crsname=亞太經貿環境專題研討,異動,更換時間及教室8/29,False,企管博,BM858,0,不分班,"亞太經貿環境專題研討
+SEMINAR IN ASIA-PACIFIC ECONOMIC AND TRADE ENVIRONMENT",3,期,False,50,9,0,50,林晉禾,"二2,3,4(管CM 2021)","['', '234', '', '', '', '', '']","《研討類》
+企業管理組;",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS701&Crsname=管理資訊系統研究,,,False,資管博,MIS701,1,不分班,"管理資訊系統研究
+MANAGEMENT INFORMATION SYSTEMS RESEARCH",3,期,True,50,0,1,49,徐士傑,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS702&Crsname=研究方法（一）,,,False,資管博,MIS702,1,不分班,"研究方法（一）
+RESEARCH METHODOLOGY(I)",3,期,True,50,0,1,49,徐士傑,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS704&Crsname=高等資管專題研討（一）,,,False,資管博,MIS704,1,不分班,"高等資管專題研討（一）
+SEMINAR IN ADVANCED INFORMATION SYSTEMS (I)",1,期,True,50,0,4,46,"楊淯程,康藝晃,李捷","四6,7(管CM 2016)","['', '', '', '67', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS706&Crsname=高等資管專題研討（三）,,,False,資管博,MIS706,2,不分班,"高等資管專題研討（三）
+SEMINAR IN ADVANCED INFORMATION SYSTEMS (III)",1,期,True,50,0,5,45,"楊淯程,康藝晃,李捷","四6,7(管CM 2016)","['', '', '', '67', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM702&Crsname=財務數理,,,False,財管博,FM702,0,不分班,"財務數理
+MATHEMATICAL FINANCE",3,期,False,20,4,0,20,蔡維哲,"二6,7,8(管CM 2020)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM703&Crsname=財務經濟學（一）,,,False,財管博,FM703,0,不分班,"財務經濟學（一）
+FINANCIAL ECONOMICS (I)",3,期,False,20,4,0,20,郭照榮,"五7,8,9(管CM 2020)","['', '', '', '', '789', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM705&Crsname=財金專題評析（一）,,,False,財管博,FM705,1,不分班,"財金專題評析（一）
+FINANCIAL STUDIES REVIEW (I)",1,期,True,20,1,5,15,封之遠,三3(管CM 2020),"['', '', '3', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM801&Crsname=財金專題評析（三）,,,False,財管博,FM801,0,不分班,"財金專題評析（三）
+FIANNACIAL STUDIES REVIEW (III)",1,期,False,20,4,0,20,封之遠,三4(管CM 2020),"['', '', '4', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PAM702&Crsname=高等研究方法,,,False,公事博,PAM702,1,不分班,"高等研究方法
+ADVANCED RESEARCH METHODOLOGY",3,期,True,50,5,4,46,"彭渰雯,謝旭昇","四6,7,8(管CM 1035)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM702&Crsname=高等人力資源管理,,,False,人管博,HRM702,2,不分班,"高等人力資源管理
+ADVANCED HUMAN RESOURCE MANAGEMENT",3,期,True,15,2,1,14,紀乃文,"四2,3,4(管CM 4091)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM703&Crsname=高等研究方法（一）,,,False,人管博,HRM703,1,不分班,"高等研究方法（一）
+ADVANCED RESEARCH METHODS (I)",3,期,True,15,0,3,12,謝慧賢,"二6,7,8(管CM 4091)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM705&Crsname=專案研究,,,False,人管博,HRM705,2,不分班,"專案研究
+INDEPENDENT STUDIES",3,期,True,50,2,1,49,"李澄賢,謝慧賢,陳旻男","四1,5,B()","['', '', '', '1B5', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM721&Crsname=研究方法專題研討,,,False,人管博,HRM721,2,不分班,"研究方法專題研討
+SEMINAR IN RESEARCH METHODS",3,期,False,15,3,0,15,李澄賢,"一5,6,7(管CM 4091)","['567', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM741&Crsname=高階組織行為,,,False,人管博,HRM741,2,不分班,"高階組織行為
+ADVANCED ORGANIZATIONAL BEHAVIOR",3,期,False,35,7,0,35,王豫萱,"四2,3,4(管CM 1036)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM747&Crsname=創新管理,,,False,人管博,HRM747,2,不分班,"創新管理
+INNOVATION MANAGEMENT",3,期,False,15,6,0,15,陳旻男,"三2,3,4(管CM 1036)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM748&Crsname=組織與永續性研究專題,異動,確認教師8/5,False,人管博,HRM748,1,不分班,"組織與永續性研究專題
+SEMINAR IN ORGANIZATION AND SUSTAINABILITY",3,期,False,35,0,0,35,何佳澔,"四6,7,8(管CM 1036)","['', '', '', '678', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HCM702&Crsname=高等統計分析（一）,異動,更換授課方式8/14,False,企醫管博,HCM702,1,不分班,"高等統計分析（一）
+ADVANCED STATISTICAL ANALYSIS (I)",3,期,True,50,1,4,46,彭聖翔,"四6,7,8(管CM 3035)","['', '', '', '678', '', '', '']","《講授類》
+與企管博併班上課",[],True
