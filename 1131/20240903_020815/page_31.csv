@@ -1,0 +1,54 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM212C&Crsname=化學實驗（三）,,,True,化學系,CHEM212C,2,全英班,"化學實驗（三）
+CHEMISTRY LABORATORY(III)",2,期,True,50,12,0,50,"克里斯那,林渝亞","一6(理SC 4032) 一7,8(理SC 4032)(實驗)","['678', '', '', '', '', '', '']","《實驗類》
+限學號雙號選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM214&Crsname=分析化學（二）,,,False,化學系,CHEM214,2,不分班,"分析化學（二）
+ANALYTICAL CHEMISTRY(II)",3,期,True,50,14,35,15,張柏齡,"二6,7(理SC 0012) 四6(理SC 0012)","['', '67', '', '6', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM214A&Crsname=分析化學（二）,,,False,化學系,CHEM214A,2,全英班,"分析化學（二）
+ANALYTICAL CHEMISTRY(II)",3,期,True,50,3,17,33,克里斯那,"二6,7(理CH 3002) 四2(理CH 3002)","['', '67', '', '2', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM215&Crsname=有機化學（二）,,,False,化學系,CHEM215,2,不分班,"有機化學（二）
+ORGANIC CHEMISTRY (II)",3,期,True,60,14,33,27,李志聰,"二3,4(理SC 0012) 四7(理SC 0012)","['', '34', '', '7', '', '', '']",《講授類》,['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM215A&Crsname=有機化學（二）,,,False,化學系,CHEM215A,2,全英班,"有機化學（二）
+ORGANIC CHEMISTRY (II)",3,期,True,60,11,17,43,林渝亞,"二5(理CH 3002) 四3,4(理CH 3002)","['', '5', '', '34', '', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM302&Crsname=無機化學（二）,異動,更換教室6/28,False,化學系,CHEM302,3,不分班,"無機化學（二）
+INORGANIC CHEMISTRY(II)",3,期,True,60,3,28,32,陳軍互,"一2,3(理SC 1003) 三2(理SC 1003)","['23', '', '2', '', '', '', '']",《講授類》,['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM302A&Crsname=無機化學（二）,異動,更換部份時間8/5,False,化學系,CHEM302A,3,全英班,"無機化學（二）
+INORGANIC CHEMISTRY(II)",3,期,True,50,8,21,29,梁蘭昌,"一2,3(理CH 3002) 三2(理CH 3002)","['23', '', '2', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM311&Crsname=物理化學（二）,異動,更換教室6/28,False,化學系,CHEM311,3,不分班,"物理化學（二）
+PHYSICAL CHEMISTRY (II)",3,期,True,50,3,29,21,丁尚武,"一4(理SC 1003) 三3,4(理SC 1003)","['4', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM311A&Crsname=物理化學（二）,異動,更換部份時間8/5,False,化學系,CHEM311A,3,全英班,"物理化學（二）
+PHYSICAL CHEMISTRY (II)",3,期,True,50,3,20,30,王家蓁,"一4(理SC 3004) 三3,4(理SC 3004)","['4', '', '34', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM317&Crsname=專題研究（一）,,,False,化學系,CHEM317,3,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,11,0,50,王琢堅,"四A() 五A,B()","['', '', '', 'A', 'AB', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM319&Crsname=化學實驗（五）,,,True,化學系,CHEM319,3,不分班,"化學實驗（五）
+CHEMISTRY LABORATORY(V)",2,期,True,50,14,0,50,"邱政超,張元賓",五2(理SC 3004) 五3(理SC 4020)(實驗) 五4(理SC 4032)(實驗),"['', '', '', '', '234', '', '']","《實驗類》
+限學號單號選",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM319A&Crsname=化學實驗（五）,,,True,化學系,CHEM319A,3,全英班,"化學實驗（五）
+CHEMISTRY LABORATORY(V)",2,期,True,50,8,0,50,"邱政超,蔣昭明",二6(理SC 3004) 二7(理SC 4020)(實驗) 二8(理SC 4032)(實驗),"['', '678', '', '', '', '', '']","《實驗類》
+限學號單號選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM319B&Crsname=化學實驗（五）,,,True,化學系,CHEM319B,3,不分班,"化學實驗（五）
+CHEMISTRY LABORATORY(V)",2,期,True,50,15,0,50,"張元賓,邱政超","五2(理SC 4031) 五3,4(理SC 4031)(實驗)","['', '', '', '', '234', '', '']","《實驗類》
+限學號雙號選",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM319C&Crsname=化學實驗（五）,,,True,化學系,CHEM319C,3,全英班,"化學實驗（五）
+CHEMISTRY LABORATORY(V)",2,期,True,50,9,0,50,"蔣昭明,邱政超","二6(理SC 4031) 二7,8(理SC 4031)(實驗)","['', '678', '', '', '', '', '']","《實驗類》
+限學號雙號選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM403&Crsname=專題研究（三）,,,False,化學系,CHEM403,4,不分班,"專題研究（三）
+INDEPENDENT STUDIES(III)",3,期,False,50,4,0,50,張均然,"四A() 五A,B()","['', '', '', 'A', 'AB', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM410&Crsname=高分子化學導論,新增,8/15,False,化學系,CHEM410,4,不分班,"高分子化學導論
+INTRODUCTION TO POLYMER CHEMISTRY",3,期,False,50,34,0,50,梁蘭昌,"一5,6,7(理CH 2002)","['567', '', '', '', '', '', '']","《講授類》
+化學系主題課程。1-4年級皆可選修。","['半導體化學學程', '有機和材料合成學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM425&Crsname=食品安全分析概論,,,False,化學系,CHEM425,4,不分班,"食品安全分析概論
+INTRODUCTION OF FOOD SAFETY AND EXAMINATION TECHNIQUES",2,期,False,50,17,0,50,謝建台,"二5,6(理SC 1001)","['', '56', '', '', '', '', '']",《講授類》,"['海洋天然物微學程', '食品安全學程', '海洋生產模式整合學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM431&Crsname=生醫技術導論,,,False,化學系,CHEM431,3,不分班,"生醫技術導論
+INTRODUCTION TO BIOMEDICAL TECHNIQUES",3,期,False,50,26,0,50,張柏齡,"五5,6,7(理SC 1003)","['', '', '', '', '567', '', '']","《講授類》
+化學系主題課程。2-4年級皆可選修。",['天然藥物合成學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM433&Crsname=有機化學（三）,,,False,化學系,CHEM433,3,不分班,"有機化學（三）
+ORGANIC CHEMISTRY(III)",3,期,False,50,23,0,50,黃建智,"四2,3,4(理SC 1003)","['', '', '', '234', '', '', '']","《講授類》
+化學系主題課程。2-4年級皆可選修。","['半導體製程模組學程', '天然藥物合成學程', '有機和材料合成學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM437&Crsname=分析化學（三）,,,False,化學系,CHEM437,3,不分班,"分析化學（三）
+ANALYTICAL CHEMISTRY (III)",3,期,False,50,15,0,50,曾韋龍,"四5,6,7(理SC 0014)","['', '', '', '567', '', '', '']","《講授類》
+化學系主題課程。2-4年級皆可選修。",['半導體化學學程'],False
