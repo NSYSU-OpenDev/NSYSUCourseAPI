@@ -1,0 +1,2 @@
+Value of root[2473]['selected'] changed from 2 to 1.
+Value of root[2473]['remaining'] changed from 48 to 49.
