@@ -1,0 +1,27 @@
+Item root[2088]['classTime'][5] added to iterable.
+Item root[2088]['classTime'][3] removed from iterable.
+Type of root[1801]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1801]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/4".
+Type of root[2088]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2088]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間9/4".
+Value of root[1801]['room'] changed from "三5,6,7(管CM 2015)" to "三5,6,7(管CM 0052)".
+Value of root[1867]['select'] changed from 2 to 3.
+Value of root[1867]['selected'] changed from 42 to 41.
+Value of root[1867]['remaining'] changed from 28 to 29.
+Value of root[1868]['select'] changed from 9 to 10.
+Value of root[1868]['selected'] changed from 35 to 34.
+Value of root[1868]['remaining'] changed from 15 to 16.
+Value of root[1870]['select'] changed from 5 to 6.
+Value of root[1870]['selected'] changed from 15 to 14.
+Value of root[1870]['remaining'] changed from 35 to 36.
+Value of root[1877]['select'] changed from 11 to 12.
+Value of root[1877]['selected'] changed from 45 to 44.
+Value of root[1877]['remaining'] changed from 5 to 6.
+Value of root[1883]['select'] changed from 14 to 15.
+Value of root[1883]['selected'] changed from 50 to 49.
+Value of root[1883]['remaining'] changed from 0 to 1.
+Value of root[2088]['room'] changed from "四A()" to "六1()".
+Value of root[2285]['selected'] changed from 57 to 56.
+Value of root[2285]['remaining'] changed from 3 to 4.
+Value of root[2286]['selected'] changed from 57 to 56.
+Value of root[2286]['remaining'] changed from 3 to 4.
