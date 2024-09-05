@@ -1,0 +1,17 @@
+Type of root[920]['change'] changed from str to NoneType and value changed from "異動" to None.
+Type of root[920]['changeDescription'] changed from str to NoneType and value changed from "更換時間及教室7/17" to None.
+Value of root[1434]['select'] changed from 2 to 4.
+Value of root[1436]['select'] changed from 1 to 3.
+Value of root[1593]['select'] changed from 38 to 40.
+Value of root[1597]['select'] changed from 2 to 4.
+Value of root[1650]['select'] changed from 1 to 3.
+Value of root[1691]['select'] changed from 0 to 2.
+Value of root[1692]['select'] changed from 1 to 3.
+Value of root[1704]['select'] changed from 1 to 3.
+Value of root[1726]['select'] changed from 4 to 6.
+Value of root[1949]['select'] changed from 0 to 2.
+Value of root[2476]['select'] changed from 2 to 4.
+Value of root[2480]['select'] changed from 0 to 2.
+Value of root[2662]['select'] changed from 0 to 2.
+Value of root[2663]['select'] changed from 1 to 3.
+Value of root[2667]['select'] changed from 4 to 6.
