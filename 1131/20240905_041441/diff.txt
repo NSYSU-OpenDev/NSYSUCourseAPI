@@ -1,0 +1,10 @@
+Value of root[1246]['class'] changed from "不分班" to "全英班".
+Value of root[1247]['class'] changed from "不分班" to "全英班".
+Value of root[2062]['selected'] changed from 32 to 30.
+Value of root[2062]['remaining'] changed from 18 to 20.
+Value of root[2063]['selected'] changed from 31 to 29.
+Value of root[2063]['remaining'] changed from 19 to 21.
+Value of root[2064]['selected'] changed from 33 to 31.
+Value of root[2064]['remaining'] changed from 17 to 19.
+Value of root[2065]['selected'] changed from 32 to 30.
+Value of root[2065]['remaining'] changed from 18 to 20.
