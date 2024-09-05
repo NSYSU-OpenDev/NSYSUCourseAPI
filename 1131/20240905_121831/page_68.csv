@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL609&Crsname=結構主義、解構與其當代遺產專題,,,False,哲學碩,PHIL609,0,不分班,"結構主義、解構與其當代遺產專題
+INDEPENDENT STUDIES IN STRUCTURALISM, DECONSTRUCTION AND THEIR CONTEMPORARY LEGACIES",2,期,False,50,0,0,50,高長空,"一3,4(文LA 2008)","['34', '', '', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA501&Crsname=研究方法,異動,調整主授教師8/6,False,劇藝碩,TA501,1,不分班,"研究方法
+RESEARCH METHODS",3,期,True,50,0,9,41,"黃資絜,曾景濱","二2,3,4(文FA 2012)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA502&Crsname=戲劇學研究,,,False,劇藝碩,TA502,1,不分班,"戲劇學研究
+THEATRE, DRAMA AND PERFORMANCE STUDIES",3,期,True,50,0,17,33,許仁豪,"三5,6,7(文FA 2012)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA503&Crsname=專業劇場英文,異動,確認教師7/31,False,劇藝碩,TA503,0,不分班,"專業劇場英文
+ENGLISH FOR THEATER STUDY",2,期,False,50,2,6,44,約書亞沙發兒,"三3,4(文FA 2012, 文FA 2018)","['', '', '34', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA530&Crsname=表導演研究與實作,異動,確認教師7/31,False,劇藝碩,TA530,0,不分班,"表導演研究與實作
+ACTING AND DIRECTING: PRACTICE AND THEORY",3,期,False,50,2,4,46,約書亞沙發兒,"四5,6,7(文FA 2012, 文FA 2018)","['', '', '', '567', '', '', '']",《展演》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA532&Crsname=表演實務（二）,新增,7/1,False,劇藝碩,TA532,0,不分班,"表演實務（二）
+ACTING TECHNIQUES (II)",3,期,False,50,0,3,47,何怡璉,"一5,6,7(文FA 2012, 2018)","['567', '', '', '', '', '', '']",《展演》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA533&Crsname=排演實務（一）,,,False,劇藝碩,TA533,0,不分班,"排演實務（一）
+REHEARSAL (I)",3,期,False,50,0,10,40,"杜思慧,吳維緯","二8,9,C(文FA 2019)","['', '89C', '', '', '', '', '']","《展演》
+限年度製作劇組學生（大四以上學生）",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA552&Crsname=展演設計（一）,,,False,劇藝碩,TA552,0,不分班,"展演設計（一）
+PERFORMANCE DESIGN ((I)",3,期,False,50,2,4,46,李怡賡,"五2,3,4(文FA 1014)","['', '', '', '', '234', '', '']",《展演》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA574&Crsname=環境劇場,,,False,劇藝碩,TA574,0,不分班,"環境劇場
+ENVIRONMENTAL THEATRE",3,期,False,50,0,3,47,何怡璉,"二5,6,7(2012, 2018)","['', '567', '', '', '', '', '']",《講授類》,['與社會交往的表演藝術微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA581&Crsname=畢業專題（一）,,,False,劇藝碩,TA581,2,不分班,"畢業專題（一）
+INDEPENDENT STUDIES(Ⅰ)",2,期,True,50,0,3,47,"康尹貞,何怡璉","一A,B(文FA 2012)","['AB', '', '', '', '', '', '']","《獨立研究》
+畢業論文/製作指導",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AME502&Crsname=藝術管理,,,False,藝管創業所,AME502,1,不分班,"藝術管理
+ARTS MANAGEMENT",3,期,True,50,0,29,21,謝榮峯,"三2,3,4(文FA 3011)","['', '', '234', '', '', '', '']",《講授類》,"['法國語言、文化與社會學程', '音樂藝術管理與行銷學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AME503&Crsname=實習,,,False,藝管創業所,AME503,2,不分班,"實習
+INTERNSHIP",3,期,True,50,0,8,42,"謝榮峯,魏君穎","五5,6(文FA 3011) 五7,8(文FA 3011)(實驗)","['', '', '', '', '5678', '', '']","《實習類》
+限藝管所並修畢藝術管理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AME532&Crsname=藝術經濟學,異動,更換授課方式7/31,False,藝管創業所,AME532,0,不分班,"藝術經濟學
+THE ECONOMICS OF ARTS",3,期,False,50,2,14,36,魏君穎,"二5,6,7(文FA 3011)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AME541&Crsname=藝文平臺與中介組織,,,False,藝管創業所,AME541,0,不分班,"藝文平臺與中介組織
+NETWORKS AND INTERMEDIARY ORGANIZATIONS IN THE ARTS",3,期,False,50,0,16,34,魏君穎,"三5,6,7(文FA 3011)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AME549&Crsname=藝術投資與資產管理,,,False,藝管創業所,AME549,0,不分班,"藝術投資與資產管理
+INVESTMENT AND PORTFOLIO MANAGEMENT IN FINE ART",3,期,False,50,0,14,36,陳宏星,"五2,3,4(文FA 3011)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AME551&Crsname=藝術教育與地方創生,,,False,藝管創業所,AME551,0,不分班,"藝術教育與地方創生
+ARTS EDUCATION AND COMMUNITY REVITALIZATION",3,期,False,50,0,18,32,陳尚盈,"四2,3,4(文FA 3011)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AME554&Crsname=專題研究（一）,,,False,藝管創業所,AME554,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES（I）",3,期,False,50,0,3,47,陳尚盈,"四5,6,7(文FA 3027)","['', '', '', '567', '', '', '']","《獨立研究》
+限藝管所碩二以上",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AME554A&Crsname=專題研究（一）,,,False,藝管創業所,AME554A,2,不分班,"專題研究（一）
+INDEPENDENT STUDIES（I）",3,期,False,50,0,1,49,謝榮峯,"四5,6,7(文FA 3020)","['', '', '', '567', '', '', '']","《獨立研究》
+限藝管所二年級以上",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AME554B&Crsname=專題研究（一）,,,False,藝管創業所,AME554B,2,不分班,"專題研究（一）
+INDEPENDENT STUDIES（I）",3,期,False,50,0,1,49,魏君穎,"四5,6,7(文FA 3010-2)","['', '', '', '567', '', '', '']","《獨立研究》
+限藝管所二年級以上",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AME554C&Crsname=專題研究（一）,,,False,藝管創業所,AME554C,2,不分班,"專題研究（一）
+INDEPENDENT STUDIES（I）",3,期,False,50,0,1,49,陳宏星,"四5,6,7(文FA 3010-3)","['', '', '', '567', '', '', '']","《獨立研究》
+限藝管所二年級以上",[],False
