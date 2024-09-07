@@ -1,6 +1,0 @@
-Type of root[1349]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[1349]['changeDescription'] changed from NoneType to str and value changed from None to "取消合授教師9/6".
-Value of root[356]['changeDescription'] changed from "8/14" to "更換教室9/6".
-Value of root[356]['room'] changed from "二2,3,4(管CM 2025)" to "二2,3,4(管CM 2023)".
-Value of root[356]['english'] changed from False to True.
-Value of root[1349]['teacher'] changed from "康尹貞,何怡璉" to "何怡璉".
