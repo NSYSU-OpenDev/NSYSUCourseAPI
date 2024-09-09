@@ -1,0 +1,23 @@
+Item root[2172]['classTime'][3] added to iterable.
+Item root[2172]['classTime'][4] removed from iterable.
+Type of root[865]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[865]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室及調整名額9/9".
+Type of root[1411]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1411]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/9".
+Type of root[2172]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2172]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室及時間9/9".
+Value of root[778]['selected'] changed from 47 to 46.
+Value of root[778]['remaining'] changed from 13 to 14.
+Value of root[781]['selected'] changed from 48 to 47.
+Value of root[781]['remaining'] changed from 2 to 3.
+Value of root[784]['selected'] changed from 48 to 47.
+Value of root[784]['remaining'] changed from 2 to 3.
+Value of root[787]['selected'] changed from 49 to 48.
+Value of root[787]['remaining'] changed from 11 to 12.
+Value of root[865]['restrict'] changed from 50 to 60.
+Value of root[865]['remaining'] changed from 0 to 10.
+Value of root[865]['room'] changed from "一2,3,4(工EC 4039)" to "一2,3,4(工EC 1001)".
+Value of root[1247]['change'] changed from "新增" to "異動".
+Value of root[1247]['changeDescription'] changed from "8/9" to "修正備註9/9".
+Value of root[1411]['room'] changed from "一2,3,4(理CH 2002)" to "一2,3,4(理SC 1001)".
+Value of root[2172]['room'] changed from "五5,6,7(國IR 5003)" to "四2,3,4(國IR 1006-12)".
