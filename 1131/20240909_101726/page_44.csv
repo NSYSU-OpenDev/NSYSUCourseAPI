@@ -1,0 +1,64 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO1004A&Crsname=計算機程式,,,False,光電系,EO1004A,1,全英班,"計算機程式
+COMPUTER PROGRAMMING",3,期,True,50,1,28,22,林元堯,"四2,3,4(圖IL PC03)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['半導體設備工程學程', '金融工程學程', '自然科學之程式應用學程', '計算物理及人工智慧微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO1011&Crsname=光電科技前沿,,,False,光電系,EO1011,1,不分班,"光電科技前沿
+FRONTIER OPTOELECTRONIC TECHNOLOGY",2,期,False,50,0,47,3,洪勇智,"四6,7(工EC 4039)","['', '', '', '67', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO1043&Crsname=光纖通信導論,,,False,光電系,EO1043,3,不分班,"光纖通信導論
+INTRODUCTION TO FIBER-OPTIC COMMUNICATIONS",3,期,False,50,3,8,42,魏嘉建,"四2,3,4(工EC 4038)","['', '', '', '234', '', '', '']",《講授類》,['太空科技微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO1050&Crsname=顯示器導論,異動,增加合授教師8/9,False,光電系,EO1050,4,不分班,"顯示器導論
+INTRODUCTION TO FLAT PANEL DISPLAYS",3,期,False,50,0,26,24,"林宗賢,張美,黃文堯","四2,3,4(國IR 3002)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO1052&Crsname=雷射導論,異動,更換部份時間7/5,False,光電系,EO1052,4,不分班,"雷射導論
+INTRODUCTION TO LASER",3,期,False,50,0,10,40,洪裕涵,"二6,7,8(國IR 3002)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO1053&Crsname=半導體物理,異動,更換教室及調整名額9/9,False,光電系,EO1053,4,不分班,"半導體物理
+SEMICONDUCTOR PHYSICS",3,期,False,60,6,50,10,李炫錫,"一2,3,4(工EC 1001)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['矽光子微學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO154&Crsname=半導體奈米元件製造技術,,,False,光電系,EO154,4,不分班,"半導體奈米元件製造技術
+MANUFACTURING TECHNOLOGY OF SEMICONDUCTOR FOR NANO DEVICE",3,期,False,25,20,25,0,張鼎張,"一C,D,E(理PH 2006)","['CDE', '', '', '', '', '', '']","《講授類》
+1.不計入碩士班畢業學分數。2.與物理系併班上課。","['矽光子微學程', '半導體製程模組學程', '類比射頻IC設計學程', '半導體設備工程學程', '量子材料微學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2011&Crsname=電子學（一）,異動,更換時間8/9,False,光電系,EO2011,2,不分班,"電子學（一）
+ELECTRONICS (I)",3,期,True,50,2,37,13,王俊達,"三2,3,4(國IR 3002)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體設備工程學程', '半導體製程模組學程', '類比射頻IC設計學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2011A&Crsname=電子學（一）,異動,更換時間8/9,False,光電系,EO2011A,2,全英班,"電子學（一）
+ELECTRONICS (I)",3,期,True,50,0,22,28,王俊達,"三2,3,4(國IR 3002)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體設備工程學程', '半導體製程模組學程', '類比射頻IC設計學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2012&Crsname=電子學實驗（一）,,,False,光電系,EO2012,2,不分班,"電子學實驗（一）
+ELECTRONICS LABORATORY (I)",1,期,True,50,0,26,24,王俊達,"五2,3,4(工EC 6023)(實驗)","['', '', '', '', '234', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2012A&Crsname=電子學實驗（一）,,,False,光電系,EO2012A,2,全英班,"電子學實驗（一）
+ELECTRONICS LABORATORY (I)",1,期,True,50,0,22,28,王俊達,"五2,3,4(工EC 6023)(實驗)","['', '', '', '', '234', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2013&Crsname=工程數學（二）,,,False,光電系,EO2013,2,不分班,"工程數學（二）
+ENGINEERING MATHEMATICS (II)",3,期,True,50,0,35,15,林煒淳,"一2,3,4(工EC 4012)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體製程模組學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2013A&Crsname=工程數學（二）,,,False,光電系,EO2013A,2,全英班,"工程數學（二）
+ENGINEERING MATHEMATICS (II)",3,期,True,50,0,22,28,林煒淳,"一2,3,4(工EC 4012)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體製程模組學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2014&Crsname=電磁學（一）,,,False,光電系,EO2014,2,不分班,"電磁學（一）
+ELECTROMAGNETICS (I)",3,期,True,50,0,37,13,洪勇智,"四2,3,4(工EC 4012)","['', '', '', '234', '', '', '']",《講授類》,['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2014A&Crsname=電磁學（一）,,,False,光電系,EO2014A,2,全英班,"電磁學（一）
+ELECTROMAGNETICS (I)",3,期,True,50,0,23,27,王耀霆,"二5,6,7(國IR 3003)","['', '567', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2015&Crsname=幾何光學,異動,更換時間8/9,False,光電系,EO2015,2,不分班,"幾何光學
+GEOMETRICAL OPTICS",3,期,True,50,0,33,17,林宗賢,"二2,3,4(國IR 3003)","['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2015A&Crsname=幾何光學,異動,更換時間8/9,False,光電系,EO2015A,2,全英班,"幾何光學
+GEOMETRICAL OPTICS",3,期,True,50,0,23,27,林宗賢,"二2,3,4(國IR 3003)","['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2022&Crsname=物理光學實驗,,,False,光電系,EO2022,3,不分班,"物理光學實驗
+PHYSICAL OPTICS LABORATORY",1,期,True,50,0,50,0,林宗賢,"三5,6,7(工EC 4008)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2029&Crsname=光電科技與工程倫理,,,False,光電系,EO2029,2,不分班,"光電科技與工程倫理
+PHOTONIC TECHNOLOGY AND ENGINEERING ETHICS",1,期,True,50,0,25,25,王耀霆,一5(工EC 4012),"['5', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EO2029A&Crsname=光電科技與工程倫理,,,False,光電系,EO2029A,2,全英班,"光電科技與工程倫理
+PHOTONIC TECHNOLOGY AND ENGINEERING ETHICS",1,期,True,50,0,23,27,王耀霆,一5(工EC 4012),"['5', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
