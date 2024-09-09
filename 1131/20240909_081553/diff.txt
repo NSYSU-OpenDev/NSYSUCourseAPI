@@ -1,0 +1,18 @@
+Value of root[583]['selected'] changed from 43 to 42.
+Value of root[583]['remaining'] changed from 7 to 8.
+Value of root[584]['selected'] changed from 45 to 44.
+Value of root[584]['remaining'] changed from 5 to 6.
+Value of root[590]['selected'] changed from 50 to 49.
+Value of root[590]['remaining'] changed from 0 to 1.
+Value of root[1149]['changeDescription'] changed from "更換主授教師8/22" to "更換教室9/9".
+Value of root[1149]['room'] changed from "三2,3,4(社SS 1003)" to "三2,3,4(社SS 2001)".
+Value of root[1773]['selected'] changed from 50 to 49.
+Value of root[1773]['remaining'] changed from 0 to 1.
+Value of root[1775]['selected'] changed from 51 to 50.
+Value of root[1775]['remaining'] changed from 9 to 10.
+Value of root[1821]['selected'] changed from 21 to 20.
+Value of root[1821]['remaining'] changed from 29 to 30.
+Value of root[1823]['selected'] changed from 28 to 27.
+Value of root[1823]['remaining'] changed from 22 to 23.
+Value of root[2389]['selected'] changed from 12 to 11.
+Value of root[2389]['remaining'] changed from 38 to 39.
