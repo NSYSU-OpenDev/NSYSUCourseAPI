@@ -1,0 +1,4 @@
+Value of root[1247]['description'] changed from "《講授類》" to "《講授類》
+英語授課".
+Value of root[1633]['selected'] changed from 35 to 34.
+Value of root[1633]['remaining'] changed from 35 to 36.
