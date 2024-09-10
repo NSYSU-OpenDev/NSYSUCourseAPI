@@ -1,0 +1,38 @@
+Item root[772] removed from iterable.
+Item root[1284] removed from iterable.
+Item root[1691] removed from iterable.
+Item root[2662] removed from iterable.
+Type of root[720]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[720]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/10".
+Type of root[1120]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1120]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/10".
+Type of root[1139]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1139]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室及時段9/10".
+Type of root[1547]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1547]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/10".
+Value of root[82]['select'] changed from 12 to 11.
+Value of root[82]['selected'] changed from 25 to 26.
+Value of root[82]['remaining'] changed from 0 to -1.
+Value of root[224]['select'] changed from 7 to 5.
+Value of root[224]['selected'] changed from 5 to 8.
+Value of root[224]['remaining'] changed from 0 to -3.
+Value of root[257]['select'] changed from 7 to 6.
+Value of root[257]['selected'] changed from 2 to 4.
+Value of root[257]['remaining'] changed from 8 to 6.
+Value of root[281]['room'] changed from "一2,3,4(工EC 3012)" to "一2,3,4(工EC 6019)".
+Value of root[553]['select'] changed from 7 to 5.
+Value of root[553]['selected'] changed from 8 to 10.
+Value of root[553]['remaining'] changed from 42 to 40.
+Value of root[720]['room'] changed from "一2,3,4(工EC 3012)" to "一2,3,4(工EC 6019)".
+Value of root[1120]['room'] changed from "一5,6,7(社SS 3005)" to "一5,6,7(社SS 3001)".
+Value of root[1139]['room'] changed from "一1,A,B(社SS 1006)" to "四1,A,B(社SS 3005)".
+Value of root[1190]['select'] changed from 6 to 5.
+Value of root[1190]['selected'] changed from 24 to 25.
+Value of root[1190]['remaining'] changed from 26 to 25.
+Value of root[1533]['change'] changed from "新增" to "異動".
+Value of root[1533]['changeDescription'] changed from "8/27" to "變更授課方式9/10".
+Value of root[1533]['description'] changed from "《講授類》" to "《講授類》
+英語授課".
+Value of root[1547]['room'] changed from "一2,3,4(工EC 6019)" to "一2,3,4(工EC 8037)".
+Value of root[1665]['changeDescription'] changed from "取消合授教師7/16" to "更換教室9/10".
+Value of root[1665]['room'] changed from "一2,3,4(國IR 2008)" to "一2,3,4(國IR 3003)".
