@@ -1,0 +1,23 @@
+Item root[1658]['classTime'][0] added to iterable.
+Item root[1658]['classTime'][3] added to iterable.
+Item root[1658]['classTime'][4] added to iterable.
+Item root[1658]['classTime'][2] removed from iterable.
+Repetition change for item root[1658]['classTime'][0].
+Type of root[929]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[929]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/10".
+Type of root[930]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[930]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/10".
+Type of root[1658]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1658]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間9/10".
+Value of root[7]['select'] changed from 9 to 2.
+Value of root[860]['room'] changed from "四6,7(工EC 4039)" to "四6,7(工EC 2006)".
+Value of root[874]['changeDescription'] changed from "更換時間8/9" to "更換教室9/10".
+Value of root[874]['room'] changed from "二2,3,4(國IR 3003)" to "二2,3,4(國IR 3002)".
+Value of root[875]['changeDescription'] changed from "更換時間8/9" to "更換教室9/10".
+Value of root[875]['room'] changed from "二2,3,4(國IR 3003)" to "二2,3,4(國IR 3002)".
+Value of root[929]['room'] changed from "一2,3,4(管CM 1037)" to "一2,3,4(管CM 0052)".
+Value of root[930]['room'] changed from "一2,3,4(管CM 1037)" to "一2,3,4(管CM 0052)".
+Value of root[1555]['room'] changed from "一5,6,7(工EC 3005)" to "一5,6,7(工EC 3002)".
+Value of root[1658]['room'] changed from "三5,6,7(國IR 3002)" to "一1(國IR 3002) 四1(國IR 3002) 五1(國IR 3002)".
+Value of root[1888]['changeDescription'] changed from "更換授課方式8/27" to "更換教室9/10".
+Value of root[1888]['room'] changed from "二6,7,8(管CM 3035)" to "二6,7,8(管CM 2023)".
