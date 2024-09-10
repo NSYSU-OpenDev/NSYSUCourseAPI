@@ -1,0 +1,34 @@
+Type of root[799]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[799]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/10".
+Type of root[1555]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1555]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/10".
+Type of root[1579]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1579]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間9/10".
+Type of root[1733]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1733]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/10".
+Type of root[1851]['change'] changed from str to NoneType and value changed from "異動" to None.
+Type of root[1851]['changeDescription'] changed from str to NoneType and value changed from "更換時間8/22" to None.
+Value of root[193]['selected'] changed from 59 to 58.
+Value of root[193]['remaining'] changed from 41 to 42.
+Value of root[416]['select'] changed from 2 to 3.
+Value of root[416]['selected'] changed from 21 to 20.
+Value of root[416]['remaining'] changed from 29 to 30.
+Value of root[524]['select'] changed from 2 to 3.
+Value of root[524]['selected'] changed from 22 to 21.
+Value of root[524]['remaining'] changed from 28 to 29.
+Value of root[799]['room'] changed from "二2,3,4(工EC 2006)" to "二2,3,4(工EN 3021)".
+Value of root[1083]['selected'] changed from 38 to 37.
+Value of root[1083]['remaining'] changed from 12 to 13.
+Value of root[1085]['selected'] changed from 41 to 40.
+Value of root[1085]['remaining'] changed from 9 to 10.
+Value of root[1087]['selected'] changed from 44 to 43.
+Value of root[1087]['remaining'] changed from 1 to 2.
+Value of root[1089]['selected'] changed from 46 to 45.
+Value of root[1089]['remaining'] changed from 4 to 5.
+Value of root[1421]['room'] changed from "一5,6,7(理SC 1003)" to "一5,6,7(理SC 0009)".
+Value of root[1479]['selected'] changed from 147 to 146.
+Value of root[1479]['remaining'] changed from 3 to 4.
+Value of root[1579]['room'] changed from "一8,9(工EN 4070) 二9(工EN 4070)" to "一9(工EN 4070) 二8,9(工EN 4070)".
+Value of root[1733]['room'] changed from "一5,6,7(工EC 5026)" to "一5,6,7(工EC 5007)".
+Value of root[2319]['selected'] changed from 27 to 26.
+Value of root[2319]['remaining'] changed from 23 to 24.
