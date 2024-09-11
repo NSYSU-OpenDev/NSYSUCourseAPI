@@ -1,0 +1,3 @@
+Item root[2485] added to iterable.
+Value of root[613]['room'] changed from "一4(理SC 3004) 三3,4(理SC 3004)" to "一4(理SC 3003-2) 三3,4(理SC 3003-2)".
+Value of root[2432]['room'] changed from "二2(理SC 0012)" to "二2(理SC 3004)".
