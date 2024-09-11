@@ -1,0 +1,74 @@
+Item root[1853]['classTime'][0] added to iterable.
+Item root[1853]['classTime'][1] removed from iterable.
+Type of root[408]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[408]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[576]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[576]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[625]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[625]['changeDescription'] changed from NoneType to str and value changed from None to "調整限修人數9/11".
+Type of root[630]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[630]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[884]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[884]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[940]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[940]['changeDescription'] changed from NoneType to str and value changed from None to "調整限修人數9/11".
+Type of root[1132]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1132]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[1422]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1422]['changeDescription'] changed from NoneType to str and value changed from None to "調整限修人數".
+Type of root[1853]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1853]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室9/11".
+Type of root[2432]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2432]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[2610]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2610]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Value of root[197]['selected'] changed from 41 to 40.
+Value of root[197]['remaining'] changed from 9 to 10.
+Value of root[200]['selected'] changed from 33 to 32.
+Value of root[200]['remaining'] changed from 37 to 38.
+Value of root[408]['room'] changed from "二6,7,8(文LA 4003)" to "二6,7,8(文LA 2004)".
+Value of root[576]['room'] changed from "五2,3,4(理SC 3001)" to "五2,3,4(理BI 6005)".
+Value of root[613]['changeDescription'] changed from "更換部份時間8/5" to "更換教室9/11".
+Value of root[625]['restrict'] changed from 140 to 170.
+Value of root[625]['remaining'] changed from 3 to 33.
+Value of root[630]['room'] changed from "五2,3,4(理SC 0012)" to "五2,3,4(理SC 3001)".
+Value of root[884]['room'] changed from "五2,3,4(理SC 0012)" to "五2,3,4(理SC 3001)".
+Value of root[912]['change'] changed from "新增" to "異動".
+Value of root[912]['changeDescription'] changed from "8/30" to "更換時間9/11".
+Value of root[912]['room'] changed from "一1() 二1() 三1()" to "三1() 四1() 五1()".
+Value of root[940]['restrict'] changed from 50 to 60.
+Value of root[940]['remaining'] changed from 0 to 10.
+Value of root[1132]['room'] changed from "三5,6,7(社SS 1005)" to "三5,6,7(社SS 3005)".
+Value of root[1239]['selected'] changed from 32 to 31.
+Value of root[1239]['remaining'] changed from 8 to 9.
+Value of root[1240]['selected'] changed from 31 to 30.
+Value of root[1240]['remaining'] changed from 19 to 20.
+Value of root[1241]['selected'] changed from 20 to 19.
+Value of root[1241]['remaining'] changed from 30 to 31.
+Value of root[1242]['selected'] changed from 18 to 17.
+Value of root[1242]['remaining'] changed from 32 to 33.
+Value of root[1243]['selected'] changed from 33 to 32.
+Value of root[1243]['remaining'] changed from 17 to 18.
+Value of root[1409]['changeDescription'] changed from "更換教室9/9" to "調整限修人數9/11".
+Value of root[1409]['restrict'] changed from 50 to 70.
+Value of root[1409]['remaining'] changed from 0 to 20.
+Value of root[1422]['restrict'] changed from 60 to 80.
+Value of root[1422]['remaining'] changed from 0 to 20.
+Value of root[1853]['room'] changed from "二6,7,8(管CM 2032)" to "一2,3,4(管CM 2029)".
+Value of root[2272]['changeDescription'] changed from "調降名額7/15" to "更換教室9/11".
+Value of root[2272]['room'] changed from "二2,3,4(工EC 4037)" to "二2,3,4(工EC 4039)".
+Value of root[2281]['selected'] changed from 56 to 55.
+Value of root[2281]['remaining'] changed from 4 to 5.
+Value of root[2282]['selected'] changed from 56 to 55.
+Value of root[2282]['remaining'] changed from 4 to 5.
+Value of root[2513]['selected'] changed from 11 to 10.
+Value of root[2513]['remaining'] changed from 39 to 40.
+Value of root[2593]['selected'] changed from 17 to 16.
+Value of root[2593]['remaining'] changed from -2 to -1.
+Value of root[2596]['selected'] changed from 16 to 15.
+Value of root[2596]['remaining'] changed from -1 to 0.
+Value of root[2597]['selected'] changed from 7 to 6.
+Value of root[2597]['remaining'] changed from 13 to 14.
+Value of root[2599]['selected'] changed from 7 to 6.
+Value of root[2599]['remaining'] changed from 23 to 24.
+Value of root[2610]['room'] changed from "二2,3,4(工EC 4037)" to "二2,3,4(工EC 4039)".
