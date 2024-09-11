@@ -1,0 +1,52 @@
+Value of root[193]['selected'] changed from 58 to 57.
+Value of root[193]['remaining'] changed from 42 to 43.
+Value of root[194]['selected'] changed from 84 to 80.
+Value of root[194]['remaining'] changed from 16 to 20.
+Value of root[201]['selected'] changed from 55 to 51.
+Value of root[201]['remaining'] changed from 15 to 19.
+Value of root[1021]['selected'] changed from 49 to 46.
+Value of root[1021]['remaining'] changed from 1 to 4.
+Value of root[1022]['selected'] changed from 42 to 39.
+Value of root[1022]['remaining'] changed from 8 to 11.
+Value of root[1023]['selected'] changed from 50 to 47.
+Value of root[1023]['remaining'] changed from 0 to 3.
+Value of root[1024]['selected'] changed from 44 to 41.
+Value of root[1024]['remaining'] changed from 6 to 9.
+Value of root[1025]['selected'] changed from 45 to 42.
+Value of root[1025]['remaining'] changed from 5 to 8.
+Value of root[1083]['selected'] changed from 37 to 36.
+Value of root[1083]['remaining'] changed from 13 to 14.
+Value of root[1085]['selected'] changed from 40 to 39.
+Value of root[1085]['remaining'] changed from 10 to 11.
+Value of root[1087]['selected'] changed from 43 to 42.
+Value of root[1087]['remaining'] changed from 2 to 3.
+Value of root[1089]['selected'] changed from 45 to 44.
+Value of root[1089]['remaining'] changed from 5 to 6.
+Value of root[1852]['description'] changed from "《講授類》
+限本所碩士班學生選修" to "《講授類》
+限本所碩士班學生選修；英語授課".
+Value of root[2030]['selected'] changed from 5 to 4.
+Value of root[2030]['remaining'] changed from 45 to 46.
+Value of root[2035]['selected'] changed from 8 to 7.
+Value of root[2035]['remaining'] changed from 42 to 43.
+Value of root[2036]['selected'] changed from 5 to 4.
+Value of root[2036]['remaining'] changed from 45 to 46.
+Value of root[2037]['selected'] changed from 21 to 20.
+Value of root[2037]['remaining'] changed from 29 to 30.
+Value of root[2047]['room'] changed from "二2,3,4(社SS 3010-2)" to "二2,3,4(社SS 3008)".
+Value of root[2048]['room'] changed from "二2,3,4(社SS 3010-1)" to "二2,3,4(社SS 3010-2)".
+Value of root[2054]['room'] changed from "四5,6,7(社SS 3010-2)" to "四5,6,7(社SS 3008)".
+Value of root[2056]['room'] changed from "三2,3,4(社SS 3008)" to "三2,3,4(社SS 3010-2)".
+Value of root[2340]['description'] changed from "《講授類》
+限本所碩專班學生選修" to "《講授類》
+限本所碩專班學生選修；英語授課".
+Value of root[2739]['selected'] changed from 8 to 7.
+Value of root[2739]['remaining'] changed from 42 to 43.
+Value of root[2740]['selected'] changed from 21 to 20.
+Value of root[2740]['remaining'] changed from 29 to 30.
+Value of root[2741]['selected'] changed from 21 to 20.
+Value of root[2741]['remaining'] changed from 29 to 30.
+Value of root[2746]['room'] changed from "二2,3,4(社SS 3010-2)" to "二2,3,4(社SS 3008)".
+Value of root[2747]['room'] changed from "二2,3,4(社SS 3010-1)" to "二2,3,4(社SS 3010-2)".
+Value of root[2752]['room'] changed from "四5,6,7(社SS 3010-2)" to "四5,6,7(社SS 3008)".
+Value of root[2754]['room'] changed from "三2,3,4(社SS 3008)" to "三2,3,4(社SS 3010-2)".
