@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL192&Crsname=華文文學與性別文化（一）,,,False,中文系,CL192,3,不分班,"華文文學與性別文化（一）
+CHINESE LITERATURE AND GENDER CULTURES (I)",3,期,False,50,3,20,30,黃資婷,"五2,3,4(文LA 4003)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL201&Crsname=中國文學史（一）,,,False,中文系,CL201,2,不分班,"中國文學史（一）
+HISTORY OF CHINESE LITERATURE(I)",3,期,True,50,2,43,7,陳秋宏,"三5,6,7(文LA 2004)","['', '', '567', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL205&Crsname=詩選及習作（一）,,,True,中文系,CL205,2,不分班,"詩選及習作（一）
+READING IN CHINESE CLASSICAL POETRY SHIH(I)",3,期,True,30,1,11,19,陳秋宏,"三2,3,4(文LA 4002)","['', '', '234', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL205A&Crsname=詩選及習作（一）,,,True,中文系,CL205A,2,不分班,"詩選及習作（一）
+READING IN CHINESE CLASSICAL POETRY SHIH(I)",3,期,True,30,1,29,1,林孜曄,"一2,3,4(文LA 4002)","['234', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL207&Crsname=歷代文選及習作（一）,,,True,中文系,CL207,2,不分班,"歷代文選及習作（一）
+READING IN CHINESE CLASSICAL PROSE(I)",3,期,True,30,3,23,7,鍾志偉,"一5,6,7(文LA 4002)","['567', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL207A&Crsname=歷代文選及習作（一）,,,True,中文系,CL207A,2,不分班,"歷代文選及習作（一）
+READING IN CHINESE CLASSICAL PROSE(I)",3,期,True,30,0,22,8,吳孟謙,"三2,3,4(文LA 4003)","['', '', '234', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL227&Crsname=老子,,,False,中文系,CL227,2,不分班,"老子
+LAO-TZ'U",3,期,False,50,5,17,33,張屏生,"一5,6,7(文LA 4001)","['567', '', '', '', '', '', '']",《講授類》,['國際漢學微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL267&Crsname=經學概論（二）,異動,更換教室8/30,False,中文系,CL267,1,不分班,"經學概論（二）
+INTRODUCTION TO THE CLASSICS (II)",3,期,False,50,1,9,41,黃羽璿,"二6,7,8(文LA 4002)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL303&Crsname=中國思想史（一）,異動,更換教室9/11,False,中文系,CL303,3,不分班,"中國思想史（一）
+HISTORY OF CHINESE THOUGHTS(I)",3,期,True,50,1,50,0,賴錫三,"二6,7,8(文LA 2004)","['', '678', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL307&Crsname=詞曲選及習作（一）,,,True,中文系,CL307,3,不分班,"詞曲選及習作（一）
+READING IN TZ'U & CH'U POETRY(WITH EXERCISE)(I)",3,期,True,30,0,18,12,林芷瑩,"一5,6,7(文LA 4003)","['567', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL307A&Crsname=詞曲選及習作（一）,,,True,中文系,CL307A,3,不分班,"詞曲選及習作（一）
+READING IN TZ'U & CH'U POETRY(WITH EXERCISE)(I)",3,期,True,30,4,29,1,劉昭明,"五6,7,8(文LA 4003)","['', '', '', '', '678', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL320&Crsname=語言教學概論,異動,確認教師7/18,False,中文系,CL320,4,不分班,"語言教學概論
+INTRODUCTION TO LANGUAGE LEARNING AND TEACHING",3,期,False,50,0,7,43,蘇凰蘭,"四2,3,4(文LA 4004)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL330&Crsname=書法（一）,,,False,中文系,CL330,1,不分班,"書法（一）
+CHINESE CALLIGRAPHY(I)",3,期,False,50,5,28,22,楊雅惠,"二5,6,7(文LA 5004)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL342&Crsname=聲韻學,,,False,中文系,CL342,3,不分班,"聲韻學
+CHINESE PHONOLOGY",3,期,True,50,0,50,0,杜佳倫,"一2,3,4(文LA 4003)","['234', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL429&Crsname=生命禮儀,,,False,中文系,CL429,2,不分班,"生命禮儀
+LIFE RITUALS",3,期,False,25,13,14,11,楊濟襄,"一5,6,7(文LA 2004)","['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL439&Crsname=訓詁學,,,False,中文系,CL439,4,不分班,"訓詁學
+EXEGETICS",2,期,True,50,1,41,9,黃羽璿,"三3,4(文LA 4004)","['', '', '34', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL440&Crsname=西方文藝理論（一）,,,False,中文系,CL440,1,不分班,"西方文藝理論（一）
+WESTERN THEORIES OF ART AND CULTURE（I）",3,期,False,50,8,18,32,謝薇娜,"二2,3,4(文LA 4001)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CL448&Crsname=主題策展規畫與實踐,,,False,中文系,CL448,4,不分班,"主題策展規畫與實踐
+CURATING THEMATIC EXHIBITIONS DESIGN AND PRACTICE",3,期,False,50,4,7,43,"杜佳倫,林芷瑩,黃資婷","三5,6,7(文LA 4004)","['', '', '567', '', '', '', '']",《展演》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DFLL105&Crsname=英語口語訓練一（一）,,,True,外文系,DFLL105,1,不分班,"英語口語訓練一（一）
+ENGLISH ORAL TRAINING I(I)",2,期,True,16,0,16,0,李祁芳,"一5,6,7(文LA 3004)","['567', '', '', '', '', '', '']","《講授類》
+限本系學生修習，大一新生統一配課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DFLL105A&Crsname=英語口語訓練一（一）,,,True,外文系,DFLL105A,1,不分班,"英語口語訓練一（一）
+ENGLISH ORAL TRAINING I(I)",2,期,True,16,0,16,0,賴怡芃,"一5,6,7(文LA 3003)","['567', '', '', '', '', '', '']","《講授類》
+限本系學生修習，大一新生統一配課",[],True
