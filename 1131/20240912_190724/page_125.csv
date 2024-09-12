@@ -1,0 +1,65 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE714&Crsname=數位簽章機制與應用,,,False,資工資安博,CSE714,2,不分班,"數位簽章機制與應用
+DIGITAL SIGNATURE SCHEMES AND APPLICATIONS",3,期,True,10,0,2,8,范俊逸,"一6,7,8(工EC 1006)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE715&Crsname=計算機結構,,,False,資工資安博,CSE715,1,不分班,"計算機結構
+COMPUTER ARCHITECTURES",3,期,True,10,0,0,10,李淑敏,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE717&Crsname=書報討論（一）,,,False,資工資安博,CSE717,1,不分班,"書報討論（一）
+SEMINAR I",1,期,True,10,0,1,9,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CSE722&Crsname=資訊安全理論與實務,,,False,資工資安博,CSE722,2,不分班,"資訊安全理論與實務
+INFORMATION SECURITY THEORY AND PRACTICE",3,期,True,10,0,0,10,徐瑞壕,"三2,3,4(工EC 9014)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM705&Crsname=個體經濟分析,,,False,企管博,BM705,1,不分班,"個體經濟分析
+MICROECONOMIC ANALYSIS",3,期,True,50,1,11,39,佘健源,"四2,3,4(管CM 2021)","['', '', '', '234', '', '', '']","《講授類》
+企業管理組;",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM710&Crsname=高等創業管理研究,新增,9/11,False,企管博,BM710,0,不分班,"高等創業管理研究
+RESEARCH IN ADVANCED ENTREPRENEURIAL MANAGEMENT",3,期,False,50,4,0,50,李清潭,"五2,3,4(管CM 2038)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM711&Crsname=高等數量方法（一）,異動,更換授課方式8/14,False,企管博,BM711,1,不分班,"高等數量方法（一）
+ADVANCED QUANTITATIVE METHODS(I)",3,期,True,50,1,10,40,彭聖翔,"四6,7,8(管CM 3035)","['', '', '', '678', '', '', '']","《講授類》
+企業管理組;
+與醫博併班",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM729&Crsname=調查研究（一）,,,False,企管博,BM729,0,不分班,"調查研究（一）
+SURVEY RESEARCH(I)",3,期,False,50,0,3,47,葉淑娟,"四6,7,8(管CM 2021)","['', '', '', '678', '', '', '']","《講授類》
+企業管理組;",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM730&Crsname=永續發展與社會企業,,,False,企管博,BM730,0,不分班,"永續發展與社會企業
+SUSTAINABLE DEVELOPMENT AND SOCIAL ENTERPRISE",3,期,False,50,2,22,28,林晉禾,"五6,7,8(管CM 1032)","['', '', '', '', '678', '', '']","《研討類》
+企業管理組;",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM731&Crsname=行銷管理,,,False,企管博,BM731,0,不分班,"行銷管理
+MARKETING MANAGEMENT",3,期,False,50,2,2,48,黃明新,"四2,3,4(管CM 1026)","['', '', '', '234', '', '', '']","《講授類》
+企業管理組;",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM732&Crsname=高等個體經濟分析(一),,,False,企管博,BM732,0,不分班,"高等個體經濟分析(一)
+SPECIAL TOPICS IN ADVANCED ECONOMICS",3,期,False,50,3,8,42,吳基逞,"五2,3,4(管CM 4078)","['', '', '', '', '234', '', '']","《講授類》
+企業管理組;",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM736&Crsname=消費者行為,,,False,企管博,BM736,0,不分班,"消費者行為
+CONSUMER BEHAVIOR",3,期,False,50,3,4,46,張純端,"四2,3,4(管CM 3022)","['', '', '', '234', '', '', '']","《講授類》
+企業管理組;
+ 
+※英語授課",['行銷管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM749&Crsname=國際競爭策略,新增,8/6,False,企管博,BM749,0,不分班,"國際競爭策略
+INTERNATIONAL COMPETITIVE STRATEGY",3,期,False,50,1,5,45,蔡宗霖,"三5,6,7(管CM 1030)","['', '', '567', '', '', '', '']","《講授類》
+企業管理組;",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM760&Crsname=計量管理最佳化方法與應用,,,False,企管博,BM760,0,不分班,"計量管理最佳化方法與應用
+OPTIMIZATION IN QUANTITATIVE MANAGEMENT",3,期,False,50,0,0,50,黃鋒樟,"三2,3,4(管CM 1026)","['', '', '234', '', '', '', '']","《講授類》
+企業管理組;",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM781&Crsname=高等管理理論,,,False,企管博,BM781,1,不分班,"高等管理理論
+ADVANCED MANAGEMENT THEORY",3,期,True,50,0,7,43,黃明新,"二6,7,8(管CM 2036)","['', '678', '', '', '', '', '']","《講授類》
+經營管理組;
+限DBA",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM782&Crsname=量化研究,,,False,企管博,BM782,1,不分班,"量化研究
+QUANTITATIVE STUDY",3,期,True,50,0,7,43,吳基逞,"二2,3,4(管CM 2036)","['', '234', '', '', '', '', '']","《講授類》
+經營管理組;
+限DBA",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM786&Crsname=國際企業研究,,,False,企管博,BM786,0,不分班,"國際企業研究
+INTERNATIONAL BUSINESS THEORY",3,期,False,50,1,12,38,林晉禾,"五2,3,4(管CM 2036)","['', '', '', '', '234', '', '']","《講授類》
+經營管理組;
+限DBA，國際交流參訪課程",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM788&Crsname=企業經營實務,,,False,企管博,BM788,0,不分班,"企業經營實務
+DISCOURSE ON BUSINESS PRACTICE",3,期,False,50,1,8,42,林豪傑,"二5,6,7(管CM 2036-1)","['', '567', '', '', '', '', '']","《講授類》
+經營管理組;
+限DBA",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM819&Crsname=企業管理專題研討（一）,,,False,企管博,BM819,0,不分班,"企業管理專題研討（一）
+SEMINAR IN BUSINESS MANAGEMENT (Ⅰ)",2,期,False,50,3,7,43,黃鋒樟,"三6,7(管CM 4078)","['', '', '67', '', '', '', '']","《研討類》
+企業管理組;
+與企業管理專題研討（三）併班",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BM836&Crsname=組織學習專題研討,,,False,企管博,BM836,0,不分班,"組織學習專題研討
+SEMINAR IN ORGANIZATIONAL LEARNING",3,期,False,50,0,1,49,林豪傑,"一2,3,4(管CM 2036)","['234', '', '', '', '', '', '']","《研討類》
+經營管理組;
+限DBA",[],False
