@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MUSI659&Crsname=擊樂（三）,,,False,音樂碩,MUSI659,0,不分班,"擊樂（三）
+PERCUSSION（III）",2,期,False,50,0,1,49,鄭雅心,一A() 二A(),"['A', 'A', '', '', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MUSI661&Crsname=擊樂教學,,,False,音樂碩,MUSI661,0,不分班,"擊樂教學
+PERCUSSION PEDAGOGY",2,期,False,50,3,6,44,鄭雅心,"五7,8(文FA 4030)","['', '', '', '', '78', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MUSI687&Crsname=複音音樂分析與再詮釋,,,False,音樂碩,MUSI687,0,不分班,"複音音樂分析與再詮釋
+ANALYSIS AND REINTERPRETATION OF POLYPHONIC MUSIC",2,期,False,50,0,11,39,李思嫺,"二5,6(文FA 6011)","['', '56', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MUSI689&Crsname=進階管弦樂法,,,False,音樂碩,MUSI689,0,不分班,"進階管弦樂法
+ADVANCED ORCHESTRATION",2,期,False,50,0,6,44,李思嫺,"一3,4(文FA 6011)","['34', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MUSI698&Crsname=音樂學術寫作技巧,,,False,音樂碩,MUSI698,0,不分班,"音樂學術寫作技巧
+ACADEMIC WRITING TECHNIQUES FOR MUSIC DISCOURSE",1,期,False,50,0,2,48,"呂承祐,莊孟勳",三A(),"['', '', 'A', '', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL501&Crsname=當代歐陸哲學,,,False,哲學碩,PHIL501,1,不分班,"當代歐陸哲學
+CONTEMPORARY CONTINENTAL PHILOSOPHY",3,期,True,50,1,11,39,宋灝,"二6,7,8(文LA 2009)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL521&Crsname=藝術與哲學,,,False,哲學碩,PHIL521,0,不分班,"藝術與哲學
+ART AND PHILOSOPHY",3,期,False,50,5,10,40,宋灝,"二2,3,4(文LA 2009)","['', '234', '', '', '', '', '']",《講授類》,['跨文化人文思潮與美學微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL523&Crsname=倫理與他者,,,False,哲學碩,PHIL523,0,不分班,"倫理與他者
+ETHICS AND THE OTHER",3,期,False,50,3,4,46,楊婉儀,"四6,7,8(文LA 2009)","['', '', '', '678', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL565&Crsname=政治、主體與普遍性,,,False,哲學碩,PHIL565,0,不分班,"政治、主體與普遍性
+POLITICS SUBJECT AND UNIVERSALITY",3,期,False,50,0,1,49,洪世謙,"三5,6,7(文LA 2009)","['', '', '567', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL570&Crsname=攝影哲學,,,False,哲學碩,PHIL570,0,不分班,"攝影哲學
+PHILOSOPHY OF PHOTOGRAPHY",3,期,False,50,4,2,48,高長空,"三2,3,4(文LA 2009)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL573&Crsname=沙特的《存在與虛無》,,,False,哲學碩,PHIL573,0,不分班,"沙特的《存在與虛無》
+JEAN-PAUL SARTRE’S BEING AND NOTHINGNESS",3,期,False,50,2,0,50,戴遠雄,"一5,6,7(文LA 2009)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL575&Crsname=佛教語文與經典,,,False,哲學碩,PHIL575,0,不分班,"佛教語文與經典
+BUDDHIST LANGUAGES AND CANONICAL TEXTS",3,期,False,50,2,3,47,越建東,"四2,3,4(文LA 2009)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL585&Crsname=哲學教學與實踐,新增,8/7,False,哲學碩,PHIL585,0,不分班,"哲學教學與實踐
+TEACHING AND PRACTICE OF PHILOSOPHY",2,期,False,50,0,0,50,楊婉儀,"三5,6(文LA 2008)","['', '', '56', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL601&Crsname=當代德語哲學與美學專題,,,False,哲學碩,PHIL601,0,不分班,"當代德語哲學與美學專題
+INDEPENDENT STUDIES IN CONTEMPORARY GERMAN PHILOSOPHY AND AESTHETICS",2,期,False,50,0,0,50,宋灝,"三3,4(文LA 2008)","['', '', '34', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL602&Crsname=當代法語哲學與美學專題,,,False,哲學碩,PHIL602,0,不分班,"當代法語哲學與美學專題
+INDEPENDENT STUDIES IN CONTEMPORARY FRENCH PHILOSOPHY AND AESTHETICS",2,期,False,50,0,0,50,楊婉儀,"三1,2(文LA 2008)","['', '', '12', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL605&Crsname=解構的世界圖像與實踐專題,,,False,哲學碩,PHIL605,0,不分班,"解構的世界圖像與實踐專題
+INDEPENDENT STUDIES IN DECONSTRUCTION OF WORLD IMAGE AND PRAXIS",2,期,False,50,0,0,50,洪世謙,"三3,4(文LA 7001)","['', '', '34', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL606&Crsname=佛教與哲學專題,,,False,哲學碩,PHIL606,0,不分班,"佛教與哲學專題
+INDEPENDENT STUDIES IN BUDDHISM AND PHILOSOPHY",2,期,False,50,0,0,50,越建東,"二7,8(文LA 2008)","['', '78', '', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL608&Crsname=歐洲哲學與社會政治批判專題,,,False,哲學碩,PHIL608,0,不分班,"歐洲哲學與社會政治批判專題
+INDEPENDENT STUDIES IN EUROPEAN PHILOSOPHY AND SOCIO-POLITICAL CRITIQUE",2,期,False,50,0,0,50,戴遠雄,"一3,4(文LA 7001)","['34', '', '', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHIL609&Crsname=結構主義、解構與其當代遺產專題,,,False,哲學碩,PHIL609,0,不分班,"結構主義、解構與其當代遺產專題
+INDEPENDENT STUDIES IN STRUCTURALISM, DECONSTRUCTION AND THEIR CONTEMPORARY LEGACIES",2,期,False,50,1,0,50,高長空,"一3,4(文LA 2008)","['34', '', '', '', '', '', '']","《獨立研究》
+限哲學所學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=TA501&Crsname=研究方法,異動,調整主授教師8/6,False,劇藝碩,TA501,1,不分班,"研究方法
+RESEARCH METHODS",3,期,True,50,1,8,42,"黃資絜,曾景濱","二2,3,4(文FA 2012)","['', '234', '', '', '', '', '']",《講授類》,[],False
