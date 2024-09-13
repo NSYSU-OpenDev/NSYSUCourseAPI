@@ -1,0 +1,44 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM916&Crsname=財務管理個案分析,,,False,財管碩專,FM916,0,不分班,"財務管理個案分析
+CASE STUDY IN FINANCIAL MANAGEMENT",3,期,False,50,2,16,34,邱敬貿,"三C,D,E(管CM 1023)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PAM905&Crsname=研究方法,,,False,公事碩專,PAM905,1,不分班,"研究方法
+RESEARCH METHODOLOGY",3,期,True,50,0,27,23,謝政勳,"六2,3,4(管CM 1020)","['', '', '', '', '', '234', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PAM905A&Crsname=研究方法,,,False,公事碩專,PAM905A,1,乙班,"研究方法
+RESEARCH METHODOLOGY",3,期,True,50,1,6,44,謝政勳,"日2,3,4(澎湖)","['', '', '', '', '', '', '234']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PAM907&Crsname=公共政策分析,,,False,公事碩專,PAM907,1,不分班,"公共政策分析
+PUBLIC POLICY ANALYSIS",3,期,False,50,4,35,15,蔡錦昌,"五C,D,E(管CM 1020)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PAM907A&Crsname=公共政策分析,,,False,公事碩專,PAM907A,1,乙班,"公共政策分析
+PUBLIC POLICY ANALYSIS",3,期,False,50,1,8,42,謝旭昇,"五C(澎湖) 六3,4(澎湖)","['', '', '', '', 'C', '34', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PAM908&Crsname=碩士論文,,,False,公事碩專,PAM908,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,1,18,32,指導教授,"六C,D,E(管CM 1035)","['', '', '', '', '', 'CDE', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PAM985&Crsname=公共管理實務個案研討（一）,,,False,公事碩專,PAM985,1,不分班,"公共管理實務個案研討（一）
+CASE STUDIES IN PUBLIC MANAGEMENT PRACTICE（I）",2,期,False,50,13,13,37,謝政勳,"日D,E(澎湖)","['', '', '', '', '', '', 'DE']","《研討類》
+限公事所碩專生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PAM988&Crsname=公共事務與管理,,,False,公事碩專,PAM988,1,不分班,"公共事務與管理
+PUBLIC AFFAIRS AND MANAGEMENT",3,期,True,50,1,26,24,游尚儒,"四C,D,E(管CM 1020)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PAM988A&Crsname=公共事務與管理,,,False,公事碩專,PAM988A,1,乙班,"公共事務與管理
+PUBLIC AFFAIRS AND MANAGEMENT",3,期,True,50,2,4,46,"吳偉寧,游尚儒","日5,6,7(澎湖)","['', '', '', '', '', '', '567']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PAM998&Crsname=公共事務專題研究,異動,更換時間8/7,False,公事碩專,PAM998,2,不分班,"公共事務專題研究
+INDEPENDENT STUDIES IN PUBLIC AFFAIRS",2,期,False,50,3,4,46,"張瓊婷,彭渰雯,林新沛,蔡錦昌","六8,9(澎湖)","['', '', '', '', '', '89', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM901&Crsname=碩士論文,,,False,人管碩專,HRM901,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,2,28,22,指導教授,"日C,D,E()","['', '', '', '', '', '', 'CDE']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM911&Crsname=組織理論與管理,,,False,人管碩專,HRM911,1,不分班,"組織理論與管理
+ORGANIZATION THEORY AND MANAGEMENT",3,期,False,25,2,10,15,陳旻男,"四C,D,E(管CM 3043)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM912&Crsname=組織行為,異動,修改限修條件8/14,False,人管碩專,HRM912,1,不分班,"組織行為
+ORGANIZATIONAL BEHAVIOR",3,期,False,25,1,4,21,王豫萱,"六C,D,E(管CM 3043)","['', '', '', '', '', 'CDE', '']","《講授類》
+限人管所學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM914&Crsname=人力資源研究方法,異動,修正時間8/7,False,人管碩專,HRM914,1,不分班,"人力資源研究方法
+RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT",3,期,False,50,2,38,12,紀乃文,,"['', '', '', '', '', '234', '234']","《講授類》
+限暑假已參與課程者修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM968&Crsname=個案研究方法,,,False,人管碩專,HRM968,2,不分班,"個案研究方法
+CASE STUDY RESEARCH",3,期,False,35,1,7,28,葉致微,"三C,D,E(管CM 1036)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM974&Crsname=應用統計與資料分析,異動,調整名額9/5,False,人管碩專,HRM974,1,不分班,"應用統計與資料分析
+APPLIED STATISTICS AND DATA ANALYSIS",3,期,False,35,11,25,10,李澄賢,"日2,3,4(管CM 3043)","['', '', '', '', '', '', '234']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=HRM976&Crsname=人工智慧在測驗下的相關應用與發展,異動,確認教師8/7,False,人管碩專,HRM976,1,不分班,"人工智慧在測驗下的相關應用與發展
+RELEVANT APPLICATIONS AND DEVELOPMENT OF ARTIFICIAL INTELLIGENCE IN MEASUREMENT",3,期,False,30,1,7,23,鄭怡玲,"六2,3,4(管CM 1036)","['', '', '', '', '', '234', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICM904&Crsname=行銷傳播管理研究方法,,,False,行傳碩專,ICM904,0,不分班,"行銷傳播管理研究方法
+MARKETING COMMUNICATION RESEARCH METHODS",3,期,False,50,1,17,33,王紹蓉,"三C,D,E(管CM 2032)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICM905&Crsname=媒體，文化，與社會,,,False,行傳碩專,ICM905,0,不分班,"媒體，文化，與社會
+MEDIA,CULTURE,AND SOCIETY",3,期,False,50,3,28,22,譚躍,"二C,D,E(管CM 2032)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ICM909&Crsname=碩士論文,,,False,行傳碩專,ICM909,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,0,18,32,指導教授,"六C,D,E(管CM 2032)","['', '', '', '', '', 'CDE', '']",《研討類》,[],False
