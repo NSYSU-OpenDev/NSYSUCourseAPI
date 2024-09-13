@@ -1,0 +1,48 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1103&Crsname=都市環境概論,,,False,人科學程,PIS1103,1,不分班,"都市環境概論
+INTRODUCTION TO URBAN ENVIRONMENT",3,期,False,50,9,25,25,夏晧清,"二2,3,4(西SW 1005)","['', '234', '', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '綠色港市微學程', '都市永續規劃與管理微學程', '碳流資訊盤查與低碳設計微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1213&Crsname=場景設計導論,,,False,人科學程,PIS1213,1,不分班,"場景設計導論
+INTRODUCTION TO SCENE DESIGN",2,期,False,50,4,8,42,李怡賡,"四3,4(文LA 1012)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1302&Crsname=食品科學概論,異動,更換時間7/3,False,人科學程,PIS1302,1,不分班,"食品科學概論
+INTRODUCTION TO FOOD SCIENCE",2,期,False,50,6,46,4,吳長益,"五5,B(理SC 3001)","['', '', '', '', 'B5', '', '']",《講授類》,"['食品安全學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1305&Crsname=營養與藥物安全講座,,,False,人科學程,PIS1305,1,不分班,"營養與藥物安全講座
+SPECIAL LECTURES ON NUTRITION AND MEDICATION SAFETY",2,期,False,60,20,45,15,"廖志中,李景欽","三3,4(海MA 3021)","['', '', '34', '', '', '', '']",《講授類》,"['食品安全學程', '校園預防醫學學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS1306&Crsname=身心健康醫學講座,異動,確認教室8/28,False,人科學程,PIS1306,1,不分班,"身心健康醫學講座
+SPECIAL LECTURES ON PHYSICAL AND MENTAL HEALTH",2,期,False,70,41,57,13,"余靈珊,王文宏","一5,6(通GE 1010)","['56', '', '', '', '', '', '']",《講授類》,['校園預防醫學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS2001&Crsname=跨領域探索,,,False,人科學程,PIS2001,2,不分班,"跨領域探索
+CROSS-DISCIPLINARY EXPLORATION",1,期,True,50,1,33,17,"夏晧清,宋世祥,張淑美,謝如梅",,"['', '', '', '', '', '234567', '234567']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS2002&Crsname=設計思考,,,False,人科學程,PIS2002,2,不分班,"設計思考
+DESIGN THINKING",3,期,True,40,3,34,6,宋世祥,"四5,6,7(西SW 1007)","['', '', '', '567', '', '', '']",《講授類》,"['公民參與微學程', '生態想想微學程', 'STREAM永續發展培力微學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS2003&Crsname=科技創新趨勢與需求探索,,,False,人科學程,PIS2003,1,不分班,"科技創新趨勢與需求探索
+EXPLORATION THE TRENDS OF TECHNICAL INNOVATION AND SOCIAL NEEDS",3,期,True,50,0,36,14,謝如梅,"一6,7,8(西SW 1005)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS2007&Crsname=創意街區發展與設計思考,,,False,人科學程,PIS2007,2,不分班,"創意街區發展與設計思考
+CREATIVE DISTRICT DEVELOPMENT AND DESIGN THINKING",3,期,False,20,4,3,17,宋世祥,"二5,6,7(西SW 1004)","['', '567', '', '', '', '', '']",《講授類》,"['公民參與微學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS2008&Crsname=設計心理學,,,False,人科學程,PIS2008,2,不分班,"設計心理學
+DESIGN PSYCHOLOGY",3,期,False,50,11,19,31,張淑美,"四5,6,7(西SW 1005)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS2011&Crsname=創意設計方法,,,False,人科學程,PIS2011,2,不分班,"創意設計方法
+CREATIVE DESIGN METHODS",3,期,False,25,9,19,6,張淑美,"三5,6,7(西SW 1005)","['', '', '567', '', '', '', '']",《講授類》,"['STREAM永續發展培力微學程', '中文創意跨域應用整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS3002&Crsname=跨領域創新專題（二）,,,False,人科學程,PIS3002,3,不分班,"跨領域創新專題（二）
+INDEPENDENT STUDIES IN CROSS-DISCIPLINARY INNOVATION (2)",3,期,True,50,1,31,19,"張淑美,吳亦昕,夏清,宋世祥,謝如梅","六2,3,4(西SW 1003)","['', '', '', '', '', '234', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PIS4002&Crsname=創新設計或創業專題（二）,,,False,人科學程,PIS4002,4,不分班,"創新設計或創業專題（二）
+INDEPENDENT STUDIES IN INNOVATION AND ENTREPRENEURSHIP (2)",2,期,True,50,0,25,25,"宋世祥,夏清,張淑美,謝如梅,趙可卿","六5,6(西SW 1007)","['', '', '', '', '', '56', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM101&Crsname=習醫之道,,,False,後醫學系,DPBM101,1,不分班,"習醫之道
+ON DOCTORING",0.5,期,True,50,0,21,29,陳彥旭,,"['234', '2', '2', '2', '2', '', '']","《演講/參訪》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM103&Crsname=生物化學,,,False,後醫學系,DPBM103,1,不分班,"生物化學
+BIOCHEMISTRY",2,期,True,50,0,21,29,"徐志文,劉勃佑,孫羽佑,李昇翰,王文宏,莊博凱,趙敏吾,陳亮傑,陳彥旭,陳彥樺",,"['123456789', '234789', '234', '234678', '12567', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM108&Crsname=臨床技能（一）,異動,更換部份時間7/18,False,後醫學系,DPBM108,1,不分班,"臨床技能（一）
+MEDICAL SKILL TRAINING PROGRAM(I)",0.5,年,True,23,0,21,2,王慧婷,,"['', '', '1234', '', '678', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM120&Crsname=大體解剖學,異動,更動部分時間8/27,False,後醫學系,DPBM120,1,不分班,"大體解剖學
+GROSS ANATOMY",4,期,True,50,0,21,29,"柯翠玲,甘祐瑜",,"['12345678', '56', '123456', '123478', '2345678', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM121&Crsname=大體解剖學實驗,,,False,後醫學系,DPBM121,1,不分班,"大體解剖學實驗
+GROSS ANATOMY LABORATORY COURSE",3,期,True,50,0,21,29,"甘祐瑜,柯翠玲",,"['23489', '123456789', '1234567', '34', '678', '', '']","《實驗類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM122&Crsname=醫學生理學導論,,,False,後醫學系,DPBM122,1,不分班,"醫學生理學導論
+INTRODUCTION OF MEDICAL PHYSIOLOGY",1,期,True,50,0,21,29,柯瓊媛,,"['2345678', '34', '37', '278', '34', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=DPBM123&Crsname=藥理學導論,,,False,後醫學系,DPBM123,1,不分班,"藥理學導論
+THE BASIC PRINCIPLE OF PHARMACOLOGY",1,期,True,50,0,21,29,趙敏吾,,"['', '567', '34567', '89', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
