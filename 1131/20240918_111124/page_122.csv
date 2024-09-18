@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS710&Crsname=分子與細胞生物學書報討論（一）,,,True,生科博,BIOS710,1,不分班,"分子與細胞生物學書報討論（一）
+MOLECULAR AND CELL BIOLOGY SEMINAR (I)",1,期,True,50,0,3,47,黃明德,四8(理BI 3001),"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS714&Crsname=生物多樣性書報討論（一）,,,True,生科博,BIOS714,1,不分班,"生物多樣性書報討論（一）
+BIODIVERSITY SEMINAR(I)",1,期,True,50,0,1,49,"江友中,徐芝敏",四8(理BI 2002),"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS810&Crsname=分子與細胞生物學書報討論（三）,,,True,生科博,BIOS810,2,不分班,"分子與細胞生物學書報討論（三）
+MOLECULAR AND CELL BIOLOGY SEMINAR (III)",1,期,True,50,0,7,43,黃明德,四8(理BI 3001),"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=BIOS814&Crsname=生物多樣性書報討論（三）,,,True,生科博,BIOS814,2,不分班,"生物多樣性書報討論（三）
+BIODIVERSITY SEMINAR(III)",1,期,True,50,0,0,50,"江友中,徐芝敏",四8(理BI 2002),"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM701&Crsname=書報討論（五）,異動,更換教室9/11,True,化學博,CHEM701,1,不分班,"書報討論（五）
+SEMINAR (V)",1,期,True,50,0,11,39,林渝亞,二2(理SC 3004),"['', '2', '', '', '', '', '']",《演講/參訪》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM724&Crsname=合成方法專題研究（一）,,,True,化學博,CHEM724,1,不分班,"合成方法專題研究（一）
+INDEPENDENT STUDIES IN SYNTHETIC METHODS(I)",3,期,True,50,0,0,50,張均然,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM728&Crsname=材料化學專題研究（一）,,,True,化學博,CHEM728,1,不分班,"材料化學專題研究（一）
+INDEPENDENT STUDIES IN MATERIALS CHEMISTRY (I)",3,期,True,50,0,0,50,李志聰,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM730&Crsname=金屬簇化學專題研究（一）,,,True,化學博,CHEM730,1,不分班,"金屬簇化學專題研究（一）
+INDEPENDENT STUDIES IN METAL CLUSTERS (I)",3,期,True,50,0,0,50,梁子輝,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM734&Crsname=勻相催化專題研究（一）,,,True,化學博,CHEM734,1,不分班,"勻相催化專題研究（一）
+INDEPENDENT STUDIES IN HOMOGENOUS CATALYSIS（I）",3,期,True,50,0,0,50,梁蘭昌,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM738&Crsname=計算化學專題研究（一）,,,True,化學博,CHEM738,1,不分班,"計算化學專題研究（一）
+INDEPENDENT STUDIES IN COMPUTATIONAL CHEMISTRY (I)",3,期,True,50,1,0,50,邱政超,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM740&Crsname=氣固交互作用專題研究（一）,,,True,化學博,CHEM740,1,不分班,"氣固交互作用專題研究（一）
+INDEPENDENT STUDIES IN GAS/SOLID INTERACTIONS (I)",3,期,True,50,0,0,50,蔣昭明,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM742&Crsname=生物系統固態核磁共振專題研究（一）,,,True,化學博,CHEM742,1,不分班,"生物系統固態核磁共振專題研究（一）
+INDEPENDENT STUDIES IN SOLID STATE NMR OF BIOLOGICAL SYSTEMS (I)",3,期,True,50,0,0,50,丁尚武,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM744&Crsname=奈米力學專題研究（一）,,,True,化學博,CHEM744,1,不分班,"奈米力學專題研究（一）
+INDEPENDENT STUDIES IN NANOSCALE FORCE MEASUREMENT (I)",3,期,True,50,0,1,49,謝淑貞,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM746&Crsname=原子光譜分析專題研究（一）,,,True,化學博,CHEM746,1,不分班,"原子光譜分析專題研究（一）
+INDEPENDENT STUDIES IN ATOMIC SPECTROMETRY(I)",3,期,True,50,1,0,50,克里斯那,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM748&Crsname=有機質譜專題研究（一）,,,True,化學博,CHEM748,1,不分班,"有機質譜專題研究（一）
+INDEPENDENT STUDIES IN ORGANIC MASS SPECTROMETRY (I)",3,期,True,50,0,2,48,謝建台,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM750&Crsname=微量生物分析專題研究（一）,,,True,化學博,CHEM750,1,不分班,"微量生物分析專題研究（一）
+TRACE BIOANALYSIS FOR RESEARCH TRAINING (I)",3,期,True,50,0,1,49,曾韋龍,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM752&Crsname=超微奈米藥物生化環境分析專題研究（一）,,,True,化學博,CHEM752,1,不分班,"超微奈米藥物生化環境分析專題研究（一）
+INDEPENDENT STUDIES IN ULTRA-MICRO RESEARCH FOR NANO-PARTICLE, DRUG, BIOCHEMISTRY AND ENVIRONMENT(I)",3,期,True,50,1,1,49,吳慧芬,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM754&Crsname=無機催化專題研究（一）,,,True,化學博,CHEM754,1,不分班,"無機催化專題研究（一）
+INDEPENDENT STUDIES IN INORGANIC CATALYSIS （I）",3,期,True,50,0,0,50,蔡明利,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM756&Crsname=氣膠與生醫材料科學專題研究（一）,,,True,化學博,CHEM756,1,不分班,"氣膠與生醫材料科學專題研究（一）
+INDEPENDENT STUDIES IN AEROSOLS AND BIOMEDICAL NANOMATERIAL SCIENCES (I)",3,期,True,50,0,0,50,王家蓁,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=CHEM758&Crsname=化學生物學專題研究（一）,,,True,化學博,CHEM758,1,不分班,"化學生物學專題研究（一）
+INDEPENDENT STUDIES IN CHEMICAL BIOLOGY (I)",3,期,True,50,0,0,50,林伯樵,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
