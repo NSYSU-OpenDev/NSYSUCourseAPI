@@ -1,1 +1,0 @@
-Value of root[488]['teacher'] changed from "湯志偉" to "黃詩堯".
