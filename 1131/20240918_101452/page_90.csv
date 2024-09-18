@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS590&Crsname=資訊檢索,,,False,資管碩,MIS590,0,不分班,"資訊檢索
+INTRODUCTION TO INFORMATION RETRIEVAL",3,期,False,50,1,39,11,羅珮綺,"一6,7,8(管CM 4078)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS604&Crsname=專題討論,,,False,資管碩,MIS604,0,不分班,"專題討論
+SEMINAR",3,期,False,50,0,3,47,邱兆民,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《獨立研究》
+『本課程之限修，於加退選2階段開放選修』。限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS604A&Crsname=專題討論,,,False,資管碩,MIS604A,0,不分班,"專題討論
+SEMINAR",3,期,False,50,1,0,50,楊淯程,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《獨立研究》
+『本課程之限修，於加退選2階段開放選修』。限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS604B&Crsname=專題討論,,,False,資管碩,MIS604B,0,不分班,"專題討論
+SEMINAR",3,期,False,50,1,0,50,康藝晃,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《獨立研究》
+『本課程之限修，於加退選2階段開放選修』。限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS604C&Crsname=專題討論,,,False,資管碩,MIS604C,0,不分班,"專題討論
+SEMINAR",3,期,False,50,0,2,48,林耕霈,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《獨立研究》
+『本課程之限修，於加退選2階段開放選修』。限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS604D&Crsname=專題討論,,,False,資管碩,MIS604D,0,不分班,"專題討論
+SEMINAR",3,期,False,50,0,7,43,韓毅,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《獨立研究》
+『本課程之限修，於加退選2階段開放選修』。限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS604E&Crsname=專題討論,,,False,資管碩,MIS604E,0,不分班,"專題討論
+SEMINAR",3,期,False,50,0,1,49,張德民,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《獨立研究》
+『本課程之限修，於加退選2階段開放選修』。限資管所二年級",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM506&Crsname=金融市場理論與實務,,,False,財管碩,FM506,1,不分班,"金融市場理論與實務
+FINANCIAL MARKETS THEORY AND PRACTICE",3,期,False,50,0,46,4,邱敬貿,"一6,7,8(管CM 1023)","['678', '', '', '', '', '', '']",《講授類》,"['金融工程學程', '金融科技學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM510&Crsname=財務管理理論,,,False,財管碩,FM510,1,不分班,"財務管理理論
+FINANCIAL MANAGEMENT THEORIES",3,期,False,50,1,16,34,廖源星,"一2,3,4(管CM 3019)","['234', '', '', '', '', '', '']",《講授類》,"['金融科技學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM517&Crsname=現代投資組合理論與策略,,,False,財管碩,FM517,0,不分班,"現代投資組合理論與策略
+MODERN PORTFOLIO THEORY AND INVESTMENT STRATEGY",3,期,False,50,0,37,13,鄭義,"四2,3,4(管CM 1025)","['', '', '', '234', '', '', '']",《講授類》,"['金融工程學程', '人工智能投資微學程', '金融科技學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM521&Crsname=財務研究方法（一）,異動,更換教室9/2,False,財管碩,FM521,1,不分班,"財務研究方法（一）
+METHODOLOGY FOR FINANCE (I)",3,期,False,50,1,50,0,佘博文,"二2,3,4(管CM 3019)","['', '234', '', '', '', '', '']",《講授類》,['金融科技學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM523&Crsname=選擇權市場理論與策略,,,False,財管碩,FM523,0,不分班,"選擇權市場理論與策略
+OPTIONS MARKETS:THEORY AND STRATEGY",3,期,False,50,0,4,46,鄭義,"三1,2,3(管CM 2026)","['', '', '123', '', '', '', '']","《講授類》
+ 
+※英語授課","['金融工程學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM527&Crsname=證券市場微結構實務,,,False,財管碩,FM527,0,不分班,"證券市場微結構實務
+SECURITIES MARKETS MICROSTRUCTURE PRACTICE",3,期,False,50,1,8,42,"馬黛,邱敬貿","三5,6,7(管CM 2020)","['', '', '567', '', '', '', '']",《講授類》,"['金融工程學程', '金融科技與創新微學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM532&Crsname=財務報表分析與權益評價,,,False,財管碩,FM532,0,不分班,"財務報表分析與權益評價
+FINANCIAL STATEMENT ANALYSIS AND EQUITY VALUATION",3,期,False,50,0,22,28,吳藺芝,"二6,7,8(管CM 2015)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM537&Crsname=投資銀行與法金實務,異動,更換教室9/4,False,財管碩,FM537,0,不分班,"投資銀行與法金實務
+INVESTMENT BANKING AND CORPORATE FINANCING",3,期,False,50,8,50,0,"翁培師,蔡維哲","三5,6,7(管CM 0052)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM541&Crsname=行為財務學的應用,,,False,財管碩,FM541,0,不分班,"行為財務學的應用
+APPLICATIONS OF BEHAVIORAL FINANCE",3,期,False,50,4,24,26,蔡佳芬,"三2,3,4(管CM 2025)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM548&Crsname=企業社會責任,,,False,財管碩,FM548,0,不分班,"企業社會責任
+CORPORATE SOCIAL RESPONSIBILITY",3,期,False,50,4,6,44,封之遠,"四5,6,7(管CM 2026)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM551&Crsname=永續投資與綠色金融創新,,,False,財管碩,FM551,0,不分班,"永續投資與綠色金融創新
+SUSTAINABLE INVESTMENT AND GREEN FINANCE INNOVATION",3,期,False,50,3,17,33,蔡維哲,"五6,7,8(管CM 2015)","['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM552&Crsname=盈餘管理,,,False,財管碩,FM552,0,不分班,"盈餘管理
+EARNINGS MANAGEMENT",3,期,False,50,1,4,46,羅勝議,"五2,3,4(管CM 2020)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=FM601&Crsname=國際財管理論與實務,,,False,財管碩,FM601,0,不分班,"國際財管理論與實務
+INTERNATIONAL FINANCIAL MANAGEMENT",3,期,False,50,0,8,42,蔡秉真,"二5,6,7(管CM 2026)","['', '567', '', '', '', '', '']",《講授類》,[],True
