@@ -1,0 +1,13 @@
+Value of root[552]['select'] changed from 3 to 1.
+Value of root[577]['select'] changed from 1 to 0.
+Value of root[919]['selected'] changed from 50 to 49.
+Value of root[919]['remaining'] changed from 0 to 1.
+Value of root[923]['selected'] changed from 50 to 49.
+Value of root[923]['remaining'] changed from 0 to 1.
+Value of root[928]['selected'] changed from 49 to 48.
+Value of root[928]['remaining'] changed from 1 to 2.
+Value of root[1623]['select'] changed from 2 to 0.
+Value of root[2079]['changeDescription'] changed from "更換時間9/4" to "確認教師9/18".
+Value of root[2079]['teacher'] changed from "謝百淇" to "謝百淇,周珮儀,宋宥賢,張宇慧,張至慶,楊淑晴,陳利銘,馮雅群".
+Value of root[2558]['changeDescription'] changed from "更換時間9/5" to "確認教師9/18".
+Value of root[2558]['teacher'] changed from "謝百淇" to "謝百淇,周珮儀,宋宥賢,施慶麟,林靜慧,楊淑晴,莊雪華,陳利銘".
