@@ -1,0 +1,64 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH438&Crsname=科學計算專題研究,,,False,應數系,MATH438,4,不分班,"科學計算專題研究
+INDEPENDENT STUDIES IN SCIENTIFIC COMPUTING",3,期,False,50,0,1,49,呂宗澤,"五6,7,8(理SC 4027)","['', '', '', '', '678', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH452&Crsname=迴歸分析,,,False,應數系,MATH452,4,不分班,"迴歸分析
+REGRESSION ANALYSIS",3,期,False,50,0,6,44,張中,"一6,7,8(理SC 4009-1)","['678', '', '', '', '', '', '']","《講授類》
+與碩士班併班上課。","['金融工程學程', '巨量資料分析學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH454&Crsname=統計推論,異動,更換教室9/5,False,應數系,MATH454,4,不分班,"統計推論
+STATISTICAL INFERENCE",3,期,False,50,0,0,50,施嘉翰,"二2(理SC 4009-0) 四3,4(理SC 4009-0)","['', '2', '', '34', '', '', '']","《講授類》
+與碩士班併班上課。","['金融工程學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH457&Crsname=數據科學實務與創新,,,False,應數系,MATH457,4,不分班,"數據科學實務與創新
+PRACTICAL AND INNOVATIVE ANALYTICS IN DATA SCIENCE",3,期,False,50,0,2,48,鍾思齊,"一2,3,4(理SC 2004)","['234', '', '', '', '', '', '']","《講授類》
+與碩士班併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH481&Crsname=組合學,異動,更換時間8/28,False,應數系,MATH481,4,不分班,"組合學
+COMBINATORICS",3,期,False,50,0,4,46,王彩蓮,"一6,7,8(理SC 4013)","['678', '', '', '', '', '', '']","《講授類》
+與碩士班併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH491&Crsname=分析導論,異動,更換時間6/26,False,應數系,MATH491,4,不分班,"分析導論
+INTRODUCTION TO ANALYSIS",3,期,False,50,0,3,47,陳志偉,"二3,4,B(理SC 4013)","['', '34B', '', '', '', '', '']","《講授類》
+與碩士班併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=SCI105&Crsname=科學史,,,False,理學院,SCI105,0,不分班,"科學史
+HISTORY OF SCIENCE",2,期,False,45,4,43,2,"郭政育,吳長益,黃毅青","四8,9(理SC 1005)","['', '', '', '89', '', '', '']","《講授類》
+理學院學生：課號SCI105，非理學院學生-跨院通識選修課號：GEAI1219。",['應用數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1003&Crsname=微積分（一）,,,False,電機系,EE1003,1,甲班,"微積分（一）
+CALCULUS(I)",3,期,True,50,0,28,22,陳美如,"四2,3,4(工EC 2011)","['', '', '', '234', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。與物理系併班上課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1003A&Crsname=微積分（一）,,,False,電機系,EE1003A,1,乙班,"微積分（一）
+CALCULUS(I)",3,期,True,50,0,26,24,陳美如,"四2,3,4(工EC 2011)","['', '', '', '234', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。與物理系併班上課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1003B&Crsname=微積分（一）,,,False,電機系,EE1003B,1,全英班,"微積分（一）
+CALCULUS(I)",3,期,True,50,1,60,-10,陳美如,"五2,3,4(理SC 1005)","['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。與物理系英文組、醫科系醫工組併班上課
+※英語授課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1300&Crsname=計算機概論,異動,更換教室9/13,False,電機系,EE1300,1,甲班,"計算機概論
+INTRODUCTION TO COMPUTERS",3,期,True,50,5,50,0,陳伯煒,"五5,6,7(工EC 1001)","['', '', '', '', '567', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲乙班併班上課",['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1300A&Crsname=計算機概論,異動,更換教室9/13,False,電機系,EE1300A,1,乙班,"計算機概論
+INTRODUCTION TO COMPUTERS",3,期,True,50,5,50,0,陳伯煒,"五5,6,7(工EC 1001)","['', '', '', '', '567', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲乙班併班上課",['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1300B&Crsname=計算機概論,異動,更換教室9/12,False,電機系,EE1300B,1,全英班,"計算機概論
+INTRODUCTION TO COMPUTERS",3,期,True,75,4,75,0,翁愷貽,"三2,3,4(工EC 2011)","['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。
+※英語授課",['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1301&Crsname=計算機程式,,,False,電機系,EE1301,1,甲班,"計算機程式
+COMPUTER PROGRAMMING",3,期,True,50,2,45,5,魏家博,"三2,3,4(工EC 2002)","['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲乙班併班上課","['金融工程學程', '軟體工程學程', '自然科學之程式應用學程', '計算物理及人工智慧微學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1301A&Crsname=計算機程式,,,False,電機系,EE1301A,1,乙班,"計算機程式
+COMPUTER PROGRAMMING",3,期,True,50,1,44,6,魏家博,"三2,3,4(工EC 2002)","['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲乙班併班上課","['金融工程學程', '軟體工程學程', '自然科學之程式應用學程', '計算物理及人工智慧微學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1301B&Crsname=計算機程式,,,False,電機系,EE1301B,1,全英班,"計算機程式
+COMPUTER PROGRAMMING",3,期,True,75,1,69,6,魏家博,"四2,3,4(工EC 2010)","['', '', '', '234', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。
+※英語授課","['金融工程學程', '軟體工程學程', '自然科學之程式應用學程', '計算物理及人工智慧微學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1700&Crsname=數位系統設計,,,False,電機系,EE1700,1,甲班,"數位系統設計
+DESIGN OF DIGITAL SYSTEMS",3,期,True,50,0,48,2,李宗哲,"四5,6,7(工EC 2011)","['', '', '', '567', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲乙班併班上課","['數位IC設計學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1700A&Crsname=數位系統設計,,,False,電機系,EE1700A,1,乙班,"數位系統設計
+DESIGN OF DIGITAL SYSTEMS",3,期,True,60,1,32,28,李宗哲,"四5,6,7(工EC 2011)","['', '', '', '567', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。甲乙班併班上課","['數位IC設計學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE1700B&Crsname=數位系統設計,異動,更換教室9/10,False,電機系,EE1700B,1,全英班,"數位系統設計
+DESIGN OF DIGITAL SYSTEMS",3,期,True,80,4,60,20,李宗哲,"一2,3,4(工EC 6019)","['234', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。
+※英語授課","['數位IC設計學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=EE2006&Crsname=電工實驗（一）,,,False,電機系,EE2006,2,甲班,"電工實驗（一）
+ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,0,40,18,"莊豐任,謝耀慶","三2,3,4(工EC 6023)(實驗)","['', '', '234', '', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。",[],False
