@@ -1,0 +1,10 @@
+Item root[1147]['classTime'][1] added to iterable.
+Item root[1147]['classTime'][3] added to iterable.
+Item root[1147]['classTime'][3] removed from iterable.
+Repetition change for item root[1147]['classTime'][0].
+Value of root[99]['select'] changed from 6 to 4.
+Value of root[99]['selected'] changed from 24 to 26.
+Value of root[99]['remaining'] changed from 1 to -1.
+Value of root[1147]['room'] changed from "四5,9(社SS 1003)(實驗)" to "二A(社SS 1003)(實驗) 四5(社SS 1003)(實驗)".
+Value of root[1295]['select'] changed from 1 to 0.
+Value of root[1307]['select'] changed from 2 to 1.
