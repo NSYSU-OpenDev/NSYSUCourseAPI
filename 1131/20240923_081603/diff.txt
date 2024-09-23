@@ -1,0 +1,20 @@
+Item root[1371] removed from iterable.
+Item root[2312] removed from iterable.
+Item root[2435] removed from iterable.
+Item root[2482] removed from iterable.
+Item root[2485] removed from iterable.
+Item root[2487] removed from iterable.
+Item root[2497] removed from iterable.
+Type of root[1006]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1006]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/20".
+Type of root[1022]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1022]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/20".
+Type of root[2630]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2630]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/20".
+Value of root[366]['select'] changed from 2 to 1.
+Value of root[366]['selected'] changed from 44 to 45.
+Value of root[366]['remaining'] changed from 6 to 5.
+Value of root[1003]['changeDescription'] changed from "更換教室8/9" to "更換教室9/20".
+Value of root[1022]['room'] changed from "五5,6,7(管CM 4036)" to "五5,6,7(管CM 3015)".
+Value of root[2489]['description'] changed from "《講授類》" to "《講授類》
+企業管理組;".
