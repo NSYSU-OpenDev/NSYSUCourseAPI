@@ -1,0 +1,77 @@
+Item root[286] removed from iterable.
+Item root[390] removed from iterable.
+Item root[713] removed from iterable.
+Item root[742] removed from iterable.
+Item root[1337] removed from iterable.
+Item root[1340] removed from iterable.
+Item root[1341] removed from iterable.
+Item root[1470] removed from iterable.
+Item root[1482] removed from iterable.
+Item root[1649] removed from iterable.
+Item root[1651] removed from iterable.
+Item root[1699] removed from iterable.
+Item root[1708] removed from iterable.
+Item root[1710] removed from iterable.
+Item root[1713] removed from iterable.
+Item root[1714] removed from iterable.
+Item root[1716] removed from iterable.
+Item root[1717] removed from iterable.
+Item root[1718] removed from iterable.
+Item root[1719] removed from iterable.
+Item root[1720] removed from iterable.
+Item root[1721] removed from iterable.
+Item root[1722] removed from iterable.
+Item root[1723] removed from iterable.
+Item root[1726] removed from iterable.
+Item root[1966] removed from iterable.
+Item root[1972] removed from iterable.
+Item root[1993] removed from iterable.
+Item root[2005] removed from iterable.
+Item root[2019] removed from iterable.
+Item root[2062] removed from iterable.
+Item root[2067] removed from iterable.
+Item root[2133] removed from iterable.
+Item root[2212] removed from iterable.
+Item root[2227] removed from iterable.
+Item root[2408] removed from iterable.
+Item root[2428] removed from iterable.
+Item root[2434] removed from iterable.
+Item root[2435] removed from iterable.
+Item root[2436] removed from iterable.
+Item root[2437] removed from iterable.
+Item root[2438] removed from iterable.
+Item root[2439] removed from iterable.
+Item root[2440] removed from iterable.
+Item root[2442] removed from iterable.
+Item root[2446] removed from iterable.
+Item root[2447] removed from iterable.
+Item root[2448] removed from iterable.
+Item root[2449] removed from iterable.
+Item root[2450] removed from iterable.
+Item root[2452] removed from iterable.
+Item root[2454] removed from iterable.
+Item root[2463] removed from iterable.
+Item root[2524] removed from iterable.
+Item root[2537] removed from iterable.
+Item root[2538] removed from iterable.
+Item root[2539] removed from iterable.
+Item root[2540] removed from iterable.
+Item root[2545] removed from iterable.
+Item root[2564] removed from iterable.
+Item root[2579] removed from iterable.
+Item root[2581] removed from iterable.
+Item root[2582] removed from iterable.
+Item root[2603] removed from iterable.
+Item root[2605] removed from iterable.
+Item root[2729] removed from iterable.
+Item root[2750] removed from iterable.
+Value of root[24]['teacher'] changed from "華語中心兼任教師" to "待聘".
+Value of root[25]['teacher'] changed from "華語中心兼任教師" to "待聘".
+Value of root[26]['teacher'] changed from "華語中心兼任教師" to "待聘".
+Value of root[27]['teacher'] changed from "華語中心兼任教師" to "待聘".
+Value of root[28]['teacher'] changed from "華語中心兼任教師" to "待聘".
+Value of root[29]['teacher'] changed from "華語中心兼任教師" to "待聘".
+Value of root[30]['teacher'] changed from "華語中心兼任教師" to "待聘".
+Value of root[1003]['room'] changed from "四5,6,7(管CM 1025)" to "四5,6,7(管CM 3019)".
+Value of root[1006]['room'] changed from "五2,3,4(管CM 3019)" to "五2,3,4(管CM 3015)".
+Value of root[2623]['room'] changed from "五2,3,4(管CM 3019)" to "五2,3,4(管CM 3015)".
