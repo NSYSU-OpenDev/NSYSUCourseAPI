@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAPA537&Crsname=印太地區的政治與安全,異動,確認教師8/8,False,亞太英語碩程,MAPA537,0,不分班,"印太地區的政治與安全
+POLITICS AND SECURITY IN THE INDO-PACIFIC",3,期,False,50,0,16,34,劉奇峯,"二6,7,8(社SS 4005)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MAPA541&Crsname=國家安全與危機處理,,,False,亞太英語碩程,MAPA541,0,不分班,"國家安全與危機處理
+NATIONAL SECURITY AND CRISIS MANAGEMENT",3,期,False,50,0,11,39,林文程,"五6,7,8(社SS 4005)","['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE503&Crsname=教育統計學研究,,,False,教人全英碩,IGPE503,0,不分班,"教育統計學研究
+STUDIES IN EDUCATIONAL STATISTICS",3,期,False,30,0,2,28,艾玲,"三5,6,7(社SS 3006)","['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課",['政經大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE516&Crsname=教育創新管理,,,False,教人全英碩,IGPE516,0,不分班,"教育創新管理
+MANAGEMENT OF INNOVATION IN EDUCATION",3,期,False,30,0,1,29,艾玲,"二5,6,7(社SS 2004-3)","['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE536&Crsname=教育測驗資料分析(以R軟體操作),新增,8/9,False,教人全英碩,IGPE536,0,不分班,"教育測驗資料分析(以R軟體操作)
+EDUCATIONAL MEASUREMENT DATA ANALYSIS USING R",3,期,False,15,0,3,12,魏如慧,"五6,7,8(社SS 2004-3)","['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE537&Crsname=學習分析,,,False,教人全英碩,IGPE537,0,不分班,"學習分析
+LEARNING ANALYTICS",3,期,False,30,0,5,25,艾玲,"一6,7,8(社SS 2004-3)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE543&Crsname=語言、文化及創造力研究,,,False,教人全英碩,IGPE543,0,不分班,"語言、文化及創造力研究
+RESEARCH INTERSECTING LANGUAGE, CULTURE, AND CREATIVITY",3,期,False,30,0,2,28,紀博善,"二6,7,8(社SS 2002-1)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE552&Crsname=知識創新教育研討,,,False,教人全英碩,IGPE552,0,不分班,"知識創新教育研討
+SPECIAL TOPICS IN KNOWLEDGE CREATION",3,期,False,30,0,4,26,張宇慧,"一3,4,B(社SS 3006)","['34B', '', '', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE558&Crsname=發展心理學研究,,,False,教人全英碩,IGPE558,0,不分班,"發展心理學研究
+RESEARCH IN DEVELOPMENTAL PSYCHOLOGY",3,期,False,20,0,5,15,宋宥賢,"二6,7,8(社SS 2002-2)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE560&Crsname=人工智慧教育,,,False,教人全英碩,IGPE560,0,不分班,"人工智慧教育
+ARTIFICIAL INTELLIGENCE IN EDUCATION",3,期,False,30,0,5,25,陳菁徽,"四2,3,4(社SS 2002-1)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=IGPE601&Crsname=獨立研究,異動,確認合授教師9/20,False,教人全英碩,IGPE601,2,不分班,"獨立研究
+INDEPENDENT STUDIES",3,期,True,5,0,2,3,"艾玲,陳菁徽",一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI507&Crsname=文化創新理論,異動,調升名額7/16,False,社會創新所,ISI507,0,不分班,"文化創新理論
+THEORIES OF CULTURAL INNOVATION",3,期,False,30,0,7,23,楊士奇,"二6,7,8(西SW 1003)","['', '678', '', '', '', '', '']",《講授類》,"['地方敘事與文化設計微學程', '地方敘事與創生學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI514&Crsname=創意城市與社區議題探究,新增,8/14,False,社會創新所,ISI514,0,不分班,"創意城市與社區議題探究
+CREATIVE CITY AND COMMUNITY ISSUES",3,期,False,30,0,9,21,陳德容,"三5,6,7(西SW 1004)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI515&Crsname=鄉村議題與區域發展,新增,8/14,False,社會創新所,ISI515,0,不分班,"鄉村議題與區域發展
+RURAL ISSUES AND REGIONAL DEVELOPMENT",3,期,False,30,0,10,20,陳德容,"四6,7,8(西SW 1004)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI516&Crsname=地方、草根創新與永續轉型,,,False,社會創新所,ISI516,0,不分班,"地方、草根創新與永續轉型
+PLACE AND GRASSROOTS INNOVATIONS FOR SUSTAINABILITY TRANSITIONS",3,期,False,30,0,4,26,賴慧玲,"三2,3,4(西SW 1004)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['公民參與微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI518&Crsname=社會創新場域實作,,,False,社會創新所,ISI518,0,不分班,"社會創新場域實作
+PRACTICE OF SOCIAL INNOVATION",3,期,False,30,0,10,20,"楊士奇,游銘仁,賴慧玲","四2,3,4(西SW 1004)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI521&Crsname=創造力與團隊發展,異動,更換部份時間7/23,False,社會創新所,ISI521,1,不分班,"創造力與團隊發展
+CREATIVITY AND TEAM DEVELOPMENT",3,期,True,30,0,15,15,游銘仁,"五6,7,8(西SW 1004)","['', '', '', '', '678', '', '']",《講授類》,['非營利事業及社會創新微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI522&Crsname=全球與在地永續發展議題探討,,,False,社會創新所,ISI522,1,不分班,"全球與在地永續發展議題探討
+SUSTAINABLE DEVELOPMENT ISSUES IN THE CONTEXT OF GLOBALIZATION",3,期,True,30,1,14,16,"洪世謙,張楊家豪","五2,3,4(西SW 1004)","['', '', '', '', '234', '', '']",《講授類》,"['公民參與微學程', '創新創業微學程', '地方創生與區域治理微學程', '地方創生與永續發展整合學程', '生態想想微學程', 'STREAM永續發展培力微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI623&Crsname=社會創新專題研究（一）,,,False,社會創新所,ISI623,2,不分班,"社會創新專題研究（一）
+INDEPENDENT STUDIES IN SOCIAL INNOVATION（I）",3,期,True,10,0,4,6,游銘仁,"一2,3,4(西SW 1004)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=ISI623A&Crsname=社會創新專題研究（一）,,,False,社會創新所,ISI623A,2,不分班,"社會創新專題研究（一）
+INDEPENDENT STUDIES IN SOCIAL INNOVATION（I）",3,期,True,10,0,4,6,楊士奇,"一5,6,7(西SW 1003)","['567', '', '', '', '', '', '']",《獨立研究》,[],False
