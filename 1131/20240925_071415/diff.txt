@@ -1,4 +1,0 @@
-Item root[253] added to iterable.
-Type of root[517]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[517]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/20".
-Value of root[517]['room'] changed from "一2,3,4(文LA 3015)" to "一2,3,4(文LA 3002)".
