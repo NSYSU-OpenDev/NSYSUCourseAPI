@@ -1,0 +1,3 @@
+Value of root[1497]['selected'] changed from 42 to 41.
+Value of root[1497]['remaining'] changed from 8 to 9.
+Value of root[2203]['description'] changed from "《講授類》" to "《獨立研究》".
