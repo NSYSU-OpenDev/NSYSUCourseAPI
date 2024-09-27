@@ -1,0 +1,6 @@
+Item root[254] added to iterable.
+Value of root[224]['selected'] changed from 1 to 2.
+Value of root[224]['remaining'] changed from 49 to 48.
+Value of root[224]['description'] changed from "《講授類》
+國立成功大學都計系" to "《講授類》
+國立成功大學都市計劃學系".
