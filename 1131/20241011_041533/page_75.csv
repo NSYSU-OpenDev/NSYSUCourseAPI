@@ -10,7 +10,7 @@ REGRESSION ANALYSIS",3,期,False,30,0,14,16,張中,"一6,7,8(理SC 4009-1)","['6
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH516&Crsname=統計推論,異動,更換教室9/5,False,應數碩,MATH516,0,不分班,"統計推論
 STATISTICAL INFERENCE",3,期,False,30,0,10,20,施嘉翰,"二2(理SC 4009-0) 四3,4(理SC 4009-0)","['', '2', '', '34', '', '', '']",《講授類》,"['金融工程學程', '半導體設備工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH523&Crsname=Python與機器學習,,,False,應數碩,MATH523,0,不分班,"Python與機器學習
-MACHINE LEARNING WITH PYTHON",3,期,False,50,0,25,25,張福春,"二5,6,7(理SC 4009-1)","['', '567', '', '', '', '', '']",《講授類》,"['金融工程學程', '半導體設備工程學程']",False
+MACHINE LEARNING WITH PYTHON",3,期,False,50,0,24,26,張福春,"二5,6,7(理SC 4009-1)","['', '567', '', '', '', '', '']",《講授類》,"['金融工程學程', '半導體設備工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH527&Crsname=數值分析,,,False,應數碩,MATH527,0,不分班,"數值分析
 NUMERICAL ANALYSIS",3,期,False,20,0,5,15,黃杰森,"二3,4(理SC 4011) 四5(理SC 4011)","['', '34', '', '5', '', '', '']",《講授類》,"['金融工程學程', '軟體工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH529&Crsname=矩陣計算,異動,確認教師8/9,False,應數碩,MATH529,0,不分班,"矩陣計算
@@ -18,7 +18,7 @@ MATRIX COMPUTATIONS",3,期,False,20,0,14,6,"李宗錂,陳志漢","三3,4(理SC 4
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH536&Crsname=符號計算,,,False,應數碩,MATH536,0,不分班,"符號計算
 SYMBOLIC CONPUTATIONS",3,期,False,20,0,9,11,呂宗澤,"四3(理SC 4011) 五3,4(理SC 4011)","['', '', '', '3', '34', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH555&Crsname=組合學,異動,更換時間8/28,False,應數碩,MATH555,0,不分班,"組合學
-COMBINATORICS",3,期,False,20,0,4,16,王彩蓮,"一6,7,8(理SC 4013)","['678', '', '', '', '', '', '']",《講授類》,[],False
+COMBINATORICS",3,期,False,20,0,3,17,王彩蓮,"一6,7,8(理SC 4013)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH557&Crsname=實變函數論,異動,更換時間9/16,False,應數碩,MATH557,0,不分班,"實變函數論
 REAL ANALYSIS",3,期,False,20,0,1,19,何宗軒,"一3(理SC 4013) 四3,B(理SC 4013)","['3', '', '', '3B', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MATH563&Crsname=代數學,異動,更換時間8/28,False,應數碩,MATH563,0,不分班,"代數學
