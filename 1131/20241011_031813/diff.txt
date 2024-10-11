@@ -1,0 +1,8 @@
+Type of root[1090]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1090]['changeDescription'] changed from NoneType to str and value changed from None to "專簽更換部份時間10/11".
+Type of root[1102]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1102]['changeDescription'] changed from NoneType to str and value changed from None to "專簽調整合授教師10/11".
+Value of root[1094]['changeDescription'] changed from "增加合授教師8/19" to "專簽調整合授教師10/11".
+Value of root[1949]['changeDescription'] changed from "確認教師9/19" to "專簽調整合授教師10/11".
+Value of root[2506]['changeDescription'] changed from "取消合授教師9/19" to "專簽更換教師10/11".
+Value of root[2512]['changeDescription'] changed from "取消合授教師9/19" to "專簽更換教師10/11".
