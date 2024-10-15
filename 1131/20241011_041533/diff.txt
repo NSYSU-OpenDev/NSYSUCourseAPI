@@ -1,8 +1,0 @@
-Item root[1090]['classTime'][4] added to iterable.
-Item root[1090]['classTime'][4] removed from iterable.
-Value of root[1090]['room'] changed from "五7,8(海MB 1005)" to "五8,9(海MB 1005)".
-Value of root[1094]['teacher'] changed from "王亮鈞,廖志中,廖睿妘,張桂祥,李益銘,林秀瑾,水晶,溫志宏,翁靖如,鄭源斌" to "王亮鈞,廖志中,廖睿妘,張桂祥,李益銘,林秀瑾,水晶,翁靖如,鄭源斌".
-Value of root[1102]['teacher'] changed from "李益銘,劉商隱,廖志中,廖睿妘,張桂祥,林梅芳,林秀瑾,溫志宏,王亮鈞,翁靖如" to "李益銘,劉商隱,廖志中,廖睿妘,張桂祥,林梅芳,林秀瑾,王亮鈞,翁靖如".
-Value of root[1949]['teacher'] changed from "溫志宏,李景欽,林梅芳" to "李景欽,林梅芳".
-Value of root[2506]['teacher'] changed from "溫志宏" to "王亮鈞".
-Value of root[2512]['teacher'] changed from "溫志宏" to "王亮鈞".
