@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AF020006&Crsname=高等統計學,,,False,校際(研究所),AF020006,0,不分班,"高等統計學
+ADVANCED STATISTICS",3,期,False,50,0,1,49,校際選課,"二7,8,9()","['', '789', '', '', '', '', '']","《講授類》
+高雄醫學大學心理學系碩士班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AF020007&Crsname=高等電源管理晶片設計與實習,,,False,校際(研究所),AF020007,0,不分班,"高等電源管理晶片設計與實習
+POWER MANAGEMENT IC DESIGNS",3,期,False,50,0,5,45,校際選課,"二5,6,7()","['', '567', '', '', '', '', '']","《講授類》
+國立高雄科技大學半導體工程所",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AF020008&Crsname=資源遙測研究法,,,False,校際(研究所),AF020008,0,不分班,"資源遙測研究法
+METHODOLOGIES OF REMOTE SENSING FOR NATURAL RESOURCES MANAGEMENT",3,期,False,50,0,4,46,校際選課,"五7,8,9()","['', '', '', '', '789', '', '']","《講授類》
+國立嘉義大學森林系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AF020009&Crsname=廢水高級處理技術,,,False,校際(研究所),AF020009,0,不分班,"廢水高級處理技術
+ADVANCED TREATMENT TECHNOLOGY OF WASTEWATER",3,期,False,50,0,1,49,校際選課,"四1,2,3()","['', '', '', '123', '', '', '']","《講授類》
+國立成功大學化工所",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AI10001&Crsname=人工智慧導論,新增,9/4,False,AI聯盟(學),AI10001,4,不分班,"人工智慧導論
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE",3,期,False,45,0,11,34,AI聯盟教師,"四5,6,7(同步遠距線上課程)","['', '', '', '567', '', '', '']","《講授類》
+1.開課單位及教師：成功大學朱威達老師。2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。上課時間：13:10-16:00。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AI50001&Crsname=機器學習,新增,9/4,False,AI聯盟(碩),AI50001,0,不分班,"機器學習
+MACHINE LEARNING",3,期,False,10,0,4,6,AI聯盟教師,"一5,6,7(同步遠距線上課程)","['567', '', '', '', '', '', '']","《講授類》
+1.開課單位及教師：台灣大學林軒田老師。2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。上課時間：13:20-16:20。限大三以上學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AI50002&Crsname=金融科技導論,新增,9/4,False,AI聯盟(碩),AI50002,0,不分班,"金融科技導論
+INTRODUCTION TO FINTECH",3,期,False,45,0,9,36,AI聯盟教師,"三2,3,4(同步遠距線上課程)","['', '', '234', '', '', '', '']","《講授類》
+1.開課單位及教師：台灣大學張智星、陳君明老師。2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。上課時間：9:10-12:10。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AI50003&Crsname=資料探勘與應用,新增,9/4,False,AI聯盟(碩),AI50003,0,不分班,"資料探勘與應用
+DATA MINING: CONCEPTS, TECHNIQUES, AND APPLICATIONS",3,期,False,45,0,2,43,AI聯盟教師,"一2,3,4(同步遠距線上課程)","['234', '', '', '', '', '', '']","《講授類》
+1.開課單位及教師：清華大學陳宜欣老師。2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。上課時間：9:00-12:00。限大三以上學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=AI50004&Crsname=自然語言處理,新增,9/4,False,AI聯盟(碩),AI50004,0,不分班,"自然語言處理
+NATURAL LANGUAGE PROCESSING",3,期,False,45,0,1,44,AI聯盟教師,"二5,6(同步遠距線上課程) 四5(同步遠距線上課程)","['', '56', '', '5', '', '', '']","《講授類》
+1.開課單位及教師：清華大學高宏宇老師。2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。上課時間：星期二 13:20~15:10 及星期四 13:20-14:10。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHY101&Crsname=普通物理學（一）,異動,更換教室9/11,False,普通物理小組,PHY101,1,不分班,"普通物理學（一）
+GENERAL PHYSICS (I)",3,期,True,50,1,31,19,陳龍銘,"一3,4(理PH 2006) 三5(理PH 2006)","['34', '', '5', '', '', '', '']","《講授類》
+本課程與普通物理學演習(一)一起規劃課程, 需與普通物理學演習(一)一起修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHY102&Crsname=普通物理（一）,,,False,普通物理小組,PHY102,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,50,0,40,10,呂浩宇,"三5,6,7(理SC 1003)","['', '', '567', '', '', '', '']","《講授類》
+化學系一年級學生優先選修，本課程無法抵免英語專班普通物理。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHY102A&Crsname=普通物理（一）,異動,更換教室9/16,False,普通物理小組,PHY102A,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,50,1,60,-10,陳宗緯,"三2,3,4(工EC 4012)","['', '', '234', '', '', '', '']","《講授類》
+材光系與光電系一年級學生優先選修，本課程無法抵免英語專班普通物理。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHY102B&Crsname=普通物理（一）,,,False,普通物理小組,PHY102B,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,50,1,77,-27,陳宗緯,"五2,3,4(工EC 3009)","['', '', '', '', '234', '', '']","《講授類》
+電機系一年級學生優先選修，本課程無法抵免英語專班普通物理。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHY102C&Crsname=普通物理（一）,,,False,普通物理小組,PHY102C,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,100,1,60,40,周雄,"一2,3,4(海MA 3020)","['234', '', '', '', '', '', '']","《講授類》
+海科系一、二年級學生優先選修，本課程無法抵免英語專班普通物理。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHY102D&Crsname=普通物理（一）,,,False,普通物理小組,PHY102D,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,100,0,75,25,范越芳,"四5,6,7(海ME 3006)","['', '', '', '567', '', '', '']","《講授類》
+化學系一年級英語專班與海工系一年級學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHY102E&Crsname=普通物理（一）,,,False,普通物理小組,PHY102E,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,60,1,46,14,岩本祥,"三2,3,4(工EC 3006)","['', '', '234', '', '', '', '']","《講授類》
+材光系與光電系一年級英語專班學生優先選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHY102F&Crsname=普通物理（一）,,,False,普通物理小組,PHY102F,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,62,0,71,-9,史丹哲夫,"一5,6,7(工EC 3012)","['567', '', '', '', '', '', '']","《講授類》
+電機系一年級英語專班學生優先選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHY102G&Crsname=普通物理（一）,異動,確認教師8/2,False,普通物理小組,PHY102G,1,不分班,"普通物理（一）
+GENERAL PHYSICS(I)",3,期,True,50,0,35,15,吳紘丞,"三2,3,4(國IR 5002)","['', '', '234', '', '', '', '']","《講授類》
+生醫系一年級學生優先選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHY108&Crsname=普通物理實驗（一）,,,False,普通物理小組,PHY108,1,不分班,"普通物理實驗（一）
+GENERAL PHYSICS LABORATORY (I)",1,期,True,70,0,78,-8,陳易馨,"一5,6,7(理SC0018,理SC0019)(實驗)","['567', '', '', '', '', '', '']","《實驗類》
+物理系、光電系與材光系一年級學生優先選修，本課程無法抵免英語專班普通物理實驗。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHY108A&Crsname=普通物理實驗（一）,異動,更換教師8/19,False,普通物理小組,PHY108A,1,不分班,"普通物理實驗（一）
+GENERAL PHYSICS LABORATORY (I)",1,期,True,70,0,46,24,洪昇廷,"三5,6,7(理SC0018,理SC0019)(實驗)","['', '', '567', '', '', '', '']","《實驗類》
+材光系與光電系一年級英語專班學生優先選修",[],True
