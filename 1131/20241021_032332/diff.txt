@@ -1,0 +1,5 @@
+Item root[433]['classTime'][1] added to iterable.
+Item root[433]['classTime'][1] removed from iterable.
+Value of root[433]['change'] changed from "新增" to "異動".
+Value of root[433]['changeDescription'] changed from "7/23" to "專簽更換時間10/18".
+Value of root[433]['room'] changed from "二3,4,B(西SW 1003)" to "二3,4,A(西SW 1003)".
