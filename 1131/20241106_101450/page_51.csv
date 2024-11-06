@@ -50,6 +50,6 @@ STATISTICS(I)",3,期,True,50,0,51,-1,張德民,"一5,6,7(管CM 3051)","['567', '
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS203&Crsname=資料結構,,,False,資管系,MIS203,2,不分班,"資料結構
 DATA STRUCTURES",3,期,True,50,0,53,-3,李偉柏,"二5,6,7(管CM 3051)","['', '567', '', '', '', '', '']",《講授類》,"['軟體工程學程', '巨量資料分析學程', '金融科技學程', '計算物理及人工智慧微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS301&Crsname=系統分析與設計,異動,確認教師8/15,False,資管系,MIS301,3,不分班,"系統分析與設計
-SYSTEMS ANALYSIS AND DESIGN",3,期,True,50,0,52,-2,李家瑩,"二6,7,8(管CM 4078)","['', '678', '', '', '', '', '']",《講授類》,"['軟體工程學程', '金融科技學程']",False
+SYSTEMS ANALYSIS AND DESIGN",3,期,True,50,0,51,-1,李家瑩,"二6,7,8(管CM 4078)","['', '678', '', '', '', '', '']",《講授類》,"['軟體工程學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS303&Crsname=企業資料通訊,,,False,資管系,MIS303,3,不分班,"企業資料通訊
-BUSINESS DATA COMMUNICATION",3,期,True,55,0,56,-1,林耕霈,"三2,3,4(管CM 4078)","['', '', '234', '', '', '', '']",《講授類》,[],False
+BUSINESS DATA COMMUNICATION",3,期,True,55,0,55,0,林耕霈,"三2,3,4(管CM 4078)","['', '', '234', '', '', '', '']",《講授類》,[],False
