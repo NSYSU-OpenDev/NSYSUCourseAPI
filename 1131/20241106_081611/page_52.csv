@@ -1,8 +1,8 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS311&Crsname=生產與作業管理,異動,更換時間8/26,True,資管系,MIS311,3,不分班,"生產與作業管理
-PRODUCTIONS AND OPERATIONS MANAGEMENT",3,期,True,50,0,10,40,劉賓陽,"一5,6,7(管CM 2016)","['567', '', '', '', '', '', '']",《講授類》,[],False
+PRODUCTIONS AND OPERATIONS MANAGEMENT",3,期,True,50,0,9,41,劉賓陽,"一5,6,7(管CM 2016)","['567', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS312&Crsname=行銷管理,異動,確認教師8/8,True,資管系,MIS312,3,不分班,"行銷管理
-MARKETING MANAGEMENT",3,期,True,50,1,42,8,李家瑩,"二2,3,4(管CM 4069)","['', '234', '', '', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '音樂藝術管理與行銷學程']",False
+MARKETING MANAGEMENT",3,期,True,50,1,41,9,李家瑩,"二2,3,4(管CM 4069)","['', '234', '', '', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '音樂藝術管理與行銷學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS331&Crsname=ＷＥＢ程式設計,,,False,資管系,MIS331,2,不分班,"ＷＥＢ程式設計
 WEB PROGRAMMING",3,期,True,50,12,54,-4,韓毅,"五5,6,7(管CM 3051)","['', '', '', '', '567', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限資管系
@@ -12,7 +12,7 @@ CASE STUDIES IN INFORMATION MANAGEMENT",3,期,True,50,0,56,-6,徐士傑,"二2,3,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS402&Crsname=資管實務專題研討,異動,確認教師8/8,False,資管系,MIS402,4,不分班,"資管實務專題研討
 SEMINAR IN INFORMATION SYSTEM PRACTICE",1,期,True,50,0,55,-5,"徐士傑,李家瑩,邱兆民","四6,7(管CM 4069)","['', '', '', '67', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS413&Crsname=巨量資料分析導論,,,False,資管系,MIS413,3,不分班,"巨量資料分析導論
-INTRODUCTION TO BIG DATA ANALYTICS",3,期,True,50,0,52,-2,康藝晃,"三5,6,7(管CM 3051)","['', '', '567', '', '', '', '']",《講授類》,"['永續能源學程', '智慧製造聯網微學程', '人工智能投資微學程', '金融科技與創新微學程', '金融科技學程', '跨領域智慧製造學程']",False
+INTRODUCTION TO BIG DATA ANALYTICS",3,期,True,50,0,51,-1,康藝晃,"三5,6,7(管CM 3051)","['', '', '567', '', '', '', '']",《講授類》,"['永續能源學程', '智慧製造聯網微學程', '人工智能投資微學程', '金融科技與創新微學程', '金融科技學程', '跨領域智慧製造學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=MIS421&Crsname=管理資訊系統專案（二）,,,True,資管系,MIS421,4,不分班,"管理資訊系統專案（二）
 MANAGEMENT INFORMATION SYSTEMS PROJECT II",3,期,True,50,0,6,44,張德民,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限資管系四年級",[],False
