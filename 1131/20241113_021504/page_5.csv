@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE102L&Crsname=運動與健康：體適能,,,False,運動健康(必),GEPE102L,1,不分班,"運動與健康：體適能
-SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,0,62,-7,李佳倫,"三6,7()","['', '', '67', '', '', '', '']","《體育類》
+SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,0,61,-6,李佳倫,"三6,7()","['', '', '67', '', '', '', '']","《體育類》
 第一堂課請於桌球室集合。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=GEPE102M&Crsname=運動與健康：體適能,,,False,運動健康(必),GEPE102M,1,不分班,"運動與健康：體適能
 SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,0,52,3,羅郁平,"三6,7()","['', '', '67', '', '', '', '']","《體育類》
