@@ -1,0 +1,11 @@
+Value of root[1325]['selected'] changed from 12 to 11.
+Value of root[1325]['remaining'] changed from 38 to 39.
+Value of root[1327]['selected'] changed from 15 to 14.
+Value of root[1327]['remaining'] changed from 35 to 36.
+Value of root[1328]['selected'] changed from 10 to 9.
+Value of root[1328]['remaining'] changed from 40 to 41.
+Value of root[1927]['name'] changed from "企業倫理與社會責任實踐
+"THE PRACTICE OF CORPORATE ETHICS AND SOCIAL RESPONSIBILITY" to "企業倫理與社會責任實踐
+THE PRACTICE OF CORPORATE ETHICS AND SOCIAL RESPONSIBILITY".
+Value of root[2418]['selected'] changed from 9 to 8.
+Value of root[2418]['remaining'] changed from 41 to 42.
