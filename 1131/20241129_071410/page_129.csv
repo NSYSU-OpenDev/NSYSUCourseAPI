@@ -36,10 +36,10 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS203
 MACHANICS(I)",3,期,True,50,1,28,22,黃旭明,"一2,3,4(理PH 1008)","['234', '', '', '', '', '', '']","《講授類》
 此為一般組必修課程，提供全英組學生做為選修課程",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS216&Crsname=電磁學,,,False,物理系,PHYS216,2,全英班,"電磁學
-ELECTROMAGNETISM",3,期,True,50,0,41,9,黃信銘,"一6,7(理PH 1008) 三3(理PH 1008)","['67', '', '3', '', '', '', '']","《講授類》
+ELECTROMAGNETISM",3,期,True,50,0,40,10,黃信銘,"一6,7(理PH 1008) 三3(理PH 1008)","['67', '', '3', '', '', '', '']","《講授類》
 本課程與電磁學演習一起規劃課程, 需與電磁學演習一起修習。此為一般組必修課程，提供全英組學生做為選修課程。",['半導體元件學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS217&Crsname=電磁學演習,,,False,物理系,PHYS217,2,全英班,"電磁學演習
-ELECTROMAGNETISM RECITATION",1,期,False,50,0,37,13,黃信銘,三4(理PH 1008),"['', '', '4', '', '', '', '']","《講授類》
+ELECTROMAGNETISM RECITATION",1,期,False,50,0,36,14,黃信銘,三4(理PH 1008),"['', '', '4', '', '', '', '']","《講授類》
 本課程與電磁學一起規劃課程, 需與電磁學一起修習。此為一般組必修課程，提供全英組學生做為選修課程。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS302&Crsname=光學,新增,8/19,False,物理系,PHYS302,3,全英班,"光學
 OPTICS",3,期,False,50,0,12,38,陳易馨,"一3,4(理PH 5008) 四3(理PH 5008)","['34', '', '', '3', '', '', '']",《講授類》,['半導體製程模組學程'],False
@@ -47,5 +47,5 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS303
 QUANTUM PHYSICS (I)",3,期,True,50,0,47,3,朱家誼,"三7(理PH 1009) 五3,4(理PH 1009)","['', '', '7', '', '34', '', '']","《講授類》
 此為一般組必修課程，提供全英組學生做為選修課程.",['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=1&CrsDat=PHYS305&Crsname=實驗物理學（三）,,,False,物理系,PHYS305,3,全英班,"實驗物理學（三）
-EXPERIMENTAL PHYSICS（III）",3,期,True,30,0,35,-5,黃旭明,"二6,7,8(理SC 2009, 理SC 2010)","['', '678', '', '', '', '', '']","《講授類》
+EXPERIMENTAL PHYSICS（III）",3,期,True,30,0,34,-4,黃旭明,"二6,7,8(理SC 2009, 理SC 2010)","['', '678', '', '', '', '', '']","《講授類》
 此為一般組必修課程，提供全英組學生做為選修課程.",['自然科學之程式應用學程'],False
