@@ -1,5 +1,0 @@
-Value of root[140]['selected'] changed from 35 to 34.
-Value of root[140]['remaining'] changed from 15 to 16.
-Value of root[1378]['name'] changed from "研究方法
-RESEARCH METHODS" to "研究方法
-RESEARCH METHODOLOGIES".
