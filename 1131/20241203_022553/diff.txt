@@ -1,2 +1,0 @@
-Value of root[2409]['changeDescription'] changed from "更換教師8/22" to "專簽更換教師12/3".
-Value of root[2409]['teacher'] changed from "黃韋豪,劉正山,廖達琪,張其祿,曾國祥,楊尚儒,陳宗巖" to "黃韋豪,劉正山,張其祿,曾國祥,楊尚儒,陳宗巖".
