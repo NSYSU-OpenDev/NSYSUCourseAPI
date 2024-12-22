@@ -1,0 +1,33 @@
+name: Deploy Docs to gh-pages
+
+on:
+  push:
+    branches:
+      - main
+
+jobs:
+  deploy:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout code
+        uses: actions/checkout@v4
+
+      - name: Copy docs to gh-pages
+        uses: actions/checkout@v4
+        with:
+          ref: gh-pages
+          path: gh-pages
+      
+      - name: Copy docs
+        run: |
+          mkdir -p gh-pages
+          cp -r docs/* gh-pages/
+      
+      - name: Commit and push changes
+        run: |
+          cd gh-pages
+          git config user.name "GitHub Actions"
+          git config user.email "actions@github.com"
+          git add .
+          git commit -m "Update docs from main branch" || echo "No changes to commit"
+          git push origin gh-pages
