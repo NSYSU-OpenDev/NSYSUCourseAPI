@@ -87,11 +87,26 @@
             padding-bottom: 5px;
             margin-bottom: 10px;
         }
-        footer {
+         footer {
+            display: flex;
+            justify-content: center;
+            align-items: center;
+            gap: 10px;
             text-align: center;
             padding: 10px;
             background-color: #f1f1f1;
             margin-top: 20px;
+        }
+        footer a {
+          display: inline-flex;
+          opacity: 0.6;
+        }
+        footer a:hover {
+          opacity: 1;
+        }
+        footer img {
+            height: 20px;
+            margin-right: 5px;
         }
     </style>
 </head>
@@ -127,7 +142,7 @@
                 <div class="tab">
                     <button class="tab-button active" data-tab="typescript">TypeScript</button>
                     <button class="tab-button" data-tab="python">Python</button>
-                </div>Add some examople usage
+                </div>
                 <div id="typescript" class="tab-content active">
                     <pre><code id="typescript-code" class="language-typescript">export type NSYSUCourse = {
   id: string;
@@ -309,6 +324,9 @@ if __name__ == '__main__':
     </div>
 
     <footer>
+        <a href="https://github.com/whats2000/NSYSUCourseAPI" target="_blank" rel="noopener noreferrer">
+            <img src="https://cdnjs.cloudflare.com/ajax/libs/octicons/8.5.0/svg/mark-github.svg" alt="GitHub" >
+        </a>
         <p>&copy; 2024 NSYSU Course API. All rights reserved.</p>
     </footer>
 
