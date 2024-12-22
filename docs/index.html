@@ -328,6 +328,9 @@ if __name__ == '__main__':
             });
         });
         hljs.highlightAll();
+
+        // Update copy right year based on current year
+        document.querySelector('footer p').textContent = `&copy; ${new Date().getFullYear()} NSYSU Course API. All rights reserved.`;
     </script>
 </body>
 </html>
