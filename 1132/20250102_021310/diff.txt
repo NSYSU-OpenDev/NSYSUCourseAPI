@@ -1,0 +1,8 @@
+Item root[930]['classTime'][5] added to iterable.
+Repetition change for item root[930]['classTime'][0].
+Value of root[930]['multipleCompulsory'] changed from True to False.
+Value of root[930]['teacher'] changed from "待聘" to "陳嘉玫".
+Value of root[930]['room'] changed from "" to "六2,3,4(管CM 1019)".
+Value of root[930]['description'] changed from "《講授類》
+擬申請調整開課學期，請勿加選" to "《講授類》
+限資管系".
