@@ -1,0 +1,5 @@
+Type of root[871]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[871]['changeDescription'] changed from NoneType to str and value changed from None to "1/2".
+Value of root[871]['room'] changed from "三2,3,4(工MS 4022)" to "二2,3,4(工MS 4023)".
+Value of root[930]['multipleCompulsory'] changed from False to True.
+Value of root[2230]['room'] changed from "六5,6(管CM 1035)" to "六5,6(管CM 1020)".
