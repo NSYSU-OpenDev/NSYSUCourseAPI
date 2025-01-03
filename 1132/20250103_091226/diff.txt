@@ -1,0 +1,41 @@
+Item root[14]['classTime'][2] added to iterable.
+Item root[1098]['classTime'][4] added to iterable.
+Item root[2362]['classTime'][3] added to iterable.
+Item root[14]['classTime'][2] removed from iterable.
+Item root[1098]['classTime'][2] removed from iterable.
+Item root[1098]['tags'][0] removed from iterable.
+Item root[2362]['classTime'][1] removed from iterable.
+Item root[9] removed from iterable.
+Item root[315] removed from iterable.
+Type of root[175]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[175]['changeDescription'] changed from NoneType to str and value changed from None to "修正備註內容1/3".
+Type of root[1098]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[1098]['changeDescription'] changed from NoneType to str and value changed from None to "1/3".
+Type of root[1248]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1248]['changeDescription'] changed from NoneType to str and value changed from None to "修正備註內容1/3".
+Type of root[2362]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2362]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室1/3".
+Value of root[14]['room'] changed from "三5,B(社SS 2002-2)" to "三1,A(社SS 2006)".
+Value of root[175]['description'] changed from "《講授類》
+限非光電系學生修習。" to "《講授類》
+限文、管、社學院學學生修習。".
+Value of root[1098]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSS111&Crsname=正向心理學" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PE321&Crsname=國際貿易原理與政策（一）".
+Value of root[1098]['department'] changed from "社科院" to "政經系".
+Value of root[1098]['id'] changed from "CSS111" to "PE321".
+Value of root[1098]['grade'] changed from "0" to "3".
+Value of root[1098]['name'] changed from "正向心理學
+POSITIVE PSYCHOLOGY" to "國際貿易原理與政策（一）
+INTERNATIONAL TRADE:THEORY AND POLICIES(I)".
+Value of root[1098]['credit'] changed from "2" to "3".
+Value of root[1098]['restrict'] changed from 10 to 50.
+Value of root[1098]['remaining'] changed from 10 to 50.
+Value of root[1098]['teacher'] changed from "陳利銘" to "吳世傑".
+Value of root[1098]['room'] changed from "三5,6(社SS 2001)" to "五6,7,8(社SS 3005)".
+Value of root[1082]['description'] changed from "《講授類》
+寒假部分課程先修，限有修課同學選修" to "《講授類》
+寒假部分課程先修，限有修課同學選修。".
+Value of root[1248]['description'] changed from "《講授類》" to "《講授類》
+須修畢「音樂研究導論」課程，始得修課。".
+Value of root[1966]['room'] changed from "二7,8,9(社SS 3010-1)" to "二7,8,9(社SS 3010-2)".
+Value of root[2362]['room'] changed from "二6,7,8(理SC 4027)" to "四5,6,7(理SC 4011-2)".
+Value of root[2660]['room'] changed from "二7,8,9(社SS 3010-1)" to "二7,8,9(社SS 3010-2)".

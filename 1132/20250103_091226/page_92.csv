@@ -1,0 +1,55 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GHRM524&Crsname=領導風格與決策,,,False,人管英語碩程,GHRM524,0,不分班,"領導風格與決策
+LEADERSHIP AND DECISION MAKING",3,期,False,30,0,0,30,林帆,"一2,3,4(管CM 1023)","['234', '', '', '', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理階段辦理加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GHRM528&Crsname=組織政治學,,,False,人管英語碩程,GHRM528,0,不分班,"組織政治學
+ORGANIZATIONAL POLITICS",3,期,False,30,0,0,30,雷英瑞,"四6,7,8(管CM 3038)","['', '', '', '678', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理階段辦理加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GHRM536&Crsname=組織設計與數位轉型,,,False,人管英語碩程,GHRM536,0,不分班,"組織設計與數位轉型
+ORGANIZATIONAL DESIGN AND DIGITAL TRANSFORMATION",3,期,False,20,0,0,20,李捷,"三2,3,4(管CM 2025)","['', '', '234', '', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理階段辦理加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GHRM591&Crsname=生產與作業管理,,,False,人管英語碩程,GHRM591,0,不分班,"生產與作業管理
+PRODUCTION AND OPERATIONS MANAGEMENT",3,期,False,35,0,0,35,劉易,"一6,7,8(管CM 3022)","['678', '', '', '', '', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理階段辦理加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GHRM608&Crsname=人力資源職能發展,,,False,人管英語碩程,GHRM608,0,不分班,"人力資源職能發展
+HUMAN RESOURCE COMPETENCY DEVELOPMENT",3,期,False,30,0,0,30,待聘,"五2,3,4(管CM 4036)","['', '', '', '', '234', '', '']","《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理階段辦理加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=FI501&Crsname=金融產業專業實習（一）,,,False,金融創新產碩,FI501,1,不分班,"金融產業專業實習（一）
+PROFESSIONAL PRACTICE IN FINANCIAL INDUSTRY (I)",1,期,True,15,0,15,0,蔡維哲,"四1,A(管CM 2026)(實驗)","['', '', '', 'A1', '', '', '']","《實習類》
+限產碩專班學生修課；每周上課時數2小時(此課程為寒假先修)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=FI502&Crsname=當前財金問題分析,,,False,金融創新產碩,FI502,1,不分班,"當前財金問題分析
+CURRENT FINANCIAL PROBLEMS ANALYSIS",2,期,True,15,0,15,0,蔡維哲,"五6,7(管CM 2037)","['', '', '', '', '67', '', '']",《講授類》,"['金融科技與創新微學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=FI505&Crsname=金融科技服務開發,,,False,金融創新產碩,FI505,1,不分班,"金融科技服務開發
+THE DEVELOPMENT OF FINTECH SERVICES",3,期,False,15,0,0,15,"吳藺芝,蔡維哲","二2,3,4(管CM 1023)","['', '234', '', '', '', '', '']",《講授類》,"['金融科技學程', '金融科技與創新微學程', '科技創新與服務業管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=FI603&Crsname=金融產業專業實習（四）,,,False,金融創新產碩,FI603,2,不分班,"金融產業專業實習（四）
+PROFESSIONAL PRACTICE IN FINANCIAL INDUSTRY (IV)",1,期,True,15,0,15,0,蔡維哲,"五1,A(管CM 2020)(實驗)","['', '', '', '', 'A1', '', '']","《實習類》
+限產碩專班學生修課；每周上課時數2小時(此課程為寒假先修)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=FI605&Crsname=碩士論文專題（二）,,,False,金融創新產碩,FI605,2,不分班,"碩士論文專題（二）
+INDEPENDENT STUDIES IN MASTER THESIS （II）",3,期,True,20,0,15,5,"佘博文,張世賢,翁培師,蔡佳芬,蔡秉真,邱敬貿,鄭義","四1,A,B(管CM 2020)","['', '', '', 'A1B', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR502&Crsname=海洋生物科技專題研討（二）,,,True,海資碩,MBR502,1,不分班,"海洋生物科技專題研討（二）
+SEMINAR IN MARINE BIOTECHNOLOGY (II)",2,期,True,50,0,0,50,溫志宏,"一6,7(海MB 2015)","['67', '', '', '', '', '', '']","《研討類》
+碩博士班MBR502 & MBR602 & MBR702 & MBR802併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR504&Crsname=海洋生態專題研討（二）,,,True,海資碩,MBR504,1,不分班,"海洋生態專題研討（二）
+SEMINAR IN MARINE ECOLOGY (II)",2,期,True,50,0,0,50,張桂祥,"一6,7(海MB 1005)","['67', '', '', '', '', '', '']","《研討類》
+碩博士班MBR504 & MBR604 & MBR704 & MBR804併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR505&Crsname=海洋生物資源特論,,,False,海資碩,MBR505,1,不分班,"海洋生物資源特論
+SPECIAL TOPICS IN MARINE BIOLOGICAL RESOURCES",3,期,False,50,0,0,50,"李幸慧,唐川禾,朱育民,陳勇輝","四5,6,7(海生館第二研究大樓R 2002)","['', '', '', '567', '', '', '']","《講授類》
+請注意上課地點在海生館。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR508&Crsname=海洋化學資源專題研討（二）,,,True,海資碩,MBR508,1,不分班,"海洋化學資源專題研討（二）
+SEMINAR IN MARINE CHEMICAL RESOURCES (II)",2,期,True,50,0,0,50,李益銘,"一6,7(海MB 2014)","['67', '', '', '', '', '', '']","《研討類》
+碩博士班MBR508 & MBR608 & MBR708 & MBR808併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR508A&Crsname=海洋化學資源專題研討（二）,,,True,海資碩,MBR508A,1,不分班,"海洋化學資源專題研討（二）
+SEMINAR IN MARINE CHEMICAL RESOURCES (II)",2,期,False,50,0,0,50,"宋秉鈞,蘇瑞欣","一6,7(海生館第二研究大樓R 2002)","['67', '', '', '', '', '', '']","《研討類》
+請注意上課地點在海生館。與MBR608A併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR510&Crsname=分子細胞生物學（二）,,,True,海資碩,MBR510,1,不分班,"分子細胞生物學（二）
+MOLECULAR CELL BIOLOGY(II)",2,期,True,50,0,0,50,"王亮鈞,邱素芬","四3,4(海MB 2016)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR510A&Crsname=分子細胞生物學（二）,,,True,海資碩,MBR510A,1,不分班,"分子細胞生物學（二）
+MOLECULAR CELL BIOLOGY(II)",2,期,False,50,0,0,50,王立雪,"四3,4(海生館第二研究大樓R 2002)","['', '', '', '34', '', '', '']","《講授類》
+請注意上課地點在海生館。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR511&Crsname=教學實習,,,True,海資碩,MBR511,1,不分班,"教學實習
+TEACHING PRACTICE",1,期,True,50,0,0,50,王亮鈞,"四8,9(海MB 2009)(實驗)","['', '', '', '89', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR511A&Crsname=教學實習,,,True,海資碩,MBR511A,1,不分班,"教學實習
+TEACHING PRACTICE",1,期,False,50,0,0,50,李幸慧,"一8,9(海生館第二研究大樓R 2002)(實驗)","['89', '', '', '', '', '', '']","《講授類》
+請注意上課地點在海生館。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR524&Crsname=海洋底棲生物生態學,,,False,海資碩,MBR524,1,不分班,"海洋底棲生物生態學
+ECOLOGY OF MARINE BENTHOS",3,期,False,50,0,0,50,劉商隱,"二5,6,7(海MB 2016)","['', '567', '', '', '', '', '']",《講授類》,[],False
