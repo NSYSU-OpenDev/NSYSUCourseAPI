@@ -1,0 +1,66 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1960&Crsname=基礎生物醫學技術與應用,,,False,跨院選修(醫),GEAI1960,0,不分班,"基礎生物醫學技術與應用
+BASICS OF BIOMEDICAL TECHNOLOGY AND APPLICATIONS",2,期,False,35,0,0,35,李昇翰,"五5,6(醫IL 3013)","['', '', '', '', '56', '', '']","《講授類》
+跨院通識與醫學院MED149課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1961&Crsname=分子生物學入門,,,False,跨院選修(醫),GEAI1961,0,不分班,"分子生物學入門
+INTRODUCTION TO MOLECULAR BIOLOGY",3,期,False,30,0,0,30,柯瓊媛,"三2,3,4(醫IL 3013)","['', '', '234', '', '', '', '']","《講授類》
+跨院通識與醫學院MED150課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1962&Crsname=藥物獵人：天然物與藥物化學,,,False,跨院選修(醫),GEAI1962,0,不分班,"藥物獵人：天然物與藥物化學
+THE DRUG HUNTER: NATURAL PRODUCTS AND MEDICINAL CHEMISTRY",3,期,False,35,0,0,35,陳亮傑,"三5,6,7(醫IL 3013)","['', '', '567', '', '', '', '']","《講授類》
+跨院通識與醫學院MED151課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1963&Crsname=藥與毒：藥物濫用,,,False,跨院選修(醫),GEAI1963,0,不分班,"藥與毒：藥物濫用
+MEDICINES AND DRUGS: SUBSTANCE ABUSE",3,期,False,35,0,0,35,陳亮傑,"四5,6,7(醫IL 9010)","['', '', '', '567', '', '', '']","《講授類》
+跨院通識與醫學院MED152課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1967&Crsname=深睡的力量：揭開睡眠與健康的面紗,,,False,跨院選修(醫),GEAI1967,0,不分班,"深睡的力量：揭開睡眠與健康的面紗
+THE DEEP POWER OF SLEEP: UNDERSTANDING SLEEP AND HEALTH",3,期,False,25,0,0,25,陳嬿今,"三5,6,7(醫IL 3005)","['', '', '567', '', '', '', '']","《講授類》
+限醫學院大學部學生修習跨院通識與醫學院MED156課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1971&Crsname=智慧醫療：台灣醫療體系導覽,,,False,跨院選修(醫),GEAI1971,0,不分班,"智慧醫療：台灣醫療體系導覽
+SMART HEALTHCARE: A GUIDE TO TAIWAN’S HEALTHCARE SYSTEM",2,期,False,30,0,0,30,張博智,"五3,4(醫IL 9012)","['', '', '', '', '34', '', '']","《講授類》
+跨院通識與醫學院MED164課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1972&Crsname=臨床醫療照護的醫病共享決策實境體驗,,,False,跨院選修(醫),GEAI1972,0,不分班,"臨床醫療照護的醫病共享決策實境體驗
+CHOOSING WISELY: A REAL-WORLD PRACTICE OF SHARED DECISION-MAKING FOR HEALTHCARE",2,期,False,30,0,0,30,張博智,"五5,6(醫IL 9012)","['', '', '', '', '56', '', '']","《講授類》
+跨院通識與醫學院MED165課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1973&Crsname=生命的奈米世界：初階細胞生物學,,,False,跨院選修(醫),GEAI1973,0,不分班,"生命的奈米世界：初階細胞生物學
+THE NANOWORLD OF LIFE: BASIC CELL BIOLOGY",2,期,False,30,0,0,30,柯瓊媛,"二6,7(醫IL 9012)","['', '67', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED161課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1974&Crsname=基礎動物組織學,,,False,跨院選修(醫),GEAI1974,0,不分班,"基礎動物組織學
+BASIC ANIMAL HISTOLOGY",2,期,False,30,0,0,30,甘祐瑜,"四5,6(醫IL 3013)","['', '', '', '56', '', '', '']","《講授類》
+跨院通識與醫學院MED160課程併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1975&Crsname=令人驚奇的0-6歲幼兒成長旅程,,,False,跨院選修(醫),GEAI1975,0,不分班,"令人驚奇的0-6歲幼兒成長旅程
+THE AMAZING JOURNEY OF GROWTH IN CHILDREN AGED 0-6 YEARS",2,期,False,30,0,0,30,陳秀玲,"四7,8(醫IL 9012)","['', '', '', '78', '', '', '']","《講授類》
+跨院通識與醫學院MED162課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1976&Crsname=新生兒急救：從零開始掌握關鍵技能,,,False,跨院選修(醫),GEAI1976,0,不分班,"新生兒急救：從零開始掌握關鍵技能
+NEONATAL RESUSCITATION: MASTERING ESSENTIAL SKILLS FROM SCRATCH",2,期,False,30,0,0,30,陳秀玲,"三3,4(醫IL 9012)","['', '', '34', '', '', '', '']","《講授類》
+跨院通識與醫學院MED163課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1977&Crsname=食在有意思：＂碳”究飲食與疾病的16糖課,,,False,跨院選修(醫),GEAI1977,0,不分班,"食在有意思：＂碳”究飲食與疾病的16糖課
+FOOD IN BIOMEDICAL SCIENCE: 16 SWEET LESSONS ON THE CONNECTION BETWEEN DIET AND DISEASE",2,期,False,40,0,0,40,莊博凱,"二6,7(醫IL 3002)","['', '67', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED166課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAIE605&Crsname=通過體驗式學習自信地說英語（中級）,,,False,跨院EAP,GEAIE605,0,不分班,"通過體驗式學習自信地說英語（中級）
+SPEAKING ENGLISH WITH CONFIDENCE THROUGH EXPERIENTIAL LEARNING(INTERMEDIATE LEVEL)",3,期,False,50,0,0,50,李香蘭,"一3,4,B(西SW 1005)","['34B', '', '', '', '', '', '']","《講授類》
+限非外文系。建議英文程度『中級』以上程度學生修習選課。
+※英語授課",['實用英語跨域學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAIE609&Crsname=實用英語發音與表達（中級）,,,False,跨院EAP,GEAIE609,0,不分班,"實用英語發音與表達（中級）
+PRACTICAL ENGLISH PRONUNCIATION & EXPRESSION(INTERMEDIATE LEVEL)",3,期,False,50,0,0,50,戴藤懋,"四2,3,4(通GE 3013)","['', '', '', '234', '', '', '']","《講授類》
+限非外文系。建議英文程度『中級』以上程度學生修習選課。
+※英語授課",['實用英語跨域學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAIE705&Crsname=科技英文閱讀（中高級）,,,False,跨院EAP,GEAIE705,0,不分班,"科技英文閱讀（中高級）
+ENGLISH READING FOR SCIENCE AND TECHNOLOGY（HIGH-INTERMEDIATE LEVEL）",3,期,False,50,0,0,50,陳美淑,"三2,3,4(圖IL PC03)","['', '', '234', '', '', '', '']","《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課",['實用英語跨域學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAIE706&Crsname=極限閱讀：挑戰想像力與創造力（中高級）,,,False,跨院EAP,GEAIE706,0,不分班,"極限閱讀：挑戰想像力與創造力（中高級）
+EXTREME READING: CHALLENGES OF IMAGINATION AND CREATIVITY（HIGH-INTERMEDIATE LEVEL）",3,期,False,50,0,0,50,陳瑞華,"四2,3,4(通GE 3011)","['', '', '', '234', '', '', '']","《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課",['實用英語跨域學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAIE707&Crsname=增進跨文化溝通技能（中高級）,,,False,跨院EAP,GEAIE707,0,不分班,"增進跨文化溝通技能（中高級）
+ENHANCING CROSS-CULTURAL COMMUNICATION SKILLS (HIGH-INTERMEDIATE LEVEL)",3,期,False,50,0,0,50,李香蘭,"二3,4,B()","['', '34B', '', '', '', '', '']","《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課","['實用英語跨域學程', '全英語通識教育菁英學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAIE805&Crsname=多模式識字和作文（高級）,,,False,跨院EAP,GEAIE805,0,不分班,"多模式識字和作文（高級）
+MULTIMODAL LITERACY & COMPOSITION FOR ADVANCED LEVEL STUDENTS（ADVANCED LEVEL）",3,期,False,35,0,0,35,沈尚玉,"三2,3,4()","['', '', '234', '', '', '', '']","《講授類》
+限非外文系。建議英文程度『高級』以上程度學生修習選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAP204&Crsname=英文溝通技巧與批判性思維 （中高級）,,,False,跨院EAP,GEAP204,0,不分班,"英文溝通技巧與批判性思維 （中高級）
+ENGLISH COMMUNICATION SKILLS AND CRITICAL THINKING (HIGH-INTERMEDIATE LEVEL)",3,期,False,50,0,0,50,曾千紋,"五5,6,7(工EC 6016)","['', '', '', '', '567', '', '']","《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAP205&Crsname=活用英語溝通：資訊圖表與詮釋表達 （中高級）,,,False,跨院EAP,GEAP205,0,不分班,"活用英語溝通：資訊圖表與詮釋表達 （中高級）
+INFOGRAPHICS: INTERPRETATION AND ENGLISH REPORTING (HIGH-INTERMEDIATE LEVEL)",3,期,False,50,0,0,50,紀博善,"四7,8,9(社SS 2001)","['', '', '', '789', '', '', '']","《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。",[],True
