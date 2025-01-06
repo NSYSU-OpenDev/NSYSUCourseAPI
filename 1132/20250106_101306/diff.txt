@@ -1,0 +1,35 @@
+Item root[786]['classTime'][2] added to iterable.
+Item root[806]['classTime'][3] added to iterable.
+Item root[1855]['classTime'][4] added to iterable.
+Item root[2635]['classTime'][4] added to iterable.
+Item root[2636]['classTime'][4] added to iterable.
+Item root[786]['classTime'][2] removed from iterable.
+Item root[806]['classTime'][3] removed from iterable.
+Item root[1855]['classTime'][1] removed from iterable.
+Item root[2635]['classTime'][1] removed from iterable.
+Item root[2636]['classTime'][1] removed from iterable.
+Item root[11] removed from iterable.
+Item root[1049] removed from iterable.
+Type of root[786]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[786]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/6".
+Type of root[1390]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1390]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/6".
+Type of root[1855]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1855]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室1/6".
+Type of root[2635]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2635]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室1/6".
+Type of root[2636]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2636]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室1/6".
+Value of root[299]['english'] changed from True to False.
+Value of root[786]['room'] changed from "三2,3,4(工EN 2022)" to "三5,6,7(工EN 2022)".
+Value of root[806]['room'] changed from "四6,7,8(工EC 2006)" to "四5,6,7(工EC 2006)".
+Value of root[1007]['english'] changed from True to False.
+Value of root[1390]['room'] changed from "三5,6,7(理SC 4011-2)" to "五5,6,7(理SC 4011-2)".
+Value of root[1647]['teacher'] changed from "曼哈迪" to "王映樵".
+Value of root[1647]['description'] changed from "《獨立研究》
+有機高分子相關專題。學生選課前請先與指導教授洽談。" to "《獨立研究》
+光電材料與元件相關專題。學生選課前請先與指導教授洽談。".
+Value of root[1855]['room'] changed from "二5,6(海MB 3013)" to "五2,3(海MB 2009)".
+Value of root[1884]['english'] changed from False to True.
+Value of root[2635]['room'] changed from "二5,6(海MB 3013)" to "五2,3(海MB 2009)".
+Value of root[2636]['room'] changed from "二5,6(海MB 3013)" to "五2,3(海MB 2009)".
