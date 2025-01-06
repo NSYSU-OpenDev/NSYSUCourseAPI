@@ -1,0 +1,63 @@
+Type of root[299]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[299]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式1/6".
+Type of root[806]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[806]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間1/6".
+Type of root[1007]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1007]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式1/6".
+Type of root[1647]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1647]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師1/6".
+Type of root[1884]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1884]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式1/6".
+Value of root[209]['teacher'] changed from "夏晧清" to "夏清".
+Value of root[469]['teacher'] changed from "林雅叙,吳亞欣,楊妮蓉,陳宜蓁,顏竹君,黃楚涵,黃瓊儀" to "林雅,吳亞欣,楊妮蓉,陳宜蓁,顏竹君,黃楚涵,黃瓊儀".
+Value of root[507]['teacher'] changed from "林雅叙" to "林雅".
+Value of root[782]['teacher'] changed from "程啓正" to "程正".
+Value of root[836]['teacher'] changed from "張美濙" to "張美".
+Value of root[1114]['teacher'] changed from "夏晧清" to "夏清".
+Value of root[1115]['teacher'] changed from "夏晧清" to "夏清".
+Value of root[1126]['teacher'] changed from "王慧婷" to "王慧婷,王慧婷".
+Value of root[1127]['teacher'] changed from "柯翠玲" to "柯翠玲,劉勃佑,呂穎怡,張博智,李恒昇,柯瓊媛,柯翠玲,王慧婷,王文宏,詹佳穎,趙敏吾,鄭雅勻".
+Value of root[1128]['teacher'] changed from "楊善為" to "楊善為,劉文忠,呂穎怡,張博智,待聘,林尚宏,柯翠玲,楊善為,許建仁,陳俊宇,黃麗珊".
+Value of root[1129]['teacher'] changed from "柯瓊媛" to "柯瓊媛,劉勃佑,李昇翰,柯瓊媛,甘祐瑜,趙敏吾,陳彥樺".
+Value of root[1130]['teacher'] changed from "張瓊之" to "張瓊之,張博智,待聘,柯瓊媛,王文宏,甘祐瑜,陳淑芳,陳秀玲".
+Value of root[1131]['teacher'] changed from "柯瓊媛" to "柯瓊媛,劉勃佑,柯瓊媛,甘祐瑜,趙敏吾".
+Value of root[1132]['teacher'] changed from "楊昭輝" to "楊昭輝,余涵如,劉勃佑,待聘,林右才,林蓓雯,柯瓊媛,蘇彥燁".
+Value of root[1133]['teacher'] changed from "陳秀玲" to "陳秀玲,柯瓊媛,趙敏吾,陳秀玲".
+Value of root[1136]['teacher'] changed from "鄭雅勻" to "鄭雅勻,李昇翰,鄭雅勻".
+Value of root[1137]['teacher'] changed from "鄭雅勻" to "鄭雅勻,鄭雅勻".
+Value of root[1143]['teacher'] changed from "王慧婷" to "王慧婷,王慧婷".
+Value of root[1144]['teacher'] changed from "陳德全" to "陳德全,陳德全".
+Value of root[1146]['teacher'] changed from "趙敏吾" to "趙敏吾,李恒昇,李昇翰,柯瓊媛,柯翠玲,趙敏吾,陳亮傑,陳彥旭,陳秀玲".
+Value of root[1147]['teacher'] changed from "朱志勳" to "朱志勳,張博智,待聘,朱志勳,王慧婷,趙敏吾,陳彥旭,陳秀玲".
+Value of root[1148]['teacher'] changed from "陳彥樺" to "陳彥樺,劉勃佑,李昇翰,柯瓊媛,甘祐瑜,陳亮傑,陳彥旭,陳彥樺".
+Value of root[1149]['teacher'] changed from "林立德" to "林立德,劉文雄,崔冠濠,張博智,待聘,李如悅,李恒昇,林立德,王慧婷,蔡曉文,陳三農,陳彥樺,陳秀玲".
+Value of root[1150]['teacher'] changed from "陳亮傑" to "陳亮傑,刁茂盟,林盈瑞,洪碧蓮,王慧婷,郭光哲,鄭雅勻,陳亮傑,陳彥旭,陳彥樺,陳志誠,陳秀玲".
+Value of root[1151]['teacher'] changed from "蕭志誠" to "蕭志誠,待聘,洪碧蓮,蕭志誠,郭光哲,陳亮傑,陳德全,陳昱潔,陳秀玲,黃新純".
+Value of root[1152]['teacher'] changed from "甘祐瑜" to "甘祐瑜,劉亦修,周明岳,張博智,柯瓊媛,梁志光,甘祐瑜,鄭雅勻,陳亮傑,陳彥旭,陳秀玲".
+Value of root[1153]['teacher'] changed from "林育德" to "林育德,待聘,林育德,王郁鈞,甘祐瑜,陳如意,陳彥旭".
+Value of root[1154]['teacher'] changed from "駱聰成" to "駱聰成,鄭雅勻,陳德全,陳秀玲,駱聰成".
+Value of root[1158]['teacher'] changed from "王慧婷" to "王慧婷,王慧婷,陳德全,陳秀玲".
+Value of root[1159]['teacher'] changed from "陳貞吟" to "陳貞吟,陳秀玲,陳貞吟".
+Value of root[1160]['teacher'] changed from "陳德全" to "陳德全,張博智,陳德全".
+Value of root[1205]['teacher'] changed from "杜佳倫,蘇凰蘭,蘇凰蘭,蘇凰蘭" to "杜佳倫,蘇凰蘭".
+Value of root[1224]['teacher'] changed from "林雅叙,陳宜蓁,黃楚涵" to "林雅,陳宜蓁,黃楚涵".
+Value of root[1235]['teacher'] changed from "林雅叙,李美文,顏竹君,黃瓊儀" to "林雅,李美文,顏竹君,黃瓊儀".
+Value of root[1274]['teacher'] changed from "謝榮峯" to "謝榮".
+Value of root[1277]['teacher'] changed from "謝榮峯" to "謝榮".
+Value of root[1279]['teacher'] changed from "謝榮峯,魏君穎" to "謝榮,魏君穎".
+Value of root[1414]['teacher'] changed from "李廸章" to "李章".
+Value of root[1416]['teacher'] changed from "李廸章" to "李章".
+Value of root[1568]['teacher'] changed from "張美濙" to "張美".
+Value of root[1680]['teacher'] changed from "李廸章" to "李章".
+Value of root[1945]['teacher'] changed from "林裕䕒" to "林裕".
+Value of root[1950]['teacher'] changed from "林裕䕒" to "林裕".
+Value of root[2023]['teacher'] changed from "劉奇峯" to "劉奇".
+Value of root[2039]['teacher'] changed from "劉奇峯" to "劉奇".
+Value of root[2044]['teacher'] changed from "劉奇峯" to "劉奇".
+Value of root[2129]['teacher'] changed from "李佶珉" to "李佶".
+Value of root[2130]['teacher'] changed from "李佶珉" to "李佶".
+Value of root[2131]['teacher'] changed from "李佶珉" to "李佶".
+Value of root[2138]['teacher'] changed from "李佶珉,馮已榕" to "李佶,馮已榕".
+Value of root[2141]['teacher'] changed from "張美濙" to "張美".
+Value of root[2502]['teacher'] changed from "簡志彦" to "簡志？".
+Value of root[2504]['teacher'] changed from "簡志彦,葉明倫" to "簡志？,葉明倫".
