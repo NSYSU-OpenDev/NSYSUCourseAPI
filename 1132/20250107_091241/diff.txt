@@ -1,0 +1,69 @@
+Item root[900]['classTime'][1] added to iterable.
+Item root[2400]['classTime'][1] added to iterable.
+Item root[900]['classTime'][1] removed from iterable.
+Item root[2400]['classTime'][4] removed from iterable.
+Type of root[406]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[406]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/7".
+Type of root[462]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[462]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/7".
+Type of root[900]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[900]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間1/7".
+Type of root[1791]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1791]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室1/7".
+Type of root[2103]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2103]['changeDescription'] changed from NoneType to str and value changed from None to "更換主授教師1/7".
+Type of root[2386]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[2386]['changeDescription'] changed from NoneType to str and value changed from None to "1/7".
+Type of root[2400]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2400]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/7".
+Type of root[2429]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2429]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師1/7".
+Type of root[2430]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2430]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師1/7".
+Type of root[2497]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2497]['changeDescription'] changed from NoneType to str and value changed from None to "更換主授教師1/7".
+Value of root[406]['restrict'] changed from 30 to 50.
+Value of root[406]['remaining'] changed from 30 to 50.
+Value of root[900]['room'] changed from "二5,6,8(管CM 1037)" to "二5,6,7(管CM 1037)".
+Value of root[2103]['teacher'] changed from "徐志文,余靈珊,孫羽佑,施柏漳,賴至人,黃建智" to "賴至人,余靈珊,孫羽佑,徐志文,施柏漳,黃建智".
+Value of root[2386]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM715&Crsname=高等個體經濟分析（二）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM732&Crsname=高等個體經濟分析(一)".
+Value of root[2386]['id'] changed from "BM715" to "BM732".
+Value of root[2386]['name'] changed from "高等個體經濟分析（二）
+ADVNACED MICROECONOMIC ANALYSIS (II)" to "高等個體經濟分析(一)
+SPECIAL TOPICS IN ADVANCED ECONOMICS".
+Value of root[2386]['description'] changed from "《講授類》
+經營管理組;" to "《講授類》
+經營管理組;
+限DBA".
+Value of root[2388]['description'] changed from "《講授類》
+經營管理組;" to "《講授類》
+經營管理組;
+限DBA".
+Value of root[2389]['description'] changed from "《講授類》
+經營管理組;" to "《講授類》
+經營管理組;
+限DBA".
+Value of root[2390]['description'] changed from "《講授類》
+經營管理組;" to "《講授類》
+經營管理組;
+限DBA".
+Value of root[2391]['description'] changed from "《講授類》
+經營管理組;" to "《講授類》
+經營管理組;
+限DBA".
+Value of root[2392]['description'] changed from "《講授類》
+經營管理組;" to "《講授類》
+經營管理組;
+限DBA".
+Value of root[2393]['description'] changed from "《講授類》
+經營管理組;" to "《講授類》
+經營管理組;
+限DBA".
+Value of root[2394]['description'] changed from "《講授類》
+經營管理組;" to "《講授類》
+經營管理組;
+限DBA".
+Value of root[2400]['room'] changed from "五2,3,4(管CM 2021)" to "二6,7,8(管CM 2021)".
+Value of root[2429]['teacher'] changed from "黃俊智" to "黃俊智,余憲忠".
+Value of root[2430]['teacher'] changed from "黃俊智" to "黃俊智,余憲忠".
+Value of root[2497]['teacher'] changed from "徐志文,余靈珊,孫羽佑,施柏漳,賴至人,黃建智" to "黃建智,余靈珊,孫羽佑,徐志文,施柏漳,賴至人".
