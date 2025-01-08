@@ -1,2 +1,0 @@
-Value of root[1110]['room'] changed from "四2,3,4(工EC 6016)" to "一2,3,4(工EC 6016)".
-Value of root[2537]['room'] changed from "四2,3,4(工EC 6016)" to "一2,3,4(工EC 6016)".
