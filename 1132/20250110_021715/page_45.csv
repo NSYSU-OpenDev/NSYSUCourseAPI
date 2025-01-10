@@ -1,0 +1,56 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES440&Crsname=材料與光電專題研究（四）,,,False,材光系,MOES440,4,不分班,"材料與光電專題研究（四）
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(VI)",1,期,False,50,0,0,50,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES446&Crsname=半導體物理與材料,,,False,材光系,MOES446,4,不分班,"半導體物理與材料
+SEMICONDUCTOR PHYSICS AND MATERIALS",3,期,False,50,0,0,50,徐瑞鴻,"三2,3,4(工MS 4025)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES452&Crsname=專題討論,,,False,材光系,MOES452,3,不分班,"專題討論
+SEMINAR",1,期,True,50,0,53,-3,陳致光,二3(工MS 4019),"['', '3', '', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES453&Crsname=科學模擬計算導論,,,False,材光系,MOES453,2,不分班,"科學模擬計算導論
+INTRODUCTION TO SCIENTIFIC COMPUTING WITH PYTHON",3,期,False,50,0,0,50,呂德,"一2,3,4(圖IL PC 02)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE1004&Crsname=Ｃ程式設計（二）,,,False,資工全英班,CSE1004,1,全英班,"Ｃ程式設計（二）
+C COMPUTER PROGRAMMING（II）",3,期,True,50,0,29,21,柯正雯,"三5,6,7(工EC 5012)","['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課","['自然科學之程式應用學程', '軟體工程學程', '機器學習與多媒體技術學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE1005&Crsname=數位電子學,,,False,資工全英班,CSE1005,1,全英班,"數位電子學
+DIGITAL ELECTRONICS",3,期,True,50,0,29,21,郭可驥,"二5,6,7(工EC 1006)","['', '567', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE2004&Crsname=計算機組織,,,False,資工全英班,CSE2004,2,全英班,"計算機組織
+COMPUTER ORGANIZATION",3,期,True,50,0,28,22,黃英哲,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE2005&Crsname=作業系統,,,False,資工全英班,CSE2005,2,全英班,"作業系統
+OPERATING SYSTEMS",3,期,True,50,0,28,22,王友群,"三5,6,7(工EC 1005)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE2006&Crsname=機率學,,,False,資工全英班,CSE2006,2,全英班,"機率學
+PROBABILITY",3,期,True,50,0,28,22,陳嘉平,"三2,3,4(工EC 2011)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM102&Crsname=會計學（二）,,,False,企管系,BM102,1,甲班,"會計學（二）
+ACCOUNTING (II)",3,期,True,50,0,42,8,王萬成,"四5,6,7(管CM 3015)","['', '', '', '567', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；會計學(一)不及格不能選課；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM102A&Crsname=會計學（二）,,,False,企管系,BM102A,1,乙班,"會計學（二）
+ACCOUNTING (II)",3,期,True,50,0,38,12,陳妮雲,"四2,3,4(管CM 2037)","['', '', '', '234', '', '', '']","《講授類》
+《講授類》限企管系(含雙主修、輔系)；會計學(一)不及格不能選課；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM104&Crsname=會計學實習（二）,,,False,企管系,BM104,1,甲班,"會計學實習（二）
+ACCOUNTING PRACTICE (II)",1,期,False,50,0,0,50,王萬成,"四8,9(管CM 3015)(實驗)","['', '', '', '89', '', '', '']","《實習類》
+限企管系(含雙主修、輔系)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM104A&Crsname=會計學實習（二）,,,False,企管系,BM104A,1,乙班,"會計學實習（二）
+ACCOUNTING PRACTICE (II)",1,期,False,50,0,0,50,陳妮雲,"四8,9(管CM 3017)(實驗)","['', '', '', '89', '', '', '']","《實習類》
+限企管系(含雙主修、輔系)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM106&Crsname=經濟學（二）,,,False,企管系,BM106,1,甲班,"經濟學（二）
+ECONOMICS(II)",3,期,True,50,0,42,8,彭聖翔,"五5,6,7(管CM 0052)","['', '', '', '', '567', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM106A&Crsname=經濟學（二）,,,False,企管系,BM106A,1,乙班,"經濟學（二）
+ECONOMICS(II)",3,期,True,50,0,38,12,彭聖翔,"五5,6,7(管CM 0052)","['', '', '', '', '567', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課※英語授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM108&Crsname=經濟學實習（二）,,,False,企管系,BM108,1,甲班,"經濟學實習（二）
+ECONOMICS PRACTICE(II)",1,期,False,50,0,0,50,彭聖翔,"三3,4(管CM 1037)(實驗)","['', '', '34', '', '', '', '']","《實習類》
+限企管系(含雙主修、輔系)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM108A&Crsname=經濟學實習（二）,,,False,企管系,BM108A,1,乙班,"經濟學實習（二）
+ECONOMICS PRACTICE(II)",1,期,False,50,0,0,50,彭聖翔,"三3,4(管CM 1037)(實驗)","['', '', '34', '', '', '', '']","《實習類》
+限企管系(含雙主修、輔系)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM112&Crsname=管理學,,,False,企管系,BM112,1,甲班,"管理學
+MANAGEMENT",3,期,True,50,0,42,8,林豪傑,"一2,3,4(管CM 4112)","['234', '', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)","['地方敘事與創生學程', '音樂藝術管理與行銷學程', '人力資源管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM112A&Crsname=管理學,,,False,企管系,BM112A,1,乙班,"管理學
+MANAGEMENT",3,期,True,50,0,38,12,王致遠,"三5,6,7(管CM 1037)","['', '', '567', '', '', '', '']","《講授類》
+※《Lecture》限企管系(含雙主修、輔系)","['地方敘事與創生學程', '音樂藝術管理與行銷學程', '人力資源管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM202&Crsname=統計學（二）,,,False,企管系,BM202,2,甲班,"統計學（二）
+STATISTICS(II)",3,期,True,50,0,34,16,林晉禾,"一5,6,7(管CM 0052)","['567', '', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課",['金融工程學程'],False
