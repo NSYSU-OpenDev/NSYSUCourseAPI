@@ -1,0 +1,4 @@
+Type of root[1564]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1564]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室1/14".
+Value of root[1156]['teacher'] changed from "朱志勳,張博智,待聘,朱志勳,林明毅,王慧婷,趙敏吾,陳彥旭,陳秀玲" to "朱志勳,張博智,朱志勳,林明毅,王慧婷,趙敏吾,陳彥旭,陳秀玲".
+Value of root[1564]['room'] changed from "五5,6,7(工EC 3014)" to "五5,6,7(工EC 2010)".
