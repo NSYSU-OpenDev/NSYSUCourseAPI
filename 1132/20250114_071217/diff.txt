@@ -1,0 +1,44 @@
+Item root[244] added to iterable.
+Item root[268]['classTime'][2] added to iterable.
+Item root[333] added to iterable.
+Item root[703]['classTime'][2] added to iterable.
+Repetition change for item root[268]['classTime'][0].
+Repetition change for item root[703]['classTime'][0].
+Type of root[268]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[268]['changeDescription'] changed from NoneType to str and value changed from None to "1/14".
+Type of root[703]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[703]['changeDescription'] changed from NoneType to str and value changed from None to "確認時間1/14".
+Value of root[13]['select'] changed from 4 to 5.
+Value of root[26]['select'] changed from 4 to 5.
+Value of root[46]['select'] changed from 4 to 5.
+Value of root[96]['select'] changed from 2 to 3.
+Value of root[182]['select'] changed from 4 to 5.
+Value of root[183]['select'] changed from 3 to 4.
+Value of root[184]['select'] changed from 2 to 3.
+Value of root[185]['select'] changed from 4 to 5.
+Value of root[187]['select'] changed from 3 to 4.
+Value of root[192]['select'] changed from 4 to 5.
+Value of root[203]['select'] changed from 3 to 4.
+Value of root[211]['select'] changed from 0 to 1.
+Value of root[268]['teacher'] changed from "待聘" to "吳珮歆".
+Value of root[268]['description'] changed from "《講授類》
+限非應數系學生修習。混成課程跨院通識與電機系EE1201B課程併班上課" to "《講授類》
+限非應數系學生修習。混成課程。跨院通識與電機系EE1201B課程併班上課
+※英語授課".
+Value of root[703]['restrict'] changed from 50 to 70.
+Value of root[703]['remaining'] changed from -5 to 15.
+Value of root[703]['teacher'] changed from "待聘" to "吳珮歆".
+Value of root[703]['description'] changed from "《講授類》
+混成課程" to "《講授類》
+混成課程。
+※英語授課".
+Value of root[968]['select'] changed from 2 to 3.
+Value of root[1170]['select'] changed from 3 to 4.
+Value of root[1666]['selected'] changed from 15 to 14.
+Value of root[1666]['remaining'] changed from 35 to 36.
+Value of root[1669]['select'] changed from 3 to 4.
+Value of root[1956]['select'] changed from 2 to 3.
+Value of root[2207]['select'] changed from 4 to 5.
+Value of root[2332]['select'] changed from 2 to 3.
+Value of root[2392]['select'] changed from 1 to 2.
+Value of root[2511]['select'] changed from 2 to 3.
