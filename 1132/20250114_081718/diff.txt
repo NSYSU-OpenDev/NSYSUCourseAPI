@@ -1,0 +1,33 @@
+Item root[2105] added to iterable.
+Type of root[1156]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1156]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/14".
+Value of root[13]['select'] changed from 5 to 7.
+Value of root[26]['select'] changed from 5 to 7.
+Value of root[46]['select'] changed from 5 to 7.
+Value of root[96]['select'] changed from 3 to 4.
+Value of root[182]['select'] changed from 5 to 6.
+Value of root[183]['select'] changed from 4 to 6.
+Value of root[184]['select'] changed from 3 to 4.
+Value of root[185]['select'] changed from 5 to 7.
+Value of root[186]['select'] changed from 2 to 3.
+Value of root[187]['select'] changed from 4 to 5.
+Value of root[192]['select'] changed from 5 to 7.
+Value of root[202]['select'] changed from 2 to 3.
+Value of root[203]['select'] changed from 4 to 5.
+Value of root[217]['select'] changed from 0 to 2.
+Value of root[970]['select'] changed from 3 to 5.
+Value of root[983]['select'] changed from 2 to 3.
+Value of root[1156]['teacher'] changed from "朱志勳,張博智,待聘,朱志勳,王慧婷,趙敏吾,陳彥旭,陳秀玲" to "朱志勳,張博智,待聘,朱志勳,林明毅,王慧婷,趙敏吾,陳彥旭,陳秀玲".
+Value of root[1172]['select'] changed from 4 to 5.
+Value of root[1671]['select'] changed from 4 to 6.
+Value of root[1958]['select'] changed from 3 to 5.
+Value of root[2209]['select'] changed from 5 to 7.
+Value of root[2265]['select'] changed from 2 to 3.
+Value of root[2327]['select'] changed from 2 to 3.
+Value of root[2334]['select'] changed from 3 to 4.
+Value of root[2394]['select'] changed from 2 to 4.
+Value of root[2497]['select'] changed from 1 to 3.
+Value of root[2513]['select'] changed from 3 to 4.
+Value of root[2514]['selected'] changed from 2 to 1.
+Value of root[2514]['remaining'] changed from 48 to 49.
+Value of root[2688]['select'] changed from 2 to 3.
