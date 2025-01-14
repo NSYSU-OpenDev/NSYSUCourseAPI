@@ -1,0 +1,46 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR221&Crsname=礦物學,,,False,海資系,MBR221,2,全英班,"礦物學
+MINERALOGY",2,期,False,50,0,0,50,蕭炎宏,"一3,4(海MB 2009)","['34', '', '', '', '', '', '']",《講授類》,"['氣候變遷與調適學分學程', '看見臺灣海岸微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR225&Crsname=海洋中藥概論,,,False,海資系,MBR225,2,全英班,"海洋中藥概論
+INTRODUCTION TO MARINE CHINESE MEDICINE",2,期,False,50,2,0,50,廖志中,"五5,6(海MB 2015)","['', '', '', '', '56', '', '']",《講授類》,"['校園預防醫學暨食品安全學程', '校園預防醫學學程', '海洋生產模式整合學程', '環境教育學程', '生物技術學程', '海洋天然物微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR228&Crsname=海洋污染概論,,,False,海資系,MBR228,4,不分班,"海洋污染概論
+INTRODUCTION TO MARINE POLLUTION",2,期,False,50,0,0,50,楊宗勳,"三6,7(海MB 2015)","['', '', '67', '', '', '', '']",《講授類》,"['海洋生物資源開發學程', '擁海學程', '智慧港埠微學程', '看見臺灣海岸微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR231&Crsname=疾病與海洋藥物,,,False,海資系,MBR231,2,全英班,"疾病與海洋藥物
+DISEASES AND MARINE DRUGS",2,期,False,50,0,0,50,"翁靖如,溫志宏","四3,4(海MB 2020)","['', '', '', '34', '', '', '']",《講授類》,['海洋天然物微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR235&Crsname=海洋生物探究與導覽實作,,,False,海資系,MBR235,2,不分班,"海洋生物探究與導覽實作
+MARINE ORGANISM (MUSEUM) – INQUIRY AND TOUR WORKSHOP",2,期,False,10,1,0,10,"水晶,翁靖如",,"['1234567', '12345678', '1234567', '1234', '34', '', '567CDE']","《講授類》
+限修畢海洋科學學院核心必修課程「海洋基礎科學」或「海洋應用科學」之學生選修。課程於學期末住宿於海生館並密集授課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR236&Crsname=古生物學,,,False,海資系,MBR236,2,全英班,"古生物學
+PALEONTOLOGY",2,期,False,50,0,0,50,李世緯,"二6,7(海MB 1009)","['', '67', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR301&Crsname=遺傳學,,,False,海資系,MBR301,3,全英班,"遺傳學
+GENETICS",3,期,False,50,0,0,50,林梅芳,"四5,6,7(海MB 1009)","['', '', '', '567', '', '', '']",《講授類》,"['環境教育學程', '生物技術學程', '生物資訊與演化生態微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR303&Crsname=水產養殖及傳染病概論,,,False,海資系,MBR303,3,全英班,"水產養殖及傳染病概論
+INTRODUCTION TO AQUACULTURE AND INFECTIOUS DISEASES",3,期,False,50,0,0,50,王亮鈞,"五5,6,7(海MB 2004)","['', '', '', '', '567', '', '']",《講授類》,['海洋微生物及應用推廣微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR307&Crsname=生物化學（二）,,,False,海資系,MBR307,2,全英班,"生物化學（二）
+BIOCHEMISTRY(II)",3,期,True,50,1,32,18,"李益銘,廖志中,廖睿妘",,"['', '', '234X', '', '', '', '']","《講授類》
+混成課程
+※英語授課",['天然藥物合成學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR309&Crsname=水產生物化學,,,False,海資系,MBR309,3,全英班,"水產生物化學
+MARINE BIOCHEMISTRY",3,期,False,50,0,0,50,邱素芬,"一5,6,7(海MB 2016)","['567', '', '', '', '', '', '']",《講授類》,['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR314&Crsname=生物統計學及實習(二),,,False,海資系,MBR314,3,全英班,"生物統計學及實習(二)
+BIOSTATISTICS AND PRACTICE (II)",3,期,False,50,0,0,50,張楊家豪,"五2,3,4(海MB 2020)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR316&Crsname=海洋生態學,,,False,海資系,MBR316,3,全英班,"海洋生態學
+MARINE ECOLOGY",2,期,False,50,0,0,50,"劉商隱,林秀瑾","三3,4(海MB 2015)","['', '', '34', '', '', '', '']",《講授類》,"['海洋生物資源與實務應用微學程', '生物多樣性學程', '環境科技與管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR319&Crsname=海洋無脊椎動物學（二）,,,False,海資系,MBR319,2,全英班,"海洋無脊椎動物學（二）
+MARINE INVERTEBRATE ZOOLOGY(II)",2,期,False,50,0,0,50,劉商隱,"五7,8(海MB 2015)","['', '', '', '', '78', '', '']",《講授類》,"['擁海學程', '海洋生產模式整合學程', '海洋循環經濟學程', '環境教育學程', '生物多樣性學程', '海洋生物資源與實務應用微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR322&Crsname=海洋醣蛋白的功能與應用,,,False,海資系,MBR322,3,全英班,"海洋醣蛋白的功能與應用
+FUNCTION AND APPLICATION OF MARINE GLYCOL-PROTEIN",2,期,False,50,0,0,50,李益銘,"四3,4(海MB 1009)","['', '', '', '34', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR350&Crsname=分子生物學,,,False,海資系,MBR350,3,全英班,"分子生物學
+MOLECULAR BIOLOGY",3,期,True,50,0,26,24,李澤民,"二2,3,4(海MB 2020)","['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['生物技術學程', '海洋生物資源開發學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR354&Crsname=食品微生物學,,,False,海資系,MBR354,4,不分班,"食品微生物學
+FOOD MICROBIOLOGY",2,期,False,50,0,0,50,"邱素芬,王亮鈞","三3,4(海MB 1009)","['', '', '34', '', '', '', '']",《講授類》,"['食品安全學程', '校園預防醫學暨食品安全學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR355&Crsname=分子生物學實驗,,,False,海資系,MBR355,3,全英班,"分子生物學實驗
+MOLECULAR BIOLOGY LABORATORY",1,期,False,50,0,0,50,"李澤民,邱素芬","三5,6,7(海MB 2012)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,"['海洋生物資源開發學程', '海洋生物資源開發學程', '生物技術微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR362&Crsname=專題研究（二）,,,False,海資系,MBR362,3,全英班,"專題研究（二）
+INDEPENDENT STUDIES IN MARINE RESOURCES（II）",1,期,False,50,0,0,50,"林梅芳,劉商隱,廖志中,廖睿妘,張桂祥,李景欽,李澤民,李益銘,林秀瑾,水晶,王亮鈞,翁靖如,鄭源斌",三A(),"['', '', 'A', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR402&Crsname=海洋資源專題研討（二）,,,False,海資系,MBR402,4,不分班,"海洋資源專題研討（二）
+SEMINAR IN MARINE RESOURCES",2,期,True,50,0,30,20,"李澤民,水晶","四6,7(海MB 2015)","['', '', '', '67', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR414&Crsname=海洋天然物藥物開發,,,False,海資系,MBR414,4,不分班,"海洋天然物藥物開發
+DRUGS DISCOVERY OF MARINE DERIVATED NATRUAL COMPOUNDS",2,期,False,50,0,0,50,溫志宏,"一3,4(海MB 2016)","['34', '', '', '', '', '', '']",《講授類》,['生物技術學程'],False
