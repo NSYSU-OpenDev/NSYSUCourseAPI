@@ -1,0 +1,56 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME415&Crsname=工程日文（二）,,,False,機電系,MEME415,4,不分班,"工程日文（二）
+ENGINEERING JAPANESE (II)",3,期,False,50,0,0,50,黃永茂,"三2,3,4(工EN 3021)","['', '', '234', '', '', '', '']",《講授類》,['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE103&Crsname=Ｃ程式設計實驗（二）,,,False,資工系,CSE103,1,不分班,"Ｃ程式設計實驗（二）
+C COMPUTER PROGRAMMING LABORATORY（II）",1,期,True,60,0,55,5,柯正雯,"四5,6,7(圖IL PC02,PC03)(實驗)","['', '', '', '567', '', '', '']","《實驗類》
+限本系學生修習",['機器學習與多媒體技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE132&Crsname=Ｃ程式設計（二）,,,False,資工系,CSE132,1,不分班,"Ｃ程式設計（二）
+C COMPUTER PROGRAMMING（II）",3,期,True,60,0,55,5,柯正雯,"四2,3,4(工EC 5012)","['', '', '', '234', '', '', '']",《講授類》,"['自然科學之程式應用學程', '軟體工程學程', '機器學習與多媒體技術學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE170&Crsname=數位電子學,,,False,資工系,CSE170,1,不分班,"數位電子學
+DIGITAL ELECTRONICS",3,期,True,80,0,55,25,郭可驥,"一5,6,7(工EC 9032)","['567', '', '', '', '', '', '']",《講授類》,"['矽光子學程', '半導體設備工程學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE223&Crsname=資料探勘,,,False,資工系,CSE223,2,不分班,"資料探勘
+DATA MINING",3,期,False,50,0,0,50,蔡崇煒,"四6,7,8(工EC 1005)","['', '', '', '678', '', '', '']",《講授類》,"['人工智慧工業應用學分學程', '智慧製造聯網微學程', '製造與大數據分析微學程', '人工智慧自然語言技術學分學程', '跨領域智慧製造學程', '智慧長照微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE260&Crsname=計算機組織,,,False,資工系,CSE260,2,不分班,"計算機組織
+COMPUTER ORGANIZATION",3,期,True,60,0,58,2,黃英哲,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['數位IC設計學程', '軟體工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE270&Crsname=作業系統,,,False,資工系,CSE270,2,不分班,"作業系統
+OPERATING SYSTEMS",3,期,True,60,0,58,2,林俊宏,"一2,3,4(工EC 5012)","['234', '', '', '', '', '', '']",《講授類》,"['自然科學之程式應用學程', '軟體工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE280&Crsname=機率學,,,False,資工系,CSE280,2,不分班,"機率學
+PROBABILITY",3,期,True,60,0,58,2,陳嘉平,"三2,3,4(工EC 2011)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['製造與大數據分析微學程', '機器學習與應用微學程', '跨領域智慧製造學程', '機器學習與多媒體技術學程', '巨量資料分析學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE282&Crsname=Python 程式設計,,,False,資工系,CSE282,2,不分班,"Python 程式設計
+PROGRAMMING IN PYTHON",3,期,False,50,0,0,50,希家史提夫,"二6,7,8(工EC 5012)","['', '678', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['自然科學之程式應用學程', '自然科學之程式應用學程', '人工智慧探索應用學分學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE290&Crsname=高等程式設計與實作,,,False,資工系,CSE290,2,不分班,"高等程式設計與實作
+ADVANCED PROGRAMMING AND PRACTICES",3,期,False,50,0,0,50,楊昌彪,"四2,3,4(工EC 1006)","['', '', '', '234', '', '', '']",《講授類》,['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE331&Crsname=無線與行動通訊安全理論與實務,,,False,資工系,CSE331,3,不分班,"無線與行動通訊安全理論與實務
+THEORY AND PRACTICE OF WIRELESS AND MOBILE NETWORKS SECURITY",3,期,False,50,0,0,50,徐瑞壕,"三2,3,4(工EC 1006)","['', '', '234', '', '', '', '']",《講授類》,['資通安全學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE333&Crsname=安全車載通訊系統,,,False,資工系,CSE333,3,不分班,"安全車載通訊系統
+SECURE VEHICULAR COMMUNICATION SYSTEMS",3,期,False,50,0,0,50,克拉迪,"二6,7,8(工EC 5007)","['', '678', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['資通安全學程', '資通安全學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE350&Crsname=電腦網路,,,False,資工系,CSE350,3,不分班,"電腦網路
+COMPUTER NETWORK",3,期,True,60,0,60,0,楊惠芳,"四2,3,4(工EC 9032)","['', '', '', '234', '', '', '']",《講授類》,"['永續能源學程', '自然科學之程式應用學程', '軟體工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE360&Crsname=編譯器製作,,,False,資工系,CSE360,3,不分班,"編譯器製作
+DESIGN AND IMPLEMENTATION OF COMPILER",3,期,True,60,0,60,0,張玉盈,"四6,7,8(工EC 5012)","['', '', '', '678', '', '', '']",《講授類》,"['自然科學之程式應用學程', '軟體工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE365&Crsname=UNIX系統程式,,,False,資工系,CSE365,3,不分班,"UNIX系統程式
+UNIX SYSTEM PROGRAMMING",3,期,True,60,0,60,0,希家史提夫,"一2,3,4(工EC 9032)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['自然科學之程式應用學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE381&Crsname=專題製作實驗（一）,,,False,資工系,CSE381,3,不分班,"專題製作實驗（一）
+SPECIAL TOPICS LABORATORY (I)",1,期,True,50,0,60,-10,柯正雯,"五7,8,9(工EC 5012)(實驗)","['', '', '', '', '789', '', '']","《實驗類》
+限本系大三學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE466&Crsname=超大型積體電路設計概論,,,False,資工系,CSE466,4,不分班,"超大型積體電路設計概論
+INTRODUCTION TO VLSI DESIGN",3,期,False,50,0,0,50,蕭勝夫,"二2,3,4(工EC 5007)","['', '234', '', '', '', '', '']",《講授類》,"['矽光子學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE490&Crsname=安全電子商務,,,False,資工系,CSE490,4,不分班,"安全電子商務
+SECURE ELECTRONIC COMMERCE",3,期,False,50,0,0,50,徐瑞壕,"四2,3,4(工EC 1005)","['', '', '', '234', '', '', '']",《講授類》,['資通安全學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EO1008&Crsname=微積分（二）,,,False,光電系,EO1008,1,不分班,"微積分（二）
+CALCULUS (II)",3,期,True,50,0,23,27,張福春,"一2,3,4(理SC 1005)","['234', '', '', '', '', '', '']","《講授類》
+與材光系、化學系併班上課。",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EO1008A&Crsname=微積分（二）,,,True,光電系,EO1008A,1,全英班,"微積分（二）
+CALCULUS (II)",3,期,True,50,0,0,50,翁鵬絜,"一2,3,4(工EC 1009)","['234', '', '', '', '', '', '']","《講授類》
+與化學系、材光系併班。 微積分(一) 學期總成績至少有D等第
+※英語授課",['人工智慧與數學學程'],False
