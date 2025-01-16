@@ -1,0 +1,204 @@
+Item root[161]['tags'][3] removed from iterable.
+Item root[161]['tags'][4] removed from iterable.
+Item root[275]['tags'][3] removed from iterable.
+Item root[275]['tags'][4] removed from iterable.
+Item root[287]['tags'][0] removed from iterable.
+Item root[301]['tags'][1] removed from iterable.
+Item root[311]['tags'][0] removed from iterable.
+Item root[311]['tags'][1] removed from iterable.
+Item root[311]['tags'][3] removed from iterable.
+Item root[311]['tags'][4] removed from iterable.
+Item root[311]['tags'][5] removed from iterable.
+Item root[311]['tags'][6] removed from iterable.
+Item root[563]['tags'][0] removed from iterable.
+Item root[564]['tags'][0] removed from iterable.
+Item root[587]['tags'][1] removed from iterable.
+Item root[687]['tags'][0] removed from iterable.
+Item root[687]['tags'][2] removed from iterable.
+Item root[688]['tags'][0] removed from iterable.
+Item root[688]['tags'][2] removed from iterable.
+Item root[691]['tags'][0] removed from iterable.
+Item root[695]['tags'][1] removed from iterable.
+Item root[734]['tags'][2] removed from iterable.
+Item root[734]['tags'][3] removed from iterable.
+Item root[735]['tags'][2] removed from iterable.
+Item root[735]['tags'][3] removed from iterable.
+Item root[736]['tags'][2] removed from iterable.
+Item root[736]['tags'][3] removed from iterable.
+Item root[752]['tags'][1] removed from iterable.
+Item root[810]['tags'][1] removed from iterable.
+Item root[811]['tags'][2] removed from iterable.
+Item root[823]['tags'][1] removed from iterable.
+Item root[828]['tags'][3] removed from iterable.
+Item root[834]['tags'][1] removed from iterable.
+Item root[836]['tags'][1] removed from iterable.
+Item root[840]['tags'][0] removed from iterable.
+Item root[841]['tags'][0] removed from iterable.
+Item root[842]['tags'][0] removed from iterable.
+Item root[843]['tags'][0] removed from iterable.
+Item root[844]['tags'][2] removed from iterable.
+Item root[850]['tags'][3] removed from iterable.
+Item root[851]['tags'][3] removed from iterable.
+Item root[859]['tags'][3] removed from iterable.
+Item root[864]['tags'][0] removed from iterable.
+Item root[886]['tags'][0] removed from iterable.
+Item root[907]['tags'][0] removed from iterable.
+Item root[908]['tags'][0] removed from iterable.
+Item root[952]['tags'][0] removed from iterable.
+Item root[983]['tags'][1] removed from iterable.
+Item root[1009]['tags'][1] removed from iterable.
+Item root[1013]['tags'][2] removed from iterable.
+Item root[1023]['tags'][0] removed from iterable.
+Item root[1023]['tags'][1] removed from iterable.
+Item root[1032]['tags'][0] removed from iterable.
+Item root[1050]['tags'][0] removed from iterable.
+Item root[1067]['tags'][0] removed from iterable.
+Item root[1091]['tags'][1] removed from iterable.
+Item root[1347]['tags'][3] removed from iterable.
+Item root[1350]['tags'][0] removed from iterable.
+Item root[1381]['tags'][0] removed from iterable.
+Item root[1416]['tags'][0] removed from iterable.
+Item root[1523]['tags'][1] removed from iterable.
+Item root[1532]['tags'][1] removed from iterable.
+Item root[1550]['tags'][0] removed from iterable.
+Item root[1558]['tags'][1] removed from iterable.
+Item root[1559]['tags'][0] removed from iterable.
+Item root[1591]['tags'][1] removed from iterable.
+Item root[1597]['tags'][2] removed from iterable.
+Item root[1601]['tags'][2] removed from iterable.
+Item root[1610]['tags'][1] removed from iterable.
+Item root[1611]['tags'][2] removed from iterable.
+Item root[1617]['tags'][0] removed from iterable.
+Item root[1621]['tags'][1] removed from iterable.
+Item root[1691]['tags'][0] removed from iterable.
+Item root[1878]['tags'][0] removed from iterable.
+Item root[1878]['tags'][1] removed from iterable.
+Item root[1886]['tags'][1] removed from iterable.
+Item root[1886]['tags'][2] removed from iterable.
+Item root[1887]['tags'][0] removed from iterable.
+Item root[1897]['tags'][0] removed from iterable.
+Item root[1924]['tags'][0] removed from iterable.
+Item root[2010]['tags'][0] removed from iterable.
+Item root[2102]['tags'][2] removed from iterable.
+Item root[2261]['tags'][0] removed from iterable.
+Item root[2559]['tags'][1] removed from iterable.
+Item root[2560]['tags'][2] removed from iterable.
+Item root[2565]['tags'][0] removed from iterable.
+Item root[2569]['tags'][1] removed from iterable.
+Item root[2655]['tags'][0] removed from iterable.
+Item root[2655]['tags'][1] removed from iterable.
+Item root[2658]['tags'][0] removed from iterable.
+Repetition change for item root[154]['tags'][1].
+Repetition change for item root[174]['tags'][6].
+Repetition change for item root[174]['tags'][8].
+Repetition change for item root[264]['tags'][0].
+Repetition change for item root[265]['tags'][0].
+Repetition change for item root[285]['tags'][0].
+Repetition change for item root[286]['tags'][0].
+Repetition change for item root[323]['tags'][1].
+Repetition change for item root[323]['tags'][4].
+Repetition change for item root[323]['tags'][7].
+Repetition change for item root[323]['tags'][9].
+Repetition change for item root[323]['tags'][11].
+Repetition change for item root[538]['tags'][0].
+Repetition change for item root[585]['tags'][2].
+Repetition change for item root[606]['tags'][0].
+Repetition change for item root[607]['tags'][0].
+Repetition change for item root[617]['tags'][0].
+Repetition change for item root[637]['tags'][0].
+Repetition change for item root[680]['tags'][0].
+Repetition change for item root[681]['tags'][0].
+Repetition change for item root[715]['tags'][0].
+Repetition change for item root[716]['tags'][0].
+Repetition change for item root[717]['tags'][0].
+Repetition change for item root[718]['tags'][0].
+Repetition change for item root[777]['tags'][1].
+Repetition change for item root[778]['tags'][1].
+Repetition change for item root[779]['tags'][1].
+Repetition change for item root[792]['tags'][0].
+Repetition change for item root[793]['tags'][0].
+Repetition change for item root[794]['tags'][0].
+Repetition change for item root[796]['tags'][0].
+Repetition change for item root[797]['tags'][0].
+Repetition change for item root[798]['tags'][0].
+Repetition change for item root[828]['tags'][0].
+Repetition change for item root[831]['tags'][0].
+Repetition change for item root[850]['tags'][0].
+Repetition change for item root[851]['tags'][0].
+Repetition change for item root[859]['tags'][0].
+Repetition change for item root[915]['tags'][0].
+Repetition change for item root[916]['tags'][0].
+Repetition change for item root[929]['tags'][0].
+Repetition change for item root[933]['tags'][0].
+Repetition change for item root[972]['tags'][0].
+Repetition change for item root[998]['tags'][0].
+Repetition change for item root[1036]['tags'][0].
+Repetition change for item root[1110]['tags'][1].
+Repetition change for item root[1110]['tags'][4].
+Repetition change for item root[1110]['tags'][7].
+Repetition change for item root[1110]['tags'][9].
+Repetition change for item root[1110]['tags'][11].
+Repetition change for item root[1430]['tags'][0].
+Repetition change for item root[1483]['tags'][0].
+Repetition change for item root[1493]['tags'][0].
+Repetition change for item root[1499]['tags'][1].
+Repetition change for item root[1668]['tags'][0].
+Repetition change for item root[2533]['tags'][0].
+Repetition change for item root[2578]['tags'][0].
+Value of root[564]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[564]['english'] changed from False to True.
+Value of root[841]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[841]['english'] changed from False to True.
+Value of root[842]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[842]['english'] changed from False to True.
+Value of root[843]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[843]['english'] changed from False to True.
+Value of root[952]['description'] changed from "《講授類》
+限財管系(含雙主修、輔系)
+※英語授課" to "《講授類》
+限財管系(含雙主修、輔系)".
+Value of root[952]['english'] changed from False to True.
+Value of root[1023]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1023]['english'] changed from False to True.
+Value of root[1559]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1559]['english'] changed from False to True.
+Value of root[1617]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1617]['english'] changed from False to True.
+Value of root[1691]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1691]['english'] changed from False to True.
+Value of root[1878]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1878]['english'] changed from False to True.
+Value of root[1897]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1897]['english'] changed from False to True.
+Value of root[2565]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2565]['english'] changed from False to True.
+Value of root[2655]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2655]['english'] changed from False to True.
+Value of root[2658]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2658]['english'] changed from False to True.
