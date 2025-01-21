@@ -1,0 +1,17 @@
+Value of root[121]['select'] changed from 1 to 2.
+Value of root[182]['select'] changed from 3 to 12.
+Value of root[183]['select'] changed from 4 to 12.
+Value of root[184]['select'] changed from 5 to 7.
+Value of root[185]['select'] changed from 12 to 13.
+Value of root[186]['select'] changed from 9 to 8.
+Value of root[187]['select'] changed from 12 to 13.
+Value of root[252]['select'] changed from 1 to 2.
+Value of root[705]['select'] changed from 2 to 8.
+Value of root[990]['select'] changed from 3 to 8.
+Value of root[1973]['select'] changed from 0 to 2.
+Value of root[2006]['select'] changed from 0 to 2.
+Value of root[2106]['select'] changed from 0 to 1.
+Value of root[2238]['select'] changed from 0 to 1.
+Value of root[2394]['select'] changed from 0 to 2.
+Value of root[2444]['select'] changed from 0 to 1.
+Value of root[2672]['select'] changed from 0 to 2.
