@@ -1,0 +1,508 @@
+Item root[823] added to iterable.
+Item root[1001]['classTime'][4] added to iterable.
+Item root[1963]['classTime'][3] added to iterable.
+Item root[1963]['tags'][0] added to iterable.
+Item root[1866]['classTime'][2] added to iterable.
+Item root[1866]['tags'][0] added to iterable.
+Item root[1808]['classTime'][1] added to iterable.
+Item root[1001]['classTime'][0] removed from iterable.
+Item root[1963]['classTime'][2] removed from iterable.
+Item root[1963]['tags'][0] removed from iterable.
+Item root[449]['tags'][0] removed from iterable.
+Item root[1866]['classTime'][2] removed from iterable.
+Item root[1808]['classTime'][1] removed from iterable.
+Item root[1808]['tags'][0] removed from iterable.
+Type of root[440]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[440]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室1/22".
+Type of root[456]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[456]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/22".
+Type of root[836]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[836]['changeDescription'] changed from NoneType to str and value changed from None to "修改備註內容1/22".
+Type of root[923]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[923]['changeDescription'] changed from NoneType to str and value changed from None to "取消限修條件1/22".
+Type of root[1001]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1001]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室1/22".
+Type of root[449]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[449]['changeDescription'] changed from NoneType to str and value changed from None to "1/22".
+Type of root[1294]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1294]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師1/22".
+Type of root[1539]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[1539]['changeDescription'] changed from NoneType to str and value changed from None to "1/22".
+Type of root[1550]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1550]['changeDescription'] changed from NoneType to str and value changed from None to "修改備註內容1/22".
+Type of root[1705]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1705]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/22".
+Type of root[1842]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1842]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師1/22".
+Type of root[1869]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1869]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師1/22".
+Type of root[1866]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[1866]['changeDescription'] changed from NoneType to str and value changed from None to "1/22".
+Type of root[2092]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2092]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師1/22".
+Type of root[2111]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2111]['changeDescription'] changed from NoneType to str and value changed from None to "修改備註說明1/22".
+Type of root[2149]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2149]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/22".
+Type of root[2198]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2198]['changeDescription'] changed from NoneType to str and value changed from None to "更換合授教師1/22".
+Type of root[1808]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[1808]['changeDescription'] changed from NoneType to str and value changed from None to "1/22".
+Type of root[2449]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2449]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師1/22".
+Type of root[2455]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2455]['changeDescription'] changed from NoneType to str and value changed from None to "更換勃師1/22".
+Type of root[2587]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2587]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/22".
+Type of root[2588]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2588]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/22".
+Type of root[2589]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2589]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/22".
+Type of root[2590]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2590]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/22".
+Type of root[2591]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2591]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/22".
+Value of root[121]['select'] changed from 2 to 0.
+Value of root[126]['select'] changed from 1 to 0.
+Value of root[135]['select'] changed from 1 to 0.
+Value of root[139]['select'] changed from 1 to 0.
+Value of root[140]['select'] changed from 1 to 0.
+Value of root[140]['selected'] changed from 1 to 0.
+Value of root[140]['remaining'] changed from 89 to 90.
+Value of root[152]['select'] changed from 1 to 0.
+Value of root[179]['select'] changed from 0 to 1.
+Value of root[180]['select'] changed from 0 to 1.
+Value of root[181]['select'] changed from 0 to 1.
+Value of root[182]['select'] changed from 12 to 0.
+Value of root[183]['select'] changed from 12 to 0.
+Value of root[184]['select'] changed from 7 to 0.
+Value of root[185]['select'] changed from 13 to 0.
+Value of root[186]['select'] changed from 8 to 0.
+Value of root[187]['select'] changed from 13 to 0.
+Value of root[210]['select'] changed from 1 to 0.
+Value of root[210]['selected'] changed from 1 to 0.
+Value of root[210]['remaining'] changed from 29 to 30.
+Value of root[252]['select'] changed from 2 to 0.
+Value of root[265]['select'] changed from 1 to 0.
+Value of root[282]['select'] changed from 1 to 0.
+Value of root[295]['select'] changed from 1 to 0.
+Value of root[319]['select'] changed from 1 to 0.
+Value of root[399]['select'] changed from 0 to 3.
+Value of root[400]['select'] changed from 0 to 3.
+Value of root[404]['select'] changed from 0 to 3.
+Value of root[408]['select'] changed from 0 to 1.
+Value of root[413]['select'] changed from 0 to 1.
+Value of root[415]['select'] changed from 0 to 2.
+Value of root[427]['select'] changed from 0 to 5.
+Value of root[428]['select'] changed from 0 to 5.
+Value of root[436]['select'] changed from 0 to 3.
+Value of root[463]['select'] changed from 0 to 9.
+Value of root[477]['select'] changed from 0 to 3.
+Value of root[502]['select'] changed from 0 to 3.
+Value of root[504]['select'] changed from 0 to 3.
+Value of root[526]['select'] changed from 0 to 1.
+Value of root[527]['select'] changed from 0 to 1.
+Value of root[528]['select'] changed from 0 to 1.
+Value of root[529]['select'] changed from 0 to 4.
+Value of root[530]['select'] changed from 0 to 4.
+Value of root[559]['select'] changed from 0 to 3.
+Value of root[560]['select'] changed from 0 to 2.
+Value of root[561]['select'] changed from 0 to 3.
+Value of root[562]['select'] changed from 0 to 2.
+Value of root[563]['select'] changed from 0 to 3.
+Value of root[564]['select'] changed from 0 to 2.
+Value of root[565]['select'] changed from 0 to 3.
+Value of root[566]['select'] changed from 0 to 2.
+Value of root[567]['select'] changed from 0 to 1.
+Value of root[569]['select'] changed from 0 to 1.
+Value of root[571]['select'] changed from 0 to 1.
+Value of root[572]['select'] changed from 0 to 1.
+Value of root[574]['select'] changed from 0 to 1.
+Value of root[590]['select'] changed from 0 to 2.
+Value of root[596]['select'] changed from 0 to 2.
+Value of root[597]['select'] changed from 0 to 2.
+Value of root[598]['select'] changed from 0 to 2.
+Value of root[599]['select'] changed from 0 to 2.
+Value of root[606]['select'] changed from 0 to 1.
+Value of root[607]['select'] changed from 0 to 1.
+Value of root[608]['select'] changed from 0 to 1.
+Value of root[609]['select'] changed from 0 to 1.
+Value of root[622]['select'] changed from 0 to 2.
+Value of root[623]['select'] changed from 0 to 2.
+Value of root[624]['select'] changed from 0 to 2.
+Value of root[625]['select'] changed from 0 to 2.
+Value of root[626]['select'] changed from 0 to 2.
+Value of root[627]['select'] changed from 0 to 2.
+Value of root[628]['select'] changed from 0 to 2.
+Value of root[633]['select'] changed from 0 to 1.
+Value of root[634]['select'] changed from 0 to 1.
+Value of root[635]['select'] changed from 0 to 1.
+Value of root[641]['select'] changed from 0 to 1.
+Value of root[664]['select'] changed from 0 to 1.
+Value of root[665]['select'] changed from 0 to 1.
+Value of root[676]['select'] changed from 0 to 1.
+Value of root[677]['select'] changed from 0 to 3.
+Value of root[678]['select'] changed from 0 to 1.
+Value of root[679]['select'] changed from 0 to 3.
+Value of root[680]['select'] changed from 0 to 1.
+Value of root[681]['select'] changed from 0 to 3.
+Value of root[683]['select'] changed from 0 to 1.
+Value of root[685]['select'] changed from 0 to 1.
+Value of root[687]['select'] changed from 0 to 1.
+Value of root[700]['select'] changed from 0 to 2.
+Value of root[701]['select'] changed from 0 to 2.
+Value of root[702]['select'] changed from 0 to 5.
+Value of root[702]['selected'] changed from 54 to 55.
+Value of root[702]['remaining'] changed from 6 to 5.
+Value of root[703]['select'] changed from 0 to 2.
+Value of root[704]['select'] changed from 0 to 2.
+Value of root[705]['select'] changed from 8 to 5.
+Value of root[705]['selected'] changed from 54 to 55.
+Value of root[705]['remaining'] changed from 16 to 15.
+Value of root[708]['select'] changed from 0 to 2.
+Value of root[711]['select'] changed from 0 to 2.
+Value of root[712]['select'] changed from 0 to 2.
+Value of root[713]['select'] changed from 0 to 2.
+Value of root[714]['select'] changed from 0 to 5.
+Value of root[714]['selected'] changed from 54 to 55.
+Value of root[714]['remaining'] changed from 26 to 25.
+Value of root[715]['select'] changed from 0 to 2.
+Value of root[716]['select'] changed from 0 to 2.
+Value of root[717]['select'] changed from 0 to 5.
+Value of root[717]['selected'] changed from 54 to 55.
+Value of root[717]['remaining'] changed from 6 to 5.
+Value of root[729]['select'] changed from 0 to 2.
+Value of root[732]['select'] changed from 0 to 2.
+Value of root[776]['select'] changed from 0 to 2.
+Value of root[779]['select'] changed from 0 to 2.
+Value of root[782]['select'] changed from 0 to 2.
+Value of root[784]['select'] changed from 0 to 1.
+Value of root[787]['select'] changed from 0 to 1.
+Value of root[790]['select'] changed from 0 to 1.
+Value of root[793]['select'] changed from 0 to 1.
+Value of root[797]['select'] changed from 0 to 1.
+Value of root[801]['select'] changed from 0 to 1.
+Value of root[804]['select'] changed from 0 to 1.
+Value of root[807]['select'] changed from 0 to 1.
+Value of root[815]['select'] changed from 0 to 1.
+Value of root[821]['select'] changed from 0 to 4.
+Value of root[822]['select'] changed from 0 to 4.
+Value of root[823]['select'] changed from 0 to 4.
+Value of root[825]['select'] changed from 0 to 1.
+Value of root[826]['select'] changed from 0 to 1.
+Value of root[827]['select'] changed from 0 to 1.
+Value of root[836]['description'] changed from "《講授類》" to "《講授類》
+限本校學生修習。".
+Value of root[838]['select'] changed from 0 to 2.
+Value of root[840]['select'] changed from 0 to 2.
+Value of root[842]['select'] changed from 0 to 2.
+Value of root[860]['select'] changed from 0 to 1.
+Value of root[861]['select'] changed from 0 to 1.
+Value of root[866]['select'] changed from 0 to 2.
+Value of root[867]['select'] changed from 0 to 3.
+Value of root[868]['select'] changed from 0 to 2.
+Value of root[870]['select'] changed from 0 to 2.
+Value of root[871]['select'] changed from 0 to 3.
+Value of root[892]['select'] changed from 0 to 2.
+Value of root[893]['select'] changed from 0 to 2.
+Value of root[894]['select'] changed from 0 to 1.
+Value of root[895]['select'] changed from 0 to 1.
+Value of root[896]['select'] changed from 0 to 1.
+Value of root[898]['select'] changed from 0 to 2.
+Value of root[902]['select'] changed from 0 to 2.
+Value of root[906]['select'] changed from 0 to 2.
+Value of root[907]['select'] changed from 0 to 1.
+Value of root[909]['select'] changed from 0 to 1.
+Value of root[911]['select'] changed from 0 to 1.
+Value of root[915]['select'] changed from 0 to 4.
+Value of root[916]['select'] changed from 0 to 2.
+Value of root[918]['select'] changed from 0 to 4.
+Value of root[919]['select'] changed from 0 to 2.
+Value of root[923]['description'] changed from "《講授類》
+限企管系(含雙主修、輔系)" to "《講授類》".
+Value of root[929]['select'] changed from 0 to 2.
+Value of root[931]['select'] changed from 0 to 2.
+Value of root[932]['select'] changed from 0 to 2.
+Value of root[947]['select'] changed from 0 to 1.
+Value of root[948]['select'] changed from 0 to 1.
+Value of root[949]['select'] changed from 0 to 1.
+Value of root[950]['select'] changed from 0 to 1.
+Value of root[951]['select'] changed from 0 to 1.
+Value of root[956]['select'] changed from 0 to 1.
+Value of root[956]['selected'] changed from 51 to 52.
+Value of root[956]['remaining'] changed from 4 to 3.
+Value of root[957]['select'] changed from 0 to 1.
+Value of root[957]['selected'] changed from 51 to 52.
+Value of root[957]['remaining'] changed from 9 to 8.
+Value of root[960]['select'] changed from 0 to 1.
+Value of root[960]['selected'] changed from 51 to 52.
+Value of root[960]['remaining'] changed from 4 to 3.
+Value of root[967]['select'] changed from 0 to 3.
+Value of root[968]['select'] changed from 0 to 3.
+Value of root[976]['select'] changed from 0 to 4.
+Value of root[977]['select'] changed from 0 to 4.
+Value of root[978]['select'] changed from 0 to 4.
+Value of root[979]['select'] changed from 0 to 4.
+Value of root[990]['select'] changed from 8 to 2.
+Value of root[990]['selected'] changed from 31 to 32.
+Value of root[990]['remaining'] changed from 19 to 18.
+Value of root[1000]['select'] changed from 0 to 2.
+Value of root[1001]['room'] changed from "一3,4(海MB 2016)" to "五5,B(海MB 2009)".
+Value of root[1005]['select'] changed from 0 to 3.
+Value of root[1011]['select'] changed from 0 to 3.
+Value of root[1015]['select'] changed from 0 to 3.
+Value of root[1019]['select'] changed from 0 to 1.
+Value of root[1963]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEC517&Crsname=水產資源" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MAEV352&Crsname=固體廢棄物處理".
+Value of root[1963]['changeDescription'] changed from "1/10" to "1/22".
+Value of root[1963]['department'] changed from "海生保育碩" to "海工系".
+Value of root[1963]['id'] changed from "MEC517" to "MAEV352".
+Value of root[1963]['grade'] changed from "0" to "3".
+Value of root[1963]['name'] changed from "水產資源
+FISHERIES RESOURCE MANAGEMENT" to "固體廢棄物處理
+SOLID WASTE MANAGEMENT".
+Value of root[1963]['credit'] changed from "2" to "3".
+Value of root[1963]['restrict'] changed from 20 to 50.
+Value of root[1963]['remaining'] changed from 20 to 50.
+Value of root[1963]['teacher'] changed from "林裕" to "待聘".
+Value of root[1963]['room'] changed from "三3,4(海MB 2009)" to "四6,7,8(海ME 2005)".
+Value of root[1022]['select'] changed from 0 to 1.
+Value of root[1028]['select'] changed from 0 to 1.
+Value of root[1030]['select'] changed from 0 to 1.
+Value of root[1052]['select'] changed from 0 to 1.
+Value of root[1063]['select'] changed from 0 to 1.
+Value of root[449]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL241&Crsname=俄文（二）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PE126&Crsname=經濟數學（二）".
+Value of root[449]['department'] changed from "外文系" to "政經系".
+Value of root[449]['id'] changed from "DFLL241" to "PE126".
+Value of root[449]['grade'] changed from "2" to "1".
+Value of root[449]['name'] changed from "俄文（二）
+RUSSIAN(II)" to "經濟數學（二）
+MATHEMATICS FOR ECONOMICS (II)".
+Value of root[449]['restrict'] changed from 20 to 50.
+Value of root[449]['remaining'] changed from 20 to 50.
+Value of root[449]['teacher'] changed from "待聘" to "顏孟芬".
+Value of root[449]['room'] changed from "五2,3,4(文LA 3016)" to "一2,3,4(社SS 3005)".
+Value of root[449]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1065]['select'] changed from 0 to 1.
+Value of root[1066]['select'] changed from 0 to 1.
+Value of root[1067]['select'] changed from 0 to 1.
+Value of root[1081]['select'] changed from 0 to 1.
+Value of root[1087]['select'] changed from 0 to 1.
+Value of root[1088]['select'] changed from 0 to 1.
+Value of root[1090]['select'] changed from 0 to 2.
+Value of root[1092]['select'] changed from 0 to 2.
+Value of root[1100]['select'] changed from 0 to 2.
+Value of root[1119]['select'] changed from 0 to 3.
+Value of root[1124]['select'] changed from 0 to 3.
+Value of root[1125]['select'] changed from 0 to 3.
+Value of root[1126]['select'] changed from 0 to 2.
+Value of root[1132]['select'] changed from 0 to 2.
+Value of root[1133]['select'] changed from 0 to 2.
+Value of root[1136]['select'] changed from 0 to 2.
+Value of root[1137]['select'] changed from 0 to 2.
+Value of root[1138]['select'] changed from 0 to 2.
+Value of root[1139]['select'] changed from 0 to 2.
+Value of root[1140]['select'] changed from 0 to 2.
+Value of root[1141]['select'] changed from 0 to 2.
+Value of root[1142]['select'] changed from 0 to 2.
+Value of root[1143]['select'] changed from 0 to 2.
+Value of root[1144]['select'] changed from 0 to 2.
+Value of root[1145]['select'] changed from 0 to 2.
+Value of root[1146]['select'] changed from 0 to 2.
+Value of root[1147]['select'] changed from 0 to 2.
+Value of root[1148]['select'] changed from 0 to 2.
+Value of root[1149]['select'] changed from 0 to 2.
+Value of root[1170]['select'] changed from 0 to 2.
+Value of root[1170]['selected'] changed from 27 to 28.
+Value of root[1170]['remaining'] changed from 23 to 22.
+Value of root[1171]['select'] changed from 0 to 2.
+Value of root[1171]['selected'] changed from 27 to 28.
+Value of root[1171]['remaining'] changed from 23 to 22.
+Value of root[1172]['select'] changed from 0 to 2.
+Value of root[1172]['selected'] changed from 27 to 28.
+Value of root[1172]['remaining'] changed from 23 to 22.
+Value of root[1173]['select'] changed from 0 to 2.
+Value of root[1173]['selected'] changed from 27 to 28.
+Value of root[1173]['remaining'] changed from 23 to 22.
+Value of root[1174]['select'] changed from 0 to 2.
+Value of root[1174]['selected'] changed from 27 to 28.
+Value of root[1174]['remaining'] changed from 23 to 22.
+Value of root[1175]['select'] changed from 0 to 2.
+Value of root[1175]['selected'] changed from 27 to 28.
+Value of root[1175]['remaining'] changed from 23 to 22.
+Value of root[1276]['selected'] changed from 4 to 0.
+Value of root[1276]['remaining'] changed from 46 to 50.
+Value of root[1277]['select'] changed from 0 to 6.
+Value of root[1288]['select'] changed from 0 to 6.
+Value of root[1294]['teacher'] changed from "徐芝敏,夏燦風" to "江友中,夏燦風".
+Value of root[1364]['select'] changed from 0 to 2.
+Value of root[1407]['select'] changed from 0 to 3.
+Value of root[1481]['select'] changed from 0 to 4.
+Value of root[1519]['select'] changed from 0 to 1.
+Value of root[1533]['select'] changed from 0 to 8.
+Value of root[1534]['select'] changed from 0 to 1.
+Value of root[1539]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE535D&Crsname=專題研究（二）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE545&Crsname=專題研究（四）".
+Value of root[1539]['id'] changed from "CSE535D" to "CSE545".
+Value of root[1539]['name'] changed from "專題研究（二）
+INDEPENDENT STUDIES(II)" to "專題研究（四）
+INDEPENDENT STUDIES(IV)".
+Value of root[1539]['description'] changed from "《獨立研究》
+限本系碩/博士生修習" to "《獨立研究》".
+Value of root[1550]['select'] changed from 0 to 8.
+Value of root[1550]['description'] changed from "《講授類》" to "《講授類》
+限本校學生修習".
+Value of root[1563]['select'] changed from 0 to 3.
+Value of root[1564]['select'] changed from 0 to 2.
+Value of root[1589]['select'] changed from 0 to 3.
+Value of root[1608]['select'] changed from 0 to 3.
+Value of root[1669]['selected'] changed from 14 to 15.
+Value of root[1669]['remaining'] changed from 36 to 35.
+Value of root[1679]['select'] changed from 0 to 1.
+Value of root[1680]['select'] changed from 0 to 1.
+Value of root[1681]['select'] changed from 0 to 1.
+Value of root[1682]['select'] changed from 0 to 1.
+Value of root[1686]['select'] changed from 0 to 1.
+Value of root[1705]['restrict'] changed from 50 to 30.
+Value of root[1705]['remaining'] changed from 50 to 30.
+Value of root[1727]['select'] changed from 0 to 2.
+Value of root[1747]['select'] changed from 0 to 1.
+Value of root[1814]['select'] changed from 0 to 2.
+Value of root[1815]['select'] changed from 0 to 5.
+Value of root[1822]['select'] changed from 0 to 4.
+Value of root[1829]['select'] changed from 0 to 4.
+Value of root[1830]['select'] changed from 0 to 4.
+Value of root[1831]['select'] changed from 0 to 4.
+Value of root[1842]['teacher'] changed from "溫志宏" to "廖睿妘".
+Value of root[1869]['teacher'] changed from "溫志宏" to "廖睿妘".
+Value of root[1866]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR597&Crsname=海洋天然物與化學分析（一）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MAEV557&Crsname=廢水生物處理方法".
+Value of root[1866]['multipleCompulsory'] changed from True to False.
+Value of root[1866]['department'] changed from "海資碩" to "海工碩".
+Value of root[1866]['id'] changed from "MBR597" to "MAEV557".
+Value of root[1866]['name'] changed from "海洋天然物與化學分析（一）
+MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS I" to "廢水生物處理方法
+BIOLOGICAL TREATMENT FOR WASTEWATER".
+Value of root[1866]['credit'] changed from "2" to "3".
+Value of root[1866]['teacher'] changed from "宋秉鈞,蘇瑞欣" to "待聘".
+Value of root[1866]['room'] changed from "三5,6(海生館第二研究大樓R 2002)" to "三5,6,7(海ME 2001)".
+Value of root[1866]['description'] changed from "《講授類》
+請注意上課地點在海生館" to "《講授類》
+ 
+※英語授課".
+Value of root[1866]['english'] changed from True to False.
+Value of root[1901]['select'] changed from 0 to 2.
+Value of root[1958]['select'] changed from 0 to 1.
+Value of root[1961]['select'] changed from 0 to 1.
+Value of root[1962]['select'] changed from 0 to 1.
+Value of root[1969]['select'] changed from 0 to 4.
+Value of root[1972]['select'] changed from 0 to 4.
+Value of root[1973]['select'] changed from 2 to 0.
+Value of root[1982]['select'] changed from 0 to 2.
+Value of root[1983]['select'] changed from 0 to 2.
+Value of root[1986]['select'] changed from 0 to 2.
+Value of root[1992]['select'] changed from 0 to 2.
+Value of root[2003]['select'] changed from 0 to 2.
+Value of root[2006]['select'] changed from 2 to 0.
+Value of root[2007]['select'] changed from 0 to 2.
+Value of root[2015]['select'] changed from 0 to 1.
+Value of root[2017]['select'] changed from 0 to 2.
+Value of root[2046]['select'] changed from 0 to 2.
+Value of root[2047]['select'] changed from 0 to 2.
+Value of root[2049]['select'] changed from 0 to 1.
+Value of root[2079]['select'] changed from 0 to 3.
+Value of root[2092]['teacher'] changed from "楊仁豪" to "楊仁豪,劉勃佑".
+Value of root[2093]['select'] changed from 0 to 1.
+Value of root[2094]['select'] changed from 0 to 1.
+Value of root[2096]['select'] changed from 0 to 1.
+Value of root[2099]['select'] changed from 0 to 1.
+Value of root[2106]['select'] changed from 1 to 0.
+Value of root[2108]['select'] changed from 0 to 1.
+Value of root[2111]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》
+需先修過本所「腦機介面理論及實務」課程，方可選修。
+※英語授課".
+Value of root[2117]['select'] changed from 0 to 1.
+Value of root[2118]['select'] changed from 0 to 1.
+Value of root[2119]['select'] changed from 0 to 1.
+Value of root[2120]['select'] changed from 0 to 1.
+Value of root[2137]['select'] changed from 0 to 1.
+Value of root[2149]['room'] changed from "一2,3,4(國IR 6017-2)" to "三2,3,4(國IR 6017-2)".
+Value of root[2158]['select'] changed from 0 to 4.
+Value of root[2160]['select'] changed from 0 to 4.
+Value of root[2197]['select'] changed from 0 to 1.
+Value of root[2198]['teacher'] changed from "陳英忠,張鼎張,李英杰,林勇志,洪勇智,王俊明,王志逢,莊豐任,謝佳旭,陳信助,馬誠佑,黃義佑" to "陳英忠,李英杰,林勇志,洪勇智,王俊明,王志逢,莊豐任,謝佳旭,鍾秀瑩,陳信助,馬誠佑,黃義佑".
+Value of root[2207]['select'] changed from 0 to 1.
+Value of root[2208]['select'] changed from 0 to 1.
+Value of root[2209]['select'] changed from 0 to 1.
+Value of root[2210]['select'] changed from 0 to 1.
+Value of root[2215]['select'] changed from 0 to 1.
+Value of root[2218]['selected'] changed from 26 to 27.
+Value of root[2218]['remaining'] changed from 24 to 23.
+Value of root[2219]['select'] changed from 0 to 2.
+Value of root[2220]['selected'] changed from 26 to 27.
+Value of root[2220]['remaining'] changed from 24 to 23.
+Value of root[2228]['select'] changed from 0 to 4.
+Value of root[2231]['selected'] changed from 11 to 12.
+Value of root[2231]['remaining'] changed from 39 to 38.
+Value of root[2233]['selected'] changed from 11 to 12.
+Value of root[2233]['remaining'] changed from 39 to 38.
+Value of root[2234]['selected'] changed from 11 to 12.
+Value of root[2234]['remaining'] changed from 39 to 38.
+Value of root[2238]['select'] changed from 1 to 0.
+Value of root[2239]['select'] changed from 0 to 6.
+Value of root[2253]['select'] changed from 0 to 1.
+Value of root[2259]['select'] changed from 0 to 1.
+Value of root[2262]['select'] changed from 0 to 1.
+Value of root[2264]['select'] changed from 0 to 1.
+Value of root[2301]['select'] changed from 0 to 1.
+Value of root[2306]['select'] changed from 0 to 3.
+Value of root[2323]['select'] changed from 0 to 2.
+Value of root[2326]['select'] changed from 0 to 3.
+Value of root[2380]['select'] changed from 0 to 1.
+Value of root[2391]['select'] changed from 0 to 1.
+Value of root[2394]['select'] changed from 2 to 0.
+Value of root[2395]['select'] changed from 0 to 1.
+Value of root[1808]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM559&Crsname=工作心理學" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BM758&Crsname=學術研究實務與分析技巧".
+Value of root[1808]['department'] changed from "企企管碩" to "企管博".
+Value of root[1808]['id'] changed from "BM559" to "BM758".
+Value of root[1808]['name'] changed from "工作心理學
+WORK PSYCHOLOGY" to "學術研究實務與分析技巧
+ACADEMIC RESEARCH PRACTICES AND DATA ANALYSIS".
+Value of root[1808]['room'] changed from "二6,7,8(管CM 1026)" to "二7,8,9(管CM 3022)".
+Value of root[1808]['description'] changed from "《講授類》" to "《講授類》
+企業管理組;".
+Value of root[1808]['english'] changed from False to True.
+Value of root[2422]['select'] changed from 0 to 1.
+Value of root[2423]['select'] changed from 0 to 1.
+Value of root[2424]['select'] changed from 0 to 1.
+Value of root[2425]['select'] changed from 0 to 1.
+Value of root[2444]['select'] changed from 1 to 0.
+Value of root[2449]['teacher'] changed from "溫志宏" to "廖睿妘".
+Value of root[2455]['teacher'] changed from "溫志宏" to "廖睿妘".
+Value of root[2476]['select'] changed from 0 to 1.
+Value of root[2484]['select'] changed from 0 to 1.
+Value of root[2485]['select'] changed from 0 to 1.
+Value of root[2508]['select'] changed from 0 to 1.
+Value of root[2509]['select'] changed from 0 to 1.
+Value of root[2516]['selected'] changed from 1 to 2.
+Value of root[2516]['remaining'] changed from 49 to 48.
+Value of root[2530]['select'] changed from 0 to 1.
+Value of root[2531]['select'] changed from 0 to 1.
+Value of root[2534]['select'] changed from 0 to 1.
+Value of root[2536]['select'] changed from 0 to 1.
+Value of root[2537]['select'] changed from 0 to 1.
+Value of root[2587]['restrict'] changed from 50 to 30.
+Value of root[2587]['remaining'] changed from 50 to 30.
+Value of root[2588]['restrict'] changed from 50 to 30.
+Value of root[2588]['remaining'] changed from 50 to 30.
+Value of root[2589]['restrict'] changed from 50 to 30.
+Value of root[2589]['remaining'] changed from 50 to 30.
+Value of root[2590]['restrict'] changed from 50 to 30.
+Value of root[2590]['remaining'] changed from 50 to 30.
+Value of root[2591]['restrict'] changed from 50 to 30.
+Value of root[2591]['remaining'] changed from 50 to 30.
+Value of root[2668]['select'] changed from 0 to 4.
+Value of root[2671]['select'] changed from 0 to 4.
+Value of root[2672]['select'] changed from 2 to 0.
+Value of root[2698]['select'] changed from 0 to 1.
