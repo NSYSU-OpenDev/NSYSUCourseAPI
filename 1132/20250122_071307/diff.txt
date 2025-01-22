@@ -1,0 +1,11 @@
+Item root[2412]['classTime'][1] added to iterable.
+Item root[179] removed from iterable.
+Item root[180] removed from iterable.
+Item root[181] removed from iterable.
+Repetition change for item root[2412]['classTime'][0].
+Type of root[2412]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[2412]['changeDescription'] changed from NoneType to str and value changed from None to "1/22".
+Value of root[1831]['teacher'] changed from "張姮燕,佘健源" to "佘健源,張姮燕".
+Value of root[1833]['teacher'] changed from "張姮燕,佘健源" to "佘健源,張姮燕".
+Value of root[2412]['room'] changed from "" to "二7,8,9(管CM 3022)".
+Value of root[2412]['english'] changed from False to True.
