@@ -1,0 +1,18 @@
+Item root[820]['classTime'][1] added to iterable.
+Item root[1058] added to iterable.
+Item root[820]['classTime'][2] removed from iterable.
+Type of root[1730]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[1730]['changeDescription'] changed from NoneType to str and value changed from None to "1/22".
+Type of root[2161]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2161]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室1/22".
+Value of root[820]['room'] changed from "三6,7(工EC 1005)" to "二6,7,8(工EC 5026)".
+Value of root[1730]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=FM549&Crsname=投資銀行" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=FM613L&Crsname=專題研究（二）".
+Value of root[1730]['id'] changed from "FM549" to "FM613L".
+Value of root[1730]['grade'] changed from "1" to "2".
+Value of root[1730]['name'] changed from "投資銀行
+INVESTMENT BANKING" to "專題研究（二）
+INDEPENDENT STUDIES(II)".
+Value of root[1730]['room'] changed from "五2,3,4(管CM 3019)" to "二2,3,4(管CM 2026)".
+Value of root[1730]['description'] changed from "《講授類》" to "《獨立研究》".
+Value of root[1730]['english'] changed from True to False.
+Value of root[2161]['room'] changed from "五2,3,4(工EC 3013)" to "五2,3,4(工EC 3005)".
