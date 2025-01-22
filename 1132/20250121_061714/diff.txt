@@ -1,4 +1,0 @@
-Value of root[860]['selected'] changed from 52 to 51.
-Value of root[860]['remaining'] changed from -2 to -1.
-Value of root[861]['selected'] changed from 52 to 51.
-Value of root[861]['remaining'] changed from -2 to -1.
