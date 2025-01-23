@@ -1,0 +1,17 @@
+Type of root[277]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[277]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/23".
+Type of root[814]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[814]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/23".
+Value of root[214]['changeDescription'] changed from "更換教室1/10" to "更換備註說明1/23".
+Value of root[214]['description'] changed from "《講授類》
+1、本課程修習通過後，可抵免通識教育之語文素養「中文思辨與表達」(限外籍及僑外學位生)。 2、課程成績仍須符合「國立中山大學西灣學院辦理學生通識教育課程抵免學分審查原則」並於規定時間辦理抵免學分手續。" to "《講授類》
+1、本課程修習通過後，可抵免通識教育之語文素養「中文思辨與表達」【限外籍、僑外及凡於高級中等教育階段修業，以非中文為主要授課語言者（例如修習國際文憑課程〔International Baccalaureate, IB〕、自學符合同等學力、於外僑學校或國外高中畢業者）身份之學位生】。 2、課程成績仍須符合「國立中山大學西灣學院辦理學生通識教育課程抵免學分審查原則」並於規定時間辦理抵免學分手續。".
+Value of root[277]['restrict'] changed from 20 to 25.
+Value of root[277]['remaining'] changed from 20 to 25.
+Value of root[277]['description'] changed from "《講授類》
+與跨院選修併班上課跨院通識與機電系MEME335課程併班上課" to "《講授類》
+跨院通識與機電系MEME335課程併班上課".
+Value of root[814]['restrict'] changed from 50 to 25.
+Value of root[814]['remaining'] changed from 50 to 25.
+Value of root[2056]['english'] changed from False to True.
+Value of root[2312]['room'] changed from "五C,D,E(社SS 2007)" to "三C,D,E(社SS 2007)".
