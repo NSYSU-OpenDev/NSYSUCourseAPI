@@ -45,8 +45,8 @@ INTRODUCTION TO VLSI DESIGN",3,期,False,50,0,0,50,王朝欽,"一2,3,4(工EC 301
 ※英語授課","['半導體元件學程', '半導體製程模組學程', '數位IC設計學程', '類比射頻IC設計學程', '矽光子學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3705&Crsname=實用數位系統設計,,,False,電機系,EE3705,3,不分班,"實用數位系統設計
 PRACTICAL DIGITAL SYSTEMS DESIGN",3,期,False,50,0,0,50,謝東佑,"三5,6,7(工EC 6019)","['', '', '567', '', '', '', '']",《講授類》,"['數位IC設計學程', '矽光子學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3715&Crsname=生醫工程實驗,,,False,電機系,EE3715,4,不分班,"生醫工程實驗
-BIOMEDICAL ENGINEERING LABORATORY",1,期,False,50,0,0,50,莊子肇,"五2,3,4(工EC 6018)(實驗)","['', '', '', '', '234', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3715&Crsname=生醫工程實驗,異動,調整名額1/23,False,電機系,EE3715,4,不分班,"生醫工程實驗
+BIOMEDICAL ENGINEERING LABORATORY",1,期,False,18,0,0,18,莊子肇,"五2,3,4(工EC 6018)(實驗)","['', '', '', '', '234', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3809&Crsname=生醫訊號處理與儀器實作專題,,,True,電機系,EE3809,3,甲班,"生醫訊號處理與儀器實作專題
 INDEPENDENT STUDIES IN BIOMEDICAL SIGNAL PROCESSING AND INSTRUMENTATION",2,期,True,50,0,0,50,待聘,"日1,2,3,4(工EC 6013)(實驗)","['', '', '', '', '', '', '1234']","《獨立研究》
 請自行找生醫組老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],False

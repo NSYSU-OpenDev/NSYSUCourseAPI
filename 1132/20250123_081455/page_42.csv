@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE222&Crsname=區塊鏈導論,新增,1/22,False,資工系,CSE222,4,不分班,"區塊鏈導論
-INTRODUCTION TO BLOCKCHAIN TECHNOLOGY",3,期,False,50,0,0,50,李淑敏,"二6,7,8(工EC 5026)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE222&Crsname=區塊鏈導論,新增,1/22,False,資工系,CSE222,2,不分班,"區塊鏈導論
+INTRODUCTION TO BLOCKCHAIN TECHNOLOGY",3,期,False,50,0,0,50,李淑敏,"二6,7,8(工EC 5026)","['', '678', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE223&Crsname=資料探勘,,,False,資工系,CSE223,2,不分班,"資料探勘
 DATA MINING",3,期,False,50,0,0,50,蔡崇煒,"四6,7,8(工EC 1005)","['', '', '', '678', '', '', '']",《講授類》,"['智慧長照微學程', '人工智慧工業應用學分學程', '人工智慧自然語言技術學分學程', '跨領域智慧製造學程', '智慧製造聯網微學程', '製造與大數據分析微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE260&Crsname=計算機組織,,,False,資工系,CSE260,2,不分班,"計算機組織
