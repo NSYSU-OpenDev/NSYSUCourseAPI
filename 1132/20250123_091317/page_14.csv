@@ -1,0 +1,66 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1303&Crsname=工程倫理,,,False,跨院選修(工),GEAI1303,0,不分班,"工程倫理
+ETHICS ENGINEERING",2,期,False,10,0,0,10,何應勤,"二8,9(工EN 3021)","['', '89', '', '', '', '', '']","《講授類》
+與跨院選修併班上課跨院通識與機電系MEME414課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1314&Crsname=電路學（一）,,,False,跨院選修(工),GEAI1314,0,不分班,"電路學（一）
+CIRCUIT THEORY (I)",3,期,True,10,0,0,10,盧展南,"一2,3,4(工EC 1001)","['234', '', '', '', '', '', '']","《講授類》
+跨院通識與電機系EE2400課程併班上課","['半導體元件學程', '半導體製程模組學程', '半導體設備工程學程', '數位IC設計學程', '類比射頻IC設計學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1314B&Crsname=電路學（一）,,,False,跨院選修(工),GEAI1314B,0,不分班,"電路學（一）
+CIRCUIT THEORY (I)",3,期,True,10,0,0,10,蘇健翔,"四2,3,4(工EC 3012)","['', '', '', '234', '', '', '']","《講授類》
+跨院通識與電機系EE2400B課程併班上課
+※英語授課","['半導體元件學程', '半導體製程模組學程', '半導體設備工程學程', '數位IC設計學程', '類比射頻IC設計學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1320&Crsname=電子學（二）,,,False,跨院選修(工),GEAI1320,0,不分班,"電子學（二）
+ELECTRONICS (II)",3,期,True,10,0,0,10,陳有德,"四2,3,4(工EC 6019)","['', '', '', '234', '', '', '']","《講授類》
+跨院通識與電機系EE2101課程併班上課","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1320B&Crsname=電子學（二）,,,False,跨院選修(工),GEAI1320B,0,不分班,"電子學（二）
+ELECTRONICS (II)",3,期,True,10,0,0,10,劉漢胤,"一5,6,7(工EC 3009)","['567', '', '', '', '', '', '']","《講授類》
+跨院通識與電機系EE2101B課程併班上課
+※英語授課","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1325&Crsname=微分方程,,,False,跨院選修(工),GEAI1325,0,不分班,"微分方程
+DIFFERENTIAL EQUATIONS",3,期,True,10,0,0,10,莊子肇,"三5,6,7(工EC 3014)","['', '', '567', '', '', '', '']","《講授類》
+限非應數系學生修習。跨院通識與電機系EE1201課程併班上課","['金融工程學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1325B&Crsname=微分方程,新增,1/14,False,跨院選修(工),GEAI1325B,0,不分班,"微分方程
+DIFFERENTIAL EQUATIONS",3,期,True,10,0,0,10,吳珮歆,,"['', '', '567X', '', '', '', '']","《講授類》
+限非應數系學生修習。混成課程。跨院通識與電機系EE1201B課程併班上課
+※英語授課","['金融工程學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1327&Crsname=嵌入式軟體設計,,,False,跨院選修(工),GEAI1327,0,不分班,"嵌入式軟體設計
+EMBEDDED SOFTWARE DESIGN AND PRACTICE",3,期,False,10,0,0,10,邱日清,"五5,6,7(工EC 3014)","['', '', '', '', '567', '', '']","《講授類》
+跨院通識與電機系EE2710課程併班上課","['人工智慧與數學學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1341&Crsname=電機機械,,,False,跨院選修(工),GEAI1341,0,不分班,"電機機械
+ELECTRICAL MACHINES",3,期,True,10,0,0,10,劉承宗,"一2,3,4(工EC 6019)","['234', '', '', '', '', '', '']","《講授類》
+跨院通識與電機系EE3402課程併班上課","['半導體設備工程學程', '永續能源學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1341B&Crsname=電機機械,,,False,跨院選修(工),GEAI1341B,0,不分班,"電機機械
+ELECTRICAL MACHINES",3,期,True,10,0,0,10,哈菲茲,"一2,3,4(工EC 3013)","['234', '', '', '', '', '', '']","《講授類》
+跨院通識與電機系EE3402B課程併班上課
+※英語授課","['半導體設備工程學程', '永續能源學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1342&Crsname=電磁學（二）,,,False,跨院選修(工),GEAI1342,0,不分班,"電磁學（二）
+ELECTROMAGNETICS (II)",3,期,True,10,0,0,10,洪子聖,"二2,3,4(工EC 1009)","['', '234', '', '', '', '', '']","《講授類》
+跨院通識與電機系EE3501課程併班上課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1342B&Crsname=電磁學（二）,,,False,跨院選修(工),GEAI1342B,0,不分班,"電磁學（二）
+ELECTROMAGNETICS (II)",3,期,True,10,0,0,10,王復康,"二2,3,4(工EC 6019)","['', '234', '', '', '', '', '']","《講授類》
+跨院通識與電機系EE3501B課程併班上課
+※英語授課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1343&Crsname=機率與統計,,,True,跨院選修(工),GEAI1343,0,不分班,"機率與統計
+PROBABILITY THEORY",3,期,True,10,0,0,10,陳有德,"三2,3,4(工EC 3013)","['', '', '234', '', '', '', '']","《講授類》
+跨院通識與電機系EE3607課程併班上課","['生成式AI素養微學程', '人工智慧探索應用學分學程', '人工智慧工業應用學分學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1350&Crsname=計算機組織,,,False,跨院選修(工),GEAI1350,0,不分班,"計算機組織
+COMPUTER ORGANIZATION",3,期,False,10,0,0,10,施信毓,"四6,7,8(工EC 2010)","['', '', '', '678', '', '', '']","《講授類》
+跨院通識與電機系EE2711課程併班上課","['數位IC設計學程', '軟體工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1364&Crsname=資料探勘,,,False,跨院選修(工),GEAI1364,0,不分班,"資料探勘
+DATA MINING",3,期,False,10,0,0,10,蔡崇煒,"四6,7,8(工EC 1005)","['', '', '', '678', '', '', '']","《講授類》
+跨院通識與資工系CSE223課程併班上課","['智慧長照微學程', '人工智慧工業應用學分學程', '人工智慧自然語言技術學分學程', '跨領域智慧製造學程', '智慧製造聯網微學程', '製造與大數據分析微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1366&Crsname=應用電子學,,,False,跨院選修(工),GEAI1366,0,不分班,"應用電子學
+APPLIED ELECTRONICS",3,期,True,10,0,0,10,林哲信,"四2,3,4(工EN 4055-1)","['', '', '', '234', '', '', '']","《講授類》
+跨院通識與機電系MEME209課程併班上課","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '自然科學之程式應用學程', '類比射頻IC設計學程', '矽光子學程', '南星產業樞紐學程', '海事工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1368&Crsname=創新資訊科技應用與創業,,,False,跨院選修(工),GEAI1368,0,不分班,"創新資訊科技應用與創業
+ CREATIVITY AND ENTREPRENEURSHIP VIA INFORMATION TECHNOLOGY APPLICATIONS",3,期,False,5,0,0,5,于欽平,"二2,3,4(國IR 3002)","['', '234', '', '', '', '', '']","《講授類》
+跨院通識與光電系EO1054課程併班上課",['創新創業微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1372&Crsname=綠色創新設計,異動,調整名額1/23,False,跨院選修(工),GEAI1372,0,不分班,"綠色創新設計
+GREEN INNOVATIVE DESIGN",3,期,False,25,0,0,25,楊政融,"四5,6,7(工EN 0031)","['', '', '', '567', '', '', '']","《講授類》
+跨院通識與機電系MEME335課程併班上課","['全英語通識教育菁英學程', '科技與環境英語微學程', '環境、社會及公司治理微學程', '碳流資訊盤查與低碳設計微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1401&Crsname=經濟學（二）,,,False,跨院選修(管),GEAI1401,0,不分班,"經濟學（二）
+ECONOMICS (II)",3,期,True,10,0,0,10,彭聖翔,"五5,6,7(管CM 0052)","['', '', '', '', '567', '', '']","《講授類》
+限非政經系學生修習。跨院通識與企管系BM106A課程併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1403&Crsname=管理學,,,False,跨院選修(管),GEAI1403,0,不分班,"管理學
+MANAGEMENT",3,期,True,30,0,0,30,林豪傑,"一2,3,4(管CM 4112)","['234', '', '', '', '', '', '']","《講授類》
+跨院通識與企管系BM112課程併班上課","['音樂藝術管理與行銷學程', '人力資源管理學程', '地方敘事與創生學程']",False
