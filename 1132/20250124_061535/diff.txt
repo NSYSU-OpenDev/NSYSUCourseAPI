@@ -1,0 +1,23 @@
+Item root[170] added to iterable.
+Type of root[179]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[179]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/24".
+Value of root[179]['restrict'] changed from 50 to 10.
+Value of root[179]['remaining'] changed from 50 to 10.
+Value of root[418]['selected'] changed from 0 to 13.
+Value of root[418]['remaining'] changed from 16 to 3.
+Value of root[419]['selected'] changed from 0 to 14.
+Value of root[419]['remaining'] changed from 16 to 2.
+Value of root[420]['selected'] changed from 0 to 16.
+Value of root[420]['remaining'] changed from 16 to 0.
+Value of root[421]['selected'] changed from 0 to 15.
+Value of root[421]['remaining'] changed from 16 to 1.
+Value of root[422]['selected'] changed from 0 to 13.
+Value of root[422]['remaining'] changed from 16 to 3.
+Value of root[423]['selected'] changed from 0 to 13.
+Value of root[423]['remaining'] changed from 16 to 3.
+Value of root[430]['selected'] changed from 0 to 19.
+Value of root[430]['remaining'] changed from 16 to -3.
+Value of root[431]['selected'] changed from 0 to 19.
+Value of root[431]['remaining'] changed from 16 to -3.
+Value of root[432]['selected'] changed from 0 to 17.
+Value of root[432]['remaining'] changed from 16 to -1.
