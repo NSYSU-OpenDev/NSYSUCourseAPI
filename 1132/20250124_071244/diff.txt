@@ -1,0 +1,18 @@
+Item root[170]['classTime'][3] added to iterable.
+Item root[170]['classTime'][3] removed from iterable.
+Item root[1496] removed from iterable.
+Type of root[507]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[507]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室1/24".
+Value of root[170]['description'] changed from "《講授類》" to "《講授類》
+1.臺灣大學葉丙成老師。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。 3.週四14:30-17:30同步上課2/20 20:00-22:00、3/6 20:00-21:00、3/20 20:00-21:00、4/10 20:00-21:00、5/1 20:00-21:00、5/15 20:00-21:00、6/5 20:00-21:00 4.實體期中期末考時間：4/17及6/12 14:30-17:30".
+Value of root[180]['changeDescription'] changed from "調整名額1/24" to "修正時間及名額1/24".
+Value of root[180]['description'] changed from "《講授類》
+1.開課單位及教師：臺灣大學葉丙成老師。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。 3.同步上課時間2/20 20:00-22:00、3/6 20:00-21:00、3/20 20:00-21:00、4/10 20:00-21:00、5/1 20:00-21:00、5/15 20:00-21:00、6/5 20:00-21:00 4.期中期末考時間：4/17及6/12 14:30-17:30" to "《講授類》
+1.臺灣大學葉丙成老師。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。 3.週四14:30-17:30同步上課2/20 20:00-22:00、3/6 20:00-21:00、3/20 20:00-21:00、4/10 20:00-21:00、5/1 20:00-21:00、5/15 20:00-21:00、6/5 20:00-21:00 4.期中期末考時間：4/17及6/12 14:30-17:30".
+Value of root[1003]['selected'] changed from 42 to 43.
+Value of root[1003]['remaining'] changed from 18 to 17.
+Value of root[1009]['selected'] changed from 42 to 43.
+Value of root[1009]['remaining'] changed from 8 to 7.
+Value of root[1013]['selected'] changed from 42 to 43.
+Value of root[1013]['remaining'] changed from 18 to 17.
+Value of root[1964]['credit'] changed from "3" to "2".
