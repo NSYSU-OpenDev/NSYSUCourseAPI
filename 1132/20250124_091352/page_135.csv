@@ -1,0 +1,50 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=UT541&Crsname=電子電路與控制,,,False,海下科技碩,UT541,0,,"電子電路與控制
+ELECTRONICS AND CONTROLS",3,期,False,50,0,0,50,謝孟璋,"五2,3,4(海MA 2052)","['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課",['海事工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=UT635&Crsname=水下機電專題研究（二）,,,False,海下科技碩,UT635,0,,"水下機電專題研究（二）
+INDEPENDENT STUDIES IN UNDERWATER MECHATRONICS (II)",2,期,False,50,0,0,50,"陳信宏,周佑誠,王兆璋,謝孟璋,邱永盛,魏瑞昌","一1,2(海MA 2052)","['12', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS503&Crsname=社會科學的哲學,,,False,政治碩,IPS503,1,,"社會科學的哲學
+PHILOSOPHY OF SOCIAL SCIENCE",3,期,True,50,4,14,36,杜坤峰,"三5,6,7(社SS 3010-1)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS513&Crsname=政治哲學與現代政治,,,False,政治碩,IPS513,0,,"政治哲學與現代政治
+POLITICAL PHILOSOPHY & MODERN POLITICS",3,期,False,50,0,0,50,楊尚儒,"三C,D,E(社SS 3008)","['', '', 'CDE', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS517&Crsname=國際政治思想,,,False,政治碩,IPS517,0,,"國際政治思想
+INTERNATIONAL POLITICAL THOUGHT",3,期,False,50,0,0,50,杜坤峰,"四5,6,7(社SS 3010-2)","['', '', '', '567', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS558&Crsname=比較政治,,,False,政治碩,IPS558,1,,"比較政治
+COMPARATIVE POLITICS",3,期,True,50,4,14,36,張晉赫,"三2,3,4(社SS 3010-2)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS560&Crsname=比較威權,,,False,政治碩,IPS560,0,,"比較威權
+COMPARATIVE AUTHORITARIANISM",3,期,False,50,0,0,50,黃韋豪,"二2,3,4(社SS 3010-2)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS603&Crsname=專題研究（二）,,,False,政治碩,IPS603,0,,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,0,50,陳宗巖,"五2,3,4()","['', '', '', '', '234', '', '']","《獨立研究》
+限政治所博碩士生經所屬指導教授同意後選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS603A&Crsname=專題研究（二）,,,False,政治碩,IPS603A,0,,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,0,50,張晉赫,"五2,3,4()","['', '', '', '', '234', '', '']","《獨立研究》
+限政治所博碩士生經所屬指導教授同意後選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS603B&Crsname=專題研究（二）,,,False,政治碩,IPS603B,0,,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,0,50,黃韋豪,"五2,3,4()","['', '', '', '', '234', '', '']","《獨立研究》
+限政治所博碩士生經所屬指導教授同意後選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS630&Crsname=國際政治經濟學,,,False,政治碩,IPS630,0,,"國際政治經濟學
+INTERNATIONAL POLITICAL ECONOMY",3,期,False,50,0,0,50,黃韋豪,"四2,3,4(社SS 3010-2)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS631&Crsname=國際法,,,False,政治碩,IPS631,0,,"國際法
+INTERNATIONAL LAW",3,期,False,50,0,0,50,胡念祖,"二7,8,9(社SS 3010-2)","['', '789', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS637&Crsname=國際組織,,,False,政治碩,IPS637,0,,"國際組織
+INTERNATIONAL ORGANIZATIONS",3,期,False,50,0,0,50,陳宗巖,"一2,3,4(社SS 3010-2)","['234', '', '', '', '', '', '']",《講授類》,['全球研究學分學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS658&Crsname=比較選舉政治,,,False,政治碩,IPS658,0,,"比較選舉政治
+COMPARATIVE ELECTORAL POLITICS",3,期,False,50,0,0,50,張晉赫,"三5,6,7(社SS 3008)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS673&Crsname=學門跨域專題講座(二),,,False,政治碩,IPS673,0,,"學門跨域專題講座(二)
+SPECIAL LECTURES ON THE DISCIPLINE AND BEYOND(II)",1,期,False,50,0,0,50,楊尚儒,四B(社SS 3007),"['', '', '', 'B', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CAPS568&Crsname=日本政府與政治,,,True,亞太碩,CAPS568,1,,"日本政府與政治
+JAPANESE POLITICS",3,期,True,50,0,0,50,郭育仁,"二6,7,8(社SS 2011)","['', '678', '', '', '', '', '']",《講授類》,['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CAPS568&Crsname=日本政府與政治,,,True,亞太碩,CAPS568,1,,"日本政府與政治
+JAPANESE POLITICS",3,期,True,50,0,0,50,郭育仁,"二6,7,8(社SS 2011)","['', '678', '', '', '', '', '']",《講授類》,['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CAPS586&Crsname=全球化與經濟發展,,,False,亞太碩,CAPS586,2,,"全球化與經濟發展
+GLOBALIZATION AND ECONOMIC DEVELOPMENT",3,期,False,50,0,0,50,蔡書瑋,"二2,3,4(社SS 2007)","['', '234', '', '', '', '', '']",《講授類》,['全球研究學分學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ASPT546&Crsname=材料表面特性與分析,,,False,半導體封測所,ASPT546,1,,"材料表面特性與分析
+SURFACE CHARACTERIZATION OF MATERIALS",3,期,False,11,0,0,11,王志逢,"五2,3,4(國IR 4002)","['', '', '', '', '234', '', '']","《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ASPT546&Crsname=材料表面特性與分析,,,False,半導體封測所,ASPT546,1,,"材料表面特性與分析
+SURFACE CHARACTERIZATION OF MATERIALS",3,期,False,11,0,0,11,王志逢,"五2,3,4(國IR 4002)","['', '', '', '', '234', '', '']","《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課",['半導體製程模組學程'],False
