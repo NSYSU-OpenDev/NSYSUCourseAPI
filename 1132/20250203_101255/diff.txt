@@ -1,0 +1,36 @@
+Item root[137]['classTime'][2] added to iterable.
+Item root[384]['classTime'][0] added to iterable.
+Item root[388]['classTime'][2] added to iterable.
+Item root[137]['classTime'][2] removed from iterable.
+Item root[384]['classTime'][2] removed from iterable.
+Item root[388]['classTime'][0] removed from iterable.
+Type of root[384]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[384]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間2/3".
+Type of root[388]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[388]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間2/3".
+Type of root[395]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[395]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/3".
+Value of root[137]['room'] changed from "三7(管CM 0052)" to "三7,8,9(管CM 0052)".
+Value of root[137]['description'] changed from "《講授類》
+1.開課單位及教師：東海大學甘偵蓉老師。本校協同教師：西灣學院李育諭助理教授 2.本課程須至實體教室進行同步遠距上課，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。3.上課時間：每週三15:20~18:10。同步考試：4/16線上Take home exam，無法配合課程時間及同步考試時間的同學請勿選課。" to "《講授類》
+1.開課單位及教師：東海大學甘偵蓉老師。本校協同教師：西灣學院李育諭助理教授 2.本課程須至實體教室進行同步遠距上課及實體活動，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。3.上課時間：每週三15:20~18:10。同步考試：4/16線上Take home exam，無法配合課程時間及同步考試時間的同學請勿選課。".
+Value of root[184]['room'] changed from "三7,8,9(同步遠距)" to "三7,8,9(管CM 0052)".
+Value of root[184]['description'] changed from "《講授類》
+1.開課單位及教師：東海大學甘偵蓉老師。本校協同教師：西灣學院李育諭助理教授 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。3.上課時間：每週三15:20~18:10。同步考試：4/16線上Take home exam，無法配合同步考試時間的同學請勿選課。" to "《講授類》
+1.開課單位及教師：東海大學甘偵蓉老師。本校協同教師：西灣學院李育諭助理教授 2.本課程須至實體教室進行同步遠距上課及實體活動，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。3.上課時間：每週三15:20~18:10。同步考試：4/16線上Take home exam，無法配合課程時間及同步考試時間的同學請勿選課。".
+Value of root[384]['room'] changed from "三6,7(西SW 1004)" to "一7,8(西SW 1004)".
+Value of root[388]['room'] changed from "一7,8(西SW 1007)" to "三6,7(西SW 1007)".
+Value of root[395]['restrict'] changed from 30 to 40.
+Value of root[395]['remaining'] changed from 30 to 40.
+Value of root[680]['select'] changed from 0 to 1.
+Value of root[680]['selected'] changed from 19 to 18.
+Value of root[680]['remaining'] changed from 31 to 32.
+Value of root[682]['select'] changed from 0 to 1.
+Value of root[682]['selected'] changed from 19 to 18.
+Value of root[682]['remaining'] changed from 31 to 32.
+Value of root[684]['select'] changed from 0 to 1.
+Value of root[684]['selected'] changed from 19 to 18.
+Value of root[684]['remaining'] changed from 31 to 32.
+Value of root[1085]['select'] changed from 0 to 1.
+Value of root[1085]['selected'] changed from 51 to 50.
+Value of root[1085]['remaining'] changed from 4 to 5.
