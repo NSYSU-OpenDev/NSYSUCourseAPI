@@ -1,0 +1,54 @@
+Item root[147]['classTime'][1] added to iterable.
+Item root[390]['classTime'][1] added to iterable.
+Item root[2286]['classTime'][2] added to iterable.
+Item root[2295]['classTime'][3] added to iterable.
+Item root[147]['classTime'][1] removed from iterable.
+Item root[390]['classTime'][1] removed from iterable.
+Item root[2286]['classTime'][3] removed from iterable.
+Item root[2295]['classTime'][3] removed from iterable.
+Type of root[147]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[147]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間2/3".
+Type of root[390]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[390]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間2/3".
+Type of root[2278]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2278]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教師2/3".
+Type of root[2279]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2279]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教師2/3".
+Type of root[2280]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2280]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師2/3".
+Type of root[2285]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2285]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師2/3".
+Type of root[2286]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2286]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教師2/3".
+Type of root[2291]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2291]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師2/3".
+Type of root[2294]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2294]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師2/3".
+Type of root[2295]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2295]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教師2/3".
+Value of root[147]['room'] changed from "二6,7,8(通GE 2006)" to "二5,6,7(通GE 2006)".
+Value of root[390]['room'] changed from "二5,B(通GE 2006)" to "二8,B(通GE 2006)".
+Value of root[823]['select'] changed from 1 to 2.
+Value of root[823]['selected'] changed from 59 to 58.
+Value of root[823]['remaining'] changed from 1 to 2.
+Value of root[824]['select'] changed from 1 to 2.
+Value of root[824]['selected'] changed from 59 to 58.
+Value of root[824]['remaining'] changed from 1 to 2.
+Value of root[825]['select'] changed from 1 to 2.
+Value of root[825]['selected'] changed from 59 to 58.
+Value of root[825]['remaining'] changed from 1 to 2.
+Value of root[1031]['changeDescription'] changed from "更換時間1/9" to "更換教室2/3".
+Value of root[1057]['change'] changed from "新增" to "異動".
+Value of root[1057]['changeDescription'] changed from "1/9" to "更換時間2/3".
+Value of root[1949]['changeDescription'] changed from "更換時間1/9" to "更換教室2/3".
+Value of root[2278]['teacher'] changed from "林豪傑" to "蔡佳芬".
+Value of root[2278]['room'] changed from "四1,A(圖資中信廳)" to "二1,A(圖資中信廳)".
+Value of root[2279]['teacher'] changed from "王昭文" to "陳旻男".
+Value of root[2279]['room'] changed from "三E,F(台北)" to "二E,F(台北)".
+Value of root[2280]['teacher'] changed from "王昭文" to "陳旻男".
+Value of root[2286]['teacher'] changed from "林豪傑" to "蔡佳芬".
+Value of root[2286]['room'] changed from "四E,F(台北)" to "三C,D(台北)".
+Value of root[2291]['teacher'] changed from "林豪傑" to "蔡佳芬".
+Value of root[2294]['teacher'] changed from "林豪傑" to "蔡佳芬".
+Value of root[2295]['teacher'] changed from "林豪傑" to "蔡佳芬".
+Value of root[2295]['room'] changed from "四8,9,C(台北)" to "四7,8,9(台北)".
