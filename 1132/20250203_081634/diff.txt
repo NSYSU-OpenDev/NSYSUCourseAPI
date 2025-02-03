@@ -1,0 +1,21 @@
+Item root[1057]['classTime'][0] added to iterable.
+Item root[1057]['classTime'][0] removed from iterable.
+Item root[387] removed from iterable.
+Type of root[1217]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1217]['changeDescription'] changed from NoneType to str and value changed from None to "修正合授教師2/3".
+Type of root[1282]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1282]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師2/3".
+Type of root[1290]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1290]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師2/3".
+Type of root[1943]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1943]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/3".
+Value of root[158]['changeDescription'] changed from "確認合授教師1/22" to "更換部份時間2/3".
+Value of root[1031]['room'] changed from "一3,4(海MA 3040)" to "一3,4(海MA 2034)".
+Value of root[1057]['room'] changed from "一6,7,8(海MA 3020)" to "一8,9,B(海MA 3020)".
+Value of root[1131]['restrict'] changed from 30 to 50.
+Value of root[1131]['remaining'] changed from 30 to 50.
+Value of root[1282]['teacher'] changed from "待聘" to "張正霖".
+Value of root[1290]['teacher'] changed from "待聘" to "張正霖".
+Value of root[1943]['room'] changed from "三3,4(海MA 3040)" to "三3,4(海MA 1020)".
+Value of root[1949]['room'] changed from "一3,4(海MA 3040)" to "一3,4(海MA 2034)".
+Value of root[2285]['teacher'] changed from "林豪傑" to "蔡佳芬".
