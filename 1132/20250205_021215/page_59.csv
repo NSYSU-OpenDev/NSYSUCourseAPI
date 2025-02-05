@@ -30,7 +30,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DPBM311
 MEDICAL SKILL TRAINING PROGRAM(IV)",1,年,True,50,0,23,27,"王慧婷,王慧婷,陳德全,陳秀玲",,"['', '', '', '', '', '123456789', '123456789']","《醫學類》
 限後醫系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DPBM314&Crsname=醫學資訊、實證醫學與研究（四）,,,False,後醫學系,DPBM314,3,不分班,"醫學資訊、實證醫學與研究（四）
-MEDICAL INFORMATION, EVIDENCE-BASED MEDICINE AND RESEARCH(IV)",1,期,True,50,0,23,27,"陳貞吟,陳秀玲,陳貞吟",,"['356', '3456', '56', '3', '3456', '', '']","《醫學類》
+MEDICAL INFORMATION, EVIDENCE-BASED MEDICINE AND RESEARCH(IV)",1,期,True,50,0,23,27,"陳貞吟,何淳寧,洪國全,陳秀玲,陳貞吟",,"['356', '3456', '56', '3', '3456', '', '']","《醫學類》
 限後醫系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DPBM315&Crsname=溝通與專業素養（六）,,,False,後醫學系,DPBM315,3,不分班,"溝通與專業素養（六）
 COMMUNICATION AND PROFESSIONALISM(VI)",1,期,True,50,0,23,27,"陳德全,張博智,陳德全",,"['12345678', '56', '', '5678', '56', '', '']","《醫學類》
@@ -54,6 +54,6 @@ INTRODUCTION TO BIOMEDICAL SCIENCE AND TECHNOLOGY（II）",2,期,True,50,2,28,22
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED101&Crsname=基礎生物學,,,False,醫學院,MED101,0,不分班,"基礎生物學
 BASIC CONCEPTS OF BIOLOGY",2,期,False,5,0,0,5,"張玉泉,薛佑玲,鄭光宏","四8,9(通GE 1010)","['', '', '', '89', '', '', '']","《講授類》
 限醫學院大學部學生修習",['環境教育學程'],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED103&Crsname=智慧長照服務創新開發模式,,,False,醫學院,MED103,0,不分班,"智慧長照服務創新開發模式
-DEVELOPMENT MODEL OF SERVICE INNOVATION FOR SMART LONG-TERM CARE",3,期,False,10,0,0,10,莊承鑫,"二5,6,7(國IR 5002)","['', '567', '', '', '', '', '']","《講授類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED103&Crsname=智慧長照服務創新開發模式,異動,更換時間2/5,False,醫學院,MED103,0,不分班,"智慧長照服務創新開發模式
+DEVELOPMENT MODEL OF SERVICE INNOVATION FOR SMART LONG-TERM CARE",3,期,False,10,0,0,10,莊承鑫,"三5,6,7(國IR 5002)","['', '', '567', '', '', '', '']","《講授類》
 限醫學院大學部學生修習",[],False

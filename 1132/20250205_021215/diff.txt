@@ -1,0 +1,69 @@
+Type of root[330]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[330]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間2/5".
+Type of root[1179]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1179]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間2/5".
+Type of root[1182]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1182]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1183]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1183]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1184]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1184]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1185]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1185]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1186]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1186]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1187]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1187]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1188]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1188]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1189]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1189]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1190]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1190]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1191]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1191]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1192]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1192]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1195]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1195]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1196]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1196]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1198]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1198]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Type of root[1199]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1199]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/5".
+Value of root[330]['room'] changed from "二5,6,7(國IR 5002)" to "三5,6,7(國IR 5002)".
+Value of root[351]['description'] changed from "《講授類》
+限醫學院大學部學生修習跨院通識與醫學院MED156課程併班上課" to "《講授類》
+跨院通識與醫學院MED156課程併班上課".
+Value of root[1179]['room'] changed from "二5,6,7(國IR 5002)" to "三5,6,7(國IR 5002)".
+Value of root[1182]['restrict'] changed from 20 to 15.
+Value of root[1182]['remaining'] changed from 20 to 15.
+Value of root[1183]['restrict'] changed from 20 to 15.
+Value of root[1183]['remaining'] changed from 20 to 15.
+Value of root[1184]['restrict'] changed from 20 to 15.
+Value of root[1184]['remaining'] changed from 20 to 15.
+Value of root[1185]['restrict'] changed from 50 to 15.
+Value of root[1185]['remaining'] changed from 50 to 15.
+Value of root[1186]['restrict'] changed from 20 to 15.
+Value of root[1186]['remaining'] changed from 20 to 15.
+Value of root[1187]['restrict'] changed from 20 to 15.
+Value of root[1187]['remaining'] changed from 20 to 15.
+Value of root[1188]['restrict'] changed from 20 to 15.
+Value of root[1188]['remaining'] changed from 20 to 15.
+Value of root[1189]['restrict'] changed from 20 to 15.
+Value of root[1189]['remaining'] changed from 20 to 15.
+Value of root[1190]['restrict'] changed from 20 to 15.
+Value of root[1190]['remaining'] changed from 20 to 15.
+Value of root[1191]['restrict'] changed from 20 to 15.
+Value of root[1191]['remaining'] changed from 20 to 15.
+Value of root[1192]['restrict'] changed from 20 to 15.
+Value of root[1192]['remaining'] changed from 20 to 15.
+Value of root[1195]['restrict'] changed from 20 to 15.
+Value of root[1195]['remaining'] changed from 20 to 15.
+Value of root[1196]['restrict'] changed from 20 to 15.
+Value of root[1196]['remaining'] changed from 20 to 15.
+Value of root[1198]['restrict'] changed from 20 to 15.
+Value of root[1198]['remaining'] changed from 20 to 15.
+Value of root[1199]['restrict'] changed from 20 to 15.
+Value of root[1199]['remaining'] changed from 20 to 15.
