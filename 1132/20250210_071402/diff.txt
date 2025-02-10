@@ -1,0 +1,17 @@
+Type of root[1405]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1405]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間2/10".
+Value of root[83]['select'] changed from 24 to 23.
+Value of root[83]['selected'] changed from 25 to 26.
+Value of root[83]['remaining'] changed from 0 to -1.
+Value of root[161]['select'] changed from 33 to 32.
+Value of root[161]['selected'] changed from 21 to 22.
+Value of root[161]['remaining'] changed from 59 to 58.
+Value of root[829]['select'] changed from 2 to 0.
+Value of root[829]['selected'] changed from 58 to 60.
+Value of root[829]['remaining'] changed from 2 to 0.
+Value of root[987]['select'] changed from 2 to 1.
+Value of root[987]['selected'] changed from 29 to 30.
+Value of root[987]['remaining'] changed from 21 to 20.
+Value of root[1083]['select'] changed from 2 to 0.
+Value of root[1083]['selected'] changed from 50 to 52.
+Value of root[1083]['remaining'] changed from 10 to 8.
