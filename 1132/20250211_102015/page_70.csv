@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS691&Crsname=低維度光電材料專題研究（二）,,,False,物理碩,PHYS691,2,不分班,"低維度光電材料專題研究（二）
+INDEPENDENT STUDIES IN LOW-DIMENSIONAL OPTOELECTRONIC MATERIALS（II）",3,期,False,50,0,0,50,盧怡穎,"四1,A,B(理PH 6009)","['', '', '', 'A1B', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS693&Crsname=隱形科學專題（二）,,,False,物理碩,PHYS693,2,不分班,"隱形科學專題（二）
+INDEPENDENT STUDIES IN SCIENCE OF INVISIBILITY (II)",3,期,False,50,0,0,50,林德鴻,"三1,A,B(理PH 7001)","['', '', 'A1B', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS695&Crsname=拓樸物理專題研究（二）,,,False,物理碩,PHYS695,2,不分班,"拓樸物理專題研究（二）
+INDEPENDENT STUDIES IN TOPOLOGICAL PHYSICS (II)",3,期,False,50,1,0,50,黃信銘,"一1,A,B(理PH 5004)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS697&Crsname=量子光學專題（二）,,,False,物理碩,PHYS697,2,不分班,"量子光學專題（二）
+INDEPENDENT STUDIES IN QUANTUM OPTICS (II)",3,期,False,50,0,0,50,陳易馨,"一1,A,B(理PH 6010)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS699&Crsname=量子計算專題（二）,,,False,物理碩,PHYS699,2,不分班,"量子計算專題（二）
+INDEPENDENT STUDIES IN QUANTUM COMPUTING(Ⅱ)",3,期,False,50,3,0,50,邱奎霖,"二1,A,B(理PH 3007)","['', 'A1B', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH501&Crsname=統計書報討論（一）,,,True,應數碩,MATH501,1,不分班,"統計書報討論（一）
+SEMINAR IN STATISTICS(I)",1,期,True,20,11,0,20,施嘉翰,四6(理SC 4009-1),"['', '', '', '6', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH502&Crsname=數理統計,,,False,應數碩,MATH502,0,不分班,"數理統計
+MATHEMATICAL STATISTICS",3,期,False,30,5,0,30,施嘉翰,"二2(理SC 4009-1) 四3,4(理SC 4009-1)","['', '2', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH504&Crsname=財務時間序列分析,,,False,應數碩,MATH504,0,不分班,"財務時間序列分析
+ANALYSIS OF FINANCIAL TIME SERIES",3,期,False,20,7,0,20,郭美惠,"一3,4(理SC 4009-0) 三4(理SC 4009-0)","['34', '', '4', '', '', '', '']",《講授類》,"['金融工程學程', '巨量資料分析學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH508&Crsname=統計品管,,,False,應數碩,MATH508,0,不分班,"統計品管
+STATISTICAL QUALITY CONTROL",3,期,False,20,8,0,20,郭美惠,"二4(理SC 4009-1) 五3,4(理SC 4009-1)","['', '4', '', '', '34', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH521&Crsname=Python與機器學習（二）,,,False,應數碩,MATH521,0,不分班,"Python與機器學習（二）
+MACHINE LEARNING WITH PYTHON (II)",3,期,False,30,15,0,30,張福春,"二5,6,7(理SC 4009-1)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH526&Crsname=計算書報討論（一）,,,True,應數碩,MATH526,1,不分班,"計算書報討論（一）
+SEMINAR IN SCIENTIFIC COMPUTING(I)",1,期,True,10,1,0,10,李宗錂,四6(理SC 4011),"['', '', '', '6', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH532&Crsname=矩陣理論,,,False,應數碩,MATH532,0,不分班,"矩陣理論
+MATRIX THEORY",3,期,False,20,4,0,20,李宗錂,"三3,4(理SC 4011) 四4(理SC 4011)","['', '', '34', '4', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH535&Crsname=無網格計算法,,,False,應數碩,MATH535,0,不分班,"無網格計算法
+MESHLESS METHODS",3,期,False,20,1,0,20,呂宗澤,"三6,7(理SC 4011) 四3(理SC 4011)","['', '', '67', '3', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH551&Crsname=數學書報討論（一）,,,True,應數碩,MATH551,1,不分班,"數學書報討論（一）
+SEMINAR IN MATHEMATICS(I)",1,期,True,10,1,0,10,許柏翰,四6(理SC 4013),"['', '', '', '6', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH558&Crsname=常微分方程,,,False,應數碩,MATH558,0,不分班,"常微分方程
+ORDINARY DIFFERENTIAL EQUATIONS",3,期,False,20,6,0,20,陳志漢,"五2,3,4(理SC 4013)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH561&Crsname=拓樸學,,,False,應數碩,MATH561,0,不分班,"拓樸學
+TOPOLOGY",3,期,False,20,0,0,20,何宗軒,"三3,4,B(理SC 4013)","['', '', '34B', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH569&Crsname=泛函分析,,,False,應數碩,MATH569,0,不分班,"泛函分析
+FUNCTIONAL ANALYSIS",3,期,False,20,1,0,20,何宗軒,"一5,6,7(理SC 4013)","['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH576&Crsname=測度論,,,False,應數碩,MATH576,0,不分班,"測度論
+MEASURE THEORY",3,期,False,20,1,0,20,何宗軒,"四3,4,B(理SC 4013)","['', '', '', '34B', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH586&Crsname=代數拓樸,,,False,應數碩,MATH586,0,不分班,"代數拓樸
+ALGERBRAIC TOPOLOGY",3,期,False,20,0,0,20,王以晟,"一3,4(理SC 4013) 二B(理SC 4013)","['34', 'B', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH595&Crsname=圖形著色,,,False,應數碩,MATH595,0,不分班,"圖形著色
+GRAPH COLORIGN",3,期,False,20,1,0,20,王彩蓮,"二2,3,4(理SC 4011-2)","['', '234', '', '', '', '', '']",《講授類》,[],False
