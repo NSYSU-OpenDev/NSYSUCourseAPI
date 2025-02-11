@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5514&Crsname=射頻通訊電路設計,,,False,電機碩,EE5514,0,不分班,"射頻通訊電路設計
+RF COMMUNICATION CIRCUIT DESIGN",3,期,False,50,3,0,50,洪子聖,"五2,3,4(工EC 3012)","['', '', '', '', '234', '', '']",《講授類》,['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5522&Crsname=無線通訊天線設計,,,False,電機碩,EE5522,0,不分班,"無線通訊天線設計
+ANTENNA DESIGN FOR WIRELESS COMMUNICATION",3,期,False,50,0,0,50,翁金輅,"一6,7,8(工EC 3010)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5523&Crsname=無線傳輸專題,,,False,電機碩,EE5523,0,不分班,"無線傳輸專題
+SPECIAL TOPICS IN WIRELESS TRANSMISSION",3,期,False,50,0,0,50,林根煌,"六2,3,4(工EC 8037)","['', '', '', '', '', '234', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5527&Crsname=微帶天線專題,,,False,電機碩,EE5527,0,不分班,"微帶天線專題
+SPECIAL TOPICS IN MICROSTRIP ANTENNAS",3,期,False,50,0,0,50,翁金輅,"五6,7,8(工EC 7013)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5531&Crsname=電磁理論,,,False,電機碩,EE5531,0,不分班,"電磁理論
+ELECTROMAGNETIC THEORY",3,期,False,50,2,0,50,郭志文,"二1,2,3(工EC 7040)","['', '123', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5532&Crsname=數值電磁專題,,,False,電機碩,EE5532,0,不分班,"數值電磁專題
+SPECIAL TOPICS IN COMPUTATIONAL ELECTROMAGNETICS",3,期,False,50,1,0,50,郭志文,"三1,2,3(工EC 6015-1)","['', '', '123', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5536&Crsname=電磁相容,,,False,電機碩,EE5536,0,不分班,"電磁相容
+ELECTROMAGNETIC COMPATIBILITY",3,期,False,50,0,0,50,林根煌,"三2,3,4(工EC 3012)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5538&Crsname=微波感測專題,,,False,電機碩,EE5538,0,不分班,"微波感測專題
+INDEPENDENT STUDIES IN MICROWAVE SENSING",3,期,False,50,0,0,50,王復康,"六2,3,4(工EC 7016-2)","['', '', '', '', '', '234', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5539&Crsname=微波主動電路專題,,,False,電機碩,EE5539,0,不分班,"微波主動電路專題
+INDEPENDENT STUDIES IN MICROWAVE ACTIVE CIRCUITS",3,期,False,50,1,0,50,李杰穎,"三2,3,4(工EC 8037)","['', '', '234', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5542&Crsname=雷達系統導論,,,False,電機碩,EE5542,0,不分班,"雷達系統導論
+INTRODUCTION TO RADAR SYSTEMS",3,期,False,50,0,0,50,王復康,"三2,3,4(工EC 3010)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5614&Crsname=視訊標準專題,,,False,電機碩,EE5614,0,不分班,"視訊標準專題
+SPECIAL TOPICS IN VIDEO CODING STANDARDS",3,期,False,50,0,0,50,葉家宏,"六6,7,8(工EC 7040)","['', '', '', '', '', '678', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5708&Crsname=低功率積體電路專題,,,False,電機碩,EE5708,0,不分班,"低功率積體電路專題
+SPECIAL TOPICS IN LOW POWER IC DESIGN",3,期,False,50,0,0,50,王朝欽,"一6,7,8(工EC 8013)","['678', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5711&Crsname=計算理論,,,False,電機碩,EE5711,0,不分班,"計算理論
+THE THEORY OF COMPUTATION",3,期,False,50,1,0,50,邱日清,"五2,3,4(工EC 3014)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5714&Crsname=嵌入式多核心系統與軟體,,,False,電機碩,EE5714,0,不分班,"嵌入式多核心系統與軟體
+EMBEDDED MULTI-CORE SYSTEMS AND SOFTWARE",3,期,False,50,2,0,50,邱日清,"四6,7,8(工EC 6016)","['', '', '', '678', '', '', '']","《講授類》
+與「緯創資通AI跨域應用產業碩士專班」併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5728&Crsname=照明電子設計專題,,,False,電機碩,EE5728,0,不分班,"照明電子設計專題
+INDEPENDENT STUDIES IN DESIGN OF ELECTRONIC CIRCUITS FOR LIGHTING APPLICATIONS",3,期,False,50,0,0,50,謝耀慶,"六2,3,4(通GE 2008)","['', '', '', '', '', '234', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5732&Crsname=超大型積體電路數位訊號處理,,,False,電機碩,EE5732,0,不分班,"超大型積體電路數位訊號處理
+VLSI DIGITAL SIGNAL PROCESSING",3,期,False,50,3,0,50,施信毓,"三5,6,7(工EC 3010)","['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課",['數位IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5734&Crsname=高等數位電路設計專題,,,False,電機碩,EE5734,0,不分班,"高等數位電路設計專題
+INDEPENDENT STUDIES IN ADVANCED DIGITAL CIRCUIT DESIGN",3,期,False,50,1,0,50,余祥華,"二2,3,4(工EC 6015-2)","['', '234', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5736&Crsname=數位通訊電路設計專題,,,False,電機碩,EE5736,0,不分班,"數位通訊電路設計專題
+INDEPENDENT STUDIES IN  DIGITAL COMMUNICATION IC DESIGN",3,期,False,50,1,0,50,施信毓,"一6,7,8(工EC 2018)","['678', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5737&Crsname=電腦視覺,,,False,電機碩,EE5737,0,不分班,"電腦視覺
+COMPUTER VISION",3,期,False,50,10,0,50,魏家博,"一2,3,4(工EC 2010)","['234', '', '', '', '', '', '']","《講授類》
+與「緯創資通AI跨域應用產業碩士專班」併班上課",['人工智慧視覺技術學分學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5738&Crsname=混合訊號積體電路設計專題,,,False,電機碩,EE5738,0,不分班,"混合訊號積體電路設計專題
+INDEPENDENT STUDIES IN MIXED-SIGNAL INTEGRATED CIRCUIT DESIGN",3,期,False,50,0,0,50,李宗哲,"一C,D,E(工EC 7021)","['CDE', '', '', '', '', '', '']",《獨立研究》,[],True
