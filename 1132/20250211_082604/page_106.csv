@@ -1,0 +1,48 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST523&Crsname=奈米材料專題研究 （二）,,,False,醫科碩,IMST523,0,不分班,"奈米材料專題研究 （二）
+INDEPENDENT STUDIES IN NANOMATERIALS （II）",3,期,False,20,2,0,20,廖子嫻,"一2,3,4(國IR 1006-12)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST531&Crsname=計算生物學,,,False,醫科碩,IMST531,0,不分班,"計算生物學
+COMPUTATIONAL BIOLOGY",3,期,False,20,2,0,20,陳志杰,"四2,3,4(國IR 1006-1)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST532&Crsname=生醫光學影像技術,,,False,醫科碩,IMST532,1,不分班,"生醫光學影像技術
+BIOMEDICAL OPTICAL IMAGING TECHNIQUES",3,期,True,30,2,6,24,范秀芳,"四2,3,4(理CH 2002)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['醫師工程師微學程', '生物技術學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST536&Crsname=神經人因工程專題研究（二）,,,False,醫科碩,IMST536,0,不分班,"神經人因工程專題研究（二）
+INDEPENDENT STUDIES IN NEUROERGONOMICS (II)",3,期,False,20,0,0,20,林遠彬,"一5,6,7(國IR 5002)","['567', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST540&Crsname=臨床毒理學專題研究（二）,,,False,醫科碩,IMST540,0,不分班,"臨床毒理學專題研究（二）
+INDEPENDENT STUDIES IN CLINICAL TOXICOLOGY (II)",3,期,False,15,2,0,15,李啟偉,"五4,5,B(國IR 1006-19)","['', '', '', '', '4B5', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST546&Crsname=毒理學,,,False,醫科碩,IMST546,0,不分班,"毒理學
+TOXICOLOGY",3,期,False,45,27,0,45,李啟偉,"五6,7,8(國IR 5002)","['', '', '', '', '678', '', '']",《講授類》,"['校園預防醫學暨食品安全學程', '食品安全學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST548&Crsname=急診醫學概論,,,False,醫科碩,IMST548,0,不分班,"急診醫學概論
+INTRODUCTION TO EMERGENCY MEDICINE",3,期,False,45,12,0,45,李啟偉,"四6,7,8(國IR 5002)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST556&Crsname=多功能材料專題研究（二）,,,False,醫科碩,IMST556,0,不分班,"多功能材料專題研究（二）
+INDEPENDENT STUDIES IN FUNCTIONAL MATERIALS（II）",3,期,False,20,1,0,20,陳玟帆,"五2,3,4(國IR 1006-1)","['', '', '', '', '234', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST558&Crsname=生物物理專題研究（二）,,,False,醫科碩,IMST558,0,不分班,"生物物理專題研究（二）
+INDEPENDENT STUDIES IN BIOPHYSICS（II）",3,期,False,20,1,0,20,范秀芳,"五2,3,4(理SC 4033-7)","['', '', '', '', '234', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST559&Crsname=骨材基礎概論與應用實作,新增,1/14,False,醫科碩,IMST559,0,不分班,"骨材基礎概論與應用實作
+FUNDAMENTAL CONCEPTS AND PRACTICE OF BONE MATERIALS",3,期,False,50,3,0,50,陳玟帆,"二5,6,7(國IR 5003)","['', '567', '', '', '', '', '']",《講授類》,['醫師工程師微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST562&Crsname=高齡心血管疾患專題研究,,,False,醫科碩,IMST562,0,不分班,"高齡心血管疾患專題研究
+INDEPENDENT STUDIES IN CARDIOVASCULAR DISEASE OF ELDERLY",3,期,False,20,0,0,20,"金憲國,李柏群","五7,8,9(國IR 1006-1)","['', '', '', '', '789', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST565&Crsname=生物力學,,,False,醫科碩,IMST565,1,不分班,"生物力學
+BIOMECHANICS",3,期,True,20,0,7,13,陳玟帆,"一5,6,7(國IR 5003)","['567', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['醫師工程師微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST568&Crsname=高齡口腔照護特論,,,False,醫科碩,IMST568,0,不分班,"高齡口腔照護特論
+SPECIAL TOPICS IN GERIATRIC DENTISTRY AND ORAL CARE OF ELDERLY",2,期,False,10,1,0,10,曾崇智,"四3,4(國IR 4005)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST574&Crsname=微奈米感測專題研究（二）,,,False,醫科碩,IMST574,0,不分班,"微奈米感測專題研究（二）
+INDEPENDENT STUDY IN MICRO/NANO SENSING TECHNOLOGY (II)",3,期,False,20,4,0,20,莊承鑫,"一2,3,4(體GM 2005)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST575&Crsname=腦波訊號處理與數據探勘,異動,修改備註說明1/22,False,醫科碩,IMST575,0,不分班,"腦波訊號處理與數據探勘
+SIGNAL PROCESSING AND DATA MINING IN ELECTROENCEPHALOGRAM",3,期,False,20,3,0,20,林遠彬,"四5,6,7(國IR 5003)","['', '', '', '567', '', '', '']","《講授類》
+需先修過本所「腦機介面理論及實務」課程，方可選修。
+※英語授課",['醫師工程師微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST584&Crsname=高齡檢驗醫學,,,False,醫科碩,IMST584,0,不分班,"高齡檢驗醫學
+ELDERLY LABORATORY MEDICINE",2,期,False,10,2,0,10,"儲天輝,李永國","一6,7(國IR 1006-1)","['67', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST585&Crsname=人體解剖學,,,False,醫科碩,IMST585,0,不分班,"人體解剖學
+HUMAN ANATOMY",3,期,False,20,0,0,20,柯翠玲,"二2,3,4(國IR 5003)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST586&Crsname=電腦輔助工程分析與設計,,,False,醫科碩,IMST586,0,不分班,"電腦輔助工程分析與設計
+COMPUTER AIDED ENGINEERING ANALYSES AND DESIGN",3,期,False,30,0,0,30,巫建興,"二5,6,7(醫IL 3014)","['', '567', '', '', '', '', '']","《講授類》
+因課堂上練習所需，修課學生需自備筆電。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST587&Crsname=科技於健康老化的促進,,,False,醫科碩,IMST587,0,不分班,"科技於健康老化的促進
+TECHNOLOGY IN THE PROMOTION OF HEALTHY AGING",2,期,False,30,0,0,30,陳嬿今,"二3,4(醫IL 3014)","['', '34', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMST602&Crsname=書報討論（四）,,,False,醫科碩,IMST602,2,不分班,"書報討論（四）
+SEMINAR (IV)",1,期,True,30,0,16,14,林遠彬,三7(國IR 5002),"['', '', '7', '', '', '', '']",《研討類》,[],False
