@@ -1,0 +1,50 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE627&Crsname=多媒體資料庫專題,,,False,資工碩,CSE627,0,不分班,"多媒體資料庫專題
+SPECIAL TOPICS IN MULTIMEDIA DATABASES",3,期,False,50,3,0,50,張玉盈,"一6,7,8(工EC 5025)","['678', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE631&Crsname=演算法專題,,,False,資工碩,CSE631,0,不分班,"演算法專題
+SPECIAL TOPICS IN ALGORITHMS",3,期,False,50,1,0,50,楊昌彪,"二6,7,8(工EC 5025)","['', '678', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE643&Crsname=系統晶片之軟硬體協同驗證,,,False,資工碩,CSE643,0,不分班,"系統晶片之軟硬體協同驗證
+HARDWARE/SOFTWARE CO-VERIFICATION OF SYSTEM-ON-CHIP",3,期,False,50,3,0,50,黃英哲,"一2,3,4(工EC 5026)","['234', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE644&Crsname=應用英文科技工程論文寫作,,,False,資工碩,CSE644,0,不分班,"應用英文科技工程論文寫作
+ENGLISH TECHNICAL WRITING FOR SCIENCE AND ENGINEERING JOURNALS, IN PRACTICE",3,期,False,10,11,0,10,希家史提夫,"三5,6,7(工EC 5026)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE662&Crsname=UNIX系統程式,,,False,資工碩,CSE662,0,不分班,"UNIX系統程式
+UNIX SYSTEM PROGRAMMING",3,期,False,50,16,0,50,希家史提夫,"一2,3,4(工EC 9032)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['自然科學之程式應用學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE663&Crsname=無線隨意與感測網路技術,,,False,資工碩,CSE663,0,不分班,"無線隨意與感測網路技術
+WIRELESS AD HOC AND SENSOR NETWORK TECHNOLOGY",3,期,False,50,16,0,50,王友群,"四6,7,8(工EC 5025)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE697&Crsname=人工智慧專題（二）,,,False,資工碩,CSE697,0,不分班,"人工智慧專題（二）
+INDEPENDENT STUDIES IN ARTIFICIAL INTELLIGENCE（II）",3,期,False,50,5,0,50,蔡崇煒,"三5,6,7(工EC 5007)","['', '', '567', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE697A&Crsname=人工智慧安全專題,,,False,資工碩,CSE697A,0,不分班,"人工智慧安全專題
+INDEPENDENT STUDIES IN ARTIFICIAL INTELLIGENCE SECURITY",3,期,False,50,12,0,50,徐瑞壕,"三5,6,7(工EC 9014)","['', '', '567', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE725&Crsname=高等類比與混合訊號積體電路設計專題,,,False,資工碩,CSE725,0,不分班,"高等類比與混合訊號積體電路設計專題
+INDEPENDENT STUDIES IN THE ADVANCED ANALOG AND MIXED-SIGNAL INTEGRATED CIRCUIT DESIGN",3,期,False,50,2,0,50,郭可驥,"一2,3,4(工EC 5025)","['234', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE501&Crsname=書報討論,,,False,通訊碩,ICE501,1,不分班,"書報討論
+SEMINAR",1,期,True,70,1,29,41,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
+與ICE501A、ICE701併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE501A&Crsname=書報討論,,,False,通訊碩,ICE501A,2,不分班,"書報討論
+SEMINAR",1,期,True,70,0,27,43,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
+與ICE501、ICE701併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE502&Crsname=隨機過程,異動,更換時間及教室1/22,False,通訊碩,ICE502,0,不分班,"隨機過程
+RANDOM PROCESSES",3,期,False,50,14,0,50,曾凡碩,"一2,3,4(工EC 2002)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE502A&Crsname=隨機過程,,,False,通訊碩,ICE502A,0,不分班,"隨機過程
+RANDOM PROCESSES",3,期,False,50,16,0,50,王藏億,"二2,3,4(工EC 2002)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE504&Crsname=數位通訊,,,False,通訊碩,ICE504,0,不分班,"數位通訊
+DIGITAL COMMUNICATIONS",3,期,False,50,0,0,50,新可夫,"一5,6,7(工EC 6015-2)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE506&Crsname=統計通信理論,,,False,通訊碩,ICE506,0,不分班,"統計通信理論
+STATISTICAL COMMUNICATION THEORY",3,期,False,50,16,0,50,溫朝凱,"四2,3,4(工EC 2002)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE519&Crsname=多重輸入輸出無線通訊系統,,,False,通訊碩,ICE519,0,不分班,"多重輸入輸出無線通訊系統
+MULTI-INPUT-MULTI-OUTPUT WIRELESS COMMUNICATION SYSTEMS",3,期,False,50,20,0,50,"陳彥銘,曾凡碩","四5,6,7(工EC 3012)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE530&Crsname=個人無線通訊系統架構和實行,,,False,通訊碩,ICE530,0,不分班,"個人無線通訊系統架構和實行
+SYSTEM ARCHITECTURE AND IMPLEMENTATION FOR PERSONAL WIRELESS COMMUNICATIONS",3,期,False,16,2,0,16,"溫朝凱,王復康","三5,6,7(工EC 2002)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE538&Crsname=現代錯誤更正編碼技術,,,False,通訊碩,ICE538,0,不分班,"現代錯誤更正編碼技術
+MODERN ERROR-CORRECTION CODING TECHNOLOGY",3,期,False,50,4,0,50,陳彥銘,"三5,6,7(工EC 8037)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE540&Crsname=下世代無線網路之全雙工通訊,,,False,通訊碩,ICE540,0,不分班,"下世代無線網路之全雙工通訊
+FULL-DUPLEX COMMUNICATIONS FOR FUTURE WIRELESS NETWORKS",3,期,False,50,0,0,50,新可夫,"四5,6,7(工EC 6015-2)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE609&Crsname=高等數位通訊專題,,,False,通訊碩,ICE609,0,不分班,"高等數位通訊專題
+INDEPENDENT STUDIES IN ADVANCED DIGITAL COMMUNICATIONS",3,期,False,50,0,0,50,李志鵬,"五6,7,8(工EC 9011)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
