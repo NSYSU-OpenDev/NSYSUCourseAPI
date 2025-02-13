@@ -1,0 +1,59 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH202A&Crsname=高等微積分（二）,,,False,應數系,MATH202A,2,全英班,"高等微積分（二）
+ADVANCED CALCULUS (II)",4,期,True,50,5,17,33,陳志偉,"一2,3(理SC 4011) 五6,7(理SC 4011)","['23', '', '', '', '67', '', '']","《講授類》
+選修過微積分(上)(下)或微積分(一)(二)，及高等微積分(一)者才可選修。
+※英語授課",['應用數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH204&Crsname=微分方程（一）,,,False,應數系,MATH204,2,不分班,"微分方程（一）
+DIFFERENTIAL EQUATIONS (I)",3,期,True,50,6,26,24,陳志漢,"二2,3(理SC 2001) 五5(理SC 2001)","['', '23', '', '', '5', '', '']",《講授類》,['應用數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH204A&Crsname=微分方程（一）,,,False,應數系,MATH204A,2,全英班,"微分方程（一）
+DIFFERENTIAL EQUATIONS (I)",3,期,True,50,13,17,33,李欣倫,"二1,2,3(理SC 0008)","['', '123', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['應用數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH206&Crsname=統計學（一）,,,False,應數系,MATH206,2,不分班,"統計學（一）
+STATISTICS (I)",3,期,True,50,9,28,22,李欣倫,"一2,3,4(理SC 4009-1)","['234', '', '', '', '', '', '']",《講授類》,"['應用數學學程', '巨量資料分析學程', '人工智慧與數學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH206A&Crsname=統計學（一）,,,False,應數系,MATH206A,2,全英班,"統計學（一）
+STATISTICS (I)",3,期,True,50,8,18,32,施嘉翰,"二4(理SC 0008) 三2,3(理SC 0008)","['', '4', '23', '', '', '', '']","《講授類》
+ 
+※英語授課","['應用數學學程', '巨量資料分析學程', '人工智慧與數學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH207&Crsname=離散數學（二）,,,False,應數系,MATH207,2,不分班,"離散數學（二）
+DISCRETE MATHEMATICS (II)",3,期,False,50,54,0,50,余冠儒,"二6,7(理SC 2001) 三B(理SC 2001)","['', '67', 'B', '', '', '', '']",《講授類》,"['人工智慧與數學學程', '軟體工程學程', '應用數學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH305&Crsname=數值分析（二）,,,False,應數系,MATH305,3,不分班,"數值分析（二）
+NUMERICAL ANALYSIS (II)",3,期,False,50,3,0,50,呂宗澤,"一6,7(理SC 4011) 四5(理SC 4011)","['67', '', '', '5', '', '', '']",《講授類》,"['人工智慧與數學學程', '軟體工程學程', '應用數學學程', '巨量資料分析學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH307&Crsname=機率論（二）,,,False,應數系,MATH307,2,不分班,"機率論（二）
+PROBABILITY THEORY (II)",3,期,False,50,58,0,50,許柏翰,"三5(理SC 0008) 五3,4(理SC 0008)","['', '', '5', '', '34', '', '']","《講授類》
+ 
+※英語授課","['人工智慧與數學學程', '人工智慧探索應用學分學程', '應用數學學程', '巨量資料分析學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH308&Crsname=代數學（二）,,,False,應數系,MATH308,3,不分班,"代數學（二）
+ALGEBRA (II)",3,期,False,50,3,0,50,王彩蓮,"三5,6,7(理SC 0014)","['', '', '567', '', '', '', '']",《講授類》,['應用數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH317&Crsname=應用數學專題研究（一）,,,False,應數系,MATH317,4,不分班,"應用數學專題研究（一）
+INDEPENDENT STUDIES IN APPLIED MATHEMATICS (I)",3,期,False,50,0,0,50,呂宗澤,"五6,7,8(理SC 4027)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH405&Crsname=統計品管,,,False,應數系,MATH405,4,不分班,"統計品管
+STATISTICAL QUALITY CONTROL",3,期,False,50,7,0,50,郭美惠,"二4(理SC 4009-1) 五3,4(理SC 4009-1)","['', '4', '', '', '34', '', '']","《講授類》
+與碩士班併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH451&Crsname=數理統計,,,False,應數系,MATH451,4,不分班,"數理統計
+MATHEMATICAL STATISTICS",3,期,False,50,19,0,50,施嘉翰,"二2(理SC 4009-1) 四3,4(理SC 4009-1)","['', '2', '', '34', '', '', '']","《講授類》
+與碩士班併班上課。",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH462&Crsname=Python與機器學習（二）,,,False,應數系,MATH462,3,不分班,"Python與機器學習（二）
+MACHINE LEARNING WITH PYTHON (II)",3,期,False,50,12,0,50,張福春,"二5,6,7(理SC 4009-1)","['', '567', '', '', '', '', '']","《講授類》
+與碩士班併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH488&Crsname=圖論,,,False,應數系,MATH488,3,不分班,"圖論
+GRAPH THEORY",3,期,False,50,26,0,50,王以晟,"四3,4,B(理SC 4027)","['', '', '', '34B', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH489&Crsname=拓樸學,,,False,應數系,MATH489,3,不分班,"拓樸學
+TOPOLOGY",3,期,False,50,2,0,50,何宗軒,"三3,4,B(理SC 4013)","['', '', '34B', '', '', '', '']","《講授類》
+與碩士班併班上課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH490&Crsname=代數拓樸,,,False,應數系,MATH490,4,不分班,"代數拓樸
+ALGERBRAIC TOPOLOGY",3,期,False,50,4,0,50,王以晟,"一3,4(理SC 4013) 二B(理SC 4013)","['34', 'B', '', '', '', '', '']","《講授類》
+與碩士班併班上課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE1004&Crsname=微積分（二）,,,False,電機系,EE1004,1,甲班,"微積分（二）
+CALCULUS(II)",3,期,True,50,4,26,24,陳美如,"四2,3,4(工EC 1009)","['', '', '', '234', '', '', '']","《講授類》
+甲、乙班與物理系併班上課；電機系限該班及重修生修習",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE1004A&Crsname=微積分（二）,,,False,電機系,EE1004A,1,乙班,"微積分（二）
+CALCULUS(II)",3,期,True,50,2,25,25,陳美如,"四2,3,4(工EC 1009)","['', '', '', '234', '', '', '']","《講授類》
+甲、乙班與物理系併班上課；電機系限該班及重修生修習",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE1004B&Crsname=微積分（二）,,,False,電機系,EE1004B,1,全英班,"微積分（二）
+CALCULUS(II)",3,期,True,60,11,56,4,陳美如,"五2,3,4(理SC 1005)","['', '', '', '', '234', '', '']","《講授類》
+與物理系全英語班併班上課
+※英語授課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE1201&Crsname=微分方程,,,False,電機系,EE1201,1,甲班,"微分方程
+DIFFERENTIAL EQUATIONS",3,期,True,50,12,26,24,莊子肇,"三5,6,7(工EC 3014)","['', '', '567', '', '', '', '']","《講授類》
+甲、乙班併班上課；限該班及重修生修習","['金融工程學程', '半導體製程模組學程']",False
