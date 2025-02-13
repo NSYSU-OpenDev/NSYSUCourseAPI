@@ -1,0 +1,46 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PH60004&Crsname=機器學習物理應用專題(二),,,False,物理碩,PH60004,2,不分班,"機器學習物理應用專題(二)
+INDEPENDENT STUDIES IN MACHINE LEARNING APPLICATIONS IN PHYSICS (II)",3,期,False,50,0,0,50,狄米契,"四3,4,B(理PH 6005)","['', '', '', '34B', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PH60008&Crsname=生醫光電與微流體系統專題(二),,,False,物理碩,PH60008,2,不分班,"生醫光電與微流體系統專題(二)
+INDEPENDENT STUDIES IN BIOMEDICAL PHOTONICS AND MICROFLUIDICS SYSTEM (II)",3,期,False,50,1,0,50,洪昇廷,"一1,A,B(理PH 6008)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PH60010&Crsname=非厄米特量子力學專題（二）,,,False,物理碩,PH60010,2,不分班,"非厄米特量子力學專題（二）
+INDEPENDENT STUDIES IN NON-HERMITIAN QUANTUM MECHANICS (II)",3,期,False,50,1,0,50,朱家誼,"五1,A,B(理PH 5006)","['', '', '', '', 'A1B', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PH60014&Crsname=太赫茲時域光譜和單像素相機專題(二),,,False,物理碩,PH60014,2,不分班,"太赫茲時域光譜和單像素相機專題(二)
+INDEPENDENT STUDIES IN TIME-DOMAIN TERAHERTZ SPECTROSCOPY AND SINGLE-PIXEL CAMERAS (II)",3,期,False,50,0,0,50,史丹哲夫,"一1,A,B(理PH 3008)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PH60016&Crsname=電波天文與星際介質專題(二),,,False,物理碩,PH60016,2,不分班,"電波天文與星際介質專題(二)
+INDEPENDENT STUDIES IN RADIO INTERFEROMETRY AND INSTERSTELLAR MEDIUM (II)",3,期,False,50,0,0,50,呂浩宇,"四1,A,B(理SC 2006-3)","['', '', '', 'A1B', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PH60018&Crsname=粒子理論物理專題(二),,,False,物理碩,PH60018,2,不分班,"粒子理論物理專題(二)
+INDEPENDENT STUDIES IN THEORETICAL PARTICLE PHYSICS (II)",3,期,False,50,0,0,50,岩本祥,"四1,A,B(理SC 2006-1)","['', '', '', 'A1B', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PH60020&Crsname=低維材料表徵和物理設備專題(二),,,False,物理碩,PH60020,2,不分班,"低維材料表徵和物理設備專題(二)
+INDEPENDENT STUDIES IN LOW-DIMENSIONAL MATERIALS CHARACTERIZATIONS AND PHYSICS DEVICES (II)",3,期,False,50,2,0,50,范越芳,"三1,A,B(理PH 7011)","['', '', 'A1B', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PH60022&Crsname=多體物理與數值方法專題(二),,,False,物理碩,PH60022,2,不分班,"多體物理與數值方法專題(二)
+INDEPENDENT STUDIES IN MANY-BODY PHYSICS AND NUMERICAL METHODS (II)",3,期,False,50,1,0,50,鍾佳民,"一1,A,B(理PH 6001)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS502&Crsname=高等量子力學,,,False,物理碩,PHYS502,1,不分班,"高等量子力學
+ADVANCED QUANTUM MECHANICS",3,期,False,50,16,0,50,林德鴻,"四2,3,4(理PH 1009)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS504&Crsname=書報討論（二）,,,False,物理碩,PHYS504,1,不分班,"書報討論（二）
+SEMINAR (II)",1,期,True,50,9,27,23,狄米契,四6(理PH 2006),"['', '', '', '6', '', '', '']",《演講/參訪》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS507&Crsname=電動力學,,,False,物理碩,PHYS507,1,不分班,"電動力學
+ELECTRODYNAMICS",3,期,False,50,31,0,50,狄米契,"五2,3,4(理PH 5008)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS508&Crsname=統計力學,,,False,物理碩,PHYS508,1,不分班,"統計力學
+STATISTICAL MECHANICS",3,期,False,50,36,0,50,鍾佳民,"一2,3,4(理PH 5008)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS511&Crsname=計算物理（一）,新增,1/22,False,物理碩,PHYS511,1,不分班,"計算物理（一）
+COMPUTATIONAL PHYSICS (I)",3,期,False,50,12,0,50,莊豐權,"一6,7,8(理PH 5008)","['678', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['計算物理及人工智慧微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS524&Crsname=材料物理現代特性分析技術,,,False,物理碩,PHYS524,1,不分班,"材料物理現代特性分析技術
+MODERN CHARACTERIZATION TECHNIQUES FOR MATERIALS PHYSICS",2,期,False,50,11,0,50,余健文,"二6,7(理PH 5008)","['', '67', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS606&Crsname=低溫物理專題（二）,,,False,物理碩,PHYS606,2,不分班,"低溫物理專題（二）
+INDEPENDENT STUDIES IN LOW TEMPERATURE PHYSICS (II)",3,期,False,50,0,0,50,"楊弘敦,錢德勒","四1,A,B(理PH 4010)","['', '', '', 'A1B', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS614&Crsname=書報討論（四）,,,False,物理碩,PHYS614,2,不分班,"書報討論（四）
+SEMINAR (IV)",1,期,False,50,6,0,50,邱奎霖,四7(理PH 2006),"['', '', '', '7', '', '', '']","《演講/參訪》
+需先修習書報討論(二)",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS615&Crsname=凝體物理（二）,,,False,物理碩,PHYS615,2,不分班,"凝體物理（二）
+CONDENSED MATTER PHYSICS (II)",3,期,False,50,7,0,50,余健文,"三2,3,4(理PH 5008)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['量子材料微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS622&Crsname=半導體奈米元件物理,,,False,物理碩,PHYS622,2,不分班,"半導體奈米元件物理
+SEMICONDUCTOR NANO DEVICE PHYSICS",3,期,False,50,50,0,50,張鼎張,"一C,D,E(理PH 2006)","['CDE', '', '', '', '', '', '']",《講授類》,"['半導體物理與先進元件分析微學程', '半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '半導體化學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS682&Crsname=相對論量子自旋專題（二）,,,False,物理碩,PHYS682,2,不分班,"相對論量子自旋專題（二）
+INDEPENDENT STUDIES IN RELATIVISTIC QUANTUM SPIN (II)",3,期,False,50,1,0,50,陳宗緯,"四1,A,B(理PH 7006)","['', '', '', 'A1B', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS684&Crsname=非區域自旋閥專題研究（二）,,,False,物理碩,PHYS684,2,不分班,"非區域自旋閥專題研究（二）
+INDEPENDENT STUDIES IN NON-LOCAL SPIN VALVE（II）",3,期,False,50,0,0,50,黃旭明,"一1,A,B(理PH 2008)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],True

@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS214&Crsname=近代物理,,,False,物理系,PHYS214,2,全英班,"近代物理
+MODERN PHYSICS",3,期,False,50,16,0,50,張鼎張,"五2,3,4(理PH 2006)","['', '', '', '', '234', '', '']",《講授類》,"['半導體物理與先進元件分析微學程', '半導體元件學程', '半導體製程模組學程', '量子材料微學程', '矽光子學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS304&Crsname=量子物理（二）,,,False,物理系,PHYS304,3,全英班,"量子物理（二）
+QUANTUM PHYSICS (II)",3,期,True,50,8,30,20,朱家誼,"三7(理PH 1009) 五3,4(理PH 1009)","['', '', '7', '', '34', '', '']","《講授類》
+此為一般組必修課程，提供全英組學生做為選修課程","['半導體元件學程', '量子材料微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS306&Crsname=實驗物理學（四）,,,False,物理系,PHYS306,3,全英班,"實驗物理學（四）
+EXPERIMENTAL PHYSICS (IV)",2,期,False,50,1,0,50,黃旭明,"二6(理SC2009,理SC2010) 二7,8(理SC2009,理SC2010)(實驗)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS328&Crsname=電動力學導論,,,False,物理系,PHYS328,2,全英班,"電動力學導論
+INTRODUCTION TO ELECTRODYNAMICS",3,期,True,50,13,18,32,黃信銘,"一6,7(理PH 1008) 三3(理PH 1008)","['67', '', '3', '', '', '', '']","《講授類》
+此為一般組必修課程，提供全英組學生做為選修課程",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS329&Crsname=熱統計物理,,,False,物理系,PHYS329,3,全英班,"熱統計物理
+STATISTICAL PHYSICS",3,期,True,50,14,30,20,林德鴻,"三5,6(理PH 1009) 五5(理PH 1009)","['', '', '56', '', '5', '', '']","《講授類》
+此為一般組必修課程，提供全英組學生做為選修課程","['半導體設備工程學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS206&Crsname=商事法,,,False,資管系,MIS206,2,,"商事法
+BUSINESS LAW",2,期,True,50,19,21,29,薛西全,"四C,D(管CM 4078)","['', '', '', 'CD', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS206&Crsname=商事法,,,False,資管系,MIS206,2,,"商事法
+BUSINESS LAW",2,期,True,50,19,21,29,薛西全,"四C,D(管CM 4078)","['', '', '', 'CD', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS206&Crsname=商事法,,,False,資管系,MIS206,2,,"商事法
+BUSINESS LAW",2,期,True,50,19,21,29,薛西全,"四C,D(管CM 4078)","['', '', '', 'CD', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=FM312&Crsname=管理會計,,,False,財管系,FM312,3,,"管理會計
+MANAGERIAL ACCOUNTING",3,期,False,50,30,0,50,陳俐聿,"四6,7,8(管CM 2025)","['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課",['會計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=FM455&Crsname=投資銀行管理,,,False,財管系,FM455,4,,"投資銀行管理
+INVESTMENT BANKING MANAGEMENT",3,期,False,50,19,0,50,廖源星,"五5,6,7(管CM 3017)","['', '', '', '', '567', '', '']","《講授類》
+ 
+※英語授課",['財務管理專業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM411&Crsname=倫理與社會責任的理論與實務,,,False,管理學院,CM411,0,,"倫理與社會責任的理論與實務
+THEORY AND PRACTICE OF ETHICS AND SOCIAL",1,期,False,200,48,0,200,"謝慧賢,王致遠,鄭安授,陳世哲",一9(網路大學),"['9', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限管理學院大學部學生修習(含雙主修、輔系)/網大進行之非同步線上課程","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM411&Crsname=倫理與社會責任的理論與實務,,,False,管理學院,CM411,0,,"倫理與社會責任的理論與實務
+THEORY AND PRACTICE OF ETHICS AND SOCIAL",1,期,False,200,48,0,200,"謝慧賢,王致遠,鄭安授,陳世哲",一9(網路大學),"['9', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限管理學院大學部學生修習(含雙主修、輔系)/網大進行之非同步線上課程","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM411&Crsname=倫理與社會責任的理論與實務,,,False,管理學院,CM411,0,,"倫理與社會責任的理論與實務
+THEORY AND PRACTICE OF ETHICS AND SOCIAL",1,期,False,200,48,0,200,"謝慧賢,王致遠,鄭安授,陳世哲",一9(網路大學),"['9', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限管理學院大學部學生修習(含雙主修、輔系)/網大進行之非同步線上課程","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM412&Crsname=國際商管倫理觀的理論與實務,,,False,管理學院,CM412,0,,"國際商管倫理觀的理論與實務
+THE THEORY AND PRACTICE OF ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,33,0,50,"王豫萱,王致遠,鄭安授",三A(網路大學),"['', '', 'A', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限管理學院大學部院生修習/網大進行之非同步線上課程 ※英語授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM412&Crsname=國際商管倫理觀的理論與實務,,,False,管理學院,CM412,0,,"國際商管倫理觀的理論與實務
+THE THEORY AND PRACTICE OF ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,33,0,50,"王豫萱,王致遠,鄭安授",三A(網路大學),"['', '', 'A', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限管理學院大學部院生修習/網大進行之非同步線上課程 ※英語授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM412&Crsname=國際商管倫理觀的理論與實務,,,False,管理學院,CM412,0,,"國際商管倫理觀的理論與實務
+THE THEORY AND PRACTICE OF ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,33,0,50,"王豫萱,王致遠,鄭安授",三A(網路大學),"['', '', 'A', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限管理學院大學部院生修習/網大進行之非同步線上課程 ※英語授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM412&Crsname=國際商管倫理觀的理論與實務,,,False,管理學院,CM412,0,,"國際商管倫理觀的理論與實務
+THE THEORY AND PRACTICE OF ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,33,0,50,"王豫萱,王致遠,鄭安授",三A(網路大學),"['', '', 'A', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限管理學院大學部院生修習/網大進行之非同步線上課程 ※英語授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MRSC115&Crsname=海洋應用科學,,,False,海科院（學）,MRSC115,0,全英班,"海洋應用科學
+APPLIED MARINE SCIENCES",2,期,True,150,108,0,150,"鄭源斌,廖志中,方力行,李世緯,樊同雲,邱永盛,金尚進,陳信宏,高世明","一6,7(海MA 3021)","['67', '', '', '', '', '', '']","《講授類》
+海資系、海工系及海科系大一必修 
+※英語授課","['自然生物資產微學程', '生物資訊與演化生態微學程', '探索海洋國家公園微學程', '海洋生物資源與實務應用微學程', '看見臺灣海岸微學程', '擁海學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MRSC115&Crsname=海洋應用科學,,,False,海科院（學）,MRSC115,0,全英班,"海洋應用科學
+APPLIED MARINE SCIENCES",2,期,True,150,108,0,150,"鄭源斌,廖志中,方力行,李世緯,樊同雲,邱永盛,金尚進,陳信宏,高世明","一6,7(海MA 3021)","['67', '', '', '', '', '', '']","《講授類》
+海資系、海工系及海科系大一必修 
+※英語授課","['自然生物資產微學程', '生物資訊與演化生態微學程', '探索海洋國家公園微學程', '海洋生物資源與實務應用微學程', '看見臺灣海岸微學程', '擁海學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MRSC115&Crsname=海洋應用科學,,,False,海科院（學）,MRSC115,0,不分班,"海洋應用科學
+APPLIED MARINE SCIENCES",2,期,True,150,108,0,150,"鄭源斌,廖志中,方力行,李世緯,樊同雲,邱永盛,金尚進,陳信宏,高世明","一6,7(海MA 3021)","['67', '', '', '', '', '', '']","《講授類》
+海資系、海工系及海科系大一必修 
+※英語授課","['自然生物資產微學程', '生物資訊與演化生態微學程', '探索海洋國家公園微學程', '海洋生物資源與實務應用微學程', '看見臺灣海岸微學程', '擁海學程']",False
