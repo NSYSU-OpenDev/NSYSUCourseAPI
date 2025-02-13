@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH595&Crsname=圖形著色,,,False,應數碩,MATH595,0,不分班,"圖形著色
+GRAPH COLORIGN",3,期,False,20,3,0,20,王彩蓮,"二2,3,4(理SC 4011-2)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH599&Crsname=Python與機器學習之理論實現,,,False,應數碩,MATH599,0,不分班,"Python與機器學習之理論實現
+PYTHON AND MACHINE LEARNING ALGORITHMS",3,期,False,30,33,0,30,林晉宏,"一6,7,8(理SC 4009-1)","['678', '', '', '', '', '', '']",《講授類》,"['金融工程學程', '永續能源學程', '計算物理及人工智慧微學程', '跨領域智慧製造學程', '製造與大數據分析微學程', '人工智慧與數學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH614&Crsname=統計計算專題研討（二）,,,False,應數碩,MATH614,0,不分班,"統計計算專題研討（二）
+SEMINAR IN STUDIES IN COMPUTATIONAL STATISTICS II",3,期,False,10,4,0,10,張福春,"三5,6,7(理SC 3002-4)","['', '', '567', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH616&Crsname=時間序列專題研討（二）,,,False,應數碩,MATH616,0,不分班,"時間序列專題研討（二）
+INDEPENDENT STUDIES IN TIME SERIES ANALYSIS II",3,期,False,10,4,0,10,郭美惠,"三5,6,7(理SC 4027)","['', '', '567', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH619&Crsname=隨機過程專題研討（一）,,,False,應數碩,MATH619,0,不分班,"隨機過程專題研討（一）
+SEMINAR IN STOCHASTIC PROCESSES (I)",3,期,False,10,0,0,10,陳美如,"四6,7,8(理SC 4009-0)","['', '', '', '678', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH622&Crsname=耦合專題研討（一）,異動,更換時間1/6,False,應數碩,MATH622,0,不分班,"耦合專題研討（一）
+SEMINAR IN COPULAS (I)",3,期,False,10,3,0,10,施嘉翰,"五5,6,7(理SC 4011-2)","['', '', '', '', '567', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH641&Crsname=矩陣計算專題研討,異動,更換部份時間2/10,False,應數碩,MATH641,2,不分班,"矩陣計算專題研討
+SEMINAR IN MATRIX COMPUTATION",3,期,False,10,4,0,10,李宗錂,"二6,7,8(理SC 4011)","['', '678', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH644&Crsname=影像處理專題研討,,,False,應數碩,MATH644,0,不分班,"影像處理專題研討
+SEMINAR IN IMAGE PROCESSING",3,期,False,10,7,0,10,鍾思齊,"三5,6,7(理SC 4009-1)","['', '', '567', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH675&Crsname=圖形著色專題研討,,,False,應數碩,MATH675,2,不分班,"圖形著色專題研討
+SEMINAR IN GRAPH COLORING",3,期,False,10,2,0,10,林晉宏,"五6,7,8(理SC 4013)","['', '', '', '', '678', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH681&Crsname=數論專題研討（一）,新增,1/9,False,應數碩,MATH681,0,不分班,"數論專題研討（一）
+SEMINAR IN NUMBER THEORY (I)",3,期,False,5,1,0,5,翁鵬絜,"二6,7,8(理SC 4009-0)","['', '678', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH693&Crsname=社交網絡專題研討（二）,,,False,應數碩,MATH693,0,不分班,"社交網絡專題研討（二）
+SEMINAR IN SOCIAL NETWORK (II)",3,期,False,5,0,0,5,李欣倫,"一5,6,7(理SC 4011-2)","['567', '', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3902&Crsname=生醫儀器導論,,,False,電機碩,EE3902,0,不分班,"生醫儀器導論
+INTRODUCTION TO BIOMEDICAL INSTRUMENTATION",3,期,False,50,18,0,50,"余祥華,曾乙立","一5,6,7(工EC 3013)","['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4718&Crsname=高可靠度系統之設計、測試與應用,,,False,電機碩,EE4718,0,不分班,"高可靠度系統之設計、測試與應用
+DESIGN, TEST, AND APPLICATIONS OF HIGHLY RELIABLE SYSTEMS",3,期,False,50,49,0,50,謝東佑,"四2,3,4(工EC 3014)","['', '', '', '234', '', '', '']","《講授類》
+開放大三、大四學生選修
+※英語授課","['數位IC設計學程', '資通安全學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5100&Crsname=書報討論,,,False,電機碩,EE5100,1,不分班,"書報討論
+SEMINAR",1,期,True,150,6,147,3,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《演講/參訪》
+碩、博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5100A&Crsname=書報討論,,,False,電機碩,EE5100A,2,不分班,"書報討論
+SEMINAR",1,期,True,150,1,150,0,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《演講/參訪》
+碩、博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5101&Crsname=SOI/MOSFET設計專題,,,False,電機碩,EE5101,0,不分班,"SOI/MOSFET設計專題
+SPECIAL TOPICS IN SOI/MOSFET DESIGN",3,期,False,50,2,0,50,林吉聰,"四6,7,8(工EC 9010)","['', '', '', '678', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5105&Crsname=光電元件,,,False,電機碩,EE5105,0,不分班,"光電元件
+PHOTOELECTRONIC DEVICES",3,期,False,50,46,0,50,莊豐任,"三2,3,4(工EC 3014)","['', '', '234', '', '', '', '']",《講授類》,['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5112&Crsname=固態電子元件（二）,,,False,電機碩,EE5112,0,不分班,"固態電子元件（二）
+SOLID STATE ELECTRONIC DEVICES (II)",3,期,False,50,22,0,50,馬誠佑,"五2,3,4(工EC 2007)","['', '', '', '', '234', '', '']",《講授類》,"['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5116&Crsname=高等矽覆絕緣技術,,,False,電機碩,EE5116,0,不分班,"高等矽覆絕緣技術
+ADVANCED SILICON ON INSULATOR TECHNOLOGY",3,期,False,50,4,0,50,林吉聰,"一6,7,8(工EC 8037)","['678', '', '', '', '', '', '']",《講授類》,"['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '矽光子微學程', '矽光子學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5117&Crsname=智慧型微感測晶片設計專題,,,False,電機碩,EE5117,0,不分班,"智慧型微感測晶片設計專題
+INDEPENDENT STUDIES IN SMART-SENSING MICROCHIPS DESIGN",3,期,False,50,6,0,50,黃義佑,"三5,6,7(國IR 6002J)","['', '', '567', '', '', '', '']",《獨立研究》,[],False
