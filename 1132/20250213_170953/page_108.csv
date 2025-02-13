@@ -1,0 +1,44 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IBPS550&Crsname=小分子藥物之有機合成（一）,,,False,生技醫藥碩,IBPS550,0,不分班,"小分子藥物之有機合成（一）
+ORGANIC SYNTHESIS FOR SMALL MOLECULE DRUGS (I)",3,期,False,50,6,0,50,黃建智,"三5,6,7(國IR 6017-2)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IBPS602&Crsname=書報討論（四）,,,False,生技醫藥碩,IBPS602,2,不分班,"書報討論（四）
+SEMINAR（IV）",1,期,True,50,0,8,42,"施柏漳,余靈珊,孫羽佑,徐志文,賴至人,黃建智",三4(國IR 5001),"['', '', '4', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM502&Crsname=書報討論（二）,,,False,精準醫學碩,IPM502,1,不分班,"書報討論（二）
+SEMINAR(II)",1,期,True,50,0,10,40,"于松桓,楊佳寧",三6(國IR 5001),"['', '', '6', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM504&Crsname=生物程式設計-R,,,False,精準醫學碩,IPM504,0,不分班,"生物程式設計-R
+RPROGRAMMING FOR BIOMEDICAL DATA",3,期,False,50,8,0,50,馮已榕,"二2,3,4(國IR 5002)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM509&Crsname=蛋白質分子模擬專題研究（二）,,,False,精準醫學碩,IPM509,0,不分班,"蛋白質分子模擬專題研究（二）
+INDEPENDENT STUDIES IN SIMULATIONS ON PROTEIN DYNAMICS (II)",3,期,False,50,3,0,50,楊佳寧,"四5,6,7(國IR 5005)","['', '', '', '567', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM512&Crsname=醫療數據分析專題研究（二）,異動,更換教室2/6,False,精準醫學碩,IPM512,0,不分班,"醫療數據分析專題研究（二）
+INDEPENDENT STUDIES IN REAL-WORLD HEALTH DATA (II)",3,期,False,50,1,0,50,馮已榕,"一2,3,4(國IR 6017-2)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM517&Crsname=多體學資料分析專題研究（二）,,,False,精準醫學碩,IPM517,0,不分班,"多體學資料分析專題研究（二）
+INDEPENDENT STUDIES IN MULTI-OMICS DATA ANALYSIS (II)",3,期,False,50,1,0,50,于松桓,"四5,6,7(國IR 4005)","['', '', '', '567', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM519&Crsname=基因體學,,,False,精準醫學碩,IPM519,0,不分班,"基因體學
+GENOMICS",3,期,False,50,2,0,50,于松桓,"一2,3,4(國IR 5002)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM525&Crsname=遺傳學,,,False,精準醫學碩,IPM525,0,不分班,"遺傳學
+GENETICS",3,期,False,50,1,0,50,于松桓,"一5,6,7(國IR 6017-2)","['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM531&Crsname=病理學,,,False,精準醫學碩,IPM531,0,不分班,"病理學
+PATHOLOGY",3,期,False,50,4,0,50,李佶珉,"五2,3,4(國IR 5002)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM533&Crsname=癌症生物學,,,False,精準醫學碩,IPM533,0,不分班,"癌症生物學
+CANCER BIOLOGY",3,期,False,50,7,0,50,李佶珉,"二2,3,4(國IR 5004)","['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['醫師科學家微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM539&Crsname=纖維化及癌症治療策略專題研究（二）,,,False,精準醫學碩,IPM539,0,不分班,"纖維化及癌症治療策略專題研究（二）
+INDEPENDENT STUDIES IN THERAPEUTIC STRATEGIES FOR FIBROSIS AND CANCER (II)",3,期,False,50,2,0,50,李佶珉,"四5,6,7(國IR 5004)","['', '', '', '567', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM542&Crsname=臨床試驗設計與分析,,,False,精準醫學碩,IPM542,0,不分班,"臨床試驗設計與分析
+DESIGN AND ANALYSIS OF CLINICAL TRIALS",2,期,False,50,4,0,50,馮已榕,"四3,4(國IR 5001)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM546&Crsname=醫療保健體系概論,,,False,精準醫學碩,IPM546,0,不分班,"醫療保健體系概論
+INTRODUCTION TO HEALTH CARE",2,期,False,50,0,0,50,劉景寬,"四5,6(國IR 4002)","['', '', '', '56', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM547&Crsname=DNA修復機制在癌症發展與治療中的作用,異動,更換時間1/22,False,精準醫學碩,IPM547,0,不分班,"DNA修復機制在癌症發展與治療中的作用
+DNA REPAIR MECHANISMS IN CANCER DEVELOPMENT AND THERAPY",3,期,False,50,5,0,50,李豪嶧,"三2,3,4(國IR 6017-2)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM549&Crsname=腫瘤分子生物學專題研究（二）,,,False,精準醫學碩,IPM549,0,不分班,"腫瘤分子生物學專題研究（二）
+INDEPENDENT STUDIES IN MOLECULAR ONCOLOGY (II)",3,期,False,50,1,0,50,李豪嶧,"二2,3,4(國IR 5005)","['', '234', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM550&Crsname=分子與生化科學應用,,,False,精準醫學碩,IPM550,0,不分班,"分子與生化科學應用
+APPLICATIONS OF MOLECULAR BIOLOGY AND BIOCHEMISTRY",3,期,False,50,4,0,50,陳俊朝,"四2,3,4(國IR 5002)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM552&Crsname=基因與行為專題研究（二）,,,False,精準醫學碩,IPM552,0,不分班,"基因與行為專題研究（二）
+INDEPENDENT STUDIES IN GENE AND BEHAVIOR (II)",3,期,False,50,1,0,50,陳俊朝,"二6,7,8(國IR 4005)","['', '678', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPM602&Crsname=書報討論（四）,,,False,精準醫學碩,IPM602,2,不分班,"書報討論（四）
+SEMINAR(IV)",1,期,True,50,0,8,42,"李佶珉,馮已榕",三5(國IR 5001),"['', '', '5', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ASPT543&Crsname=寬能隙化合物半導體技術導論,,,False,半導體封測所,ASPT543,1,不分班,"寬能隙化合物半導體技術導論
+INTRODUCTION OF WIDE BAND GAP COMPOUND SEMICONDUCTOR TECHNOLOGY",3,期,False,11,50,0,11,陳信助,"五2,3,4(國IR 6002K)","['', '', '', '', '234', '', '']","《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。",[],True
