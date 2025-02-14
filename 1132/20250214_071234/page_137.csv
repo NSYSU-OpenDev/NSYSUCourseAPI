@@ -1,0 +1,19 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=HRMA945&Crsname=組織發展（二）,,,False,人亞碩專,HRMA945,1,,"組織發展（二）
+ORGANIZATION DEVELOPMENT (II)",3,期,False,35,0,12,23,"陳以亨,王豫萱","四C,D,E(管CM 1036)","['', '', '', 'CDE', '', '', '']","《講授類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=HRMA964&Crsname=職場行為學,,,False,人亞碩專,HRMA964,1,,"職場行為學
+HUMAN BEHAVIOR IN WORKPLACE",3,期,False,50,0,23,27,"鄭怡玲,陳世哲","六6,7,8(管CM 3022)","['', '', '', '', '', '678', '']","《講授類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=HRMA986&Crsname=新興科技事業發展策略,,,False,人亞碩專,HRMA986,2,,"新興科技事業發展策略
+STRATEGIC PLANNING FOR TECHNOLOGY-DRIVEN EMERGING BUSINESS",3,期,False,50,0,3,47,陳寶蓮,"二C,D,E(管CM 1032)","['', 'CDE', '', '', '', '', '']","《講授類》
+限修過策略管理或相關課程",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=HRMA992&Crsname=財務管理,,,False,人亞碩專,HRMA992,2,,"財務管理
+FINANCIAL MANAGEMENT",3,期,False,50,0,4,46,邱敬貿,"日6,7,8(管CM 1023)","['', '', '', '', '', '', '678']","《講授類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS703&Crsname=研究方法（二）,,,False,資管博,MIS703,1,,"研究方法（二）
+RESEARCH METHODOLOGY(II)",3,期,True,50,0,2,48,邱兆民,"三5,6,7(管CM 2016)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS770&Crsname=政治科學出版,異動,更換時間1/22,False,政治博,IPS770,0,,"政治科學出版
+POLITICAL SCIENCE PUBLISHING",1,期,False,50,0,3,47,方志恒,二8(社SS 3008),"['', '8', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IPS770&Crsname=政治科學出版,異動,更換時間1/22,False,政治博,IPS770,0,,"政治科學出版
+POLITICAL SCIENCE PUBLISHING",1,期,False,50,0,3,47,方志恒,二8(社SS 3008),"['', '8', '', '', '', '', '']",《講授類》,[],False

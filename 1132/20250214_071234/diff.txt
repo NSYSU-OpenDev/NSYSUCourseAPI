@@ -1,0 +1,17 @@
+Type of root[31]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[31]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/14".
+Type of root[36]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[36]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/14".
+Type of root[1022]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1022]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/14".
+Type of root[1025]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1025]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/14".
+Type of root[1238]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1238]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/14".
+Value of root[31]['room'] changed from "二2,3,4(管CM 0052)" to "二2,3,4(管CM 4078)".
+Value of root[36]['room'] changed from "二5,6,7(管CM 0052)" to "二5,6,7(管CM 4078)".
+Value of root[1022]['room'] changed from "四2,3,4(海ME 2007)" to "四2,3,4(海ME 3004)".
+Value of root[1025]['room'] changed from "四2,3,4(海ME 3004)" to "四2,3,4(海ME 2007)".
+Value of root[1238]['room'] changed from "五3,4(文FA 4030)" to "五3,4(文FA 6011)".
+Value of root[1413]['selected'] changed from 150 to 149.
+Value of root[1413]['remaining'] changed from 0 to 1.
