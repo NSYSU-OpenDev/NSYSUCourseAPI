@@ -1,0 +1,15 @@
+Item root[269]['classTime'][2] added to iterable.
+Item root[701]['classTime'][2] added to iterable.
+Item root[269]['classTime'][2] removed from iterable.
+Item root[701]['classTime'][2] removed from iterable.
+Value of root[269]['room'] changed from "三5,6,7(工EC 3012) 三X(非同步線上)" to "三5,6,7(工EC 3012)".
+Value of root[701]['room'] changed from "三5,6,7(工EC 3012) 三X(非同步線上)" to "三5,6,7(工EC 3012)".
+Value of root[701]['description'] changed from "《講授類》
+混成課程。
+※英語授課" to "《講授類》
+混成課程
+※英語授課".
+Value of root[820]['change'] changed from "新增" to "異動".
+Value of root[820]['changeDescription'] changed from "1/22" to "更換教室2/14".
+Value of root[820]['room'] changed from "二6,7,8(工EC 5026)" to "二6,7,8(工EC 1009)".
+Value of root[2204]['teacher'] changed from "待聘" to "Yigal Shmuel Newman".
