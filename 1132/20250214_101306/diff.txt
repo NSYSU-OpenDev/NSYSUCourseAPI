@@ -1,3 +1,0 @@
-Value of root[1907]['selected'] changed from 5 to 4.
-Value of root[1907]['remaining'] changed from 45 to 46.
-Value of root[2078]['grade'] changed from "0" to "2".
