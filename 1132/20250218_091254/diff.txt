@@ -1,0 +1,31 @@
+Type of root[595]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[595]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/18".
+Type of root[943]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[943]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式2/18".
+Type of root[1866]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1866]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/18".
+Type of root[2162]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2162]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/18".
+Type of root[2195]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2195]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/18".
+Type of root[2672]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2672]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/18".
+Type of root[2673]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2673]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/18".
+Value of root[262]['description'] changed from "《講授類》
+化學系主題課程。2-4年級皆可選修。跨院通識與化學系CHEM208課程併班上課
+※英語授課" to "《講授類》
+跨院通識與化學系CHEM208課程併班上課
+※英語授課".
+Value of root[595]['restrict'] changed from 50 to 60.
+Value of root[595]['remaining'] changed from 0 to 10.
+Value of root[943]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[950]['room'] changed from "一6,7,8(管CM 1037)" to "一6,7,8(管CM 2037)".
+Value of root[1866]['room'] changed from "二3,4(海MB 2009)" to "二3,4(海MB 2014)".
+Value of root[2162]['room'] changed from "五C,D,E(理PH 5008)" to "五C,D,E(理PH 5009)".
+Value of root[2195]['room'] changed from "五C,D,E(理PH 5008)" to "五C,D,E(理PH 5009)".
+Value of root[2239]['room'] changed from "二C,D,E(管CM 4078)" to "二C,D,E(管CM 4112)".
+Value of root[2672]['room'] changed from "二3,4(海MB 2009)" to "二3,4(海MB 2014)".
+Value of root[2673]['room'] changed from "二3,4(海MB 2009)" to "二3,4(海MB 2014)".
