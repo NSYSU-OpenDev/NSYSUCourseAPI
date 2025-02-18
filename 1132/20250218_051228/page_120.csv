@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PPFS725&Crsname=分子與雷射光譜,,,False,理學博,PPFS725,1,不分班,"分子與雷射光譜
+MOLECULAR AND LASER SPECTROSCOPY",3,期,False,50,0,5,45,楊崇鑫,"一2,3,4(理SC 0010)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE7100&Crsname=書報討論,,,False,電機博,EE7100,1,不分班,"書報討論
+SEMINAR",1,期,True,90,0,7,83,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《研討類》
+碩、博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE7701&Crsname=高等磁共振影像技術,異動,更換教室2/18,False,電機博,EE7701,0,不分班,"高等磁共振影像技術
+ADVANCED TECHNIQUES OF MAGNETIC RESONANCE IMAGING",3,期,False,50,0,6,44,"莊子肇,吳珮歆,程正傑","二2,3,4(工EC 8037)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME701&Crsname=書報討論,,,False,機電博,MEME701,1,不分班,"書報討論
+SEMINAR",1,期,True,100,0,7,93,王郁仁,"四6,7(工EN 2028)","['', '', '', '67', '', '', '']","《演講/參訪》
+碩、博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE721&Crsname=書報討論,,,False,環工博,ENVE721,1,不分班,"書報討論
+SEMINAR",1,期,True,50,0,3,47,陳威翔,"三6,7(工EV 4024)","['', '', '67', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE721A&Crsname=書報討論,,,False,環工博,ENVE721A,2,不分班,"書報討論
+SEMINAR",1,期,True,50,0,7,43,陳威翔,"三6,7(工EV 4024)","['', '', '67', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE721B&Crsname=書報討論,,,False,環工博,ENVE721B,3,不分班,"書報討論
+SEMINAR",1,期,True,50,0,8,42,陳威翔,"三6,7(工EV 4024)","['', '', '67', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE737&Crsname=事業廢水工程設計,,,False,環工博,ENVE737,0,不分班,"事業廢水工程設計
+WASTEWATER TREATMENT ENGINEERING",3,期,False,50,0,1,49,張耿崚,"五2,3,4(工EC 1004)","['', '', '', '', '234', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE741&Crsname=氣膠學,,,False,環工博,ENVE741,0,不分班,"氣膠學
+AEROSOL TECHNOLOGY",3,期,False,50,0,3,47,陳則綸,"二6,7,8(工EC 2005)","['', '678', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['環境科技與管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE776&Crsname=環境宿命與風險評估,,,False,環工博,ENVE776,0,不分班,"環境宿命與風險評估
+ENVIRONMENTAL FATE AND RISK ASSESSMENT",3,期,False,50,0,5,45,陳威翔,"三C,D,E(工EC 1004)","['', '', 'CDE', '', '', '', '']","《講授類》
+ 
+※英語授課",['氣膠、大氣與海洋微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE785&Crsname=高等水化學,,,False,環工博,ENVE785,0,不分班,"高等水化學
+ADVANCED WATER CHEMISTRY",3,期,False,50,0,3,47,施育仁,"四2,3,4(工EC 1004)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE791&Crsname=英文論文寫作,,,False,環工博,ENVE791,0,不分班,"英文論文寫作
+TECHNICAL WRITING IN EHGLISH",2,期,False,50,2,48,2,施育仁,"二C,D(工EV 4024)","['', 'CD', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE707&Crsname=書報討論（二）,,,False,資工博,CSE707,1,不分班,"書報討論（二）
+SEMINAR II",1,期,True,10,0,5,5,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ICE701&Crsname=書報討論,,,False,通訊博,ICE701,1,不分班,"書報討論
+SEMINAR",1,期,True,50,0,4,46,曾凡碩,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
+與ICE501、ICE501A併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EO7146&Crsname=書報討論（二）,,,False,光電博,EO7146,1,不分班,"書報討論（二）
+SEMINAR(II)",1,期,True,50,0,8,42,林煒淳,"一6,7,8(國IR 3003)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES702&Crsname=書報討論,,,False,材光博,MOES702,1,不分班,"書報討論
+SEMINAR",1,期,True,50,0,12,38,邱政維,"三6,7(工EC 1001)","['', '', '67', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES702A&Crsname=書報討論,,,False,材光博,MOES702A,2,不分班,"書報討論
+SEMINAR",1,期,True,50,0,10,40,邱政維,"三6,7(工EC 1001)","['', '', '67', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE710&Crsname=安全程式設計,,,False,資工資安博,CSE710,1,不分班,"安全程式設計
+SECURE PROGRAMMING",3,期,True,50,0,0,50,克拉迪,"四6,7,8(工EC 1006)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE713&Crsname=安全密碼協定,,,False,資工資安博,CSE713,1,不分班,"安全密碼協定
+SECURE CRYPTOGRAPHIC PROTOCOLS",3,期,True,50,0,0,50,王智弘,"五2,3,4(工EC 1005)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE716&Crsname=網路安全,,,False,資工資安博,CSE716,1,不分班,"網路安全
+NETWORK SECURITY",3,期,True,50,0,0,50,陳嘉玫,"六6,7,8(管CM 1019)","['', '', '', '', '', '678', '']",《講授類》,[],False
