@@ -1,0 +1,47 @@
+Type of root[1217]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1217]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間2/18".
+Type of root[1222]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1222]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間2/18".
+Type of root[1228]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1228]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間2/18".
+Value of root[137]['restrict'] changed from 40 to 50.
+Value of root[137]['remaining'] changed from 0 to 10.
+Value of root[184]['restrict'] changed from 10 to 20.
+Value of root[184]['remaining'] changed from 0 to 10.
+Value of root[384]['changeDescription'] changed from "更換教室2/6" to "更換教室2/18".
+Value of root[384]['room'] changed from "一7,8(西SW 1007)" to "一7,8(西SW 1003)".
+Value of root[816]['selected'] changed from 56 to 55.
+Value of root[816]['remaining'] changed from 4 to 5.
+Value of root[817]['selected'] changed from 59 to 58.
+Value of root[817]['remaining'] changed from 1 to 2.
+Value of root[818]['selected'] changed from 66 to 65.
+Value of root[818]['remaining'] changed from 14 to 15.
+Value of root[904]['selected'] changed from 43 to 42.
+Value of root[904]['remaining'] changed from 7 to 8.
+Value of root[906]['selected'] changed from 44 to 43.
+Value of root[906]['remaining'] changed from 6 to 7.
+Value of root[908]['selected'] changed from 50 to 49.
+Value of root[908]['remaining'] changed from 0 to 1.
+Value of root[1217]['room'] changed from "二5,6,7(文LA 3018)" to "三5,6,7(文LA 3018)".
+Value of root[1823]['selected'] changed from 28 to 27.
+Value of root[1823]['remaining'] changed from 7 to 8.
+Value of root[1834]['selected'] changed from 20 to 19.
+Value of root[1834]['remaining'] changed from 30 to 31.
+Value of root[1835]['selected'] changed from 19 to 18.
+Value of root[1835]['remaining'] changed from 31 to 32.
+Value of root[1837]['selected'] changed from 3 to 2.
+Value of root[1837]['remaining'] changed from 27 to 28.
+Value of root[1986]['selected'] changed from 19 to 18.
+Value of root[1986]['remaining'] changed from 31 to 32.
+Value of root[1987]['selected'] changed from 18 to 17.
+Value of root[1987]['remaining'] changed from 32 to 33.
+Value of root[1990]['selected'] changed from 20 to 19.
+Value of root[1990]['remaining'] changed from 30 to 31.
+Value of root[1996]['selected'] changed from 10 to 9.
+Value of root[1996]['remaining'] changed from 40 to 41.
+Value of root[2231]['selected'] changed from 11 to 10.
+Value of root[2231]['remaining'] changed from 39 to 40.
+Value of root[2233]['selected'] changed from 14 to 13.
+Value of root[2233]['remaining'] changed from 36 to 37.
+Value of root[2235]['selected'] changed from 12 to 11.
+Value of root[2235]['remaining'] changed from 38 to 39.
