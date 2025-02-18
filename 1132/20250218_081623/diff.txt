@@ -1,0 +1,31 @@
+Item root[369]['classTime'][0] added to iterable.
+Item root[1228]['classTime'][2] added to iterable.
+Item root[2132]['classTime'][1] added to iterable.
+Item root[369]['classTime'][1] removed from iterable.
+Item root[1228]['classTime'][2] removed from iterable.
+Item root[2132]['classTime'][1] removed from iterable.
+Item root[2243] removed from iterable.
+Type of root[367]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[367]['changeDescription'] changed from NoneType to str and value changed from None to "確認教室2/18".
+Type of root[950]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[950]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/18".
+Type of root[2132]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2132]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室2/18".
+Type of root[2239]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2239]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/18".
+Value of root[367]['room'] changed from "二2,3,4()" to "二2,3,4(海ME 3005)".
+Value of root[369]['changeDescription'] changed from "確認教室1/13" to "更換時間及教室2/18".
+Value of root[369]['room'] changed from "二5,6,7(管CM 1032)" to "一2,3,4(通GE 3013)".
+Value of root[1222]['room'] changed from "三5,6,7(文LA 3018)" to "二5,6,7(文LA 3018)".
+Value of root[1228]['room'] changed from "三2,3,4()" to "三5,6,7()".
+Value of root[1370]['change'] changed from "新增" to "異動".
+Value of root[1370]['changeDescription'] changed from "1/22" to "更換授課方式2/18".
+Value of root[1370]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2132]['room'] changed from "二2,3,4(國IR 6017-2)" to "二5,6,7(國IR 1006-1)".
+Value of root[2563]['change'] changed from "新增" to "異動".
+Value of root[2563]['changeDescription'] changed from "1/22" to "更換授課方式2/18".
+Value of root[2563]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
