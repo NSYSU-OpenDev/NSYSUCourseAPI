@@ -1,2 +1,0 @@
-Value of root[1497]['change'] changed from "新增" to "異動".
-Value of root[1497]['changeDescription'] changed from "1/24" to "更換教室2/19".
