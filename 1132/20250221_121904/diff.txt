@@ -1,0 +1,27 @@
+Value of root[56]['selected'] changed from 3 to 5.
+Value of root[56]['remaining'] changed from 47 to 45.
+Value of root[187]['selected'] changed from 11 to 12.
+Value of root[187]['remaining'] changed from 9 to 8.
+Value of root[296]['description'] changed from "《實習類》
+跨院通識與企管系BM104A課程併班上課" to "《實習類》
+限企管系(含雙主修、輔系)跨院通識與企管系BM104A課程併班上課".
+Value of root[1249]['select'] changed from 1 to 0.
+Value of root[1249]['selected'] changed from 9 to 10.
+Value of root[1249]['remaining'] changed from 41 to 40.
+Value of root[1272]['select'] changed from 8 to 1.
+Value of root[1272]['selected'] changed from 6 to 26.
+Value of root[1272]['remaining'] changed from 44 to 24.
+Value of root[1613]['selected'] changed from 2 to 3.
+Value of root[1613]['remaining'] changed from 48 to 47.
+Value of root[1677]['selected'] changed from 15 to 17.
+Value of root[1677]['remaining'] changed from 35 to 33.
+Value of root[1713]['selected'] changed from 33 to 34.
+Value of root[1713]['remaining'] changed from 17 to 16.
+Value of root[2560]['selected'] changed from 2 to 3.
+Value of root[2560]['remaining'] changed from 48 to 47.
+Value of root[2603]['selected'] changed from 33 to 34.
+Value of root[2603]['remaining'] changed from 17 to 16.
+Value of root[2604]['selected'] changed from 33 to 34.
+Value of root[2604]['remaining'] changed from 17 to 16.
+Value of root[2605]['selected'] changed from 33 to 34.
+Value of root[2605]['remaining'] changed from 17 to 16.
