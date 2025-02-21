@@ -1,0 +1,51 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PE306H&Crsname=政經實作專題（一）,,,True,政經系,PE306H,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,2,2,48,張光亮,"四1,A,B(社SS 1005)","['', '', '', 'A1B', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PE306I&Crsname=政經實作專題（一）,,,True,政經系,PE306I,3,不分班,"政經實作專題（一）
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（I）",3,期,True,50,1,4,46,顏孟芬,"二1,A,B(社SS 1006)","['', 'A1B', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PE308&Crsname=政治經濟學（一）,,,False,政經系,PE308,1,不分班,"政治經濟學（一）
+THE POLITICAL ECONOMY(I)",3,期,True,60,5,62,-2,李予綱,"一5,6,7(社SS 3001)","['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PE321&Crsname=國際貿易原理與政策（一）,新增,1/3,False,政經系,PE321,3,不分班,"國際貿易原理與政策（一）
+INTERNATIONAL TRADE:THEORY AND POLICIES(I)",3,期,False,50,9,40,10,吳世傑,"五6,7,8(社SS 3005)","['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PE328&Crsname=公共經濟學,,,False,政經系,PE328,3,不分班,"公共經濟學
+PUBLIC ECONOMICS",3,期,True,55,3,55,0,吳世傑,"五2,3,4(社SS 3005)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PE339&Crsname=財務經濟學應用實務,異動,更換教室2/19,False,政經系,PE339,2,不分班,"財務經濟學應用實務
+FINANCIAL ECONOMICS AND ITS APPLICATIONS",3,期,False,50,8,48,2,李秉正,"三5,6,7(社SS 3005)","['', '', '567', '', '', '', '']",《講授類》,['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PE351&Crsname=多變量統計分析,,,False,政經系,PE351,3,不分班,"多變量統計分析
+MULTIVARIATE STATISTICAL ANALYSIS",3,期,False,50,3,7,43,顏孟芬,"二2,3,4(社SS 1006)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PE428&Crsname=計量經濟學,,,False,政經系,PE428,4,不分班,"計量經濟學
+ECONOMETRICS",3,期,False,50,3,14,36,王俊傑,"一2,3,4(社SS 1006)","['234', '', '', '', '', '', '']",《講授類》,['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC103&Crsname=社會學（二）,,,False,社會系,SOC103,1,不分班,"社會學（二）
+SOCIOLOGY（II）",3,期,True,50,1,42,8,李宛儒,"四6,7,8(社SS 4001)","['', '', '', '678', '', '', '']","《講授類》
+「限修過本系或跨院選修之社會學(一)且及格，點選本課請同時點選《社會學實習(二)》」",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC106&Crsname=社會學實習（二）,,,False,社會系,SOC106,1,不分班,"社會學實習（二）
+SOCIOLOGY PRACTICE (II)",1,期,True,50,0,43,7,李宛儒,"三D,E(社SS 1003)(實驗)","['', '', 'DE', '', '', '', '']","《實習類》
+本課程限選修本系《社會學（二）》之學生。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC138&Crsname=審議民主：理論與實務,,,False,社會系,SOC138,1,不分班,"審議民主：理論與實務
+DELIBERATIVE DEMOCRACY: THEORIES AND PRACTICES",3,期,False,50,13,28,22,"萬毓澤,李宛儒","三2,3,4(社SS 1003)","['', '', '234', '', '', '', '']",《講授類》,"['公民參與微學程', '人權研究整合學程', '永續發展與社會創新微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC201&Crsname=社會統計（一）,,,False,社會系,SOC201,2,不分班,"社會統計（一）
+SOCIAL STATISTICS (I)",3,期,True,50,3,49,1,戴昀,"二2,3,4(圖IL PC02)","['', '234', '', '', '', '', '']","《講授類》
+點選本課請同時點選《社會統計實習（一）》",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC216&Crsname=糧食、農業與社會,異動,更換教室1/7,False,社會系,SOC216,2,不分班,"糧食、農業與社會
+FOOD,AGRICULTURE AND SOCIETY",3,期,False,30,3,13,17,"王宏仁,巴清雄",,"['123456789', '123456789', 'A1234567C', '123456789', '123456789', '', '']","《講授類》
+寒假部分課程先修，限有修課同學選修。",['原民文化探索及永續發展學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC220&Crsname=社會統計實習（一）,異動,更換時間1/9,False,社會系,SOC220,2,不分班,"社會統計實習（一）
+SOCIAL STATISTICS PRACTICE ( I )",1,期,True,50,2,49,1,戴昀,"四C,D(圖IL PC02)(實驗)","['', '', '', 'CD', '', '', '']","《實習類》
+本課程限選修本系《社會統計（一）》之學生。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC233&Crsname=文化人類學,異動,確認教師1/10,False,社會系,SOC233,2,不分班,"文化人類學
+CULTURAL ANTHROPOLOGY",3,期,False,50,8,30,20,江河清,"四6,7,8(社SS 1003)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC303&Crsname=社會調查與研究方法（二）,,,True,社會系,SOC303,3,不分班,"社會調查與研究方法（二）
+SOCIAL SURVEY AND RESEARCH METHODS （II）",3,期,True,50,2,8,42,萬毓澤,"一2,3,4(社SS 3004-2)","['234', '', '', '', '', '', '']","《講授類》
+限修過本系或跨院選修之社會學(一)(二)且及格","['永續發展與社會創新微學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC303A&Crsname=社會調查與研究方法（二）,,,True,社會系,SOC303A,3,不分班,"社會調查與研究方法（二）
+SOCIAL SURVEY AND RESEARCH METHODS （II）",3,期,True,50,0,9,41,陳美華,"一2,3,4(社SS 4004-2)","['234', '', '', '', '', '', '']","《講授類》
+限修過本系或跨院選修之社會學(一)(二)且及格","['永續發展與社會創新微學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC303B&Crsname=社會調查與研究方法（二）,,,True,社會系,SOC303B,3,不分班,"社會調查與研究方法（二）
+SOCIAL SURVEY AND RESEARCH METHODS （II）",3,期,True,50,1,10,40,趙恩潔,"一2,3,4(社SS 1003)","['234', '', '', '', '', '', '']","《講授類》
+限修過本系或跨院選修之社會學(一)(二)且及格","['永續發展與社會創新微學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC303C&Crsname=社會調查與研究方法（二）,,,True,社會系,SOC303C,3,不分班,"社會調查與研究方法（二）
+SOCIAL SURVEY AND RESEARCH METHODS （II）",3,期,True,50,0,9,41,邱花妹,"一2,3,4(社SS 3004-1)","['234', '', '', '', '', '', '']","《講授類》
+限修過本系或跨院選修之社會學(一)(二)且及格","['永續發展與社會創新微學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SOC303D&Crsname=社會調查與研究方法（二）,,,True,社會系,SOC303D,3,不分班,"社會調查與研究方法（二）
+SOCIAL SURVEY AND RESEARCH METHODS （II）",3,期,True,50,0,10,40,王梅香,"一2,3,4(社SS 3007)","['234', '', '', '', '', '', '']","《講授類》
+限修過本系或跨院選修之社會學(一)(二)且及格","['永續發展與社會創新微學程', '社區文創微學程']",False

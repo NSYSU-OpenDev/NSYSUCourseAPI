@@ -1,0 +1,29 @@
+Item root[2270] removed from iterable.
+Item root[2433] removed from iterable.
+Item root[2715] removed from iterable.
+Type of root[611]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[611]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/21".
+Type of root[921]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[921]['changeDescription'] changed from NoneType to str and value changed from None to "調升名額2/21".
+Type of root[1335]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1335]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/21".
+Type of root[1805]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1805]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/21".
+Type of root[1817]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1817]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/21".
+Type of root[1818]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1818]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/21".
+Type of root[2434]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2434]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師2/21".
+Value of root[611]['room'] changed from "四5,6,7(理SC 1003)" to "四5,6,7(理SC 1005)".
+Value of root[907]['changeDescription'] changed from "取消限修條件2/17" to "調升名額2/21".
+Value of root[907]['restrict'] changed from 50 to 57.
+Value of root[907]['remaining'] changed from 5 to 12.
+Value of root[921]['restrict'] changed from 50 to 65.
+Value of root[921]['remaining'] changed from 9 to 24.
+Value of root[1335]['room'] changed from "四5,6,7(理SC 1003)" to "四5,6,7(理SC 1005)".
+Value of root[1805]['restrict'] changed from 50 to 70.
+Value of root[1805]['remaining'] changed from 0 to 20.
+Value of root[1817]['room'] changed from "二C,D,E(管CM 3022)" to "二C,D,E(管CM 2037)".
+Value of root[1818]['room'] changed from "二C,D,E(管CM 3022)" to "二C,D,E(管CM 2037)".
+Value of root[2434]['teacher'] changed from "陳世哲" to "陳世哲,鄭怡玲,陳旻男".
