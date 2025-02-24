@@ -1,0 +1,38 @@
+Item root[2015] added to iterable.
+Type of root[512]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[512]['changeDescription'] changed from NoneType to str and value changed from None to "修正限修條件2/24".
+Type of root[1420]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1420]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式2/24".
+Type of root[1422]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1422]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式2/24".
+Type of root[1851]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1851]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間2/24".
+Type of root[2016]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2016]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師2/24".
+Type of root[2480]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2480]['changeDescription'] changed from NoneType to str and value changed from None to "2/24".
+Value of root[84]['selected'] changed from 26 to 28.
+Value of root[84]['remaining'] changed from -1 to -3.
+Value of root[107]['selected'] changed from 25 to 27.
+Value of root[107]['remaining'] changed from 0 to -2.
+Value of root[108]['selected'] changed from 24 to 25.
+Value of root[108]['remaining'] changed from 1 to 0.
+Value of root[512]['description'] changed from "《講授類》
+限音樂系大三大四學生修課" to "《講授類》
+限音樂系學生修課".
+Value of root[675]['selected'] changed from 28 to 34.
+Value of root[675]['remaining'] changed from 22 to 16.
+Value of root[872]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1125]['selected'] changed from 10 to 11.
+Value of root[1125]['remaining'] changed from 10 to 9.
+Value of root[1156]['changeDescription'] changed from "更換部份時間1/23" to "確認教師2/24".
+Value of root[1156]['teacher'] changed from "林立德,劉文雄,崔冠濠,張博智,待聘,李如悅,李恒昇,林立德,王慧婷,蔡曉文,陳三農,陳彥樺,陳秀玲" to "林立德,劉文雄,崔冠濠,張博智,李如悅,李恒昇,林立德,王慧婷,蔡曉文,陳三農,陳彥樺,陳秀玲".
+Value of root[1420]['english'] changed from False to True.
+Value of root[1422]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1851]['room'] changed from "四8,9(海MB 2009)(實驗)" to "五8,9(海MB 2009)(實驗)".
+Value of root[2016]['teacher'] changed from "謝百淇" to "謝百淇,周珮儀,宋宥賢,張宇慧,張至慶,莊雪華,陳利銘,馮雅群".
+Value of root[2480]['teacher'] changed from "謝百淇" to "謝百淇,周珮儀,宋宥賢,施慶麟,林靜慧,楊淑晴,艾玲,莊雪華,陳利銘".
