@@ -1,0 +1,13 @@
+Type of root[995]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[995]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師2/24".
+Type of root[1855]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1855]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師2/24".
+Type of root[1858]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1858]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師2/24".
+Value of root[986]['select'] changed from 2 to 1.
+Value of root[986]['selected'] changed from 36 to 37.
+Value of root[986]['remaining'] changed from 14 to 13.
+Value of root[995]['teacher'] changed from "林梅芳,劉商隱,廖志中,廖睿妘,張桂祥,李景欽,李澤民,李益銘,林秀瑾,水晶,王亮鈞,翁靖如,鄭源斌" to "李益銘,廖睿妘,張桂祥,李澤民,林梅芳,林秀瑾,水晶,王亮鈞,翁靖如".
+Value of root[1855]['teacher'] changed from "李澤民,廖睿妘,李景欽,王亮鈞" to "李澤民,李景欽".
+Value of root[1858]['teacher'] changed from "林秀瑾,劉商隱,張桂祥,林梅芳,樊同雲,水晶,陳德豪" to "林秀瑾,張桂祥,樊同雲,陳德豪".
+Value of root[1862]['teacher'] changed from "翁靖如,廖志中,李益銘,鄭源斌" to "翁靖如,鄭源斌".
