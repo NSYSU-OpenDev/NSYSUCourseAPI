@@ -1,0 +1,55 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS114&Crsname=普通化學（二）,,,False,物理系,PHYS114,1,不分班,"普通化學（二）
+GENERAL CHEMISTRY(II)",3,期,True,50,0,43,7,謝淑貞,"五2,3,4(理SC 0012)","['', '', '', '', '234', '', '']","《講授類》
+與材光系併班上課",['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS114A&Crsname=普通化學（二）,,,False,物理系,PHYS114A,1,全英班,"普通化學（二）
+GENERAL CHEMISTRY(II)",3,期,True,50,0,38,12,克里斯那,"五5,6,7(工EC 2002)","['', '', '', '', '567', '', '']","《講授類》
+與材光系併班上課
+※英語授課",['半導體設備工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS116&Crsname=普通化學實驗（二）,,,False,物理系,PHYS116,1,不分班,"普通化學實驗（二）
+GENERAL CHEMISTRY LABORATORY(II)",1,期,True,26,0,29,-3,王家蓁,"五5,6,7(理SC 4019)(實驗)","['', '', '', '', '567', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS116A&Crsname=普通化學實驗（二）,,,False,物理系,PHYS116A,1,全英班,"普通化學實驗（二）
+GENERAL CHEMISTRY LABORATORY(II)",1,期,True,26,0,24,2,楊崇鑫,"三2,3,4(理SC 4019)(實驗)","['', '', '234', '', '', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS118&Crsname=普通物理學演習（二）,,,False,物理系,PHYS118,1,不分班,"普通物理學演習（二）
+GENERAL PHYSICS RECITATION (II)",1,期,False,50,0,29,21,陳龍銘,三6(理PH 2006),"['', '', '6', '', '', '', '']","《講授類》
+本課程與普通物理學(二)一起規劃課程, 需與普通物理學(二)一起修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS119&Crsname=基礎物理數學,,,False,物理系,PHYS119,1,不分班,"基礎物理數學
+MATHEMATICS FOR FUNDAMENTAL PHYSICS",3,期,False,50,0,21,29,鍾佳民,"四5,6,7(理PH 1008)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS120&Crsname=物理發展史,,,False,物理系,PHYS120,1,不分班,"物理發展史
+HISTORY OF PHYSICS",3,期,False,30,3,30,0,邱奎霖,"二5,6,7(理SC 1001)","['', '567', '', '', '', '', '']","《講授類》
+物理系學生優先選課，與跨院選修GEAI1225 課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS122A&Crsname=生活實用物理,,,False,物理系,PHYS122A,2,不分班,"生活實用物理
+PRACTICAL PHYSICS IN DAILY LIFE",2,期,False,50,0,9,41,"嚴祖強,洪昇廷,陳易馨","一C,D(理SC 2006)","['CD', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS202&Crsname=應用數學（二）,,,False,物理系,PHYS202,2,不分班,"應用數學（二）
+APPLIED MATHEMATICS (II)",3,期,True,50,0,29,21,陳宗緯,"三6(理PH 1008) 四3,4(理PH 1008)","['', '', '6', '34', '', '', '']","《講授類》
+此為一般組必修課程，提供全英組學生做為選修課程","['半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS204&Crsname=力學（二）,,,False,物理系,PHYS204,2,不分班,"力學（二）
+MACHANICS(II)",3,期,True,50,0,26,24,黃旭明,"一2,3,4(理PH 1008)","['234', '', '', '', '', '', '']","《講授類》
+此為一般組必修課程，提供全英組學生做為選修課程",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS208&Crsname=實驗物理學（二）,,,False,物理系,PHYS208,2,不分班,"實驗物理學（二）
+EXPERIMENTAL PHYSICS(II)",3,期,True,30,0,29,1,盧怡穎,"二6,7,8(理SC 2011)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS213&Crsname=科技專題演講（一）,,,False,物理系,PHYS213,2,不分班,"科技專題演講（一）
+COLLOQUIUM ON SCIENCE AND TECHNOLOGY (I)",1,期,False,50,2,33,17,吳紘丞,四5(理PH 2006),"['', '', '', '5', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS214&Crsname=近代物理,,,False,物理系,PHYS214,2,不分班,"近代物理
+MODERN PHYSICS",3,期,False,50,0,27,23,張鼎張,"五2,3,4(理PH 2006)","['', '', '', '', '234', '', '']",《講授類》,"['半導體物理與先進元件分析微學程', '半導體元件學程', '半導體製程模組學程', '量子材料微學程', '矽光子學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS220&Crsname=基礎量子物理（二）,,,False,物理系,PHYS220,2,全英班,"基礎量子物理（二）
+INTRODUCTION TO QUANTUM PHYSICS (II)",3,期,True,50,0,31,19,郭政育,"一7(理PH 1009) 四6,7(理PH 1009)","['7', '', '', '67', '', '', '']","《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程
+※英語授課","['半導體製程模組學程', '量子材料微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS222&Crsname=物理數學與數值方法（二）,,,False,物理系,PHYS222,2,全英班,"物理數學與數值方法（二）
+MATHEMATICS AND CODING ON PHYSICS (II)",3,期,True,50,0,31,19,岩本祥,"一5,6(理PH 1009) 四8(理PH 1009)","['56', '', '', '8', '', '', '']","《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程
+※英語授課",['計算物理及人工智慧微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS224&Crsname=進階物理實作（二）,,,False,物理系,PHYS224,2,全英班,"進階物理實作（二）
+PHYSICS IMPLEMENTATION (II)",3,期,True,50,0,25,25,盧怡穎,"五6,7,8(理SC 2011)","['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS304&Crsname=量子物理（二）,,,False,物理系,PHYS304,3,不分班,"量子物理（二）
+QUANTUM PHYSICS (II)",3,期,True,50,0,41,9,朱家誼,"三7(理PH 1009) 五3,4(理PH 1009)","['', '', '7', '', '34', '', '']","《講授類》
+此為一般組必修課程，提供全英組學生做為選修課程","['半導體元件學程', '量子材料微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS306&Crsname=實驗物理學（四）,,,False,物理系,PHYS306,3,不分班,"實驗物理學（四）
+EXPERIMENTAL PHYSICS (IV)",2,期,False,50,0,2,48,黃旭明,"二6(理SC2009,理SC2010) 二7,8(理SC2009,理SC2010)(實驗)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS314&Crsname=物理研究專題（二）,,,True,物理系,PHYS314,3,全英班,"物理研究專題（二）
+INDEPENDENT STUDIES IN PHYSICS(II)",3,期,True,50,0,4,46,陳易馨,"二1,A,B(理PH 6010)","['', 'A1B', '', '', '', '', '']","《獨立研究》
+研究主題：量子光學，請事先與老師洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS314A&Crsname=物理研究專題（二）,,,False,物理系,PHYS314A,3,不分班,"物理研究專題（二）
+INDEPENDENT STUDIES IN PHYSICS(II)",3,期,False,50,0,0,50,林德鴻,"四1,A,B(理PH 7001)","['', '', '', 'A1B', '', '', '']","《獨立研究》
+研究主題：隱形斗篷簡介(Introduction to Invisibility Cloak)，請事先與老師洽談。",[],False
