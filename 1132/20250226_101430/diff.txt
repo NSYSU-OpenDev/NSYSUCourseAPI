@@ -1,0 +1,4 @@
+Value of root[203]['room'] changed from "三2,3,4(國IR 3003)" to "三2,3,4(工EC 1001)".
+Value of root[2185]['teacher'] changed from "蔡潤波,吳松茂,張美濙,張鼎張,李英杰,林勇志,林挺生,潘正堂,王志逢,王郁仁,蔡崇煒,郭紹偉,陳信助" to "蔡潤波,吳松茂,張美濙,張鼎張,施孟鎧,李英杰,林勇志,林挺生,汪正祺,潘正堂,王志逢,王郁仁,蔡崇煒,郭振坤,郭紹偉,陳信助".
+Value of root[2352]['room'] changed from "二5(理SC 3001)" to "二5(理CH 4002)".
+Value of root[2374]['room'] changed from "二5(理SC 3001)" to "二5(理SC 3004)".

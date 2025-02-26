@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IBBA207&Crsname=財務管理,,,True,國際學士學程,IBBA207,2,全英班,"財務管理
+FINANCIAL MANAGEMENT",3,期,True,50,4,23,27,馬威爾,"二2,3,4(管CM 4036)","['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IBBA208&Crsname=管理資訊系統,,,True,國際學士學程,IBBA208,2,全英班,"管理資訊系統
+MANAGEMENT INFORMATION SYSTEMS",3,期,True,50,15,5,45,陳文鑫,"四6,7,8(管CM 4036)","['', '', '', '678', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IBBA209&Crsname=生產與作業管理,,,True,國際學士學程,IBBA209,2,全英班,"生產與作業管理
+PRODUCTION AND OPERATIONS MANAGEMENT",3,期,True,50,26,28,22,劉易,"三2,3,4(管CM 4036)","['', '', '234', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IBBA352&Crsname=財務報表分析,,,False,國際學士學程,IBBA352,3,全英班,"財務報表分析
+FINANCIAL STATEMENT ANALYSIS",3,期,False,50,1,9,41,馬威爾,"一6,7,8(管CM 4036)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR104&Crsname=普通生物學（二）,,,False,海資系,MBR104,1,全英班,"普通生物學（二）
+GENERAL BIOLOGY(II)",3,期,True,50,1,46,4,"張桂祥,林梅芳,林秀瑾","一2,3,4(海MB 2020)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR106&Crsname=普通生物學實驗（二）,,,False,海資系,MBR106,1,全英班,"普通生物學實驗（二）
+GENERAL BIOLOGY LABORATORY(II)",1,期,True,50,0,35,15,水晶,"三5,6,7(海MB 2003)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR201&Crsname=有機化學（一）,,,False,海資系,MBR201,1,全英班,"有機化學（一）
+ORGANIC CHEMISTRY(I)",2,期,True,50,1,41,9,林渝亞,"四5,6(海MB 2020)","['', '', '', '56', '', '', '']","《講授類》
+與生科系英語組BIOS200A併班。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR203&Crsname=有機化學實驗（一）,,,False,海資系,MBR203,1,全英班,"有機化學實驗（一）
+ORGANIC CHEMISTRY LABORATORY(I)",1,期,True,50,0,33,17,林渝亞,"三2,3,4(理SC 4020)(實驗)","['', '', '234', '', '', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR206&Crsname=海洋化學,,,False,海資系,MBR206,2,全英班,"海洋化學
+MARINE CHEMISTRY",2,期,False,50,0,12,38,王維賢,"一6,7(海MB 2020)","['67', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR212&Crsname=海洋微生物學,,,False,海資系,MBR212,3,全英班,"海洋微生物學
+MARINE MICROBIOLOGY",2,期,False,50,1,22,28,"邱素芬,王亮鈞","一3,4(海MB 2015)","['34', '', '', '', '', '', '']",《講授類》,"['生物技術學程', '海洋循環經濟學程', '環境科技與管理學程', '海洋微生物及應用推廣微學程', '環境教育學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR221&Crsname=礦物學,,,False,海資系,MBR221,2,全英班,"礦物學
+MINERALOGY",2,期,False,50,0,7,43,蕭炎宏,"一3,4(海MB 2009)","['34', '', '', '', '', '', '']",《講授類》,"['看見臺灣海岸微學程', '氣候變遷與調適學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR225&Crsname=海洋中藥概論,,,False,海資系,MBR225,2,全英班,"海洋中藥概論
+INTRODUCTION TO MARINE CHINESE MEDICINE",2,期,False,50,8,36,14,廖志中,"五5,6(海MB 2015)","['', '', '', '', '56', '', '']",《講授類》,"['生物技術學程', '校園預防醫學暨食品安全學程', '海洋生產模式整合學程', '海洋天然物微學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR228&Crsname=海洋污染概論,,,False,海資系,MBR228,4,不分班,"海洋污染概論
+INTRODUCTION TO MARINE POLLUTION",2,期,False,50,6,36,14,楊宗勳,"三6,7(海MB 2015)","['', '', '67', '', '', '', '']",《講授類》,"['看見臺灣海岸微學程', '智慧港埠微學程', '海洋生物資源開發學程', '擁海學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR231&Crsname=疾病與海洋藥物,,,False,海資系,MBR231,2,全英班,"疾病與海洋藥物
+DISEASES AND MARINE DRUGS",2,期,False,50,3,33,17,"翁靖如,溫志宏","四3,4(海MB 2020)","['', '', '', '34', '', '', '']",《講授類》,['海洋天然物微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR235&Crsname=海洋生物探究與導覽實作,,,False,海資系,MBR235,2,不分班,"海洋生物探究與導覽實作
+MARINE ORGANISM (MUSEUM) – INQUIRY AND TOUR WORKSHOP",2,期,False,10,0,9,1,"水晶,翁靖如",,"['1234567', '12345678', '1234567', '1234', '34', '', '567CDE']","《講授類》
+限修畢海洋科學學院核心必修課程「海洋基礎科學」或「海洋應用科學」之學生選修。課程於學期末住宿於海生館並密集授課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR236&Crsname=古生物學,,,False,海資系,MBR236,2,全英班,"古生物學
+PALEONTOLOGY",2,期,False,50,0,19,31,李世緯,"二6,7(海MB 1009)","['', '67', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR301&Crsname=遺傳學,,,False,海資系,MBR301,3,全英班,"遺傳學
+GENETICS",3,期,False,50,0,22,28,林梅芳,"四5,6,7(海MB 1009)","['', '', '', '567', '', '', '']",《講授類》,"['生物技術學程', '生物資訊與演化生態微學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR303&Crsname=水產養殖及傳染病概論,,,False,海資系,MBR303,3,全英班,"水產養殖及傳染病概論
+INTRODUCTION TO AQUACULTURE AND INFECTIOUS DISEASES",3,期,False,50,1,29,21,王亮鈞,"五5,6,7(海MB 2004)","['', '', '', '', '567', '', '']",《講授類》,['海洋微生物及應用推廣微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR307&Crsname=生物化學（二）,,,False,海資系,MBR307,2,全英班,"生物化學（二）
+BIOCHEMISTRY(II)",3,期,True,50,1,38,12,"李益銘,廖志中,廖睿妘",,"['', '', '234X', '', '', '', '']","《講授類》
+混成課程
+※英語授課",['天然藥物合成學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MBR309&Crsname=水產生物化學,,,False,海資系,MBR309,3,全英班,"水產生物化學
+MARINE BIOCHEMISTRY",3,期,False,50,2,10,40,邱素芬,"一5,6,7(海MB 2016)","['567', '', '', '', '', '', '']",《講授類》,['生物技術學程'],False
