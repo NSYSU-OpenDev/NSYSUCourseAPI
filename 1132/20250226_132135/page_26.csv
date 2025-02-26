@@ -1,0 +1,56 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI157&Crsname=主修 (上低音號),,,True,音樂系,MUSI157,1,不分班,"主修 (上低音號)
+MAJOR (EUPHONIUM)",2,期,True,50,0,2,48,黃詩堯,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI160&Crsname=主修（打擊樂）,,,True,音樂系,MUSI160,1,不分班,"主修（打擊樂）
+MAJOR (PERCUSSIONS)",2,期,True,50,0,8,42,"陸淯姿,鄭雅心","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI162&Crsname=擊樂合奏（二）,異動,更換時間1/22,False,音樂系,MUSI162,1,不分班,"擊樂合奏（二）
+PERCUSSION ENSEMBLE(II)",1,期,False,50,0,7,43,陸淯姿,"一3,4(文FA 4031)(實驗)","['34', '', '', '', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI168&Crsname=主修（創作與應用）,異動,更換合授教師1/10,True,音樂系,MUSI168,1,不分班,"主修（創作與應用）
+MUSIC COMPOSITION AND PRODUCTION",3,期,True,50,0,4,46,"李思嫺,陳以軒","一7,8,9(文FA 6011)","['789', '', '', '', '', '', '']","《音樂類》
+限音樂系創作與應用組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI168A&Crsname=主修（創作與應用）,,,True,音樂系,MUSI168A,2,不分班,"主修（創作與應用）
+MUSIC COMPOSITION AND PRODUCTION",3,期,True,50,0,4,46,"應廣儀,劉聖賢","一5,6,B(文FA 6011)","['B56', '', '', '', '', '', '']","《音樂類》
+限音樂系創作與應用組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI177&Crsname=爵士樂團合奏（一）,,,False,音樂系,MUSI177,1,不分班,"爵士樂團合奏（一）
+JAZZ  ENSEMBLE (I)",1,期,False,50,0,34,16,黃盟傑,"二8,9(文FA 4029)","['', '89', '', '', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI201&Crsname=鋼琴演奏實務,,,False,音樂系,MUSI201,3,不分班,"鋼琴演奏實務
+PIANO PERFORMANCE CLASS",2,期,False,50,3,8,42,顏竹君,"二3,4(文FA 4028)","['', '34', '', '', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI211&Crsname=音樂基礎訓練（四）,,,True,音樂系,MUSI211,2,不分班,"音樂基礎訓練（四）
+MUSICIANSHIP (IV)",1,期,True,50,1,14,36,楊妮蓉,一2(文FA 4030),"['2', '', '', '', '', '', '']","《講授類》
+限音樂系學生修課，不可同時修習音樂基礎訓練(二)課程",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI211A&Crsname=音樂基礎訓練（四）,,,True,音樂系,MUSI211A,2,不分班,"音樂基礎訓練（四）
+MUSICIANSHIP (IV)",1,期,True,50,0,18,32,楊妮蓉,一3(文FA 4030),"['3', '', '', '', '', '', '']","《講授類》
+限音樂系學生修課，不可同時修習音樂基礎訓練(二)課程",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI213&Crsname=鍵盤和聲（二）,,,False,音樂系,MUSI213,2,不分班,"鍵盤和聲（二）
+KEYBOARD HARMONY(II)",1,期,False,50,1,28,22,李思嫺,一4(文FA 6011),"['4', '', '', '', '', '', '']","《講授類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI219&Crsname=西洋音樂史（二）,,,False,音樂系,MUSI219,2,不分班,"西洋音樂史（二）
+HISTORY OF WESTERN MUSIC II",2,期,True,50,2,44,6,應廣儀,"五3,4(文FA 7003)","['', '', '', '', '34', '', '']",《講授類》,['音樂劇學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI227&Crsname=鋼琴重奏（二）,,,False,音樂系,MUSI227,2,不分班,"鋼琴重奏（二）
+PIANO CHAMBER ENSENBLE(Ⅱ)",1,期,False,50,0,9,41,黃楚涵,二7(文FA 5011) 二8(文FA 5012),"['', '78', '', '', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI233&Crsname=調性音樂理論與分析（四）,,,False,音樂系,MUSI233,2,不分班,"調性音樂理論與分析（四）
+THEORY AND ANALYSIS IN TONAL MUSIC (IV)",2,期,True,50,1,48,2,陳以軒,"二5,6(文FA 7003)","['', '56', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI269&Crsname=管樂合奏（四）,,,False,音樂系,MUSI269,2,不分班,"管樂合奏（四）
+WIND ENSEMBLE (IV)",1,期,False,90,1,20,70,林鴻君,"二D,E(文FA 4031)(實驗)","['', 'DE', '', '', '', '', '']","《音樂類》
+於限修人數中，開放50個名額予跨院修課。外系學生修課借用琴房練習須依規定繳交費用",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI315&Crsname=音樂心理學,,,False,音樂系,MUSI315,3,不分班,"音樂心理學
+PSYCHOLOGY OF MUSIC",2,期,False,50,2,30,20,鄭夙雯,"三3,4(文FA 7003)","['', '', '34', '', '', '', '']","《講授類》
+限音樂系學生修課","['表達性藝術治療學程', '音樂與高齡照護學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI316&Crsname=基礎指揮法,,,False,音樂系,MUSI316,3,不分班,"基礎指揮法
+BASIC CONDUCTION",2,期,False,50,1,34,16,楊智欽,"五7,8(文FA 4034)","['', '', '', '', '78', '', '']","《講授類》
+限音樂系大三大四學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI321&Crsname=數位化編曲理論與實作（二）,,,False,音樂系,MUSI321,2,不分班,"數位化編曲理論與實作（二）
+MIDI ARRANGEMENTS THEORY AND PRACTICE (II)",2,期,False,50,3,40,10,江俊典,"一5,6(文LA 1012)","['56', '', '', '', '', '', '']",《講授類》,"['沉浸式體驗技術與應用學程', '音場技術與情境感受微學程', '沉浸式體驗內容應用微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI334&Crsname=鋼琴維修與調音,異動,更換時間及教室1/24,False,音樂系,MUSI334,2,不分班,"鋼琴維修與調音
+PIANO TUNING AND BASIC REPAIR",2,期,False,50,1,27,23,呂佳能,"四5,6(文FA 4034)","['', '', '', '56', '', '', '']","《講授類》
+限音樂系大二大三大四學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI340&Crsname=管弦樂法,,,False,音樂系,MUSI340,4,不分班,"管弦樂法
+ORCHESTRATION",2,期,False,50,5,22,28,李思嫺,"二3,4(文FA 4034)","['', '34', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MUSI348&Crsname=歌唱語韻（二）,,,False,音樂系,MUSI348,3,不分班,"歌唱語韻（二）
+SINGING DICTION (II)",2,期,False,50,2,9,41,黃子珊,"一5,6(文FA 6011-1)","['56', '', '', '', '', '', '']",《講授類》,[],False
