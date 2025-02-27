@@ -1,0 +1,46 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE561&Crsname=電腦適性測驗,,,False,教育碩,IOE561,0,不分班,"電腦適性測驗
+COMPUTERRIZED ADAPTIVE TESTING",3,期,False,50,0,4,46,施慶麟,"三2,3,4(社SS 2004-3)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE565&Crsname=非制式科學教育研究,,,False,教育碩,IOE565,0,不分班,"非制式科學教育研究
+INFORMAL SCIENCE EDUCATION",3,期,False,50,0,2,48,"莊雪華,紀博善","四5,6,B(社SS 2002-1)","['', '', '', 'B56', '', '', '']","《講授類》
+ 
+※英語授課",['STREAM永續發展培力微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE568&Crsname=學習心理學研究,新增,1/2,False,教育碩,IOE568,0,不分班,"學習心理學研究
+STUDIES IN LEARNING PSYCHOLOGY",3,期,False,10,0,8,2,陳利銘,"二2,3,4(社SS 2002-1)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE582&Crsname=新興科技與教學創新,異動,更換教室2/18,False,教育碩,IOE582,0,不分班,"新興科技與教學創新
+NEW TECHNOLOGIES AND INNOVATIVE TEACHING",3,期,False,50,0,5,45,陳菁徽,"二2,3,4(社SS 2004-3)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE596&Crsname=教師專業發展研究,異動,更換教室2/19,False,教育碩,IOE596,0,不分班,"教師專業發展研究
+STUDIES IN FACULTY PROFESSION IN HIGHER EDUCATION",3,期,False,20,0,0,20,林靜慧,"二6,7,8(社SS 2004-3)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE598&Crsname=大學生健康,新增,2/24,False,教育碩,IOE598,0,不分班,"大學生健康
+COLLEGE STUDENT HEALTH",3,期,False,50,0,2,48,陳威霖,"四5,6,B(社SS 2002-2)","['', '', '', 'B56', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE600&Crsname=全球教育領導,,,False,教育碩,IOE600,0,不分班,"全球教育領導
+LEADERSHIP IN GLOBAL EDUCATION",3,期,False,50,0,2,48,艾玲,"五2,3,4(社SS 2002-1)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE605&Crsname=教育專題研究（二）,異動,確認教師2/24,False,教育碩,IOE605,2,不分班,"教育專題研究（二）
+INDEPENDENT STUDIES IN EDUCATION (II)",1,期,True,50,0,11,39,"謝百淇,周珮儀,宋宥賢,張宇慧,張至慶,莊雪華,陳利銘,馮雅群",六1(),"['', '', '', '', '', '1', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE607&Crsname=多變量分析,,,False,教育碩,IOE607,0,不分班,"多變量分析
+MULTIVARIATE ANALYSIS",3,期,False,50,0,0,50,艾玲,"四2,3,4(社SS 3006)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課",['政經大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE623&Crsname=研究方法,,,False,教育碩,IOE623,1,不分班,"研究方法
+RESEARCH METHODS",3,期,True,20,0,6,14,馮雅群,"三2,3,4(社SS 2002-1)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE627&Crsname=對外英語教學,異動,更換教室2/21,False,教育碩,IOE627,0,不分班,"對外英語教學
+TEACHING ENGLISH TO SPEAKERS OF OTHER LANGUAGES (TESOL)",3,期,False,50,0,1,49,紀博善,"三5,6,B(社SS 2005)","['', '', 'B56', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE628&Crsname=質性資料分析,,,False,教育碩,IOE628,0,不分班,"質性資料分析
+ANALYSIS IN QUALITATIVE RESEARCH",3,期,False,50,0,2,48,莊雪華,"三5,6,B(社SS 2006)","['', '', 'B56', '', '', '', '']","《講授類》
+限修過本所「質性研究法」的同學選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE632&Crsname=科技融入學習環境研究,異動,更換時間1/13,False,教育碩,IOE632,0,不分班,"科技融入學習環境研究
+CURRENT ISSUES IN TECHNOLOGY ENHANCED LEARNING ENVIRONMENTS",3,期,False,50,0,4,46,楊淑晴,"三5,6,B(社SS 2002-1)","['', '', 'B56', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE635&Crsname=社會創新與教育創業,,,False,教育碩,IOE635,0,不分班,"社會創新與教育創業
+SOCIAL INNOVATION AND EDUCATIONAL ENTREPRENEURSHIP",3,期,False,50,0,6,44,游銘仁,"五6,7,8(西SW 1004)","['', '', '', '', '678', '', '']",《講授類》,['創新創業微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE643&Crsname=青少年心理與輔導研究,異動,更換教室2/26,False,教育碩,IOE643,0,不分班,"青少年心理與輔導研究
+RESEARCH ON ADOLESCENT PSYCHOLOGY AND GUIDANCE",3,期,False,20,0,6,14,宋宥賢,"二6,7,8(社SS 2002-1)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE645&Crsname=數位媒體素養與教育研究,,,False,教育碩,IOE645,0,不分班,"數位媒體素養與教育研究
+STUDIES IN DIGITAL LITERACIES IN EDUCATION",3,期,False,15,0,5,10,張宇慧,"一6,7,8(社SS 3006)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE650&Crsname=個體知識論教育研究,,,False,教育碩,IOE650,0,不分班,"個體知識論教育研究
+RESEARCH ON PERSONAL EPISTEMOLOGY IN THE CLASSROOM",3,期,False,50,0,3,47,張至慶,"四2,3,4(社SS 2002-2)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IOE652&Crsname=地方本位教育研究,,,False,教育碩,IOE652,0,不分班,"地方本位教育研究
+PLACE-BASED EDUCATION RESEARCH",3,期,False,8,0,1,7,謝百淇,"一2,3,4(社SS 2002-2)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CAPS542&Crsname=憲政理論與制度,,,True,亞太碩,CAPS542,1,不分班,"憲政理論與制度
+THEORY AND SYSTEM OF CONSTITUTIONAL LAW",3,期,True,50,0,9,41,陳盈雪,"四2,3,4(社SS 2009-1)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CAPS545&Crsname=社會法,,,True,亞太碩,CAPS545,1,不分班,"社會法
+SOCIAL WELFARE ACTS",3,期,True,50,0,11,39,張道義,"五2,3,4(社SS 2008)","['', '', '', '', '234', '', '']",《講授類》,[],False
