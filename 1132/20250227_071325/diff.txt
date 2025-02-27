@@ -1,0 +1,75 @@
+Item root[700] removed from iterable.
+Item root[747] removed from iterable.
+Item root[763] removed from iterable.
+Item root[764] removed from iterable.
+Item root[765] removed from iterable.
+Item root[769] removed from iterable.
+Item root[773] removed from iterable.
+Item root[1034] removed from iterable.
+Item root[1275] removed from iterable.
+Item root[1276] removed from iterable.
+Item root[1277] removed from iterable.
+Item root[1278] removed from iterable.
+Item root[1279] removed from iterable.
+Item root[1409] removed from iterable.
+Item root[1415] removed from iterable.
+Item root[1471] removed from iterable.
+Item root[1567] removed from iterable.
+Item root[1635] removed from iterable.
+Item root[1636] removed from iterable.
+Item root[1637] removed from iterable.
+Item root[1643] removed from iterable.
+Item root[1644] removed from iterable.
+Item root[1645] removed from iterable.
+Item root[1652] removed from iterable.
+Item root[1655] removed from iterable.
+Item root[1656] removed from iterable.
+Item root[1657] removed from iterable.
+Item root[1658] removed from iterable.
+Item root[1659] removed from iterable.
+Item root[1660] removed from iterable.
+Item root[1662] removed from iterable.
+Item root[1663] removed from iterable.
+Item root[1665] removed from iterable.
+Item root[1667] removed from iterable.
+Item root[1668] removed from iterable.
+Item root[1672] removed from iterable.
+Item root[1673] removed from iterable.
+Item root[1674] removed from iterable.
+Item root[1689] removed from iterable.
+Item root[1711] removed from iterable.
+Item root[1726] removed from iterable.
+Item root[1733] removed from iterable.
+Item root[1856] removed from iterable.
+Item root[1861] removed from iterable.
+Item root[1884] removed from iterable.
+Item root[1900] removed from iterable.
+Item root[1906] removed from iterable.
+Item root[1912] removed from iterable.
+Item root[1915] removed from iterable.
+Item root[1973] removed from iterable.
+Item root[2151] removed from iterable.
+Item root[2227] removed from iterable.
+Item root[2228] removed from iterable.
+Item root[2336] removed from iterable.
+Item root[2356] removed from iterable.
+Item root[2357] removed from iterable.
+Item root[2358] removed from iterable.
+Item root[2369] removed from iterable.
+Item root[2379] removed from iterable.
+Item root[2380] removed from iterable.
+Item root[2381] removed from iterable.
+Item root[2382] removed from iterable.
+Item root[2389] removed from iterable.
+Item root[2392] removed from iterable.
+Item root[2556] removed from iterable.
+Item root[2557] removed from iterable.
+Item root[2656] removed from iterable.
+Item root[2659] removed from iterable.
+Type of root[1965]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1965]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間2/".
+Value of root[351]['select'] changed from 4 to 3.
+Value of root[351]['selected'] changed from 35 to 36.
+Value of root[351]['remaining'] changed from 0 to -1.
+Value of root[476]['selected'] changed from 27 to 28.
+Value of root[476]['remaining'] changed from 23 to 22.
