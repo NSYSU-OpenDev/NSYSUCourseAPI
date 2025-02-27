@@ -1,0 +1,23 @@
+Item root[1916]['classTime'][3] added to iterable.
+Repetition change for item root[1916]['classTime'][0].
+Repetition change for item root[1916]['classTime'][2].
+Type of root[453]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[453]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/27".
+Type of root[470]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[470]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/27".
+Type of root[1695]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1695]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式2/27".
+Value of root[261]['room'] changed from "三2,3,4(文LA 2001)" to "三2,3,4(文LA 3014)".
+Value of root[261]['description'] changed from "《講授類》
+跨院通識與外文系DFLL235A課程併班上課" to "《講授類》
+『本課程之限修，於加退選2階段開放選修』。非外文系學生優先選修跨院通識與外文系DFLL235A課程併班上課".
+Value of root[453]['room'] changed from "三2,3,4(文LA 2001)" to "三2,3,4(文LA 3014)".
+Value of root[470]['room'] changed from "二5,6,7(文LA 3014)" to "二5,6,7(文LA 3015)".
+Value of root[896]['selected'] changed from 48 to 47.
+Value of root[896]['remaining'] changed from 2 to 3.
+Value of root[1142]['teacher'] changed from "劉勃佑,余涵如,劉勃佑,待聘,林右才,林蓓雯,柯瓊媛,蘇彥燁" to "劉勃佑,余涵如,劉勃佑,林右才,林蓓雯,柯瓊媛,蘇彥燁,黃麗珊".
+Value of root[1161]['teacher'] changed from "蕭志誠,待聘,洪碧蓮,蕭志誠,郭光哲,陳亮傑,陳德全,陳昱潔,陳秀玲,黃新純" to "蕭志誠,洪碧蓮,蕭志誠,郭光哲,陳亮傑,陳德全,陳昱潔,陳秀玲,黃新純".
+Value of root[1163]['teacher'] changed from "林育德,待聘,林育德,王郁鈞,甘祐瑜,陳如意,陳彥旭" to "林育德,林育德,王郁鈞,甘祐瑜,陳如意,陳彥旭".
+Value of root[1695]['english'] changed from False to True.
+Value of root[1853]['teacher'] changed from "張揚祺,夏沛亞,李政賢,林俊宏,林巧雯,歐雅森,王右仁,莊偉良,金尚進,鍾秉宸" to "張揚祺,卓宴琳,夏沛亞,李政賢,林俊宏,林巧雯,歐雅森,王右仁,莊偉良,葉博弘,詹鵬台,金尚進,鍾秉宸".
+Value of root[1916]['room'] changed from "三A() 四A() 五A()" to "三A() 四1,A()".
