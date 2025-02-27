@@ -1,0 +1,59 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES586&Crsname=材料之模擬與計算,,,False,材光碩,MOES586,0,,"材料之模擬與計算
+MATERIALS SIMULATION AND COMPUTATION",3,期,False,50,0,5,45,林仕鑫,"五1,2,3(工MS 2001)","['', '', '', '', '123', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES587&Crsname=分析電化學,,,False,材光碩,MOES587,0,,"分析電化學
+ANALYTICAL ELECTROCHEMISTRY",3,期,False,50,0,11,39,王致傑,"一6,7,8(工MS 4025)","['678', '', '', '', '', '', '']",《講授類》,['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES593&Crsname=有機半導體材料,,,False,材光碩,MOES593,0,,"有機半導體材料
+ORGANIC SEMICONDUCTOR MATERIALS",3,期,False,50,0,18,32,王映樵,"一2,3,4(工MS 4025)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS503&Crsname=資訊科技研究,,,True,資管碩,MIS503,1,,"資訊科技研究
+SPECIAL ISSUES IN INFORMATION TECHNOLOGY",3,期,True,50,0,38,12,韓毅,"一6,7,8(管CM 4078)","['678', '', '', '', '', '', '']",《講授類》,['巨量資料分析學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS513&Crsname=計算機網路,,,False,資管碩,MIS513,0,,"計算機網路
+COMPUTER NETWORKS",3,期,False,50,0,43,7,林耕霈,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS513&Crsname=計算機網路,,,False,資管碩,MIS513,0,,"計算機網路
+COMPUTER NETWORKS",3,期,False,50,0,43,7,林耕霈,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS513&Crsname=計算機網路,,,False,資管碩,MIS513,0,,"計算機網路
+COMPUTER NETWORKS",3,期,False,50,0,43,7,林耕霈,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課",['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,異動,更換教室2/6,False,資管碩,MIS535,0,,"服務品質管理
+SERVICE QUALITY MANAGEMENT",3,期,False,50,0,15,35,劉賓陽,"三C,D,E(管CM 4112)","['', '', 'CDE', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,異動,更換教室2/6,False,資管碩,MIS535,0,,"服務品質管理
+SERVICE QUALITY MANAGEMENT",3,期,False,50,0,15,35,劉賓陽,"三C,D,E(管CM 4112)","['', '', 'CDE', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,異動,更換教室2/6,False,資管碩,MIS535,0,,"服務品質管理
+SERVICE QUALITY MANAGEMENT",3,期,False,50,0,15,35,劉賓陽,"三C,D,E(管CM 4112)","['', '', 'CDE', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,異動,更換教室2/6,False,資管碩,MIS535,0,,"服務品質管理
+SERVICE QUALITY MANAGEMENT",3,期,False,50,0,15,35,劉賓陽,"三C,D,E(管CM 4112)","['', '', 'CDE', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS537&Crsname=專案管理,異動,調整名額1/22,False,資管碩,MIS537,0,,"專案管理
+PROJECT MANAGEMENT",3,期,False,30,3,30,0,李捷,"四6,7,8(管CM 3022)","['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課",['非營利事業及社會創新微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS537&Crsname=專案管理,異動,調整名額1/22,False,資管碩,MIS537,0,,"專案管理
+PROJECT MANAGEMENT",3,期,False,30,3,30,0,李捷,"四6,7,8(管CM 3022)","['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課",['非營利事業及社會創新微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS537&Crsname=專案管理,異動,調整名額1/22,False,資管碩,MIS537,0,,"專案管理
+PROJECT MANAGEMENT",3,期,False,30,3,30,0,李捷,"四6,7,8(管CM 3022)","['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課",['非營利事業及社會創新微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS537&Crsname=專案管理,異動,調整名額1/22,False,資管碩,MIS537,0,,"專案管理
+PROJECT MANAGEMENT",3,期,False,30,3,30,0,李捷,"四6,7,8(管CM 3022)","['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課",['非營利事業及社會創新微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS537&Crsname=專案管理,異動,調整名額1/22,False,資管碩,MIS537,0,,"專案管理
+PROJECT MANAGEMENT",3,期,False,30,3,30,0,李捷,"四6,7,8(管CM 3022)","['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課",['非營利事業及社會創新微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS538&Crsname=網路安全,異動,更換教室2/17,False,資管碩,MIS538,0,,"網路安全
+NETWORK SECURITY",3,期,False,50,0,16,34,陳嘉玫,"六6,7,8(管CM 2032)","['', '', '', '', '', '678', '']",《講授類》,"['永續能源學程', '資通安全學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS538&Crsname=網路安全,異動,更換教室2/17,False,資管碩,MIS538,0,,"網路安全
+NETWORK SECURITY",3,期,False,50,0,16,34,陳嘉玫,"六6,7,8(管CM 2032)","['', '', '', '', '', '678', '']",《講授類》,"['永續能源學程', '資通安全學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS538&Crsname=網路安全,異動,更換教室2/17,False,資管碩,MIS538,0,,"網路安全
+NETWORK SECURITY",3,期,False,50,0,16,34,陳嘉玫,"六6,7,8(管CM 2032)","['', '', '', '', '', '678', '']",《講授類》,"['永續能源學程', '資通安全學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS545&Crsname=資料探勘與知識發現,,,False,資管碩,MIS545,0,,"資料探勘與知識發現
+DATA MINING AND KNOWLEDGE DISCOVERY",3,期,False,50,0,8,42,李偉柏,"三5,6,7(管CM 2025)","['', '', '567', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False

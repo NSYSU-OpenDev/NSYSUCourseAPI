@@ -1,0 +1,34 @@
+Item root[971] removed from iterable.
+Item root[1302] removed from iterable.
+Item root[1318] removed from iterable.
+Item root[1707] removed from iterable.
+Item root[1934] removed from iterable.
+Item root[1992] removed from iterable.
+Item root[2118] removed from iterable.
+Item root[2120] removed from iterable.
+Item root[2346] removed from iterable.
+Item root[2347] removed from iterable.
+Item root[2351] removed from iterable.
+Item root[2353] removed from iterable.
+Item root[2355] removed from iterable.
+Item root[2356] removed from iterable.
+Item root[2357] removed from iterable.
+Item root[2358] removed from iterable.
+Item root[2359] removed from iterable.
+Item root[2361] removed from iterable.
+Item root[2363] removed from iterable.
+Item root[2365] removed from iterable.
+Item root[2366] removed from iterable.
+Item root[2367] removed from iterable.
+Item root[2369] removed from iterable.
+Item root[2371] removed from iterable.
+Item root[2442] removed from iterable.
+Item root[2470] removed from iterable.
+Item root[2472] removed from iterable.
+Item root[2473] removed from iterable.
+Item root[2708] removed from iterable.
+Value of root[26]['selected'] changed from 43 to 42.
+Value of root[26]['remaining'] changed from 7 to 8.
+Value of root[28]['selected'] changed from 6 to 7.
+Value of root[28]['remaining'] changed from 44 to 43.
+Value of root[760]['teacher'] changed from "劉漢胤,李英杰,莊豐任,陳昶孝" to "劉漢胤,李英杰,莊豐任,陳昶孝,陳英忠".
