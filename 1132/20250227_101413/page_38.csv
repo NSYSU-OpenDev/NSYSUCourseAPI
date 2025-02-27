@@ -1,0 +1,57 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3607&Crsname=機率與統計,,,True,電機系,EE3607,2,甲班,"機率與統計
+PROBABILITY THEORY",3,期,True,50,0,22,28,陳有德,"三2,3,4(工EC 3013)","['', '', '234', '', '', '', '']",《講授類》,"['人工智慧探索應用學分學程', '人工智慧工業應用學分學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3607A&Crsname=機率與統計,,,True,電機系,EE3607A,2,乙班,"機率與統計
+PROBABILITY THEORY",3,期,True,50,0,13,37,陳有德,"三2,3,4(工EC 3013)","['', '', '234', '', '', '', '']",《講授類》,"['人工智慧探索應用學分學程', '人工智慧工業應用學分學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3607B&Crsname=機率與統計,,,True,電機系,EE3607B,2,全英班,"機率與統計
+PROBABILITY THEORY",3,期,True,70,0,69,1,梁家昌,"二6,7,8(工EC 3013)","['', '678', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['人工智慧探索應用學分學程', '人工智慧工業應用學分學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3702&Crsname=ＶＬＳＩ設計導論,,,False,電機系,EE3702,3,不分班,"ＶＬＳＩ設計導論
+INTRODUCTION TO VLSI DESIGN",3,期,False,50,0,42,8,李宗哲,"四5,6,7(工EC 3014)","['', '', '', '567', '', '', '']",《講授類》,"['半導體元件學程', '半導體製程模組學程', '數位IC設計學程', '類比射頻IC設計學程', '矽光子學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3702A&Crsname=ＶＬＳＩ設計導論,,,False,電機系,EE3702A,3,不分班,"ＶＬＳＩ設計導論
+INTRODUCTION TO VLSI DESIGN",3,期,False,50,0,34,16,王朝欽,"一2,3,4(工EC 3012)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '半導體製程模組學程', '數位IC設計學程', '類比射頻IC設計學程', '矽光子學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3705&Crsname=實用數位系統設計,,,False,電機系,EE3705,3,不分班,"實用數位系統設計
+PRACTICAL DIGITAL SYSTEMS DESIGN",3,期,False,50,0,37,13,謝東佑,"三5,6,7(工EC 6019)","['', '', '567', '', '', '', '']",《講授類》,"['數位IC設計學程', '矽光子學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3809&Crsname=生醫訊號處理與儀器實作專題,,,True,電機系,EE3809,3,甲班,"生醫訊號處理與儀器實作專題
+INDEPENDENT STUDIES IN BIOMEDICAL SIGNAL PROCESSING AND INSTRUMENTATION",2,期,True,50,0,5,45,"莊子肇,林遠彬","日1,2,3,4(工EC 6013)(實驗)","['', '', '', '', '', '', '1234']","《獨立研究》
+請自行找生醫組老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3809A&Crsname=生醫訊號處理與儀器實作專題,,,True,電機系,EE3809A,3,乙班,"生醫訊號處理與儀器實作專題
+INDEPENDENT STUDIES IN BIOMEDICAL SIGNAL PROCESSING AND INSTRUMENTATION",2,期,True,50,0,7,43,"莊子肇,魏家博","一C,D,E,F(工EC 6013)(實驗)","['CDEF', '', '', '', '', '', '']","《獨立研究》
+請自行找生醫組老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE3809B&Crsname=生醫訊號處理與儀器實作專題,,,True,電機系,EE3809B,3,全英班,"生醫訊號處理與儀器實作專題
+INDEPENDENT STUDIES IN BIOMEDICAL SIGNAL PROCESSING AND INSTRUMENTATION",2,期,True,50,0,1,49,魏家博,"日5,6,7,8(工EC 6013)(實驗)","['', '', '', '', '', '', '5678']","《獨立研究》
+請自行找生醫組老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4010&Crsname=電工實驗（四）,,,False,電機系,EE4010,3,甲班,"電工實驗（四）
+ELECTRICAL ENGINEERING LAB. (IV)",1,期,True,56,1,38,18,"陳昶孝,邱日清","一5,6,7(工EC 6023)(實驗)","['567', '', '', '', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課；限該班及重修生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4010A&Crsname=電工實驗（四）,,,False,電機系,EE4010A,3,乙班,"電工實驗（四）
+ELECTRICAL ENGINEERING LAB. (IV)",1,期,True,56,0,42,14,"邱日清,陳昶孝","一5,6,7(工EC 6018)(實驗)","['567', '', '', '', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課；限該班及重修生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4010B&Crsname=電工實驗（四）,,,False,電機系,EE4010B,3,全英班,"電工實驗（四）
+ELECTRICAL ENGINEERING LAB. (IV)",1,期,True,56,0,46,10,"邱日清,陳昶孝","二2,3,4(工EC 6018)(實驗)","['', '234', '', '', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4107&Crsname=半導體元件（二）,,,False,電機系,EE4107,4,不分班,"半導體元件（二）
+SEMICONDUCTOR DEVICES (II)",3,期,False,50,1,31,19,莊豐任,"四2,3,4(工EC 3009)","['', '', '', '234', '', '', '']",《講授類》,"['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '矽光子學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4107A&Crsname=半導體元件（二）,,,False,電機系,EE4107A,4,不分班,"半導體元件（二）
+SEMICONDUCTOR DEVICES (II)",3,期,False,50,0,44,6,莊豐任,"五2,3,4(工EC 1006)","['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '矽光子學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4108&Crsname=微電子技術,,,False,電機系,EE4108,4,不分班,"微電子技術
+MICROELECTRONIC TECHNOLOGY",3,期,False,50,0,37,13,陳昶孝,"五2,3,4(工EC 2010)","['', '', '', '', '234', '', '']",《講授類》,"['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '半導體製程模組學程', '類比射頻IC設計學程', '矽光子學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4108A&Crsname=微電子技術,,,False,電機系,EE4108A,4,不分班,"微電子技術
+MICROELECTRONIC TECHNOLOGY",3,期,False,70,5,70,0,劉漢胤,"三5,6,7(工EC 3013)","['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '半導體製程模組學程', '類比射頻IC設計學程', '矽光子學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4318&Crsname=資訊安全概論,,,False,電機系,EE4318,4,不分班,"資訊安全概論
+INTRODUCTION TO INFORMATION SECURITY",3,期,False,50,0,10,40,葉小小,"四2,3,4(工EC 2007)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4609&Crsname=無線通訊系統導論,,,False,電機系,EE4609,4,不分班,"無線通訊系統導論
+INTRODUCTION TO WIRELESS COMMUNICATION SYSTEMS",3,期,False,50,0,4,46,陳有德,"一2,3,4(工EC 3014)","['234', '', '', '', '', '', '']",《講授類》,['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4801&Crsname=電子實作專題,,,True,電機系,EE4801,3,甲班,"電子實作專題
+INDEPENDENT STUDIES IN ELECTRONIC PRACTICE",2,期,True,50,0,10,40,"劉漢胤,李英杰,莊豐任,陳昶孝,陳英忠","一C,D,E,F(工EC 6013)(實驗)","['CDEF', '', '', '', '', '', '']","《獨立研究》
+請自行找電子組老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4801A&Crsname=電子實作專題,,,True,電機系,EE4801A,3,乙班,"電子實作專題
+INDEPENDENT STUDIES IN ELECTRONIC PRACTICE",2,期,True,50,0,1,49,劉漢胤,"日C,D,E,F(工EC 6013)(實驗)","['', '', '', '', '', '', 'CDEF']","《獨立研究》
+請自行找電子組老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],False
