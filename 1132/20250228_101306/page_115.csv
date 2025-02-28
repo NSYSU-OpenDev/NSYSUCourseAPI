@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS715&Crsname=生物多樣性書報討論（二）,,,False,生科博,BIOS715,1,不分班,"生物多樣性書報討論（二）
+BIODIVERSITY SEMINAR(II)",1,期,True,50,0,3,47,"顏聖紘,夏燦風",四8(理BI 3001),"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS811&Crsname=分子與細胞生物學書報討論（四）,,,False,生科博,BIOS811,2,不分班,"分子與細胞生物學書報討論（四）
+MOLECULAR AND CELL BIOLOGY SEMINAR (IV)",1,期,True,50,0,6,44,陳俊霖,四8(理BI 2002),"['', '', '', '8', '', '', '']","《演講/參訪》
+出席學術演講報告於學期考試週之前完成繳交",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM705&Crsname=書報討論（六）,異動,更換教室2/26,True,化學博,CHEM705,1,不分班,"書報討論（六）
+SEMINAR (VI)",1,期,True,50,0,6,44,邱政超,二5(理CH 4002),"['', '5', '', '', '', '', '']",《演講/參訪》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM729&Crsname=材料化學專題研究（二）,,,True,化學博,CHEM729,1,不分班,"材料化學專題研究（二）
+INDEPENDENT STUDIES IN MATERIALS CHEMISTRY (II)",3,期,True,50,0,2,48,李志聰,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM745&Crsname=奈米力學專題研究（二）,,,True,化學博,CHEM745,1,不分班,"奈米力學專題研究（二）
+INDEPENDENT STUDIES IN NANOSCALE FORCE MEASUREMENT (II)",3,期,True,50,0,1,49,謝淑貞,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM749&Crsname=有機質譜專題研究（二）,,,True,化學博,CHEM749,1,不分班,"有機質譜專題研究（二）
+INDEPENDENT STUDIES IN ORGANIC MASS SPECTROMETRY (II)",3,期,True,50,0,2,48,謝建台,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM753&Crsname=超微奈米藥物生化環境分析專題研究（二）,,,True,化學博,CHEM753,1,不分班,"超微奈米藥物生化環境分析專題研究（二）
+INDEPENDENT STUDIES IN ULTRA-MICRO RESEARCH FOR NANO-PARTICLE, DRUG, BIOCHEMISTRY AND ENVIRONMENT(II)",3,期,True,50,0,2,48,吳慧芬,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM761&Crsname=奈米材料化學專題研究（二）,,,True,化學博,CHEM761,1,不分班,"奈米材料化學專題研究（二）
+INDEPENDENT STUDIES IN CHEMISTRY OF NANOMATERIALS (II)",3,期,True,50,0,2,48,陳軍互,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM771&Crsname=無機反應專題研究（二）,,,True,化學博,CHEM771,1,不分班,"無機反應專題研究（二）
+INDEPENDENT STUDIES IN INORGANIC REACTIONS (II)",3,期,True,50,0,1,49,王琢堅,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM775&Crsname=有機合成專題研究（二）,,,True,化學博,CHEM775,1,不分班,"有機合成專題研究（二）
+INDEPENDENT STUDIES IN ORGANIC SYNTHESIS（II）",3,期,True,50,0,2,48,廖軒宏,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM777&Crsname=顯微影像分析專題研究（二）,,,True,化學博,CHEM777,1,不分班,"顯微影像分析專題研究（二）
+INDEPENDENT STUDIES IN MICROSCOPIC IMAGE ANALYSIS(II)",3,期,True,50,0,2,48,張柏齡,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM805&Crsname=書報討論（八）,異動,更換教室2/26,True,化學博,CHEM805,2,不分班,"書報討論（八）
+SEMINAR (VIII)",1,期,True,50,0,12,38,吳慧芬,二5(理SC 3004),"['', '5', '', '', '', '', '']",《演講/參訪》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS702&Crsname=專題研討（二）,,,False,物理博,PHYS702,1,不分班,"專題研討（二）
+STUDIES IN SELECTED RESEARCH TOPICS (II)",2,期,True,50,0,10,40,楊弘敦,"四8,9(理PH 5008)","['', '', '', '89', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS806&Crsname=薄膜物理議題研討（二）,,,False,物理博,PHYS806,2,不分班,"薄膜物理議題研討（二）
+SPECIAL TOPICS IN THIN FILM PHYSICS (I)",3,期,False,50,0,4,46,周雄,"一1,A,B(理PH 7008)","['A1B', '', '', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS808&Crsname=半導體元件物理專題研討（二）,,,False,物理博,PHYS808,2,不分班,"半導體元件物理專題研討（二）
+SEMINAR IN SEMICONDUCTOR DEVICE PHYSICS (II)",3,期,False,50,0,4,46,張鼎張,"五1,A,B(理PH 7009)","['', '', '', '', 'A1B', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS815&Crsname=半導體專題（二）,,,False,物理博,PHYS815,2,不分班,"半導體專題（二）
+INDEPENDENT STUDIES IN SEMICONDUCTOR (II)",3,期,False,50,0,1,49,余健文,"三1,A,B(理PH 3001)","['', '', 'A1B', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHYS825&Crsname=自旋物理專題研究（二）,,,False,物理博,PHYS825,2,不分班,"自旋物理專題研究（二）
+INDEPENDENT STUDIES IN SPIN PHYSICS (II)",3,期,False,50,0,4,46,郭建成,"三1,A,B(理PH 2009)","['', '', 'A1B', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MATH757&Crsname=算子理論及應用,異動,更換時間及教室1/3,False,應數博,MATH757,0,不分班,"算子理論及應用
+OPERATOR THEORY AND APPLICATIONS",3,期,False,5,0,2,3,黃毅青,"四5,6,7(理SC 4011-2)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PPFS721&Crsname=書報討論（二）,,,False,理學博,PPFS721,1,不分班,"書報討論（二）
+SEMINAR（II）",1,期,True,50,0,3,47,楊崇鑫,五4(理SC 0010),"['', '', '', '', '4', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PPFS723&Crsname=專題研究（二）,,,False,理學博,PPFS723,2,不分班,"專題研究（二）
+INDEPENDENT STUDIES（II）",3,期,True,50,0,4,46,楊崇鑫,"一1(理SC 0010) 二1,2(理SC 0010)","['1', '12', '', '', '', '', '']",《獨立研究》,[],True
