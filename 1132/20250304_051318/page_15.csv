@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1325&Crsname=微分方程,異動,更換教室2/17,False,跨院選修(工),GEAI1325,0,不分班,"微分方程
+DIFFERENTIAL EQUATIONS",3,期,True,10,0,9,1,莊子肇,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']","《講授類》
+限非應數系學生修習。 跨院通識與電機系EE1201課程併班上課","['金融工程學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1342&Crsname=電磁學（二）,,,False,跨院選修(工),GEAI1342,0,不分班,"電磁學（二）
+ELECTROMAGNETICS (II)",3,期,True,10,0,1,9,洪子聖,"二2,3,4(工EC 1009)","['', '234', '', '', '', '', '']","《講授類》
+跨院通識與電機系EE3501課程併班上課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1343&Crsname=機率與統計,,,True,跨院選修(工),GEAI1343,0,不分班,"機率與統計
+PROBABILITY THEORY",3,期,True,10,0,11,-1,陳有德,"三2,3,4(工EC 3013)","['', '', '234', '', '', '', '']","《講授類》
+跨院通識與電機系EE3607課程併班上課","['生成式AI素養微學程', '人工智慧探索應用學分學程', '人工智慧工業應用學分學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1350&Crsname=計算機組織,,,False,跨院選修(工),GEAI1350,0,不分班,"計算機組織
+COMPUTER ORGANIZATION",3,期,False,10,0,3,7,施信毓,"四6,7,8(工EC 2010)","['', '', '', '678', '', '', '']","《講授類》
+跨院通識與電機系EE2711課程併班上課","['數位IC設計學程', '軟體工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1364&Crsname=資料探勘,,,False,跨院選修(工),GEAI1364,0,不分班,"資料探勘
+DATA MINING",3,期,False,10,0,8,2,蔡崇煒,"四6,7,8(工EC 9032)","['', '', '', '678', '', '', '']","《講授類》
+跨院通識與資工系CSE223課程併班上課","['智慧長照微學程', '人工智慧工業應用學分學程', '人工智慧自然語言技術學分學程', '跨領域智慧製造學程', '智慧製造聯網微學程', '製造與大數據分析微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1366&Crsname=應用電子學,,,False,跨院選修(工),GEAI1366,0,不分班,"應用電子學
+APPLIED ELECTRONICS",3,期,True,10,0,3,7,林哲信,"四2,3,4(工EN 4055-1)","['', '', '', '234', '', '', '']","《講授類》
+跨院通識與機電系MEME209課程併班上課","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '自然科學之程式應用學程', '類比射頻IC設計學程', '矽光子學程', '南星產業樞紐學程', '海事工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1372&Crsname=綠色創新設計,異動,調整名額1/23,False,跨院選修(工),GEAI1372,0,不分班,"綠色創新設計
+GREEN INNOVATIVE DESIGN",3,期,False,25,0,5,20,楊政融,"四5,6,7(工EN 0031)","['', '', '', '567', '', '', '']","《講授類》
+跨院通識與機電系MEME335課程併班上課","['全英語通識教育菁英學程', '科技與環境英語微學程', '環境、社會及公司治理微學程', '碳流資訊盤查與低碳設計微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1401&Crsname=經濟學（二）,,,False,跨院選修(管),GEAI1401,0,不分班,"經濟學（二）
+ECONOMICS (II)",3,期,True,10,0,10,0,彭聖翔,"五5,6,7(管CM 0052)","['', '', '', '', '567', '', '']","《講授類》
+限非政經系學生修習。跨院通識與企管系BM106A課程併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1403&Crsname=管理學,異動,更換教室2/19,False,跨院選修(管),GEAI1403,0,不分班,"管理學
+MANAGEMENT",3,期,True,30,5,30,0,林豪傑,"一5,6,7(管CM 1037)","['567', '', '', '', '', '', '']","《講授類》
+跨院通識與企管系BM112課程併班上課","['音樂藝術管理與行銷學程', '人力資源管理學程', '地方敘事與創生學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1403A&Crsname=管理學,異動,調整名額2/21,False,跨院選修(管),GEAI1403A,0,不分班,"管理學
+MANAGEMENT",3,期,True,31,0,31,0,王致遠,"三5,6,7(管CM 1037)","['', '', '567', '', '', '', '']","《講授類》
+跨院通識與企管系BM112A課程併班上課","['音樂藝術管理與行銷學程', '人力資源管理學程', '地方敘事與創生學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1409&Crsname=經濟學實習（二）,,,False,跨院選修(管),GEAI1409,0,不分班,"經濟學實習（二）
+ECONOMICS PRACITCE(II)",1,期,False,10,0,4,6,彭聖翔,"三3,4(管CM 1037)(實驗)","['', '', '34', '', '', '', '']","《實習類》
+限非政經系學生修習。跨院通識與企管系BM108A課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1416&Crsname=財務管理,,,False,跨院選修(管),GEAI1416,0,不分班,"財務管理
+FINANCIAL MANAGEMENT",3,期,True,30,7,30,0,陳安琳,"二2,3,4(管CM 4112)","['', '234', '', '', '', '', '']","《講授類》
+併班上課跨院通識與企管系BM301課程併班上課","['金融工程學程', '會計學程', '科技創新與服務業管理學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1416A&Crsname=財務管理,,,False,跨院選修(管),GEAI1416A,0,不分班,"財務管理
+FINANCIAL MANAGEMENT",3,期,True,30,3,30,0,陳安琳,"二6,7,8(管CM 4112)","['', '678', '', '', '', '', '']","《講授類》
+跨院通識與企管系BM301A課程併班上課","['金融工程學程', '會計學程', '科技創新與服務業管理學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1418&Crsname=統計學（二）,,,False,跨院選修(管),GEAI1418,0,不分班,"統計學（二）
+STATISTICS (II)",3,期,True,10,0,10,0,林晉禾,"一5,6,7(管CM 0052)","['567', '', '', '', '', '', '']","《講授類》
+限非政經系學生修習；跨院通識與企管系BM202課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1419&Crsname=人力資源管理,,,False,跨院選修(管),GEAI1419,0,不分班,"人力資源管理
+HUMAN RESOURCES MANAGEMENT",3,期,True,30,0,30,0,王致遠,"四5,6,7(管CM 1037)","['', '', '', '567', '', '', '']","《講授類》
+跨院通識與企管系BM209課程併班上課",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1419A&Crsname=人力資源管理,,,False,跨院選修(管),GEAI1419A,0,不分班,"人力資源管理
+HUMAN RESOURCES MANAGEMENT",3,期,True,20,0,20,0,林杏娥,"三5,6,7(管CM 4112)","['', '', '567', '', '', '', '']","《講授類》
+跨院通識與企管系BM209A課程併班上課",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1420&Crsname=生產與作業管理,,,False,跨院選修(管),GEAI1420,0,不分班,"生產與作業管理
+PRODUCTIONS AND OPERATIONS MANAGEMENT",3,期,True,30,3,28,2,黃鋒樟,"二5,6,7(管CM 1037)","['', '567', '', '', '', '', '']","《講授類》
+跨院通識與企管系BM205課程併班上課",['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1421&Crsname=財務管理（二）,,,False,跨院選修(管),GEAI1421,0,不分班,"財務管理（二）
+FINANCIAL MANAGEMENT (II)",3,期,True,5,0,2,3,封之遠,"三5,6,7(管CM 2037)","['', '', '567', '', '', '', '']","《講授類》
+限修畢財務管理(一)，跨院通識與財管系FM207課程併班上課",['財務管理專業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1430&Crsname=管理學,,,False,跨院選修(管),GEAI1430,0,不分班,"管理學
+MANAGEMENT",3,期,True,6,1,4,2,張世賢,"三5,6,7(管CM 1032)","['', '', '567', '', '', '', '']","《講授類》
+跨院通識與財管系FM111課程併班上課",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1431&Crsname=統計學實習（二）,,,False,跨院選修(管),GEAI1431,0,不分班,"統計學實習（二）
+EXERCISE FOR STATISTICS (II)",1,期,False,10,1,4,6,林晉禾,"一3,4(管CM 3015)(實驗)","['34', '', '', '', '', '', '']","《實習類》
+限非政經系學生修習。跨院通識與企管系BM221課程併班上課",[],False

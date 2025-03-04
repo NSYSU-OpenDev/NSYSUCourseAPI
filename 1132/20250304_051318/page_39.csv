@@ -1,0 +1,63 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4804B&Crsname=電力實作專題,異動,更換時間2/19,True,電機系,EE4804B,3,全英班,"電力實作專題
+INDEPENDENT STUDIES IN ELECTRIC POWER PRACTICE",2,期,True,50,0,8,42,"謝耀慶,哈菲茲,李宗璘,艾慕明","日2,3,4,5(工EC 6013)(實驗)","['', '', '', '', '', '', '2345']","《獨立研究》
+請自行找電力組老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4805&Crsname=電波與光電實作專題,,,True,電機系,EE4805,3,甲班,"電波與光電實作專題
+INDEPENDENT STUDIES IN WAVE AND OPTICS PRACTICE",2,期,True,50,0,2,48,王復康,"五C,D,E,F(工EC 6013)(實驗)","['', '', '', '', 'CDEF', '', '']","《獨立研究》
+請自行找電波組老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4805B&Crsname=電波與光電實作專題,,,True,電機系,EE4805B,3,全英班,"電波與光電實作專題
+INDEPENDENT STUDIES IN WAVE AND OPTICS PRACTICE",2,期,True,50,0,3,47,王復康,"五C,D,E,F(工EC 6013)(實驗)","['', '', '', '', 'CDEF', '', '']","《獨立研究》
+請自行找電波組老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4806&Crsname=通訊實作專題,,,True,電機系,EE4806,3,甲班,"通訊實作專題
+INDEPENDENT STUDIES IN COMMUNICATION PRACTICE",2,期,True,50,0,10,40,"曾凡碩,溫朝凱,王藏億,陳彥銘","六1,2,3,4(工EC 6013)(實驗)","['', '', '', '', '', '1234', '']","《獨立研究》
+請自行找通訊所老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4806A&Crsname=通訊實作專題,,,True,電機系,EE4806A,3,乙班,"通訊實作專題
+INDEPENDENT STUDIES IN COMMUNICATION PRACTICE",2,期,True,50,0,10,40,"曾凡碩,溫朝凱,陳彥銘","三C,D,E,F(工EC 6013)(實驗)","['', '', 'CDEF', '', '', '', '']","《獨立研究》
+請自行找通訊所老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4806B&Crsname=通訊實作專題,,,True,電機系,EE4806B,3,全英班,"通訊實作專題
+INDEPENDENT STUDIES IN COMMUNICATION PRACTICE",2,期,True,50,0,8,42,"曾凡碩,梁家昌","六1,2,3,4(工EC 6013)(實驗)","['', '', '', '', '', '1234', '']","《獨立研究》
+請自行找通訊所老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4807&Crsname=系統晶片實作專題,,,True,電機系,EE4807,3,甲班,"系統晶片實作專題
+INDEPENDENT STUDIES IN SYSTEM-ON-CHIP DESIGN",2,期,True,50,0,27,23,"謝東佑,李宗哲,王朝欽,邱日清","六5,6,7,8(工EC 6013)(實驗)","['', '', '', '', '', '5678', '']","《獨立研究》
+請自行找SOC組或IC設計所老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4807A&Crsname=系統晶片實作專題,,,True,電機系,EE4807A,3,乙班,"系統晶片實作專題
+INDEPENDENT STUDIES IN SYSTEM-ON-CHIP DESIGN",2,期,True,50,0,18,32,"謝東佑,李宗哲,王朝欽,邱日清","二C,D,E,F(工EC 6013)(實驗)","['', 'CDEF', '', '', '', '', '']","《獨立研究》
+請自行找SOC組或IC設計所老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE4807B&Crsname=系統晶片實作專題,,,True,電機系,EE4807B,3,全英班,"系統晶片實作專題
+INDEPENDENT STUDIES IN SYSTEM-ON-CHIP DESIGN",2,期,True,50,0,12,38,"謝東佑,李宗哲,王朝欽","六5,6,7,8(工EC 6013)(實驗)","['', '', '', '', '', '5678', '']","《獨立研究》
+請自行找SOC組或IC設計所老師做專題，請先至https://forms.gle/KYzeX1Nu8Z6yKShh6登錄",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME104&Crsname=微積分（二）,,,False,機電系,MEME104,1,甲班,"微積分（二）
+CALCULUS(II)",3,期,True,55,0,47,8,鍾思齊,"五2,3,4(工EN 4055-1)","['', '', '', '', '234', '', '']","《講授類》
+一甲、一乙班併班上課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME104A&Crsname=微積分（二）,,,False,機電系,MEME104A,1,乙班,"微積分（二）
+CALCULUS(II)",3,期,True,55,0,42,13,鍾思齊,"五2,3,4(工EN 4055-1)","['', '', '', '', '234', '', '']","《講授類》
+一甲、一乙班併班上課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME104B&Crsname=微積分（二）,,,False,機電系,MEME104B,1,全英班,"微積分（二）
+CALCULUS(II)",3,期,True,60,0,40,20,余冠儒,"五2,3,4(工EC 2011)","['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME106&Crsname=機電材料,,,False,機電系,MEME106,1,甲班,"機電材料
+ELECTRO-MECHANICAL MATERIALS",3,期,True,60,0,45,15,胡龍豪,"一5,6,7(工EC 3001)","['567', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限該班及重修生修習。","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '太空科技微學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME106A&Crsname=機電材料,,,False,機電系,MEME106A,1,乙班,"機電材料
+ELECTRO-MECHANICAL MATERIALS",3,期,True,60,0,38,22,黃永茂,"四2,3,4(工EC 3006)","['', '', '', '234', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限該班及重修生修習。","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '太空科技微學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME106B&Crsname=機電材料,,,False,機電系,MEME106B,1,全英班,"機電材料
+ELECTRO-MECHANICAL MATERIALS",3,期,True,60,1,43,17,李伯軒,"四5,6,7(工EN 3021)","['', '', '', '567', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。
+※英語授課","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '太空科技微學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME202&Crsname=應用力學（二）,,,False,機電系,MEME202,1,甲班,"應用力學（二）
+APPLIED MECHANICS (II)",3,期,True,60,1,41,19,郭清德,"四5,6,7(工EC 3001)","['', '', '', '567', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限該班及重修生修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME202A&Crsname=應用力學（二）,,,False,機電系,MEME202A,1,乙班,"應用力學（二）
+APPLIED MECHANICS (II)",3,期,True,60,0,35,25,蔡尚南,"一6,7,8(工EC 3006)","['678', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限該班及重修生修習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME202B&Crsname=應用力學（二）,異動,更換教室2/25,False,機電系,MEME202B,1,全英班,"應用力學（二）
+APPLIED MECHANICS (II)",3,期,True,60,0,53,7,盧威廷,"三5,6,7(工EN 3021)","['', '', '567', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME206&Crsname=工程數學（二）,,,False,機電系,MEME206,2,甲班,"工程數學（二）
+ENGINEERING MATHEMATICS(II)",3,期,True,55,0,53,2,劉耿豪,"四5,6,7(工EN 4055-1)","['', '', '', '567', '', '', '']","《講授類》
+二甲、二乙班併班上課","['半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MEME206A&Crsname=工程數學（二）,,,False,機電系,MEME206A,2,乙班,"工程數學（二）
+ENGINEERING MATHEMATICS(II)",3,期,True,55,0,41,14,劉耿豪,"四5,6,7(工EN 4055-1)","['', '', '', '567', '', '', '']","《講授類》
+二甲、二乙班併班上課","['半導體元件學程', '半導體製程模組學程']",False
