@@ -1,0 +1,2 @@
+Value of root[867]['changeDescription'] changed from "更換教室2/17" to "更換教室2/27".
+Value of root[867]['room'] changed from "一6,7,8(工EC 2003)" to "一6,7,8(工EC 1005)".
