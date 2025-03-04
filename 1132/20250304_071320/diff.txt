@@ -1,0 +1,26 @@
+Type of root[1242]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1242]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/27".
+Value of root[516]['teacher'] changed from "陳以軒" to "陳以軒,李思嫺".
+Value of root[730]['selected'] changed from 81 to 82.
+Value of root[730]['remaining'] changed from -11 to -12.
+Value of root[804]['select'] changed from 1 to 0.
+Value of root[804]['selected'] changed from 50 to 51.
+Value of root[804]['remaining'] changed from 0 to -1.
+Value of root[821]['selected'] changed from 61 to 62.
+Value of root[821]['remaining'] changed from -1 to -2.
+Value of root[911]['select'] changed from 4 to 3.
+Value of root[911]['selected'] changed from 50 to 51.
+Value of root[911]['remaining'] changed from 0 to -1.
+Value of root[956]['selected'] changed from 55 to 57.
+Value of root[956]['remaining'] changed from 0 to -2.
+Value of root[1082]['select'] changed from 3 to 2.
+Value of root[1082]['selected'] changed from 57 to 58.
+Value of root[1082]['remaining'] changed from -2 to -3.
+Value of root[1232]['change'] changed from "新增" to "異動".
+Value of root[1232]['changeDescription'] changed from "2/7" to "更換教室2/27".
+Value of root[1232]['room'] changed from "二7(文FA 4030)" to "二7(文FA 6011)".
+Value of root[1242]['room'] changed from "二5,6(文FA 4030)" to "二5,6(文FA 6011)".
+Value of root[1694]['selected'] changed from 49 to 48.
+Value of root[1694]['remaining'] changed from 1 to 2.
+Value of root[1757]['selected'] changed from 14 to 15.
+Value of root[1757]['remaining'] changed from 16 to 15.
