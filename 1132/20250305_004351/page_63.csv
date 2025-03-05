@@ -1,0 +1,58 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BMST107&Crsname=微積分（二）,,,False,生醫科技系,BMST107,1,全英班,"微積分（二）
+CALCULUS（Ⅱ）",3,期,True,50,0,16,34,陳美如,"五2,3,4(理SC 1005)","['', '', '', '', '234', '', '']","《講授類》
+醫工組
+※英語授課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BMST107A&Crsname=微積分（二）,,,False,生醫科技系,BMST107A,1,全英班,"微積分（二）
+CALCULUS（Ⅱ）",3,期,True,50,0,12,38,余冠儒,"五2,3,4(工EC 2011)","['', '', '', '', '234', '', '']","《講授類》
+生醫組
+※英語授課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BMST108&Crsname=程式語言,,,False,生醫科技系,BMST108,1,全英班,"程式語言
+PROGRAMMING LANGUAGE",3,期,True,50,0,30,20,巫建興,"一5,6,7(工EN 4055-2)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BMST109&Crsname=生物醫學科技導論（二）,,,False,生醫科技系,BMST109,1,全英班,"生物醫學科技導論（二）
+INTRODUCTION TO BIOMEDICAL SCIENCE AND TECHNOLOGY（II）",2,期,True,50,0,27,23,"范秀芳,余靈珊,張玉泉,陳志杰","四5,6(醫IL 3002)","['', '', '', '56', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BMST211&Crsname=神經科學探索,新增,2/6,False,生醫科技系,BMST211,1,全英班,"神經科學探索
+INTRODUCTION TO NEUROSCIENCE",3,期,False,50,0,16,34,林萱文,"二2,3,4(圖IL 3015)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BMST212&Crsname=材料力學導論,新增,2/6,False,生醫科技系,BMST212,1,全英班,"材料力學導論
+INTRODUCTION TO MECHANICS OF MATERIALS",3,期,False,50,0,10,40,楊易軒,"二5,6,7(圖IL 3016)","['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BMST231&Crsname=計算機概論,新增,2/6,False,生醫科技系,BMST231,1,全英班,"計算機概論
+INTRODUCTION TO COMPUTER SCIENCE",3,期,False,50,0,9,41,巫建興,"二2,3,4(圖IL 3016)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED101&Crsname=基礎生物學,,,False,醫學院,MED101,0,不分班,"基礎生物學
+BASIC CONCEPTS OF BIOLOGY",2,期,False,5,3,5,0,"張玉泉,薛佑玲,鄭光宏","四8,9(通GE 1010)","['', '', '', '89', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED103&Crsname=智慧長照服務創新開發模式,異動,更換時間及教室2/5,False,醫學院,MED103,0,不分班,"智慧長照服務創新開發模式
+DEVELOPMENT MODEL OF SERVICE INNOVATION FOR SMART LONG-TERM CARE",3,期,False,10,1,3,7,莊承鑫,"三5,6,7(圖IL 3002)","['', '', '567', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED104&Crsname=基礎奈米生醫材料與顯微影像技術,,,False,醫學院,MED104,0,不分班,"基礎奈米生醫材料與顯微影像技術
+NANO-BIOMATERIALS AND MICROSCOPIC IMAGING TECHNOLOGY",2,期,False,10,0,0,10,"廖子嫻,范秀芳","二5,6(醫IL 3017)","['', '56', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED105&Crsname=醫學史（二）-台灣醫學史,,,False,醫學院,MED105,0,不分班,"醫學史（二）-台灣醫學史
+MEDICAL HISTORY (II) – HISTORY OF MEDICINE IN TAIWAN",2,期,False,10,1,2,8,劉景寬,"四7,8(國IR 4002)","['', '', '', '78', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED106&Crsname=人體結構探索–初階人體解剖學,異動,調整名額2/5,False,醫學院,MED106,0,不分班,"人體結構探索–初階人體解剖學
+HUMAN STRUCTURE EXPLORATION-BASIC HUMAN ANATOMY",3,期,False,15,2,3,12,柯翠玲,"一6,7,8(醫IL 9012)","['678', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",['基礎醫學數位微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED109&Crsname=毒理學概論,異動,調整名額2/5,False,醫學院,MED109,0,不分班,"毒理學概論
+THE BASIC PRINCIPLE OF TOXICOLOGY",3,期,False,15,62,15,0,趙敏吾,"二2,3,4(醫IL 3013)","['', '234', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",['基礎醫學數位微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED110&Crsname=美容醫學,異動,調整名額2/5,False,醫學院,MED110,0,不分班,"美容醫學
+AESTHETIC MEDICINE",2,期,False,15,25,15,0,趙敏吾,"三6,7(醫IL 9012)","['', '', '67', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED111&Crsname=藥物商品化,異動,調整名額2/5,False,醫學院,MED111,0,不分班,"藥物商品化
+DRUG COMMERCIALIZATION",2,期,False,15,34,15,0,趙敏吾,"一5,6(醫IL 9010)","['56', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED112&Crsname=環境與職業衛生：飲食生活工作對健康的影響,異動,調整名額2/5,False,醫學院,MED112,0,不分班,"環境與職業衛生：飲食生活工作對健康的影響
+ENVIRONMENTAL AND OCCUPATIONAL HEALTH: HEALTH EFFECTS FROM DIET, LIFE AND WORK",3,期,False,15,3,15,0,鄭雅勻,"二5,6,7(醫IL 3013)","['', '567', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED116&Crsname=塑膠星球,異動,調整名額2/5,False,醫學院,MED116,0,不分班,"塑膠星球
+PLASTIC PLANET",3,期,False,15,18,15,0,李昇翰,"一7,8,9(醫IL 9010)","['789', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED117&Crsname=環境毒理學,異動,調整名額2/5,False,醫學院,MED117,0,不分班,"環境毒理學
+ENVIRONMENTAL TOXICOLOGY",2,期,False,15,7,15,0,李昇翰,"四3,4(醫IL 9010)","['', '', '', '34', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED120&Crsname=認識病毒,異動,調整名額2/5,False,醫學院,MED120,0,不分班,"認識病毒
+UNDERSTANDING : VIRUSES",3,期,False,15,43,15,0,王文宏,"一2,3,4(醫IL 3013)","['234', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",['基礎醫學數位微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MED121&Crsname=瘟疫與人類歷史,異動,調整名額2/5,False,醫學院,MED121,0,不分班,"瘟疫與人類歷史
+PANDEMICS AND HUMAN HISTORY",2,期,False,15,49,15,0,王文宏,"二2,3(醫IL 9012)","['', '23', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",['基礎醫學數位微學程'],False
