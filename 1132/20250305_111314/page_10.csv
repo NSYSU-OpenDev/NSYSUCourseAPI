@@ -1,0 +1,58 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2514&Crsname=生命科學,,,False,博雅向度五,GEAE2514,0,不分班,"生命科學
+LIFE SCIENCES",2,期,True,95,13,96,-1,"王志騰,王亮鈞,陳孟仙","一8,9(通GE 1010)","['89', '', '', '', '', '', '']","《講授類》
+限非生科、海資系學生修習。",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2514A&Crsname=生命科學,,,False,博雅向度五,GEAE2514A,0,不分班,"生命科學
+LIFE SCIENCES",2,期,True,95,13,97,-2,"王敬湧,劉勃佑","二8,9(通GE 1010)","['', '89', '', '', '', '', '']","《講授類》
+限非生科、海資系學生修習。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2519&Crsname=烹飪與科學,,,False,博雅向度五,GEAE2519,0,不分班,"烹飪與科學
+COOKING AND SCIENCE",2,期,True,50,31,50,0,李容婷,"五3,4(西SW 1005)","['', '', '', '', '34', '', '']",《講授類》,"['地方發展與永續農業微學程', '飲食文化微學程', '生成式AI素養微學程', '食品安全學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2520&Crsname=科學的本質,,,False,博雅向度五,GEAE2520,0,不分班,"科學的本質
+NATURE OF SCIENCE",2,期,True,80,3,81,-1,劉叔秋,"四8,9(通GE 4016)","['', '', '', '89', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['台灣文化英語微學程', '全英語通識教育菁英學程', '科技與環境英語微學程', '生成式AI素養微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2526&Crsname=地球生命概論,,,False,博雅向度五,GEAE2526,0,不分班,"地球生命概論
+AN INTRODUCTION TO LIFE ON EARTH",3,期,True,70,2,27,43,邊安台,"三2,3,4(通GE 1010)","['', '', '234', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。 
+※英語授課",['國際素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2527&Crsname=機率與統計,新增,1/24,False,博雅向度五,GEAE2527,0,不分班,"機率與統計
+PROBABILITY AND STATISTICS",3,期,True,40,2,41,-1,AI聯盟教師,,"['', '', '', '678EF', '', '', '']","《講授類》
+1.臺灣大學葉丙成老師。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。 3.週四14:30-17:30同步上課2/20 20:00-22:00、3/6 20:00-21:00、3/20 20:00-21:00、4/10 20:00-21:00、5/1 20:00-21:00、5/15 20:00-21:00、6/5 20:00-21:00 4.實體期中期末考時間：4/17及6/12 14:30-17:30",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2601&Crsname=地球科學,,,False,博雅向度六,GEAE2601,0,不分班,"地球科學
+FUNDAMENTALS OF EARTH SCIENCE",2,期,True,90,5,90,0,"方盈智,托星豪,林玉詩,楊仁凱","四5,6(海MA 3021)","['', '', '', '56', '', '', '']",《講授類》,"['熱帶海洋微學程', '看見臺灣海岸微學程', '環境教育學程', '氣候變遷與調適學分學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2604&Crsname=環境變遷與生態保育,,,False,博雅向度六,GEAE2604,0,不分班,"環境變遷與生態保育
+ENVIRONMENTAL CHANGE AND ECOLOGICAL CONSERVATION",2,期,True,100,2,99,1,"陳孟仙,劉莉蓮,林梅芳,林裕䕒","四8,9(海MA 3021)","['', '', '', '89', '', '', '']",《講授類》,"['環境教育學程', '永續管理微學程', '實踐環境教育微學程', '熱帶海洋微學程', '氣候變遷與調適學分學程', '地方創生與永續發展整合學程', '印象海味微學程', '臺灣研究學程', '企業社會責任學程', '生物多樣性學程', '淨零轉型與永續發展整合學程', '生物資訊與演化生態微學程', '探索海洋國家公園微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2607&Crsname=台灣海岸環境,,,False,博雅向度六,GEAE2607,0,不分班,"台灣海岸環境
+INTRODUCTION TO THE COASTAL ENVIRONMENT OF TAIWAN",2,期,True,80,6,80,0,曾以帆,"二6,7(通GE 4016)","['', '67', '', '', '', '', '']",《講授類》,"['看見臺灣海岸微學程', '環境教育學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2608&Crsname=環境科學,,,False,博雅向度六,GEAE2608,0,不分班,"環境科學
+ENVIRONMENTAL SCIENCE",2,期,True,95,9,101,-6,袁中新,"四C,D(工EC 1001)","['', '', '', 'CD', '', '', '']",《講授類》,"['環境科技與管理學程', '環境教育學程', '永續管理微學程', '看見臺灣海岸微學程', '氣候變遷與調適學分學程', '地方創生與永續發展整合學程', '臺灣研究學程', '企業社會責任學程', '淨零轉型與永續發展整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2613&Crsname=氣候變遷與調適,,,False,博雅向度六,GEAE2613,0,不分班,"氣候變遷與調適
+CLIMATE CHANGE ADAPTATION",3,期,True,80,13,82,-2,"劉叔秋,張水鍇,張詠斌,李育諭","一5,6,7(通GE 4016)","['567', '', '', '', '', '', '']",《講授類》,"['環境教育學程', '實踐環境教育微學程', '熱帶海洋微學程', '公共事務與企業社會責任微學程', '氣候變遷與調適學分學程', '臺灣研究學程', '企業社會責任學程', '地方發展與永續農業微學程', '國際素養微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2616&Crsname=光電生活與能源永續,異動,修正備註內容1/3,False,博雅向度六,GEAE2616,0,不分班,"光電生活與能源永續
+OPTOELECTRONIC DAILY LIFE AND ENERGY SUSTAINABILITY",2,期,True,50,1,51,-1,于欽平,"一6,7(西SW 1005)","['67', '', '', '', '', '', '']","《講授類》
+限文、管、社學院學學生修習。","['智慧港埠微學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2627&Crsname=永續生活理念UX/UI設計實務,,,False,博雅向度六,GEAE2627,0,不分班,"永續生活理念UX/UI設計實務
+SUSTAINABLE LIFE CONCEPT UX/UI DESIGN PRACTICES",3,期,True,50,3,51,-1,廖奕雯,"一6,7,8(圖IL PC02)","['678', '', '', '', '', '', '']","《講授類》
+限非資工、資管系修習。",['生成式AI素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2629&Crsname=淨零碳規劃管理專題講座,,,False,博雅向度六,GEAE2629,0,不分班,"淨零碳規劃管理專題講座
+SPECIAL LECTURES ON NET-ZERO TRANSFORMATION",2,期,True,100,23,110,-10,蔡宏政,"二6,7(通GE 1010)","['', '67', '', '', '', '', '']",《講授類》,['國際素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2630&Crsname=另類永續思考與實踐,,,False,博雅向度六,GEAE2630,0,不分班,"另類永續思考與實踐
+RETHINKING AND PERFORMING SUSTAINABILITY: A CRITICAL PERSPECTIVE",3,期,True,60,18,60,0,賴慧玲,"五2,3,4(通GE 4016)","['', '', '', '', '234', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課",['國際素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AF010001&Crsname=Linux核心設計,,,False,校際(學士班),AF010001,0,不分班,"Linux核心設計
+LINUX KERNEL INTERNALS",3,期,False,50,0,1,49,校際選課,"二7,8,9()","['', '789', '', '', '', '', '']","《講授類》
+國立成功大學資訊系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AF010002&Crsname=Python程式設計(I),,,False,校際(學士班),AF010002,0,不分班,"Python程式設計(I)
+PYTHON(I)",2,期,False,50,0,1,49,校際選課,"五5,6()","['', '', '', '', '56', '', '']","《講授類》
+高雄醫學大學通識教育中心",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AF010003&Crsname=人文地理調查法,,,False,校際(學士班),AF010003,0,不分班,"人文地理調查法
+SURVEY METHODS OF HUMAN GEOGRAPHY",3,期,False,50,0,1,49,校際選課,"四2,3,4()","['', '', '', '234', '', '', '']","《講授類》
+國立高雄師範大學	地理學系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AF010004&Crsname=人文科技與職涯規劃(歷史與文明),,,False,校際(學士班),AF010004,0,不分班,"人文科技與職涯規劃(歷史與文明)
+HUMANITY TECHNOLOGY AND CAREER PLANNING (HISTORY AND CIVILIZATION)",2,期,False,50,0,1,49,校際選課,"一5,6()","['56', '', '', '', '', '', '']","《講授類》
+國立高雄師範大學	體育系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AF010005&Crsname=中國地理,,,False,校際(學士班),AF010005,0,不分班,"中國地理
+GEOGRAPHY OF CHINA",3,期,False,50,0,1,49,校際選課,"四5,6,7()","['', '', '', '567', '', '', '']","《講授類》
+國立高雄師範大學	地理學系",[],False
