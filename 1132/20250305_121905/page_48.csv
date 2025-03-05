@@ -1,0 +1,57 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES203&Crsname=工程數學（二）,異動,更換教室2/17,False,材光系,MOES203,2,不分班,"工程數學（二）
+ENGINEERING MATHEMATICS(II)",3,期,False,50,0,33,17,蔣酉旺,"一6,7,8(工MS 4023)","['678', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES205&Crsname=量子物理,,,False,材光系,MOES205,2,不分班,"量子物理
+QUANTUM PHYSICS",3,期,True,50,0,50,0,呂德,"四2,3,4(工EC 2011)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES205A&Crsname=量子物理,,,False,材光系,MOES205A,2,全英班,"量子物理
+QUANTUM PHYSICS",3,期,True,50,0,35,15,呂德,"四2,3,4(工EC 2011)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES211&Crsname=光學（一）,異動,更換教室2/21,False,材光系,MOES211,2,不分班,"光學（一）
+OPTICS(I)",3,期,False,70,0,69,1,徐瑞鴻,"五2,3,4(工EC 1009)","['', '', '', '', '234', '', '']",《講授類》,['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES217&Crsname=電磁學（二）,異動,更換授課方式2/24,False,材光系,MOES217,2,不分班,"電磁學（二）
+ELECTROMAGNETISM (II)",3,期,False,50,0,5,45,杭大任,"三6,7(工MS 2001) 五6(工MS 2001)","['', '', '67', '', '6', '', '']","《講授類》
+ 
+※英語授課",['類比射頻IC設計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES219&Crsname=X光與電子繞射,異動,更換教室2/17,False,材光系,MOES219,2,不分班,"X光與電子繞射
+X-RAY AND ELECTRON DIFFRACTION",3,期,True,50,0,50,0,王映樵,"二2,3,4(工MS 4022)","['', '234', '', '', '', '', '']",《講授類》,"['有機和材料合成學程', '材料結構性質微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES219A&Crsname=X光與電子繞射,異動,1/2,False,材光系,MOES219A,2,全英班,"X光與電子繞射
+X-RAY AND ELECTRON DIFFRACTION",3,期,True,50,0,24,26,蔣酉旺,"二2,3,4(工MS 4023)","['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['有機和材料合成學程', '材料結構性質微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES233&Crsname=有機化學（二）,異動,更換教室1/22,False,材光系,MOES233,2,不分班,"有機化學（二）
+ORGANIC CHEMISTRY (II）",3,期,False,50,0,17,33,曼哈迪,"四6,7,8(工MS 4023)","['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES304&Crsname=材料與光電實驗（二）,,,True,材光系,MOES304,3,不分班,"材料與光電實驗（二）
+EXPERIMENTS ON MATERIALS CHARACTERIZATION AND OPTOELECTRONICS（II）",2,期,True,30,0,26,4,"蘇威宏,蔡宗鳴,蔣酉旺,郭哲男","四6,7,8,9(工MS 4025)(實驗)","['', '', '', '6789', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號B112025001、B113100001~B113100002、B113100004~B113100006、B113100008~B113100023、B113100025~B113100027學生選課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES304A&Crsname=材料與光電實驗（二）,,,True,材光系,MOES304A,3,不分班,"材料與光電實驗（二）
+EXPERIMENTS ON MATERIALS CHARACTERIZATION AND OPTOELECTRONICS（II）",2,期,True,30,0,27,3,"蘇威宏,葉昀昇,蔡宗鳴,郭哲男","五6,7,8,9(工MS 4025)(實驗)","['', '', '', '', '6789', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號B113100028、B113100030~B113100044、B113100046~ B113100053、B113100056、B115025003、B115040042、B117610007學生選課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES311&Crsname=光電工程（一）,,,True,材光系,MOES311,3,不分班,"光電工程（一）
+OPTOELECTRONIC ENGINEERING(I)",3,期,True,50,0,43,7,蘇威宏,"一5,6,7(工MS 4022)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES312&Crsname=相變化,,,True,材光系,MOES312,3,不分班,"相變化
+PHASE TRANSFORMATION",3,期,True,50,0,6,44,邱政維,"一2,3,4(工MS 4023)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES318&Crsname=電子學（二）,,,True,材光系,MOES318,3,不分班,"電子學（二）
+ELECTRONICS(II)",3,期,True,50,0,16,34,蔡宗鳴,"四2,3,4(工MS 4022)","['', '', '', '234', '', '', '']",《講授類》,"['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程', '類比射頻IC設計學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES319&Crsname=高分子物理,,,True,材光系,MOES319,3,不分班,"高分子物理
+POLYMER PHYSICS",3,期,True,50,3,52,-2,葉昀昇,"三5,6,7(工MS 4022)","['', '', '567', '', '', '', '']",《講授類》,"['半導體製程模組學程', '有機和材料合成學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES333&Crsname=材料機械性質,,,False,材光系,MOES333,3,不分班,"材料機械性質
+MECHANICAL BEHAVIOR OF MATERIALS",3,期,False,50,0,23,27,郭哲男,"二7,8,9(工MS 4022)","['', '789', '', '', '', '', '']",《講授類》,['有機和材料合成學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES334&Crsname=材料與光電專題研究（二）,,,False,材光系,MOES334,3,不分班,"材料與光電專題研究（二）
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(II)",1,期,False,50,0,25,25,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES440&Crsname=材料與光電專題研究（四）,,,False,材光系,MOES440,4,不分班,"材料與光電專題研究（四）
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(VI)",1,期,False,50,0,11,39,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES446&Crsname=半導體物理與材料,異動,更換教室2/17,False,材光系,MOES446,4,不分班,"半導體物理與材料
+SEMICONDUCTOR PHYSICS AND MATERIALS",3,期,False,50,0,33,17,徐瑞鴻,"三2,3,4(工MS 4019)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES452&Crsname=專題討論,,,False,材光系,MOES452,3,不分班,"專題討論
+SEMINAR",1,期,True,50,0,43,7,陳致光,二3(工MS 4019),"['', '3', '', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MOES453&Crsname=科學模擬計算導論,,,False,材光系,MOES453,2,不分班,"科學模擬計算導論
+INTRODUCTION TO SCIENTIFIC COMPUTING WITH PYTHON",3,期,False,50,0,36,14,呂德,"一2,3,4(圖IL PC 02)","['234', '', '', '', '', '', '']",《講授類》,[],True
