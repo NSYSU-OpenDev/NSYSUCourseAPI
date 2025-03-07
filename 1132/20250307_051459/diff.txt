@@ -1,0 +1,43 @@
+Type of root[953]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[953]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/27".
+Value of root[1]['selected'] changed from 40 to 39.
+Value of root[1]['remaining'] changed from 10 to 11.
+Value of root[150]['selected'] changed from 90 to 91.
+Value of root[150]['remaining'] changed from 0 to -1.
+Value of root[176]['selected'] changed from 107 to 108.
+Value of root[176]['remaining'] changed from -12 to -13.
+Value of root[267]['select'] changed from 1 to 2.
+Value of root[267]['selected'] changed from 9 to 8.
+Value of root[267]['remaining'] changed from 1 to 2.
+Value of root[694]['selected'] changed from 145 to 144.
+Value of root[694]['remaining'] changed from -5 to -4.
+Value of root[810]['selected'] changed from 42 to 41.
+Value of root[810]['remaining'] changed from 8 to 9.
+Value of root[811]['selected'] changed from 33 to 32.
+Value of root[811]['remaining'] changed from 17 to 18.
+Value of root[895]['select'] changed from 2 to 1.
+Value of root[895]['selected'] changed from 63 to 64.
+Value of root[895]['remaining'] changed from -3 to -4.
+Value of root[953]['room'] changed from "三5,6,7(工MS 4022)" to "三5,6,7(工MS 3014)".
+Value of root[964]['select'] changed from 0 to 1.
+Value of root[964]['selected'] changed from 32 to 31.
+Value of root[964]['remaining'] changed from 18 to 19.
+Value of root[979]['selected'] changed from 58 to 59.
+Value of root[979]['remaining'] changed from -1 to -2.
+Value of root[1172]['select'] changed from 1 to 2.
+Value of root[1172]['selected'] changed from 32 to 31.
+Value of root[1172]['remaining'] changed from 18 to 19.
+Value of root[1185]['selected'] changed from 3 to 2.
+Value of root[1185]['remaining'] changed from 12 to 13.
+Value of root[1196]['selected'] changed from 12 to 11.
+Value of root[1196]['remaining'] changed from 38 to 39.
+Value of root[1260]['select'] changed from 15 to 16.
+Value of root[1260]['selected'] changed from 15 to 14.
+Value of root[1260]['remaining'] changed from 0 to 1.
+Value of root[1262]['select'] changed from 1 to 2.
+Value of root[1262]['selected'] changed from 15 to 14.
+Value of root[1262]['remaining'] changed from 0 to 1.
+Value of root[1658]['selected'] changed from 38 to 37.
+Value of root[1658]['remaining'] changed from 12 to 13.
+Value of root[1845]['selected'] changed from 11 to 10.
+Value of root[1845]['remaining'] changed from 39 to 40.
