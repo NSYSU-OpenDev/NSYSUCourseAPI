@@ -1,5 +1,9 @@
 # NSYSUCourseAPI
 
+## API Document
+
+[API Document Website](https://whats2000.github.io/NSYSUCourseAPI/index.html)
+
 ## Run
 
 ### 開始
