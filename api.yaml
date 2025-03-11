@@ -1,0 +1,290 @@
+openapi: 3.0.0
+info:
+  title: NSYSU Course API
+  description: API for accessing National Sun Yat-sen University course information
+  version: 1.0.0
+  contact:
+    name: API Support
+    url: https://github.com/whats2000/NSYSUCourseAPI/issues
+  license:
+    name: MIT
+    url: https://opensource.org/licenses/MIT
+
+servers:
+  - url: https://whats2000.github.io/NSYSUCourseAPI
+    description: Production API endpoint
+
+paths:
+  /version.json:
+    get:
+      summary: Get available academic years
+      description: Returns a list of available academic years and the latest one
+      operationId: getAvailableSemesters
+      tags:
+        - versions
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/AcademicYear'
+        '404':
+          description: Not found
+
+  /{academicYear}/version.json:
+    get:
+      summary: Get semester updates for a specific academic year
+      description: Returns update information for the specified academic year
+      operationId: getSemesterUpdates
+      tags:
+        - versions
+      parameters:
+        - name: academicYear
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Academic year identifier
+          example: '1132'
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/SemesterUpdate'
+        '404':
+          description: Academic year not found
+
+  /{academicYear}/{updateTime}/all.json:
+    get:
+      summary: Get all courses for a specific academic year and update time
+      description: Returns complete course data for the specified parameters
+      operationId: getCourses
+      tags:
+        - courses
+      parameters:
+        - name: academicYear
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Academic year identifier
+          example: '1132'
+        - name: updateTime
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Update timestamp
+          example: '20250310_101301'
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/NSYSUCourse'
+        '404':
+          description: Not found
+
+  /{academicYear}/{updateTime}/page_{index}.json:
+    get:
+      summary: Get paginated course data
+      description: Returns a chunk of course data for the specified page index
+      operationId: getCoursePage
+      tags:
+        - courses
+      parameters:
+        - name: academicYear
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Academic year identifier
+          example: '1132'
+        - name: updateTime
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Update timestamp
+          example: '20250310_101301'
+        - name: index
+          in: path
+          required: true
+          schema:
+            type: integer
+            minimum: 1
+          description: One-based page index
+          example: 1
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                type: array
+                items:
+                  $ref: '#/components/schemas/NSYSUCourse'
+        '404':
+          description: Page not found or out of range
+        '400':
+          description: Invalid page index
+
+components:
+  schemas:
+    NSYSUCourse:
+      type: object
+      required:
+        - id
+        - url
+        - department
+        - grade
+        - name
+        - credit
+        - yearSemester
+        - compulsory
+        - restrict
+        - select
+        - selected
+        - remaining
+        - teacher
+        - room
+        - classTime
+        - description
+        - tags
+        - english
+        - multipleCompulsory
+      properties:
+        id:
+          type: string
+          description: Unique identifier for the course
+          example: "1122CSE220"
+        url:
+          type: string
+          description: URL to the course information
+          example: "https://selcrs.nsysu.edu.tw/menu1/qrycourse.asp?..."
+        change:
+          type: string
+          description: Change status of the course
+          example: "新增"
+        changeDescription:
+          type: string
+          description: Detailed description of the change
+        multipleCompulsory:
+          type: boolean
+          description: Whether the course is compulsory for multiple departments
+        department:
+          type: string
+          description: Department offering the course
+          example: "資訊工程學系"
+        grade:
+          type: string
+          description: Target grade for the course
+          example: "1"
+        class:
+          type: string
+          description: Class section identifier
+        name:
+          type: string
+          description: Course name
+          example: "程式設計（二）"
+        credit:
+          type: string
+          description: Course credit value
+          example: "3.0"
+        yearSemester:
+          type: string
+          description: Academic year and semester
+          example: "112/2"
+        compulsory:
+          type: boolean
+          description: Whether the course is compulsory
+        restrict:
+          type: number
+          description: Enrollment restriction number
+        select:
+          type: number
+          description: Number of students able to select the course
+        selected:
+          type: number
+          description: Number of students who have selected the course
+        remaining:
+          type: number
+          description: Remaining available slots
+        teacher:
+          type: string
+          description: Course instructor
+        room:
+          type: string
+          description: Classroom location
+        classTime:
+          type: array
+          items:
+            type: string
+          description: Class meeting times
+        description:
+          type: string
+          description: Course description
+        tags:
+          type: array
+          items:
+            type: string
+          description: Course tags for categorization
+        english:
+          type: boolean
+          description: Whether the course is taught in English
+
+    AcademicYear:
+      type: object
+      required:
+        - latest
+        - history
+      properties:
+        latest:
+          type: string
+          description: Most recent academic year
+          example: "112"
+        history:
+          type: object
+          additionalProperties:
+            type: string
+          description: Historical academic years mapping
+          example: {"112": "112", "111": "111"}
+
+    SemesterUpdate:
+      type: object
+      required:
+        - latest
+        - history
+      properties:
+        latest:
+          type: string
+          description: Most recent update time
+          example: "20240305"
+        history:
+          type: object
+          additionalProperties:
+            type: string
+          description: Historical update times mapping
+          example: {"20240305": "2024-03-05", "20240201": "2024-02-01"}
+
+    Info:
+      type: object
+      required:
+        - page_size
+        - updated
+      properties:
+        page_size:
+          type: number
+          description: Number of courses per page
+          example: 100
+        updated:
+          type: string
+          format: date-time
+          description: Last updated timestamp
+          example: "2024-03-05T14:30:00Z"
