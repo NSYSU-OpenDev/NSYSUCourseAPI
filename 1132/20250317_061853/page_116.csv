@@ -2,9 +2,9 @@ url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,c
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EMPP932&Crsname=國家人力資源政策,異動,增加合授教師1/10,False,EMPP碩專,EMPP932,1,不分班,"國家人力資源政策
 NATIONAL HUMAN RESOURCE POLICY",3,期,True,50,0,5,45,"李予綱,劉孟奇,吳偉寧",,"['', '', '', '', '', '', '234567']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EMPP932A&Crsname=國家人力資源政策,異動,增加合授教師1/10,False,EMPP碩專,EMPP932A,2,不分班,"國家人力資源政策
-NATIONAL HUMAN RESOURCE POLICY",3,期,True,50,0,13,37,"李予綱,劉孟奇,吳偉寧",,"['', '', '', '', '', '', '234567']",《講授類》,[],False
+NATIONAL HUMAN RESOURCE POLICY",3,期,True,50,0,12,38,"李予綱,劉孟奇,吳偉寧",,"['', '', '', '', '', '', '234567']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EMPP999&Crsname=碩士論文,,,False,EMPP碩專,EMPP999,2,不分班,"碩士論文
-MASTER THESIS",3,期,True,50,0,13,37,指導教授,,"['', '', '', '', '', '89C', '89C']",《研討類》,[],False
+MASTER THESIS",3,期,True,50,0,12,38,指導教授,,"['', '', '', '', '', '89C', '89C']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CL718&Crsname=文體與修辭,,,False,中文博,CL718,0,不分班,"文體與修辭
 LITERARY STYLE AND RHETORIC",3,期,False,50,0,6,44,楊雅惠,"二2,3,4(文LA 5004)","['', '234', '', '', '', '', '']","《講授類》
 碩博合開",[],False
