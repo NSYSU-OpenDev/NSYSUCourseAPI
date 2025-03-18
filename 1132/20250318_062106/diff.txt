@@ -1,0 +1,468 @@
+Value of root[4]['room'] changed from "三5,B(社SS 2002-2)" to "三B,5(社SS 2002-2)".
+Value of root[10]['room'] changed from "五5,B(社SS 2002-1)" to "五B,5(社SS 2002-1)".
+Value of root[12]['room'] changed from "三1,A(社SS 2006)" to "三A,1(社SS 2006)".
+Value of root[16]['room'] changed from "三1,A(社SS 2002-2)" to "三A,1(社SS 2002-2)".
+Value of root[17]['room'] changed from "五5,B(社SS 2002-2)" to "五B,5(社SS 2002-2)".
+Value of root[19]['room'] changed from "三1,A(社SS 2004-3)" to "三A,1(社SS 2004-3)".
+Value of root[20]['room'] changed from "三1,A(社SS 2004-3)" to "三A,1(社SS 2004-3)".
+Value of root[27]['room'] changed from "一5,B(國IR 5019) 四5,B(國IR 5019)" to "一B,5(國IR 5019) 四B,5(國IR 5019)".
+Value of root[28]['room'] changed from "二7,8(國IR 5023) 四7,8(國IR 5023)" to "二8,7(國IR 5023) 四8,7(國IR 5023)".
+Value of root[29]['room'] changed from "二5,B(國IR 5014) 五5,B(國IR 5014)" to "二B,5(國IR 5014) 五B,5(國IR 5014)".
+Value of root[30]['room'] changed from "二7,8(國IR 5022) 四7,8(國IR 5022)" to "二8,7(國IR 5022) 四8,7(國IR 5022)".
+Value of root[31]['room'] changed from "二5,B(國IR 5020) 五5,B(國IR 5020)" to "二B,5(國IR 5020) 五B,5(國IR 5020)".
+Value of root[32]['room'] changed from "二5,B(國IR 5017-1) 五5,B(國IR 5017-1)" to "二B,5(國IR 5017-1) 五B,5(國IR 5017-1)".
+Value of root[33]['room'] changed from "二7,8(國IR 5014) 四7,8(國IR 5014)" to "二8,7(國IR 5014) 四8,7(國IR 5014)".
+Value of root[34]['room'] changed from "一5,B(國IR 5013) 四5,B(國IR 5013)" to "一B,5(國IR 5013) 四B,5(國IR 5013)".
+Value of root[35]['room'] changed from "二5,B(國IR 5016) 五5,B(國IR 5016)" to "二B,5(國IR 5016) 五B,5(國IR 5016)".
+Value of root[36]['room'] changed from "二7,8(國IR 5021) 四7,8(國IR 5021)" to "二8,7(國IR 5021) 四8,7(國IR 5021)".
+Value of root[37]['room'] changed from "二5,B(國IR 5013) 五5,B(國IR 5013)" to "二B,5(國IR 5013) 五B,5(國IR 5013)".
+Value of root[67]['room'] changed from "五5,B(體適能中心)" to "五B,5(體適能中心)".
+Value of root[104]['room'] changed from "三5,B(韻律教室/Aerobics classroom)" to "三B,5(韻律教室/Aerobics classroom)".
+Value of root[131]['room'] changed from "四6,7,8(通GE 2006)" to "四8,6,7(通GE 2006)".
+Value of root[148]['room'] changed from "三7,8,9(管CM 0052)" to "三8,9,7(管CM 0052)".
+Value of root[156]['room'] changed from "二6,7,8(海ME 3006)" to "二8,6,7(海ME 3006)".
+Value of root[164]['room'] changed from "二5,B(海MA 3021)" to "二B,5(海MA 3021)".
+Value of root[173]['room'] changed from "四6,7,8(同步遠距)" to "四8,6,7(同步遠距)".
+Value of root[177]['room'] changed from "三5,B(通GE 4016)" to "三B,5(通GE 4016)".
+Value of root[191]['room'] changed from "一6,7,8(圖IL PC02)" to "一8,6,7(圖IL PC02)".
+Value of root[194]['room'] changed from "二7,8,9()" to "二8,9,7()".
+Value of root[214]['room'] changed from "二7,8()" to "二8,7()".
+Value of root[231]['room'] changed from "四7,8()" to "四8,7()".
+Value of root[232]['room'] changed from "一6,7,8()" to "一8,6,7()".
+Value of root[233]['room'] changed from "一5,6,B()" to "一B,5,6()".
+Value of root[238]['room'] changed from "二5,6,7,8() 五5,6()" to "二8,5,6,7() 五5,6()".
+Value of root[239]['room'] changed from "二7,8()" to "二8,7()".
+Value of root[244]['room'] changed from "二6,7,8()" to "二8,6,7()".
+Value of root[246]['room'] changed from "二7,8,9()" to "二8,9,7()".
+Value of root[256]['room'] changed from "二6,7,8()" to "二8,6,7()".
+Value of root[265]['room'] changed from "三7,8,9(管CM 0052)" to "三8,9,7(管CM 0052)".
+Value of root[266]['room'] changed from "四6,7,8(同步遠距)" to "四8,6,7(同步遠距)".
+Value of root[268]['room'] changed from "四5,6,B(同步遠距)" to "四B,5,6(同步遠距)".
+Value of root[293]['room'] changed from "二6,7,8(圖IL PC03)" to "二8,6,7(圖IL PC03)".
+Value of root[348]['room'] changed from "四6,7,8(工EC 2010)" to "四8,6,7(工EC 2010)".
+Value of root[349]['room'] changed from "四6,7,8(工EC 9032)" to "四8,6,7(工EC 9032)".
+Value of root[357]['room'] changed from "二6,7,8(管CM 4112)" to "二8,6,7(管CM 4112)".
+Value of root[373]['room'] changed from "四6,7,8(海ME 3006)" to "四8,6,7(海ME 3006)".
+Value of root[377]['room'] changed from "五7,8(海MB 2015)" to "五8,7(海MB 2015)".
+Value of root[385]['room'] changed from "五5,B(海MA 3020)" to "五B,5(海MA 3020)".
+Value of root[390]['room'] changed from "四6,7,8(社SS 3005)" to "四8,6,7(社SS 3005)".
+Value of root[394]['room'] changed from "四6,7,8(社SS 4005)" to "四8,6,7(社SS 4005)".
+Value of root[401]['room'] changed from "四7,8(國IR 4002)" to "四8,7(國IR 4002)".
+Value of root[403]['room'] changed from "一7,8,9(醫IL 9010)" to "一8,9,7(醫IL 9010)".
+Value of root[409]['room'] changed from "一6,7,8(醫IL 9012)" to "一8,6,7(醫IL 9012)".
+Value of root[425]['room'] changed from "四7,8(醫IL 9012)" to "四8,7(醫IL 9012)".
+Value of root[435]['room'] changed from "四7,8,9(社SS 2002-2)" to "四8,9,7(社SS 2002-2)".
+Value of root[453]['room'] changed from "一7,8(西SW 1003)" to "一8,7(西SW 1003)".
+Value of root[460]['room'] changed from "一7,8(通GE 3013)" to "一8,7(通GE 3013)".
+Value of root[465]['room'] changed from "四7,8(通GE 3011)" to "四8,7(通GE 3011)".
+Value of root[470]['room'] changed from "五6,7,8(文LA 4001)" to "五8,6,7(文LA 4001)".
+Value of root[480]['room'] changed from "二6,7,8(文LA 5004)" to "二8,6,7(文LA 5004)".
+Value of root[482]['room'] changed from "二6,7,8(文LA 2004)" to "二8,6,7(文LA 2004)".
+Value of root[558]['room'] changed from "一7,8,9(文FA 6011)" to "一8,9,7(文FA 6011)".
+Value of root[559]['room'] changed from "一5,6,B(文FA 6011)" to "一B,5,6(文FA 6011)".
+Value of root[570]['room'] changed from "五7,8(文FA 4034)" to "五8,7(文FA 4034)".
+Value of root[605]['room'] changed from "一7,8,9(文FA 3007)" to "一8,9,7(文FA 3007)".
+Value of root[621]['room'] changed from "五5,6,B(理SC 3008)(實驗)" to "五B,5,6(理SC 3008)(實驗)".
+Value of root[622]['room'] changed from "五7,8,9(理SC 3008)(實驗)" to "五8,9,7(理SC 3008)(實驗)".
+Value of root[629]['room'] changed from "一5,6,7,8,9,B(理SC 3009)(實驗)" to "一8,9,B,5,6,7(理SC 3009)(實驗)".
+Value of root[630]['room'] changed from "二5,6,7,8,9,B(理SC 3009)(實驗)" to "二8,9,B,5,6,7(理SC 3009)(實驗)".
+Value of root[635]['room'] changed from "二6,7,8(理SC 3001)" to "二8,6,7(理SC 3001)".
+Value of root[641]['room'] changed from "二6,7,8(理SC 0009)" to "二8,6,7(理SC 0009)".
+Value of root[643]['room'] changed from "四5,B(理SC 3001)" to "四B,5(理SC 3001)".
+Value of root[645]['room'] changed from "二7,8(理BI 6005)" to "二8,7(理BI 6005)".
+Value of root[652]['room'] changed from "一6(理SC 4020) 一7,8(理SC 4020)(實驗)" to "一6(理SC 4020) 一8,7(理SC 4020)(實驗)".
+Value of root[653]['room'] changed from "五6(理SC 4020) 五7,8(理SC 4020)(實驗)" to "五6(理SC 4020) 五8,7(理SC 4020)(實驗)".
+Value of root[654]['room'] changed from "一6(理SC 4032) 一7,8(理SC 4032)(實驗)" to "一6(理SC 4032) 一8,7(理SC 4032)(實驗)".
+Value of root[655]['room'] changed from "五6(理SC 4032) 五7,8(理SC 4032)(實驗)" to "五6(理SC 4032) 五8,7(理SC 4032)(實驗)".
+Value of root[663]['room'] changed from "四6(理SC 4031) 四7,8(理SC 4031)(實驗)" to "四6(理SC 4031) 四8,7(理SC 4031)(實驗)".
+Value of root[664]['room'] changed from "二6(理SC 4031) 二7,8(理SC 4031)(實驗)" to "二6(理SC 4031) 二8,7(理SC 4031)(實驗)".
+Value of root[678]['room'] changed from "一6,7,8(理SC 0008)" to "一8,6,7(理SC 0008)".
+Value of root[680]['room'] changed from "二6,7,8(理SC 1005)" to "二8,6,7(理SC 1005)".
+Value of root[682]['room'] changed from "一6,7,8(理SC 0017)" to "一8,6,7(理SC 0017)".
+Value of root[695]['room'] changed from "二6,7,8(理SC 2011)" to "二8,6,7(理SC 2011)".
+Value of root[700]['room'] changed from "五6,7,8(理SC 2011)" to "五8,6,7(理SC 2011)".
+Value of root[702]['room'] changed from "二6(理SC2009,理SC2010) 二7,8(理SC2009,理SC2010)(實驗)" to "二6(理SC2009,理SC2010) 二8,7(理SC2009,理SC2010)(實驗)".
+Value of root[703]['room'] changed from "二1,A,B(理PH 6010)" to "二A,1,B(理PH 6010)".
+Value of root[705]['room'] changed from "四1,A,B(理PH 6001)" to "四A,1,B(理PH 6001)".
+Value of root[706]['room'] changed from "四1,A,B(理PH 3007)" to "四A,1,B(理PH 3007)".
+Value of root[707]['room'] changed from "一1,A,B(理PH 6005)" to "一A,1,B(理PH 6005)".
+Value of root[708]['room'] changed from "五1,A,B(理PH 6008)" to "五A,1,B(理PH 6008)".
+Value of root[711]['room'] changed from "四1,A,B(理PH 3008)" to "四A,1,B(理PH 3008)".
+Value of root[712]['room'] changed from "五1,A,B(理PH 2009)" to "五A,1,B(理PH 2009)".
+Value of root[713]['room'] changed from "二1,A,B(理SC 2006-3)" to "二A,1,B(理SC 2006-3)".
+Value of root[714]['room'] changed from "三1,A,B(理PH 6003)" to "三A,1,B(理PH 6003)".
+Value of root[718]['room'] changed from "四1,A,B(理PH 6008)" to "四A,1,B(理PH 6008)".
+Value of root[719]['room'] changed from "一1,A,B(理PH 5005)" to "一A,1,B(理PH 5005)".
+Value of root[720]['room'] changed from "五1,A,B(理PH 6009)" to "五A,1,B(理PH 6009)".
+Value of root[721]['room'] changed from "五1,A,B(理PH 4007)" to "五A,1,B(理PH 4007)".
+Value of root[724]['room'] changed from "一1,A,B(理SC 2006-3)" to "一A,1,B(理SC 2006-3)".
+Value of root[729]['room'] changed from "一6,7,8(理SC 2004)" to "一8,6,7(理SC 2004)".
+Value of root[768]['room'] changed from "四6,7,8(工EC 2010)" to "四8,6,7(工EC 2010)".
+Value of root[772]['room'] changed from "五6,7,8(工EC 3013)" to "五8,6,7(工EC 3013)".
+Value of root[783]['room'] changed from "二6,7,8(工EC 3013)" to "二8,6,7(工EC 3013)".
+Value of root[789]['room'] changed from "日5,6,7,8(工EC 6013)(實驗)" to "日8,5,6,7(工EC 6013)(實驗)".
+Value of root[812]['room'] changed from "六5,6,7,8(工EC 6013)(實驗)" to "六8,5,6,7(工EC 6013)(實驗)".
+Value of root[814]['room'] changed from "六5,6,7,8(工EC 6013)(實驗)" to "六8,5,6,7(工EC 6013)(實驗)".
+Value of root[822]['room'] changed from "一6,7,8(工EC 3006)" to "一8,6,7(工EC 3006)".
+Value of root[854]['room'] changed from "四6,7,8(工EC 3003)" to "四8,6,7(工EC 3003)".
+Value of root[865]['room'] changed from "二6,7,8(工EC 1009)" to "二8,6,7(工EC 1009)".
+Value of root[866]['room'] changed from "四6,7,8(工EC 9032)" to "四8,6,7(工EC 9032)".
+Value of root[870]['room'] changed from "二6,7,8(工EC 9032)" to "二8,6,7(工EC 9032)".
+Value of root[873]['room'] changed from "二6,7,8(工EC 5007)" to "二8,6,7(工EC 5007)".
+Value of root[875]['room'] changed from "四6,7,8(工EC 5012)" to "四8,6,7(工EC 5012)".
+Value of root[877]['room'] changed from "五7,8,9(工EC 5012)(實驗)" to "五8,9,7(工EC 5012)(實驗)".
+Value of root[882]['room'] changed from "一6,7,8(工EC 4012)" to "一8,6,7(工EC 4012)".
+Value of root[883]['room'] changed from "一6,7,8(工EC 4012)" to "一8,6,7(工EC 4012)".
+Value of root[896]['room'] changed from "一6,7,8(國IR 3002)" to "一8,6,7(國IR 3002)".
+Value of root[913]['room'] changed from "一6,7,8(工EC 1005)" to "一8,6,7(工EC 1005)".
+Value of root[914]['room'] changed from "一6,7,8(工MS 4023)" to "一8,6,7(工MS 4023)".
+Value of root[921]['room'] changed from "四6,7,8(工MS 4023)" to "四8,6,7(工MS 4023)".
+Value of root[922]['room'] changed from "四6,7,8,9(工MS 4025)(實驗)" to "四8,9,6,7(工MS 4025)(實驗)".
+Value of root[923]['room'] changed from "五6,7,8,9(工MS 4025)(實驗)" to "五8,9,6,7(工MS 4025)(實驗)".
+Value of root[928]['room'] changed from "二7,8,9(工MS 4022)" to "二8,9,7(工MS 4022)".
+Value of root[958]['room'] changed from "二6,7,8(管CM 4112)" to "二8,6,7(管CM 4112)".
+Value of root[974]['room'] changed from "五6,7,8(管CM 1032)" to "五8,6,7(管CM 1032)".
+Value of root[980]['room'] changed from "四6,7,8(管CM 4069)" to "四8,6,7(管CM 4069)".
+Value of root[996]['room'] changed from "一6,7,8(管CM 2037)" to "一8,6,7(管CM 2037)".
+Value of root[1000]['room'] changed from "四6,7,8(管CM 2025)" to "四8,6,7(管CM 2025)".
+Value of root[1014]['room'] changed from "四6,7,8(管CM 4036)" to "四8,6,7(管CM 4036)".
+Value of root[1016]['room'] changed from "一6,7,8(管CM 4036)" to "一8,6,7(管CM 4036)".
+Value of root[1035]['room'] changed from "五7,8(海MB 2015)" to "五8,7(海MB 2015)".
+Value of root[1042]['room'] changed from "五5,B(海MB 2009)" to "五B,5(海MB 2009)".
+Value of root[1045]['room'] changed from "二6,7,8(海MA 3021)" to "二8,6,7(海MA 3021)".
+Value of root[1051]['room'] changed from "一6,7,8(海ME 3006)(實驗)" to "一8,6,7(海ME 3006)(實驗)".
+Value of root[1056]['room'] changed from "四6,7,8(海ME 3006)" to "四8,6,7(海ME 3006)".
+Value of root[1058]['room'] changed from "二6,7,8(海ME 2007)" to "二8,6,7(海ME 2007)".
+Value of root[1063]['room'] changed from "四6,7,8(海ME 2005)" to "四8,6,7(海ME 2005)".
+Value of root[1067]['room'] changed from "六7,8,9()" to "六8,9,7()".
+Value of root[1071]['room'] changed from "五6,7,8(海MA 1005)" to "五8,6,7(海MA 1005)".
+Value of root[1081]['room'] changed from "一7,8()" to "一8,7()".
+Value of root[1085]['room'] changed from "二6,7,8(海MA 2009)" to "二8,6,7(海MA 2009)".
+Value of root[1087]['room'] changed from "四6,7,8(海MA 3040)" to "四8,6,7(海MA 3040)".
+Value of root[1096]['room'] changed from "四6,7,8(海MA 2009)" to "四8,6,7(海MA 2009)".
+Value of root[1097]['room'] changed from "四7,8(海MA 1005)" to "四8,7(海MA 1005)".
+Value of root[1098]['room'] changed from "二6,7,8(海MA 3040)" to "二8,6,7(海MA 3040)".
+Value of root[1105]['room'] changed from "五5,B(海MA 3020)" to "五B,5(海MA 3020)".
+Value of root[1115]['room'] changed from "五5,9,B(社SS 1006)" to "五9,B,5(社SS 1006)".
+Value of root[1116]['room'] changed from "五1,A,B(社SS 1005)" to "五A,1,B(社SS 1005)".
+Value of root[1117]['room'] changed from "二1,A,B(社SS 1005)" to "二A,1,B(社SS 1005)".
+Value of root[1118]['room'] changed from "五1,A,B(社SS 3005)" to "五A,1,B(社SS 3005)".
+Value of root[1119]['room'] changed from "一1,A,B(社SS 3001)" to "一A,1,B(社SS 3001)".
+Value of root[1120]['room'] changed from "四1,A,B(社SS 3001)" to "四A,1,B(社SS 3001)".
+Value of root[1121]['room'] changed from "二1,A,B(社SS 3001)" to "二A,1,B(社SS 3001)".
+Value of root[1122]['room'] changed from "一1,A,B(社SS 3005)" to "一A,1,B(社SS 3005)".
+Value of root[1123]['room'] changed from "四1,A,B(社SS 1005)" to "四A,1,B(社SS 1005)".
+Value of root[1124]['room'] changed from "二1,A,B(社SS 1006)" to "二A,1,B(社SS 1006)".
+Value of root[1126]['room'] changed from "五6,7,8(社SS 3005)" to "五8,6,7(社SS 3005)".
+Value of root[1131]['room'] changed from "四6,7,8(社SS 4001)" to "四8,6,7(社SS 4001)".
+Value of root[1137]['room'] changed from "四6,7,8(社SS 1003)" to "四8,6,7(社SS 1003)".
+Value of root[1143]['room'] changed from "二6,7,8(社SS 2001)" to "二8,6,7(社SS 2001)".
+Value of root[1144]['room'] changed from "一6,7,8(社SS 4001)" to "一8,6,7(社SS 4001)".
+Value of root[1145]['room'] changed from "一6,7,8(社SS 4004-2)" to "一8,6,7(社SS 4004-2)".
+Value of root[1150]['room'] changed from "四6,7,8(社SS 3005)" to "四8,6,7(社SS 3005)".
+Value of root[1155]['room'] changed from "四6,7,8(社SS 4005)" to "四8,6,7(社SS 4005)".
+Value of root[1169]['room'] changed from "四6,7,8(西SW 1007)" to "四8,6,7(西SW 1007)".
+Value of root[1172]['room'] changed from "二6,7,8(圖IL PC03)" to "二8,6,7(圖IL PC03)".
+Value of root[1223]['room'] changed from "四7,8(國IR 4002)" to "四8,7(國IR 4002)".
+Value of root[1224]['room'] changed from "一6,7,8(醫IL 9012)" to "一8,6,7(醫IL 9012)".
+Value of root[1229]['room'] changed from "一7,8,9(醫IL 9010)" to "一8,9,7(醫IL 9010)".
+Value of root[1245]['room'] changed from "四7,8(醫IL 9012)" to "四8,7(醫IL 9012)".
+Value of root[1255]['room'] changed from "四6,7,8(文LA 4005)" to "四8,6,7(文LA 4005)".
+Value of root[1291]['room'] changed from "一7,8(文FA 4031)" to "一8,7(文FA 4031)".
+Value of root[1293]['room'] changed from "二6,7,8(文FA 6011-1)" to "二8,6,7(文FA 6011-1)".
+Value of root[1301]['room'] changed from "二6,7,8(文LA 2009)" to "二8,6,7(文LA 2009)".
+Value of root[1303]['room'] changed from "四6,7,8(文LA 2009)" to "四8,6,7(文LA 2009)".
+Value of root[1304]['room'] changed from "四6,7,8(文LA 7001)" to "四8,6,7(文LA 7001)".
+Value of root[1312]['room'] changed from "二6,7,8(文FA 2012, Shoushan Zoo)" to "二8,6,7(文FA 2012, Shoushan Zoo)".
+Value of root[1344]['room'] changed from "四A(理SC 3010) 五1,A(理SC 3010)" to "四A(理SC 3010) 五A,1(理SC 3010)".
+Value of root[1371]['room'] changed from "二6,7,8(理CH 3002)" to "二8,6,7(理CH 3002)".
+Value of root[1372]['room'] changed from "一6,7,8(理CH 3002)" to "一8,6,7(理CH 3002)".
+Value of root[1373]['room'] changed from "二6,7,8(理SC 0008)" to "二8,6,7(理SC 0008)".
+Value of root[1384]['room'] changed from "一6,7,8(理SC 0008)" to "一8,6,7(理SC 0008)".
+Value of root[1387]['room'] changed from "二6,7,8(理SC 1005)" to "二8,6,7(理SC 1005)".
+Value of root[1389]['room'] changed from "五6,7,8(理CH 3002)" to "五8,6,7(理CH 3002)".
+Value of root[1391]['room'] changed from "三1,A,B(理PH 4007)" to "三A,1,B(理PH 4007)".
+Value of root[1392]['room'] changed from "一1,A,B(理PH 6008)" to "一A,1,B(理PH 6008)".
+Value of root[1393]['room'] changed from "五1,A,B(理PH 5006)" to "五A,1,B(理PH 5006)".
+Value of root[1394]['room'] changed from "一1,A,B(理PH 3008)" to "一A,1,B(理PH 3008)".
+Value of root[1395]['room'] changed from "三1,A,B(理PH 7011)" to "三A,1,B(理PH 7011)".
+Value of root[1396]['room'] changed from "一1,A,B(理PH 6001)" to "一A,1,B(理PH 6001)".
+Value of root[1401]['room'] changed from "一6,7,8(理PH 5008)" to "一8,6,7(理PH 5008)".
+Value of root[1403]['room'] changed from "四1,A,B(理PH 4010)" to "四A,1,B(理PH 4010)".
+Value of root[1407]['room'] changed from "四1,A,B(理PH 7006)" to "四A,1,B(理PH 7006)".
+Value of root[1408]['room'] changed from "一1,A,B(理PH 2008)" to "一A,1,B(理PH 2008)".
+Value of root[1409]['room'] changed from "三1,A,B(理PH 7001)" to "三A,1,B(理PH 7001)".
+Value of root[1410]['room'] changed from "一1,A,B(理PH 5004)" to "一A,1,B(理PH 5004)".
+Value of root[1411]['room'] changed from "一1,A,B(理PH 6010)" to "一A,1,B(理PH 6010)".
+Value of root[1412]['room'] changed from "二1,A,B(理PH 3007)" to "二A,1,B(理PH 3007)".
+Value of root[1427]['room'] changed from "一6,7,8(理SC 4009-1)" to "一8,6,7(理SC 4009-1)".
+Value of root[1431]['room'] changed from "二6,7,8(理SC 4011)" to "二8,6,7(理SC 4011)".
+Value of root[1433]['room'] changed from "五6,7,8(理SC 4013)" to "五8,6,7(理SC 4013)".
+Value of root[1434]['room'] changed from "二6,7,8(理SC 4009-0)" to "二8,6,7(理SC 4009-0)".
+Value of root[1439]['room'] changed from "四6,7,8(工EC 9010)" to "四8,6,7(工EC 9010)".
+Value of root[1442]['room'] changed from "一6,7,8(工EC 8037)" to "一8,6,7(工EC 8037)".
+Value of root[1444]['room'] changed from "四6,7,8(工EC 2007)" to "四8,6,7(工EC 2007)".
+Value of root[1446]['room'] changed from "四6,7,8(工EC 7040)" to "四8,6,7(工EC 7040)".
+Value of root[1450]['room'] changed from "四6,7,8(工EC 6015-1)" to "四8,6,7(工EC 6015-1)".
+Value of root[1458]['room'] changed from "五6,7,8(工EC 3010)" to "五8,6,7(工EC 3010)".
+Value of root[1464]['room'] changed from "五6,7,8(工EC 7040)" to "五8,6,7(工EC 7040)".
+Value of root[1465]['room'] changed from "五6,7,8(工EC 3009)" to "五8,6,7(工EC 3009)".
+Value of root[1466]['room'] changed from "四6,7,8(工EC 3009)" to "四8,6,7(工EC 3009)".
+Value of root[1472]['room'] changed from "一6,7,8(工EC 6015-1)" to "一8,6,7(工EC 6015-1)".
+Value of root[1476]['room'] changed from "五6,7,8(工EC 8037)" to "五8,6,7(工EC 8037)".
+Value of root[1477]['room'] changed from "五6,7,8(工EC 6015-1)" to "五8,6,7(工EC 6015-1)".
+Value of root[1478]['room'] changed from "一6,7,8(工EC 2007)" to "一8,6,7(工EC 2007)".
+Value of root[1479]['room'] changed from "五6,7,8(工EC 2007)" to "五8,6,7(工EC 2007)".
+Value of root[1481]['room'] changed from "五6,7,8(工EC 6015-2)" to "五8,6,7(工EC 6015-2)".
+Value of root[1482]['room'] changed from "四6,7,8(工EC 3010)" to "四8,6,7(工EC 3010)".
+Value of root[1486]['room'] changed from "一6,7,8(工EC 3010)" to "一8,6,7(工EC 3010)".
+Value of root[1488]['room'] changed from "五6,7,8(工EC 7013)" to "五8,6,7(工EC 7013)".
+Value of root[1494]['room'] changed from "六6,7,8(工EC 7040)" to "六8,6,7(工EC 7040)".
+Value of root[1495]['room'] changed from "一6,7,8(工EC 8013)" to "一8,6,7(工EC 8013)".
+Value of root[1497]['room'] changed from "四6,7,8(工EC 6016)" to "四8,6,7(工EC 6016)".
+Value of root[1501]['room'] changed from "一6,7,8(工EC 2018)" to "一8,6,7(工EC 2018)".
+Value of root[1514]['room'] changed from "五6,7,8(工EN 4055-1)" to "五8,6,7(工EN 4055-1)".
+Value of root[1537]['room'] changed from "二6,7,8(工EN 2020)" to "二8,6,7(工EN 2020)".
+Value of root[1550]['room'] changed from "一6,7,8(工EC 1004)" to "一8,6,7(工EC 1004)".
+Value of root[1553]['room'] changed from "四5,6(工EC 1004) 四7,8(工EC 1004)(實驗)" to "四5,6(工EC 1004) 四8,7(工EC 1004)(實驗)".
+Value of root[1557]['room'] changed from "五6,7,8(工EC 1004)" to "五8,6,7(工EC 1004)".
+Value of root[1563]['room'] changed from "一6,7,8(工EC 5000)" to "一8,6,7(工EC 5000)".
+Value of root[1566]['room'] changed from "四6,7,8(工EC 5007)" to "四8,6,7(工EC 5007)".
+Value of root[1567]['room'] changed from "五7,8,9(工EC 3015)" to "五8,9,7(工EC 3015)".
+Value of root[1568]['room'] changed from "五7,8,9(工EC 9014)" to "五8,9,7(工EC 9014)".
+Value of root[1569]['room'] changed from "五7,8,9(工EC 5007)" to "五8,9,7(工EC 5007)".
+Value of root[1573]['room'] changed from "五7,8,9(工EC 1014B)" to "五8,9,7(工EC 1014B)".
+Value of root[1577]['room'] changed from "二6,7,8(工EC 1006)" to "二8,6,7(工EC 1006)".
+Value of root[1578]['room'] changed from "五7,8,9(工EC 5007)" to "五8,9,7(工EC 5007)".
+Value of root[1579]['room'] changed from "二6,7,8(工EC 5012)" to "二8,6,7(工EC 5012)".
+Value of root[1580]['room'] changed from "四6,7,8(工EC 5026)" to "四8,6,7(工EC 5026)".
+Value of root[1583]['room'] changed from "一6,7,8(工EC 5025)" to "一8,6,7(工EC 5025)".
+Value of root[1587]['room'] changed from "四6,7,8(工EC 5000)" to "四8,6,7(工EC 5000)".
+Value of root[1601]['room'] changed from "五6,7,8(工EC 9011)" to "五8,6,7(工EC 9011)".
+Value of root[1609]['room'] changed from "五2,3,4,6,7,8(國IR 2007)(實驗)" to "五8,2,3,4,6,7(國IR 2007)(實驗)".
+Value of root[1613]['room'] changed from "四6,7,8(國IR 2008)" to "四8,6,7(國IR 2008)".
+Value of root[1616]['room'] changed from "一6,7,8(國IR 3003室)" to "一8,6,7(國IR 3003室)".
+Value of root[1630]['room'] changed from "二6,7,8(國IR 2008)" to "二8,6,7(國IR 2008)".
+Value of root[1633]['room'] changed from "二6,7,8(國IR 3001)" to "二8,6,7(國IR 3001)".
+Value of root[1643]['room'] changed from "五6,7,8(工MS 4022)" to "五8,6,7(工MS 4022)".
+Value of root[1646]['room'] changed from "二6,7,8(工MS 4023)" to "二8,6,7(工MS 4023)".
+Value of root[1670]['room'] changed from "五6,7,8(工MS 4019)" to "五8,6,7(工MS 4019)".
+Value of root[1673]['room'] changed from "一6,7,8(工MS 4025)" to "一8,6,7(工MS 4025)".
+Value of root[1681]['room'] changed from "一6,7,8(工EC 2018)" to "一8,6,7(工EC 2018)".
+Value of root[1683]['room'] changed from "一6,7,8(工EC 8013)" to "一8,6,7(工EC 8013)".
+Value of root[1685]['room'] changed from "四6,7,8(工EC 1006)" to "四8,6,7(工EC 1006)".
+Value of root[1686]['room'] changed from "六6,7,8(管CM 1019)" to "六8,6,7(管CM 1019)".
+Value of root[1692]['room'] changed from "一6,7,8(工EC 6016)" to "一8,6,7(工EC 6016)".
+Value of root[1693]['room'] changed from "四6,7,8(工EC 3010)" to "四8,6,7(工EC 3010)".
+Value of root[1694]['room'] changed from "六6,7,8(工EC 6015-1)" to "六8,6,7(工EC 6015-1)".
+Value of root[1695]['room'] changed from "五6,7,8(工EC 2007)" to "五8,6,7(工EC 2007)".
+Value of root[1702]['room'] changed from "四6,7,8(工EC 6016)" to "四8,6,7(工EC 6016)".
+Value of root[1706]['room'] changed from "一6,7,8(管CM 4078)" to "一8,6,7(管CM 4078)".
+Value of root[1708]['room'] changed from "四1,A(管CM 2016) 五A(管CM 2016)" to "四A,1(管CM 2016) 五A(管CM 2016)".
+Value of root[1710]['room'] changed from "四6,7,8(管CM 3022)" to "四8,6,7(管CM 3022)".
+Value of root[1711]['room'] changed from "六6,7,8(管CM 2032)" to "六8,6,7(管CM 2032)".
+Value of root[1718]['room'] changed from "二6,7,8(管CM 4069)" to "二8,6,7(管CM 4069)".
+Value of root[1727]['room'] changed from "二6,7,8(管CM 1025)" to "二8,6,7(管CM 1025)".
+Value of root[1729]['room'] changed from "四6,7,8(管CM 2015)" to "四8,6,7(管CM 2015)".
+Value of root[1731]['room'] changed from "一6,7,8(管CM 2025)" to "一8,6,7(管CM 2025)".
+Value of root[1737]['room'] changed from "二6,7,8(管CM 2026)" to "二8,6,7(管CM 2026)".
+Value of root[1738]['room'] changed from "五7,8,9(管CM 2020)" to "五8,9,7(管CM 2020)".
+Value of root[1739]['room'] changed from "二6,7,8(管CM 3038)" to "二8,6,7(管CM 3038)".
+Value of root[1740]['room'] changed from "二6,7,8(管CM 4091)" to "二8,6,7(管CM 4091)".
+Value of root[1758]['room'] changed from "二6,7,8(管CM 1035)" to "二8,6,7(管CM 1035)".
+Value of root[1760]['room'] changed from "五6,7,8(管CM 3051)" to "五8,6,7(管CM 3051)".
+Value of root[1761]['room'] changed from "五5,A,B(管CM 3044)" to "五A,B,5(管CM 3044)".
+Value of root[1762]['room'] changed from "四5,A,B(管CM 4091)" to "四A,B,5(管CM 4091)".
+Value of root[1764]['room'] changed from "四6,7,8(管CM 1036)" to "四8,6,7(管CM 1036)".
+Value of root[1765]['room'] changed from "二1,A,B(管CM 3044)" to "二A,1,B(管CM 3044)".
+Value of root[1771]['room'] changed from "五6,7,8(管CM 2029)" to "五8,6,7(管CM 2029)".
+Value of root[1775]['room'] changed from "四6,7,8(管CM 2032)" to "四8,6,7(管CM 2032)".
+Value of root[1779]['room'] changed from "一6,7,8(管CM 2032)" to "一8,6,7(管CM 2032)".
+Value of root[1783]['room'] changed from "五6,7,8(管CM 2032)" to "五8,6,7(管CM 2032)".
+Value of root[1784]['room'] changed from "二6,7,8(管CM 2032)" to "二8,6,7(管CM 2032)".
+Value of root[1810]['room'] changed from "四6,7,8(管CM 4078)" to "四8,6,7(管CM 4078)".
+Value of root[1821]['room'] changed from "一6,7,8(管CM 1023)" to "一8,6,7(管CM 1023)".
+Value of root[1826]['room'] changed from "五6,7,8(管CM 1023)" to "五8,6,7(管CM 1023)".
+Value of root[1827]['room'] changed from "四6,7,8(管CM 1023)" to "四8,6,7(管CM 1023)".
+Value of root[1835]['room'] changed from "一6,7,8(管CM 3035)" to "一8,6,7(管CM 3035)".
+Value of root[1836]['room'] changed from "四1,A(管CM 2026)(實驗)" to "四A,1(管CM 2026)(實驗)".
+Value of root[1839]['room'] changed from "五1,A(管CM 2020)(實驗)" to "五A,1(管CM 2020)(實驗)".
+Value of root[1840]['room'] changed from "四1,A,B(管CM 2020)" to "四A,1,B(管CM 2020)".
+Value of root[1850]['room'] changed from "五7,8(海MB 2016)" to "五8,7(海MB 2016)".
+Value of root[1851]['room'] changed from "一1,A()" to "一A,1()".
+Value of root[1854]['room'] changed from "一1,A()" to "一A,1()".
+Value of root[1858]['room'] changed from "一1,A()" to "一A,1()".
+Value of root[1859]['room'] changed from "二1,A()" to "二A,1()".
+Value of root[1869]['room'] changed from "二1,A()" to "二A,1()".
+Value of root[1870]['room'] changed from "二1,A()" to "二A,1()".
+Value of root[1872]['room'] changed from "一6,7,8(海ME 2007)" to "一8,6,7(海ME 2007)".
+Value of root[1873]['room'] changed from "一6,7,8(海ME 2003)" to "一8,6,7(海ME 2003)".
+Value of root[1878]['room'] changed from "五1,A()" to "五A,1()".
+Value of root[1881]['room'] changed from "二6,7,8(海ME 2001)" to "二8,6,7(海ME 2001)".
+Value of root[1886]['room'] changed from "五1,A,B()" to "五A,1,B()".
+Value of root[1887]['room'] changed from "二6,7,8(海ME 2002)" to "二8,6,7(海ME 2002)".
+Value of root[1888]['room'] changed from "一1,A()" to "一A,1()".
+Value of root[1891]['room'] changed from "二1,A()" to "二A,1()".
+Value of root[1892]['room'] changed from "一1,A()" to "一A,1()".
+Value of root[1895]['room'] changed from "五1,A(授課教師研究室)" to "五A,1(授課教師研究室)".
+Value of root[1898]['room'] changed from "二7,8,9(社SS 3010-2)" to "二8,9,7(社SS 3010-2)".
+Value of root[1900]['room'] changed from "五7,8,9(海MA 2034)" to "五8,9,7(海MA 2034)".
+Value of root[1901]['room'] changed from "二7,8,9(海MA 1020)" to "二8,9,7(海MA 1020)".
+Value of root[1903]['room'] changed from "三1,A(授課教師研究室)" to "三A,1(授課教師研究室)".
+Value of root[1904]['room'] changed from "三5,B(授課教師研究室)" to "三B,5(授課教師研究室)".
+Value of root[1908]['room'] changed from "二6,7,8(海MA 3020)" to "二8,6,7(海MA 3020)".
+Value of root[1911]['room'] changed from "四6,7,8(海MA 2009)" to "四8,6,7(海MA 2009)".
+Value of root[1915]['room'] changed from "四6,7,8(海MA 3040)" to "四8,6,7(海MA 3040)".
+Value of root[1916]['room'] changed from "五6,7,8(海MB 3013)" to "五8,6,7(海MB 3013)".
+Value of root[1919]['room'] changed from "二6,7,8(海MA 3040)" to "二8,6,7(海MA 3040)".
+Value of root[1920]['room'] changed from "一1,A() 二A()" to "一A,1() 二A()".
+Value of root[1930]['room'] changed from "二6,7,8(海MB 3013)" to "二8,6,7(海MB 3013)".
+Value of root[1935]['room'] changed from "二6,7,8(海MA 2052)" to "二8,6,7(海MA 2052)".
+Value of root[1940]['room'] changed from "四6,7,8(海MA 2052)" to "四8,6,7(海MA 2052)".
+Value of root[1946]['room'] changed from "三A() 四1,A()" to "三A() 四A,1()".
+Value of root[1948]['room'] changed from "二6,7,8(海MA 3020)" to "二8,6,7(海MA 3020)".
+Value of root[1949]['room'] changed from "二7,8(理BI 6005)" to "二8,7(理BI 6005)".
+Value of root[1964]['room'] changed from "二7,8,9(社SS 3010-2)" to "二8,9,7(社SS 3010-2)".
+Value of root[1969]['room'] changed from "一6,7,8(社SS 3002-1)" to "一8,6,7(社SS 3002-1)".
+Value of root[1976]['room'] changed from "一6,7,8(社SS 2003-2)" to "一8,6,7(社SS 2003-2)".
+Value of root[1980]['room'] changed from "一6,7,8(社SS 1014)" to "一8,6,7(社SS 1014)".
+Value of root[1981]['room'] changed from "四6,7,8(社SS 2003-2)" to "四8,6,7(社SS 2003-2)".
+Value of root[1982]['room'] changed from "五6,7,8(社SS 1014)" to "五8,6,7(社SS 1014)".
+Value of root[1987]['room'] changed from "二6,7,8(社SS 2005)" to "二8,6,7(社SS 2005)".
+Value of root[1993]['room'] changed from "四5,6,B(社SS 2002-1)" to "四B,5,6(社SS 2002-1)".
+Value of root[1996]['room'] changed from "四5,6,B(社SS 2002-2)" to "四B,5,6(社SS 2002-2)".
+Value of root[2000]['room'] changed from "三5,6,B(社SS 2005)" to "三B,5,6(社SS 2005)".
+Value of root[2001]['room'] changed from "三5,6,B(社SS 2006)" to "三B,5,6(社SS 2006)".
+Value of root[2002]['room'] changed from "三5,6,B(社SS 2002-1)" to "三B,5,6(社SS 2002-1)".
+Value of root[2003]['room'] changed from "五6,7,8(西SW 1004)" to "五8,6,7(西SW 1004)".
+Value of root[2004]['room'] changed from "二6,7,8(社SS 2002-1)" to "二8,6,7(社SS 2002-1)".
+Value of root[2005]['room'] changed from "一6,7,8(社SS 3006)" to "一8,6,7(社SS 3006)".
+Value of root[2010]['room'] changed from "二6,7,8(社SS 2009-1)" to "二8,6,7(社SS 2009-1)".
+Value of root[2012]['room'] changed from "二6,7,8(社SS 2011)" to "二8,6,7(社SS 2011)".
+Value of root[2018]['room'] changed from "一6,7,8(社SS 2007)" to "一8,6,7(社SS 2007)".
+Value of root[2019]['room'] changed from "四6,7,8(社SS 4006)" to "四8,6,7(社SS 4006)".
+Value of root[2020]['room'] changed from "五6,7,8(社SS 2009-1)" to "五8,6,7(社SS 2009-1)".
+Value of root[2021]['room'] changed from "四6,7,8(社SS 2009-1)" to "四8,6,7(社SS 2009-1)".
+Value of root[2025]['room'] changed from "一6,7,8(社SS 2009-1)" to "一8,6,7(社SS 2009-1)".
+Value of root[2026]['room'] changed from "一6,7,8(社SS 2008)" to "一8,6,7(社SS 2008)".
+Value of root[2032]['room'] changed from "二6,7,8(社SS 3004-2)" to "二8,6,7(社SS 3004-2)".
+Value of root[2035]['room'] changed from "二6,7,8(社SS 4005)" to "二8,6,7(社SS 4005)".
+Value of root[2036]['room'] changed from "一6,7,8(社SS 4005)" to "一8,6,7(社SS 4005)".
+Value of root[2037]['room'] changed from "四6,7,8(社SS 2011)" to "四8,6,7(社SS 2011)".
+Value of root[2038]['room'] changed from "五6,7,8(社SS 2011)" to "五8,6,7(社SS 2011)".
+Value of root[2043]['room'] changed from "三5,6,B(社SS 2005)" to "三B,5,6(社SS 2005)".
+Value of root[2045]['room'] changed from "二6,7,8(社SS 2004-3)" to "二8,6,7(社SS 2004-3)".
+Value of root[2046]['room'] changed from "二6,7,8(社SS 2002-1)" to "二8,6,7(社SS 2002-1)".
+Value of root[2047]['room'] changed from "一6,7,8(社SS 3006)" to "一8,6,7(社SS 3006)".
+Value of root[2050]['room'] changed from "二6,7,8(西SW 1004)" to "二8,6,7(西SW 1004)".
+Value of root[2051]['room'] changed from "五6,7,8(西SW 1004)" to "五8,6,7(西SW 1004)".
+Value of root[2053]['room'] changed from "四6,7,8(西SW 1003)" to "四8,6,7(西SW 1003)".
+Value of root[2057]['room'] changed from "五6,7,8(西SW 1003)" to "五8,6,7(西SW 1003)".
+Value of root[2065]['room'] changed from "一7,8,9(國IR 5001)" to "一8,9,7(國IR 5001)".
+Value of root[2067]['room'] changed from "五6,7,8(國IR 5001)" to "五8,6,7(國IR 5001)".
+Value of root[2070]['room'] changed from "四6,7,8(國IR 5001)" to "四8,6,7(國IR 5001)".
+Value of root[2071]['room'] changed from "一7,8,9(國IR 4005)" to "一8,9,7(國IR 4005)".
+Value of root[2073]['room'] changed from "二6,7,8(國IR 5001)" to "二8,6,7(國IR 5001)".
+Value of root[2082]['room'] changed from "五4,5,B(國IR 1006-19)" to "五4,B,5(國IR 1006-19)".
+Value of root[2083]['room'] changed from "五6,7,8(國IR 5002)" to "五8,6,7(國IR 5002)".
+Value of root[2084]['room'] changed from "四6,7,8(國IR 5002)" to "四8,6,7(國IR 5002)".
+Value of root[2109]['room'] changed from "四6,7,8(國IR 6017-1)" to "四8,6,7(國IR 6017-1)".
+Value of root[2110]['room'] changed from "二6,7,8(國IR 6017-1)" to "二8,6,7(國IR 6017-1)".
+Value of root[2111]['room'] changed from "五6,7,8(國IR 6017-1)" to "五8,6,7(國IR 6017-1)".
+Value of root[2112]['room'] changed from "五6,7,8(國IR 6017-2)" to "五8,6,7(國IR 6017-2)".
+Value of root[2113]['room'] changed from "二6,7,8(國IR 6017-2)" to "二8,6,7(國IR 6017-2)".
+Value of root[2130]['room'] changed from "二6,7,8(國IR 4005)" to "二8,6,7(國IR 4005)".
+Value of root[2135]['room'] changed from "一6,7,8(工EC 2010)" to "一8,6,7(工EC 2010)".
+Value of root[2136]['room'] changed from "二2,3,4,5,6,7,8(日月光、華泰、穎崴廠區)(實驗)" to "二8,2,3,4,5,6,7(日月光、華泰、穎崴廠區)(實驗)".
+Value of root[2146]['room'] changed from "四5,6,7,8(華泰廠區)(實驗)" to "四8,5,6,7(華泰廠區)(實驗)".
+Value of root[2148]['room'] changed from "四5,6(國IR 1001) 四7,8(國IR 1001)(實驗)" to "四5,6(國IR 1001) 四8,7(國IR 1001)(實驗)".
+Value of root[2153]['room'] changed from "六6,7,8(教授研究室)" to "六8,6,7(教授研究室)".
+Value of root[2154]['room'] changed from "四6,7,8(工EC 2007)" to "四8,6,7(工EC 2007)".
+Value of root[2161]['room'] changed from "四5,6,7,8(國巨廠區)(實驗)" to "四8,5,6,7(國巨廠區)(實驗)".
+Value of root[2162]['room'] changed from "二2,3,4,5,6,7,8(國IR 6002J)(實驗)" to "二8,2,3,4,5,6,7(國IR 6002J)(實驗)".
+Value of root[2164]['room'] changed from "二5,6,7,8(國IR 4002)(實驗)" to "二8,5,6,7(國IR 4002)(實驗)".
+Value of root[2172]['room'] changed from "二6,7,8(國IR 6002K)" to "二8,6,7(國IR 6002K)".
+Value of root[2174]['room'] changed from "四6,7,8(國IR 6002J)" to "四8,6,7(國IR 6002J)".
+Value of root[2175]['room'] changed from "一6,7,8(國IR 6002K)" to "一8,6,7(國IR 6002K)".
+Value of root[2199]['room'] changed from "六6,7,8(工EV 4024)" to "六8,6,7(工EV 4024)".
+Value of root[2224]['room'] changed from "日7,8,9(澎湖)" to "日8,9,7(澎湖)".
+Value of root[2245]['room'] changed from "六6,7,8(管CM 3022)" to "六8,6,7(管CM 3022)".
+Value of root[2246]['room'] changed from "日6,7,8(管CM 1023)" to "日8,6,7(管CM 1023)".
+Value of root[2247]['room'] changed from "二1,A(圖資中信廳)" to "二A,1(圖資中信廳)".
+Value of root[2249]['room'] changed from "五1,A(台北)" to "五A,1(台北)".
+Value of root[2251]['room'] changed from "三1,A(台北)" to "三A,1(台北)".
+Value of root[2258]['room'] changed from "五1,A(台北)" to "五A,1(台北)".
+Value of root[2259]['room'] changed from "三1,A(台北)" to "三A,1(台北)".
+Value of root[2263]['room'] changed from "三1,2,A(圖資博士廳)" to "三A,1,2(圖資博士廳)".
+Value of root[2264]['room'] changed from "四7,8,9(台北)" to "四8,9,7(台北)".
+Value of root[2288]['room'] changed from "六5,6,B(社SS 3004-2)" to "六B,5,6(社SS 3004-2)".
+Value of root[2289]['room'] changed from "六7,8,9(社SS 3004-2)" to "六8,9,7(社SS 3004-2)".
+Value of root[2291]['room'] changed from "六5,6,B(社SS 4004-2)" to "六B,5,6(社SS 4004-2)".
+Value of root[2308]['room'] changed from "四6,7,8(文LA 7001)" to "四8,6,7(文LA 7001)".
+Value of root[2323]['room'] changed from "一1,A,B(理PH 7008)" to "一A,1,B(理PH 7008)".
+Value of root[2324]['room'] changed from "五1,A,B(理PH 7009)" to "五A,1,B(理PH 7009)".
+Value of root[2325]['room'] changed from "三1,A,B(理PH 3001)" to "三A,1,B(理PH 3001)".
+Value of root[2326]['room'] changed from "三1,A,B(理PH 2009)" to "三A,1,B(理PH 2009)".
+Value of root[2337]['room'] changed from "二6,7,8(工EC 2005)" to "二8,6,7(工EC 2005)".
+Value of root[2343]['room'] changed from "一6,7,8(國IR 3003)" to "一8,6,7(國IR 3003)".
+Value of root[2351]['room'] changed from "四6,7,8(管CM 2021)" to "四8,6,7(管CM 2021)".
+Value of root[2352]['room'] changed from "二6,7,8(管CM 2036)" to "二8,6,7(管CM 2036)".
+Value of root[2353]['room'] changed from "二7,8,9(管CM 2038)" to "二8,9,7(管CM 2038)".
+Value of root[2354]['room'] changed from "六6,7,8(管CM 2036)" to "六8,6,7(管CM 2036)".
+Value of root[2357]['room'] changed from "五6,7,8(管CM 2036)" to "五8,6,7(管CM 2036)".
+Value of root[2360]['room'] changed from "三5,B(管CM 4078)" to "三B,5(管CM 4078)".
+Value of root[2361]['room'] changed from "四6,7,8(管CM 1026)" to "四8,6,7(管CM 1026)".
+Value of root[2363]['room'] changed from "二6,7,8(管CM 2021)" to "二8,6,7(管CM 2021)".
+Value of root[2365]['room'] changed from "四6,7,8(管CM 1030)" to "四8,6,7(管CM 1030)".
+Value of root[2373]['room'] changed from "二6,7,8(管CM 2020)" to "二8,6,7(管CM 2020)".
+Value of root[2378]['room'] changed from "四6,7,8(管CM 1020)" to "四8,6,7(管CM 1020)".
+Value of root[2379]['room'] changed from "四5,A,B(管CM 3044)" to "四A,B,5(管CM 3044)".
+Value of root[2386]['room'] changed from "二6,7,8(管CM 3035)" to "二8,6,7(管CM 3035)".
+Value of root[2387]['room'] changed from "二6,7,8(管CM 3035)" to "二8,6,7(管CM 3035)".
+Value of root[2395]['room'] changed from "四1,A()" to "四A,1()".
+Value of root[2396]['room'] changed from "四1,A()" to "四A,1()".
+Value of root[2397]['room'] changed from "四1,A()" to "四A,1()".
+Value of root[2401]['room'] changed from "五1,A()" to "五A,1()".
+Value of root[2402]['room'] changed from "五1,A()" to "五A,1()".
+Value of root[2403]['room'] changed from "五1,A()" to "五A,1()".
+Value of root[2404]['room'] changed from "二6,7,8(海ME 6009)" to "二8,6,7(海ME 6009)".
+Value of root[2409]['room'] changed from "五7,8,9(各研究室)" to "五8,9,7(各研究室)".
+Value of root[2418]['room'] changed from "四5,6,B(社SS 2002-1)" to "四B,5,6(社SS 2002-1)".
+Value of root[2421]['room'] changed from "二6,7,8(社SS 2004-3)" to "二8,6,7(社SS 2004-3)".
+Value of root[2426]['room'] changed from "三5,6,B(社SS 2006)" to "三B,5,6(社SS 2006)".
+Value of root[2427]['room'] changed from "三5,6,B(社SS 2002-1)" to "三B,5,6(社SS 2002-1)".
+Value of root[2428]['room'] changed from "二6,7,8(社SS 2002-2)" to "二8,6,7(社SS 2002-2)".
+Value of root[2429]['room'] changed from "一6,7,8(社SS 3006)" to "一8,6,7(社SS 3006)".
+Value of root[2432]['room'] changed from "五6,7,8(社SS 2008)" to "五8,6,7(社SS 2008)".
+Value of root[2436]['room'] changed from "三5,6,B(社SS 2005)" to "三B,5,6(社SS 2005)".
+Value of root[2439]['room'] changed from "二6,7,8(社SS 2004-3)" to "二8,6,7(社SS 2004-3)".
+Value of root[2440]['room'] changed from "二6,7,8(社SS 2002-1)" to "二8,6,7(社SS 2002-1)".
+Value of root[2443]['room'] changed from "四5,6,B(社SS 2002-1)" to "四B,5,6(社SS 2002-1)".
+Value of root[2460]['room'] changed from "二6,7,8(國IR 6002K)" to "二8,6,7(國IR 6002K)".
+Value of root[2461]['room'] changed from "一6,7,8(國IR 6002K)" to "一8,6,7(國IR 6002K)".
+Value of root[2471]['room'] changed from "二6(理SC2009,理SC2010) 二7,8(理SC2009,理SC2010)(實驗)" to "二6(理SC2009,理SC2010) 二8,7(理SC2009,理SC2010)(實驗)".
+Value of root[2477]['room'] changed from "四6,7,8(管CM 2025)" to "四8,6,7(管CM 2025)".
+Value of root[2497]['room'] changed from "一6,7,8(理PH 5008)" to "一8,6,7(理PH 5008)".
+Value of root[2505]['room'] changed from "五6,7,8(工MS 4022)" to "五8,6,7(工MS 4022)".
+Value of root[2508]['room'] changed from "二6,7,8(工MS 4023)" to "二8,6,7(工MS 4023)".
+Value of root[2513]['room'] changed from "五6,7,8(工MS 4019)" to "五8,6,7(工MS 4019)".
+Value of root[2516]['room'] changed from "一6,7,8(工MS 4025)" to "一8,6,7(工MS 4025)".
+Value of root[2518]['room'] changed from "一6,7,8(管CM 4078)" to "一8,6,7(管CM 4078)".
+Value of root[2526]['room'] changed from "四6,7,8(管CM 3022)" to "四8,6,7(管CM 3022)".
+Value of root[2527]['room'] changed from "四6,7,8(管CM 3022)" to "四8,6,7(管CM 3022)".
+Value of root[2528]['room'] changed from "四6,7,8(管CM 3022)" to "四8,6,7(管CM 3022)".
+Value of root[2529]['room'] changed from "四6,7,8(管CM 3022)" to "四8,6,7(管CM 3022)".
+Value of root[2530]['room'] changed from "四6,7,8(管CM 3022)" to "四8,6,7(管CM 3022)".
+Value of root[2531]['room'] changed from "六6,7,8(管CM 2032)" to "六8,6,7(管CM 2032)".
+Value of root[2532]['room'] changed from "六6,7,8(管CM 2032)" to "六8,6,7(管CM 2032)".
+Value of root[2533]['room'] changed from "六6,7,8(管CM 2032)" to "六8,6,7(管CM 2032)".
+Value of root[2552]['room'] changed from "二6,7,8(管CM 4069)" to "二8,6,7(管CM 4069)".
+Value of root[2553]['room'] changed from "二6,7,8(管CM 4069)" to "二8,6,7(管CM 4069)".
+Value of root[2554]['room'] changed from "二6,7,8(管CM 4069)" to "二8,6,7(管CM 4069)".
+Value of root[2611]['room'] changed from "二6,7,8(海ME 2002)" to "二8,6,7(海ME 2002)".
+Value of root[2617]['room'] changed from "四6,7,8(海MA 2052)" to "四8,6,7(海MA 2052)".
+Value of root[2629]['room'] changed from "二7,8,9(社SS 3010-2)" to "二8,9,7(社SS 3010-2)".
+Value of root[2632]['room'] changed from "二6,7,8(社SS 2011)" to "二8,6,7(社SS 2011)".
+Value of root[2633]['room'] changed from "二6,7,8(社SS 2011)" to "二8,6,7(社SS 2011)".
+Value of root[2646]['room'] changed from "六6,7,8(管CM 3022)" to "六8,6,7(管CM 3022)".
+Value of root[2647]['room'] changed from "日6,7,8(管CM 1023)" to "日8,6,7(管CM 1023)".

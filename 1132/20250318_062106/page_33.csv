@@ -1,0 +1,58 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS369&Crsname=動物行為學概論,,,False,生科系,BIOS369,2,不分班,"動物行為學概論
+INTRODUCTION OF ANIMAL BEHAVIOR",2,期,False,50,0,62,-12,徐芝敏,"五6,7(理SC 3001)","['', '', '', '', '67', '', '']",《講授類》,['生態想想微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS370&Crsname=古生物學和古生態學概論,,,False,生科系,BIOS370,3,不分班,"古生物學和古生態學概論
+INTRODUCTION TO PALEOBIOLOGY AND PALEOECOLOGY",3,期,False,50,0,9,41,邊安台,"二8,6,7(理SC 0009)","['', '678', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['生態想想微學程', '自然生物資產微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS397&Crsname=生物科學專題（二）,,,False,生科系,BIOS397,3,不分班,"生物科學專題（二）
+INDEPENDENT STUDIES IN BIOLOGICAL SCIENCES (II)",3,期,False,50,0,19,31,"黃明德,傅瀚儀,汪海晏,高資棟",三1() 四1() 五1(),"['', '', '1', '1', '1', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS411&Crsname=書報討論（二）,,,False,生科系,BIOS411,4,不分班,"書報討論（二）
+SEMINAR(II)",1,期,True,50,0,49,1,吳長益,"四B,5(理SC 3001)","['', '', '', 'B5', '', '', '']","《演講/參訪》
+『本課程之限修，於加退選2階段開放選修』。限本系大四生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS442&Crsname=基因組學,,,False,生科系,BIOS442,3,不分班,"基因組學
+GENOMICS",3,期,False,50,0,16,34,"黃明德,傅瀚儀,劉世慧","二2,3,4(理SC 0009)","['', '234', '', '', '', '', '']",《講授類》,"['生物技術學程', '海洋生產模式整合學程', '生物技術微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS461&Crsname=生物多樣性與保育,,,False,生科系,BIOS461,4,不分班,"生物多樣性與保育
+BIODIVERSITY AND CONSERVATION",2,期,False,50,0,29,21,江友中,"二8,7(理BI 6005)","['', '78', '', '', '', '', '']",《講授類》,"['環境教育學程', '氣候變遷與調適學分學程', '生態想想微學程', '自然生物資產微學程', '海洋生物資源開發學程', '生物多樣性學程', '地方發展與永續農業微學程', '生物資訊與演化生態微學程', '探索海洋國家公園微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS466&Crsname=昆蟲生態與行為學,,,False,生科系,BIOS466,4,不分班,"昆蟲生態與行為學
+INSECT ECOLOGY AND BEHAVIOR",3,期,False,50,0,6,44,邊安台,"一5,6,7(理SC 0009)","['567', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['生態想想微學程', '生物多樣性學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS467&Crsname=森林生態學,異動,更換教室2/20,False,生科系,BIOS467,4,不分班,"森林生態學
+FOREST ECOLOGY",2,期,False,50,0,39,11,張楊家豪,"三3,4(理SC 0009)","['', '', '34', '', '', '', '']",《講授類》,['生態想想微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS468&Crsname=舌尖上的演化史,,,False,生科系,BIOS468,4,不分班,"舌尖上的演化史
+FOOD EVOLUTION",2,期,False,50,0,28,22,劉世慧,"一5,6(理SC 3005)","['56', '', '', '', '', '', '']",《講授類》,"['校園預防醫學暨食品安全學程', '食品安全學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=BIOS496&Crsname=生物科學學士論文專題（二）,,,False,生科系,BIOS496,4,不分班,"生物科學學士論文專題（二）
+INDEPENDENT STUDIES IN BACHELOR'S THESIS OF BIOLOGICAL SCIENCES (II)",3,期,False,50,0,3,47,"黃明德,李哲欣",三A() 四A() 五A(),"['', '', 'A', 'A', 'A', '', '']","《獨立研究》
+限修過生物科學學士論文專題（一）同學選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM106&Crsname=微積分（二）,,,False,化學系,CHEM106,1,不分班,"微積分（二）
+CALCULUS(II)",3,期,True,50,0,30,20,張福春,"一2,3,4(理SC 1005)","['234', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限化學系同學選修。與光電系、材光系併班。",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM106A&Crsname=微積分（二）,,,True,化學系,CHEM106A,1,全英班,"微積分（二）
+CALCULUS(II)",3,期,True,50,0,32,18,翁鵬絜,"一2,3,4(工EC 1009)","['234', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限化學系同學選修。與光電系、材光系併班。擋修條件: 微積分(一) 學期總成績至少有D等第 。
+※英語授課",['人工智慧與數學學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM112&Crsname=化學實驗（二）,,,True,化學系,CHEM112,1,不分班,"化學實驗（二）
+CHEMISTRY LABORATORY(II)",2,期,True,50,0,17,33,"李志聰,張柏齡","一6(理SC 4020) 一8,7(理SC 4020)(實驗)","['678', '', '', '', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號雙號選",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM112A&Crsname=化學實驗（二）,,,True,化學系,CHEM112A,1,全英班,"化學實驗（二）
+CHEMISTRY LABORATORY(II)",2,期,True,50,0,12,38,"張均然,吳慧芬","五6(理SC 4020) 五8,7(理SC 4020)(實驗)","['', '', '', '', '678', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號單號選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM112B&Crsname=化學實驗（二）,,,True,化學系,CHEM112B,1,不分班,"化學實驗（二）
+CHEMISTRY LABORATORY(II)",2,期,True,50,0,17,33,"張柏齡,李志聰","一6(理SC 4032) 一8,7(理SC 4032)(實驗)","['678', '', '', '', '', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號單號選",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM112C&Crsname=化學實驗（二）,,,True,化學系,CHEM112C,1,全英班,"化學實驗（二）
+CHEMISTRY LABORATORY(II)",2,期,True,50,0,15,35,"吳慧芬,張均然","五6(理SC 4032) 五8,7(理SC 4032)(實驗)","['', '', '', '', '678', '', '']","《實驗類》
+『本課程之限修，於加退選2階段開放選修』。限學號雙號選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM113&Crsname=有機化學（一）,,,False,化學系,CHEM113,1,不分班,"有機化學（一）
+ORGANIC CHEMISTRY (I)",3,期,True,60,0,37,23,廖軒宏,"四2(理SC 1003) 五2,3(理SC 1003)","['', '', '', '2', '23', '', '']",《講授類》,['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM113A&Crsname=有機化學（一）,,,False,化學系,CHEM113A,1,全英班,"有機化學（一）
+ORGANIC CHEMISTRY (I)",3,期,True,60,0,43,17,張均然,"一8(理SC 0014) 五2,3(理SC 0014)","['8', '', '', '', '23', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM114&Crsname=分析化學（一）,,,False,化學系,CHEM114,1,不分班,"分析化學（一）
+ANAYTICAL CHEMISTRY(I)",3,期,True,50,0,31,19,曾韋龍,"四3,4(理SC 1003) 五4(理SC 1003)","['', '', '', '34', '4', '', '']",《講授類》,"['半導體製程模組學程', '生物技術學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CHEM114A&Crsname=分析化學（一）,,,False,化學系,CHEM114A,1,全英班,"分析化學（一）
+ANAYTICAL CHEMISTRY(I)",3,期,True,50,0,30,20,吳慧芬,"一6,7(理SC 3004) 五5(理SC 3004)","['67', '', '', '', '5', '', '']","《講授類》
+ 
+※英語授課","['半導體製程模組學程', '生物技術學程']",False
