@@ -1,0 +1,1 @@
+Value of root[1278]['teacher'] changed from "林雅叙,陳宜蓁,黃楚涵" to "林雅叙,陳宜蓁".
