@@ -1,9 +1,0 @@
-Value of root[24]['teacher'] changed from "宋宥賢" to "宋呈澔".
-Value of root[25]['teacher'] changed from "宋宥賢" to "宋呈澔".
-Value of root[1998]['teacher'] changed from "周珮儀,宋宥賢,張宇慧,張至慶,莊雪華,謝百淇,陳利銘,馮雅群" to "周珮儀,宋呈澔,張宇慧,張至慶,莊雪華,謝百淇,陳利銘,馮雅群".
-Value of root[2004]['teacher'] changed from "宋宥賢" to "宋呈澔".
-Value of root[2046]['teacher'] changed from "宋宥賢" to "宋呈澔".
-Value of root[2297]['teacher'] changed from "宋宥賢" to "宋呈澔".
-Value of root[2423]['teacher'] changed from "周珮儀,宋宥賢,施慶麟,林靜慧,楊淑晴,艾玲,莊雪華,謝百淇,陳利銘" to "周珮儀,宋呈澔,施慶麟,林靜慧,楊淑晴,艾玲,莊雪華,謝百淇,陳利銘".
-Value of root[2428]['teacher'] changed from "宋宥賢" to "宋呈澔".
-Value of root[2440]['teacher'] changed from "宋宥賢" to "宋呈澔".
