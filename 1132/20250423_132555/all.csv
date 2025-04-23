@@ -4067,7 +4067,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5414&
 POWER QUALITY",3,期,False,50,0,7,43,哈菲茲,"五8,6,7(工EC 2007)","['', '', '', '', '678', '', '']","《講授類》
 與電力學程併班上課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5418&Crsname=電子安定器設計專題,,,False,電機碩,EE5418,0,不分班,"電子安定器設計專題
-SPECIAL TOPICS IN DESIGN OF ELECTRONICS BALLASTA",3,期,False,50,0,6,44,哈菲茲,"三2,3,4(工EC 7040)","['', '', '234', '', '', '', '']",《獨立研究》,[],True
+SPECIAL TOPICS IN DESIGN OF ELECTRONICS BALLASTA",3,期,False,50,0,5,45,哈菲茲,"三2,3,4(工EC 7040)","['', '', '234', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5425&Crsname=配電系統分析專題,,,False,電機碩,EE5425,0,不分班,"配電系統分析專題
 INDEPENDENT STUDIES IN DISTRIBUTION SYSTEM ANALYSIS",3,期,False,50,0,8,42,盧展南,"五8,6,7(工EC 6015-2)","['', '', '', '', '678', '', '']",《獨立研究》,['海事工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5428&Crsname=電力系統規劃,,,False,電機碩,EE5428,0,不分班,"電力系統規劃
@@ -4222,7 +4222,7 @@ INDEPENDENT STUDIES IN COMBUSTION AND FIRE SAFETY II",3,期,False,50,0,10,40,許
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE521&Crsname=書報討論,,,False,環工碩,ENVE521,1,不分班,"書報討論
 SEMINAR",1,期,True,50,0,22,28,彭彥彬,"三6,7(工EV 4024)","['', '', '67', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE521A&Crsname=書報討論,,,False,環工碩,ENVE521A,2,不分班,"書報討論
-SEMINAR",1,期,True,50,0,23,27,陳則綸,"三6,7(工EV 4024)","['', '', '67', '', '', '', '']",《演講/參訪》,[],False
+SEMINAR",1,期,True,50,0,22,28,陳則綸,"三6,7(工EV 4024)","['', '', '67', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE532&Crsname=反應動力學,,,False,環工碩,ENVE532,0,不分班,"反應動力學
 REACTION KINETICS",3,期,False,50,0,3,47,陳則綸,"一8,6,7(工EC 1004)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE533&Crsname=理化處理,,,False,環工碩,ENVE533,0,不分班,"理化處理
@@ -4596,7 +4596,7 @@ INDEPENDENT STUDIES IN POWER SYSTEM TRANSIENT AND DYNAMIC ANALYSIS",3,期,False,
  
 ※英語授課",['海事工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMPE502&Crsname=電力品質,,,False,電機電力碩,IMPE502,0,不分班,"電力品質
-POWER QUALITY",3,期,False,50,0,9,41,哈菲茲,"五8,6,7(工EC 2007)","['', '', '', '', '678', '', '']","《講授類》
+POWER QUALITY",3,期,False,50,0,8,42,哈菲茲,"五8,6,7(工EC 2007)","['', '', '', '', '678', '', '']","《講授類》
  
 ※英語授課",['海事工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=IMPE505&Crsname=最佳控制,,,False,電機電力碩,IMPE505,0,不分班,"最佳控制
@@ -5760,19 +5760,19 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ISM592&
 INDEPENDENT STUDIES(I)",3,期,False,25,0,24,1,"李英杰,林勇志,洪勇智,王俊明,王志逢,莊豐任,謝佳旭,鍾秀瑩,陳信助,陳英忠,馬誠佑,黃義佑","六C,D,E(國IR 6002K)","['', '', '', '', '', 'CDE', '']","《獨立研究》
 網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SBF508&Crsname=另類投資實務,異動,確認教師2/14,False,國際資產所,SBF508,2,不分班,"另類投資實務
-ALTERNATIVE INVESTMENT IN PRACTICE",2,期,False,60,0,14,46,Yigal Shmuel Newman,,"['', '', '', '', '67', '', '']","《講授類》
+ALTERNATIVE INVESTMENT IN PRACTICE",2,期,False,60,0,13,47,Yigal Shmuel Newman,,"['', '', '', '', '67', '', '']","《講授類》
 本課程限國際金融研究學院學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SBF513&Crsname=跨國金融業務法規與法遵實務,,,False,國際資產所,SBF513,2,不分班,"跨國金融業務法規與法遵實務
 CROSS-BORDER LAW COMPLIANCE IN PRACTICE",2,期,False,60,0,8,52,饒永華,,"['', '', '', '', '4B', '', '']","《講授類》
 本課程限國際金融研究學院學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SBF550&Crsname=國際金融交易商務談判,,,False,國際資產所,SBF550,2,不分班,"國際金融交易商務談判
-NEGOTIATION IN INTERNATIONAL FINANCIAL TRANSACTIONS",2,期,True,60,0,51,9,Bryan Low Yi Teng,,"['', '', '', '', '', '78', '']","《講授類》
+NEGOTIATION IN INTERNATIONAL FINANCIAL TRANSACTIONS",2,期,True,60,0,50,10,Bryan Low Yi Teng,,"['', '', '', '', '', '78', '']","《講授類》
 本課程限國際金融研究學院學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SBF551&Crsname=創新商業模式實作（三）,,,False,國際資產所,SBF551,2,不分班,"創新商業模式實作（三）
-INDEPENDENT STUDIES IN INNOVATIVE BUSINESS MODELS-3",1,期,True,60,0,51,9,"王昭文,郭志文",,"['', '', '', '', '8', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN INNOVATIVE BUSINESS MODELS-3",1,期,True,60,0,50,10,"王昭文,郭志文",,"['', '', '', '', '8', '', '']","《獨立研究》
 本課程限國資所學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SBF558&Crsname=金融專業倫理道德與行為準則,異動,確認合授教師2/11,False,國際資產所,SBF558,2,不分班,"金融專業倫理道德與行為準則
-FINANCIAL ETHICS & BEHAVIORAL CONDUCTS",2,期,False,60,0,20,40,"呂桔誠,竹下誠二郎",,"['', '', '', '', '', '56', '']","《講授類》
+FINANCIAL ETHICS & BEHAVIORAL CONDUCTS",2,期,False,60,0,19,41,"呂桔誠,竹下誠二郎",,"['', '', '', '', '', '56', '']","《講授類》
 本課程限國際金融研究學院學生加選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=SBF560&Crsname=投資決策與交易實務經驗,,,False,國際資產所,SBF560,2,不分班,"投資決策與交易實務經驗
 INVESTMENT DECISION-MAKING & TRANSACTIONS",2,期,False,60,0,29,31,張綺真,,"['', '', '', '', '', '34', '']","《講授類》
@@ -6126,7 +6126,7 @@ INDEPENDENT STUDIES（II）",3,期,True,50,0,4,46,楊崇鑫,"一1(理SC 0010) �
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PPFS725&Crsname=分子與雷射光譜,,,False,理學博,PPFS725,1,不分班,"分子與雷射光譜
 MOLECULAR AND LASER SPECTROSCOPY",3,期,False,50,0,7,43,楊崇鑫,"一2,3,4(理SC 0010)","['234', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE7100&Crsname=書報討論,,,False,電機博,EE7100,1,不分班,"書報討論
-SEMINAR",1,期,True,90,0,8,82,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《研討類》
+SEMINAR",1,期,True,90,0,7,83,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《研討類》
 碩、博士班併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE7701&Crsname=高等磁共振影像技術,異動,更換教室2/18,False,電機博,EE7701,0,不分班,"高等磁共振影像技術
 ADVANCED TECHNIQUES OF MAGNETIC RESONANCE IMAGING",3,期,False,50,0,6,44,"吳珮歆,程正傑,莊子肇","二2,3,4(工EC 8037)","['', '234', '', '', '', '', '']",《講授類》,[],False
@@ -6150,7 +6150,7 @@ ENVIRONMENTAL FATE AND RISK ASSESSMENT",3,期,False,50,0,10,40,陳威翔,"三C,D
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE785&Crsname=高等水化學,,,False,環工博,ENVE785,0,不分班,"高等水化學
 ADVANCED WATER CHEMISTRY",3,期,False,50,0,6,44,施育仁,"四2,3,4(工EC 1004)","['', '', '', '234', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=ENVE791&Crsname=英文論文寫作,,,False,環工博,ENVE791,0,不分班,"英文論文寫作
-TECHNICAL WRITING IN EHGLISH",2,期,False,50,1,56,-6,施育仁,"二C,D(工EV 4024)","['', 'CD', '', '', '', '', '']",《講授類》,[],True
+TECHNICAL WRITING IN EHGLISH",2,期,False,50,1,55,-5,施育仁,"二C,D(工EV 4024)","['', 'CD', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CSE707&Crsname=書報討論（二）,,,False,資工博,CSE707,1,不分班,"書報討論（二）
 SEMINAR II",1,期,True,10,0,5,5,王友群,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
 限本系碩/博士生修習",[],False

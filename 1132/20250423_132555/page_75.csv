@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5418&Crsname=電子安定器設計專題,,,False,電機碩,EE5418,0,不分班,"電子安定器設計專題
-SPECIAL TOPICS IN DESIGN OF ELECTRONICS BALLASTA",3,期,False,50,0,6,44,哈菲茲,"三2,3,4(工EC 7040)","['', '', '234', '', '', '', '']",《獨立研究》,[],True
+SPECIAL TOPICS IN DESIGN OF ELECTRONICS BALLASTA",3,期,False,50,0,5,45,哈菲茲,"三2,3,4(工EC 7040)","['', '', '234', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5425&Crsname=配電系統分析專題,,,False,電機碩,EE5425,0,不分班,"配電系統分析專題
 INDEPENDENT STUDIES IN DISTRIBUTION SYSTEM ANALYSIS",3,期,False,50,0,8,42,盧展南,"五8,6,7(工EC 6015-2)","['', '', '', '', '678', '', '']",《獨立研究》,['海事工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE5428&Crsname=電力系統規劃,,,False,電機碩,EE5428,0,不分班,"電力系統規劃
