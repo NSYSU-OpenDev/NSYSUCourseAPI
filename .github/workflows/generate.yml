@@ -48,8 +48,8 @@ jobs:
           # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
           TZ: TW
           ACADEMIC_YEAR: ${{ github.event.inputs.academic_year }}
-          RAW_BASE_URL: https://raw.githubusercontent.com/whats2000/NSYSUCourseAPI/gh-pages/
-          STATIC_BASE_URL: https://whats2000.github.io/NSYSUCourseAPI/
+          RAW_BASE_URL: https://raw.githubusercontent.com/nsysu-opendev/NSYSUCourseAPI/gh-pages/
+          STATIC_BASE_URL: https://nsysu-opendev.github.io/NSYSUCourseAPI/
 
       - name: Deploy
         run: |

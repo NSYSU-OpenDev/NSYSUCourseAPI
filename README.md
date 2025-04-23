@@ -2,7 +2,7 @@
 
 ## API Document
 
-[API Document Website](https://whats2000.github.io/NSYSUCourseAPI/index.html)
+[API Document Website](https://nsysu-opendev.github.io/NSYSUCourseAPI/index.html)
 
 ## Run
 
@@ -122,7 +122,7 @@ python main.py test
     "path": "1122/20240208/all.json",
     "sha256": "f4592e5e23fa54ca89e10fa4528baeed3adc423a015e54a4f3b24a5520ca297c",
     "size": 2000,
-    "static_url": "https://whats2000.github.io/NSYSUCourseAPI/1122/20240208/all.json",
+    "static_url": "https://nsysu-opendev.github.io/NSYSUCourseAPI/1122/20240208/all.json",
     "type": "file",
   }
   ```
@@ -136,7 +136,7 @@ python main.py test
 {
   "name": "20240208",
   "path": "1122/20240208",
-  "static_url": "https://whats2000.github.io/NSYSUCourseAPI/1122/20240208",
+  "static_url": "https://nsysu-opendev.github.io/NSYSUCourseAPI/1122/20240208",
   "type": "dir",
 }
 ```

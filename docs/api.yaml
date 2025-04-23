@@ -5,13 +5,13 @@ info:
   version: 1.0.0
   contact:
     name: API Support
-    url: https://github.com/whats2000/NSYSUCourseAPI/issues
+    url: https://github.com/nsysu-opendev/NSYSUCourseAPI/issues
   license:
     name: MIT
     url: https://opensource.org/licenses/MIT
 
 servers:
-  - url: https://whats2000.github.io/NSYSUCourseAPI
+  - url: https://nsysu-opendev.github.io/NSYSUCourseAPI
     description: Production API endpoint
 
 paths:
