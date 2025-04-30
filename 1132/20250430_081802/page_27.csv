@@ -1,8 +1,8 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL334&Crsname=應用英語與溝通,,,False,外文系,DFLL334,4,不分班,"應用英語與溝通
-APPLIED ENGLISH AND COMMUNICATION",3,期,False,50,0,24,26,曾銘裕,"二5,6,7(文LA 2001)","['', '567', '', '', '', '', '']",《講授類》,[],True
+APPLIED ENGLISH AND COMMUNICATION",3,期,False,50,0,23,27,曾銘裕,"二5,6,7(文LA 2001)","['', '567', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL338&Crsname=語言評量概論,異動,更換時間1/14,False,外文系,DFLL338,3,不分班,"語言評量概論
-INTRODUCTION TO LANGUAGE ASSESSMENT",3,期,False,50,0,39,11,施智閔,"四2,3,4(海ME 3006)","['', '', '', '234', '', '', '']",《講授類》,[],True
+INTRODUCTION TO LANGUAGE ASSESSMENT",3,期,False,50,0,38,12,施智閔,"四2,3,4(海ME 3006)","['', '', '', '234', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL342&Crsname=日文（四）,異動,更換時間1/22,False,外文系,DFLL342,3,不分班,"日文（四）
 JAPANESE(IV)",3,期,False,20,1,20,0,森國松江,"一2,3,4(文LA 3013)","['234', '', '', '', '', '', '']",《講授類》,['日本研究學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL344&Crsname=西班牙文（四）,,,False,外文系,DFLL344,3,不分班,"西班牙文（四）
@@ -18,7 +18,7 @@ SPANISH III-2",3,期,True,15,0,5,10,李優俐,"二5,6,7(文LA 3015)","['', '567'
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL410&Crsname=德文三（二）,,,True,外文系,DFLL410,4,不分班,"德文三（二）
 GERMAN III-2",3,期,True,15,0,7,8,陳麗雅,"二5,6,7(文LA 3016)","['', '567', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL421&Crsname=美國文學：1865以後,,,True,外文系,DFLL421,4,不分班,"美國文學：1865以後
-AMERICAN LITERATURE : AFTER 1865",3,期,True,50,0,24,26,陳福仁,"一2,3,4(文LA 3001)","['234', '', '', '', '', '', '']","《講授類》
+AMERICAN LITERATURE : AFTER 1865",3,期,True,50,0,23,27,陳福仁,"一2,3,4(文LA 3001)","['234', '', '', '', '', '', '']","《講授類》
  
 ※英語授課",['西洋經典文學與文化學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL426&Crsname=小說專題：短篇小說,異動,更換教室2/25,False,外文系,DFLL426,4,不分班,"小說專題：短篇小說

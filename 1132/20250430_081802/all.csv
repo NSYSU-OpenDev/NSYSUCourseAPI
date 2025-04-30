@@ -312,7 +312,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEPE211
 SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,49,1,李佳倫,"四3,4(韻律教室/Aerobics classroom)","['', '', '', '34', '', '', '']","《體育類》
 限大二以上選修。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEPE211B&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211B,2,不分班,"運動與健康：初級墊上核心
-SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,1,31,19,李佳倫,"三B,5(韻律教室/Aerobics classroom)","['', '', 'B5', '', '', '', '']","《體育類》
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,1,30,20,李佳倫,"三B,5(韻律教室/Aerobics classroom)","['', '', 'B5', '', '', '', '']","《體育類》
 限大二以上選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEPE211C&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211C,2,不分班,"運動與健康：初級墊上核心
 SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,53,-3,許秀桃,"三3,4(韻律教室/Aerobics classroom)","['', '', '34', '', '', '', '']","《體育類》
@@ -434,7 +434,7 @@ LOGICAL REASONING AND CREATIVE THINKING",3,期,True,50,3,50,0,楊士奇,"三5,6,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2226&Crsname=現代日本社會與宗教,,,False,博雅向度二,GEAE2226,0,不分班,"現代日本社會與宗教
 RELIGION IN MODERN JAPANESE SOCIETY",3,期,True,70,1,80,-10,伊藤佳代,"三5,6,7(通GE 2006)","['', '', '567', '', '', '', '']",《講授類》,"['地方創生與區域治理微學程', '地方創生與永續發展整合學程', '日本研究學程', '台日跨文化微學程', '臺灣研究學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2230&Crsname=普世人權：觀念與挑戰,,,False,博雅向度二,GEAE2230,0,不分班,"普世人權：觀念與挑戰
-UNIVERSAL HUMAN RIGHTS: IDEAS AND CHALLENGES",3,期,True,50,9,85,-35,許家豪,"二2,3,4(海ME 3006)","['', '234', '', '', '', '', '']","《講授類》
+UNIVERSAL HUMAN RIGHTS: IDEAS AND CHALLENGES",3,期,True,50,9,84,-34,許家豪,"二2,3,4(海ME 3006)","['', '234', '', '', '', '', '']","《講授類》
 本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
 ※英語授課",['人權研究整合學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2232&Crsname=電影中的哲學,,,False,博雅向度二,GEAE2232,0,不分班,"電影中的哲學
@@ -525,13 +525,13 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE251
 LIFE SCIENCES",2,期,True,95,10,108,-13,"王亮鈞,王志騰,陳孟仙","一8,9(通GE 1010)","['89', '', '', '', '', '', '']","《講授類》
 限非生科、海資系學生修習。",['環境教育學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2514A&Crsname=生命科學,,,False,博雅向度五,GEAE2514A,0,不分班,"生命科學
-LIFE SCIENCES",2,期,True,95,8,112,-17,"劉勃佑,王敬湧","二8,9(通GE 1010)","['', '89', '', '', '', '', '']","《講授類》
+LIFE SCIENCES",2,期,True,95,8,111,-16,"劉勃佑,王敬湧","二8,9(通GE 1010)","['', '89', '', '', '', '', '']","《講授類》
 限非生科、海資系學生修習。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
 ※英語授課",['環境教育學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2519&Crsname=烹飪與科學,,,False,博雅向度五,GEAE2519,0,不分班,"烹飪與科學
 COOKING AND SCIENCE",2,期,True,50,31,52,-2,李容婷,"五3,4(西SW 1005)","['', '', '', '', '34', '', '']",《講授類》,"['地方發展與永續農業微學程', '飲食文化微學程', '生成式AI素養微學程', '食品安全學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2520&Crsname=科學的本質,,,False,博雅向度五,GEAE2520,0,不分班,"科學的本質
-NATURE OF SCIENCE",2,期,True,80,2,89,-9,劉叔秋,"四8,9(通GE 4016)","['', '', '', '89', '', '', '']","《講授類》
+NATURE OF SCIENCE",2,期,True,80,2,88,-8,劉叔秋,"四8,9(通GE 4016)","['', '', '', '89', '', '', '']","《講授類》
 本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
 ※英語授課","['台灣文化英語微學程', '全英語通識教育菁英學程', '科技與環境英語微學程', '生成式AI素養微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAE2526&Crsname=地球生命概論,,,False,博雅向度五,GEAE2526,0,不分班,"地球生命概論
@@ -814,7 +814,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY105E
 GENERAL PHYSICS (II)",3,期,True,56,0,53,3,岩本祥,"三2,3,4(工EN 0032)","['', '', '234', '', '', '', '']","《講授類》
 材光系與光電系一年級英語專班學生優先選修",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY105F&Crsname=普通物理（二）,,,False,普通物理小組,PHY105F,1,全英班,"普通物理（二）
-GENERAL PHYSICS (II)",3,期,True,50,0,74,-24,史丹哲夫,"一5,6,7(工EC 3012)","['567', '', '', '', '', '', '']","《講授類》
+GENERAL PHYSICS (II)",3,期,True,50,0,73,-23,史丹哲夫,"一5,6,7(工EC 3012)","['567', '', '', '', '', '', '']","《講授類》
 電機系一年級英語專班學生優先選修",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY107&Crsname=基礎物理,,,False,普通物理小組,PHY107,1,不分班,"基礎物理
 FUNDAMENTAL PHYSICS",3,期,True,50,0,27,23,陳易馨,"三5,6,7(理SC 1003)","['', '', '567', '', '', '', '']","《講授類》
@@ -874,7 +874,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI107
 PRACTICE OF CREATIVE BLOCKS DEVELOPMENT AND ART MANAGEMENT",3,期,False,25,0,7,18,宋世祥,"四5,6,7(西SW 1004)","['', '', '', '567', '', '', '']","《講授類》
 跨院通識與人科學程PIS2017課程併班上課",['社區文創微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1083&Crsname=閱讀中華寶島,異動,更換備註說明1/23,False,跨院選修(通),GEAI1083,0,不分班,"閱讀中華寶島
-READING THE SINO-ISLAND",3,期,False,50,1,25,25,謝薇娜,"二5,6,7(管CM 3017)","['', '567', '', '', '', '', '']","《講授類》
+READING THE SINO-ISLAND",3,期,False,50,1,24,26,謝薇娜,"二5,6,7(管CM 3017)","['', '567', '', '', '', '', '']","《講授類》
 1、本課程修習通過後，可抵免通識教育之語文素養「中文思辨與表達」【限外籍、僑外及凡於高級中等教育階段修業，以非中文為主要授課語言者（例如修習國際文憑課程〔International Baccalaureate, IB〕、自學符合同等學力、於外僑學校或國外高中畢業者）身份之學位生】。 2、課程成績仍須符合「國立中山大學西灣學院辦理學生通識教育課程抵免學分審查原則」並於規定時間辦理抵免學分手續。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=GEAI1087&Crsname=基礎阿美族語（二）,,,False,跨院選修(通),GEAI1087,0,不分班,"基礎阿美族語（二）
 BASIC AMIS LANGUAGE (II)",2,期,False,50,0,15,35,陳金結,"二3,4(通GE 3011)","['', '34', '', '', '', '', '']",《講授類》,[],False
@@ -1474,7 +1474,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL204
 ENGLISH LISTENING PRACTICE II(II)",1,期,True,50,0,23,27,曾銘裕,"一5,6,7(文LA 2001)","['567', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限本系修畢英語聽力一（一）、一（二）、英語聽力二（一）學生修習",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL206&Crsname=英語口語訓練二（二）,,,True,外文系,DFLL206,2,不分班,"英語口語訓練二（二）
-ENGLISH ORAL TRAINING II(II)",2,期,True,22,0,31,-9,李佳容,"四5,6,7(文LA 3001)","['', '', '', '567', '', '', '']","《講授類》
+ENGLISH ORAL TRAINING II(II)",2,期,True,22,0,30,-8,李佳容,"四5,6,7(文LA 3001)","['', '', '', '567', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限本系修畢「英語口語訓練一(一)、一(二)」、「英語口語訓練二(一)」學生修習",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL206A&Crsname=英語口語訓練二（二）,,,True,外文系,DFLL206A,2,不分班,"英語口語訓練二（二）
 ENGLISH ORAL TRAINING II(II)",2,期,True,22,0,18,4,林毓凱,"四5,6,7(文LA 3003)","['', '', '', '567', '', '', '']","《講授類》
@@ -1483,7 +1483,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL208
 ENGLISH WRITING II(II)",2,期,True,16,0,20,-4,盧莉茹,"三2,3,4(文LA 2003)","['', '', '234', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限本系修畢「英文寫作一(一)、一(二)」、「英文寫作二(一)」學生修習",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL208A&Crsname=英文寫作二（二）,,,True,外文系,DFLL208A,2,不分班,"英文寫作二（二）
-ENGLISH WRITING II(II)",2,期,True,16,0,18,-2,范澤凱,"三2,3,4(文LA 3012)","['', '', '234', '', '', '', '']","《講授類》
+ENGLISH WRITING II(II)",2,期,True,16,0,17,-1,范澤凱,"三2,3,4(文LA 3012)","['', '', '234', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限本系修畢「英文寫作一(一)、一(二)」、「英文寫作二(一)」學生修習",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL208B&Crsname=英文寫作二（二）,,,True,外文系,DFLL208B,2,不分班,"英文寫作二（二）
 ENGLISH WRITING II(II)",2,期,True,16,0,20,-4,黃心雅,"三3(文LA  3013) 三2,4(文LA 3013)","['', '', '234', '', '', '', '']","《講授類》
@@ -1534,7 +1534,7 @@ RUSSIAN(I)",3,期,False,20,0,17,3,米哈伊爾,"一2,3,4(文LA 3016)","['234', '
  
 ※英語授課",['西洋經典文學與文化學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL321&Crsname=英國文學：1900以後,,,True,外文系,DFLL321,3,不分班,"英國文學：1900以後
-ENGLISH LITERATURE : AFTER 1900",3,期,True,50,0,42,8,賴怡芃,"一5,6,7(文LA 3002)","['567', '', '', '', '', '', '']",《講授類》,['西洋經典文學與文化學程'],False
+ENGLISH LITERATURE : AFTER 1900",3,期,True,50,0,41,9,賴怡芃,"一5,6,7(文LA 3002)","['567', '', '', '', '', '', '']",《講授類》,['西洋經典文學與文化學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL323&Crsname=英美詩歌（二）,,,False,外文系,DFLL323,3,不分班,"英美詩歌（二）
 ENGLISH AND AMERICAN POETRY(II)",3,期,False,50,0,16,34,范澤凱,"四2,3,4(文LA 3003)","['', '', '', '234', '', '', '']","《講授類》
  
@@ -1546,9 +1546,9 @@ SHAKESPEARE IN THE CINEMA AND ON STAGE",3,期,False,50,0,7,43,鍾敬堂,"四5,6,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL331&Crsname=英文中譯（二）,,,False,外文系,DFLL331,3,不分班,"英文中譯（二）
 TRANSLATING ENGLISH TEXTS INTO CHINESE (II)",3,期,False,18,0,15,3,林毓凱,"二5,6,7(文LA 2003)","['', '567', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL334&Crsname=應用英語與溝通,,,False,外文系,DFLL334,4,不分班,"應用英語與溝通
-APPLIED ENGLISH AND COMMUNICATION",3,期,False,50,0,24,26,曾銘裕,"二5,6,7(文LA 2001)","['', '567', '', '', '', '', '']",《講授類》,[],True
+APPLIED ENGLISH AND COMMUNICATION",3,期,False,50,0,23,27,曾銘裕,"二5,6,7(文LA 2001)","['', '567', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL338&Crsname=語言評量概論,異動,更換時間1/14,False,外文系,DFLL338,3,不分班,"語言評量概論
-INTRODUCTION TO LANGUAGE ASSESSMENT",3,期,False,50,0,39,11,施智閔,"四2,3,4(海ME 3006)","['', '', '', '234', '', '', '']",《講授類》,[],True
+INTRODUCTION TO LANGUAGE ASSESSMENT",3,期,False,50,0,38,12,施智閔,"四2,3,4(海ME 3006)","['', '', '', '234', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL342&Crsname=日文（四）,異動,更換時間1/22,False,外文系,DFLL342,3,不分班,"日文（四）
 JAPANESE(IV)",3,期,False,20,1,20,0,森國松江,"一2,3,4(文LA 3013)","['234', '', '', '', '', '', '']",《講授類》,['日本研究學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL344&Crsname=西班牙文（四）,,,False,外文系,DFLL344,3,不分班,"西班牙文（四）
@@ -1564,7 +1564,7 @@ SPANISH III-2",3,期,True,15,0,5,10,李優俐,"二5,6,7(文LA 3015)","['', '567'
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL410&Crsname=德文三（二）,,,True,外文系,DFLL410,4,不分班,"德文三（二）
 GERMAN III-2",3,期,True,15,0,7,8,陳麗雅,"二5,6,7(文LA 3016)","['', '567', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL421&Crsname=美國文學：1865以後,,,True,外文系,DFLL421,4,不分班,"美國文學：1865以後
-AMERICAN LITERATURE : AFTER 1865",3,期,True,50,0,24,26,陳福仁,"一2,3,4(文LA 3001)","['234', '', '', '', '', '', '']","《講授類》
+AMERICAN LITERATURE : AFTER 1865",3,期,True,50,0,23,27,陳福仁,"一2,3,4(文LA 3001)","['234', '', '', '', '', '', '']","《講授類》
  
 ※英語授課",['西洋經典文學與文化學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=DFLL426&Crsname=小說專題：短篇小說,異動,更換教室2/25,False,外文系,DFLL426,4,不分班,"小說專題：短篇小說
@@ -2185,7 +2185,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE1004A
 CALCULUS(II)",3,期,True,50,0,26,24,陳美如,"四2,3,4(工EC 1009)","['', '', '', '234', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。甲、乙班與物理系併班上課；電機系限該班及重修生修習",['人工智慧與數學學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE1004B&Crsname=微積分（二）,,,False,電機系,EE1004B,1,全英班,"微積分（二）
-CALCULUS(II)",3,期,True,60,0,65,-5,陳美如,"五2,3,4(理SC 1005)","['', '', '', '', '234', '', '']","《講授類》
+CALCULUS(II)",3,期,True,60,0,64,-4,陳美如,"五2,3,4(理SC 1005)","['', '', '', '', '234', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。與物理系全英語班併班上課
 ※英語授課",['人工智慧與數學學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE1201&Crsname=微分方程,異動,更換教室2/17,False,電機系,EE1201,1,甲班,"微分方程
@@ -2195,7 +2195,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE1201A
 DIFFERENTIAL EQUATIONS",3,期,True,50,0,38,12,莊子肇,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課;限該班及重修生修習","['金融工程學程', '半導體製程模組學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE1201B&Crsname=微分方程,異動,調整授課方式2/14,False,電機系,EE1201B,1,全英班,"微分方程
-DIFFERENTIAL EQUATIONS",3,期,True,70,1,73,-3,吳珮歆,"三5,6,7(工EC 3012)","['', '', '567', '', '', '', '']","《講授類》
+DIFFERENTIAL EQUATIONS",3,期,True,70,1,72,-2,吳珮歆,"三5,6,7(工EC 3012)","['', '', '567', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。混成課程
 ※英語授課","['金融工程學程', '半導體製程模組學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE2007&Crsname=電工實驗（二）,,,False,電機系,EE2007,2,甲班,"電工實驗（二）
@@ -2224,7 +2224,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE2200A
 LINEAR ALGEBRA",3,期,True,75,1,60,15,蔡舜宏,"五5,6,7(工EC 1009)","['', '', '', '', '567', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課;限該班及重修生修習","['半導體元件學程', '金融工程學程', '半導體製程模組學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE2200B&Crsname=線性代數,,,False,電機系,EE2200B,1,全英班,"線性代數
-LINEAR ALGEBRA",3,期,True,80,0,74,6,高崇堯,"一2,3,4(工EC 3009)","['234', '', '', '', '', '', '']","《講授類》
+LINEAR ALGEBRA",3,期,True,80,0,73,7,高崇堯,"一2,3,4(工EC 3009)","['234', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。
 ※英語授課","['半導體元件學程', '金融工程學程', '半導體製程模組學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE2400&Crsname=電路學（一）,,,False,電機系,EE2400,1,甲班,"電路學（一）
@@ -2234,7 +2234,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE2400A
 CIRCUIT THEORY (I)",3,期,True,60,2,55,5,盧展南,"一2,3,4(工EC 1001)","['234', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。甲、乙班併班上課;限該班及重修生修習","['半導體元件學程', '半導體製程模組學程', '半導體設備工程學程', '數位IC設計學程', '類比射頻IC設計學程', '南星產業樞紐學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE2400B&Crsname=電路學（一）,,,False,電機系,EE2400B,1,全英班,"電路學（一）
-CIRCUIT THEORY (I)",3,期,True,79,2,91,-12,蘇健翔,"四2,3,4(工EC 3012)","['', '', '', '234', '', '', '']","《講授類》
+CIRCUIT THEORY (I)",3,期,True,79,2,90,-11,蘇健翔,"四2,3,4(工EC 3012)","['', '', '', '234', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。
 ※英語授課","['半導體元件學程', '半導體製程模組學程', '半導體設備工程學程', '數位IC設計學程', '類比射頻IC設計學程', '南星產業樞紐學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=EE2403&Crsname=電力電子學,,,False,電機系,EE2403,3,不分班,"電力電子學
@@ -5912,13 +5912,13 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS985&
 PRACTICAL BUSINESS ANALYTICS",3,期,True,50,0,29,21,康藝晃,"四C,D,E(管CM 2016)","['', '', '', 'CDE', '', '', '']","《講授類》
 限資電碩專班修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS987&Crsname=碩士論文（二）,,,False,資電碩專,MIS987,2,不分班,"碩士論文（二）
-MASTER THESIS（II）",3,期,True,50,0,25,25,指導教授,"日1,2,3()","['', '', '', '', '', '', '123']","《講授類》
+MASTER THESIS（II）",3,期,True,50,0,24,26,指導教授,"日1,2,3()","['', '', '', '', '', '', '123']","《講授類》
 限資電碩專班修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS988&Crsname=數位行銷分析,,,False,資電碩專,MIS988,1,不分班,"數位行銷分析
 DIGITAL MARKETING & ANALYTICS",3,期,True,50,0,28,22,羅珮綺,"一C,D,E(管CM 3051)","['CDE', '', '', '', '', '', '']","《講授類》
 限資電碩專班修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS990&Crsname=社群媒體分析,,,False,資電碩專,MIS990,2,不分班,"社群媒體分析
-SOCIAL MEDIA ANALYSIS",3,期,True,50,0,23,27,黃三益,"二C,D,E(管CM 4069)","['', 'CDE', '', '', '', '', '']","《講授類》
+SOCIAL MEDIA ANALYSIS",3,期,True,50,0,22,28,黃三益,"二C,D,E(管CM 4069)","['', 'CDE', '', '', '', '', '']","《講授類》
 限資電碩專班修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=MIS995&Crsname=研究方法論,,,False,資電碩專,MIS995,1,不分班,"研究方法論
 RESEARCH METHODOLOGY",3,期,True,50,0,28,22,陳燈能,"二C,D,E(管CM 2016)","['', 'CDE', '', '', '', '', '']","《講授類》
@@ -6742,22 +6742,22 @@ ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,�
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
 ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
 企業管理組;
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(限管院學生選修，以研究所二年級優先選課) ※英語授課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
 ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,50,2,21,29,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
