@@ -1,0 +1,62 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AF020005&Crsname=東南亞文化與文明,,,False,校際(研究所),AF020005,0,不分班,"東南亞文化與文明
+CULTURES AND CIVILIZATIONS OF SOUTHEAST ASIA",3,期,False,50,0,1,49,校際選課,"二5,6,7()","['', '567', '', '', '', '', '']","《講授類》
+文藻外語大學歐亞語文學院",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AF020006&Crsname=書經研究,,,False,校際(研究所),AF020006,0,不分班,"書經研究
+STUDIES IN SHUJING",2,年,False,50,0,2,48,校際選課,"二1,2()","['', '12', '', '', '', '', '']","《講授類》
+國立高雄師範大學經學研究所",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AF020007&Crsname=混合式訊號積體電路設計,,,False,校際(研究所),AF020007,0,不分班,"混合式訊號積體電路設計
+MIXED-SIGNAL INTEGRATED CIRCUIT",3,期,False,50,0,6,44,校際選課,"二5,6,7()","['', '567', '', '', '', '', '']","《講授類》
+國立高雄科技大學半導體工程系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AF020008&Crsname=現代詩專題研究（二）,,,False,校際(研究所),AF020008,0,不分班,"現代詩專題研究（二）
+CASE STUDY OF CONTEMPORARY POETICS(Ⅱ)",2,期,False,50,0,1,49,校際選課,"三5,6()","['', '', '56', '', '', '', '']","《講授類》
+國立高雄師範大學國文系",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AI10002&Crsname=機率與統計 ,異動,修正時間及名額1/24,False,AI聯盟(學),AI10002,0,不分班,"機率與統計 
+PROBABILITY AND STATISTICS",3,期,False,10,3,7,3,AI聯盟教師,,"['', '', '', '678EF', '', '', '']","《講授類》
+1.臺灣大學葉丙成老師。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。 3.週四14:30-17:30同步上課2/20 20:00-22:00、3/6 20:00-21:00、3/20 20:00-21:00、4/10 20:00-21:00、5/1 20:00-21:00、5/15 20:00-21:00、6/5 20:00-21:00 4.期中期末考時間：4/17及6/12 14:30-17:30","['人工智慧探索應用學分學程', '人工智慧工業應用學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AI10003&Crsname=人工智慧倫理 ,,,False,AI聯盟(學),AI10003,0,不分班,"人工智慧倫理 
+AI ETHICS",3,期,False,20,2,14,6,"AI聯盟教師,李育諭","三8,9,7(管CM 0052)","['', '', '789', '', '', '', '']","《講授類》
+1.開課單位及教師：東海大學甘偵蓉老師。本校協同教師：西灣學院李育諭助理教授 2.本課程須至實體教室進行同步遠距上課及實體活動，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。3.上課時間：每週三15:20~18:10。同步考試：4/16線上Take home exam，無法配合課程時間及同步考試時間的同學請勿選課。",['生成式AI素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AI50005&Crsname=生成式人工智慧的人文導論,異動,調整名額1/24,False,AI聯盟(碩),AI50005,0,不分班,"生成式人工智慧的人文導論
+INTRODUCING GENERATIVE AI FOR THE HUMANITIES",3,期,False,10,3,8,2,"AI聯盟教師,黃舒屏","四8,6,7(同步遠距)","['', '', '', '678', '', '', '']","《講授類》
+1.開課單位及教師：臺灣大學謝舒凱老師。本校協助教師：外文系黃舒屏副教授。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。3.上課時間：每週四 14:20-17:20。4.限人社領域(文學院、管理學院、社科院、西灣學院)學生選修5.本課程提供 Nvidia 深度學習基礎認證（非強制）。有興趣參與的同學，需預先等級，並於本課程第 13-14 週末參與線上密集課程培訓與測驗。",['生成式AI素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AI50006&Crsname=生成式AI：文字與圖像生成的原理與實務,異動,調整名額及說明1/24,False,AI聯盟(碩),AI50006,0,不分班,"生成式AI：文字與圖像生成的原理與實務
+GENERATIVE AI: TEXT AND IMAGE SYNTHESIS PRINCIPLES AND PRACTICE",3,期,False,10,1,10,0,"AI聯盟教師,劉叔秋","二8,9,C(同步遠距)","['', '89C', '', '', '', '', '']","《講授類》
+1.開課單位及教師：政治大學蔡炎龍老師。本校協同教師：西灣學院劉叔秋副教授 2.此為同步遠距課程，請使用Facebook【政大應數系直播中心】（https://facebook.com/groups/nccumathonline/）。3.上課時間：每週二 16:00-19:00。4.協助教師建議：學生需具備生成式AI基本知識。",['生成式AI素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AI50007&Crsname=深度學習,,,False,AI聯盟(碩),AI50007,0,不分班,"深度學習
+DEEP LEARNING",3,期,False,20,0,16,4,AI聯盟教師,"四B,5,6(同步遠距)","['', '', '', 'B56', '', '', '']","《講授類》
+1.開課單位及教師：陽明交通大學彭文孝、陳永昇、謝秉均老師。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。3.上課時間：每週四 12:20-15:10。4.大四以上同學選修。5.You must have access to GPU equipped with at least 6GB of memory.
+※英語授課","['生成式AI素養微學程', '人工智慧自然語言技術學分學程', '人工智慧視覺技術學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=AI50008&Crsname=機器導航與探索,,,False,AI聯盟(碩),AI50008,0,不分班,"機器導航與探索
+ROBOTIC NAVIGATION AND EXPLORATION",3,期,False,20,0,3,17,"AI聯盟教師,林俊宏","一C,D,E(同步遠距)","['CDE', '', '', '', '', '', '']","《講授類》
+1.開課單位及教師：清華大學胡敏君老師。 2.此為同步遠距課程，遠距上課位置：國立清華大學台達館106教室（遠距連結 meet.google.com/wbh-oihg-jsn）。 3.上課時間：每週一晚上6:30~9:20。4.建議學生需已修過Python程式設計、影像處理、深度學習。 學生須自備具GPU顯卡之電腦。 本課程期末專題採分組開發，為避免影響同組修課同學之權益，本課程不接受期中棄選，請謹慎評估可投入的時間再選課。",['生成式AI素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY104&Crsname=普通物理學（二）,,,False,普通物理小組,PHY104,1,不分班,"普通物理學（二）
+GENERAL PHYSICS (II)",3,期,True,50,0,32,18,陳龍銘,"一3,4(理PH 2006) 三5(理PH 2006)","['34', '', '5', '', '', '', '']","《講授類》
+本課程與普通物理學演習(二)一起規劃課程, 需與普通物理學演習(二)一起修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY105&Crsname=普通物理（二）,,,False,普通物理小組,PHY105,1,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,50,0,61,-11,呂浩宇,"三2,3,4(工EN 4055-1)","['', '', '234', '', '', '', '']","《講授類》
+化學系與機電系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY105A&Crsname=普通物理（二）,異動,更換教室2/26,False,普通物理小組,PHY105A,1,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,50,0,118,-68,陳宗緯,"三2,3,4(工EC 1001)","['', '', '234', '', '', '', '']","《講授類》
+材光系與光電系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY105B&Crsname=普通物理（二）,,,False,普通物理小組,PHY105B,1,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,50,0,69,-19,陳宗緯,"五2,3,4(工EC 6019)","['', '', '', '', '234', '', '']","《講授類》
+電機系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY105C&Crsname=普通物理（二）,,,False,普通物理小組,PHY105C,1,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,50,0,39,11,周雄,"一2,3,4(海MA 3020)","['234', '', '', '', '', '', '']","《講授類》
+海科系一、二年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY105D&Crsname=普通物理（二）,,,False,普通物理小組,PHY105D,1,全英班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,50,0,65,-15,范越芳,"三2,3,4(工EC 2003)","['', '', '234', '', '', '', '']","《講授類》
+化學系與機電系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY105E&Crsname=普通物理（二）,,,False,普通物理小組,PHY105E,1,全英班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,56,0,53,3,岩本祥,"三2,3,4(工EN 0032)","['', '', '234', '', '', '', '']","《講授類》
+材光系與光電系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY105F&Crsname=普通物理（二）,,,False,普通物理小組,PHY105F,1,全英班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,50,0,73,-23,史丹哲夫,"一5,6,7(工EC 3012)","['567', '', '', '', '', '', '']","《講授類》
+電機系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY107&Crsname=基礎物理,,,False,普通物理小組,PHY107,1,不分班,"基礎物理
+FUNDAMENTAL PHYSICS",3,期,True,50,0,27,23,陳易馨,"三5,6,7(理SC 1003)","['', '', '567', '', '', '', '']","《講授類》
+限生科系一年級學生選修，本課程無法抵免英語專班基礎物理、普通物理或普通物理學",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=2&CrsDat=PHY107A&Crsname=基礎物理,,,False,普通物理小組,PHY107A,1,全英班,"基礎物理
+FUNDAMENTAL PHYSICS",3,期,True,50,0,25,25,呂浩宇,"三5,6,7(理SC 0009)","['', '', '567', '', '', '', '']","《講授類》
+限生科系一年級英語專班學生選修，本課程無法抵免普通物理或普通物理學",[],True
