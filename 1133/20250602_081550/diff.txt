@@ -1,1 +1,0 @@
-Value of root[27]['teacher'] changed from "莊雪華" to "宋呈澔,張宇慧,施慶麟,林靜慧,莊雪華,鄭雯,陳菁徽".
