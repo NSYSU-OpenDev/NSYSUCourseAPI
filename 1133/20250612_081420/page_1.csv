@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=3&CrsDat=GEPE103&Crsname=運動與健康：初級游泳,,,False,運動健康(必),GEPE103,1,不分班,"運動與健康：初級游泳
-SPORT & HEALTH: BASIC SWIMMING",1,期,True,50,5,0,50,林宗正,"二2,3,4(游泳池) 三2,3,4(游泳池)","['', '234', '234', '', '', '', '']","《體育類》
+SPORT & HEALTH: BASIC SWIMMING",1,期,True,50,6,0,50,林宗正,"二2,3,4(游泳池) 三2,3,4(游泳池)","['', '234', '234', '', '', '', '']","《體育類》
 ★上課日期：7/15(二)~8/20(三)共計6週。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=3&CrsDat=GEPE203&Crsname=運動與健康：初級潛水,,,False,運動健康(必),GEPE203,2,不分班,"運動與健康：初級潛水
 SPORT & HEALTH: BASIC DIVING",1,期,True,35,4,0,35,林宗正,"二8,6,7(游泳池) 三8,6,7(游泳池)","['', '678', '678', '', '', '', '']","《體育類》
@@ -21,16 +21,16 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=3&CrsDat=CHEM101
 GENERAL CHEMISTRY",4,期,False,50,7,0,50,克里斯那,"一5,6,7(理CH 2002) 二5,6,7(理CH 2002) 三5,6,7(理CH 2002) 四5,6,7(理CH 2002)","['567', '567', '567', '567', '', '', '']","《講授類》
 ★上課日期：6/30(一)~8/7(四)共計6週。欲參與專案開班者請於6/17前完成選課，6/26前完成繳費。【本課程不收準大學生】",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=3&CrsDat=CHEM105&Crsname=微積分（一）,,,False,化學系,CHEM105,1,不分班,"微積分（一）
-CALCULUS(I)",3,期,False,50,14,0,50,張福春,"一2,3,4(理SC 2001) 二2,3,4(理SC 2001) 四2,3,4(理SC 2001)","['234', '234', '', '234', '', '', '']","《講授類》
+CALCULUS(I)",3,期,False,50,15,0,50,張福春,"一2,3,4(理SC 2001) 二2,3,4(理SC 2001) 四2,3,4(理SC 2001)","['234', '234', '', '234', '', '', '']","《講授類》
 為符合各系抵免標準，本課程授課內容為理工學院程度，非理、工、海洋學院學生如欲選修請謹慎考量。應數系及英語班學生不可選修。★上課日期：7/14(一)~8/21(四)共計6週。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=3&CrsDat=CHEM106&Crsname=微積分（二）,,,False,化學系,CHEM106,1,不分班,"微積分（二）
-CALCULUS(II)",3,期,False,50,14,0,50,莊秉樺,"一5,6,7(理SC 2001) 三2,3,4(理SC 2001) 五2,3,4(理SC 2001)","['567', '', '234', '', '234', '', '']","《講授類》
+CALCULUS(II)",3,期,False,50,15,0,50,莊秉樺,"一5,6,7(理SC 2001) 三2,3,4(理SC 2001) 五2,3,4(理SC 2001)","['567', '', '234', '', '234', '', '']","《講授類》
 為符合各系抵免標準，本課程授課內容為理工學院程度，非理、工、海洋學院學生如欲選修請謹慎考量。應數系及英語班學生不可選修。★上課日期：7/14(一)~8/22(五)共計6週。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=3&CrsDat=EE2101&Crsname=電子學（二）,,,False,電機系,EE2101,2,不分班,"電子學（二）
-ELECTRONICS (II)",3,期,False,50,8,0,50,馬誠佑,,"['234', '234', '234', '234', '234', '', '']","《講授類》
+ELECTRONICS (II)",3,期,False,50,10,0,50,馬誠佑,,"['234', '234', '234', '234', '234', '', '']","《講授類》
 7/9(三)~8/11(一)，共 計54⼩時。【限重修生選修。本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=3&CrsDat=EE4011&Crsname=電機工程國際研習,,,False,電機系,EE4011,0,不分班,"電機工程國際研習
-OVERSEA STUDY ON ELECTRICAL ENGINEERING",2,期,False,50,17,0,50,李宗璘,"一5,6,7(韓國參訪實習) 二5,6,7(韓國參訪實習)","['567', '567', '', '', '', '', '']","《演講/參訪》
+OVERSEA STUDY ON ELECTRICAL ENGINEERING",2,期,False,50,19,0,50,李宗璘,"一5,6,7(韓國參訪實習) 二5,6,7(韓國參訪實習)","['567', '567', '', '', '', '', '']","《演講/參訪》
 本課程為南韓參訪實習，限已申請參與出國學生修習。【本課程不開放準大學生修習】",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=113&SEM=3&CrsDat=MEME208&Crsname=機動學,,,False,機電系,MEME208,2,全英班,"機動學
 MECHANISM",3,期,False,50,3,0,50,王郁仁,"一2,3,4(工EN 3021) 三2,3,4(工EN 3021) 五2,3,4(工EN 3021)","['234', '', '234', '', '234', '', '']","《講授類》
