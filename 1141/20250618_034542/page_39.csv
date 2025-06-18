@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4713&Crsname=多維度媒體工程實務,,,False,電機系,EE4713,3,不分班,"多維度媒體工程實務
+PRACTICAL ENGINEERING IN MULTIDIMENSIONAL MULTIMEDIA",3,期,False,50,0,0,50,邱日清,"五8,6,7(工EC 6018)","['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4808&Crsname=電機工程進階實作專案,,,False,電機系,EE4808,4,不分班,"電機工程進階實作專案
+ADVANCED ELECTRICAL ENGINEERING PROJECT",3,期,False,50,0,0,50,康斯証,一A(工EC 6013) 二A(工EC 6013)(實驗) 三A(工EC 6013)(實驗) 四A(工EC 6013)(實驗) 五A(工EC 6013)(實驗),"['A', 'A', 'A', 'A', 'A', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME101&Crsname=微積分（一）,,,False,機電系,MEME101,1,甲班,"微積分（一）
+CALCULUS(I)",3,期,True,50,0,0,50,鍾思齊,"五2,3,4(工EN 4055-1)","['', '', '', '', '234', '', '']","《講授類》
+一甲、一乙併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME101A&Crsname=微積分（一）,,,False,機電系,MEME101A,1,乙班,"微積分（一）
+CALCULUS(I)",3,期,True,50,0,0,50,鍾思齊,"五2,3,4(工EN 4055-1)","['', '', '', '', '234', '', '']","《講授類》
+一甲、一乙併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME101B&Crsname=微積分（一）,,,False,機電系,MEME101B,1,全英班,"微積分（一）
+CALCULUS(I)",3,期,True,50,0,0,50,余冠儒,"五2,3,4(理SC 1005)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME102&Crsname=圖學,,,False,機電系,MEME102,1,甲班,"圖學
+GRAPHICS",2,期,True,50,0,0,50,郭清德,"四5,6(工EN 4055-2)","['', '', '', '56', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME102A&Crsname=圖學,,,False,機電系,MEME102A,1,乙班,"圖學
+GRAPHICS",2,期,True,50,0,0,50,郭清德,"四8,7(工EN 4055-2)","['', '', '', '78', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME102B&Crsname=圖學,,,False,機電系,MEME102B,1,全英班,"圖學
+GRAPHICS",2,期,True,50,0,0,50,王郁仁,"一6,7(工EN 4055-2)","['67', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME103&Crsname=工程電腦程式,,,False,機電系,MEME103,1,甲班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,True,50,0,0,50,朱訓鵬,"四2,3,4(工EN 4055-2)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME103A&Crsname=工程電腦程式,,,False,機電系,MEME103A,1,乙班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,True,50,0,0,50,朱訓鵬,"一2,3,4(工EN 4055-2)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME103B&Crsname=工程電腦程式,,,False,機電系,MEME103B,1,全英班,"工程電腦程式
+ENGINEERING COMPUTER PROGRAMMING",3,期,True,50,0,0,50,劉耿豪,"五5,6,7(工EN 4055-2)","['', '', '', '', '567', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME105&Crsname=應用力學（一）,,,False,機電系,MEME105,1,甲班,"應用力學（一）
+APPLIED MECHANICS (I)",3,期,True,50,0,0,50,吳美玲,"三2,3,4(工EN 4055-1)","['', '', '234', '', '', '', '']","《講授類》
+一甲、一乙併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME105A&Crsname=應用力學（一）,,,False,機電系,MEME105A,1,乙班,"應用力學（一）
+APPLIED MECHANICS (I)",3,期,True,50,0,0,50,吳美玲,"三2,3,4(工EN 4055-1)","['', '', '234', '', '', '', '']","《講授類》
+一甲、一乙併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME105B&Crsname=應用力學（一）,,,False,機電系,MEME105B,1,全英班,"應用力學（一）
+APPLIED MECHANICS (I)",3,期,True,50,0,0,50,盧威廷,"二5,6,7(工EN 3021)","['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME108&Crsname=工程化學,,,False,機電系,MEME108,1,不分班,"工程化學
+ENGINEERING CHEMISTRY",3,期,False,50,0,0,50,林哲信,"四2,3,4(工EN 3021)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME201&Crsname=工程數學（一）,,,False,機電系,MEME201,2,甲班,"工程數學（一）
+ENGINEERING MATHEMATICS(I)",3,期,True,50,0,0,50,劉耿豪,"三5,6,7(工EN 4055-1)","['', '', '567', '', '', '', '']","《講授類》
+二甲、二乙併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME201A&Crsname=工程數學（一）,,,False,機電系,MEME201A,2,乙班,"工程數學（一）
+ENGINEERING MATHEMATICS(I)",3,期,True,50,0,0,50,劉耿豪,"三5,6,7(工EN 4055-1)","['', '', '567', '', '', '', '']","《講授類》
+二甲、二乙併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME201B&Crsname=工程數學（一）,,,False,機電系,MEME201B,2,全英班,"工程數學（一）
+ENGINEERING MATHEMATICS(I)",3,期,True,50,0,0,50,汪正祺,"二2,3,4(工EC 2006)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME203&Crsname=熱力學,,,False,機電系,MEME203,2,甲班,"熱力學
+THERMODYNAMICS",3,期,True,50,0,0,50,郭振坤,"一5,6,7(工EN 4055-1)","['567', '', '', '', '', '', '']","《講授類》
+二甲、二乙併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME203A&Crsname=熱力學,,,False,機電系,MEME203A,2,乙班,"熱力學
+THERMODYNAMICS",3,期,True,50,0,0,50,郭振坤,"一5,6,7(工EN 4055-1)","['567', '', '', '', '', '', '']","《講授類》
+二甲、二乙併班上課",[],False
