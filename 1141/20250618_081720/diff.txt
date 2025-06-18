@@ -1,0 +1,5 @@
+Item root[1004] removed from iterable.
+Item root[1005] removed from iterable.
+Value of root[461]['teacher'] changed from "游詠晴" to "待聘".
+Value of root[462]['teacher'] changed from "游詠晴" to "待聘".
+Value of root[1330]['teacher'] changed from "游詠晴" to "待聘".

@@ -1,0 +1,51 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IICD525&Crsname=通訊介面IC設計,,,False,積體電路碩,IICD525,0,不分班,"通訊介面IC設計
+IC DESIGN FOR COMMUNICATION INTERFACES",3,期,False,50,0,0,50,王朝欽,"四2,3,4(工EC 2010)","['', '', '', '234', '', '', '']","《講授類》
+與電機碩併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IICD526&Crsname=類比積體電路設計,,,False,積體電路碩,IICD526,0,不分班,"類比積體電路設計
+ANALOG INTEGRATED CIRCUIT DESIGN",3,期,False,50,0,0,50,郭可驥,"一5,6,7(工EC 5007)","['567', '', '', '', '', '', '']","《講授類》
+與資工碩併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IICD529&Crsname=嵌入式系統實務,,,False,積體電路碩,IICD529,0,不分班,"嵌入式系統實務
+EMBEDDED SYSTEMS PRACTICE",3,期,False,30,0,0,30,李博明,"五5,6,7(工EC 6010-2)","['', '', '', '', '567', '', '']","《講授類》
+學生需自備1TB以上的2.5吋外接硬碟",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IICD530&Crsname=數位電路設計與驗證,,,False,積體電路碩,IICD530,0,不分班,"數位電路設計與驗證
+DIGITAL CIRCUIT DESIGN AND VERIFICATION",3,期,False,50,0,0,50,邱日清,"四5,6,7(工EC 6018)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IICD580&Crsname=高等數位電路設計專題,,,False,積體電路碩,IICD580,0,不分班,"高等數位電路設計專題
+INDEPENDENT STUDIES IN ADVANCED DIGITAL CIRCUIT DESIGN",3,期,False,50,0,0,50,施信毓,"一8,6,7(工EC 2018)","['678', '', '', '', '', '', '']","《獨立研究》
+與電機碩併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IICD582&Crsname=積體電路佈局專題,,,False,積體電路碩,IICD582,0,不分班,"積體電路佈局專題
+INDEPENDENT STUDIES IN IC LAYOUT",3,期,False,50,0,0,50,李宗哲,"二2,3,4(工EC 6015-2)","['', '234', '', '', '', '', '']","《獨立研究》
+與電機碩併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IICD583&Crsname=積體電路系統測試專題,,,False,積體電路碩,IICD583,0,不分班,"積體電路系統測試專題
+INDEPENDENT STUDIES IN VLSI TESTING",3,期,False,50,0,0,50,謝東佑,"一8,6,7(工EC 8037)","['678', '', '', '', '', '', '']","《獨立研究》
+與電機碩併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IICD584&Crsname=類比與混合訊號積體電路設計專題,,,False,積體電路碩,IICD584,0,不分班,"類比與混合訊號積體電路設計專題
+INDEPENDENT STUDIES IN THE ANALOG AND MIXED-SIGNAL INTEGRATED CIRCUIT DESIGN",3,期,False,50,0,0,50,郭可驥,"一2,3,4(工EC 5007)","['234', '', '', '', '', '', '']","《獨立研究》
+與資工碩併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE506&Crsname=計算機結構,,,False,資安碩,CSE506,1,不分班,"計算機結構
+COMPUTER ARCHITECTURES",3,期,True,50,0,0,50,李淑敏,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE511&Crsname=演算法設計與分析,,,False,資安碩,CSE511,1,不分班,"演算法設計與分析
+ALGORITHM DESIGN AND ANALYSIS",3,期,True,50,0,0,50,楊昌彪,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE512&Crsname=密碼學,,,False,資安碩,CSE512,1,不分班,"密碼學
+CRYPTOGRAPHY",3,期,True,50,0,0,50,克拉迪,"四2,3,4(工EC 9031)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE516&Crsname=高等電腦網路,,,False,資安碩,CSE516,1,不分班,"高等電腦網路
+ADVANCED COMPUTER NETWORKS",3,期,True,50,0,0,50,林俊宏,"三2,3,4(工EC 5012)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE518&Crsname=數位簽章機制與應用,,,False,資安碩,CSE518,2,不分班,"數位簽章機制與應用
+DIGITAL SIGNATURE SCHEMES AND APPLICATIONS",3,期,True,50,0,0,50,克拉迪,"一8,6,7(工EC 1005)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE519&Crsname=駭客攻防與電腦鑑識技術,,,False,資安碩,CSE519,2,不分班,"駭客攻防與電腦鑑識技術
+HACK TECHNOLOGY & COMPUTER FORENSIC",3,期,True,50,0,0,50,王智弘,"五2,3,4(圖IL PC02)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE521&Crsname=高等作業系統,,,False,資安碩,CSE521,1,不分班,"高等作業系統
+ADVANCED OPERATING SYSTEMS",3,期,True,50,0,0,50,王友群,"四8,6,7(工EC 9032)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE526&Crsname=書報討論（一）,,,False,資安碩,CSE526,1,不分班,"書報討論（一）
+SEMINAR I",1,期,True,50,0,0,50,陳嘉平,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+限本系大四生及碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE528&Crsname=書報討論（三）,,,False,資安碩,CSE528,2,不分班,"書報討論（三）
+SEMINAR III",1,期,True,50,0,0,50,陳嘉平,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+限本系大四生及碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE721&Crsname=資訊安全理論與實務,,,False,資安碩,CSE721,2,不分班,"資訊安全理論與實務
+INFORMATION SECURITY THEORY AND PRACTICE",3,期,True,50,0,0,50,徐瑞壕,"三2,3,4(工EC 9031)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE723&Crsname=網路安全專題,,,False,資安碩,CSE723,0,不分班,"網路安全專題
+INDEPENDENT STUDIES IN CYBERSECURITY",3,期,False,50,0,0,50,克拉迪,"二2,3,4(工EC 5026)","['', '234', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOS501&Crsname=書報討論,,,False,前瞻應材,MOS501,1,不分班,"書報討論
+SEMINAR",1,期,True,50,0,0,50,葉昀昇,"三6,7(工EN 2028)","['', '', '67', '', '', '', '']",《研討類》,[],False
