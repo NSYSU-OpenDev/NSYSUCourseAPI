@@ -1,0 +1,51 @@
+Item root[450]['classTime'][1] added to iterable.
+Item root[450]['classTime'][2] added to iterable.
+Item root[1604]['classTime'][1] added to iterable.
+Item root[450]['classTime'][0] removed from iterable.
+Item root[1604]['classTime'][2] removed from iterable.
+Item root[214] removed from iterable.
+Item root[1319] removed from iterable.
+Repetition change for item root[450]['classTime'][1].
+Type of root[423]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[423]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室6/18".
+Type of root[885]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[885]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室6/18".
+Type of root[450]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[450]['changeDescription'] changed from NoneType to str and value changed from None to "6/18".
+Type of root[904]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[904]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室6/18".
+Type of root[1325]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1325]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間6/18".
+Type of root[1326]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1326]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間6/18".
+Type of root[1327]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1327]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間6/18".
+Type of root[1604]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1604]['changeDescription'] changed from NoneType to str and value changed from None to "修正時間6/18".
+Type of root[1750]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1750]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室6/18".
+Type of root[2681]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2681]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室6/18".
+Value of root[205]['room'] changed from "二5,6,7(文LA 3003)" to "一5,6,7(文LA 3004)".
+Value of root[205]['description'] changed from "《講授類》
+建議修畢本校通識英語文「英文中高級」課程，或具備相當於CEFR B2(含)以上英文程度學生修習。跨院通識與外文系DFLL222課程併班上課" to "《講授類》
+跨院通識與外文系DFLL222課程併班上課".
+Value of root[418]['teacher'] changed from "待聘" to "溫惠珍".
+Value of root[423]['room'] changed from "二5,6,7(文LA 3003)" to "一5,6,7(文LA 3004)".
+Value of root[436]['teacher'] changed from "待聘" to "徐淑瑛".
+Value of root[436]['english'] changed from True to False.
+Value of root[885]['room'] changed from "四2,3,4(工MS 4023)" to "四2,3,4(工MS 4022)".
+Value of root[450]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL444&Crsname=英語文法與教學" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES312&Crsname=相變化".
+Value of root[450]['department'] changed from "外文系" to "材光系".
+Value of root[450]['id'] changed from "DFLL444" to "MOES312".
+Value of root[450]['grade'] changed from "4" to "3".
+Value of root[450]['name'] changed from "英語文法與教學
+ENGLISH GRAMMAR FOR FOREIGN LANGUAGE EDUCATION" to "相變化
+PHASE TRANSFORMATION".
+Value of root[450]['teacher'] changed from "徐淑瑛" to "張六文".
+Value of root[450]['room'] changed from "一5,6,7(文LA 3003)" to "二3,4(工MS 4022) 三2(工MS 4023)".
+Value of root[450]['english'] changed from True to False.
+Value of root[904]['room'] changed from "三2,3,4(工MS 4019)" to "一2,3,4(工MS 4022)".
+Value of root[1604]['room'] changed from "三D(工EC 1004) 三E,F(工EV 3016)(實驗)" to "二C,D(工EC 1004) 二E,F(工EV 3016)(實驗)".
+Value of root[1750]['room'] changed from "四2,3,4(工MS 4025)" to "二2,3,4(工MS 4019)".
+Value of root[2681]['room'] changed from "四2,3,4(工MS 4025)" to "二2,3,4(工MS 4019)".
