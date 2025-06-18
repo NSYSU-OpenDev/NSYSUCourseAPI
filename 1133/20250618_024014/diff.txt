@@ -1,0 +1,4 @@
+Value of root[10]['selected'] changed from 0 to 2.
+Value of root[10]['remaining'] changed from 50 to 48.
+Value of root[22]['selected'] changed from 0 to 2.
+Value of root[22]['remaining'] changed from 50 to 48.
