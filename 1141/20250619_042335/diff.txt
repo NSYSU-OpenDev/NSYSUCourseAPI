@@ -1,0 +1,6 @@
+Value of root[1803]['room'] changed from "四2,3,4(EC 1006)" to "四2,3,4(工EC 1006)".
+Value of root[2495]['description'] changed from "《講授類》" to "《講授類》
+企業管理組;
+企業管理系;《講授類》".
+Value of root[2679]['room'] changed from "四2,3,4(EC 1006)" to "四2,3,4(工EC 1006)".
+Value of root[2680]['room'] changed from "四2,3,4(EC 1006)" to "四2,3,4(工EC 1006)".
