@@ -1,0 +1,2 @@
+Type of root[2422]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2422]['changeDescription'] changed from NoneType to str and value changed from None to "修正部份時間6/19".
