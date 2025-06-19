@@ -1,0 +1,10 @@
+Item root[2497] added to iterable.
+Item root[2502] added to iterable.
+Value of root[2495]['description'] changed from "《講授類》
+企業管理組;
+企業管理系;《講授類》" to "《講授類》
+企業管理組;".
+Value of root[2496]['description'] changed from "《講授類》
+企業管理組;
+企業管理組;《講授類》" to "《講授類》
+企業管理組;".
