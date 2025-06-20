@@ -1,0 +1,48 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MED164&Crsname=智慧醫療：台灣醫療體系導覽,,,False,醫學院,MED164,0,不分班,"智慧醫療：台灣醫療體系導覽
+SMART HEALTHCARE: A GUIDE TO TAIWAN’S HEALTHCARE SYSTEM",2,期,False,20,0,0,20,張博智,"四3,4(醫IL 9010)","['', '', '', '34', '', '', '']","《講授類》
+限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MED167&Crsname=身心健康醫學講座,,,False,醫學院,MED167,0,不分班,"身心健康醫學講座
+SPECIAL LECTURES ON PHYSICAL AND MENTAL HEALTH",2,期,False,30,0,0,30,"余靈珊,王文宏","一5,6(醫IL 3017)","['56', '', '', '', '', '', '']","《講授類》
+限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MED168&Crsname=中醫暨整合醫學,,,False,醫學院,MED168,0,不分班,"中醫暨整合醫學
+CHINESE AND INTEGRATIVE MEDICINE",2,期,False,20,0,0,20,謝孟倉,"四3,4(醫IL 9012)","['', '', '', '34', '', '', '']","《講授類》
+限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CL504&Crsname=治學方法,,,False,中文碩,CL504,1,不分班,"治學方法
+RESEARCH METHODS",3,期,True,50,0,0,50,"杜佳倫,紀志昌,莫加南","三5,6,7(文LA 4012)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CL505&Crsname=專題研究,,,False,中文碩,CL505,0,不分班,"專題研究
+INDEPENDENT STUDIES",1,期,False,50,0,0,50,羅景文,五5(文LA 6034),"['', '', '', '', '5', '', '']","《獨立研究》
+限二年級以上且已確定指導教授之碩博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CL517&Crsname=中國書法美學,,,False,中文碩,CL517,0,不分班,"中國書法美學
+THE AESTHETICS OF CHINESE CALLIGRAPHY",3,期,False,50,0,0,50,陳秋宏,"三2,3,4(文LA 5004)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CL533&Crsname=中國園林文學專題,,,False,中文碩,CL533,0,不分班,"中國園林文學專題
+SEMINAR ON CHINESE GARDEN LITERATURE",3,期,False,50,0,0,50,林孜曄,"一2,3,4(文LA 4014)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CL534&Crsname=臺灣當代文學研究（一）,,,False,中文碩,CL534,0,不分班,"臺灣當代文學研究（一）
+CONTEMPORARY TAIWAN LITERATURE STUDIES (I)",3,期,False,50,0,0,50,黃資婷,"五2,3,4(文LA 4014)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CL582&Crsname=歐美漢學專題,,,False,中文碩,CL582,0,不分班,"歐美漢學專題
+SPECIAL TOPICS IN SINOLOGY OF EUROPE AND THE U.S.",3,期,False,50,0,0,50,待聘,"二2,3,4(文LA 4013)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CL604&Crsname=春秋今文學（一）,,,False,中文碩,CL604,0,不分班,"春秋今文學（一）
+STUDIES IN CHUN-CHIU CLASSICS(I)",3,期,False,50,0,0,50,楊濟襄,"二5,6,7(文LA 4012)","['', '567', '', '', '', '', '']","《講授類》
+碩博合開",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CL637&Crsname=歷史與敘事,,,False,中文碩,CL637,0,不分班,"歷史與敘事
+HISTORY AND NARRATIVE",3,期,False,50,0,0,50,江政寬,"四2,3,4(文LA 4012)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CL638&Crsname=陽明後學研究,,,False,中文碩,CL638,0,不分班,"陽明後學研究
+STUDIES ON THE POST-YANGMING SCHOOL",3,期,False,50,0,0,50,吳孟謙,"三2,3,4(文LA 4013)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CL678&Crsname=雙語和雙文化教學專題,,,False,中文碩,CL678,0,不分班,"雙語和雙文化教學專題
+SEMINAR IN BILINGUAL AND BICULTURAL EDUCATION",3,期,False,50,0,0,50,蘇凰蘭,"四2,3,4(文LA 4013)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL501&Crsname=學術寫作與書目學,,,True,外文碩,DFLL501,1,不分班,"學術寫作與書目學
+ACADEMIC WRITING AND BIBLIOGRAPHY",3,期,True,50,0,0,50,洪敏秀,"三2,3,4(文LA 3018)","['', '', '234', '', '', '', '']","《講授類》
+碩士班甲組",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL504&Crsname=研究方法與學術寫作,,,True,外文碩,DFLL504,1,不分班,"研究方法與學術寫作
+RESEARCH METHODS AND ACADEMIC WRITING",3,期,True,50,0,0,50,曾銘裕,"一2,3,4(文LA 3017)","['234', '', '', '', '', '', '']","《講授類》
+碩士班乙組",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL613&Crsname=維多利亞文學：詩歌,,,False,外文碩,DFLL613,0,不分班,"維多利亞文學：詩歌
+VICTORIAN LITERATURE : POETRY",3,期,False,50,0,0,50,賴淑芳,"三5,6,7(文LA 3018)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL633&Crsname=拉崗精神分析,,,False,外文碩,DFLL633,0,不分班,"拉崗精神分析
+LACANIAN PSYCHOANALYSIS",3,期,False,50,0,0,50,陳福仁,"二2,3,4(文LA 3018)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL647&Crsname=記憶與文學,,,False,外文碩,DFLL647,0,不分班,"記憶與文學
+MEMORY AND LITERATURE",3,期,False,50,0,0,50,黃心雅,"二5,6,7(文LA 3018)","['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL662&Crsname=譬喻、認知與創意,,,False,外文碩,DFLL662,0,不分班,"譬喻、認知與創意
+METAPHOR, COGNITION, AND CREATIVITY",3,期,False,50,0,0,50,曾銘裕,"三2,3,4(文LA 3017)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL663&Crsname=語言與社會,,,False,外文碩,DFLL663,0,不分班,"語言與社會
+LANGUAGE AND SOCIETY",3,期,False,50,0,0,50,白士禮,"二2,3,4(文LA 3017)","['', '234', '', '', '', '', '']",《講授類》,[],True
