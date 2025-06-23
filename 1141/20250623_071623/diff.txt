@@ -1,0 +1,36 @@
+Item root[1203]['classTime'][3] added to iterable.
+Item root[1321] added to iterable.
+Item root[2022]['classTime'][4] added to iterable.
+Item root[2023]['classTime'][2] added to iterable.
+Item root[2024]['classTime'][1] added to iterable.
+Item root[2025]['classTime'][2] added to iterable.
+Item root[2026]['classTime'][1] added to iterable.
+Item root[2027]['classTime'][4] added to iterable.
+Item root[2028]['classTime'][4] added to iterable.
+Item root[2029]['classTime'][3] added to iterable.
+Item root[2030]['classTime'][4] added to iterable.
+Item root[2031]['classTime'][0] added to iterable.
+Item root[2032]['classTime'][0] added to iterable.
+Item root[1203]['classTime'][3] removed from iterable.
+Repetition change for item root[2022]['classTime'][0].
+Repetition change for item root[2023]['classTime'][0].
+Repetition change for item root[2024]['classTime'][0].
+Repetition change for item root[2025]['classTime'][0].
+Repetition change for item root[2026]['classTime'][0].
+Repetition change for item root[2027]['classTime'][0].
+Repetition change for item root[2028]['classTime'][0].
+Repetition change for item root[2029]['classTime'][0].
+Repetition change for item root[2030]['classTime'][0].
+Repetition change for item root[2031]['classTime'][0].
+Repetition change for item root[2032]['classTime'][0].
+Value of root[2022]['room'] changed from "" to "五8,9(海MA 2052)(實驗)".
+Value of root[2023]['room'] changed from "" to "三5,6,7(海MA 2052)".
+Value of root[2024]['room'] changed from "" to "二2,3,4(海MA 2052)".
+Value of root[2025]['room'] changed from "" to "三2,3,4(海MA 2052)".
+Value of root[2026]['room'] changed from "" to "二8,6,7(海MA 2052)".
+Value of root[2027]['room'] changed from "" to "五6,7(海MA 2052)".
+Value of root[2028]['room'] changed from "" to "五6,7(海MA 1020)".
+Value of root[2029]['room'] changed from "" to "四2,3,4(海MA 2052)".
+Value of root[2030]['room'] changed from "" to "五2,3,4(海MA 2052)".
+Value of root[2031]['room'] changed from "" to "一3,4(海MA 2052)".
+Value of root[2032]['room'] changed from "" to "一1,2(海MA 2052)".
