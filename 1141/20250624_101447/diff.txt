@@ -1,0 +1,10 @@
+Type of root[2367]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2367]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間6/24".
+Value of root[1206]['grade'] changed from "0" to "1".
+Value of root[1207]['grade'] changed from "0" to "1".
+Value of root[1208]['grade'] changed from "0" to "1".
+Value of root[1221]['grade'] changed from "0" to "2".
+Value of root[1222]['grade'] changed from "0" to "2".
+Value of root[1223]['grade'] changed from "0" to "2".
+Value of root[1240]['grade'] changed from "0" to "3".
+Value of root[2367]['room'] changed from "三E,F(圖資博士廳)" to "四E,F(圖資博士廳)".
