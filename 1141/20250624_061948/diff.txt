@@ -1,0 +1,11 @@
+Item root[2100]['classTime'][0] added to iterable.
+Item root[2100]['classTime'][3] removed from iterable.
+Type of root[2100]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[2100]['changeDescription'] changed from NoneType to str and value changed from None to "6/24".
+Value of root[2100]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS609&Crsname=金融時事分析" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS594&Crsname=總體經濟學（一）".
+Value of root[2100]['id'] changed from "CAPS609" to "CAPS594".
+Value of root[2100]['name'] changed from "金融時事分析
+FINANCIAL NEWS AND ANALYSES" to "總體經濟學（一）
+MACROECONOMICS I".
+Value of root[2100]['credit'] changed from "2" to "3".
+Value of root[2100]['room'] changed from "四6,7(社SS 2007)" to "一5,6,7(社SS 2007)".
