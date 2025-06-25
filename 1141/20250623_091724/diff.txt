@@ -1,2 +1,0 @@
-Type of root[301]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[301]['changeDescription'] changed from NoneType to str and value changed from None to "修正部份時間6/23".
