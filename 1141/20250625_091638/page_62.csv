@@ -2,13 +2,13 @@ url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,c
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM221&Crsname=腫瘤學,,,False,後醫學系,DPBM221,2,不分班,"腫瘤學
 ONCOLOGY",1,期,True,50,0,0,50,"劉婷婷,王文宏,王金洲,葉明倫,趙敏吾,陳彥樺",,"['4', '345678', '234', '234678', '67', '', '']","《醫學類》
 限後醫系修習",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM235&Crsname=藥物科技,,,False,後醫學系,DPBM235,0,不分班,"藥物科技
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM235&Crsname=藥物科技,,,False,後醫學系,DPBM235,2,不分班,"藥物科技
 PHARMACEUTICAL TECHNOLOGY",2,期,False,50,0,0,50,陳亮傑,"三5,6(醫IL 9017)","['', '', '56', '', '', '', '']","《講授類》
 限後醫系修習",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM236&Crsname=組織學研究法,,,False,後醫學系,DPBM236,0,不分班,"組織學研究法
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM236&Crsname=組織學研究法,,,False,後醫學系,DPBM236,2,不分班,"組織學研究法
 RESEARCH METHODS IN HISTOLOGY",2,期,False,50,0,0,50,甘祐瑜,"三5,6(醫IL 9018)","['', '', '56', '', '', '', '']","《講授類》
 限後醫系修習",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM237&Crsname=基礎臨床核心課程與案例分析,,,False,後醫學系,DPBM237,0,不分班,"基礎臨床核心課程與案例分析
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM237&Crsname=基礎臨床核心課程與案例分析,,,False,後醫學系,DPBM237,2,不分班,"基礎臨床核心課程與案例分析
 BASIC CLINICAL CORE CURRICULUM AND CASE ANALYSIS",1,期,False,50,0,0,50,"待聘,朱國安,林明毅,陳建良",三7(醫IL 9014),"['', '', '7', '', '', '', '']","《講授類》
 限後醫系修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM302&Crsname=內科學實習（一）,,,False,後醫學系,DPBM302,3,不分班,"內科學實習（一）
@@ -39,7 +39,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM318
 CLINICAL NUTRITION",1,期,True,50,0,0,50,李容婷,,"['236789', '2346789', '23467', '', '', '', '']","《醫學類》
 限後醫系修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM319&Crsname=麻醉學,,,False,後醫學系,DPBM319,3,不分班,"麻醉學
-ANESTHESIOLOGY",1,期,True,50,0,0,50,"何淳寧,洪國全,葉明倫,邢中熹,陳秀玲",,"['', '', '', '12345678', '3', '', '']","《醫學類》
+ANESTHESIOLOGY",1,期,True,50,0,0,50,"何淳寧,洪國全,葉明倫,邢中熹",,"['', '', '', '12345678', '3', '', '']","《醫學類》
 限後醫系修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM320&Crsname=實證醫學,,,False,後醫學系,DPBM320,2,不分班,"實證醫學
 EVIDENCE-BASED MEDICINE",1,期,True,50,0,0,50,陳彥旭,,"['567', '', '', '567', '567', '', '']","《醫學類》
