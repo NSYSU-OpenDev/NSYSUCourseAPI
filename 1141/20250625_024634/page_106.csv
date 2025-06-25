@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS609&Crsname=金融時事分析,,,False,亞太碩,CAPS609,1,不分班,"金融時事分析
-FINANCIAL NEWS AND ANALYSES",2,期,False,50,0,0,50,林雅淇,"四6,7(社SS 2007)","['', '', '', '67', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS605&Crsname=應用計量分析（一）,,,False,亞太碩,CAPS605,1,不分班,"應用計量分析（一）
+APPLIED ECONOMETRICS ANALYSIS (I)",3,期,False,50,0,0,50,陳珮芬,"四2,3,4(社SS 2007)","['', '', '', '234', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS628&Crsname=美國法律與制度,,,False,亞太碩,CAPS628,2,不分班,"美國法律與制度
 LAW AND LEGAL SYSTEM OF THE UNITED STATES",3,期,False,50,0,0,50,楊健弘,"五8,6,7(社SS 2009-1)","['', '', '', '', '678', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS629&Crsname=財經資料預測：機器學習方法應用,,,False,亞太碩,CAPS629,1,不分班,"財經資料預測：機器學習方法應用
