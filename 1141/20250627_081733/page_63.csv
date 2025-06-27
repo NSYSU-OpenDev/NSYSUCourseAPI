@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM304&Crsname=婦產科學實習（一）,,,False,後醫學系,DPBM304,3,不分班,"婦產科學實習（一）
+CLERKSHIP IN OBSTETRICS AND GYNECOLOGY(I)",4,年,True,23,0,0,23,"待聘,林立德",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM305&Crsname=兒科學實習（一）,,,False,後醫學系,DPBM305,3,不分班,"兒科學實習（一）
+CLERKSHIP IN PEDIATRICS(I)",4,年,True,23,0,0,23,"待聘,蕭志誠",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM308&Crsname=復健科學實習,,,False,後醫學系,DPBM308,3,不分班,"復健科學實習
+CLERKSHIP IN REHABILITATION MEDICINE",2,年,True,23,0,0,23,"劉亦修,待聘",,"['12345678', '12345678', '1234567', '123456789', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM309&Crsname=家庭醫學實習,,,False,後醫學系,DPBM309,3,不分班,"家庭醫學實習
+CLERKSHIP IN FAMILY MEDICINE",2,年,True,23,0,0,23,"待聘,駱聰成",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM316&Crsname=急重症醫學,,,False,後醫學系,DPBM316,3,不分班,"急重症醫學
+EMERGENCY AND CRITICAL CARE",1,期,True,50,0,0,50,"洪士強,王慧婷,陳德全",,"['', '123456789', '', '', '', '', '']","《醫學類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM317&Crsname=醫療政策與法律,,,False,後醫學系,DPBM317,3,不分班,"醫療政策與法律
+HEALTHCARE POLICY AND LAW",1,期,True,50,0,0,50,"張博智,蘇昱日,陳德全",,"['', '', '1234567', '', '2345678', '', '']","《講授類》
+限後醫系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM318&Crsname=臨床營養學,,,False,後醫學系,DPBM318,3,不分班,"臨床營養學
+CLINICAL NUTRITION",1,期,True,50,0,0,50,李容婷,,"['236789', '2346789', '23467', '', '', '', '']","《醫學類》
+限後醫系修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM319&Crsname=麻醉學,,,False,後醫學系,DPBM319,3,不分班,"麻醉學
+ANESTHESIOLOGY",1,期,True,50,0,0,50,"何淳寧,洪國全,葉明倫,邢中熹",,"['', '', '', '12345678', '3', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM320&Crsname=實證醫學,,,False,後醫學系,DPBM320,2,不分班,"實證醫學
+EVIDENCE-BASED MEDICINE",1,期,True,50,0,0,50,陳彥旭,,"['567', '', '', '567', '567', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM321&Crsname=醫學倫理,,,False,後醫學系,DPBM321,3,不分班,"醫學倫理
+MEDICAL ETHICS",1,期,True,50,0,0,50,"楊婉儀,王宏仁,王慧婷,蔡孟翰,陳德全",,"['12345678', '', '56', '', '56', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM322&Crsname=社區與偏鄉實習（一）,,,False,後醫學系,DPBM322,3,不分班,"社區與偏鄉實習（一）
+CLERKSHIP IN COMMUNITY MEDICINE, AND  MEDICAL CARE IN THE REMOTE AREAS (I)",6,年,True,50,0,0,50,"周明岳,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM323&Crsname=神經科學實習,,,False,後醫學系,DPBM323,3,不分班,"神經科學實習
+CLERKSHIP IN NEUROLOGY",2,年,True,50,0,0,50,"待聘,謝孟倉",,"['123456789', '12345678', '1234567', '123456789', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM324&Crsname=精神科學實習,,,False,後醫學系,DPBM324,3,不分班,"精神科學實習
+CLERKSHIP IN PSYCHIATRY",2,年,True,50,0,0,50,"張志誠,待聘",,"['123456789', '12345678', '1234567', '12345678', '123456789', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM325&Crsname=臨床技能測驗（一）,,,False,後醫學系,DPBM325,3,不分班,"臨床技能測驗（一）
+CLINICAL TECHNIQUES (I)",0,年,True,50,0,0,50,王慧婷,,"['', '', '', '', '', '123456789', '123456789']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM328&Crsname=臨床診療解析,,,False,後醫學系,DPBM328,3,不分班,"臨床診療解析
+CLINICAL DIAGNOSIS",1,期,False,50,0,0,50,"待聘,朱國安,林明毅,陳建良",二9(高雄榮總臨床技能教室),"['', '9', '', '', '', '', '']","《講授類》
+限後醫系學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM401&Crsname=社區實習（二）,,,False,後醫學系,DPBM401,4,不分班,"社區實習（二）
+CLERKSHIP IN COMMUNITY MEDICINE(II)",4,年,True,50,0,0,50,"待聘,駱聰成",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM402&Crsname=內科學實習（二）,,,False,後醫學系,DPBM402,4,不分班,"內科學實習（二）
+CLERKSHIP IN INTERNAL MEDICINE(II)",10,年,True,50,0,0,50,"待聘,陳建良",,"['123456789', '123456789', '1234567', '123456789', '123456789', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM403&Crsname=外科學實習（二）,,,False,後醫學系,DPBM403,4,不分班,"外科學實習（二）
+CLERKSHIP IN SURGERY(II)",10,年,True,50,0,0,50,"劉文忠,待聘",,"['123456789', '123456789', '1234567', '123456789', '123456789', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM404&Crsname=婦產科學實習（二）,,,False,後醫學系,DPBM404,4,不分班,"婦產科學實習（二）
+CLERKSHIP IN OBSTETRICS AND GYNECOLOGY(II)",4,年,True,50,0,0,50,"劉文雄,待聘",,"['123456789', '12345678', '1234567', '123456789', '123456789', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM405&Crsname=兒科學實習（二）,,,False,後醫學系,DPBM405,4,不分班,"兒科學實習（二）
+CLERKSHIP IN PEDIATRICS(II)",4,年,True,50,0,0,50,"待聘,陳秀玲",,"['12345678', '123456', '123456', '123456', '123456', '', '']","《臨床實習》
+限後醫系修習",[],False
