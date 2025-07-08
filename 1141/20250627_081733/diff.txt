@@ -1,6 +1,0 @@
-Value of root[152]['description'] changed from "《講授類》
-1.開課單位及教師：政治大學蔡炎龍老師。本校協同教師：機電系楊政融助理教授。 2.此為同步遠距課程，請使用Facebook【政大應數系直播中心】（https://facebook.com/groups/nccumathonline/）。 3.上課時間：每週二 16:00-19:00。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
-1.開課單位及教師：政治大學蔡炎龍老師。本校協同教師：機電系楊政融助理教授。 2.此為同步遠距課程，請使用Facebook【政大應數系直播中心】（https://facebook.com/groups/nccumathonline/）。 3.上課時間：每週二 16:00-19:00。".
-Value of root[473]['teacher'] changed from "待聘" to "游詠晴".
-Value of root[474]['teacher'] changed from "待聘" to "游詠晴".
-Value of root[1340]['teacher'] changed from "待聘" to "游詠晴".
