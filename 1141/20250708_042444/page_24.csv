@@ -1,0 +1,50 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL441&Crsname=第二語言習得概論,,,False,外文系,DFLL441,4,不分班,"第二語言習得概論
+INTRODUCTION TO SECOND LANGUAGE ACQUISITION",3,期,False,50,0,0,50,歐淑珍,"一2,3,4(文LA 3003)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL446&Crsname=外語教學法,,,False,外文系,DFLL446,4,不分班,"外語教學法
+FOREIGN LANGUAGE TEACHING METHODS",3,期,False,50,0,0,50,楊郁芬,"四2,3,4(文LA 3004)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL453&Crsname=文學翻譯,,,False,外文系,DFLL453,4,不分班,"文學翻譯
+LITERARY TRANSLATION",3,期,False,20,0,0,20,賴淑芳,"四5,6,7(文LA 3004)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL461&Crsname=維多利亞時代女性詩人,,,False,外文系,DFLL461,4,不分班,"維多利亞時代女性詩人
+VICTORIAN WOMEN POETS",3,期,False,50,0,0,50,賴淑芳,"二5,6,7(文LA 3004)","['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL462&Crsname=閱讀性/別,,,False,外文系,DFLL462,4,不分班,"閱讀性/別
+READING GENDER AND SEXUALITY",3,期,False,50,0,0,50,沈尚玉,"五2,3,4(文LA 3003)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL482&Crsname=實用日文,,,False,外文系,DFLL482,4,不分班,"實用日文
+PRACTICAL JAPANESE",3,期,False,20,0,0,20,森國松江,"一5,6,7(文LA 3013)","['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL484&Crsname=實用西班牙文,,,False,外文系,DFLL484,4,不分班,"實用西班牙文
+PRACTICAL SPANISH",3,期,False,20,0,0,20,高長空,"一5,6,7(文LA 3016)","['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL486&Crsname=實用法文,,,False,外文系,DFLL486,4,不分班,"實用法文
+PRACTICAL FRENCH",3,期,False,20,0,0,20,王柔惠,"四2,3,4(文LA 3013)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL488&Crsname=實用德文,,,False,外文系,DFLL488,4,不分班,"實用德文
+PRACTICAL GERMAN",3,期,False,20,0,0,20,陳麗雅,"二5,6,7(文LA 3014)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI101&Crsname=合奏,,,True,音樂系,MUSI101,1,不分班,"合奏
+ENSEMBLE",2,期,True,50,0,0,50,楊智欽,"三6,7(文FA 4031) 五5,6(文FA 4031)","['', '', '67', '', '56', '', '']","《音樂類》
+開放20個名額予跨院修課，學生選課於第一週參加樂團甄試，通過後始得修課，外系學生借用琴房練習，依規定繳交費用",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI102&Crsname=合唱,,,True,音樂系,MUSI102,1,不分班,"合唱
+CHORUS",2,期,True,50,0,0,50,張成璞,"三6,7(文FA 4028) 四8,9(文FA 4028)","['', '', '67', '89', '', '', '']","《音樂類》
+開放20個名額予跨院修課，選課學生須於第一週參加視譜及歌唱測驗，通過後始得修課，外系學生借用琴房練習須依規定繳交費用",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI104&Crsname=音樂基礎訓練（一）,,,True,音樂系,MUSI104,1,不分班,"音樂基礎訓練（一）
+MUSICIAN SHIP (Ⅰ)",1,期,True,50,0,0,50,游詠晴,一2(文FA 4034),"['2', '', '', '', '', '', '']","《講授類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI104A&Crsname=音樂基礎訓練（一）,,,True,音樂系,MUSI104A,1,不分班,"音樂基礎訓練（一）
+MUSICIAN SHIP (Ⅰ)",1,期,False,50,0,0,50,游詠晴,一3(文FA 4034),"['3', '', '', '', '', '', '']","《講授類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI112&Crsname=複音音樂與對位法,,,False,音樂系,MUSI112,2,不分班,"複音音樂與對位法
+POLYPHONIC MUSIC AND COUNTERPOINT",2,期,False,50,0,0,50,李思嫺,"二3,4(文FA 4034)","['', '34', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI113&Crsname=調性音樂理論與分析（一）,,,False,音樂系,MUSI113,1,不分班,"調性音樂理論與分析（一）
+THEORY AND ANALYSIS IN TONAL MUSIC (I)",2,期,True,50,0,0,50,陳以軒,"二5,6(文FA 7003)","['', '56', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI117&Crsname=主修（鋼琴）,,,True,音樂系,MUSI117,1,不分班,"主修（鋼琴）
+MAJOR (PIANO)",2,期,True,50,0,0,50,"吳亞欣,林雅叙,楊妮蓉,陳宜蓁,顏竹君,黃楚涵,黃瓊儀","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI119&Crsname=鋼琴重奏（一）,,,False,音樂系,MUSI119,2,不分班,"鋼琴重奏（一）
+PIANO CHAMBER ENSENBLE(I)",1,期,False,50,0,0,50,顏竹君,二3(文FA 5011) 二4(文FA 5012),"['', '34', '', '', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI125&Crsname=主修（小提琴）,,,True,音樂系,MUSI125,1,不分班,"主修（小提琴）
+MAJOR (VIOLIN)",2,期,True,50,0,0,50,"張群,林子平,熊書宜,葉翹任,陳鈺雯","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI126&Crsname=主修（中提琴）,,,True,音樂系,MUSI126,1,不分班,"主修（中提琴）
+MAJOR (VIOLA)",2,期,True,50,0,0,50,"富澤直子,莊孟勳","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI127&Crsname=主修（大提琴）,,,True,音樂系,MUSI127,1,不分班,"主修（大提琴）
+MAJOR (VIOLONCELLO)",2,期,True,50,0,0,50,"張毅心,曾加宜,謝孟軒","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
