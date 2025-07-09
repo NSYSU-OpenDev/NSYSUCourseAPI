@@ -1,7 +1,7 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM608&Crsname=都市規劃設計,,,False,公事碩,PAM608,0,不分班,"都市規劃設計
 URBAN PLANNING AND DESIGN",2,期,False,50,0,0,50,謝旭昇,"五3,4(管CM 1035)","['', '', '', '', '34', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM613&Crsname=永續報告書寫作,,,False,公事碩,PAM613,0,不分班,"永續報告書寫作
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM613&Crsname=永續報告書寫作,異動,更換部份時間7/9,False,公事碩,PAM613,0,不分班,"永續報告書寫作
 WRITING OF SUSTAINABILITY REPORT",2,期,False,50,0,0,50,林新沛,,"['', '', '', '', '', '234B5678', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM618&Crsname=服務管理,,,False,公事碩,PAM618,0,不分班,"服務管理
 SERVICE MANAGEMENT",2,期,False,12,0,0,12,吳偉寧,"二6,7(管CM 1020)","['', '67', '', '', '', '', '']",《講授類》,[],False

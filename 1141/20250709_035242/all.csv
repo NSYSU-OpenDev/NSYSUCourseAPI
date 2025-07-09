@@ -451,7 +451,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE252
 AN INTRODUCTION TO LIFE ON EARTH",3,期,True,70,0,0,70,邊安台,"三2,3,4(通GE 1010)","['', '', '234', '', '', '', '']","《講授類》
 本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2528&Crsname=基礎程式設計（C++）,新增,7/8,False,博雅向度五,GEAE2528,0,不分班,"基礎程式設計（C++）
-INTRODUCTION TO PROGRAMMING（C++）",3,期,True,50,0,0,50,AI聯盟教師,"一2,3,4(同步遠距)","['234', '', '', '', '', '', '']","《講授類》
+INTRODUCTION TO PROGRAMMING（C++）",3,期,True,40,0,0,40,AI聯盟教師,"一2,3,4(同步遠距)","['234', '', '', '', '', '', '']","《講授類》
 1.開課單位及教師：陽明交通大學温宏斌老師。本校協同教師：資工系林俊宏教授。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。 3.上課時間：星期一 9:00-12:00。 4.同步考試時間：(實體)10/20 與 12/15上午 9:00–12:00為期中考試與期末考試時間，選修課程同學務必配合保留時間參與考試。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2529&Crsname=人工智慧導論,新增,6/27,False,博雅向度五,GEAE2529,0,不分班,"人工智慧導論
 INTRODUCTION TO ARTIFICIAL INTELLIGENCE",3,期,True,40,0,0,40,AI聯盟教師,"四5,6,7(同步遠距)","['', '', '', '567', '', '', '']","《講授類》
@@ -460,7 +460,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE253
 STATISTICS WITH RECITATION",4,期,True,40,0,0,40,AI聯盟教師,"二5,6(同步遠距)(實驗) 三2,3,4(同步遠距)","['', '56', '234', '', '', '', '']","《講授類》
 1.開課單位及教師：臺灣大學李宗穎老師。本校協同教師：生科系張楊家豪助理教授。 3.上課時間：每週二 13:20-15:10 PM (recitation session)、星期三 9:10-12:10 AM (lecture)。 4.同步考試時間：(實體)114年12月10日上午9:30-12:00 5.本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2531&Crsname=生成式人工智慧與機器學習導論,新增,6/27,False,博雅向度五,GEAE2531,0,不分班,"生成式人工智慧與機器學習導論
-INTRODUCTION TO GENERATIVE ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",3,期,True,40,0,0,40,AI聯盟教師,,"['', '', '', '', '678', '', '']","《講授類》
+INTRODUCTION TO GENERATIVE ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",3,期,True,10,0,0,10,AI聯盟教師,,"['', '', '', '', '678', '', '']","《講授類》
 1.開課單位及教師：臺灣大學李宏毅老師。 2.上課時間：週五14:20-17:20，實際上課週次為9/12、9/19、9/26、10/17、10/24、10/31、11/14、11/28、12/5、12/12。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2601&Crsname=地球科學,,,False,博雅向度六,GEAE2601,0,不分班,"地球科學
 FUNDAMENTALS OF EARTH SCIENCE",2,期,True,90,0,0,90,"托星豪,方盈智,林玉詩,楊仁凱","四5,6(海MA 3021)","['', '', '', '56', '', '', '']",《講授類》,[],False
@@ -482,17 +482,17 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI10001
 INTRODUCTION TO ARTIFICIAL INTELLIGENCE",3,期,False,10,0,0,10,AI聯盟教師,"四5,6,7(同步遠距)","['', '', '', '567', '', '', '']","《講授類》
 1.開課單位及教師：成功大學朱威達老師。 2.此為同步遠距課程，遠距上課連結 https://www.youtube.com/@WeiTaChu 3.上課時間：星期四13:10-16:00。 4.同步考試時間：2025年12月11日, 13:10~16:00 （所有學生需同步進行，在此時段無法應考的學生請勿修課）",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI10004&Crsname=基礎程式設計（C++）,新增,6/26,False,AI聯盟(學),AI10004,0,不分班,"基礎程式設計（C++）
-INTRODUCTION TO PROGRAMMING （C++）",3,期,False,50,0,0,50,AI聯盟教師,"一2,3,4(同步遠距)","['234', '', '', '', '', '', '']","《講授類》
+INTRODUCTION TO PROGRAMMING （C++）",3,期,False,10,0,0,10,AI聯盟教師,"一2,3,4(同步遠距)","['234', '', '', '', '', '', '']","《講授類》
 1.開課單位及教師：陽明交通大學温宏斌老師。本校協同教師：資工系林俊宏教授。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。 3.上課時間：星期一 9:00-12:00。 4.同步考試時間：(實體)10/20 與 12/15上午 9:00–12:00為期中考試與期末考試時間，選修課程同學務必配合保留時間參與考試。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI10005&Crsname=統計學暨實習,新增,6/26,False,AI聯盟(學),AI10005,0,不分班,"統計學暨實習
-STATISTICS WITH RECITATION",4,期,False,50,0,0,50,AI聯盟教師,"二5,6(同步遠距)(實驗) 三2,3,4(同步遠距)","['', '56', '234', '', '', '', '']","《講授類》
+STATISTICS WITH RECITATION",4,期,False,10,0,0,10,AI聯盟教師,"二5,6(同步遠距)(實驗) 三2,3,4(同步遠距)","['', '56', '234', '', '', '', '']","《講授類》
 1.開課單位及教師：臺灣大學李宗穎老師。本校協同教師：生科系張楊家豪助理教授。 3.上課時間：每週二 13:20-15:10 PM (recitation session)、星期三 9:10-12:10 AM (lecture)。 4.同步考試時間：(實體)114年12月10日上午9:30-12:00",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI10006&Crsname=生成式人工智慧與機器學習導論,,,False,AI聯盟(學),AI10006,0,不分班,"生成式人工智慧與機器學習導論
 INTRODUCTION TO GENERATIVE ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",3,期,False,10,0,0,10,AI聯盟教師,,"['', '', '', '', '567', '', '']","《講授類》
 1.開課單位及教師：臺灣大學李宏毅老師。 2.上課時間：週五14:20-17:20，實際上課週次為9/12、9/19、9/26、10/17、10/24、10/31、11/14、11/28、12/5、12/12。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI50002&Crsname=金融科技導論,,,False,AI聯盟(碩),AI50002,0,不分班,"金融科技導論
 INTRODUCTION TO FINTECH",3,期,False,45,0,0,45,AI聯盟教師,"三2,3,4(同步遠距)","['', '', '234', '', '', '', '']","《講授類》
-1.開課單位及教師：台灣大學張智星、陳君明老師。 2.此為同步遠距課程，遠距上課連結 https://ntucc.webex.com/meet/rogerjang 。 3.上課時間：星期三9:10-12:10。 4.先修課程要求：請詳閱課程大綱。 5.同步考試時間：(實體)2025 /12/17 9:10~12:10",[],False
+1.開課單位及教師：台灣大學張智星老師。 2.此為同步遠距課程，遠距上課連結 https://ntucc.webex.com/meet/rogerjang 。 3.上課時間：星期三9:10-12:10。 4.先修課程要求：請詳閱課程大綱。 5.同步考試時間：(實體)2025 /12/17 9:10~12:10",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI50003&Crsname=資料探勘與應用,新增,6/26,False,AI聯盟(碩),AI50003,0,不分班,"資料探勘與應用
 DATA MINING: CONCEPTS, TECHNIQUES, AND APPLICATIONS",3,期,False,50,0,0,50,AI聯盟教師,"一2,3,4(同步遠距)","['234', '', '', '', '', '', '']","《講授類》
 1.開課單位及教師：清華大學陳宜欣老師。本校協同教師：應數系鍾思齊助理教授。  2.此為同步遠距課程，遠距上課連結 https://www.youtube.com/@NTHU_ISA5810_DataMining 3.上課時間：星期一9:00-12:00。 4.建議學生需已修過Python程式設計、有基本機率概念。本課程期末專題採分組開發，請評估可投入時間再選課，以避免影響同組修課同學之權益。 5.同步考試時間：2025/12/8 9:00~12:00（學生需同步進行，在此時段無法應考者勿修課)",[],True
@@ -2404,14 +2404,14 @@ SOLID STATE PHYSICS",3,期,True,50,0,0,50,待聘,"四2(工MS 4019) 五2,3(工MS 
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES316&Crsname=光電工程（二）,,,False,材光系,MOES316,4,不分班,"光電工程（二）
 OPTOELECTRONIC ENGINEERING(II)",3,期,False,50,0,0,50,蘇威宏,"一5(工MS 4025) 二6,7(工MS 4025)","['5', '67', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES332&Crsname=材料與光電專題研究（一）,,,False,材光系,MOES332,3,不分班,"材料與光電專題研究（一）
-RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(I)",1,期,False,50,0,0,50,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《講授類》
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(I)",1,期,False,50,0,0,50,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《獨立研究》
 學生應先找到指導專題研究的教授後再行選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES430&Crsname=奈米材料之特性與應用,異動,更換時間及教室6/18,False,材光系,MOES430,3,不分班,"奈米材料之特性與應用
 CHARACTERISTICS OF NANOMATERIALS AND THEIR APPLICATIONS",3,期,False,50,0,0,50,王映樵,"一2,3,4(工MS 4022)","['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES432&Crsname=材料顯微分析技術,,,False,材光系,MOES432,4,不分班,"材料顯微分析技術
 MICROANALYSIS TECHNIQUES OF MATERIAL CHARACTERIZATION",3,期,False,50,0,0,50,"張六文,王致傑,蔣酉旺,邱政維,郭哲男,郭紹偉","一2,3,4(工MS 4023)","['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES435&Crsname=材料與光電專題研究（三）,,,False,材光系,MOES435,4,不分班,"材料與光電專題研究（三）
-RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(III)",1,期,False,50,0,0,50,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《講授類》
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(III)",1,期,False,50,0,0,50,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《獨立研究》
 修課學生應先找到指導專題教授再進行選課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES445&Crsname=能源材料概論,,,False,材光系,MOES445,3,不分班,"能源材料概論
 INTRODUCTION TO ENERGY MATERIALS",3,期,False,50,0,0,50,王致傑,"二2,3,4(工MS 2004)","['', '234', '', '', '', '', '']",《講授類》,[],False
@@ -3068,8 +3068,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS4002
 SEMINAR IN INNOVATION AND ENTREPRENEURSHIP",2,期,True,50,0,0,50,"吳亦昕,夏晧清,宋世祥,張淑美,謝如梅","六B,5,6(西SW 1005)","['', '', '', '', '', 'B56', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=III1001&Crsname=閱讀與寫作,,,False,國際學士原民專班,III1001,1,不分班,"閱讀與寫作
 READING AND WRITING",3,期,True,50,0,0,50,"李育諭,王啟仲,王宏仁,許家豪,趙可卿","四8,6,7(西SW 1004)","['', '', '', '678', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=III1002&Crsname=南島文化概論,,,False,國際學士原民專班,III1002,1,不分班,"南島文化概論
-INTRODUCTION TO AUSTRONESIAN CULTURES",3,期,True,50,0,0,50,待聘,"五2,3,4(通GE 4016)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=III1002&Crsname=南島文化概論,異動,確認教師7/8,False,國際學士原民專班,III1002,1,不分班,"南島文化概論
+INTRODUCTION TO AUSTRONESIAN CULTURES",3,期,True,50,0,0,50,吳明仁,"五2,3,4(通GE 4016)","['', '', '', '', '234', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=III1005&Crsname=社會文化分析,,,False,國際學士原民專班,III1005,1,不分班,"社會文化分析
 SOCIO-CULTURAL ANALYSIS",3,期,False,20,0,0,20,王啟仲,"三5,6,7(通GE 1010)","['', '', '567', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=III1007&Crsname=流行音樂、科技與社會,,,False,國際學士原民專班,III1007,1,不分班,"流行音樂、科技與社會
@@ -4650,7 +4650,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM606&
 GENDERED INNOVATIONS",1,期,False,50,0,0,50,彭渰雯,四3(管CM 1035),"['', '', '', '3', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM608&Crsname=都市規劃設計,,,False,公事碩,PAM608,0,不分班,"都市規劃設計
 URBAN PLANNING AND DESIGN",2,期,False,50,0,0,50,謝旭昇,"五3,4(管CM 1035)","['', '', '', '', '34', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM613&Crsname=永續報告書寫作,,,False,公事碩,PAM613,0,不分班,"永續報告書寫作
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM613&Crsname=永續報告書寫作,異動,更換部份時間7/9,False,公事碩,PAM613,0,不分班,"永續報告書寫作
 WRITING OF SUSTAINABILITY REPORT",2,期,False,50,0,0,50,林新沛,,"['', '', '', '', '', '234B5678', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM618&Crsname=服務管理,,,False,公事碩,PAM618,0,不分班,"服務管理
 SERVICE MANAGEMENT",2,期,False,12,0,0,12,吳偉寧,"二6,7(管CM 1020)","['', '67', '', '', '', '', '']",《講授類》,[],False
@@ -5088,14 +5088,12 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC507&
 INTRODUCTION TO OCEANOGRAPHY",3,期,False,50,0,0,50,"劉莉蓮,張詠斌,李逸環,雷漢杰","一2,3,4(海MA 3040)","['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC508A&Crsname=海洋生態與保育專題討論（三）,,,False,海生保育碩,MEC508A,0,不分班,"海洋生態與保育專題討論（三）
 SEMINAR IN MARINE ECOLOGY AND CONSERVATION（III）",1,期,False,50,0,0,50,陳孟仙,三7(海MA 1020),"['', '', '7', '', '', '', '']",《研討類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC513&Crsname=海洋生物多樣性與保育（一）,,,False,海生保育碩,MEC513,1,不分班,"海洋生物多樣性與保育（一）
-MARINE BIODIVERSITY AND CONSERVATION （1）",2,期,True,50,0,0,50,劉商隱,"三3,4(海MB 2016)","['', '', '34', '', '', '', '']","《講授類》
-※多門必修需自行加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC513&Crsname=海洋生物多樣性與保育（一）,,,True,海生保育碩,MEC513,1,不分班,"海洋生物多樣性與保育（一）
+MARINE BIODIVERSITY AND CONSERVATION （1）",2,期,True,50,0,0,50,劉商隱,"三3,4(海MB 2016)","['', '', '34', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC514&Crsname=海洋保育個案研析,,,False,海生保育碩,MEC514,1,不分班,"海洋保育個案研析
 CASE STUDIES IN MARINE CONSERVATION",3,期,True,50,0,0,50,"林裕䕒,陳孟仙","五5,6,7(海MB 2020)","['', '', '', '', '567', '', '']",《研討類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC520&Crsname=生物統計,,,False,海生保育碩,MEC520,1,不分班,"生物統計
-BIOSTATISTICS",3,期,True,50,0,0,50,林裕䕒,"四2,3,4(海MB 3013)","['', '', '', '234', '', '', '']","《講授類》
-※多門必修需自行加選",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC520&Crsname=生物統計,,,True,海生保育碩,MEC520,1,不分班,"生物統計
+BIOSTATISTICS",3,期,True,50,0,0,50,林裕䕒,"四2,3,4(海MB 3013)","['', '', '', '234', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC522&Crsname=軟骨魚類特論,,,False,海生保育碩,MEC522,0,不分班,"軟骨魚類特論
 SPECIAL TOPICS ON CHONDRICHTHYAN FISHES",2,期,False,50,0,0,50,徐華遜,"二3,4(海MA 1020)","['', '34', '', '', '', '', '']","《講授類》
 課程時間及教室不確定，請留意開課前信件通知",[],False
