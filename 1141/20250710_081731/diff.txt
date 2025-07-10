@@ -1,0 +1,16 @@
+Item root[373] removed from iterable.
+Type of root[45]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[45]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式7/10".
+Type of root[903]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[903]['changeDescription'] changed from NoneType to str and value changed from None to "修改備註說明7/10".
+Type of root[904]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[904]['changeDescription'] changed from NoneType to str and value changed from None to "修正授課方式7/10".
+Type of root[2538]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2538]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師7/10".
+Type of root[2539]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2539]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師7/10".
+Value of root[45]['english'] changed from False to True.
+Value of root[903]['description'] changed from "《實驗類》
+限學號B123100002~B123100019、B123100021~B123100026、B123021018 、B125025012 、B125040003" to "《實驗類》
+限學號B123100002~B123100019、B123100021~B123100026、B123021018 、B125025012 、B125040003、B123100027-29".
+Value of root[904]['english'] changed from False to True.
