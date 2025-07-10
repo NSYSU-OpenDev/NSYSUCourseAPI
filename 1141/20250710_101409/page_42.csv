@@ -1,0 +1,50 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME429A&Crsname=機電實務專案,,,False,機電系,MEME429A,4,乙班,"機電實務專案
+PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,0,50,"劉耿豪,朱訓鵬,許煜亮,郭清德","四A(實驗)(實驗) 五A,1(實驗)(實驗)","['', '', '', 'A', 'A1', '', '']",《實習類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME429B&Crsname=機電實務專案,,,False,機電系,MEME429B,4,全英班,"機電實務專案
+PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,0,50,"林哲信,潘正堂,王郁仁,程啓正","四A(實驗)(實驗) 五A,1(實驗)(實驗)","['', '', '', 'A', 'A1', '', '']",《實習類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME430&Crsname=電腦輔助熱流工程分析,,,False,機電系,MEME430,4,不分班,"電腦輔助熱流工程分析
+COMPUTER AIDED THERMAL-FLUID ENGINEERING",3,期,False,50,0,0,50,許聖彥,"二5,6,7(工EN 4055-2)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE104&Crsname=微積分,,,False,資工系,CSE104,1,不分班,"微積分
+CALCULUS",3,期,True,60,0,0,60,程正傑,"三5,6,7(工EC 9032)","['', '', '567', '', '', '', '']","《講授類》
+限本系學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE110&Crsname=離散數學,,,False,資工系,CSE110,1,不分班,"離散數學
+DISCRETE MATHEMATICS",3,期,True,60,0,0,60,徐瑞壕,"五2,3,4(工EC 9032)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE123&Crsname=Ｃ程式設計,,,False,資工系,CSE123,1,不分班,"Ｃ程式設計
+C PROGRAMMING",3,期,True,60,0,0,60,柯正雯,"四2,3,4(工EC 5012)","['', '', '', '234', '', '', '']","《講授類》
+限本系學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE124&Crsname=Ｃ程式設計實驗,,,False,資工系,CSE124,1,不分班,"Ｃ程式設計實驗
+C PROGRAMMING LABORATORY",1,期,True,60,0,0,60,柯正雯,"四5,6,7(工EC 5008)(實驗)","['', '', '', '567', '', '', '']","《實驗類》
+限本系學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE201&Crsname=AI輔助程式設計,,,False,資工系,CSE201,2,不分班,"AI輔助程式設計
+PROGRAMMING WITH AI-ASSISTANCE TOOLS",3,期,False,50,0,0,50,希家史提夫,"五8,6,7(工EC 5008)","['', '', '', '', '678', '', '']","《講授類》
+本系學生優先修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE210&Crsname=線性代數,,,False,資工系,CSE210,2,不分班,"線性代數
+LINEAR ALGEBRA",3,期,True,60,0,0,60,柯拉飛,"三5,6,7(工EC 2011)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE215&Crsname=資料結構,,,False,資工系,CSE215,2,不分班,"資料結構
+DATA STRUCTURES",3,期,True,100,0,0,100,楊昌彪,"一8,6,7(工EC 9032)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE220&Crsname=數位系統,,,False,資工系,CSE220,2,不分班,"數位系統
+DIGITAL SYSTEM",3,期,True,60,0,0,60,鄺獻榮,"二2,3,4(工EC 1006)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE221&Crsname=數位系統實驗,,,False,資工系,CSE221,2,不分班,"數位系統實驗
+DIGITAL SYSTEM LABORATORY",1,期,True,60,0,0,60,鄺獻榮,"一2,3,4(工EC 5008)(實驗)","['234', '', '', '', '', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE270&Crsname=作業系統,,,False,資工系,CSE270,3,不分班,"作業系統
+OPERATING SYSTEMS",3,期,False,50,0,0,50,王友群,"三5,6,7(工EC 5012)","['', '', '567', '', '', '', '']","《講授類》
+限本系重修生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE301&Crsname=資訊工程論壇,,,False,資工系,CSE301,3,不分班,"資訊工程論壇
+COMPUTER SCIENCE AND ENGINEERING FORUM",1,期,True,60,0,0,60,陳嘉平,一5(工EC 5012),"['5', '', '', '', '', '', '']","《演講/參訪》
+限本系大三學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE310&Crsname=組合語言與微處理機,,,False,資工系,CSE310,3,不分班,"組合語言與微處理機
+ASSEMBLY LANGUAGE AND MICROCOMPUTER",3,期,True,60,0,0,60,張雲南,"四8,6,7(工EC 5012)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE312&Crsname=組合語言與微處理機實驗,,,False,資工系,CSE312,3,不分班,"組合語言與微處理機實驗
+ASSEMBLY LANGUAGE AND MICROCOMPUTER LABORATORY",1,期,True,60,0,0,60,張雲南,"五2,3,4(工EC 5008)(實驗)","['', '', '', '', '234', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE315&Crsname=演算法,,,False,資工系,CSE315,3,不分班,"演算法
+ALGORITHMS",3,期,True,60,0,0,60,蔡崇煒,"四2,3,4(工EC 9032)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE325&Crsname=基礎訊號處理,,,False,資工系,CSE325,2,不分班,"基礎訊號處理
+FUNDAMENTAL SIGNAL PROCESSING",3,期,False,50,0,0,50,郭可驥,"二5,6,7(工EC 1006)","['', '567', '', '', '', '', '']","《講授類》
+本系學生優先修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE326&Crsname=人工智慧導論,,,False,資工系,CSE326,2,不分班,"人工智慧導論
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE",3,期,False,50,0,0,50,蔡崇煒,"二8,6,7(工EC 5012)","['', '678', '', '', '', '', '']","《講授類》
+本系學生優先修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE327&Crsname=電腦視覺,,,False,資工系,CSE327,3,不分班,"電腦視覺
+COMPUTER VISION",3,期,False,50,0,0,50,楊惠芳,"三5,6,7(工EC 1005)","['', '', '567', '', '', '', '']","《講授類》
+本系學生優先修習",[],False
