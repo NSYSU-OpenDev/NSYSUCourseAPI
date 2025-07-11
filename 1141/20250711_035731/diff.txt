@@ -1,0 +1,4 @@
+Item root[2610]['classTime'][4] added to iterable.
+Item root[2610]['classTime'][4] removed from iterable.
+Item root[473] removed from iterable.
+Value of root[2610]['room'] changed from "五8,6,7(國IR 1006-1)" to "五2,3,4(國IR 6017-1)".
