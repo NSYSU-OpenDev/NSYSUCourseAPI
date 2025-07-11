@@ -1,0 +1,16 @@
+Item root[2526]['classTime'][4] added to iterable.
+Item root[2526]['classTime'][3] removed from iterable.
+Item root[230] removed from iterable.
+Type of root[182]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[182]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/11".
+Type of root[457]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[457]['changeDescription'] changed from NoneType to str and value changed from None to "7/11".
+Type of root[2526]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2526]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室7/11".
+Value of root[182]['teacher'] changed from "待聘" to "陳龍銘".
+Value of root[457]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL441&Crsname=第二語言習得概論" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL448&Crsname=英語語音學".
+Value of root[457]['id'] changed from "DFLL441" to "DFLL448".
+Value of root[457]['name'] changed from "第二語言習得概論
+INTRODUCTION TO SECOND LANGUAGE ACQUISITION" to "英語語音學
+ENGLISH PHONETICS".
+Value of root[2526]['room'] changed from "四8,6,7(管CM 1036)" to "五2,3,4(管CM 3015)".
