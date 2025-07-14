@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3202&Crsname=控制系統,,,False,電機系,EE3202,3,甲班,"控制系統
+CONTROL SYSTEMS",3,期,True,75,0,0,75,李廸章,"三5,6,7(工EC 2002)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3202A&Crsname=控制系統,,,False,電機系,EE3202A,3,乙班,"控制系統
+CONTROL SYSTEMS",3,期,True,75,0,0,75,李廸章,"三5,6,7(工EC 2002)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3202B&Crsname=控制系統,,,False,電機系,EE3202B,3,全英班,"控制系統
+CONTROL SYSTEMS",3,期,True,70,0,0,70,康斯証,"五5,6,7(工EC 3014)","['', '', '', '', '567', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3203&Crsname=複變函數,,,True,電機系,EE3203,3,甲班,"複變函數
+COMPLEX VARIABLES",3,期,True,50,0,0,50,高崇堯,"二2,3,4(工EC 3010)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3203A&Crsname=複變函數,,,True,電機系,EE3203A,3,乙班,"複變函數
+COMPLEX VARIABLES",3,期,True,50,0,0,50,高崇堯,"二2,3,4(工EC 3010)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3203B&Crsname=複變函數,,,True,電機系,EE3203B,3,全英班,"複變函數
+COMPLEX VARIABLES",3,期,True,50,0,0,50,高崇堯,"二5,6,7(工EC 3009)","['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3317&Crsname=無人載具概論,,,False,電機系,EE3317,3,不分班,"無人載具概論
+INTRODUCTION OF UNMANNED VEHICLES",3,期,False,100,0,0,100,"李宗璘,翁愷貽,蔡舜宏,謝耀慶,鄧人豪","五5,6,7(工EC 6019)","['', '', '', '', '567', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3404&Crsname=電力系統（一）,,,False,電機系,EE3404,3,不分班,"電力系統（一）
+POWER SYSTEMS(I)",3,期,False,50,0,0,50,盧展南,"一2,3,4(工EC 3009)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3404A&Crsname=電力系統（一）,,,False,電機系,EE3404A,3,不分班,"電力系統（一）
+POWER SYSTEMS(I)",3,期,False,50,0,0,50,艾慕明,"一2,3,4(工EC 3010)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3502&Crsname=微波工程,,,False,電機系,EE3502,3,不分班,"微波工程
+MICROWAVE ENGINEERING",3,期,False,50,0,0,50,王復康,"二2,3,4(工EC 3012)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3513&Crsname=無線功率傳輸系統,,,False,電機系,EE3513,4,不分班,"無線功率傳輸系統
+WIRELESS POWER TRANSFER SYSTEM",3,期,False,50,0,0,50,孔明隆,"五2,3,4(工EC 2007)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3602&Crsname=通訊系統,,,False,電機系,EE3602,3,甲班,"通訊系統
+COMMUNICATION SYSTEMS",3,期,True,70,0,0,70,王藏億,"五2,3,4(工EC 2002)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3602A&Crsname=通訊系統,,,False,電機系,EE3602A,3,乙班,"通訊系統
+COMMUNICATION SYSTEMS",3,期,True,70,0,0,70,王藏億,"五2,3,4(工EC 2002)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3602B&Crsname=通訊系統,,,False,電機系,EE3602B,3,全英班,"通訊系統
+COMMUNICATION SYSTEMS",3,期,True,70,0,0,70,黃婉甄,"三5,6,7(工EC 3014)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3705&Crsname=實用數位系統設計,異動,更換時間及教室6/26,False,電機系,EE3705,3,不分班,"實用數位系統設計
+PRACTICAL DIGITAL SYSTEMS DESIGN",3,期,False,50,0,0,50,謝東佑,"三2,3,4(工EC 2010)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3901&Crsname=數值運算實務,,,False,電機系,EE3901,3,不分班,"數值運算實務
+PRACTICE OF NUMERICAL COMPUTING",3,期,False,50,0,0,50,吳珮歆,"三2,3,4(工EC 6016)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4318&Crsname=資訊安全概論,,,False,電機系,EE4318,4,不分班,"資訊安全概論
+INTRODUCTION TO INFORMATION SECURITY",3,期,False,50,0,0,50,葉小小,"四2,3,4(工EC 3010)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4505&Crsname=天線工程概論,,,False,電機系,EE4505,4,不分班,"天線工程概論
+INTRODUCTION TO ANTENNA ENGINEERING",3,期,False,50,0,0,50,沈昭元,"一8,6,7(工EC 3009)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4612&Crsname=數位訊號處理導論,,,False,電機系,EE4612,4,不分班,"數位訊號處理導論
+INTRODUCTION TO DIGITAL SIGNAL PROCESSING",3,期,False,50,0,0,50,陳有德,"一2,3,4(工EC 2007)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4616&Crsname=機率模式與應用,,,False,電機系,EE4616,4,不分班,"機率模式與應用
+PROBABILITY MODELS AND APPLICATIONS",3,期,False,50,0,0,50,陳有德,"四5,6,7(工EC 2007)","['', '', '', '567', '', '', '']",《講授類》,[],False
