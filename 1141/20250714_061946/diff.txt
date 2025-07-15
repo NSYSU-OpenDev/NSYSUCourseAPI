@@ -1,3 +1,0 @@
-Type of root[207]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[207]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/14".
-Value of root[31]['multipleCompulsory'] changed from False to True.
