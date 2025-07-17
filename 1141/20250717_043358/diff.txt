@@ -1,0 +1,8 @@
+Item root[320] added to iterable.
+Item root[1164] added to iterable.
+Item root[2673] added to iterable.
+Value of root[745]['teacher'] changed from "李宗璘,翁愷貽,蔡舜宏,謝耀慶,鄧人豪" to "李宗璘,翁愷貽,謝耀慶,鄧人豪".
+Value of root[1800]['room'] changed from "四2,3,4(管CM 4069)" to "三2,3,4(管CM 4069)".
+Value of root[2598]['room'] changed from "四5,6,7(國IR 4010)" to "三5,6,7(國IR 4010)".
+Value of root[2685]['room'] changed from "四2,3,4(管CM 4069)" to "三2,3,4(管CM 4069)".
+Value of root[2686]['room'] changed from "四2,3,4(管CM 4069)" to "三2,3,4(管CM 4069)".

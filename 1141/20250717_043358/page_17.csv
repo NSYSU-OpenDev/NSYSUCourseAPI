@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1673&Crsname=數理統計,,,False,跨院選修(社),GEAI1673,0,不分班,"數理統計
+MATHEMATICAL STATISTICS",3,期,False,35,0,0,35,鄭子長,"一8,6,7(社SS 1004)","['678', '', '', '', '', '', '']","《講授類》
+跨院通識與社科院CSS157課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1674&Crsname=歐洲人權法院裁判導讀,,,False,跨院選修(社),GEAI1674,0,不分班,"歐洲人權法院裁判導讀
+INTRODUCTION TO ECHR CASE LAW",3,期,False,25,0,0,25,陳盈雪,"四5,6,7(社SS 1004)","['', '', '', '567', '', '', '']","《講授類》
+跨院通識與社科院CSS159課程併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1675&Crsname=性別教育,,,False,跨院選修(社),GEAI1675,0,不分班,"性別教育
+GENDER EDUCATION",2,期,False,25,0,0,25,"宋呈澔,林靜慧","三3,4(社SS 2001)","['', '', '34', '', '', '', '']","《講授類》
+跨院通識與社科院CSS160課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1678&Crsname=賽局導論,,,False,跨院選修(社),GEAI1678,0,不分班,"賽局導論
+INTRODUCTION TO GAME THEORY",3,期,False,25,0,0,25,許嘉麟,"四8,6,7(社SS 1005)","['', '', '', '678', '', '', '']","《講授類》
+跨院通識與社科院CSS161課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1679&Crsname=生態旅遊社會學,,,False,跨院選修(社),GEAI1679,0,不分班,"生態旅遊社會學
+SOCIOLOGY OF ECOTOURISM",3,期,False,20,0,0,20,巴清雄,,"['', '123456789', '1234567DE', '123456789', '123456789', '123456789', '123456789']","《講授類》
+暑假密集式授課8/12-8/17，限有修課同學選修跨院通識與社會系SOC306課程併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1902&Crsname=新藥開發,,,False,跨院選修(醫),GEAI1902,0,不分班,"新藥開發
+DRUG DISCOVERY AND DRUG DEVELOPMENT",2,期,False,35,0,0,35,趙敏吾,"三6,7(醫IL 9012)","['', '', '67', '', '', '', '']","《講授類》
+跨院通識與醫學院MED142課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1904&Crsname=基礎藥理學,,,False,跨院選修(醫),GEAI1904,0,不分班,"基礎藥理學
+BASIC PHARMACOLOGY",3,期,False,35,0,0,35,趙敏吾,"二2,3,4(醫IL 9012)","['', '234', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED143課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1907&Crsname=醫學史（一）–西洋醫學史,,,False,跨院選修(醫),GEAI1907,0,不分班,"醫學史（一）–西洋醫學史
+MEDICAL HISTORY(I)–WESTERN MEDICAL HISTORY",2,期,False,45,0,0,45,劉景寬,"四8,7(國IR 4002)","['', '', '', '78', '', '', '']","《講授類》
+跨院通識與醫學院MED144課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1908&Crsname=基礎生物學,,,False,跨院選修(醫),GEAI1908,0,不分班,"基礎生物學
+BASIC CONCEPTS OF BIOLOGY",2,期,False,95,0,0,95,"張玉泉,薛佑玲,鄭光宏","四8,9(通GE 1010)","['', '', '', '89', '', '', '']","《講授類》
+跨院通識與醫學院MED101課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1909&Crsname=環境健康大數據資料分析暨視覺化實務,,,False,跨院選修(醫),GEAI1909,0,不分班,"環境健康大數據資料分析暨視覺化實務
+ENVIRONMENTAL AND HEALTHY BIG DATA ANALYSIS WITH VISUALISED PRACTICE",3,期,False,30,0,0,30,鄭雅勻,"二5,6,7(圖IL PC01)","['', '567', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED145課程併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1912&Crsname=生物統計與資訊,,,False,跨院選修(醫),GEAI1912,0,不分班,"生物統計與資訊
+BIOSTATISTICS AND BIOINFORMATICS?",2,期,False,30,0,0,30,鄭雅勻,"三3,4(圖IL PC01)","['', '', '34', '', '', '', '']","《講授類》
+跨院通識與醫學院MED146課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1913&Crsname=公共衛生學,,,False,跨院選修(醫),GEAI1913,0,不分班,"公共衛生學
+PUBLIC HEALTH?",2,期,False,35,0,0,35,鄭雅勻,"四5,6(醫IL 9012)","['', '', '', '56', '', '', '']","《講授類》
+跨院通識與醫學院MED147課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1939&Crsname=共病時代-談人類與動物共通傳染病,,,False,跨院選修(醫),GEAI1939,0,不分班,"共病時代-談人類與動物共通傳染病
+DISEASE, PLAGUE, AND CIVILIZATION",3,期,False,35,0,0,35,王文宏,"五5,6,7(醫IL 9012)","['', '', '', '', '567', '', '']","《講授類》
+跨院通識與醫學院MED122課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1940&Crsname=疾病瘟疫與文明,,,False,跨院選修(醫),GEAI1940,0,不分班,"疾病瘟疫與文明
+DISEASE, PLAGUE, AND CIVILIZATION",3,期,False,35,0,0,35,王文宏,"一2,3,4(醫IL 9012)","['234', '', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED123課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1941&Crsname=微生物與癌症,,,False,跨院選修(醫),GEAI1941,0,不分班,"微生物與癌症
+CANCER MICROBIOLOGY",3,期,False,35,0,0,35,王文宏,"三2,3,4(醫IL 9012)","['', '', '234', '', '', '', '']","《講授類》
+跨院通識與醫學院MED124課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1943&Crsname=危老年代,,,False,跨院選修(醫),GEAI1943,0,不分班,"危老年代
+AGING AND HEALTH",2,期,False,35,0,0,35,李昇翰,"二8,9(醫IL 9010)","['', '89', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED126課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1944&Crsname=危險同居「人」：漫談居家有害生物,,,False,跨院選修(醫),GEAI1944,0,不分班,"危險同居「人」：漫談居家有害生物
+PESTS IN HOUSEHOLD ENVIRONMENT",3,期,False,35,0,0,35,李昇翰,"一8,9,7(醫IL 9010)","['789', '', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED127課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1945&Crsname=環境與人類健康,,,False,跨院選修(醫),GEAI1945,0,不分班,"環境與人類健康
+ENVIRONMENT AND HUMAN HEALTH",2,期,False,35,0,0,35,李昇翰,"三1,2(醫IL 9010)","['', '', '12', '', '', '', '']","《講授類》
+跨院通識與醫學院MED128課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1946&Crsname=基礎外傷急救,,,False,跨院選修(醫),GEAI1946,0,不分班,"基礎外傷急救
+BASICS OF TRAUMA CARE",2,期,False,30,0,0,30,孫國清,"三6,7(醫IL 9010)","['', '', '67', '', '', '', '']","《講授類》
+跨院通識與醫學院MED129課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1948&Crsname=人體生理功能解密:生理學入門,,,False,跨院選修(醫),GEAI1948,0,不分班,"人體生理功能解密:生理學入門
+HUMAN BODY FUNCTIONS: BASIC PHYSIOLOGY",3,期,False,35,0,0,35,柯瓊媛,"二8,9,7(醫IL 9012)","['', '789', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED131課程併班上課",[],False
