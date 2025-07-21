@@ -1,0 +1,7 @@
+Item root[1445] added to iterable.
+Type of root[2042]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2042]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師7/21".
+Type of root[2044]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2044]['changeDescription'] changed from NoneType to str and value changed from None to "取消合授教師7/21".
+Value of root[2042]['teacher'] changed from "陳孟仙" to "待聘".
+Value of root[2044]['teacher'] changed from "林裕䕒,陳孟仙" to "林裕䕒".
