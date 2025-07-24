@@ -1,8 +1,8 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SOC505&Crsname=性別社會學,,,False,社會碩,SOC505,2,不分班,"性別社會學
 SOCIOLOGY OF GENDER",3,期,False,50,0,0,50,陳美華,"二8,6,7(社SS 3004-2)","['', '678', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SOC509&Crsname=南方社會議題（一）,,,False,社會碩,SOC509,1,不分班,"南方社會議題（一）
-ISSUES OF SOUTH SOCIETY(Ⅰ)",1,期,True,50,0,0,50,待聘,三5(社SS 3004-2),"['', '', '5', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SOC509&Crsname=南方社會議題（一）,異動,確認教師7/22,False,社會碩,SOC509,1,不分班,"南方社會議題（一）
+ISSUES OF SOUTH SOCIETY(Ⅰ)",1,期,True,50,0,0,50,李馨慈,三5(社SS 3004-2),"['', '', '5', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SOC513&Crsname=福利社會學,,,False,社會碩,SOC513,2,不分班,"福利社會學
 SOCIOLOGY OF  WELFARE",3,期,False,50,0,0,50,"王梅香,趙恩潔,陳美華","五2,3,4(社SS 3004-1)","['', '', '', '', '234', '', '']","《講授類》
 本課程為學位論文指導課程，限本系同學選修",[],False
@@ -12,8 +12,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SOC554&
 SOCIOLOGY OF THE FAMILY",3,期,False,50,0,0,50,楊靜利,"一8,6,7(社SS 3004-2)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SOC583&Crsname=醫療社會學,,,False,社會碩,SOC583,1,不分班,"醫療社會學
 MEDICAL SOCIOLOGY",3,期,False,50,0,0,50,李宛儒,"二2,3,4(社SS 3004-2)","['', '234', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SOC607&Crsname=南方社會議題（三）,,,False,社會碩,SOC607,2,不分班,"南方社會議題（三）
-ISSUES OF SOUTH SOCIETY (III)",1,期,True,50,0,0,50,待聘,三6(社SS 3004-2),"['', '', '6', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SOC607&Crsname=南方社會議題（三）,異動,確認教師7/22,False,社會碩,SOC607,2,不分班,"南方社會議題（三）
+ISSUES OF SOUTH SOCIETY (III)",1,期,True,50,0,0,50,李馨慈,三6(社SS 3004-2),"['', '', '6', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAPA501&Crsname=社會科學研究方法,,,False,亞太英語碩程,MAPA501,1,不分班,"社會科學研究方法
 RESEARCH METHODS IN SOCIAL SCIENCE",3,期,True,50,0,0,50,劉奇峯,"三5,6,7(社SS 4005)","['', '', '567', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAPA503&Crsname=碩士論文,,,False,亞太英語碩程,MAPA503,2,不分班,"碩士論文

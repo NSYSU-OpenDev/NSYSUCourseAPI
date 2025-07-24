@@ -2,8 +2,8 @@ url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,c
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BIOS111A&Crsname=普通生物學實驗（一）,,,False,生科系,BIOS111A,1,不分班,"普通生物學實驗（一）
 GENERAL BIOLOGY LABORATORY(I)",1,期,True,30,0,0,30,顏聖紘,"四5,6,7(理SC 3010)(實驗)","['', '', '', '567', '', '', '']","《實驗類》
 限本系、雙主修及輔系學生選修及本系一年級選修。",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BIOS160&Crsname=本地植物學,,,False,生科系,BIOS160,3,不分班,"本地植物學
-LOCAL FLORA",3,期,False,50,0,0,50,劉世慧,"四2,3,4(理BI 6005)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BIOS160&Crsname=本地植物學,異動,更換教室7/24,False,生科系,BIOS160,3,不分班,"本地植物學
+LOCAL FLORA",3,期,False,50,0,0,50,劉世慧,"四2,3,4(理SC 0008)","['', '', '', '234', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BIOS197&Crsname=食品科學概論,,,False,生科系,BIOS197,3,不分班,"食品科學概論
 INTRODUCTION TO FOOD SCIENCE",2,期,False,50,0,0,50,吳長益,"五5,6(理SC 3005)","['', '', '', '', '56', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BIOS202&Crsname=有機化學（二）,,,False,生科系,BIOS202,2,不分班,"有機化學（二）
