@@ -1,3 +1,0 @@
-Type of root[2528]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[2528]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師7/24".
-Value of root[2528]['teacher'] changed from "陳寶蓮" to "陳世哲,陳寶蓮".
