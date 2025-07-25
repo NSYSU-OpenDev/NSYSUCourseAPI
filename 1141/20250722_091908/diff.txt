@@ -1,3 +1,0 @@
-Item root[2094]['classTime'][3] added to iterable.
-Item root[2094]['classTime'][3] removed from iterable.
-Value of root[2094]['room'] changed from "四6,7(社SS 2002-2)" to "四8,6,7(社SS 2002-2)".
