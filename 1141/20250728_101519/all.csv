@@ -1953,8 +1953,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2100B
 ELECTRONICS (I)",3,期,True,70,0,0,70,陳昶孝,"五2,3,4(工EC 3009)","['', '', '', '', '234', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2204&Crsname=矩陣理論及應用,,,False,電機系,EE2204,2,不分班,"矩陣理論及應用
 MATRIX THEORY AND APPLICATIONS",3,期,False,50,0,0,50,高崇堯,"一5,6,7(工EC 2010)","['567', '', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2204A&Crsname=矩陣理論及應用,,,False,電機系,EE2204A,2,不分班,"矩陣理論及應用
-MATRIX THEORY AND APPLICATIONS",3,期,False,50,0,0,50,李立,"五8,6,7(工EC 3010)","['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2204A&Crsname=矩陣理論及應用,異動,更換教室7/28,False,電機系,EE2204A,2,不分班,"矩陣理論及應用
+MATRIX THEORY AND APPLICATIONS",3,期,False,50,0,0,50,李立,"五8,6,7(工EC 2007)","['', '', '', '', '678', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2305&Crsname=資料結構,,,False,電機系,EE2305,2,不分班,"資料結構
 DATA STRUCTURES",3,期,False,50,0,0,50,周孜燦,"三5,6,7(工EC 3013)","['', '', '567', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2401&Crsname=電路學（二）,,,False,電機系,EE2401,2,甲班,"電路學（二）
@@ -2015,8 +2015,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3317&
 INTRODUCTION OF UNMANNED VEHICLES",3,期,False,100,0,0,100,"李宗璘,翁愷貽,謝耀慶,鄧人豪","五5,6,7(工EC 6019)","['', '', '', '', '567', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3404&Crsname=電力系統（一）,,,False,電機系,EE3404,3,不分班,"電力系統（一）
 POWER SYSTEMS(I)",3,期,False,50,0,0,50,盧展南,"一2,3,4(工EC 3009)","['234', '', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3404A&Crsname=電力系統（一）,,,False,電機系,EE3404A,3,不分班,"電力系統（一）
-POWER SYSTEMS(I)",3,期,False,50,0,0,50,艾慕明,"一2,3,4(工EC 3010)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3404A&Crsname=電力系統（一）,異動,更換教室7/28,False,電機系,EE3404A,3,不分班,"電力系統（一）
+POWER SYSTEMS(I)",3,期,False,50,0,0,50,艾慕明,"一2,3,4(工EC 2007)","['234', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3502&Crsname=微波工程,,,False,電機系,EE3502,3,不分班,"微波工程
 MICROWAVE ENGINEERING",3,期,False,50,0,0,50,王復康,"二2,3,4(工EC 3012)","['', '234', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3513&Crsname=無線功率傳輸系統,,,False,電機系,EE3513,4,不分班,"無線功率傳輸系統
@@ -2031,12 +2031,12 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3705&
 PRACTICAL DIGITAL SYSTEMS DESIGN",3,期,False,50,0,0,50,謝東佑,"三2,3,4(工EC 2010)","['', '', '234', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3901&Crsname=數值運算實務,,,False,電機系,EE3901,3,不分班,"數值運算實務
 PRACTICE OF NUMERICAL COMPUTING",3,期,False,50,0,0,50,吳珮歆,"三2,3,4(工EC 6016)","['', '', '234', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4318&Crsname=資訊安全概論,,,False,電機系,EE4318,4,不分班,"資訊安全概論
-INTRODUCTION TO INFORMATION SECURITY",3,期,False,50,0,0,50,葉小小,"四2,3,4(工EC 3010)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4318&Crsname=資訊安全概論,異動,更換教室7/28,False,電機系,EE4318,4,不分班,"資訊安全概論
+INTRODUCTION TO INFORMATION SECURITY",3,期,False,50,0,0,50,葉小小,"四2,3,4(工EC 3014)","['', '', '', '234', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4505&Crsname=天線工程概論,,,False,電機系,EE4505,4,不分班,"天線工程概論
 INTRODUCTION TO ANTENNA ENGINEERING",3,期,False,50,0,0,50,沈昭元,"一8,6,7(工EC 3009)","['678', '', '', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4612&Crsname=數位訊號處理導論,,,False,電機系,EE4612,4,不分班,"數位訊號處理導論
-INTRODUCTION TO DIGITAL SIGNAL PROCESSING",3,期,False,50,0,0,50,陳有德,"一2,3,4(工EC 2007)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4612&Crsname=數位訊號處理導論,異動,更換教室7/28,False,電機系,EE4612,4,不分班,"數位訊號處理導論
+INTRODUCTION TO DIGITAL SIGNAL PROCESSING",3,期,False,50,0,0,50,陳有德,"一2,3,4(工EC 3010)","['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4616&Crsname=機率模式與應用,,,False,電機系,EE4616,4,不分班,"機率模式與應用
 PROBABILITY MODELS AND APPLICATIONS",3,期,False,50,0,0,50,陳有德,"四5,6,7(工EC 2007)","['', '', '', '567', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE4706&Crsname=生醫工程導論,,,False,電機系,EE4706,3,不分班,"生醫工程導論
@@ -2353,8 +2353,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES202
 ELECTROMAGNETISM (I)",3,期,True,60,0,0,60,林仕鑫,"二2,3,4(工MS 4023)","['', '234', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES202A&Crsname=電磁學（一）,,,False,材光系,MOES202A,2,全英班,"電磁學（一）
 ELECTROMAGNETISM (I)",3,期,True,60,0,0,60,林仕鑫,"二2,3,4(工MS 4023)","['', '234', '', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES204&Crsname=晶體結構與缺陷,,,False,材光系,MOES204,2,不分班,"晶體結構與缺陷
-CRYSTAL STRUCTURES AND DEFECTS",2,期,True,50,0,0,50,待聘,三6(工MS 4022) 四7(工MS 4022),"['', '', '6', '7', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES204&Crsname=晶體結構與缺陷,異動,確認教師7/28,False,材光系,MOES204,2,不分班,"晶體結構與缺陷
+CRYSTAL STRUCTURES AND DEFECTS",2,期,True,50,0,0,50,李廣輝,三6(工MS 4022) 四7(工MS 4022),"['', '', '6', '7', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES204A&Crsname=晶體結構與缺陷,,,False,材光系,MOES204A,2,全英班,"晶體結構與缺陷
 CRYSTAL STRUCTURES AND DEFECTS",2,期,True,50,0,0,50,李伯軒,"三3,4(工MS 2004)","['', '', '34', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES215&Crsname=光學（二）,,,False,材光系,MOES215,3,不分班,"光學（二）
@@ -2377,10 +2377,10 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES313
 INTRODUCTION TO POLYMER MATERIAL",3,期,True,50,0,0,50,曼哈迪,"二5(工MS 4019) 三3,4(工MS 4019)","['', '5', '34', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES313A&Crsname=高分子材料導論,,,False,材光系,MOES313A,3,全英班,"高分子材料導論
 INTRODUCTION TO POLYMER MATERIAL",3,期,True,50,0,0,50,曼哈迪,"二5(工MS 4022) 三3,4(工MS 4022)","['', '5', '34', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES315&Crsname=固態物理,,,False,材光系,MOES315,3,不分班,"固態物理
-SOLID STATE PHYSICS",3,期,True,50,0,0,50,待聘,"四2(工MS 4019) 五2,3(工MS 4019)","['', '', '', '2', '23', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES315A&Crsname=固態物理,,,False,材光系,MOES315A,3,全英班,"固態物理
-SOLID STATE PHYSICS",3,期,True,50,0,0,50,待聘,"四2(工MS 4019) 五2,3(工MS 4019)","['', '', '', '2', '23', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES315&Crsname=固態物理,異動,確認教師7/28,False,材光系,MOES315,3,不分班,"固態物理
+SOLID STATE PHYSICS",3,期,True,50,0,0,50,李廣輝,"四2(工MS 4019) 五2,3(工MS 4019)","['', '', '', '2', '23', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES315A&Crsname=固態物理,異動,確認教師7/28,False,材光系,MOES315A,3,全英班,"固態物理
+SOLID STATE PHYSICS",3,期,True,50,0,0,50,李廣輝,"四2(工MS 4019) 五2,3(工MS 4019)","['', '', '', '2', '23', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES316&Crsname=光電工程（二）,,,False,材光系,MOES316,4,不分班,"光電工程（二）
 OPTOELECTRONIC ENGINEERING(II)",3,期,False,50,0,0,50,蘇威宏,"一5(工MS 4025) 二6,7(工MS 4025)","['5', '67', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES332&Crsname=材料與光電專題研究（一）,,,False,材光系,MOES332,3,不分班,"材料與光電專題研究（一）
@@ -2388,8 +2388,8 @@ RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(I)",1,期,False,50,0,0,50,蔣酉�
 學生應先找到指導專題研究的教授後再行選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES430&Crsname=奈米材料之特性與應用,異動,更換時間及教室6/18,False,材光系,MOES430,3,不分班,"奈米材料之特性與應用
 CHARACTERISTICS OF NANOMATERIALS AND THEIR APPLICATIONS",3,期,False,50,0,0,50,王映樵,"一2,3,4(工MS 4022)","['234', '', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES432&Crsname=材料顯微分析技術,,,False,材光系,MOES432,4,不分班,"材料顯微分析技術
-MICROANALYSIS TECHNIQUES OF MATERIAL CHARACTERIZATION",3,期,False,50,0,0,50,"張六文,王致傑,蔣酉旺,邱政維,郭哲男,郭紹偉","一2,3,4(工MS 4023)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES432&Crsname=材料顯微分析技術,異動,增加合授教師7/28,False,材光系,MOES432,4,不分班,"材料顯微分析技術
+MICROANALYSIS TECHNIQUES OF MATERIAL CHARACTERIZATION",3,期,False,50,0,0,50,"張六文,李廣輝,王致傑,蔣酉旺,邱政維,郭哲男,郭紹偉","一2,3,4(工MS 4023)","['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES435&Crsname=材料與光電專題研究（三）,,,False,材光系,MOES435,4,不分班,"材料與光電專題研究（三）
 RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(III)",1,期,False,50,0,0,50,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《獨立研究》
 修課學生應先找到指導專題教授再進行選課",[],True
@@ -6481,10 +6481,10 @@ THE THEORY AND PRACTICE OF ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,Fa
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM412&Crsname=國際商管倫理觀的理論與實務,,,False,管理學院,CM412,0,,"國際商管倫理觀的理論與實務
 THE THEORY AND PRACTICE OF ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,0,60,"王致遠,王豫萱,鄭安授",三A(網路大學),"['', '', 'A', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。 限管理學院大學部學生修習(含雙主修、輔系)。 CM411與CM412為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。 網大進行之非同步線上課程。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MRSC114&Crsname=海洋基礎科學,,,False,海科院（學）,MRSC114,1,全英班,"海洋基礎科學
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MRSC114&Crsname=海洋基礎科學,,,False,海科院（學）,MRSC114,1,,"海洋基礎科學
 BASIC MARINE SCIENCES",2,期,False,150,0,0,150,"林梅芳,陳冠宇,黃蔚人","一6,7(海MA 3021)","['67', '', '', '', '', '', '']","《講授類》
 海資系、海工系及海科系大一必修。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MRSC114&Crsname=海洋基礎科學,,,False,海科院（學）,MRSC114,1,,"海洋基礎科學
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MRSC114&Crsname=海洋基礎科學,,,False,海科院（學）,MRSC114,1,全英班,"海洋基礎科學
 BASIC MARINE SCIENCES",2,期,False,150,0,0,150,"林梅芳,陳冠宇,黃蔚人","一6,7(海MA 3021)","['67', '', '', '', '', '', '']","《講授類》
 海資系、海工系及海科系大一必修。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MRSC114&Crsname=海洋基礎科學,,,False,海科院（學）,MRSC114,1,全英班,"海洋基礎科學
