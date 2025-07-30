@@ -1,0 +1,2 @@
+Type of root[964]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[964]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室7/30".
