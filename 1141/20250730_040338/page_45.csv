@@ -29,8 +29,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES202
 ELECTROMAGNETISM (I)",3,期,True,60,0,0,60,林仕鑫,"二2,3,4(工MS 4023)","['', '234', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES202A&Crsname=電磁學（一）,,,False,材光系,MOES202A,2,全英班,"電磁學（一）
 ELECTROMAGNETISM (I)",3,期,True,60,0,0,60,林仕鑫,"二2,3,4(工MS 4023)","['', '234', '', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES204&Crsname=晶體結構與缺陷,,,False,材光系,MOES204,2,不分班,"晶體結構與缺陷
-CRYSTAL STRUCTURES AND DEFECTS",2,期,True,50,0,0,50,待聘,三6(工MS 4022) 四7(工MS 4022),"['', '', '6', '7', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES204&Crsname=晶體結構與缺陷,異動,確認教師7/28,False,材光系,MOES204,2,不分班,"晶體結構與缺陷
+CRYSTAL STRUCTURES AND DEFECTS",2,期,True,50,0,0,50,李廣輝,三6(工MS 4022) 四7(工MS 4022),"['', '', '6', '7', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES204A&Crsname=晶體結構與缺陷,,,False,材光系,MOES204A,2,全英班,"晶體結構與缺陷
 CRYSTAL STRUCTURES AND DEFECTS",2,期,True,50,0,0,50,李伯軒,"三3,4(工MS 2004)","['', '', '34', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES215&Crsname=光學（二）,,,False,材光系,MOES215,3,不分班,"光學（二）
@@ -44,6 +44,6 @@ ELECTRONICS(I)",3,期,False,50,0,0,50,蔡宗鳴,"四3,4(工MS 4019) 五4(工MS 4
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES303&Crsname=材料與光電實驗（一）,異動,修改備註說明7/10,True,材光系,MOES303,3,不分班,"材料與光電實驗（一）
 EXPERIMENTS ON MATERIAL CHARACTERIZATION AND OPTOELECTRONICS（Ⅰ）",2,期,True,30,0,0,30,"蔡宗鳴,蔣酉旺,蘇威宏,郭哲男","四8,9,6,7(工MS 4025)(實驗)","['', '', '', '6789', '', '', '']","《實驗類》
 限學號B123100002~B123100019、B123100021~B123100026、B123021018 、B125025012 、B125040003、B123100027-29",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES303A&Crsname=材料與光電實驗（一）,異動,修正授課方式7/10,True,材光系,MOES303A,3,全英班,"材料與光電實驗（一）
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES303A&Crsname=材料與光電實驗（一）,異動,修正限修名單7/30,True,材光系,MOES303A,3,全英班,"材料與光電實驗（一）
 EXPERIMENTS ON MATERIAL CHARACTERIZATION AND OPTOELECTRONICS（Ⅰ）",2,期,True,30,0,0,30,"葉昀昇,蔡宗鳴,蘇威宏,郭哲男","五8,9,6,7(工MS 4025)(實驗)","['', '', '', '', '6789', '', '']","《實驗類》
-限學號B123105002、B123105004~B123105021、B123105024~B123105027、B123021018 、B125025012 、B125040003",[],True
+限學號B123105002、B123105004~B123105021、B123105024~B123105027、B123105001",[],True
