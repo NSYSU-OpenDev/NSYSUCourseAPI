@@ -1,1 +1,0 @@
-Value of root[964]['room'] changed from "四8,9(管CM 1019)(實驗)" to "一8,9(管CM 4069)(實驗)".

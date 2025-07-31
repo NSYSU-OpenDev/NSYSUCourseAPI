@@ -1,0 +1,18 @@
+Type of root[1276]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1276]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/31".
+Type of root[955]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[955]['changeDescription'] changed from NoneType to str and value changed from None to "7/31".
+Value of root[1276]['teacher'] changed from "待聘" to "葉俊吟".
+Value of root[955]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM412&Crsname=勞工法與勞工問題" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM754&Crsname=新興市場跨國企業之國際化理論".
+Value of root[955]['department'] changed from "企管系" to "企管博".
+Value of root[955]['id'] changed from "BM412" to "BM754".
+Value of root[955]['grade'] changed from "4" to "0".
+Value of root[955]['name'] changed from "勞工法與勞工問題
+LABOR LAW AND LABOR ISSUES" to "新興市場跨國企業之國際化理論
+INTERNATIONALIZATION THEORIES OF MNES FROM EMERGING MARKETS".
+Value of root[955]['teacher'] changed from "簡良機" to "蔡宗霖".
+Value of root[955]['room'] changed from "五2,3,4(管CM 1037)" to "三2,3,4(管CM 1030)".
+Value of root[955]['description'] changed from "《講授類》
+限企管系(含雙主修、輔系)" to "《講授類》
+企業管理組;".
+Value of root[955]['english'] changed from False to True.
