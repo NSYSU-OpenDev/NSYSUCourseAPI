@@ -1,0 +1,1 @@
+Value of root[2403]['teacher'] changed from "劉楚俊,許嘉麟" to "劉楚俊".
