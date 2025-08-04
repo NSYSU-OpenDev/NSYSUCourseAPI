@@ -1,0 +1,3859 @@
+Item root[0]['tags'][0] added to iterable.
+Item root[1]['tags'][0] added to iterable.
+Item root[3]['tags'][0] added to iterable.
+Item root[4]['tags'][0] added to iterable.
+Item root[4]['tags'][1] added to iterable.
+Item root[5]['tags'][0] added to iterable.
+Item root[5]['tags'][1] added to iterable.
+Item root[5]['tags'][2] added to iterable.
+Item root[5]['tags'][3] added to iterable.
+Item root[6]['tags'][0] added to iterable.
+Item root[9]['tags'][0] added to iterable.
+Item root[11]['tags'][0] added to iterable.
+Item root[11]['tags'][1] added to iterable.
+Item root[22]['tags'][0] added to iterable.
+Item root[23]['tags'][0] added to iterable.
+Item root[23]['tags'][1] added to iterable.
+Item root[24]['tags'][0] added to iterable.
+Item root[25]['tags'][0] added to iterable.
+Item root[26]['tags'][0] added to iterable.
+Item root[27]['tags'][0] added to iterable.
+Item root[28]['tags'][0] added to iterable.
+Item root[29]['tags'][0] added to iterable.
+Item root[30]['tags'][0] added to iterable.
+Item root[31]['tags'][0] added to iterable.
+Item root[32]['tags'][0] added to iterable.
+Item root[33]['tags'][0] added to iterable.
+Item root[34]['tags'][0] added to iterable.
+Item root[35]['tags'][0] added to iterable.
+Item root[36]['tags'][0] added to iterable.
+Item root[76]['tags'][0] added to iterable.
+Item root[77]['tags'][0] added to iterable.
+Item root[78]['tags'][0] added to iterable.
+Item root[89]['tags'][0] added to iterable.
+Item root[90]['tags'][0] added to iterable.
+Item root[91]['tags'][0] added to iterable.
+Item root[92]['tags'][0] added to iterable.
+Item root[93]['tags'][0] added to iterable.
+Item root[94]['tags'][0] added to iterable.
+Item root[101]['tags'][0] added to iterable.
+Item root[101]['tags'][1] added to iterable.
+Item root[103]['tags'][0] added to iterable.
+Item root[103]['tags'][1] added to iterable.
+Item root[103]['tags'][2] added to iterable.
+Item root[103]['tags'][3] added to iterable.
+Item root[103]['tags'][4] added to iterable.
+Item root[103]['tags'][5] added to iterable.
+Item root[103]['tags'][6] added to iterable.
+Item root[103]['tags'][7] added to iterable.
+Item root[103]['tags'][8] added to iterable.
+Item root[103]['tags'][9] added to iterable.
+Item root[105]['tags'][0] added to iterable.
+Item root[105]['tags'][1] added to iterable.
+Item root[106]['tags'][0] added to iterable.
+Item root[106]['tags'][1] added to iterable.
+Item root[107]['tags'][0] added to iterable.
+Item root[107]['tags'][1] added to iterable.
+Item root[108]['tags'][0] added to iterable.
+Item root[111]['tags'][0] added to iterable.
+Item root[111]['tags'][1] added to iterable.
+Item root[111]['tags'][2] added to iterable.
+Item root[113]['tags'][0] added to iterable.
+Item root[115]['tags'][0] added to iterable.
+Item root[115]['tags'][1] added to iterable.
+Item root[115]['tags'][2] added to iterable.
+Item root[116]['tags'][0] added to iterable.
+Item root[116]['tags'][1] added to iterable.
+Item root[116]['tags'][2] added to iterable.
+Item root[116]['tags'][3] added to iterable.
+Item root[117]['tags'][0] added to iterable.
+Item root[117]['tags'][1] added to iterable.
+Item root[118]['tags'][0] added to iterable.
+Item root[118]['tags'][1] added to iterable.
+Item root[118]['tags'][2] added to iterable.
+Item root[118]['tags'][3] added to iterable.
+Item root[120]['tags'][0] added to iterable.
+Item root[120]['tags'][1] added to iterable.
+Item root[120]['tags'][2] added to iterable.
+Item root[121]['tags'][0] added to iterable.
+Item root[121]['tags'][1] added to iterable.
+Item root[122]['tags'][0] added to iterable.
+Item root[122]['tags'][1] added to iterable.
+Item root[122]['tags'][2] added to iterable.
+Item root[122]['tags'][3] added to iterable.
+Item root[122]['tags'][4] added to iterable.
+Item root[124]['tags'][0] added to iterable.
+Item root[124]['tags'][1] added to iterable.
+Item root[124]['tags'][2] added to iterable.
+Item root[125]['tags'][0] added to iterable.
+Item root[126]['tags'][0] added to iterable.
+Item root[126]['tags'][1] added to iterable.
+Item root[126]['tags'][2] added to iterable.
+Item root[126]['tags'][3] added to iterable.
+Item root[126]['tags'][4] added to iterable.
+Item root[126]['tags'][5] added to iterable.
+Item root[126]['tags'][6] added to iterable.
+Item root[126]['tags'][7] added to iterable.
+Item root[126]['tags'][8] added to iterable.
+Item root[127]['tags'][0] added to iterable.
+Item root[127]['tags'][1] added to iterable.
+Item root[127]['tags'][2] added to iterable.
+Item root[127]['tags'][3] added to iterable.
+Item root[127]['tags'][4] added to iterable.
+Item root[128]['tags'][0] added to iterable.
+Item root[128]['tags'][1] added to iterable.
+Item root[129]['tags'][0] added to iterable.
+Item root[129]['tags'][1] added to iterable.
+Item root[129]['tags'][2] added to iterable.
+Item root[129]['tags'][3] added to iterable.
+Item root[129]['tags'][4] added to iterable.
+Item root[131]['tags'][0] added to iterable.
+Item root[131]['tags'][1] added to iterable.
+Item root[131]['tags'][2] added to iterable.
+Item root[131]['tags'][3] added to iterable.
+Item root[131]['tags'][4] added to iterable.
+Item root[131]['tags'][5] added to iterable.
+Item root[132]['tags'][0] added to iterable.
+Item root[132]['tags'][1] added to iterable.
+Item root[132]['tags'][2] added to iterable.
+Item root[132]['tags'][3] added to iterable.
+Item root[132]['tags'][4] added to iterable.
+Item root[132]['tags'][5] added to iterable.
+Item root[132]['tags'][6] added to iterable.
+Item root[132]['tags'][7] added to iterable.
+Item root[132]['tags'][8] added to iterable.
+Item root[132]['tags'][9] added to iterable.
+Item root[133]['tags'][0] added to iterable.
+Item root[133]['tags'][1] added to iterable.
+Item root[133]['tags'][2] added to iterable.
+Item root[133]['tags'][3] added to iterable.
+Item root[133]['tags'][4] added to iterable.
+Item root[133]['tags'][5] added to iterable.
+Item root[134]['tags'][0] added to iterable.
+Item root[134]['tags'][1] added to iterable.
+Item root[135]['tags'][0] added to iterable.
+Item root[135]['tags'][1] added to iterable.
+Item root[135]['tags'][2] added to iterable.
+Item root[135]['tags'][3] added to iterable.
+Item root[136]['tags'][0] added to iterable.
+Item root[136]['tags'][1] added to iterable.
+Item root[136]['tags'][2] added to iterable.
+Item root[136]['tags'][3] added to iterable.
+Item root[136]['tags'][4] added to iterable.
+Item root[138]['tags'][0] added to iterable.
+Item root[138]['tags'][1] added to iterable.
+Item root[138]['tags'][2] added to iterable.
+Item root[139]['tags'][0] added to iterable.
+Item root[140]['tags'][0] added to iterable.
+Item root[140]['tags'][1] added to iterable.
+Item root[140]['tags'][2] added to iterable.
+Item root[140]['tags'][3] added to iterable.
+Item root[140]['tags'][4] added to iterable.
+Item root[141]['tags'][0] added to iterable.
+Item root[141]['tags'][1] added to iterable.
+Item root[141]['tags'][2] added to iterable.
+Item root[141]['tags'][3] added to iterable.
+Item root[141]['tags'][4] added to iterable.
+Item root[141]['tags'][5] added to iterable.
+Item root[142]['tags'][0] added to iterable.
+Item root[142]['tags'][1] added to iterable.
+Item root[142]['tags'][2] added to iterable.
+Item root[142]['tags'][3] added to iterable.
+Item root[142]['tags'][4] added to iterable.
+Item root[142]['tags'][5] added to iterable.
+Item root[142]['tags'][6] added to iterable.
+Item root[143]['tags'][0] added to iterable.
+Item root[146]['tags'][0] added to iterable.
+Item root[146]['tags'][1] added to iterable.
+Item root[147]['tags'][0] added to iterable.
+Item root[147]['tags'][1] added to iterable.
+Item root[149]['tags'][0] added to iterable.
+Item root[150]['tags'][0] added to iterable.
+Item root[151]['tags'][0] added to iterable.
+Item root[152]['tags'][0] added to iterable.
+Item root[154]['tags'][0] added to iterable.
+Item root[154]['tags'][1] added to iterable.
+Item root[154]['tags'][2] added to iterable.
+Item root[155]['tags'][0] added to iterable.
+Item root[155]['tags'][1] added to iterable.
+Item root[155]['tags'][2] added to iterable.
+Item root[155]['tags'][3] added to iterable.
+Item root[156]['tags'][0] added to iterable.
+Item root[156]['tags'][1] added to iterable.
+Item root[157]['tags'][0] added to iterable.
+Item root[162]['tags'][0] added to iterable.
+Item root[162]['tags'][1] added to iterable.
+Item root[162]['tags'][2] added to iterable.
+Item root[162]['tags'][3] added to iterable.
+Item root[162]['tags'][4] added to iterable.
+Item root[163]['tags'][0] added to iterable.
+Item root[163]['tags'][1] added to iterable.
+Item root[163]['tags'][2] added to iterable.
+Item root[163]['tags'][3] added to iterable.
+Item root[163]['tags'][4] added to iterable.
+Item root[163]['tags'][5] added to iterable.
+Item root[163]['tags'][6] added to iterable.
+Item root[163]['tags'][7] added to iterable.
+Item root[163]['tags'][8] added to iterable.
+Item root[163]['tags'][9] added to iterable.
+Item root[164]['tags'][0] added to iterable.
+Item root[164]['tags'][1] added to iterable.
+Item root[164]['tags'][2] added to iterable.
+Item root[164]['tags'][3] added to iterable.
+Item root[164]['tags'][4] added to iterable.
+Item root[164]['tags'][5] added to iterable.
+Item root[164]['tags'][6] added to iterable.
+Item root[164]['tags'][7] added to iterable.
+Item root[165]['tags'][0] added to iterable.
+Item root[165]['tags'][1] added to iterable.
+Item root[165]['tags'][2] added to iterable.
+Item root[165]['tags'][3] added to iterable.
+Item root[165]['tags'][4] added to iterable.
+Item root[165]['tags'][5] added to iterable.
+Item root[165]['tags'][6] added to iterable.
+Item root[165]['tags'][7] added to iterable.
+Item root[165]['tags'][8] added to iterable.
+Item root[166]['tags'][0] added to iterable.
+Item root[166]['tags'][1] added to iterable.
+Item root[166]['tags'][2] added to iterable.
+Item root[167]['tags'][0] added to iterable.
+Item root[167]['tags'][1] added to iterable.
+Item root[167]['tags'][2] added to iterable.
+Item root[167]['tags'][3] added to iterable.
+Item root[167]['tags'][4] added to iterable.
+Item root[167]['tags'][5] added to iterable.
+Item root[167]['tags'][6] added to iterable.
+Item root[167]['tags'][7] added to iterable.
+Item root[167]['tags'][8] added to iterable.
+Item root[168]['tags'][0] added to iterable.
+Item root[169]['tags'][0] added to iterable.
+Item root[169]['tags'][1] added to iterable.
+Item root[169]['tags'][2] added to iterable.
+Item root[174]['tags'][0] added to iterable.
+Item root[174]['tags'][1] added to iterable.
+Item root[176]['tags'][0] added to iterable.
+Item root[194]['tags'][0] added to iterable.
+Item root[195]['tags'][0] added to iterable.
+Item root[196]['tags'][0] added to iterable.
+Item root[197]['tags'][0] added to iterable.
+Item root[197]['tags'][1] added to iterable.
+Item root[197]['tags'][2] added to iterable.
+Item root[197]['tags'][3] added to iterable.
+Item root[197]['tags'][4] added to iterable.
+Item root[197]['tags'][5] added to iterable.
+Item root[197]['tags'][6] added to iterable.
+Item root[198]['tags'][0] added to iterable.
+Item root[199]['tags'][0] added to iterable.
+Item root[199]['tags'][1] added to iterable.
+Item root[199]['tags'][2] added to iterable.
+Item root[199]['tags'][3] added to iterable.
+Item root[200]['tags'][0] added to iterable.
+Item root[200]['tags'][1] added to iterable.
+Item root[201]['tags'][0] added to iterable.
+Item root[201]['tags'][1] added to iterable.
+Item root[201]['tags'][2] added to iterable.
+Item root[202]['tags'][0] added to iterable.
+Item root[202]['tags'][1] added to iterable.
+Item root[203]['tags'][0] added to iterable.
+Item root[203]['tags'][1] added to iterable.
+Item root[210]['tags'][0] added to iterable.
+Item root[211]['tags'][0] added to iterable.
+Item root[212]['tags'][0] added to iterable.
+Item root[212]['tags'][1] added to iterable.
+Item root[214]['tags'][0] added to iterable.
+Item root[214]['tags'][1] added to iterable.
+Item root[215]['tags'][0] added to iterable.
+Item root[215]['tags'][1] added to iterable.
+Item root[215]['tags'][2] added to iterable.
+Item root[216]['tags'][0] added to iterable.
+Item root[218]['tags'][0] added to iterable.
+Item root[220]['tags'][0] added to iterable.
+Item root[220]['tags'][1] added to iterable.
+Item root[221]['tags'][0] added to iterable.
+Item root[222]['tags'][0] added to iterable.
+Item root[224]['tags'][0] added to iterable.
+Item root[224]['tags'][1] added to iterable.
+Item root[225]['tags'][0] added to iterable.
+Item root[225]['tags'][1] added to iterable.
+Item root[225]['tags'][2] added to iterable.
+Item root[225]['tags'][3] added to iterable.
+Item root[225]['tags'][4] added to iterable.
+Item root[226]['tags'][0] added to iterable.
+Item root[227]['tags'][0] added to iterable.
+Item root[227]['tags'][1] added to iterable.
+Item root[230]['tags'][0] added to iterable.
+Item root[234]['tags'][0] added to iterable.
+Item root[235]['tags'][0] added to iterable.
+Item root[236]['tags'][0] added to iterable.
+Item root[236]['tags'][1] added to iterable.
+Item root[239]['tags'][0] added to iterable.
+Item root[240]['tags'][0] added to iterable.
+Item root[241]['tags'][0] added to iterable.
+Item root[241]['tags'][1] added to iterable.
+Item root[242]['tags'][0] added to iterable.
+Item root[243]['tags'][0] added to iterable.
+Item root[248]['tags'][0] added to iterable.
+Item root[248]['tags'][1] added to iterable.
+Item root[249]['tags'][0] added to iterable.
+Item root[249]['tags'][1] added to iterable.
+Item root[250]['tags'][0] added to iterable.
+Item root[250]['tags'][1] added to iterable.
+Item root[251]['tags'][0] added to iterable.
+Item root[252]['tags'][0] added to iterable.
+Item root[253]['tags'][0] added to iterable.
+Item root[253]['tags'][1] added to iterable.
+Item root[253]['tags'][2] added to iterable.
+Item root[253]['tags'][3] added to iterable.
+Item root[253]['tags'][4] added to iterable.
+Item root[253]['tags'][5] added to iterable.
+Item root[253]['tags'][6] added to iterable.
+Item root[253]['tags'][7] added to iterable.
+Item root[253]['tags'][8] added to iterable.
+Item root[254]['tags'][0] added to iterable.
+Item root[254]['tags'][1] added to iterable.
+Item root[255]['tags'][0] added to iterable.
+Item root[255]['tags'][1] added to iterable.
+Item root[256]['tags'][0] added to iterable.
+Item root[256]['tags'][1] added to iterable.
+Item root[256]['tags'][2] added to iterable.
+Item root[256]['tags'][3] added to iterable.
+Item root[256]['tags'][4] added to iterable.
+Item root[256]['tags'][5] added to iterable.
+Item root[257]['tags'][0] added to iterable.
+Item root[257]['tags'][1] added to iterable.
+Item root[257]['tags'][2] added to iterable.
+Item root[257]['tags'][3] added to iterable.
+Item root[257]['tags'][4] added to iterable.
+Item root[257]['tags'][5] added to iterable.
+Item root[258]['tags'][0] added to iterable.
+Item root[258]['tags'][1] added to iterable.
+Item root[258]['tags'][2] added to iterable.
+Item root[258]['tags'][3] added to iterable.
+Item root[258]['tags'][4] added to iterable.
+Item root[259]['tags'][0] added to iterable.
+Item root[259]['tags'][1] added to iterable.
+Item root[259]['tags'][2] added to iterable.
+Item root[259]['tags'][3] added to iterable.
+Item root[259]['tags'][4] added to iterable.
+Item root[260]['tags'][0] added to iterable.
+Item root[260]['tags'][1] added to iterable.
+Item root[261]['tags'][0] added to iterable.
+Item root[261]['tags'][1] added to iterable.
+Item root[261]['tags'][2] added to iterable.
+Item root[261]['tags'][3] added to iterable.
+Item root[262]['tags'][0] added to iterable.
+Item root[262]['tags'][1] added to iterable.
+Item root[262]['tags'][2] added to iterable.
+Item root[262]['tags'][3] added to iterable.
+Item root[263]['tags'][0] added to iterable.
+Item root[263]['tags'][1] added to iterable.
+Item root[263]['tags'][2] added to iterable.
+Item root[263]['tags'][3] added to iterable.
+Item root[263]['tags'][4] added to iterable.
+Item root[264]['tags'][0] added to iterable.
+Item root[264]['tags'][1] added to iterable.
+Item root[264]['tags'][2] added to iterable.
+Item root[264]['tags'][3] added to iterable.
+Item root[264]['tags'][4] added to iterable.
+Item root[265]['tags'][0] added to iterable.
+Item root[265]['tags'][1] added to iterable.
+Item root[265]['tags'][2] added to iterable.
+Item root[265]['tags'][3] added to iterable.
+Item root[265]['tags'][4] added to iterable.
+Item root[265]['tags'][5] added to iterable.
+Item root[265]['tags'][6] added to iterable.
+Item root[265]['tags'][7] added to iterable.
+Item root[266]['tags'][0] added to iterable.
+Item root[266]['tags'][1] added to iterable.
+Item root[267]['tags'][0] added to iterable.
+Item root[267]['tags'][1] added to iterable.
+Item root[268]['tags'][0] added to iterable.
+Item root[268]['tags'][1] added to iterable.
+Item root[268]['tags'][2] added to iterable.
+Item root[269]['tags'][0] added to iterable.
+Item root[269]['tags'][1] added to iterable.
+Item root[269]['tags'][2] added to iterable.
+Item root[270]['tags'][0] added to iterable.
+Item root[270]['tags'][1] added to iterable.
+Item root[270]['tags'][2] added to iterable.
+Item root[270]['tags'][3] added to iterable.
+Item root[270]['tags'][4] added to iterable.
+Item root[270]['tags'][5] added to iterable.
+Item root[270]['tags'][6] added to iterable.
+Item root[270]['tags'][7] added to iterable.
+Item root[270]['tags'][8] added to iterable.
+Item root[270]['tags'][9] added to iterable.
+Item root[270]['tags'][10] added to iterable.
+Item root[271]['tags'][0] added to iterable.
+Item root[272]['tags'][0] added to iterable.
+Item root[272]['tags'][1] added to iterable.
+Item root[272]['tags'][2] added to iterable.
+Item root[273]['tags'][0] added to iterable.
+Item root[273]['tags'][1] added to iterable.
+Item root[273]['tags'][2] added to iterable.
+Item root[275]['tags'][0] added to iterable.
+Item root[278]['tags'][0] added to iterable.
+Item root[279]['tags'][0] added to iterable.
+Item root[280]['tags'][0] added to iterable.
+Item root[281]['tags'][0] added to iterable.
+Item root[282]['tags'][0] added to iterable.
+Item root[282]['tags'][1] added to iterable.
+Item root[283]['tags'][0] added to iterable.
+Item root[283]['tags'][1] added to iterable.
+Item root[283]['tags'][2] added to iterable.
+Item root[283]['tags'][3] added to iterable.
+Item root[283]['tags'][4] added to iterable.
+Item root[287]['tags'][0] added to iterable.
+Item root[289]['tags'][0] added to iterable.
+Item root[291]['tags'][0] added to iterable.
+Item root[292]['tags'][0] added to iterable.
+Item root[292]['tags'][1] added to iterable.
+Item root[292]['tags'][2] added to iterable.
+Item root[292]['tags'][3] added to iterable.
+Item root[292]['tags'][4] added to iterable.
+Item root[292]['tags'][5] added to iterable.
+Item root[292]['tags'][6] added to iterable.
+Item root[295]['tags'][0] added to iterable.
+Item root[296]['tags'][0] added to iterable.
+Item root[296]['tags'][1] added to iterable.
+Item root[296]['tags'][2] added to iterable.
+Item root[296]['tags'][3] added to iterable.
+Item root[296]['tags'][4] added to iterable.
+Item root[297]['tags'][0] added to iterable.
+Item root[297]['tags'][1] added to iterable.
+Item root[297]['tags'][2] added to iterable.
+Item root[297]['tags'][3] added to iterable.
+Item root[298]['tags'][0] added to iterable.
+Item root[298]['tags'][1] added to iterable.
+Item root[298]['tags'][2] added to iterable.
+Item root[298]['tags'][3] added to iterable.
+Item root[299]['tags'][0] added to iterable.
+Item root[299]['tags'][1] added to iterable.
+Item root[299]['tags'][2] added to iterable.
+Item root[299]['tags'][3] added to iterable.
+Item root[299]['tags'][4] added to iterable.
+Item root[300]['tags'][0] added to iterable.
+Item root[300]['tags'][1] added to iterable.
+Item root[300]['tags'][2] added to iterable.
+Item root[300]['tags'][3] added to iterable.
+Item root[300]['tags'][4] added to iterable.
+Item root[300]['tags'][5] added to iterable.
+Item root[300]['tags'][6] added to iterable.
+Item root[301]['tags'][0] added to iterable.
+Item root[301]['tags'][1] added to iterable.
+Item root[301]['tags'][2] added to iterable.
+Item root[301]['tags'][3] added to iterable.
+Item root[301]['tags'][4] added to iterable.
+Item root[301]['tags'][5] added to iterable.
+Item root[301]['tags'][6] added to iterable.
+Item root[301]['tags'][7] added to iterable.
+Item root[302]['tags'][0] added to iterable.
+Item root[302]['tags'][1] added to iterable.
+Item root[302]['tags'][2] added to iterable.
+Item root[302]['tags'][3] added to iterable.
+Item root[302]['tags'][4] added to iterable.
+Item root[303]['tags'][0] added to iterable.
+Item root[303]['tags'][1] added to iterable.
+Item root[303]['tags'][2] added to iterable.
+Item root[303]['tags'][3] added to iterable.
+Item root[303]['tags'][4] added to iterable.
+Item root[304]['tags'][0] added to iterable.
+Item root[304]['tags'][1] added to iterable.
+Item root[304]['tags'][2] added to iterable.
+Item root[304]['tags'][3] added to iterable.
+Item root[304]['tags'][4] added to iterable.
+Item root[304]['tags'][5] added to iterable.
+Item root[304]['tags'][6] added to iterable.
+Item root[305]['tags'][0] added to iterable.
+Item root[305]['tags'][1] added to iterable.
+Item root[305]['tags'][2] added to iterable.
+Item root[305]['tags'][3] added to iterable.
+Item root[305]['tags'][4] added to iterable.
+Item root[305]['tags'][5] added to iterable.
+Item root[306]['tags'][0] added to iterable.
+Item root[306]['tags'][1] added to iterable.
+Item root[306]['tags'][2] added to iterable.
+Item root[306]['tags'][3] added to iterable.
+Item root[306]['tags'][4] added to iterable.
+Item root[306]['tags'][5] added to iterable.
+Item root[307]['tags'][0] added to iterable.
+Item root[307]['tags'][1] added to iterable.
+Item root[308]['tags'][0] added to iterable.
+Item root[308]['tags'][1] added to iterable.
+Item root[308]['tags'][2] added to iterable.
+Item root[308]['tags'][3] added to iterable.
+Item root[309]['tags'][0] added to iterable.
+Item root[309]['tags'][1] added to iterable.
+Item root[310]['tags'][0] added to iterable.
+Item root[310]['tags'][1] added to iterable.
+Item root[310]['tags'][2] added to iterable.
+Item root[311]['tags'][0] added to iterable.
+Item root[314]['tags'][0] added to iterable.
+Item root[314]['tags'][1] added to iterable.
+Item root[314]['tags'][2] added to iterable.
+Item root[314]['tags'][3] added to iterable.
+Item root[314]['tags'][4] added to iterable.
+Item root[314]['tags'][5] added to iterable.
+Item root[314]['tags'][6] added to iterable.
+Item root[314]['tags'][7] added to iterable.
+Item root[315]['tags'][0] added to iterable.
+Item root[315]['tags'][1] added to iterable.
+Item root[315]['tags'][2] added to iterable.
+Item root[315]['tags'][3] added to iterable.
+Item root[315]['tags'][4] added to iterable.
+Item root[315]['tags'][5] added to iterable.
+Item root[315]['tags'][6] added to iterable.
+Item root[315]['tags'][7] added to iterable.
+Item root[315]['tags'][8] added to iterable.
+Item root[316]['tags'][0] added to iterable.
+Item root[316]['tags'][1] added to iterable.
+Item root[317]['tags'][0] added to iterable.
+Item root[318]['tags'][0] added to iterable.
+Item root[318]['tags'][1] added to iterable.
+Item root[318]['tags'][2] added to iterable.
+Item root[318]['tags'][3] added to iterable.
+Item root[319]['tags'][0] added to iterable.
+Item root[319]['tags'][1] added to iterable.
+Item root[319]['tags'][2] added to iterable.
+Item root[322]['tags'][0] added to iterable.
+Item root[322]['tags'][1] added to iterable.
+Item root[325]['tags'][0] added to iterable.
+Item root[326]['tags'][0] added to iterable.
+Item root[327]['tags'][0] added to iterable.
+Item root[329]['tags'][0] added to iterable.
+Item root[330]['tags'][0] added to iterable.
+Item root[330]['tags'][1] added to iterable.
+Item root[331]['tags'][0] added to iterable.
+Item root[332]['tags'][0] added to iterable.
+Item root[333]['tags'][0] added to iterable.
+Item root[334]['tags'][0] added to iterable.
+Item root[335]['tags'][0] added to iterable.
+Item root[335]['tags'][1] added to iterable.
+Item root[335]['tags'][2] added to iterable.
+Item root[338]['tags'][0] added to iterable.
+Item root[339]['tags'][0] added to iterable.
+Item root[342]['tags'][0] added to iterable.
+Item root[346]['tags'][0] added to iterable.
+Item root[346]['tags'][1] added to iterable.
+Item root[346]['tags'][2] added to iterable.
+Item root[347]['tags'][0] added to iterable.
+Item root[351]['tags'][0] added to iterable.
+Item root[351]['tags'][1] added to iterable.
+Item root[351]['tags'][2] added to iterable.
+Item root[355]['tags'][0] added to iterable.
+Item root[356]['tags'][0] added to iterable.
+Item root[358]['tags'][0] added to iterable.
+Item root[359]['tags'][0] added to iterable.
+Item root[360]['tags'][0] added to iterable.
+Item root[361]['tags'][0] added to iterable.
+Item root[362]['tags'][0] added to iterable.
+Item root[365]['tags'][0] added to iterable.
+Item root[366]['tags'][0] added to iterable.
+Item root[367]['tags'][0] added to iterable.
+Item root[370]['tags'][0] added to iterable.
+Item root[378]['tags'][0] added to iterable.
+Item root[384]['tags'][0] added to iterable.
+Item root[384]['tags'][1] added to iterable.
+Item root[384]['tags'][2] added to iterable.
+Item root[384]['tags'][3] added to iterable.
+Item root[384]['tags'][4] added to iterable.
+Item root[385]['tags'][0] added to iterable.
+Item root[387]['tags'][0] added to iterable.
+Item root[391]['tags'][0] added to iterable.
+Item root[395]['tags'][0] added to iterable.
+Item root[395]['tags'][1] added to iterable.
+Item root[397]['tags'][0] added to iterable.
+Item root[398]['tags'][0] added to iterable.
+Item root[399]['tags'][0] added to iterable.
+Item root[400]['tags'][0] added to iterable.
+Item root[401]['tags'][0] added to iterable.
+Item root[402]['tags'][0] added to iterable.
+Item root[405]['tags'][0] added to iterable.
+Item root[406]['tags'][0] added to iterable.
+Item root[407]['tags'][0] added to iterable.
+Item root[407]['tags'][1] added to iterable.
+Item root[408]['tags'][0] added to iterable.
+Item root[410]['tags'][0] added to iterable.
+Item root[411]['tags'][0] added to iterable.
+Item root[413]['tags'][0] added to iterable.
+Item root[414]['tags'][0] added to iterable.
+Item root[422]['tags'][0] added to iterable.
+Item root[422]['tags'][1] added to iterable.
+Item root[430]['tags'][0] added to iterable.
+Item root[431]['tags'][0] added to iterable.
+Item root[431]['tags'][1] added to iterable.
+Item root[432]['tags'][0] added to iterable.
+Item root[432]['tags'][1] added to iterable.
+Item root[433]['tags'][0] added to iterable.
+Item root[434]['tags'][0] added to iterable.
+Item root[435]['tags'][0] added to iterable.
+Item root[436]['tags'][0] added to iterable.
+Item root[437]['tags'][0] added to iterable.
+Item root[437]['tags'][1] added to iterable.
+Item root[438]['tags'][0] added to iterable.
+Item root[438]['tags'][1] added to iterable.
+Item root[439]['tags'][0] added to iterable.
+Item root[440]['tags'][0] added to iterable.
+Item root[441]['tags'][0] added to iterable.
+Item root[445]['tags'][0] added to iterable.
+Item root[446]['tags'][0] added to iterable.
+Item root[448]['tags'][0] added to iterable.
+Item root[448]['tags'][1] added to iterable.
+Item root[448]['tags'][2] added to iterable.
+Item root[448]['tags'][3] added to iterable.
+Item root[448]['tags'][4] added to iterable.
+Item root[450]['tags'][0] added to iterable.
+Item root[451]['tags'][0] added to iterable.
+Item root[452]['tags'][0] added to iterable.
+Item root[453]['tags'][0] added to iterable.
+Item root[454]['tags'][0] added to iterable.
+Item root[454]['tags'][1] added to iterable.
+Item root[455]['tags'][0] added to iterable.
+Item root[456]['tags'][0] added to iterable.
+Item root[456]['tags'][1] added to iterable.
+Item root[460]['tags'][0] added to iterable.
+Item root[460]['tags'][1] added to iterable.
+Item root[463]['tags'][0] added to iterable.
+Item root[464]['tags'][0] added to iterable.
+Item root[465]['tags'][0] added to iterable.
+Item root[466]['tags'][0] added to iterable.
+Item root[467]['tags'][0] added to iterable.
+Item root[492]['tags'][0] added to iterable.
+Item root[496]['tags'][0] added to iterable.
+Item root[500]['tags'][0] added to iterable.
+Item root[500]['tags'][1] added to iterable.
+Item root[500]['tags'][2] added to iterable.
+Item root[510]['tags'][0] added to iterable.
+Item root[510]['tags'][1] added to iterable.
+Item root[512]['tags'][0] added to iterable.
+Item root[512]['tags'][1] added to iterable.
+Item root[512]['tags'][2] added to iterable.
+Item root[518]['tags'][0] added to iterable.
+Item root[520]['tags'][0] added to iterable.
+Item root[520]['tags'][1] added to iterable.
+Item root[522]['tags'][0] added to iterable.
+Item root[524]['tags'][0] added to iterable.
+Item root[529]['tags'][0] added to iterable.
+Item root[534]['tags'][0] added to iterable.
+Item root[534]['tags'][1] added to iterable.
+Item root[535]['tags'][0] added to iterable.
+Item root[537]['tags'][0] added to iterable.
+Item root[539]['tags'][0] added to iterable.
+Item root[547]['tags'][0] added to iterable.
+Item root[548]['tags'][0] added to iterable.
+Item root[561]['tags'][0] added to iterable.
+Item root[561]['tags'][1] added to iterable.
+Item root[561]['tags'][2] added to iterable.
+Item root[561]['tags'][3] added to iterable.
+Item root[562]['tags'][0] added to iterable.
+Item root[567]['tags'][0] added to iterable.
+Item root[567]['tags'][1] added to iterable.
+Item root[568]['tags'][0] added to iterable.
+Item root[568]['tags'][1] added to iterable.
+Item root[569]['tags'][0] added to iterable.
+Item root[570]['tags'][0] added to iterable.
+Item root[573]['tags'][0] added to iterable.
+Item root[574]['tags'][0] added to iterable.
+Item root[574]['tags'][1] added to iterable.
+Item root[575]['tags'][0] added to iterable.
+Item root[575]['tags'][1] added to iterable.
+Item root[575]['tags'][2] added to iterable.
+Item root[576]['tags'][0] added to iterable.
+Item root[576]['tags'][1] added to iterable.
+Item root[576]['tags'][2] added to iterable.
+Item root[577]['tags'][0] added to iterable.
+Item root[577]['tags'][1] added to iterable.
+Item root[578]['tags'][0] added to iterable.
+Item root[578]['tags'][1] added to iterable.
+Item root[580]['tags'][0] added to iterable.
+Item root[583]['tags'][0] added to iterable.
+Item root[583]['tags'][1] added to iterable.
+Item root[583]['tags'][2] added to iterable.
+Item root[586]['tags'][0] added to iterable.
+Item root[586]['tags'][1] added to iterable.
+Item root[586]['tags'][2] added to iterable.
+Item root[586]['tags'][3] added to iterable.
+Item root[586]['tags'][4] added to iterable.
+Item root[586]['tags'][5] added to iterable.
+Item root[587]['tags'][0] added to iterable.
+Item root[587]['tags'][1] added to iterable.
+Item root[587]['tags'][2] added to iterable.
+Item root[587]['tags'][3] added to iterable.
+Item root[587]['tags'][4] added to iterable.
+Item root[587]['tags'][5] added to iterable.
+Item root[588]['tags'][0] added to iterable.
+Item root[588]['tags'][1] added to iterable.
+Item root[588]['tags'][2] added to iterable.
+Item root[590]['tags'][0] added to iterable.
+Item root[591]['tags'][0] added to iterable.
+Item root[594]['tags'][0] added to iterable.
+Item root[595]['tags'][0] added to iterable.
+Item root[596]['tags'][0] added to iterable.
+Item root[597]['tags'][0] added to iterable.
+Item root[598]['tags'][0] added to iterable.
+Item root[603]['tags'][0] added to iterable.
+Item root[604]['tags'][0] added to iterable.
+Item root[605]['tags'][0] added to iterable.
+Item root[606]['tags'][0] added to iterable.
+Item root[607]['tags'][0] added to iterable.
+Item root[607]['tags'][1] added to iterable.
+Item root[608]['tags'][0] added to iterable.
+Item root[608]['tags'][1] added to iterable.
+Item root[609]['tags'][0] added to iterable.
+Item root[609]['tags'][1] added to iterable.
+Item root[610]['tags'][0] added to iterable.
+Item root[610]['tags'][1] added to iterable.
+Item root[617]['tags'][0] added to iterable.
+Item root[617]['tags'][1] added to iterable.
+Item root[621]['tags'][0] added to iterable.
+Item root[622]['tags'][0] added to iterable.
+Item root[623]['tags'][0] added to iterable.
+Item root[624]['tags'][0] added to iterable.
+Item root[625]['tags'][0] added to iterable.
+Item root[630]['tags'][0] added to iterable.
+Item root[633]['tags'][0] added to iterable.
+Item root[633]['tags'][1] added to iterable.
+Item root[635]['tags'][0] added to iterable.
+Item root[636]['tags'][0] added to iterable.
+Item root[638]['tags'][0] added to iterable.
+Item root[639]['tags'][0] added to iterable.
+Item root[639]['tags'][1] added to iterable.
+Item root[639]['tags'][2] added to iterable.
+Item root[640]['tags'][0] added to iterable.
+Item root[641]['tags'][0] added to iterable.
+Item root[641]['tags'][1] added to iterable.
+Item root[642]['tags'][0] added to iterable.
+Item root[643]['tags'][0] added to iterable.
+Item root[644]['tags'][0] added to iterable.
+Item root[645]['tags'][0] added to iterable.
+Item root[646]['tags'][0] added to iterable.
+Item root[647]['tags'][0] added to iterable.
+Item root[648]['tags'][0] added to iterable.
+Item root[649]['tags'][0] added to iterable.
+Item root[650]['tags'][0] added to iterable.
+Item root[651]['tags'][0] added to iterable.
+Item root[652]['tags'][0] added to iterable.
+Item root[653]['tags'][0] added to iterable.
+Item root[654]['tags'][0] added to iterable.
+Item root[655]['tags'][0] added to iterable.
+Item root[656]['tags'][0] added to iterable.
+Item root[657]['tags'][0] added to iterable.
+Item root[658]['tags'][0] added to iterable.
+Item root[659]['tags'][0] added to iterable.
+Item root[660]['tags'][0] added to iterable.
+Item root[661]['tags'][0] added to iterable.
+Item root[663]['tags'][0] added to iterable.
+Item root[664]['tags'][0] added to iterable.
+Item root[664]['tags'][1] added to iterable.
+Item root[664]['tags'][2] added to iterable.
+Item root[664]['tags'][3] added to iterable.
+Item root[664]['tags'][4] added to iterable.
+Item root[664]['tags'][5] added to iterable.
+Item root[664]['tags'][6] added to iterable.
+Item root[664]['tags'][7] added to iterable.
+Item root[664]['tags'][8] added to iterable.
+Item root[676]['tags'][0] added to iterable.
+Item root[676]['tags'][1] added to iterable.
+Item root[677]['tags'][0] added to iterable.
+Item root[677]['tags'][1] added to iterable.
+Item root[678]['tags'][0] added to iterable.
+Item root[678]['tags'][1] added to iterable.
+Item root[679]['tags'][0] added to iterable.
+Item root[679]['tags'][1] added to iterable.
+Item root[680]['tags'][0] added to iterable.
+Item root[681]['tags'][0] added to iterable.
+Item root[682]['tags'][0] added to iterable.
+Item root[683]['tags'][0] added to iterable.
+Item root[684]['tags'][0] added to iterable.
+Item root[685]['tags'][0] added to iterable.
+Item root[685]['tags'][1] added to iterable.
+Item root[685]['tags'][2] added to iterable.
+Item root[686]['tags'][0] added to iterable.
+Item root[686]['tags'][1] added to iterable.
+Item root[686]['tags'][2] added to iterable.
+Item root[687]['tags'][0] added to iterable.
+Item root[687]['tags'][1] added to iterable.
+Item root[687]['tags'][2] added to iterable.
+Item root[688]['tags'][0] added to iterable.
+Item root[688]['tags'][1] added to iterable.
+Item root[688]['tags'][2] added to iterable.
+Item root[690]['tags'][0] added to iterable.
+Item root[691]['tags'][0] added to iterable.
+Item root[692]['tags'][0] added to iterable.
+Item root[692]['tags'][1] added to iterable.
+Item root[694]['tags'][0] added to iterable.
+Item root[695]['tags'][0] added to iterable.
+Item root[695]['tags'][1] added to iterable.
+Item root[695]['tags'][2] added to iterable.
+Item root[695]['tags'][3] added to iterable.
+Item root[695]['tags'][4] added to iterable.
+Item root[695]['tags'][5] added to iterable.
+Item root[696]['tags'][0] added to iterable.
+Item root[696]['tags'][1] added to iterable.
+Item root[697]['tags'][0] added to iterable.
+Item root[697]['tags'][1] added to iterable.
+Item root[699]['tags'][0] added to iterable.
+Item root[700]['tags'][0] added to iterable.
+Item root[701]['tags'][0] added to iterable.
+Item root[702]['tags'][0] added to iterable.
+Item root[702]['tags'][1] added to iterable.
+Item root[703]['tags'][0] added to iterable.
+Item root[703]['tags'][1] added to iterable.
+Item root[704]['tags'][0] added to iterable.
+Item root[704]['tags'][1] added to iterable.
+Item root[705]['tags'][0] added to iterable.
+Item root[705]['tags'][1] added to iterable.
+Item root[705]['tags'][2] added to iterable.
+Item root[705]['tags'][3] added to iterable.
+Item root[705]['tags'][4] added to iterable.
+Item root[706]['tags'][0] added to iterable.
+Item root[706]['tags'][1] added to iterable.
+Item root[706]['tags'][2] added to iterable.
+Item root[706]['tags'][3] added to iterable.
+Item root[706]['tags'][4] added to iterable.
+Item root[707]['tags'][0] added to iterable.
+Item root[707]['tags'][1] added to iterable.
+Item root[707]['tags'][2] added to iterable.
+Item root[707]['tags'][3] added to iterable.
+Item root[707]['tags'][4] added to iterable.
+Item root[708]['tags'][0] added to iterable.
+Item root[708]['tags'][1] added to iterable.
+Item root[708]['tags'][2] added to iterable.
+Item root[709]['tags'][0] added to iterable.
+Item root[709]['tags'][1] added to iterable.
+Item root[709]['tags'][2] added to iterable.
+Item root[710]['tags'][0] added to iterable.
+Item root[710]['tags'][1] added to iterable.
+Item root[710]['tags'][2] added to iterable.
+Item root[714]['tags'][0] added to iterable.
+Item root[714]['tags'][1] added to iterable.
+Item root[714]['tags'][2] added to iterable.
+Item root[714]['tags'][3] added to iterable.
+Item root[714]['tags'][4] added to iterable.
+Item root[715]['tags'][0] added to iterable.
+Item root[715]['tags'][1] added to iterable.
+Item root[715]['tags'][2] added to iterable.
+Item root[715]['tags'][3] added to iterable.
+Item root[715]['tags'][4] added to iterable.
+Item root[716]['tags'][0] added to iterable.
+Item root[716]['tags'][1] added to iterable.
+Item root[716]['tags'][2] added to iterable.
+Item root[716]['tags'][3] added to iterable.
+Item root[716]['tags'][4] added to iterable.
+Item root[719]['tags'][0] added to iterable.
+Item root[719]['tags'][1] added to iterable.
+Item root[719]['tags'][2] added to iterable.
+Item root[719]['tags'][3] added to iterable.
+Item root[719]['tags'][4] added to iterable.
+Item root[719]['tags'][5] added to iterable.
+Item root[720]['tags'][0] added to iterable.
+Item root[720]['tags'][1] added to iterable.
+Item root[720]['tags'][2] added to iterable.
+Item root[720]['tags'][3] added to iterable.
+Item root[721]['tags'][0] added to iterable.
+Item root[721]['tags'][1] added to iterable.
+Item root[721]['tags'][2] added to iterable.
+Item root[721]['tags'][3] added to iterable.
+Item root[722]['tags'][0] added to iterable.
+Item root[722]['tags'][1] added to iterable.
+Item root[722]['tags'][2] added to iterable.
+Item root[722]['tags'][3] added to iterable.
+Item root[723]['tags'][0] added to iterable.
+Item root[723]['tags'][1] added to iterable.
+Item root[723]['tags'][2] added to iterable.
+Item root[723]['tags'][3] added to iterable.
+Item root[723]['tags'][4] added to iterable.
+Item root[723]['tags'][5] added to iterable.
+Item root[724]['tags'][0] added to iterable.
+Item root[724]['tags'][1] added to iterable.
+Item root[725]['tags'][0] added to iterable.
+Item root[725]['tags'][1] added to iterable.
+Item root[726]['tags'][0] added to iterable.
+Item root[726]['tags'][1] added to iterable.
+Item root[727]['tags'][0] added to iterable.
+Item root[727]['tags'][1] added to iterable.
+Item root[727]['tags'][2] added to iterable.
+Item root[727]['tags'][3] added to iterable.
+Item root[727]['tags'][4] added to iterable.
+Item root[728]['tags'][0] added to iterable.
+Item root[728]['tags'][1] added to iterable.
+Item root[728]['tags'][2] added to iterable.
+Item root[728]['tags'][3] added to iterable.
+Item root[728]['tags'][4] added to iterable.
+Item root[729]['tags'][0] added to iterable.
+Item root[729]['tags'][1] added to iterable.
+Item root[729]['tags'][2] added to iterable.
+Item root[729]['tags'][3] added to iterable.
+Item root[729]['tags'][4] added to iterable.
+Item root[730]['tags'][0] added to iterable.
+Item root[730]['tags'][1] added to iterable.
+Item root[731]['tags'][0] added to iterable.
+Item root[732]['tags'][0] added to iterable.
+Item root[733]['tags'][0] added to iterable.
+Item root[737]['tags'][0] added to iterable.
+Item root[737]['tags'][1] added to iterable.
+Item root[738]['tags'][0] added to iterable.
+Item root[738]['tags'][1] added to iterable.
+Item root[738]['tags'][2] added to iterable.
+Item root[738]['tags'][3] added to iterable.
+Item root[738]['tags'][4] added to iterable.
+Item root[739]['tags'][0] added to iterable.
+Item root[739]['tags'][1] added to iterable.
+Item root[739]['tags'][2] added to iterable.
+Item root[739]['tags'][3] added to iterable.
+Item root[739]['tags'][4] added to iterable.
+Item root[740]['tags'][0] added to iterable.
+Item root[740]['tags'][1] added to iterable.
+Item root[740]['tags'][2] added to iterable.
+Item root[740]['tags'][3] added to iterable.
+Item root[741]['tags'][0] added to iterable.
+Item root[741]['tags'][1] added to iterable.
+Item root[741]['tags'][2] added to iterable.
+Item root[741]['tags'][3] added to iterable.
+Item root[742]['tags'][0] added to iterable.
+Item root[742]['tags'][1] added to iterable.
+Item root[742]['tags'][2] added to iterable.
+Item root[742]['tags'][3] added to iterable.
+Item root[743]['tags'][0] added to iterable.
+Item root[743]['tags'][1] added to iterable.
+Item root[743]['tags'][2] added to iterable.
+Item root[743]['tags'][3] added to iterable.
+Item root[747]['tags'][0] added to iterable.
+Item root[748]['tags'][0] added to iterable.
+Item root[748]['tags'][1] added to iterable.
+Item root[748]['tags'][2] added to iterable.
+Item root[749]['tags'][0] added to iterable.
+Item root[749]['tags'][1] added to iterable.
+Item root[749]['tags'][2] added to iterable.
+Item root[750]['tags'][0] added to iterable.
+Item root[751]['tags'][0] added to iterable.
+Item root[752]['tags'][0] added to iterable.
+Item root[752]['tags'][1] added to iterable.
+Item root[752]['tags'][2] added to iterable.
+Item root[753]['tags'][0] added to iterable.
+Item root[753]['tags'][1] added to iterable.
+Item root[753]['tags'][2] added to iterable.
+Item root[754]['tags'][0] added to iterable.
+Item root[754]['tags'][1] added to iterable.
+Item root[754]['tags'][2] added to iterable.
+Item root[755]['tags'][0] added to iterable.
+Item root[755]['tags'][1] added to iterable.
+Item root[756]['tags'][0] added to iterable.
+Item root[758]['tags'][0] added to iterable.
+Item root[759]['tags'][0] added to iterable.
+Item root[764]['tags'][0] added to iterable.
+Item root[765]['tags'][0] added to iterable.
+Item root[766]['tags'][0] added to iterable.
+Item root[767]['tags'][0] added to iterable.
+Item root[768]['tags'][0] added to iterable.
+Item root[769]['tags'][0] added to iterable.
+Item root[770]['tags'][0] added to iterable.
+Item root[770]['tags'][1] added to iterable.
+Item root[770]['tags'][2] added to iterable.
+Item root[771]['tags'][0] added to iterable.
+Item root[771]['tags'][1] added to iterable.
+Item root[771]['tags'][2] added to iterable.
+Item root[772]['tags'][0] added to iterable.
+Item root[772]['tags'][1] added to iterable.
+Item root[772]['tags'][2] added to iterable.
+Item root[776]['tags'][0] added to iterable.
+Item root[780]['tags'][0] added to iterable.
+Item root[780]['tags'][1] added to iterable.
+Item root[780]['tags'][2] added to iterable.
+Item root[781]['tags'][0] added to iterable.
+Item root[781]['tags'][1] added to iterable.
+Item root[781]['tags'][2] added to iterable.
+Item root[782]['tags'][0] added to iterable.
+Item root[782]['tags'][1] added to iterable.
+Item root[782]['tags'][2] added to iterable.
+Item root[783]['tags'][0] added to iterable.
+Item root[783]['tags'][1] added to iterable.
+Item root[783]['tags'][2] added to iterable.
+Item root[783]['tags'][3] added to iterable.
+Item root[783]['tags'][4] added to iterable.
+Item root[783]['tags'][5] added to iterable.
+Item root[784]['tags'][0] added to iterable.
+Item root[784]['tags'][1] added to iterable.
+Item root[784]['tags'][2] added to iterable.
+Item root[784]['tags'][3] added to iterable.
+Item root[784]['tags'][4] added to iterable.
+Item root[784]['tags'][5] added to iterable.
+Item root[785]['tags'][0] added to iterable.
+Item root[785]['tags'][1] added to iterable.
+Item root[785]['tags'][2] added to iterable.
+Item root[785]['tags'][3] added to iterable.
+Item root[785]['tags'][4] added to iterable.
+Item root[785]['tags'][5] added to iterable.
+Item root[786]['tags'][0] added to iterable.
+Item root[786]['tags'][1] added to iterable.
+Item root[786]['tags'][2] added to iterable.
+Item root[786]['tags'][3] added to iterable.
+Item root[787]['tags'][0] added to iterable.
+Item root[787]['tags'][1] added to iterable.
+Item root[787]['tags'][2] added to iterable.
+Item root[787]['tags'][3] added to iterable.
+Item root[788]['tags'][0] added to iterable.
+Item root[788]['tags'][1] added to iterable.
+Item root[788]['tags'][2] added to iterable.
+Item root[788]['tags'][3] added to iterable.
+Item root[789]['tags'][0] added to iterable.
+Item root[790]['tags'][0] added to iterable.
+Item root[791]['tags'][0] added to iterable.
+Item root[792]['tags'][0] added to iterable.
+Item root[792]['tags'][1] added to iterable.
+Item root[792]['tags'][2] added to iterable.
+Item root[792]['tags'][3] added to iterable.
+Item root[792]['tags'][4] added to iterable.
+Item root[793]['tags'][0] added to iterable.
+Item root[793]['tags'][1] added to iterable.
+Item root[793]['tags'][2] added to iterable.
+Item root[793]['tags'][3] added to iterable.
+Item root[793]['tags'][4] added to iterable.
+Item root[794]['tags'][0] added to iterable.
+Item root[794]['tags'][1] added to iterable.
+Item root[794]['tags'][2] added to iterable.
+Item root[794]['tags'][3] added to iterable.
+Item root[794]['tags'][4] added to iterable.
+Item root[795]['tags'][0] added to iterable.
+Item root[795]['tags'][1] added to iterable.
+Item root[795]['tags'][2] added to iterable.
+Item root[796]['tags'][0] added to iterable.
+Item root[796]['tags'][1] added to iterable.
+Item root[796]['tags'][2] added to iterable.
+Item root[797]['tags'][0] added to iterable.
+Item root[797]['tags'][1] added to iterable.
+Item root[797]['tags'][2] added to iterable.
+Item root[798]['tags'][0] added to iterable.
+Item root[799]['tags'][0] added to iterable.
+Item root[800]['tags'][0] added to iterable.
+Item root[801]['tags'][0] added to iterable.
+Item root[802]['tags'][0] added to iterable.
+Item root[803]['tags'][0] added to iterable.
+Item root[804]['tags'][0] added to iterable.
+Item root[804]['tags'][1] added to iterable.
+Item root[804]['tags'][2] added to iterable.
+Item root[804]['tags'][3] added to iterable.
+Item root[805]['tags'][0] added to iterable.
+Item root[805]['tags'][1] added to iterable.
+Item root[805]['tags'][2] added to iterable.
+Item root[805]['tags'][3] added to iterable.
+Item root[806]['tags'][0] added to iterable.
+Item root[806]['tags'][1] added to iterable.
+Item root[806]['tags'][2] added to iterable.
+Item root[806]['tags'][3] added to iterable.
+Item root[808]['tags'][0] added to iterable.
+Item root[808]['tags'][1] added to iterable.
+Item root[808]['tags'][2] added to iterable.
+Item root[808]['tags'][3] added to iterable.
+Item root[809]['tags'][0] added to iterable.
+Item root[810]['tags'][0] added to iterable.
+Item root[815]['tags'][0] added to iterable.
+Item root[816]['tags'][0] added to iterable.
+Item root[817]['tags'][0] added to iterable.
+Item root[818]['tags'][0] added to iterable.
+Item root[819]['tags'][0] added to iterable.
+Item root[822]['tags'][0] added to iterable.
+Item root[823]['tags'][0] added to iterable.
+Item root[825]['tags'][0] added to iterable.
+Item root[826]['tags'][0] added to iterable.
+Item root[826]['tags'][1] added to iterable.
+Item root[826]['tags'][2] added to iterable.
+Item root[827]['tags'][0] added to iterable.
+Item root[827]['tags'][1] added to iterable.
+Item root[827]['tags'][2] added to iterable.
+Item root[827]['tags'][3] added to iterable.
+Item root[827]['tags'][4] added to iterable.
+Item root[828]['tags'][0] added to iterable.
+Item root[828]['tags'][1] added to iterable.
+Item root[830]['tags'][0] added to iterable.
+Item root[830]['tags'][1] added to iterable.
+Item root[832]['tags'][0] added to iterable.
+Item root[834]['tags'][0] added to iterable.
+Item root[834]['tags'][1] added to iterable.
+Item root[834]['tags'][2] added to iterable.
+Item root[835]['tags'][0] added to iterable.
+Item root[835]['tags'][1] added to iterable.
+Item root[835]['tags'][2] added to iterable.
+Item root[836]['tags'][0] added to iterable.
+Item root[836]['tags'][1] added to iterable.
+Item root[836]['tags'][2] added to iterable.
+Item root[836]['tags'][3] added to iterable.
+Item root[836]['tags'][4] added to iterable.
+Item root[836]['tags'][5] added to iterable.
+Item root[836]['tags'][6] added to iterable.
+Item root[836]['tags'][7] added to iterable.
+Item root[836]['tags'][8] added to iterable.
+Item root[836]['tags'][9] added to iterable.
+Item root[836]['tags'][10] added to iterable.
+Item root[838]['tags'][0] added to iterable.
+Item root[838]['tags'][1] added to iterable.
+Item root[838]['tags'][2] added to iterable.
+Item root[839]['tags'][0] added to iterable.
+Item root[839]['tags'][1] added to iterable.
+Item root[839]['tags'][2] added to iterable.
+Item root[839]['tags'][3] added to iterable.
+Item root[839]['tags'][4] added to iterable.
+Item root[839]['tags'][5] added to iterable.
+Item root[839]['tags'][6] added to iterable.
+Item root[840]['tags'][0] added to iterable.
+Item root[840]['tags'][1] added to iterable.
+Item root[840]['tags'][2] added to iterable.
+Item root[840]['tags'][3] added to iterable.
+Item root[840]['tags'][4] added to iterable.
+Item root[840]['tags'][5] added to iterable.
+Item root[840]['tags'][6] added to iterable.
+Item root[840]['tags'][7] added to iterable.
+Item root[840]['tags'][8] added to iterable.
+Item root[840]['tags'][9] added to iterable.
+Item root[843]['tags'][0] added to iterable.
+Item root[844]['tags'][0] added to iterable.
+Item root[844]['tags'][1] added to iterable.
+Item root[844]['tags'][2] added to iterable.
+Item root[844]['tags'][3] added to iterable.
+Item root[845]['tags'][0] added to iterable.
+Item root[846]['tags'][0] added to iterable.
+Item root[847]['tags'][0] added to iterable.
+Item root[847]['tags'][1] added to iterable.
+Item root[847]['tags'][2] added to iterable.
+Item root[848]['tags'][0] added to iterable.
+Item root[848]['tags'][1] added to iterable.
+Item root[848]['tags'][2] added to iterable.
+Item root[849]['tags'][0] added to iterable.
+Item root[850]['tags'][0] added to iterable.
+Item root[852]['tags'][0] added to iterable.
+Item root[853]['tags'][0] added to iterable.
+Item root[853]['tags'][1] added to iterable.
+Item root[853]['tags'][2] added to iterable.
+Item root[854]['tags'][0] added to iterable.
+Item root[854]['tags'][1] added to iterable.
+Item root[854]['tags'][2] added to iterable.
+Item root[854]['tags'][3] added to iterable.
+Item root[854]['tags'][4] added to iterable.
+Item root[854]['tags'][5] added to iterable.
+Item root[855]['tags'][0] added to iterable.
+Item root[855]['tags'][1] added to iterable.
+Item root[856]['tags'][0] added to iterable.
+Item root[856]['tags'][1] added to iterable.
+Item root[859]['tags'][0] added to iterable.
+Item root[859]['tags'][1] added to iterable.
+Item root[860]['tags'][0] added to iterable.
+Item root[860]['tags'][1] added to iterable.
+Item root[863]['tags'][0] added to iterable.
+Item root[864]['tags'][0] added to iterable.
+Item root[865]['tags'][0] added to iterable.
+Item root[865]['tags'][1] added to iterable.
+Item root[866]['tags'][0] added to iterable.
+Item root[866]['tags'][1] added to iterable.
+Item root[867]['tags'][0] added to iterable.
+Item root[868]['tags'][0] added to iterable.
+Item root[869]['tags'][0] added to iterable.
+Item root[869]['tags'][1] added to iterable.
+Item root[869]['tags'][2] added to iterable.
+Item root[870]['tags'][0] added to iterable.
+Item root[870]['tags'][1] added to iterable.
+Item root[870]['tags'][2] added to iterable.
+Item root[871]['tags'][0] added to iterable.
+Item root[872]['tags'][0] added to iterable.
+Item root[880]['tags'][0] added to iterable.
+Item root[881]['tags'][0] added to iterable.
+Item root[882]['tags'][0] added to iterable.
+Item root[883]['tags'][0] added to iterable.
+Item root[886]['tags'][0] added to iterable.
+Item root[886]['tags'][1] added to iterable.
+Item root[886]['tags'][2] added to iterable.
+Item root[886]['tags'][3] added to iterable.
+Item root[886]['tags'][4] added to iterable.
+Item root[886]['tags'][5] added to iterable.
+Item root[886]['tags'][6] added to iterable.
+Item root[887]['tags'][0] added to iterable.
+Item root[887]['tags'][1] added to iterable.
+Item root[887]['tags'][2] added to iterable.
+Item root[887]['tags'][3] added to iterable.
+Item root[887]['tags'][4] added to iterable.
+Item root[887]['tags'][5] added to iterable.
+Item root[887]['tags'][6] added to iterable.
+Item root[888]['tags'][0] added to iterable.
+Item root[889]['tags'][0] added to iterable.
+Item root[890]['tags'][0] added to iterable.
+Item root[890]['tags'][1] added to iterable.
+Item root[891]['tags'][0] added to iterable.
+Item root[891]['tags'][1] added to iterable.
+Item root[892]['tags'][0] added to iterable.
+Item root[892]['tags'][1] added to iterable.
+Item root[893]['tags'][0] added to iterable.
+Item root[893]['tags'][1] added to iterable.
+Item root[894]['tags'][0] added to iterable.
+Item root[895]['tags'][0] added to iterable.
+Item root[895]['tags'][1] added to iterable.
+Item root[896]['tags'][0] added to iterable.
+Item root[897]['tags'][0] added to iterable.
+Item root[897]['tags'][1] added to iterable.
+Item root[897]['tags'][2] added to iterable.
+Item root[897]['tags'][3] added to iterable.
+Item root[900]['tags'][0] added to iterable.
+Item root[901]['tags'][0] added to iterable.
+Item root[901]['tags'][1] added to iterable.
+Item root[901]['tags'][2] added to iterable.
+Item root[901]['tags'][3] added to iterable.
+Item root[902]['tags'][0] added to iterable.
+Item root[902]['tags'][1] added to iterable.
+Item root[902]['tags'][2] added to iterable.
+Item root[902]['tags'][3] added to iterable.
+Item root[903]['tags'][0] added to iterable.
+Item root[903]['tags'][1] added to iterable.
+Item root[903]['tags'][2] added to iterable.
+Item root[903]['tags'][3] added to iterable.
+Item root[903]['tags'][4] added to iterable.
+Item root[904]['tags'][0] added to iterable.
+Item root[904]['tags'][1] added to iterable.
+Item root[904]['tags'][2] added to iterable.
+Item root[904]['tags'][3] added to iterable.
+Item root[904]['tags'][4] added to iterable.
+Item root[907]['tags'][0] added to iterable.
+Item root[907]['tags'][1] added to iterable.
+Item root[908]['tags'][0] added to iterable.
+Item root[908]['tags'][1] added to iterable.
+Item root[915]['tags'][0] added to iterable.
+Item root[917]['tags'][0] added to iterable.
+Item root[918]['tags'][0] added to iterable.
+Item root[918]['tags'][1] added to iterable.
+Item root[918]['tags'][2] added to iterable.
+Item root[919]['tags'][0] added to iterable.
+Item root[919]['tags'][1] added to iterable.
+Item root[919]['tags'][2] added to iterable.
+Item root[919]['tags'][3] added to iterable.
+Item root[919]['tags'][4] added to iterable.
+Item root[920]['tags'][0] added to iterable.
+Item root[920]['tags'][1] added to iterable.
+Item root[921]['tags'][0] added to iterable.
+Item root[921]['tags'][1] added to iterable.
+Item root[921]['tags'][2] added to iterable.
+Item root[922]['tags'][0] added to iterable.
+Item root[922]['tags'][1] added to iterable.
+Item root[922]['tags'][2] added to iterable.
+Item root[922]['tags'][3] added to iterable.
+Item root[922]['tags'][4] added to iterable.
+Item root[922]['tags'][5] added to iterable.
+Item root[922]['tags'][6] added to iterable.
+Item root[923]['tags'][0] added to iterable.
+Item root[924]['tags'][0] added to iterable.
+Item root[925]['tags'][0] added to iterable.
+Item root[928]['tags'][0] added to iterable.
+Item root[929]['tags'][0] added to iterable.
+Item root[937]['tags'][0] added to iterable.
+Item root[937]['tags'][1] added to iterable.
+Item root[937]['tags'][2] added to iterable.
+Item root[937]['tags'][3] added to iterable.
+Item root[937]['tags'][4] added to iterable.
+Item root[938]['tags'][0] added to iterable.
+Item root[938]['tags'][1] added to iterable.
+Item root[938]['tags'][2] added to iterable.
+Item root[938]['tags'][3] added to iterable.
+Item root[938]['tags'][4] added to iterable.
+Item root[939]['tags'][0] added to iterable.
+Item root[940]['tags'][0] added to iterable.
+Item root[944]['tags'][0] added to iterable.
+Item root[945]['tags'][0] added to iterable.
+Item root[946]['tags'][0] added to iterable.
+Item root[947]['tags'][0] added to iterable.
+Item root[948]['tags'][0] added to iterable.
+Item root[948]['tags'][1] added to iterable.
+Item root[949]['tags'][0] added to iterable.
+Item root[950]['tags'][0] added to iterable.
+Item root[950]['tags'][1] added to iterable.
+Item root[950]['tags'][2] added to iterable.
+Item root[950]['tags'][3] added to iterable.
+Item root[952]['tags'][0] added to iterable.
+Item root[955]['tags'][0] added to iterable.
+Item root[955]['tags'][1] added to iterable.
+Item root[956]['tags'][0] added to iterable.
+Item root[956]['tags'][1] added to iterable.
+Item root[958]['tags'][0] added to iterable.
+Item root[961]['tags'][0] added to iterable.
+Item root[964]['tags'][0] added to iterable.
+Item root[965]['tags'][0] added to iterable.
+Item root[965]['tags'][1] added to iterable.
+Item root[965]['tags'][2] added to iterable.
+Item root[965]['tags'][3] added to iterable.
+Item root[966]['tags'][0] added to iterable.
+Item root[966]['tags'][1] added to iterable.
+Item root[967]['tags'][0] added to iterable.
+Item root[968]['tags'][0] added to iterable.
+Item root[970]['tags'][0] added to iterable.
+Item root[970]['tags'][1] added to iterable.
+Item root[974]['tags'][0] added to iterable.
+Item root[974]['tags'][1] added to iterable.
+Item root[974]['tags'][2] added to iterable.
+Item root[974]['tags'][3] added to iterable.
+Item root[974]['tags'][4] added to iterable.
+Item root[974]['tags'][5] added to iterable.
+Item root[974]['tags'][6] added to iterable.
+Item root[985]['tags'][0] added to iterable.
+Item root[986]['tags'][0] added to iterable.
+Item root[987]['tags'][0] added to iterable.
+Item root[988]['tags'][0] added to iterable.
+Item root[988]['tags'][1] added to iterable.
+Item root[989]['tags'][0] added to iterable.
+Item root[991]['tags'][0] added to iterable.
+Item root[991]['tags'][1] added to iterable.
+Item root[991]['tags'][2] added to iterable.
+Item root[992]['tags'][0] added to iterable.
+Item root[992]['tags'][1] added to iterable.
+Item root[992]['tags'][2] added to iterable.
+Item root[993]['tags'][0] added to iterable.
+Item root[993]['tags'][1] added to iterable.
+Item root[994]['tags'][0] added to iterable.
+Item root[994]['tags'][1] added to iterable.
+Item root[995]['tags'][0] added to iterable.
+Item root[996]['tags'][0] added to iterable.
+Item root[997]['tags'][0] added to iterable.
+Item root[998]['tags'][0] added to iterable.
+Item root[999]['tags'][0] added to iterable.
+Item root[1000]['tags'][0] added to iterable.
+Item root[1000]['tags'][1] added to iterable.
+Item root[1001]['tags'][0] added to iterable.
+Item root[1003]['tags'][0] added to iterable.
+Item root[1003]['tags'][1] added to iterable.
+Item root[1003]['tags'][2] added to iterable.
+Item root[1010]['tags'][0] added to iterable.
+Item root[1010]['tags'][1] added to iterable.
+Item root[1012]['tags'][0] added to iterable.
+Item root[1013]['tags'][0] added to iterable.
+Item root[1016]['tags'][0] added to iterable.
+Item root[1017]['tags'][0] added to iterable.
+Item root[1023]['tags'][0] added to iterable.
+Item root[1023]['tags'][1] added to iterable.
+Item root[1023]['tags'][2] added to iterable.
+Item root[1023]['tags'][3] added to iterable.
+Item root[1023]['tags'][4] added to iterable.
+Item root[1023]['tags'][5] added to iterable.
+Item root[1024]['tags'][0] added to iterable.
+Item root[1024]['tags'][1] added to iterable.
+Item root[1024]['tags'][2] added to iterable.
+Item root[1025]['tags'][0] added to iterable.
+Item root[1025]['tags'][1] added to iterable.
+Item root[1025]['tags'][2] added to iterable.
+Item root[1027]['tags'][0] added to iterable.
+Item root[1027]['tags'][1] added to iterable.
+Item root[1027]['tags'][2] added to iterable.
+Item root[1027]['tags'][3] added to iterable.
+Item root[1027]['tags'][4] added to iterable.
+Item root[1028]['tags'][0] added to iterable.
+Item root[1029]['tags'][0] added to iterable.
+Item root[1030]['tags'][0] added to iterable.
+Item root[1030]['tags'][1] added to iterable.
+Item root[1030]['tags'][2] added to iterable.
+Item root[1030]['tags'][3] added to iterable.
+Item root[1030]['tags'][4] added to iterable.
+Item root[1030]['tags'][5] added to iterable.
+Item root[1030]['tags'][6] added to iterable.
+Item root[1032]['tags'][0] added to iterable.
+Item root[1032]['tags'][1] added to iterable.
+Item root[1033]['tags'][0] added to iterable.
+Item root[1033]['tags'][1] added to iterable.
+Item root[1034]['tags'][0] added to iterable.
+Item root[1036]['tags'][0] added to iterable.
+Item root[1036]['tags'][1] added to iterable.
+Item root[1036]['tags'][2] added to iterable.
+Item root[1037]['tags'][0] added to iterable.
+Item root[1037]['tags'][1] added to iterable.
+Item root[1037]['tags'][2] added to iterable.
+Item root[1037]['tags'][3] added to iterable.
+Item root[1037]['tags'][4] added to iterable.
+Item root[1037]['tags'][5] added to iterable.
+Item root[1037]['tags'][6] added to iterable.
+Item root[1037]['tags'][7] added to iterable.
+Item root[1038]['tags'][0] added to iterable.
+Item root[1039]['tags'][0] added to iterable.
+Item root[1039]['tags'][1] added to iterable.
+Item root[1039]['tags'][2] added to iterable.
+Item root[1039]['tags'][3] added to iterable.
+Item root[1039]['tags'][4] added to iterable.
+Item root[1039]['tags'][5] added to iterable.
+Item root[1039]['tags'][6] added to iterable.
+Item root[1040]['tags'][0] added to iterable.
+Item root[1040]['tags'][1] added to iterable.
+Item root[1040]['tags'][2] added to iterable.
+Item root[1041]['tags'][0] added to iterable.
+Item root[1042]['tags'][0] added to iterable.
+Item root[1042]['tags'][1] added to iterable.
+Item root[1042]['tags'][2] added to iterable.
+Item root[1042]['tags'][3] added to iterable.
+Item root[1044]['tags'][0] added to iterable.
+Item root[1046]['tags'][0] added to iterable.
+Item root[1046]['tags'][1] added to iterable.
+Item root[1046]['tags'][2] added to iterable.
+Item root[1046]['tags'][3] added to iterable.
+Item root[1046]['tags'][4] added to iterable.
+Item root[1047]['tags'][0] added to iterable.
+Item root[1048]['tags'][0] added to iterable.
+Item root[1048]['tags'][1] added to iterable.
+Item root[1048]['tags'][2] added to iterable.
+Item root[1048]['tags'][3] added to iterable.
+Item root[1048]['tags'][4] added to iterable.
+Item root[1049]['tags'][0] added to iterable.
+Item root[1049]['tags'][1] added to iterable.
+Item root[1049]['tags'][2] added to iterable.
+Item root[1050]['tags'][0] added to iterable.
+Item root[1050]['tags'][1] added to iterable.
+Item root[1051]['tags'][0] added to iterable.
+Item root[1051]['tags'][1] added to iterable.
+Item root[1051]['tags'][2] added to iterable.
+Item root[1051]['tags'][3] added to iterable.
+Item root[1051]['tags'][4] added to iterable.
+Item root[1051]['tags'][5] added to iterable.
+Item root[1054]['tags'][0] added to iterable.
+Item root[1055]['tags'][0] added to iterable.
+Item root[1055]['tags'][1] added to iterable.
+Item root[1055]['tags'][2] added to iterable.
+Item root[1055]['tags'][3] added to iterable.
+Item root[1055]['tags'][4] added to iterable.
+Item root[1055]['tags'][5] added to iterable.
+Item root[1055]['tags'][6] added to iterable.
+Item root[1056]['tags'][0] added to iterable.
+Item root[1062]['tags'][0] added to iterable.
+Item root[1062]['tags'][1] added to iterable.
+Item root[1062]['tags'][2] added to iterable.
+Item root[1063]['tags'][0] added to iterable.
+Item root[1063]['tags'][1] added to iterable.
+Item root[1064]['tags'][0] added to iterable.
+Item root[1066]['tags'][0] added to iterable.
+Item root[1066]['tags'][1] added to iterable.
+Item root[1068]['tags'][0] added to iterable.
+Item root[1069]['tags'][0] added to iterable.
+Item root[1070]['tags'][0] added to iterable.
+Item root[1073]['tags'][0] added to iterable.
+Item root[1075]['tags'][0] added to iterable.
+Item root[1075]['tags'][1] added to iterable.
+Item root[1076]['tags'][0] added to iterable.
+Item root[1076]['tags'][1] added to iterable.
+Item root[1077]['tags'][0] added to iterable.
+Item root[1077]['tags'][1] added to iterable.
+Item root[1077]['tags'][2] added to iterable.
+Item root[1079]['tags'][0] added to iterable.
+Item root[1079]['tags'][1] added to iterable.
+Item root[1079]['tags'][2] added to iterable.
+Item root[1079]['tags'][3] added to iterable.
+Item root[1079]['tags'][4] added to iterable.
+Item root[1079]['tags'][5] added to iterable.
+Item root[1080]['tags'][0] added to iterable.
+Item root[1080]['tags'][1] added to iterable.
+Item root[1080]['tags'][2] added to iterable.
+Item root[1080]['tags'][3] added to iterable.
+Item root[1080]['tags'][4] added to iterable.
+Item root[1080]['tags'][5] added to iterable.
+Item root[1081]['tags'][0] added to iterable.
+Item root[1083]['tags'][0] added to iterable.
+Item root[1083]['tags'][1] added to iterable.
+Item root[1084]['tags'][0] added to iterable.
+Item root[1084]['tags'][1] added to iterable.
+Item root[1084]['tags'][2] added to iterable.
+Item root[1085]['tags'][0] added to iterable.
+Item root[1086]['tags'][0] added to iterable.
+Item root[1086]['tags'][1] added to iterable.
+Item root[1086]['tags'][2] added to iterable.
+Item root[1086]['tags'][3] added to iterable.
+Item root[1086]['tags'][4] added to iterable.
+Item root[1087]['tags'][0] added to iterable.
+Item root[1087]['tags'][1] added to iterable.
+Item root[1087]['tags'][2] added to iterable.
+Item root[1087]['tags'][3] added to iterable.
+Item root[1087]['tags'][4] added to iterable.
+Item root[1088]['tags'][0] added to iterable.
+Item root[1088]['tags'][1] added to iterable.
+Item root[1089]['tags'][0] added to iterable.
+Item root[1090]['tags'][0] added to iterable.
+Item root[1092]['tags'][0] added to iterable.
+Item root[1092]['tags'][1] added to iterable.
+Item root[1092]['tags'][2] added to iterable.
+Item root[1092]['tags'][3] added to iterable.
+Item root[1092]['tags'][4] added to iterable.
+Item root[1096]['tags'][0] added to iterable.
+Item root[1096]['tags'][1] added to iterable.
+Item root[1097]['tags'][0] added to iterable.
+Item root[1097]['tags'][1] added to iterable.
+Item root[1097]['tags'][2] added to iterable.
+Item root[1097]['tags'][3] added to iterable.
+Item root[1098]['tags'][0] added to iterable.
+Item root[1098]['tags'][1] added to iterable.
+Item root[1098]['tags'][2] added to iterable.
+Item root[1098]['tags'][3] added to iterable.
+Item root[1099]['tags'][0] added to iterable.
+Item root[1099]['tags'][1] added to iterable.
+Item root[1100]['tags'][0] added to iterable.
+Item root[1100]['tags'][1] added to iterable.
+Item root[1101]['tags'][0] added to iterable.
+Item root[1101]['tags'][1] added to iterable.
+Item root[1102]['tags'][0] added to iterable.
+Item root[1106]['tags'][0] added to iterable.
+Item root[1106]['tags'][1] added to iterable.
+Item root[1109]['tags'][0] added to iterable.
+Item root[1109]['tags'][1] added to iterable.
+Item root[1109]['tags'][2] added to iterable.
+Item root[1109]['tags'][3] added to iterable.
+Item root[1109]['tags'][4] added to iterable.
+Item root[1110]['tags'][0] added to iterable.
+Item root[1110]['tags'][1] added to iterable.
+Item root[1110]['tags'][2] added to iterable.
+Item root[1110]['tags'][3] added to iterable.
+Item root[1111]['tags'][0] added to iterable.
+Item root[1111]['tags'][1] added to iterable.
+Item root[1120]['tags'][0] added to iterable.
+Item root[1120]['tags'][1] added to iterable.
+Item root[1121]['tags'][0] added to iterable.
+Item root[1121]['tags'][1] added to iterable.
+Item root[1126]['tags'][0] added to iterable.
+Item root[1126]['tags'][1] added to iterable.
+Item root[1135]['tags'][0] added to iterable.
+Item root[1135]['tags'][1] added to iterable.
+Item root[1135]['tags'][2] added to iterable.
+Item root[1138]['tags'][0] added to iterable.
+Item root[1139]['tags'][0] added to iterable.
+Item root[1144]['tags'][0] added to iterable.
+Item root[1145]['tags'][0] added to iterable.
+Item root[1145]['tags'][1] added to iterable.
+Item root[1145]['tags'][2] added to iterable.
+Item root[1145]['tags'][3] added to iterable.
+Item root[1145]['tags'][4] added to iterable.
+Item root[1145]['tags'][5] added to iterable.
+Item root[1145]['tags'][6] added to iterable.
+Item root[1148]['tags'][0] added to iterable.
+Item root[1148]['tags'][1] added to iterable.
+Item root[1148]['tags'][2] added to iterable.
+Item root[1148]['tags'][3] added to iterable.
+Item root[1149]['tags'][0] added to iterable.
+Item root[1149]['tags'][1] added to iterable.
+Item root[1149]['tags'][2] added to iterable.
+Item root[1156]['tags'][0] added to iterable.
+Item root[1157]['tags'][0] added to iterable.
+Item root[1157]['tags'][1] added to iterable.
+Item root[1159]['tags'][0] added to iterable.
+Item root[1159]['tags'][1] added to iterable.
+Item root[1159]['tags'][2] added to iterable.
+Item root[1159]['tags'][3] added to iterable.
+Item root[1159]['tags'][4] added to iterable.
+Item root[1159]['tags'][5] added to iterable.
+Item root[1159]['tags'][6] added to iterable.
+Item root[1159]['tags'][7] added to iterable.
+Item root[1160]['tags'][0] added to iterable.
+Item root[1160]['tags'][1] added to iterable.
+Item root[1160]['tags'][2] added to iterable.
+Item root[1160]['tags'][3] added to iterable.
+Item root[1160]['tags'][4] added to iterable.
+Item root[1160]['tags'][5] added to iterable.
+Item root[1160]['tags'][6] added to iterable.
+Item root[1160]['tags'][7] added to iterable.
+Item root[1160]['tags'][8] added to iterable.
+Item root[1161]['tags'][0] added to iterable.
+Item root[1161]['tags'][1] added to iterable.
+Item root[1162]['tags'][0] added to iterable.
+Item root[1162]['tags'][1] added to iterable.
+Item root[1162]['tags'][2] added to iterable.
+Item root[1165]['tags'][0] added to iterable.
+Item root[1165]['tags'][1] added to iterable.
+Item root[1168]['tags'][0] added to iterable.
+Item root[1168]['tags'][1] added to iterable.
+Item root[1169]['tags'][0] added to iterable.
+Item root[1170]['tags'][0] added to iterable.
+Item root[1170]['tags'][1] added to iterable.
+Item root[1173]['tags'][0] added to iterable.
+Item root[1173]['tags'][1] added to iterable.
+Item root[1174]['tags'][0] added to iterable.
+Item root[1174]['tags'][1] added to iterable.
+Item root[1174]['tags'][2] added to iterable.
+Item root[1174]['tags'][3] added to iterable.
+Item root[1175]['tags'][0] added to iterable.
+Item root[1175]['tags'][1] added to iterable.
+Item root[1175]['tags'][2] added to iterable.
+Item root[1178]['tags'][0] added to iterable.
+Item root[1178]['tags'][1] added to iterable.
+Item root[1178]['tags'][2] added to iterable.
+Item root[1178]['tags'][3] added to iterable.
+Item root[1180]['tags'][0] added to iterable.
+Item root[1180]['tags'][1] added to iterable.
+Item root[1182]['tags'][0] added to iterable.
+Item root[1182]['tags'][1] added to iterable.
+Item root[1182]['tags'][2] added to iterable.
+Item root[1187]['tags'][0] added to iterable.
+Item root[1187]['tags'][1] added to iterable.
+Item root[1187]['tags'][2] added to iterable.
+Item root[1187]['tags'][3] added to iterable.
+Item root[1187]['tags'][4] added to iterable.
+Item root[1188]['tags'][0] added to iterable.
+Item root[1191]['tags'][0] added to iterable.
+Item root[1191]['tags'][1] added to iterable.
+Item root[1191]['tags'][2] added to iterable.
+Item root[1191]['tags'][3] added to iterable.
+Item root[1192]['tags'][0] added to iterable.
+Item root[1192]['tags'][1] added to iterable.
+Item root[1192]['tags'][2] added to iterable.
+Item root[1256]['tags'][0] added to iterable.
+Item root[1262]['tags'][0] added to iterable.
+Item root[1276]['tags'][0] added to iterable.
+Item root[1277]['tags'][0] added to iterable.
+Item root[1278]['tags'][0] added to iterable.
+Item root[1279]['tags'][0] added to iterable.
+Item root[1279]['tags'][1] added to iterable.
+Item root[1279]['tags'][2] added to iterable.
+Item root[1282]['tags'][0] added to iterable.
+Item root[1283]['tags'][0] added to iterable.
+Item root[1286]['tags'][0] added to iterable.
+Item root[1290]['tags'][0] added to iterable.
+Item root[1291]['tags'][0] added to iterable.
+Item root[1292]['tags'][0] added to iterable.
+Item root[1293]['tags'][0] added to iterable.
+Item root[1294]['tags'][0] added to iterable.
+Item root[1294]['tags'][1] added to iterable.
+Item root[1295]['tags'][0] added to iterable.
+Item root[1296]['tags'][0] added to iterable.
+Item root[1296]['tags'][1] added to iterable.
+Item root[1296]['tags'][2] added to iterable.
+Item root[1297]['tags'][0] added to iterable.
+Item root[1301]['tags'][0] added to iterable.
+Item root[1301]['tags'][1] added to iterable.
+Item root[1301]['tags'][2] added to iterable.
+Item root[1304]['tags'][0] added to iterable.
+Item root[1306]['tags'][0] added to iterable.
+Item root[1310]['tags'][0] added to iterable.
+Item root[1321]['tags'][0] added to iterable.
+Item root[1360]['tags'][0] added to iterable.
+Item root[1378]['tags'][0] added to iterable.
+Item root[1380]['tags'][0] added to iterable.
+Item root[1382]['tags'][0] added to iterable.
+Item root[1382]['tags'][1] added to iterable.
+Item root[1383]['tags'][0] added to iterable.
+Item root[1383]['tags'][1] added to iterable.
+Item root[1383]['tags'][2] added to iterable.
+Item root[1384]['tags'][0] added to iterable.
+Item root[1385]['tags'][0] added to iterable.
+Item root[1386]['tags'][0] added to iterable.
+Item root[1396]['tags'][0] added to iterable.
+Item root[1398]['tags'][0] added to iterable.
+Item root[1400]['tags'][0] added to iterable.
+Item root[1400]['tags'][1] added to iterable.
+Item root[1400]['tags'][2] added to iterable.
+Item root[1400]['tags'][3] added to iterable.
+Item root[1400]['tags'][4] added to iterable.
+Item root[1400]['tags'][5] added to iterable.
+Item root[1427]['tags'][0] added to iterable.
+Item root[1427]['tags'][1] added to iterable.
+Item root[1452]['tags'][0] added to iterable.
+Item root[1452]['tags'][1] added to iterable.
+Item root[1452]['tags'][2] added to iterable.
+Item root[1452]['tags'][3] added to iterable.
+Item root[1457]['tags'][0] added to iterable.
+Item root[1460]['tags'][0] added to iterable.
+Item root[1460]['tags'][1] added to iterable.
+Item root[1460]['tags'][2] added to iterable.
+Item root[1460]['tags'][3] added to iterable.
+Item root[1460]['tags'][4] added to iterable.
+Item root[1460]['tags'][5] added to iterable.
+Item root[1460]['tags'][6] added to iterable.
+Item root[1460]['tags'][7] added to iterable.
+Item root[1460]['tags'][8] added to iterable.
+Item root[1467]['tags'][0] added to iterable.
+Item root[1469]['tags'][0] added to iterable.
+Item root[1469]['tags'][1] added to iterable.
+Item root[1470]['tags'][0] added to iterable.
+Item root[1470]['tags'][1] added to iterable.
+Item root[1472]['tags'][0] added to iterable.
+Item root[1472]['tags'][1] added to iterable.
+Item root[1472]['tags'][2] added to iterable.
+Item root[1472]['tags'][3] added to iterable.
+Item root[1472]['tags'][4] added to iterable.
+Item root[1472]['tags'][5] added to iterable.
+Item root[1498]['tags'][0] added to iterable.
+Item root[1498]['tags'][1] added to iterable.
+Item root[1498]['tags'][2] added to iterable.
+Item root[1499]['tags'][0] added to iterable.
+Item root[1499]['tags'][1] added to iterable.
+Item root[1504]['tags'][0] added to iterable.
+Item root[1504]['tags'][1] added to iterable.
+Item root[1504]['tags'][2] added to iterable.
+Item root[1516]['tags'][0] added to iterable.
+Item root[1516]['tags'][1] added to iterable.
+Item root[1518]['tags'][0] added to iterable.
+Item root[1521]['tags'][0] added to iterable.
+Item root[1522]['tags'][0] added to iterable.
+Item root[1523]['tags'][0] added to iterable.
+Item root[1524]['tags'][0] added to iterable.
+Item root[1525]['tags'][0] added to iterable.
+Item root[1527]['tags'][0] added to iterable.
+Item root[1529]['tags'][0] added to iterable.
+Item root[1530]['tags'][0] added to iterable.
+Item root[1547]['tags'][0] added to iterable.
+Item root[1549]['tags'][0] added to iterable.
+Item root[1550]['tags'][0] added to iterable.
+Item root[1551]['tags'][0] added to iterable.
+Item root[1557]['tags'][0] added to iterable.
+Item root[1558]['tags'][0] added to iterable.
+Item root[1558]['tags'][1] added to iterable.
+Item root[1558]['tags'][2] added to iterable.
+Item root[1564]['tags'][0] added to iterable.
+Item root[1564]['tags'][1] added to iterable.
+Item root[1564]['tags'][2] added to iterable.
+Item root[1564]['tags'][3] added to iterable.
+Item root[1565]['tags'][0] added to iterable.
+Item root[1566]['tags'][0] added to iterable.
+Item root[1569]['tags'][0] added to iterable.
+Item root[1570]['tags'][0] added to iterable.
+Item root[1570]['tags'][1] added to iterable.
+Item root[1573]['tags'][0] added to iterable.
+Item root[1573]['tags'][1] added to iterable.
+Item root[1573]['tags'][2] added to iterable.
+Item root[1573]['tags'][3] added to iterable.
+Item root[1573]['tags'][4] added to iterable.
+Item root[1573]['tags'][5] added to iterable.
+Item root[1573]['tags'][6] added to iterable.
+Item root[1574]['tags'][0] added to iterable.
+Item root[1574]['tags'][1] added to iterable.
+Item root[1575]['tags'][0] added to iterable.
+Item root[1601]['tags'][0] added to iterable.
+Item root[1601]['tags'][1] added to iterable.
+Item root[1602]['tags'][0] added to iterable.
+Item root[1604]['tags'][0] added to iterable.
+Item root[1605]['tags'][0] added to iterable.
+Item root[1606]['tags'][0] added to iterable.
+Item root[1606]['tags'][1] added to iterable.
+Item root[1606]['tags'][2] added to iterable.
+Item root[1607]['tags'][0] added to iterable.
+Item root[1613]['tags'][0] added to iterable.
+Item root[1613]['tags'][1] added to iterable.
+Item root[1614]['tags'][0] added to iterable.
+Item root[1616]['tags'][0] added to iterable.
+Item root[1635]['tags'][0] added to iterable.
+Item root[1635]['tags'][1] added to iterable.
+Item root[1635]['tags'][2] added to iterable.
+Item root[1636]['tags'][0] added to iterable.
+Item root[1640]['tags'][0] added to iterable.
+Item root[1642]['tags'][0] added to iterable.
+Item root[1644]['tags'][0] added to iterable.
+Item root[1646]['tags'][0] added to iterable.
+Item root[1646]['tags'][1] added to iterable.
+Item root[1646]['tags'][2] added to iterable.
+Item root[1652]['tags'][0] added to iterable.
+Item root[1668]['tags'][0] added to iterable.
+Item root[1668]['tags'][1] added to iterable.
+Item root[1672]['tags'][0] added to iterable.
+Item root[1679]['tags'][0] added to iterable.
+Item root[1681]['tags'][0] added to iterable.
+Item root[1682]['tags'][0] added to iterable.
+Item root[1682]['tags'][1] added to iterable.
+Item root[1682]['tags'][2] added to iterable.
+Item root[1682]['tags'][3] added to iterable.
+Item root[1683]['tags'][0] added to iterable.
+Item root[1690]['tags'][0] added to iterable.
+Item root[1690]['tags'][1] added to iterable.
+Item root[1700]['tags'][0] added to iterable.
+Item root[1701]['tags'][0] added to iterable.
+Item root[1702]['tags'][0] added to iterable.
+Item root[1702]['tags'][1] added to iterable.
+Item root[1703]['tags'][0] added to iterable.
+Item root[1706]['tags'][0] added to iterable.
+Item root[1706]['tags'][1] added to iterable.
+Item root[1707]['tags'][0] added to iterable.
+Item root[1707]['tags'][1] added to iterable.
+Item root[1707]['tags'][2] added to iterable.
+Item root[1707]['tags'][3] added to iterable.
+Item root[1707]['tags'][4] added to iterable.
+Item root[1708]['tags'][0] added to iterable.
+Item root[1708]['tags'][1] added to iterable.
+Item root[1747]['tags'][0] added to iterable.
+Item root[1747]['tags'][1] added to iterable.
+Item root[1751]['tags'][0] added to iterable.
+Item root[1753]['tags'][0] added to iterable.
+Item root[1754]['tags'][0] added to iterable.
+Item root[1754]['tags'][1] added to iterable.
+Item root[1754]['tags'][2] added to iterable.
+Item root[1755]['tags'][0] added to iterable.
+Item root[1757]['tags'][0] added to iterable.
+Item root[1767]['tags'][0] added to iterable.
+Item root[1767]['tags'][1] added to iterable.
+Item root[1768]['tags'][0] added to iterable.
+Item root[1768]['tags'][1] added to iterable.
+Item root[1769]['tags'][0] added to iterable.
+Item root[1770]['tags'][0] added to iterable.
+Item root[1771]['tags'][0] added to iterable.
+Item root[1775]['tags'][0] added to iterable.
+Item root[1778]['tags'][0] added to iterable.
+Item root[1778]['tags'][1] added to iterable.
+Item root[1781]['tags'][0] added to iterable.
+Item root[1782]['tags'][0] added to iterable.
+Item root[1783]['tags'][0] added to iterable.
+Item root[1784]['tags'][0] added to iterable.
+Item root[1790]['tags'][0] added to iterable.
+Item root[1790]['tags'][1] added to iterable.
+Item root[1792]['tags'][0] added to iterable.
+Item root[1795]['tags'][0] added to iterable.
+Item root[1795]['tags'][1] added to iterable.
+Item root[1795]['tags'][2] added to iterable.
+Item root[1796]['tags'][0] added to iterable.
+Item root[1796]['tags'][1] added to iterable.
+Item root[1796]['tags'][2] added to iterable.
+Item root[1796]['tags'][3] added to iterable.
+Item root[1796]['tags'][4] added to iterable.
+Item root[1797]['tags'][0] added to iterable.
+Item root[1798]['tags'][0] added to iterable.
+Item root[1798]['tags'][1] added to iterable.
+Item root[1800]['tags'][0] added to iterable.
+Item root[1800]['tags'][1] added to iterable.
+Item root[1800]['tags'][2] added to iterable.
+Item root[1800]['tags'][3] added to iterable.
+Item root[1801]['tags'][0] added to iterable.
+Item root[1801]['tags'][1] added to iterable.
+Item root[1801]['tags'][2] added to iterable.
+Item root[1801]['tags'][3] added to iterable.
+Item root[1801]['tags'][4] added to iterable.
+Item root[1801]['tags'][5] added to iterable.
+Item root[1801]['tags'][6] added to iterable.
+Item root[1802]['tags'][0] added to iterable.
+Item root[1802]['tags'][1] added to iterable.
+Item root[1802]['tags'][2] added to iterable.
+Item root[1803]['tags'][0] added to iterable.
+Item root[1803]['tags'][1] added to iterable.
+Item root[1803]['tags'][2] added to iterable.
+Item root[1805]['tags'][0] added to iterable.
+Item root[1805]['tags'][1] added to iterable.
+Item root[1814]['tags'][0] added to iterable.
+Item root[1814]['tags'][1] added to iterable.
+Item root[1814]['tags'][2] added to iterable.
+Item root[1815]['tags'][0] added to iterable.
+Item root[1815]['tags'][1] added to iterable.
+Item root[1816]['tags'][0] added to iterable.
+Item root[1816]['tags'][1] added to iterable.
+Item root[1816]['tags'][2] added to iterable.
+Item root[1816]['tags'][3] added to iterable.
+Item root[1817]['tags'][0] added to iterable.
+Item root[1818]['tags'][0] added to iterable.
+Item root[1818]['tags'][1] added to iterable.
+Item root[1818]['tags'][2] added to iterable.
+Item root[1828]['tags'][0] added to iterable.
+Item root[1828]['tags'][1] added to iterable.
+Item root[1828]['tags'][2] added to iterable.
+Item root[1838]['tags'][0] added to iterable.
+Item root[1838]['tags'][1] added to iterable.
+Item root[1838]['tags'][2] added to iterable.
+Item root[1839]['tags'][0] added to iterable.
+Item root[1839]['tags'][1] added to iterable.
+Item root[1839]['tags'][2] added to iterable.
+Item root[1840]['tags'][0] added to iterable.
+Item root[1843]['tags'][0] added to iterable.
+Item root[1843]['tags'][1] added to iterable.
+Item root[1843]['tags'][2] added to iterable.
+Item root[1843]['tags'][3] added to iterable.
+Item root[1844]['tags'][0] added to iterable.
+Item root[1845]['tags'][0] added to iterable.
+Item root[1845]['tags'][1] added to iterable.
+Item root[1846]['tags'][0] added to iterable.
+Item root[1847]['tags'][0] added to iterable.
+Item root[1847]['tags'][1] added to iterable.
+Item root[1847]['tags'][2] added to iterable.
+Item root[1847]['tags'][3] added to iterable.
+Item root[1848]['tags'][0] added to iterable.
+Item root[1848]['tags'][1] added to iterable.
+Item root[1848]['tags'][2] added to iterable.
+Item root[1849]['tags'][0] added to iterable.
+Item root[1849]['tags'][1] added to iterable.
+Item root[1849]['tags'][2] added to iterable.
+Item root[1849]['tags'][3] added to iterable.
+Item root[1849]['tags'][4] added to iterable.
+Item root[1850]['tags'][0] added to iterable.
+Item root[1850]['tags'][1] added to iterable.
+Item root[1850]['tags'][2] added to iterable.
+Item root[1850]['tags'][3] added to iterable.
+Item root[1851]['tags'][0] added to iterable.
+Item root[1851]['tags'][1] added to iterable.
+Item root[1853]['tags'][0] added to iterable.
+Item root[1853]['tags'][1] added to iterable.
+Item root[1853]['tags'][2] added to iterable.
+Item root[1853]['tags'][3] added to iterable.
+Item root[1853]['tags'][4] added to iterable.
+Item root[1853]['tags'][5] added to iterable.
+Item root[1857]['tags'][0] added to iterable.
+Item root[1860]['tags'][0] added to iterable.
+Item root[1864]['tags'][0] added to iterable.
+Item root[1864]['tags'][1] added to iterable.
+Item root[1866]['tags'][0] added to iterable.
+Item root[1869]['tags'][0] added to iterable.
+Item root[1878]['tags'][0] added to iterable.
+Item root[1878]['tags'][1] added to iterable.
+Item root[1878]['tags'][2] added to iterable.
+Item root[1878]['tags'][3] added to iterable.
+Item root[1878]['tags'][4] added to iterable.
+Item root[1878]['tags'][5] added to iterable.
+Item root[1878]['tags'][6] added to iterable.
+Item root[1878]['tags'][7] added to iterable.
+Item root[1879]['tags'][0] added to iterable.
+Item root[1879]['tags'][1] added to iterable.
+Item root[1879]['tags'][2] added to iterable.
+Item root[1880]['tags'][0] added to iterable.
+Item root[1882]['tags'][0] added to iterable.
+Item root[1882]['tags'][1] added to iterable.
+Item root[1882]['tags'][2] added to iterable.
+Item root[1883]['tags'][0] added to iterable.
+Item root[1883]['tags'][1] added to iterable.
+Item root[1884]['tags'][0] added to iterable.
+Item root[1885]['tags'][0] added to iterable.
+Item root[1885]['tags'][1] added to iterable.
+Item root[1885]['tags'][2] added to iterable.
+Item root[1885]['tags'][3] added to iterable.
+Item root[1886]['tags'][0] added to iterable.
+Item root[1887]['tags'][0] added to iterable.
+Item root[1888]['tags'][0] added to iterable.
+Item root[1889]['tags'][0] added to iterable.
+Item root[1891]['tags'][0] added to iterable.
+Item root[1891]['tags'][1] added to iterable.
+Item root[1892]['tags'][0] added to iterable.
+Item root[1893]['tags'][0] added to iterable.
+Item root[1895]['tags'][0] added to iterable.
+Item root[1896]['tags'][0] added to iterable.
+Item root[1899]['tags'][0] added to iterable.
+Item root[1902]['tags'][0] added to iterable.
+Item root[1903]['tags'][0] added to iterable.
+Item root[1904]['tags'][0] added to iterable.
+Item root[1904]['tags'][1] added to iterable.
+Item root[1908]['tags'][0] added to iterable.
+Item root[1909]['tags'][0] added to iterable.
+Item root[1913]['tags'][0] added to iterable.
+Item root[1914]['tags'][0] added to iterable.
+Item root[1944]['tags'][0] added to iterable.
+Item root[1944]['tags'][1] added to iterable.
+Item root[1945]['tags'][0] added to iterable.
+Item root[1945]['tags'][1] added to iterable.
+Item root[1947]['tags'][0] added to iterable.
+Item root[1948]['tags'][0] added to iterable.
+Item root[1950]['tags'][0] added to iterable.
+Item root[1953]['tags'][0] added to iterable.
+Item root[1953]['tags'][1] added to iterable.
+Item root[1954]['tags'][0] added to iterable.
+Item root[1954]['tags'][1] added to iterable.
+Item root[1968]['tags'][0] added to iterable.
+Item root[1969]['tags'][0] added to iterable.
+Item root[1971]['tags'][0] added to iterable.
+Item root[1971]['tags'][1] added to iterable.
+Item root[1971]['tags'][2] added to iterable.
+Item root[1971]['tags'][3] added to iterable.
+Item root[1973]['tags'][0] added to iterable.
+Item root[1975]['tags'][0] added to iterable.
+Item root[1978]['tags'][0] added to iterable.
+Item root[1978]['tags'][1] added to iterable.
+Item root[1982]['tags'][0] added to iterable.
+Item root[1982]['tags'][1] added to iterable.
+Item root[1983]['tags'][0] added to iterable.
+Item root[1984]['tags'][0] added to iterable.
+Item root[1986]['tags'][0] added to iterable.
+Item root[1987]['tags'][0] added to iterable.
+Item root[1987]['tags'][1] added to iterable.
+Item root[1988]['tags'][0] added to iterable.
+Item root[1988]['tags'][1] added to iterable.
+Item root[1989]['tags'][0] added to iterable.
+Item root[1991]['tags'][0] added to iterable.
+Item root[1992]['tags'][0] added to iterable.
+Item root[1998]['tags'][0] added to iterable.
+Item root[1999]['tags'][0] added to iterable.
+Item root[1999]['tags'][1] added to iterable.
+Item root[2003]['tags'][0] added to iterable.
+Item root[2003]['tags'][1] added to iterable.
+Item root[2004]['tags'][0] added to iterable.
+Item root[2007]['tags'][0] added to iterable.
+Item root[2007]['tags'][1] added to iterable.
+Item root[2008]['tags'][0] added to iterable.
+Item root[2008]['tags'][1] added to iterable.
+Item root[2023]['tags'][0] added to iterable.
+Item root[2023]['tags'][1] added to iterable.
+Item root[2028]['tags'][0] added to iterable.
+Item root[2028]['tags'][1] added to iterable.
+Item root[2028]['tags'][2] added to iterable.
+Item root[2029]['tags'][0] added to iterable.
+Item root[2031]['tags'][0] added to iterable.
+Item root[2031]['tags'][1] added to iterable.
+Item root[2034]['tags'][0] added to iterable.
+Item root[2034]['tags'][1] added to iterable.
+Item root[2040]['tags'][0] added to iterable.
+Item root[2041]['tags'][0] added to iterable.
+Item root[2043]['tags'][0] added to iterable.
+Item root[2047]['tags'][0] added to iterable.
+Item root[2048]['tags'][0] added to iterable.
+Item root[2048]['tags'][1] added to iterable.
+Item root[2048]['tags'][2] added to iterable.
+Item root[2048]['tags'][3] added to iterable.
+Item root[2048]['tags'][4] added to iterable.
+Item root[2051]['tags'][0] added to iterable.
+Item root[2052]['tags'][0] added to iterable.
+Item root[2055]['tags'][0] added to iterable.
+Item root[2056]['tags'][0] added to iterable.
+Item root[2061]['tags'][0] added to iterable.
+Item root[2061]['tags'][1] added to iterable.
+Item root[2065]['tags'][0] added to iterable.
+Item root[2078]['tags'][0] added to iterable.
+Item root[2080]['tags'][0] added to iterable.
+Item root[2085]['tags'][0] added to iterable.
+Item root[2085]['tags'][1] added to iterable.
+Item root[2086]['tags'][0] added to iterable.
+Item root[2086]['tags'][1] added to iterable.
+Item root[2086]['tags'][2] added to iterable.
+Item root[2086]['tags'][3] added to iterable.
+Item root[2088]['tags'][0] added to iterable.
+Item root[2094]['tags'][0] added to iterable.
+Item root[2095]['tags'][0] added to iterable.
+Item root[2107]['tags'][0] added to iterable.
+Item root[2118]['tags'][0] added to iterable.
+Item root[2118]['tags'][1] added to iterable.
+Item root[2118]['tags'][2] added to iterable.
+Item root[2118]['tags'][3] added to iterable.
+Item root[2118]['tags'][4] added to iterable.
+Item root[2127]['tags'][0] added to iterable.
+Item root[2128]['tags'][0] added to iterable.
+Item root[2130]['tags'][0] added to iterable.
+Item root[2130]['tags'][1] added to iterable.
+Item root[2131]['tags'][0] added to iterable.
+Item root[2133]['tags'][0] added to iterable.
+Item root[2134]['tags'][0] added to iterable.
+Item root[2141]['tags'][0] added to iterable.
+Item root[2143]['tags'][0] added to iterable.
+Item root[2143]['tags'][1] added to iterable.
+Item root[2144]['tags'][0] added to iterable.
+Item root[2144]['tags'][1] added to iterable.
+Item root[2144]['tags'][2] added to iterable.
+Item root[2145]['tags'][0] added to iterable.
+Item root[2146]['tags'][0] added to iterable.
+Item root[2147]['tags'][0] added to iterable.
+Item root[2147]['tags'][1] added to iterable.
+Item root[2147]['tags'][2] added to iterable.
+Item root[2147]['tags'][3] added to iterable.
+Item root[2147]['tags'][4] added to iterable.
+Item root[2152]['tags'][0] added to iterable.
+Item root[2155]['tags'][0] added to iterable.
+Item root[2164]['tags'][0] added to iterable.
+Item root[2167]['tags'][0] added to iterable.
+Item root[2170]['tags'][0] added to iterable.
+Item root[2170]['tags'][1] added to iterable.
+Item root[2170]['tags'][2] added to iterable.
+Item root[2175]['tags'][0] added to iterable.
+Item root[2177]['tags'][0] added to iterable.
+Item root[2179]['tags'][0] added to iterable.
+Item root[2182]['tags'][0] added to iterable.
+Item root[2191]['tags'][0] added to iterable.
+Item root[2196]['tags'][0] added to iterable.
+Item root[2200]['tags'][0] added to iterable.
+Item root[2202]['tags'][0] added to iterable.
+Item root[2213]['tags'][0] added to iterable.
+Item root[2214]['tags'][0] added to iterable.
+Item root[2218]['tags'][0] added to iterable.
+Item root[2218]['tags'][1] added to iterable.
+Item root[2219]['tags'][0] added to iterable.
+Item root[2220]['tags'][0] added to iterable.
+Item root[2223]['tags'][0] added to iterable.
+Item root[2232]['tags'][0] added to iterable.
+Item root[2233]['tags'][0] added to iterable.
+Item root[2233]['tags'][1] added to iterable.
+Item root[2233]['tags'][2] added to iterable.
+Item root[2234]['tags'][0] added to iterable.
+Item root[2238]['tags'][0] added to iterable.
+Item root[2238]['tags'][1] added to iterable.
+Item root[2240]['tags'][0] added to iterable.
+Item root[2240]['tags'][1] added to iterable.
+Item root[2242]['tags'][0] added to iterable.
+Item root[2242]['tags'][1] added to iterable.
+Item root[2242]['tags'][2] added to iterable.
+Item root[2242]['tags'][3] added to iterable.
+Item root[2257]['tags'][0] added to iterable.
+Item root[2257]['tags'][1] added to iterable.
+Item root[2257]['tags'][2] added to iterable.
+Item root[2257]['tags'][3] added to iterable.
+Item root[2259]['tags'][0] added to iterable.
+Item root[2259]['tags'][1] added to iterable.
+Item root[2259]['tags'][2] added to iterable.
+Item root[2262]['tags'][0] added to iterable.
+Item root[2262]['tags'][1] added to iterable.
+Item root[2262]['tags'][2] added to iterable.
+Item root[2277]['tags'][0] added to iterable.
+Item root[2277]['tags'][1] added to iterable.
+Item root[2277]['tags'][2] added to iterable.
+Item root[2280]['tags'][0] added to iterable.
+Item root[2280]['tags'][1] added to iterable.
+Item root[2280]['tags'][2] added to iterable.
+Item root[2281]['tags'][0] added to iterable.
+Item root[2281]['tags'][1] added to iterable.
+Item root[2285]['tags'][0] added to iterable.
+Item root[2285]['tags'][1] added to iterable.
+Item root[2415]['tags'][0] added to iterable.
+Item root[2465]['tags'][0] added to iterable.
+Item root[2483]['tags'][0] added to iterable.
+Item root[2497]['tags'][0] added to iterable.
+Item root[2497]['tags'][1] added to iterable.
+Item root[2499]['tags'][0] added to iterable.
+Item root[2521]['tags'][0] added to iterable.
+Item root[2563]['tags'][0] added to iterable.
+Item root[2571]['tags'][0] added to iterable.
+Item root[2572]['tags'][0] added to iterable.
+Item root[2572]['tags'][1] added to iterable.
+Item root[2582]['tags'][0] added to iterable.
+Item root[2583]['tags'][0] added to iterable.
+Item root[2588]['tags'][0] added to iterable.
+Item root[2628]['tags'][0] added to iterable.
+Item root[2630]['tags'][0] added to iterable.
+Item root[2630]['tags'][1] added to iterable.
+Item root[2632]['tags'][0] added to iterable.
+Item root[2633]['tags'][0] added to iterable.
+Item root[2633]['tags'][1] added to iterable.
+Item root[2633]['tags'][2] added to iterable.
+Item root[2634]['tags'][0] added to iterable.
+Item root[2635]['tags'][0] added to iterable.
+Item root[2635]['tags'][1] added to iterable.
+Item root[2637]['tags'][0] added to iterable.
+Item root[2637]['tags'][1] added to iterable.
+Item root[2637]['tags'][2] added to iterable.
+Item root[2637]['tags'][3] added to iterable.
+Item root[2637]['tags'][4] added to iterable.
+Item root[2637]['tags'][5] added to iterable.
+Item root[2637]['tags'][6] added to iterable.
+Item root[2637]['tags'][7] added to iterable.
+Item root[2637]['tags'][8] added to iterable.
+Item root[2640]['tags'][0] added to iterable.
+Item root[2640]['tags'][1] added to iterable.
+Item root[2641]['tags'][0] added to iterable.
+Item root[2641]['tags'][1] added to iterable.
+Item root[2642]['tags'][0] added to iterable.
+Item root[2642]['tags'][1] added to iterable.
+Item root[2642]['tags'][2] added to iterable.
+Item root[2643]['tags'][0] added to iterable.
+Item root[2643]['tags'][1] added to iterable.
+Item root[2643]['tags'][2] added to iterable.
+Item root[2644]['tags'][0] added to iterable.
+Item root[2644]['tags'][1] added to iterable.
+Item root[2644]['tags'][2] added to iterable.
+Item root[2649]['tags'][0] added to iterable.
+Item root[2649]['tags'][1] added to iterable.
+Item root[2649]['tags'][2] added to iterable.
+Item root[2649]['tags'][3] added to iterable.
+Item root[2651]['tags'][0] added to iterable.
+Item root[2651]['tags'][1] added to iterable.
+Item root[2651]['tags'][2] added to iterable.
+Item root[2651]['tags'][3] added to iterable.
+Item root[2650]['tags'][0] added to iterable.
+Item root[2650]['tags'][1] added to iterable.
+Item root[2650]['tags'][2] added to iterable.
+Item root[2650]['tags'][3] added to iterable.
+Item root[2652]['tags'][0] added to iterable.
+Item root[2654]['tags'][0] added to iterable.
+Item root[2655]['tags'][0] added to iterable.
+Item root[2655]['tags'][1] added to iterable.
+Item root[2655]['tags'][2] added to iterable.
+Item root[2655]['tags'][3] added to iterable.
+Item root[2655]['tags'][4] added to iterable.
+Item root[2655]['tags'][5] added to iterable.
+Item root[2661]['tags'][0] added to iterable.
+Item root[2662]['tags'][0] added to iterable.
+Item root[2663]['tags'][0] added to iterable.
+Item root[2663]['tags'][1] added to iterable.
+Item root[2664]['tags'][0] added to iterable.
+Item root[2667]['tags'][0] added to iterable.
+Item root[2667]['tags'][1] added to iterable.
+Item root[2668]['tags'][0] added to iterable.
+Item root[2668]['tags'][1] added to iterable.
+Item root[2668]['tags'][2] added to iterable.
+Item root[2668]['tags'][3] added to iterable.
+Item root[2668]['tags'][4] added to iterable.
+Item root[2669]['tags'][0] added to iterable.
+Item root[2669]['tags'][1] added to iterable.
+Item root[2673]['tags'][0] added to iterable.
+Item root[2673]['tags'][1] added to iterable.
+Item root[2678]['tags'][0] added to iterable.
+Item root[2678]['tags'][1] added to iterable.
+Item root[2678]['tags'][2] added to iterable.
+Item root[2679]['tags'][0] added to iterable.
+Item root[2679]['tags'][1] added to iterable.
+Item root[2679]['tags'][2] added to iterable.
+Item root[2680]['tags'][0] added to iterable.
+Item root[2680]['tags'][1] added to iterable.
+Item root[2680]['tags'][2] added to iterable.
+Item root[2680]['tags'][3] added to iterable.
+Item root[2680]['tags'][4] added to iterable.
+Item root[2681]['tags'][0] added to iterable.
+Item root[2681]['tags'][1] added to iterable.
+Item root[2681]['tags'][2] added to iterable.
+Item root[2681]['tags'][3] added to iterable.
+Item root[2681]['tags'][4] added to iterable.
+Item root[2682]['tags'][0] added to iterable.
+Item root[2683]['tags'][0] added to iterable.
+Item root[2684]['tags'][0] added to iterable.
+Item root[2685]['tags'][0] added to iterable.
+Item root[2686]['tags'][0] added to iterable.
+Item root[2686]['tags'][1] added to iterable.
+Item root[2687]['tags'][0] added to iterable.
+Item root[2687]['tags'][1] added to iterable.
+Item root[2688]['tags'][0] added to iterable.
+Item root[2688]['tags'][1] added to iterable.
+Item root[2691]['tags'][0] added to iterable.
+Item root[2691]['tags'][1] added to iterable.
+Item root[2691]['tags'][2] added to iterable.
+Item root[2692]['tags'][0] added to iterable.
+Item root[2692]['tags'][1] added to iterable.
+Item root[2692]['tags'][2] added to iterable.
+Item root[2693]['tags'][0] added to iterable.
+Item root[2693]['tags'][1] added to iterable.
+Item root[2693]['tags'][2] added to iterable.
+Item root[2694]['tags'][0] added to iterable.
+Item root[2694]['tags'][1] added to iterable.
+Item root[2694]['tags'][2] added to iterable.
+Item root[2703]['tags'][0] added to iterable.
+Item root[2703]['tags'][1] added to iterable.
+Item root[2703]['tags'][2] added to iterable.
+Item root[2704]['tags'][0] added to iterable.
+Item root[2704]['tags'][1] added to iterable.
+Item root[2704]['tags'][2] added to iterable.
+Item root[2705]['tags'][0] added to iterable.
+Item root[2705]['tags'][1] added to iterable.
+Item root[2705]['tags'][2] added to iterable.
+Item root[2706]['tags'][0] added to iterable.
+Item root[2706]['tags'][1] added to iterable.
+Item root[2706]['tags'][2] added to iterable.
+Item root[2707]['tags'][0] added to iterable.
+Item root[2707]['tags'][1] added to iterable.
+Item root[2707]['tags'][2] added to iterable.
+Item root[2708]['tags'][0] added to iterable.
+Item root[2708]['tags'][1] added to iterable.
+Item root[2708]['tags'][2] added to iterable.
+Item root[2709]['tags'][0] added to iterable.
+Item root[2709]['tags'][1] added to iterable.
+Item root[2709]['tags'][2] added to iterable.
+Item root[2710]['tags'][0] added to iterable.
+Item root[2710]['tags'][1] added to iterable.
+Item root[2710]['tags'][2] added to iterable.
+Item root[2712]['tags'][0] added to iterable.
+Item root[2712]['tags'][1] added to iterable.
+Item root[2712]['tags'][2] added to iterable.
+Item root[2713]['tags'][0] added to iterable.
+Item root[2713]['tags'][1] added to iterable.
+Item root[2713]['tags'][2] added to iterable.
+Item root[2714]['tags'][0] added to iterable.
+Item root[2714]['tags'][1] added to iterable.
+Item root[2714]['tags'][2] added to iterable.
+Item root[2715]['tags'][0] added to iterable.
+Item root[2715]['tags'][1] added to iterable.
+Item root[2715]['tags'][2] added to iterable.
+Item root[2716]['tags'][0] added to iterable.
+Item root[2716]['tags'][1] added to iterable.
+Item root[2716]['tags'][2] added to iterable.
+Item root[2711]['tags'][0] added to iterable.
+Item root[2711]['tags'][1] added to iterable.
+Item root[2711]['tags'][2] added to iterable.
+Item root[2730] added to iterable.
+Item root[2730]['tags'][0] added to iterable.
+Item root[2730]['tags'][1] added to iterable.
+Item root[2733] added to iterable.
+Item root[2733]['tags'][0] added to iterable.
+Item root[2736]['tags'][0] added to iterable.
+Item root[2738]['tags'][0] added to iterable.
+Item root[2737]['tags'][0] added to iterable.
+Item root[2739]['tags'][0] added to iterable.
+Item root[2739]['tags'][1] added to iterable.
+Item root[2741]['tags'][0] added to iterable.
+Item root[2741]['tags'][1] added to iterable.
+Item root[2740]['tags'][0] added to iterable.
+Item root[2740]['tags'][1] added to iterable.
+Item root[2746]['tags'][0] added to iterable.
+Item root[2746]['tags'][1] added to iterable.
+Item root[2747]['tags'][0] added to iterable.
+Item root[2747]['tags'][1] added to iterable.
+Item root[2748]['tags'][0] added to iterable.
+Item root[2749]['tags'][0] added to iterable.
+Item root[2750]['tags'][0] added to iterable.
+Item root[2751]['tags'][0] added to iterable.
+Item root[2751]['tags'][1] added to iterable.
+Item root[2752]['tags'][0] added to iterable.
+Item root[2752]['tags'][1] added to iterable.
+Item root[2756]['tags'][0] added to iterable.
+Item root[2757]['tags'][0] added to iterable.
+Item root[2757]['tags'][1] added to iterable.
+Item root[2757]['tags'][2] added to iterable.
+Item root[2757]['tags'][3] added to iterable.
+Item root[2758]['tags'][0] added to iterable.
+Item root[2758]['tags'][1] added to iterable.
+Item root[2760]['tags'][0] added to iterable.
+Item root[2761]['tags'][0] added to iterable.
+Item root[2761]['tags'][1] added to iterable.
+Item root[2762]['tags'][0] added to iterable.
+Item root[2762]['tags'][1] added to iterable.
+Item root[2763]['tags'][0] added to iterable.
+Item root[2767]['tags'][0] added to iterable.
+Item root[2767]['tags'][1] added to iterable.
+Item root[2769]['tags'][0] added to iterable.
+Item root[2772]['tags'][0] added to iterable.
+Item root[2773]['tags'][0] added to iterable.
+Item root[2778]['tags'][0] added to iterable.
+Item root[2778]['tags'][1] added to iterable.
+Item root[2731] removed from iterable.
+Item root[2732] removed from iterable.
+Item root[2734] removed from iterable.
+Item root[2735] removed from iterable.
+Type of root[1148]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1148]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/4".
+Type of root[2237]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2237]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/4".
+Type of root[2238]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2238]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/4".
+Type of root[2262]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2262]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/4".
+Type of root[2264]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2264]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/4".
+Type of root[2266]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2266]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/4".
+Type of root[2268]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2268]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/4".
+Type of root[2270]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2270]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/4".
+Type of root[2272]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2272]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/4".
+Type of root[2279]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2279]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/4".
+Type of root[2622]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2622]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/4".
+Type of root[2624]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2624]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/4".
+Value of root[108]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[108]['english'] changed from True to False.
+Value of root[111]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[111]['english'] changed from True to False.
+Value of root[113]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。 
+※英語授課".
+Value of root[113]['english'] changed from True to False.
+Value of root[124]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[124]['english'] changed from True to False.
+Value of root[125]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[125]['english'] changed from True to False.
+Value of root[132]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[132]['english'] changed from True to False.
+Value of root[133]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[133]['english'] changed from True to False.
+Value of root[134]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[134]['english'] changed from True to False.
+Value of root[136]['description'] changed from "《講授類》
+1. 須具備英語溝通能力。 2. 須繳交霧台踏查行程交通與食宿等費用，一人5000元。 3. 6/20前須填寫報名表單，經通知錄取並完成繳費者，方能選課。" to "《講授類》
+1. 須具備英語溝通能力。 2. 須繳交霧台踏查行程交通與食宿等費用，一人5000元。 3. 6/20前須填寫報名表單，經通知錄取並完成繳費者，方能選課。
+※英語授課".
+Value of root[136]['english'] changed from True to False.
+Value of root[152]['description'] changed from "《講授類》
+限非生科、海資系學生修習。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+限非生科、海資系學生修習。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[152]['english'] changed from True to False.
+Value of root[155]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[155]['english'] changed from True to False.
+Value of root[156]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[156]['english'] changed from True to False.
+Value of root[157]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[157]['english'] changed from True to False.
+Value of root[166]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課".
+Value of root[166]['english'] changed from True to False.
+Value of root[174]['description'] changed from "《講授類》
+1.開課單位及教師：清華大學陳宜欣老師。本校協同教師：應數系鍾思齊助理教授。  2.此為同步遠距課程，遠距上課連結 https://www.youtube.com/@NTHU_ISA5810_DataMining 3.上課時間：星期一9:00-12:00。 4.建議學生需已修過Python程式設計、有基本機率概念。本課程期末專題採分組開發，請評估可投入時間再選課，以避免影響同組修課同學之權益。 5.同步考試時間：2025/12/8 9:00~12:00（學生需同步進行，在此時段無法應考者勿修課)" to "《講授類》
+1.開課單位及教師：清華大學陳宜欣老師。本校協同教師：應數系鍾思齊助理教授。  2.此為同步遠距課程，遠距上課連結 https://www.youtube.com/@NTHU_ISA5810_DataMining 3.上課時間：星期一9:00-12:00。 4.建議學生需已修過Python程式設計、有基本機率概念。本課程期末專題採分組開發，請評估可投入時間再選課，以避免影響同組修課同學之權益。 5.同步考試時間：2025/12/8 9:00~12:00（學生需同步進行，在此時段無法應考者勿修課)
+※英語授課".
+Value of root[174]['english'] changed from True to False.
+Value of root[214]['description'] changed from "《講授類》
+建議修畢本校通識英語文「英文中高級」課程，或具備相當於CEFR B2(含)以上英文程度學生修習。跨院通識與外文系DFLL222課程併班上課" to "《講授類》
+建議修畢本校通識英語文「英文中高級」課程，或具備相當於CEFR B2(含)以上英文程度學生修習。跨院通識與外文系DFLL222課程併班上課
+※英語授課".
+Value of root[214]['english'] changed from True to False.
+Value of root[220]['description'] changed from "《研討類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL438課程併班上課" to "《研討類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL438課程併班上課
+※英語授課".
+Value of root[220]['english'] changed from True to False.
+Value of root[221]['description'] changed from "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL220課程併班上課" to "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL220課程併班上課
+※英語授課".
+Value of root[221]['english'] changed from True to False.
+Value of root[222]['description'] changed from "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL320課程併班上課" to "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL320課程併班上課
+※英語授課".
+Value of root[222]['english'] changed from True to False.
+Value of root[225]['description'] changed from "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL337課程併班上課" to "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL337課程併班上課
+※英語授課".
+Value of root[225]['english'] changed from True to False.
+Value of root[226]['description'] changed from "《展演》
+跨院通識與文學院LIBA124課程併班上課" to "《展演》
+跨院通識與文學院LIBA124課程併班上課
+※英語授課".
+Value of root[226]['english'] changed from True to False.
+Value of root[227]['description'] changed from "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL461課程併班上課" to "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL461課程併班上課
+※英語授課".
+Value of root[227]['english'] changed from True to False.
+Value of root[242]['description'] changed from "《講授類》
+跨院通識與外文系DFLL240課程併班上課" to "《講授類》
+跨院通識與外文系DFLL240課程併班上課
+※英語授課".
+Value of root[242]['english'] changed from True to False.
+Value of root[250]['description'] changed from "《講授類》
+跨院通識與應數系MATH103A課程併班上課" to "《講授類》
+跨院通識與應數系MATH103A課程併班上課
+※英語授課".
+Value of root[250]['english'] changed from True to False.
+Value of root[252]['description'] changed from "《講授類》
+跨院通識與應數系MATH107A課程併班上課" to "《講授類》
+跨院通識與應數系MATH107A課程併班上課
+※英語授課".
+Value of root[252]['english'] changed from True to False.
+Value of root[255]['description'] changed from "《講授類》
+限非資管系學生修習。跨院通識與電機系EE1300B課程併班上課" to "《講授類》
+限非資管系學生修習。跨院通識與電機系EE1300B課程併班上課
+※英語授課".
+Value of root[255]['english'] changed from True to False.
+Value of root[257]['description'] changed from "《講授類》
+跨院通識與電機系EE2100B課程併班上課" to "《講授類》
+跨院通識與電機系EE2100B課程併班上課
+※英語授課".
+Value of root[257]['english'] changed from True to False.
+Value of root[259]['description'] changed from "《講授類》
+跨院通識與電機系EE2600B課程併班上課" to "《講授類》
+跨院通識與電機系EE2600B課程併班上課
+※英語授課".
+Value of root[259]['english'] changed from True to False.
+Value of root[262]['description'] changed from "《講授類》
+跨院通識與電機系EE2401B課程併班上課" to "《講授類》
+跨院通識與電機系EE2401B課程併班上課
+※英語授課".
+Value of root[262]['english'] changed from True to False.
+Value of root[264]['description'] changed from "《講授類》
+跨院通識與電機系EE1301B課程併班上課" to "《講授類》
+跨院通識與電機系EE1301B課程併班上課
+※英語授課".
+Value of root[264]['english'] changed from True to False.
+Value of root[267]['description'] changed from "《講授類》
+跨院通識與電機系EE2500B課程併班上課" to "《講授類》
+跨院通識與電機系EE2500B課程併班上課
+※英語授課".
+Value of root[267]['english'] changed from True to False.
+Value of root[269]['description'] changed from "《講授類》
+跨院通識與電機系EE1700B課程併班上課" to "《講授類》
+跨院通識與電機系EE1700B課程併班上課
+※英語授課".
+Value of root[269]['english'] changed from True to False.
+Value of root[292]['description'] changed from "《講授類》
+跨院通識與海工系MAEV150課程併班上課" to "《講授類》
+跨院通識與海工系MAEV150課程併班上課
+※英語授課".
+Value of root[292]['english'] changed from True to False.
+Value of root[295]['description'] changed from "《講授類》
+跨院通識與海工系MAEV261課程併班上課" to "《講授類》
+跨院通識與海工系MAEV261課程併班上課
+※英語授課".
+Value of root[295]['english'] changed from True to False.
+Value of root[296]['description'] changed from "《講授類》
+跨院通識與海科系DO203A課程併班上課" to "《講授類》
+跨院通識與海科系DO203A課程併班上課
+※英語授課".
+Value of root[296]['english'] changed from True to False.
+Value of root[303]['description'] changed from "《講授類》
+跨院通識與海科系DO225課程併班上課" to "《講授類》
+跨院通識與海科系DO225課程併班上課
+※英語授課".
+Value of root[303]['english'] changed from True to False.
+Value of root[304]['description'] changed from "《講授類》
+跨院通識與海資系MBR227課程併班上課" to "《講授類》
+跨院通識與海資系MBR227課程併班上課
+※英語授課".
+Value of root[304]['english'] changed from True to False.
+Value of root[318]['description'] changed from "《講授類》
+跨院通識與社會系SOC257課程併班上課" to "《講授類》
+跨院通識與社會系SOC257課程併班上課
+※英語授課".
+Value of root[318]['english'] changed from True to False.
+Value of root[329]['description'] changed from "《講授類》
+跨院通識與醫學院MED145課程併班上課" to "《講授類》
+跨院通識與醫學院MED145課程併班上課
+※英語授課".
+Value of root[329]['english'] changed from True to False.
+Value of root[347]['description'] changed from "《講授類》
+跨院通識與醫學院MED154課程併班上課" to "《講授類》
+跨院通識與醫學院MED154課程併班上課
+※英語授課".
+Value of root[347]['english'] changed from True to False.
+Value of root[351]['description'] changed from "《講授類》
+跨院通識與醫學院MED158課程併班上課" to "《講授類》
+跨院通識與醫學院MED158課程併班上課
+※英語授課".
+Value of root[351]['english'] changed from True to False.
+Value of root[358]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中級』以上程度學生修習選課。" to "《講授類》
+限非外文系。建議英文程度『中級』以上程度學生修習選課。
+※英語授課".
+Value of root[358]['english'] changed from True to False.
+Value of root[359]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課".
+Value of root[359]['english'] changed from True to False.
+Value of root[360]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課".
+Value of root[360]['english'] changed from True to False.
+Value of root[361]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課".
+Value of root[361]['english'] changed from True to False.
+Value of root[362]['description'] changed from "《講授類》
+限非外文系。建議英文程度『高級』以上程度學生修習選課。" to "《講授類》
+限非外文系。建議英文程度『高級』以上程度學生修習選課。
+※英語授課".
+Value of root[362]['english'] changed from True to False.
+Value of root[365]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課".
+Value of root[365]['english'] changed from True to False.
+Value of root[366]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中級』以上程度學生修習選課。" to "《講授類》
+限非外文系。建議英文程度『中級』以上程度學生修習選課。
+※英語授課".
+Value of root[366]['english'] changed from True to False.
+Value of root[367]['description'] changed from "《講授類》
+限非外文系。建議英文程度『高級』以上程度學生修習選課。" to "《講授類》
+限非外文系。建議英文程度『高級』以上程度學生修習選課。
+※英語授課".
+Value of root[367]['english'] changed from True to False.
+Value of root[370]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課".
+Value of root[370]['english'] changed from True to False.
+Value of root[384]['description'] changed from "《服務學習類》
+限大二以上修習" to "《服務學習類》
+限大二以上修習
+※英語授課".
+Value of root[384]['english'] changed from True to False.
+Value of root[387]['description'] changed from "《服務學習類》
+限大二以上修習" to "《服務學習類》
+限大二以上修習
+※英語授課".
+Value of root[387]['english'] changed from True to False.
+Value of root[422]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[422]['english'] changed from True to False.
+Value of root[430]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[430]['english'] changed from True to False.
+Value of root[431]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[431]['english'] changed from True to False.
+Value of root[432]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[432]['english'] changed from True to False.
+Value of root[439]['description'] changed from "《講授類》
+外文系學生優先選修。本課程限修，於加退選2階段開放選修。" to "《講授類》
+外文系學生優先選修。本課程限修，於加退選2階段開放選修。
+※英語授課".
+Value of root[439]['english'] changed from True to False.
+Value of root[441]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[441]['english'] changed from True to False.
+Value of root[445]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[445]['english'] changed from True to False.
+Value of root[446]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[446]['english'] changed from True to False.
+Value of root[448]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[448]['english'] changed from True to False.
+Value of root[454]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[454]['english'] changed from True to False.
+Value of root[455]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[455]['english'] changed from True to False.
+Value of root[456]['description'] changed from "《研討類》" to "《研討類》
+ 
+※英語授課".
+Value of root[456]['english'] changed from True to False.
+Value of root[460]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[460]['english'] changed from True to False.
+Value of root[548]['description'] changed from "《展演》" to "《展演》
+ 
+※英語授課".
+Value of root[548]['english'] changed from True to False.
+Value of root[568]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[568]['english'] changed from True to False.
+Value of root[570]['description'] changed from "《講授類》
+限生科系" to "《講授類》
+限生科系
+※英語授課".
+Value of root[570]['english'] changed from True to False.
+Value of root[574]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[574]['english'] changed from True to False.
+Value of root[576]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[576]['english'] changed from True to False.
+Value of root[578]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[578]['english'] changed from True to False.
+Value of root[580]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[580]['english'] changed from True to False.
+Value of root[587]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[587]['english'] changed from True to False.
+Value of root[588]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[588]['english'] changed from True to False.
+Value of root[591]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[591]['english'] changed from True to False.
+Value of root[595]['description'] changed from "《講授類》
+限化學系同學選修。與光電系、材光系併班。" to "《講授類》
+限化學系同學選修。與光電系、材光系併班。
+※英語授課".
+Value of root[595]['english'] changed from True to False.
+Value of root[597]['description'] changed from "《講授類》
+化學系主題課程。2-4年級皆可選修。" to "《講授類》
+化學系主題課程。2-4年級皆可選修。
+※英語授課".
+Value of root[597]['english'] changed from True to False.
+Value of root[604]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[604]['english'] changed from True to False.
+Value of root[606]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[606]['english'] changed from True to False.
+Value of root[608]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[608]['english'] changed from True to False.
+Value of root[610]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[610]['english'] changed from True to False.
+Value of root[621]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程." to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.
+※英語授課".
+Value of root[621]['english'] changed from True to False.
+Value of root[623]['description'] changed from "《講授類》
+與電機系英文組併班上課." to "《講授類》
+與電機系英文組併班上課.
+※英語授課".
+Value of root[623]['english'] changed from True to False.
+Value of root[625]['description'] changed from "《講授類》
+與材光系英文組併班上課." to "《講授類》
+與材光系英文組併班上課.
+※英語授課".
+Value of root[625]['english'] changed from True to False.
+Value of root[635]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程." to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.
+※英語授課".
+Value of root[635]['english'] changed from True to False.
+Value of root[636]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程." to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.
+※英語授課".
+Value of root[636]['english'] changed from True to False.
+Value of root[638]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[638]['english'] changed from True to False.
+Value of root[642]['description'] changed from "《獨立研究》
+研究主題：量子光學，請事先與老師洽談." to "《獨立研究》
+研究主題：量子光學，請事先與老師洽談.
+※英語授課".
+Value of root[642]['english'] changed from True to False.
+Value of root[643]['description'] changed from "《獨立研究》
+研究主題：生物感測器平台之研究、三態超導之研究，請事先與老師洽談." to "《獨立研究》
+研究主題：生物感測器平台之研究、三態超導之研究，請事先與老師洽談.
+※英語授課".
+Value of root[643]['english'] changed from True to False.
+Value of root[644]['description'] changed from "《獨立研究》
+研究主題：量子磁性材料合成及物理特性研究，請事先與老師洽談." to "《獨立研究》
+研究主題：量子磁性材料合成及物理特性研究，請事先與老師洽談.
+※英語授課".
+Value of root[644]['english'] changed from True to False.
+Value of root[645]['description'] changed from "《獨立研究》
+研究主題：量子計算，請事先與老師洽談。" to "《獨立研究》
+研究主題：量子計算，請事先與老師洽談。
+※英語授課".
+Value of root[645]['english'] changed from True to False.
+Value of root[646]['description'] changed from "《獨立研究》
+研究主題：Machine learning applications in physics，請事先與老師洽談。" to "《獨立研究》
+研究主題：Machine learning applications in physics，請事先與老師洽談。
+※英語授課".
+Value of root[646]['english'] changed from True to False.
+Value of root[647]['description'] changed from "《獨立研究》
+研究主題：微流體生醫影像平台，請事先與老師洽談。" to "《獨立研究》
+研究主題：微流體生醫影像平台，請事先與老師洽談。
+※英語授課".
+Value of root[647]['english'] changed from True to False.
+Value of root[648]['description'] changed from "《獨立研究》
+研究主題：拓樸物理的對稱研究，請事先與老師洽談。" to "《獨立研究》
+研究主題：拓樸物理的對稱研究，請事先與老師洽談。
+※英語授課".
+Value of root[648]['english'] changed from True to False.
+Value of root[649]['description'] changed from "《獨立研究》
+研究主題：邁射星系與黑洞質量測量研究，請事先與老師洽談。" to "《獨立研究》
+研究主題：邁射星系與黑洞質量測量研究，請事先與老師洽談。
+※英語授課".
+Value of root[649]['english'] changed from True to False.
+Value of root[650]['description'] changed from "《獨立研究》
+研究主題：幾何與量子物理(Geometry and quantum physics)，請事先與老師洽談。" to "《獨立研究》
+研究主題：幾何與量子物理(Geometry and quantum physics)，請事先與老師洽談。
+※英語授課".
+Value of root[650]['english'] changed from True to False.
+Value of root[651]['description'] changed from "《獨立研究》
+研究主題：二維材料在感應器上的應用，請事先與老師洽談。" to "《獨立研究》
+研究主題：二維材料在感應器上的應用，請事先與老師洽談。
+※英語授課".
+Value of root[651]['english'] changed from True to False.
+Value of root[652]['description'] changed from "《獨立研究》
+研究主題：利用第一原理研究新穎二維材料，請事先與老師洽談。" to "《獨立研究》
+研究主題：利用第一原理研究新穎二維材料，請事先與老師洽談。
+※英語授課".
+Value of root[652]['english'] changed from True to False.
+Value of root[653]['description'] changed from "《獨立研究》
+研究主題：低微材料的電性傳輸性質，請事先與老師洽談。" to "《獨立研究》
+研究主題：低微材料的電性傳輸性質，請事先與老師洽談。
+※英語授課".
+Value of root[653]['english'] changed from True to False.
+Value of root[654]['description'] changed from "《獨立研究》
+研究主題：前瞻半導體元件性能及可靠度分析、次世代可撓式薄膜電晶體平面顯示器性能及可靠度分析，請事先與老師洽談。" to "《獨立研究》
+研究主題：前瞻半導體元件性能及可靠度分析、次世代可撓式薄膜電晶體平面顯示器性能及可靠度分析，請事先與老師洽談。
+※英語授課".
+Value of root[654]['english'] changed from True to False.
+Value of root[655]['description'] changed from "《獨立研究》
+研究主題：Time-domain terahertz spectroscopy and single-pixel cameras，請事先與老師洽談。" to "《獨立研究》
+研究主題：Time-domain terahertz spectroscopy and single-pixel cameras，請事先與老師洽談。
+※英語授課".
+Value of root[655]['english'] changed from True to False.
+Value of root[656]['description'] changed from "《獨立研究》
+研究主題：二維新穎材料的原子影像，請事先與老師洽談。" to "《獨立研究》
+研究主題：二維新穎材料的原子影像，請事先與老師洽談。
+※英語授課".
+Value of root[656]['english'] changed from True to False.
+Value of root[657]['description'] changed from "《獨立研究》
+研究主題：Particle physics phenomenology 粒子物理現象學，請事先與老師洽談。" to "《獨立研究》
+研究主題：Particle physics phenomenology 粒子物理現象學，請事先與老師洽談。
+※英語授課".
+Value of root[657]['english'] changed from True to False.
+Value of root[658]['description'] changed from "《獨立研究》
+研究主題：Materials Physics & Electronic Surfaces，請事先與老師洽談。" to "《獨立研究》
+研究主題：Materials Physics & Electronic Surfaces，請事先與老師洽談。
+※英語授課".
+Value of root[658]['english'] changed from True to False.
+Value of root[659]['description'] changed from "《獨立研究》
+研究主題：電波干涉天文原理與實務應用，請事先與老師洽談。" to "《獨立研究》
+研究主題：電波干涉天文原理與實務應用，請事先與老師洽談。
+※英語授課".
+Value of root[659]['english'] changed from True to False.
+Value of root[663]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程." to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.
+※英語授課".
+Value of root[663]['english'] changed from True to False.
+Value of root[677]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[677]['english'] changed from True to False.
+Value of root[679]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[679]['english'] changed from True to False.
+Value of root[682]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[682]['english'] changed from True to False.
+Value of root[684]['description'] changed from "《講授類》
+選修過微積分(一)(二)者才可選修。" to "《講授類》
+選修過微積分(一)(二)者才可選修。
+※英語授課".
+Value of root[684]['english'] changed from True to False.
+Value of root[686]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[686]['english'] changed from True to False.
+Value of root[688]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[688]['english'] changed from True to False.
+Value of root[694]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[694]['english'] changed from True to False.
+Value of root[701]['description'] changed from "《講授類》
+與物理系英文組併班上課" to "《講授類》
+與物理系英文組併班上課
+※英語授課".
+Value of root[701]['english'] changed from True to False.
+Value of root[704]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[704]['english'] changed from True to False.
+Value of root[707]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[707]['english'] changed from True to False.
+Value of root[710]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[710]['english'] changed from True to False.
+Value of root[716]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[716]['english'] changed from True to False.
+Value of root[722]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[722]['english'] changed from True to False.
+Value of root[723]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[723]['english'] changed from True to False.
+Value of root[726]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[726]['english'] changed from True to False.
+Value of root[729]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[729]['english'] changed from True to False.
+Value of root[733]['description'] changed from "《實驗類》" to "《實驗類》
+ 
+※英語授課".
+Value of root[733]['english'] changed from True to False.
+Value of root[739]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[739]['english'] changed from True to False.
+Value of root[743]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[743]['english'] changed from True to False.
+Value of root[749]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[749]['english'] changed from True to False.
+Value of root[754]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[754]['english'] changed from True to False.
+Value of root[755]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[755]['english'] changed from True to False.
+Value of root[758]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[758]['english'] changed from True to False.
+Value of root[766]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[766]['english'] changed from True to False.
+Value of root[769]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[769]['english'] changed from True to False.
+Value of root[772]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[772]['english'] changed from True to False.
+Value of root[782]['description'] changed from "《講授類》
+限全英班學生加選" to "《講授類》
+限全英班學生加選
+※英語授課".
+Value of root[782]['english'] changed from True to False.
+Value of root[785]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[785]['english'] changed from True to False.
+Value of root[788]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[788]['english'] changed from True to False.
+Value of root[791]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[791]['english'] changed from True to False.
+Value of root[794]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[794]['english'] changed from True to False.
+Value of root[797]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[797]['english'] changed from True to False.
+Value of root[799]['description'] changed from "《實驗類》
+三乙、三英併班上課，實驗室在工EV 2008" to "《實驗類》
+三乙、三英併班上課，實驗室在工EV 2008
+※英語授課".
+Value of root[799]['english'] changed from True to False.
+Value of root[800]['description'] changed from "《實驗類》
+三乙、三英併班上課，實驗室在工EV 2008" to "《實驗類》
+三乙、三英併班上課，實驗室在工EV 2008
+※英語授課".
+Value of root[800]['english'] changed from True to False.
+Value of root[803]['description'] changed from "《實驗類》
+實驗室在工EC1030" to "《實驗類》
+實驗室在工EC1030
+※英語授課".
+Value of root[803]['english'] changed from True to False.
+Value of root[806]['description'] changed from "《講授類》
+限全英班學生加選" to "《講授類》
+限全英班學生加選
+※英語授課".
+Value of root[806]['english'] changed from True to False.
+Value of root[808]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[808]['english'] changed from True to False.
+Value of root[810]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[810]['english'] changed from True to False.
+Value of root[815]['description'] changed from "《講授類》
+EMI/ESP/CLIL/STEM" to "《講授類》
+EMI/ESP/CLIL/STEM
+※英語授課".
+Value of root[815]['english'] changed from True to False.
+Value of root[819]['description'] changed from "《實習類》" to "《實習類》
+ 
+※英語授課".
+Value of root[819]['english'] changed from True to False.
+Value of root[825]['description'] changed from "《講授類》
+本系學生優先修習" to "《講授類》
+本系學生優先修習
+※英語授課".
+Value of root[825]['english'] changed from True to False.
+Value of root[826]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[826]['english'] changed from True to False.
+Value of root[834]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[834]['english'] changed from True to False.
+Value of root[839]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[839]['english'] changed from True to False.
+Value of root[840]['description'] changed from "《講授類》
+本系學生優先修習" to "《講授類》
+本系學生優先修習
+※英語授課".
+Value of root[840]['english'] changed from True to False.
+Value of root[846]['description'] changed from "《講授類》
+限本系生選修。" to "《講授類》
+限本系生選修。
+※英語授課".
+Value of root[846]['english'] changed from True to False.
+Value of root[847]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[847]['english'] changed from True to False.
+Value of root[848]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[848]['english'] changed from True to False.
+Value of root[852]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[852]['english'] changed from True to False.
+Value of root[853]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[853]['english'] changed from True to False.
+Value of root[855]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[855]['english'] changed from True to False.
+Value of root[856]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[856]['english'] changed from True to False.
+Value of root[859]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[859]['english'] changed from True to False.
+Value of root[860]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[860]['english'] changed from True to False.
+Value of root[864]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[864]['english'] changed from True to False.
+Value of root[865]['description'] changed from "《實驗類》" to "《實驗類》
+ 
+※英語授課".
+Value of root[865]['english'] changed from True to False.
+Value of root[866]['description'] changed from "《實驗類》" to "《實驗類》
+ 
+※英語授課".
+Value of root[866]['english'] changed from True to False.
+Value of root[867]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[867]['english'] changed from True to False.
+Value of root[868]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[868]['english'] changed from True to False.
+Value of root[869]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[869]['english'] changed from True to False.
+Value of root[870]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[870]['english'] changed from True to False.
+Value of root[871]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[871]['english'] changed from True to False.
+Value of root[872]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[872]['english'] changed from True to False.
+Value of root[881]['description'] changed from "《講授類》
+與物理系英文組併班" to "《講授類》
+與物理系英文組併班
+※英語授課".
+Value of root[881]['english'] changed from True to False.
+Value of root[883]['description'] changed from "《講授類》
+限本系生選修；與光電系、化學系英文班併班上課。" to "《講授類》
+限本系生選修；與光電系、化學系英文班併班上課。
+※英語授課".
+Value of root[883]['english'] changed from True to False.
+Value of root[887]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[887]['english'] changed from True to False.
+Value of root[888]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[888]['english'] changed from True to False.
+Value of root[889]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[889]['english'] changed from True to False.
+Value of root[890]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[890]['english'] changed from True to False.
+Value of root[891]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[891]['english'] changed from True to False.
+Value of root[893]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[893]['english'] changed from True to False.
+Value of root[896]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[896]['english'] changed from True to False.
+Value of root[901]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[901]['english'] changed from True to False.
+Value of root[902]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[902]['english'] changed from True to False.
+Value of root[903]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[903]['english'] changed from True to False.
+Value of root[904]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[904]['english'] changed from True to False.
+Value of root[915]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[915]['english'] changed from True to False.
+Value of root[917]['description'] changed from "《講授類》
+限本系學生修習" to "《講授類》
+限本系學生修習
+※英語授課".
+Value of root[917]['english'] changed from True to False.
+Value of root[918]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[918]['english'] changed from True to False.
+Value of root[919]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[919]['english'] changed from True to False.
+Value of root[920]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[920]['english'] changed from True to False.
+Value of root[921]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[921]['english'] changed from True to False.
+Value of root[922]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[922]['english'] changed from True to False.
+Value of root[923]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[923]['english'] changed from True to False.
+Value of root[950]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[950]['english'] changed from True to False.
+Value of root[958]['description'] changed from "《講授類》
+限資管系一年級修習且需搭配實習一同修習" to "《講授類》
+限資管系一年級修習且需搭配實習一同修習 
+※英語授課".
+Value of root[958]['english'] changed from True to False.
+Value of root[989]['description'] changed from "《講授類》
+限財管系(含雙主修、輔系)" to "《講授類》
+限財管系(含雙主修、輔系)
+※英語授課".
+Value of root[989]['english'] changed from True to False.
+Value of root[993]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[993]['english'] changed from True to False.
+Value of root[998]['description'] changed from "《講授類》
+限修畢財管系財務管理(一)及財務管理(二)" to "《講授類》
+限修畢財管系財務管理(一)及財務管理(二)
+※英語授課".
+Value of root[998]['english'] changed from True to False.
+Value of root[1010]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1010]['english'] changed from True to False.
+Value of root[1012]['description'] changed from "《講授類》
+限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。" to "《講授類》
+限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。
+※英語授課".
+Value of root[1012]['english'] changed from True to False.
+Value of root[1013]['description'] changed from "《講授類》
+限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。" to "《講授類》
+限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。
+※英語授課".
+Value of root[1013]['english'] changed from True to False.
+Value of root[1016]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1016]['english'] changed from True to False.
+Value of root[1017]['description'] changed from "《實驗類》" to "《實驗類》
+ 
+※英語授課".
+Value of root[1017]['english'] changed from True to False.
+Value of root[1030]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1030]['english'] changed from True to False.
+Value of root[1032]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1032]['english'] changed from True to False.
+Value of root[1034]['description'] changed from "《實習類》
+修課學生須先取得海科院舉辦之水域活動安全與自救訓練講習證明，始能參與水域活動(含實習航次)" to "《實習類》
+修課學生須先取得海科院舉辦之水域活動安全與自救訓練講習證明，始能參與水域活動(含實習航次)
+※英語授課".
+Value of root[1034]['english'] changed from True to False.
+Value of root[1036]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1036]['english'] changed from True to False.
+Value of root[1054]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1054]['english'] changed from True to False.
+Value of root[1055]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1055]['english'] changed from True to False.
+Value of root[1056]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1056]['english'] changed from True to False.
+Value of root[1064]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1064]['english'] changed from True to False.
+Value of root[1087]['description'] changed from "《講授類》
+適合大一、大二學生跨院選修。" to "《講授類》
+適合大一、大二學生跨院選修。
+※英語授課".
+Value of root[1087]['english'] changed from True to False.
+Value of root[1092]['description'] changed from "《講授類》
+適合大一、大二學生跨院選修。" to "《講授類》
+適合大一、大二學生跨院選修。
+※英語授課".
+Value of root[1092]['english'] changed from True to False.
+Value of root[1110]['description'] changed from "《講授類》
+海資系、海工系及海科系大一必修。" to "《講授類》
+海資系、海工系及海科系大一必修。
+※英語授課".
+Value of root[1110]['english'] changed from True to False.
+Value of root[1141]['changeDescription'] changed from "更換時間7/30" to "更換時間8/4".
+Value of root[1144]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1144]['english'] changed from True to False.
+Value of root[1149]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1149]['english'] changed from True to False.
+Value of root[1187]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1187]['english'] changed from True to False.
+Value of root[1192]['description'] changed from "《講授類》
+1.須具備英語溝通能力。2.須繳交霧台踏查行程交通與食宿費等用，一人5000元。3.6/20前須填寫報名表單，經通知錄取並完成繳費者，方能選課。" to "《講授類》
+1.須具備英語溝通能力。2.須繳交霧台踏查行程交通與食宿費等用，一人5000元。3.6/20前須填寫報名表單，經通知錄取並完成繳費者，方能選課。
+※英語授課".
+Value of root[1192]['english'] changed from True to False.
+Value of root[1256]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1256]['english'] changed from True to False.
+Value of root[1262]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1262]['english'] changed from True to False.
+Value of root[1293]['description'] changed from "《講授類》
+限醫學院大學部學生修習" to "《講授類》
+限醫學院大學部學生修習
+※英語授課".
+Value of root[1293]['english'] changed from True to False.
+Value of root[1297]['description'] changed from "《講授類》
+限醫學院大學部學生修習" to "《講授類》
+限醫學院大學部學生修習
+※英語授課".
+Value of root[1297]['english'] changed from True to False.
+Value of root[1301]['description'] changed from "《講授類》
+限醫學院大學部學生修習" to "《講授類》
+限醫學院大學部學生修習
+※英語授課".
+Value of root[1301]['english'] changed from True to False.
+Value of root[1321]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1321]['english'] changed from True to False.
+Value of root[1378]['description'] changed from "《展演》" to "《展演》
+ 
+※英語授課".
+Value of root[1378]['english'] changed from True to False.
+Value of root[1385]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1385]['english'] changed from True to False.
+Value of root[1452]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1452]['english'] changed from True to False.
+Value of root[1457]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1457]['english'] changed from True to False.
+Value of root[1523]['description'] changed from "《講授類》
+與電機電力學程併班上課" to "《講授類》
+與電機電力學程併班上課
+※英語授課".
+Value of root[1523]['english'] changed from True to False.
+Value of root[1524]['description'] changed from "《講授類》
+與電機電力學程併班上課" to "《講授類》
+與電機電力學程併班上課
+※英語授課".
+Value of root[1524]['english'] changed from True to False.
+Value of root[1525]['description'] changed from "《講授類》
+與電機電力學程併班上課" to "《講授類》
+與電機電力學程併班上課
+※英語授課".
+Value of root[1525]['english'] changed from True to False.
+Value of root[1530]['description'] changed from "《獨立研究》" to "《獨立研究》
+ 
+※英語授課".
+Value of root[1530]['english'] changed from True to False.
+Value of root[1549]['description'] changed from "《講授類》
+與IC設計所併班上課" to "《講授類》
+與IC設計所併班上課
+※英語授課".
+Value of root[1549]['english'] changed from True to False.
+Value of root[1550]['description'] changed from "《講授類》
+與IC設計所併班上課" to "《講授類》
+與IC設計所併班上課
+※英語授課".
+Value of root[1550]['english'] changed from True to False.
+Value of root[1551]['description'] changed from "《講授類》
+與IC設計所併班上課" to "《講授類》
+與IC設計所併班上課
+※英語授課".
+Value of root[1551]['english'] changed from True to False.
+Value of root[1557]['description'] changed from "《講授類》
+與IC設計所併班上課" to "《講授類》
+與IC設計所併班上課
+※英語授課".
+Value of root[1557]['english'] changed from True to False.
+Value of root[1558]['description'] changed from "《講授類》
+與IC設計所併班上課" to "《講授類》
+與IC設計所併班上課
+※英語授課".
+Value of root[1558]['english'] changed from True to False.
+Value of root[1565]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1565]['english'] changed from True to False.
+Value of root[1574]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1574]['english'] changed from True to False.
+Value of root[1602]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1602]['english'] changed from True to False.
+Value of root[1606]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1606]['english'] changed from True to False.
+Value of root[1652]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1652]['english'] changed from True to False.
+Value of root[1668]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1668]['english'] changed from True to False.
+Value of root[1682]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1682]['english'] changed from True to False.
+Value of root[1690]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1690]['english'] changed from True to False.
+Value of root[1700]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1700]['english'] changed from True to False.
+Value of root[1701]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1701]['english'] changed from True to False.
+Value of root[1703]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1703]['english'] changed from True to False.
+Value of root[1706]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1706]['english'] changed from True to False.
+Value of root[1747]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1747]['english'] changed from True to False.
+Value of root[1751]['description'] changed from "《講授類》
+與電機碩併班上課" to "《講授類》
+與電機碩併班上課
+※英語授課".
+Value of root[1751]['english'] changed from True to False.
+Value of root[1753]['description'] changed from "《講授類》
+與電機碩併班上課" to "《講授類》
+與電機碩併班上課
+※英語授課".
+Value of root[1753]['english'] changed from True to False.
+Value of root[1754]['description'] changed from "《講授類》
+與電機碩併班上課" to "《講授類》
+與電機碩併班上課
+※英語授課".
+Value of root[1754]['english'] changed from True to False.
+Value of root[1755]['description'] changed from "《講授類》
+與電機碩併班上課" to "《講授類》
+與電機碩併班上課
+※英語授課".
+Value of root[1755]['english'] changed from True to False.
+Value of root[1757]['description'] changed from "《講授類》
+與電機碩併班上課" to "《講授類》
+與電機碩併班上課
+※英語授課".
+Value of root[1757]['english'] changed from True to False.
+Value of root[1768]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1768]['english'] changed from True to False.
+Value of root[1770]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1770]['english'] changed from True to False.
+Value of root[1778]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1778]['english'] changed from True to False.
+Value of root[1781]['description'] changed from "《講授類》
+與電機系併班上課." to "《講授類》
+與電機系併班上課.
+※英語授課".
+Value of root[1781]['english'] changed from True to False.
+Value of root[1782]['description'] changed from "《講授類》
+與電機系併班上課." to "《講授類》
+與電機系併班上課.
+※英語授課".
+Value of root[1782]['english'] changed from True to False.
+Value of root[1783]['description'] changed from "《講授類》
+與電機系併班上課" to "《講授類》
+與電機系併班上課
+※英語授課".
+Value of root[1783]['english'] changed from True to False.
+Value of root[1784]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1784]['english'] changed from True to False.
+Value of root[1797]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1797]['english'] changed from True to False.
+Value of root[1828]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1828]['english'] changed from True to False.
+Value of root[1848]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1848]['english'] changed from True to False.
+Value of root[1851]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1851]['english'] changed from True to False.
+Value of root[1860]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1860]['english'] changed from True to False.
+Value of root[1891]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1891]['english'] changed from True to False.
+Value of root[1892]['description'] changed from "《講授類》
+與GHRM503課程併班" to "《講授類》
+與GHRM503課程併班
+※英語授課".
+Value of root[1892]['english'] changed from True to False.
+Value of root[1913]['description'] changed from "《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。" to "《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。
+※英語授課".
+Value of root[1913]['english'] changed from True to False.
+Value of root[1914]['description'] changed from "《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。" to "《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。
+※英語授課".
+Value of root[1914]['english'] changed from True to False.
+Value of root[1945]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1945]['english'] changed from True to False.
+Value of root[1947]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1947]['english'] changed from True to False.
+Value of root[1948]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1948]['english'] changed from True to False.
+Value of root[1953]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1953]['english'] changed from True to False.
+Value of root[1954]['description'] changed from "《講授類》
+上課地點在海生館" to "《講授類》
+上課地點在海生館
+※英語授課".
+Value of root[1954]['english'] changed from True to False.
+Value of root[1968]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1968]['english'] changed from True to False.
+Value of root[1969]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1969]['english'] changed from True to False.
+Value of root[1971]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1971]['english'] changed from True to False.
+Value of root[1978]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1978]['english'] changed from True to False.
+Value of root[1984]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1984]['english'] changed from True to False.
+Value of root[1987]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1987]['english'] changed from True to False.
+Value of root[1988]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1988]['english'] changed from True to False.
+Value of root[1991]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1991]['english'] changed from True to False.
+Value of root[1992]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[1992]['english'] changed from True to False.
+Value of root[2034]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2034]['english'] changed from True to False.
+Value of root[2043]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2043]['english'] changed from True to False.
+Value of root[2047]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2047]['english'] changed from True to False.
+Value of root[2052]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2052]['english'] changed from True to False.
+Value of root[2055]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2055]['english'] changed from True to False.
+Value of root[2056]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2056]['english'] changed from True to False.
+Value of root[2085]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2085]['english'] changed from True to False.
+Value of root[2095]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2095]['english'] changed from True to False.
+Value of root[2127]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2127]['english'] changed from True to False.
+Value of root[2128]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2128]['english'] changed from True to False.
+Value of root[2130]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2130]['english'] changed from True to False.
+Value of root[2131]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2131]['english'] changed from True to False.
+Value of root[2133]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2133]['english'] changed from True to False.
+Value of root[2134]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2134]['english'] changed from True to False.
+Value of root[2155]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2155]['english'] changed from True to False.
+Value of root[2175]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2175]['english'] changed from True to False.
+Value of root[2177]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2177]['english'] changed from True to False.
+Value of root[2191]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2191]['english'] changed from True to False.
+Value of root[2200]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2200]['english'] changed from True to False.
+Value of root[2214]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2214]['english'] changed from True to False.
+Value of root[2218]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2218]['english'] changed from True to False.
+Value of root[2220]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2220]['english'] changed from True to False.
+Value of root[2223]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2223]['english'] changed from True to False.
+Value of root[2232]['description'] changed from "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。" to "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課".
+Value of root[2232]['english'] changed from True to False.
+Value of root[2237]['teacher'] changed from "待聘" to "林明德".
+Value of root[2238]['teacher'] changed from "待聘" to "黃仲平".
+Value of root[2238]['description'] changed from "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。" to "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課".
+Value of root[2238]['english'] changed from True to False.
+Value of root[2240]['description'] changed from "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。" to "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課".
+Value of root[2240]['english'] changed from True to False.
+Value of root[2257]['description'] changed from "《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。" to "《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課".
+Value of root[2257]['english'] changed from True to False.
+Value of root[2262]['description'] changed from "《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。" to "《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課".
+Value of root[2262]['english'] changed from True to False.
+Value of root[2279]['teacher'] changed from "待聘" to "林明德".
+Value of root[2281]['description'] changed from "《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。" to "《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課".
+Value of root[2281]['english'] changed from True to False.
+Value of root[2285]['description'] changed from "《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。" to "《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課".
+Value of root[2285]['english'] changed from True to False.
+Value of root[2465]['description'] changed from "《研討類》" to "《研討類》
+ 
+※英語授課".
+Value of root[2465]['english'] changed from True to False.
+Value of root[2497]['description'] changed from "《講授類》
+企業管理組;" to "《講授類》
+企業管理組;
+ 
+※英語授課".
+Value of root[2497]['english'] changed from True to False.
+Value of root[2499]['description'] changed from "《講授類》
+企業管理組;" to "《講授類》
+企業管理組;
+ 
+※英語授課".
+Value of root[2499]['english'] changed from True to False.
+Value of root[2583]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2583]['english'] changed from True to False.
+Value of root[2622]['teacher'] changed from "待聘" to "林明德".
+Value of root[2632]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2632]['english'] changed from True to False.
+Value of root[2649]['description'] changed from "《講授類》
+海資系、海工系及海科系大一必修。" to "《講授類》
+海資系、海工系及海科系大一必修。
+※英語授課".
+Value of root[2649]['english'] changed from True to False.
+Value of root[2651]['description'] changed from "《講授類》
+海資系、海工系及海科系大一必修。" to "《講授類》
+海資系、海工系及海科系大一必修。
+※英語授課".
+Value of root[2651]['english'] changed from True to False.
+Value of root[2650]['description'] changed from "《講授類》
+海資系、海工系及海科系大一必修。" to "《講授類》
+海資系、海工系及海科系大一必修。
+※英語授課".
+Value of root[2650]['english'] changed from True to False.
+Value of root[2661]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2661]['english'] changed from True to False.
+Value of root[2662]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2662]['english'] changed from True to False.
+Value of root[2664]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2664]['english'] changed from True to False.
+Value of root[2667]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2667]['english'] changed from True to False.
+Value of root[2673]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2673]['english'] changed from True to False.
+Value of root[2682]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2682]['english'] changed from True to False.
+Value of root[2683]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2683]['english'] changed from True to False.
+Value of root[2684]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2684]['english'] changed from True to False.
+Value of root[2685]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2685]['english'] changed from True to False.
+Value of root[2730]['description'] changed from "《講授類》
+企業管理組;" to "《講授類》
+ 
+※英語授課".
+Value of root[2730]['english'] changed from True to False.
+Value of root[2733]['description'] changed from "《講授類》
+企業管理組;
+與GHRM503課程併班" to "《講授類》
+與GHRM503課程併班
+※英語授課".
+Value of root[2733]['english'] changed from True to False.
+Value of root[2746]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2746]['english'] changed from True to False.
+Value of root[2747]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2747]['english'] changed from True to False.
+Value of root[2748]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2748]['english'] changed from True to False.
+Value of root[2749]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2749]['english'] changed from True to False.
+Value of root[2750]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2750]['english'] changed from True to False.
+Value of root[2751]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2751]['english'] changed from True to False.
+Value of root[2752]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2752]['english'] changed from True to False.
+Value of root[2756]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2756]['english'] changed from True to False.
+Value of root[2757]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2757]['english'] changed from True to False.
+Value of root[2758]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2758]['english'] changed from True to False.
+Value of root[2760]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2760]['english'] changed from True to False.
+Value of root[2761]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2761]['english'] changed from True to False.
+Value of root[2762]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2762]['english'] changed from True to False.
+Value of root[2763]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2763]['english'] changed from True to False.
+Value of root[2767]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2767]['english'] changed from True to False.
+Value of root[2769]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2769]['english'] changed from True to False.
+Value of root[2772]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2772]['english'] changed from True to False.
+Value of root[2773]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2773]['english'] changed from True to False.
