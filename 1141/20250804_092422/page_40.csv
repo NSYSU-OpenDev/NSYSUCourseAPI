@@ -1,0 +1,64 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME203&Crsname=熱力學,,,False,機電系,MEME203,2,甲班,"熱力學
+THERMODYNAMICS",3,期,True,50,0,0,50,郭振坤,"一5,6,7(工EN 4055-1)","['567', '', '', '', '', '', '']","《講授類》
+二甲、二乙併班上課","['南星產業樞紐學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME203A&Crsname=熱力學,,,False,機電系,MEME203A,2,乙班,"熱力學
+THERMODYNAMICS",3,期,True,50,0,0,50,郭振坤,"一5,6,7(工EN 4055-1)","['567', '', '', '', '', '', '']","《講授類》
+二甲、二乙併班上課","['南星產業樞紐學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME203B&Crsname=熱力學,,,False,機電系,MEME203B,2,全英班,"熱力學
+THERMODYNAMICS",3,期,True,50,0,0,50,鄭威利,"一5,6,7(工EC 2006)","['567', '', '', '', '', '', '']","《講授類》
+限全英班學生加選
+※英語授課","['南星產業樞紐學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME204&Crsname=電路學,,,False,機電系,MEME204,2,甲班,"電路學
+ELECTRIC CIRCUIT THEORY",3,期,True,50,0,0,50,許煜亮,"一2,3,4(工EN 4055-1)","['234', '', '', '', '', '', '']","《講授類》
+二甲、二乙併班上課","['半導體元件學程', '類比射頻IC設計學程', '太空科技微學程', '南星產業樞紐學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME204A&Crsname=電路學,,,False,機電系,MEME204A,2,乙班,"電路學
+ELECTRIC CIRCUIT THEORY",3,期,True,50,0,0,50,許煜亮,"一2,3,4(工EN 4055-1)","['234', '', '', '', '', '', '']","《講授類》
+二甲、二乙併班上課","['半導體元件學程', '類比射頻IC設計學程', '太空科技微學程', '南星產業樞紐學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME204B&Crsname=電路學,,,False,機電系,MEME204B,2,全英班,"電路學
+ELECTRIC CIRCUIT THEORY",3,期,True,50,0,0,50,程啓正,"三2,3,4(工EC 3002)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '類比射頻IC設計學程', '太空科技微學程', '南星產業樞紐學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME205&Crsname=精密機械製造,,,False,機電系,MEME205,2,甲班,"精密機械製造
+PRECISION MANUFACTURING PROCESS",3,期,True,50,0,0,50,楊政融,"二5,6,7(工EN 4055-1)","['', '567', '', '', '', '', '']","《講授類》
+二甲、二乙併班上課","['智慧製造聯網微學程', '跨領域智慧製造學程', '製造與大數據分析微學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME205A&Crsname=精密機械製造,,,False,機電系,MEME205A,2,乙班,"精密機械製造
+PRECISION MANUFACTURING PROCESS",3,期,True,50,0,0,50,楊政融,"二5,6,7(工EN 4055-1)","['', '567', '', '', '', '', '']","《講授類》
+二甲、二乙併班上課","['智慧製造聯網微學程', '跨領域智慧製造學程', '製造與大數據分析微學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME205B&Crsname=精密機械製造,,,False,機電系,MEME205B,2,全英班,"精密機械製造
+PRECISION MANUFACTURING PROCESS",3,期,True,50,0,0,50,李伯軒,"四5,6,7(工EN 3021)","['', '', '', '567', '', '', '']","《講授類》
+ 
+※英語授課","['智慧製造聯網微學程', '跨領域智慧製造學程', '製造與大數據分析微學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME207&Crsname=材料力學,,,False,機電系,MEME207,2,甲班,"材料力學
+MECHANICS OF MATERIALS",3,期,True,50,0,0,50,黃永茂,"四2,3,4(工EC 2006)","['', '', '', '234', '', '', '']",《講授類》,['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME207A&Crsname=材料力學,,,False,機電系,MEME207A,2,乙班,"材料力學
+MECHANICS OF MATERIALS",3,期,True,50,0,0,50,施孟鎧,"三2,3,4(工EN 3021)","['', '', '234', '', '', '', '']",《講授類》,['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME207B&Crsname=材料力學,,,False,機電系,MEME207B,2,全英班,"材料力學
+MECHANICS OF MATERIALS",3,期,True,50,0,0,50,施孟鎧,"一2,3,4(工EN 3021)","['234', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME301&Crsname=機械設計原理（一）,,,False,機電系,MEME301,3,甲班,"機械設計原理（一）
+PRINCIPLES OF MACHINE DESIGN(I)",3,期,True,50,0,0,50,蔡尚南,"四8,6,7(工EC 3003)","['', '', '', '678', '', '', '']",《講授類》,"['碳流資訊盤查與低碳設計微學程', '太空科技微學程', '無人載具學程', '南星產業樞紐學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME301A&Crsname=機械設計原理（一）,,,False,機電系,MEME301A,3,乙班,"機械設計原理（一）
+PRINCIPLES OF MACHINE DESIGN(I)",3,期,True,50,0,0,50,汪正祺,"三2,3,4(工EC 3003)","['', '', '234', '', '', '', '']",《講授類》,"['碳流資訊盤查與低碳設計微學程', '太空科技微學程', '無人載具學程', '南星產業樞紐學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME301B&Crsname=機械設計原理（一）,,,False,機電系,MEME301B,3,全英班,"機械設計原理（一）
+PRINCIPLES OF MACHINE DESIGN(I)",3,期,True,50,0,0,50,胡龍豪,"四8,6,7(工EC 3006)","['', '', '', '678', '', '', '']","《講授類》
+ 
+※英語授課","['碳流資訊盤查與低碳設計微學程', '太空科技微學程', '無人載具學程', '南星產業樞紐學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME303&Crsname=自動控制,,,False,機電系,MEME303,3,甲班,"自動控制
+AUTOMATIC CONTROL",3,期,True,50,0,0,50,嚴成文,"二2,3,4(工EN 4055-1)","['', '234', '', '', '', '', '']","《講授類》
+三甲、三乙併班上課","['類比射頻IC設計學程', '南星產業樞紐學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME303A&Crsname=自動控制,,,False,機電系,MEME303A,3,乙班,"自動控制
+AUTOMATIC CONTROL",3,期,True,50,0,0,50,嚴成文,"二2,3,4(工EN 4055-1)","['', '234', '', '', '', '', '']","《講授類》
+三甲、三乙併班上課","['類比射頻IC設計學程', '南星產業樞紐學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME303B&Crsname=自動控制,,,False,機電系,MEME303B,3,全英班,"自動控制
+AUTOMATIC CONTROL",3,期,True,50,0,0,50,嚴成文,"三2,3,4(工EC 3001)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['類比射頻IC設計學程', '南星產業樞紐學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME304&Crsname=電子電路實驗,,,False,機電系,MEME304,3,甲班,"電子電路實驗
+ELECTRONICS LABORATORY",1,期,True,75,0,0,75,許煜亮,"一5,6,7(工EC 3003)(實驗)","['567', '', '', '', '', '', '']","《實驗類》
+實驗室在工EV 2008",['太空科技微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME304A&Crsname=電子電路實驗,,,False,機電系,MEME304A,3,乙班,"電子電路實驗
+ELECTRONICS LABORATORY",1,期,True,50,0,0,50,許煜亮,"二5,6,7(工EC 3003)(實驗)","['', '567', '', '', '', '', '']","《實驗類》
+三乙、三英併班上課，實驗室在工EV 2008
+※英語授課",['太空科技微學程'],False

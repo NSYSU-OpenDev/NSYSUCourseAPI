@@ -1,0 +1,21 @@
+Item root[1141]['classTime'][1] added to iterable.
+Item root[1148]['classTime'][4] added to iterable.
+Item root[1866]['classTime'][3] added to iterable.
+Item root[1141]['classTime'][4] removed from iterable.
+Item root[1148]['classTime'][3] removed from iterable.
+Item root[1866]['classTime'][2] removed from iterable.
+Type of root[1264]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1264]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式8/4".
+Type of root[1866]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1866]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/4".
+Value of root[1141]['room'] changed from "五8,6,7(社SS 4001)" to "二2,3,4(社SS 4001)".
+Value of root[1148]['room'] changed from "四2,3,4(社SS 1003)" to "五8,6,7(社SS 1003)".
+Value of root[1264]['english'] changed from True to False.
+Value of root[1866]['room'] changed from "三D,E,F(管CM 2037)" to "四C,D,E(管CM 2037)".
+Value of root[2262]['teacher'] changed from "待聘" to "黃仲平".
+Value of root[2264]['teacher'] changed from "李俊德" to "徐豐麒".
+Value of root[2266]['teacher'] changed from "待聘" to "陳南誠".
+Value of root[2268]['teacher'] changed from "待聘" to "謝明哲".
+Value of root[2270]['teacher'] changed from "待聘" to "陳南誠".
+Value of root[2272]['teacher'] changed from "待聘" to "謝明哲".
+Value of root[2624]['teacher'] changed from "待聘" to "黃仲平".
