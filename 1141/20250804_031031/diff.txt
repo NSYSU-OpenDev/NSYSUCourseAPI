@@ -1,0 +1,71 @@
+Item root[690]['classTime'][4] added to iterable.
+Item root[1191]['classTime'][4] added to iterable.
+Item root[1266]['classTime'][1] added to iterable.
+Item root[1903]['classTime'][2] added to iterable.
+Item root[690]['classTime'][4] removed from iterable.
+Item root[1191]['classTime'][1] removed from iterable.
+Item root[1266]['classTime'][2] removed from iterable.
+Item root[1903]['classTime'][2] removed from iterable.
+Item root[1192] removed from iterable.
+Type of root[32]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[32]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/4".
+Type of root[690]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[690]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間8/4".
+Type of root[1399]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1399]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/4".
+Type of root[1191]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[1191]['changeDescription'] changed from NoneType to str and value changed from None to "8/4".
+Type of root[1266]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[1266]['changeDescription'] changed from NoneType to str and value changed from None to "8/4".
+Type of root[2308]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2308]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/4".
+Type of root[2310]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2310]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/4".
+Type of root[2311]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2311]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/4".
+Type of root[2653]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2653]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/4".
+Value of root[32]['room'] changed from "二5,6,7(工EN 0032)" to "二5,6,7(文LA 1001)".
+Value of root[690]['room'] changed from "二8,7(理SC 3001) 五4(理SC 3001)" to "二8,7(理SC 3001) 五5(理SC 3001)".
+Value of root[949]['changeDescription'] changed from "更換授課方式7/8" to "確認教師8/4".
+Value of root[949]['teacher'] changed from "待聘" to "林政佑".
+Value of root[1399]['room'] changed from "二2,3,4(理BI 2002)" to "二2,3,4(理BI 6005)".
+Value of root[1191]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=III1010&Crsname=西洋藝術與文化" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5270&Crsname=半導體光學專題".
+Value of root[1191]['department'] changed from "國際學士原民專班" to "光電碩".
+Value of root[1191]['id'] changed from "III1010" to "EO5270".
+Value of root[1191]['grade'] changed from "1" to "0".
+Value of root[1191]['name'] changed from "西洋藝術與文化
+WESTERN ART AND CULTURE" to "半導體光學專題
+SPECIAL TOPICS IN SEMICONDUCTOR OPTICS".
+Value of root[1191]['restrict'] changed from 20 to 50.
+Value of root[1191]['remaining'] changed from 20 to 50.
+Value of root[1191]['teacher'] changed from "趙可卿" to "吳昇展".
+Value of root[1191]['room'] changed from "二5,6,7(通GE 2006)" to "五C,D,E(工EC 4013)".
+Value of root[1191]['description'] changed from "《講授類》" to "《獨立研究》".
+Value of root[1191]['english'] changed from True to False.
+Value of root[1893]['changeDescription'] changed from "更換授課方式7/8" to "確認教師8/4".
+Value of root[1893]['teacher'] changed from "待聘" to "林政佑".
+Value of root[1266]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BMST233&Crsname=訊息傳遞" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM544&Crsname=國際企業管理".
+Value of root[1266]['department'] changed from "生醫科技系" to "企企管碩".
+Value of root[1266]['id'] changed from "BMST233" to "BM544".
+Value of root[1266]['grade'] changed from "2" to "0".
+Value of root[1266]['class'] changed from "全英班" to "不分班".
+Value of root[1266]['name'] changed from "訊息傳遞
+SIGNAL TRANSDUCTION" to "國際企業管理
+INTERNATIONAL BUSINESS MANAGEMENT".
+Value of root[1266]['teacher'] changed from "待聘" to "蔡宗霖".
+Value of root[1266]['room'] changed from "三5,6,7(醫IL 3015)" to "二C,D,E(管CM 4078)".
+Value of root[1266]['english'] changed from True to False.
+Value of root[1903]['change'] changed from "新增" to "異動".
+Value of root[1903]['changeDescription'] changed from "7/25" to "更換時間及教室8/4".
+Value of root[1903]['room'] changed from "三5,6,7(管CM 3022)" to "三2,3,4(管CM 3019)".
+Value of root[2308]['room'] changed from "四C,D,E(理BI 2002)" to "四C,D,E(理BI 3001)".
+Value of root[2310]['room'] changed from "三D,E(理BI 2002)" to "三D,E(理BI 3001)".
+Value of root[2311]['room'] changed from "三D,E(理BI 3001)" to "三D,E(理BI 6005)".
+Value of root[2653]['room'] changed from "二2,3,4(理BI 2002)" to "二2,3,4(理BI 6005)".
+Value of root[2731]['changeDescription'] changed from "更換授課方式7/8" to "確認教師8/4".
+Value of root[2731]['teacher'] changed from "待聘" to "林政佑".
+Value of root[2732]['changeDescription'] changed from "更換授課方式7/8" to "確認教師8/4".
+Value of root[2732]['teacher'] changed from "待聘" to "林政佑".
+Value of root[2733]['changeDescription'] changed from "更換授課方式7/8" to "確認教師8/4".
+Value of root[2733]['teacher'] changed from "待聘" to "林政佑".
