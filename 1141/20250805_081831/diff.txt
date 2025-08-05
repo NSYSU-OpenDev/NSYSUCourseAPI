@@ -1,0 +1,27 @@
+Item root[531]['classTime'][3] added to iterable.
+Item root[533]['classTime'][3] added to iterable.
+Item root[531]['classTime'][3] removed from iterable.
+Item root[533]['classTime'][3] removed from iterable.
+Type of root[128]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[128]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/5".
+Type of root[513]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[513]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/5".
+Type of root[531]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[531]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室8/5".
+Type of root[533]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[533]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/5".
+Type of root[541]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[541]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/5".
+Type of root[546]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[546]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/5".
+Type of root[865]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[865]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/5".
+Value of root[128]['room'] changed from "一3,4(西SW 1007)" to "一3,4(西SW 1005)".
+Value of root[513]['teacher'] changed from "何怡璉,待聘,杜思慧" to "何怡璉,杜思慧,蔡詔羽".
+Value of root[531]['teacher'] changed from "待聘" to "蔡詔羽".
+Value of root[531]['room'] changed from "四8,9(文FA 1014, 2019)" to "四3,4(文FA 3009, 2019)".
+Value of root[533]['teacher'] changed from "待聘" to "蔡詔羽".
+Value of root[533]['room'] changed from "四3,4(文FA 3009, 2019)" to "四1,2(文FA 3009, 2019)".
+Value of root[541]['teacher'] changed from "何怡璉,吳怡瑱,待聘" to "何怡璉,吳怡瑱,蔡詔羽".
+Value of root[546]['teacher'] changed from "待聘" to "蔡詔羽".
+Value of root[865]['teacher'] changed from "待聘" to "吳昇展".
