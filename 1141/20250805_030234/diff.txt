@@ -1,0 +1,12 @@
+Type of root[386]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[386]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室8/5".
+Type of root[1189]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1189]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/5".
+Type of root[1190]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1190]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室8/5".
+Type of root[2292]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2292]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額8/5".
+Type of root[2301]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2301]['changeDescription'] changed from NoneType to str and value changed from None to "修正備註條件8/5".
+Value of root[2292]['restrict'] changed from 50 to 20.
+Value of root[2292]['remaining'] changed from 50 to 20.
