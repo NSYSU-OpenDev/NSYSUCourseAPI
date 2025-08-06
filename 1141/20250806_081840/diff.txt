@@ -1,0 +1,50 @@
+Item root[1104] added to iterable.
+Item root[426]['classTime'][2] added to iterable.
+Item root[2626] added to iterable.
+Item root[426]['classTime'][3] removed from iterable.
+Type of root[425]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[425]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額及教室8/6".
+Type of root[427]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[427]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額及教室8/6".
+Type of root[1131]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1131]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式8/6".
+Type of root[1134]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1134]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式8/6".
+Type of root[1135]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1135]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式8/6".
+Type of root[426]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[426]['changeDescription'] changed from NoneType to str and value changed from None to "8/6".
+Value of root[425]['restrict'] changed from 16 to 21.
+Value of root[425]['remaining'] changed from 16 to 21.
+Value of root[425]['room'] changed from "四2,3,4(文LA 3014)" to "四2,3,4(文LA 3003)".
+Value of root[427]['restrict'] changed from 16 to 21.
+Value of root[427]['remaining'] changed from 16 to 21.
+Value of root[427]['room'] changed from "四2,3,4(文LA 3016)" to "四2,3,4(文LA 3012)".
+Value of root[1023]['select'] changed from 0 to 1.
+Value of root[1023]['selected'] changed from 30 to 29.
+Value of root[1023]['remaining'] changed from 20 to 21.
+Value of root[1024]['select'] changed from 0 to 1.
+Value of root[1024]['selected'] changed from 30 to 29.
+Value of root[1024]['remaining'] changed from 20 to 21.
+Value of root[1032]['select'] changed from 0 to 1.
+Value of root[1032]['selected'] changed from 30 to 29.
+Value of root[1032]['remaining'] changed from 20 to 21.
+Value of root[1034]['select'] changed from 0 to 1.
+Value of root[1034]['selected'] changed from 30 to 29.
+Value of root[1034]['remaining'] changed from 20 to 21.
+Value of root[1131]['english'] changed from False to True.
+Value of root[1134]['english'] changed from False to True.
+Value of root[1135]['english'] changed from False to True.
+Value of root[426]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL205A&Crsname=英語口語訓練二（一）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL810A&Crsname=專題研究".
+Value of root[426]['department'] changed from "外文系" to "外文博".
+Value of root[426]['id'] changed from "DFLL205A" to "DFLL810A".
+Value of root[426]['name'] changed from "英語口語訓練二（一）
+ENGLISH ORAL TRAINING II(I)" to "專題研究
+INDEPENDENT STUDIES".
+Value of root[426]['credit'] changed from "2" to "3".
+Value of root[426]['restrict'] changed from 16 to 50.
+Value of root[426]['remaining'] changed from 16 to 50.
+Value of root[426]['teacher'] changed from "沈尚玉" to "李佳容".
+Value of root[426]['room'] changed from "四2,3,4(文LA 3016)" to "三5,6,7()".
+Value of root[426]['description'] changed from "《講授類》
+限本系修畢「英語口語訓練一(一)、一(二)」學生修習" to "《獨立研究》".
