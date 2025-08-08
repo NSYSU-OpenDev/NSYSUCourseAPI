@@ -1,0 +1,52 @@
+Item root[2522]['classTime'][4] added to iterable.
+Item root[2522]['classTime'][3] removed from iterable.
+Type of root[1822]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1822]['changeDescription'] changed from NoneType to str and value changed from None to "調整合授教師8/8".
+Type of root[1825]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1825]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/8".
+Type of root[1827]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1827]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/8".
+Type of root[1828]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1828]['changeDescription'] changed from NoneType to str and value changed from None to "調整合授教師8/8".
+Type of root[2522]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[2522]['changeDescription'] changed from NoneType to str and value changed from None to "8/8".
+Value of root[631]['select'] changed from 0 to 1.
+Value of root[631]['selected'] changed from 28 to 27.
+Value of root[631]['remaining'] changed from 22 to 23.
+Value of root[632]['select'] changed from 0 to 1.
+Value of root[632]['selected'] changed from 28 to 27.
+Value of root[632]['remaining'] changed from 22 to 23.
+Value of root[633]['select'] changed from 0 to 1.
+Value of root[633]['selected'] changed from 28 to 27.
+Value of root[633]['remaining'] changed from 2 to 3.
+Value of root[634]['select'] changed from 0 to 1.
+Value of root[634]['selected'] changed from 28 to 27.
+Value of root[634]['remaining'] changed from 22 to 23.
+Value of root[1006]['select'] changed from 1 to 2.
+Value of root[1007]['select'] changed from 1 to 2.
+Value of root[1008]['select'] changed from 1 to 2.
+Value of root[1009]['select'] changed from 1 to 2.
+Value of root[1822]['teacher'] changed from "翁培師,蔡秉真,蔡維哲" to "翁培師,蔡秉真".
+Value of root[1825]['teacher'] changed from "蔡維哲" to "封之遠".
+Value of root[1827]['teacher'] changed from "待聘" to "楊智明".
+Value of root[1828]['teacher'] changed from "吳藺芝,蔡維哲,蕭珮婕" to "吳藺芝,蕭珮婕".
+Value of root[2522]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM702&Crsname=財務數理" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM611I&Crsname=專題研究（一）".
+Value of root[2522]['department'] changed from "財管博" to "財管碩".
+Value of root[2522]['id'] changed from "FM702" to "FM611I".
+Value of root[2522]['grade'] changed from "0" to "2".
+Value of root[2522]['name'] changed from "財務數理
+MATHEMATICAL FINANCE" to "專題研究（一）
+INDEPENDENT STUDIES(I)".
+Value of root[2522]['restrict'] changed from 20 to 50.
+Value of root[2522]['remaining'] changed from 20 to 50.
+Value of root[2522]['room'] changed from "四8,6,7(管CM 2020)" to "五A,1,2(管CM 1038)".
+Value of root[2522]['description'] changed from "《講授類》" to "《獨立研究》".
+Value of root[2632]['select'] changed from 0 to 1.
+Value of root[2632]['selected'] changed from 28 to 27.
+Value of root[2632]['remaining'] changed from 22 to 23.
+Value of root[2633]['select'] changed from 0 to 1.
+Value of root[2633]['selected'] changed from 28 to 27.
+Value of root[2633]['remaining'] changed from 22 to 23.
+Value of root[2634]['select'] changed from 0 to 1.
+Value of root[2634]['selected'] changed from 28 to 27.
+Value of root[2634]['remaining'] changed from 22 to 23.
