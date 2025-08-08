@@ -1,0 +1,32 @@
+Type of root[263]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[263]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/8".
+Type of root[705]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[705]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/8".
+Type of root[723]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[723]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/8".
+Type of root[840]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[840]['changeDescription'] changed from NoneType to str and value changed from None to "8/8".
+Type of root[921]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[921]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/8".
+Type of root[923]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[923]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/8".
+Type of root[980]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[980]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/8".
+Type of root[1518]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1518]['changeDescription'] changed from NoneType to str and value changed from None to "更動教師名稱8/8".
+Type of root[1624]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1624]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/8".
+Type of root[1808]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1808]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/8".
+Type of root[1815]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1815]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/8".
+Type of root[2704]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2704]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/8".
+Type of root[2705]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2705]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/8".
+Type of root[2706]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2706]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/8".
+Type of root[2707]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2707]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/8".
+Value of root[2280]['select'] changed from 0 to 3.
+Value of root[2283]['select'] changed from 0 to 3.
