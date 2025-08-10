@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EMBA975&Crsname=金融機構與資本市場,,,True,EMBA碩專,EMBA975,2,不分班,"金融機構與資本市場
+FINANCIAL INSTITUTIONS AND CAPITAL MARKETS",1.5,期,True,80,0,0,80,王昭文,"三A,1(圖資博士廳)","['', '', 'A1', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EMBA980B&Crsname=企業經營策略,,,True,EMBA碩專,EMBA980B,1,不分班,"企業經營策略
+BUSINESS POLICY AND STRATEGY",3,期,True,50,0,0,50,林豪傑,"五D,E,F(台北)","['', '', '', '', 'DEF', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EMBA981B&Crsname=策略行銷管理,,,True,EMBA碩專,EMBA981B,1,不分班,"策略行銷管理
+STRATEGIC MARKETING MANAGEMENT",3,期,True,50,0,0,50,"張榮華,張純端,黃明新","日2,3,4(台北)","['', '', '', '', '', '', '234']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EMBA984A&Crsname=企業倫理與公司治理,,,True,EMBA碩專,EMBA984A,2,不分班,"企業倫理與公司治理
+BUSINESS ETHICS AND CORPORATE GOVERNANCE",2,期,True,80,0,0,80,蔡佳芬,"四C,D(圖資博士廳)","['', '', '', 'CD', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EMBA992&Crsname=企業法律與公共事務,,,True,EMBA碩專,EMBA992,2,不分班,"企業法律與公共事務
+BUSINESS LAW AND PUBLIC POLICY",2,期,True,80,0,0,80,"彭渰雯,盧憶","日E,F(圖資博士廳)","['', '', '', '', '', '', 'EF']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EMBA996&Crsname=管理會計與財報分析,,,True,EMBA碩專,EMBA996,1,不分班,"管理會計與財報分析
+MANAGEMENT ACCOUNTING AND FINANCIAL STATEMENT ANALYSIS",2,期,True,80,0,0,80,陳安琳,"六8,9(圖資中信廳)","['', '', '', '', '', '89', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EMBA997&Crsname=全球經貿環境分析,,,True,EMBA碩專,EMBA997,2,不分班,"全球經貿環境分析
+ANALYSIS IN GLOBAL ECONOMY AND TRADE",1.5,期,True,50,0,0,50,陳旻男,"三E,F(台北)","['', '', 'EF', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CS904&Crsname=碩士論文,,,False,中山同濟EMBA,CS904,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,0,3,47,,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CS905&Crsname=高階經營分析,,,False,中山同濟EMBA,CS905,2,不分班,"高階經營分析
+ANALYSIS OF EXECUTIVE MANAGEMENT",3,期,True,50,0,3,47,,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CS907&Crsname=資訊科技與競爭優勢,,,False,中山同濟EMBA,CS907,1,不分班,"資訊科技與競爭優勢
+INFORMATION TECHNOLOGY AND COMPETITIVE ADVANTAGE",3,期,True,50,0,12,38,,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CS921&Crsname=創新與創業管理,,,False,中山同濟EMBA,CS921,2,不分班,"創新與創業管理
+MANAGEMENT OF INNOVATION AND ENTREPRENEURSHIP",2,期,True,50,0,3,47,,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CS921A&Crsname=創新與創業管理,,,False,中山同濟EMBA,CS921A,1,不分班,"創新與創業管理
+MANAGEMENT OF INNOVATION AND ENTREPRENEURSHIP",2,期,True,50,0,12,38,待聘,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CS924&Crsname=領導學,,,False,中山同濟EMBA,CS924,2,不分班,"領導學
+LEADERSHIP",2,期,True,50,0,3,47,待聘,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CS925&Crsname=亞太經貿環境分析,,,False,中山同濟EMBA,CS925,2,不分班,"亞太經貿環境分析
+ANALYSIS OF ASIA-PACIFIC BUSINESS ENVIRONMENT",3,期,True,50,0,3,47,待聘,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CS927&Crsname=策略行銷管理,,,False,中山同濟EMBA,CS927,1,不分班,"策略行銷管理
+STRATEGIC MARKETING MANAGEMENT",2,期,True,50,0,12,38,,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CS940&Crsname=管理會計與財報分析,,,False,中山同濟EMBA,CS940,1,不分班,"管理會計與財報分析
+MANAGERIAL ACCOUNTING AND FINANCIAL STATEMENT ANALYSIS",3,期,True,50,0,12,38,,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CS997&Crsname=全球運籌管理,,,False,中山同濟EMBA,CS997,2,不分班,"全球運籌管理
+GLOBAL LOGISTICS MANAGEMENT",2,期,True,50,0,3,47,待聘,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CS997A&Crsname=全球運籌管理,,,False,中山同濟EMBA,CS997A,1,不分班,"全球運籌管理
+GLOBAL LOGISTICS MANAGEMENT",2,期,True,50,0,12,38,待聘,,"['', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS907&Crsname=碩士論文,,,False,政治碩專,IPS907,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,2,6,44,指導教授,"五C,D,E()","['', '', '', '', 'CDE', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS931&Crsname=科技與治理,,,False,政治碩專,IPS931,2,不分班,"科技與治理
+INFORMATION TECHNOLOGY AND GOVERNANCE",3,期,False,50,0,0,50,蔣麗君,"三D,E,F(社SS 3010-2)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
