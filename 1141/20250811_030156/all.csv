@@ -2802,7 +2802,7 @@ TECHNOLOGY LAW AND ITS TRAPS IN THE MODERN SOCIETY",3,期,False,50,0,0,50,盧憶
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM370&Crsname=稅務法規,,,False,企管系,BM370,3,不分班,"稅務法規
 TAX LAWS",3,期,False,50,0,0,50,陳昭誠,"二C,D,E(管CM 2025)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM413&Crsname=策略管理,,,False,企管系,BM413,4,甲班,"策略管理
-STRATEGIC MANAGEMENT",3,期,True,50,0,37,13,林豪傑,"一5,6,7(管CM 4112)","['567', '', '', '', '', '', '']","《講授類》
+STRATEGIC MANAGEMENT",3,期,True,50,1,36,14,林豪傑,"一5,6,7(管CM 4112)","['567', '', '', '', '', '', '']","《講授類》
 限企管系(含雙主修、輔系)","['科技創新與服務業管理學程', '人力資源管理學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM413A&Crsname=策略管理,,,False,企管系,BM413A,4,乙班,"策略管理
 STRATEGIC MANAGEMENT",3,期,True,50,0,45,5,蔡宗霖,"一5,6,7(管CM 3019)","['567', '', '', '', '', '', '']","《講授類》
@@ -2834,7 +2834,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS301&
 SYSTEMS ANALYSIS AND DESIGN",3,期,True,50,1,45,5,吳仁和,"四8,6,7(管CM 4078)","['', '', '', '678', '', '', '']",《講授類》,"['軟體工程學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS302&Crsname=作業系統,,,False,資管系,MIS302,3,不分班,"作業系統
 OPERATING SYSTEMS",3,期,False,50,0,0,50,陳嘉玫,"六2,3,4(管CM 4078)","['', '', '', '', '', '234', '']",《講授類》,['軟體工程學程'],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS303&Crsname=企業資料通訊,,,False,資管系,MIS303,3,不分班,"企業資料通訊
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS303&Crsname=企業資料通訊,異動,更換時間及教室8/11,False,資管系,MIS303,3,不分班,"企業資料通訊
 BUSINESS DATA COMMUNICATION",3,期,True,50,1,45,5,林耕霈,"一2,3,4(管CM 4078)","['234', '', '', '', '', '', '']",《講授類》,['軟體工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS311&Crsname=生產與作業管理,,,True,資管系,MIS311,3,不分班,"生產與作業管理
 PRODUCTIONS AND OPERATIONS MANAGEMENT",3,期,True,50,0,0,50,劉賓陽,"三2,3,4(管CM 2016)","['', '', '234', '', '', '', '']",《講授類》,[],False
@@ -2938,16 +2938,16 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM412&C
 THE THEORY AND PRACTICE OF ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,0,60,"王致遠,王豫萱,鄭安授",三A(網路大學),"['', '', 'A', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。 限管理學院大學部學生修習(含雙主修、輔系)。 CM411與CM412為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。 網大進行之非同步線上課程。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IBBA101&Crsname=微積分,,,False,國際學士學程,IBBA101,1,全英班,"微積分
-CALCULUS",3,期,True,50,2,2,48,陳志偉,"五2,3,4(管CM 4036)","['', '', '', '', '234', '', '']","《講授類》
+CALCULUS",3,期,True,50,2,1,49,陳志偉,"五2,3,4(管CM 4036)","['', '', '', '', '234', '', '']","《講授類》
 限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IBBA102&Crsname=經濟學（一）,,,False,國際學士學程,IBBA102,1,全英班,"經濟學（一）
-ECONOMICS(I)",3,期,True,50,2,2,48,安大衛,"二2,3,4(管CM 4036)","['', '234', '', '', '', '', '']","《講授類》
+ECONOMICS(I)",3,期,True,50,2,1,49,安大衛,"二2,3,4(管CM 4036)","['', '234', '', '', '', '', '']","《講授類》
 限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IBBA103&Crsname=會計學（一）,異動,更換時間7/8,False,國際學士學程,IBBA103,1,全英班,"會計學（一）
-ACCOUNTING (I)",3,期,True,50,2,2,48,馬威爾,"三5,6,7(管CM 4036)","['', '', '567', '', '', '', '']","《講授類》
+ACCOUNTING (I)",3,期,True,50,2,1,49,馬威爾,"三5,6,7(管CM 4036)","['', '', '567', '', '', '', '']","《講授類》
 限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IBBA104&Crsname=國際企業概論,異動,更換時間7/8,False,國際學士學程,IBBA104,1,全英班,"國際企業概論
-INTRODUCTION TO INTERNATIONAL BUSINESS",3,期,True,50,2,2,48,待聘,"五5,6,7(管CM 4036)","['', '', '', '', '567', '', '']","《講授類》
+INTRODUCTION TO INTERNATIONAL BUSINESS",3,期,True,50,2,1,49,待聘,"五5,6,7(管CM 4036)","['', '', '', '', '567', '', '']","《講授類》
 限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IBBA152&Crsname=跨文化管理,,,False,國際學士學程,IBBA152,1,全英班,"跨文化管理
 CROSS CULTURAL MANAGEMENT",3,期,False,50,0,0,50,林帆,"二5,6,7(管CM 4036)","['', '567', '', '', '', '', '']",《講授類》,[],True
@@ -6149,7 +6149,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SBF515&
 WEALTH MANAGEMENT",2,期,False,50,0,0,50,Bryan Low Yi Teng,,"['', '', '', '', '4B', '', '']","《講授類》
 本課程將優先開放國際金融研究學院學生加選，隨後依名額開放予大學部三年級（含）以上學生申請加選。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SBF552&Crsname=創新商業模式實作（四）,,,False,國際資產所,SBF552,2,不分班,"創新商業模式實作（四）
-INDEPENDENT STUDIES IN INNOVATIVE BUSINESS MODELS-4",1,期,True,60,2,50,10,"王昭文,郭志文",,"['', '', '', '', '8', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN INNOVATIVE BUSINESS MODELS-4",1,期,True,60,3,49,11,"王昭文,郭志文",,"['', '', '', '', '8', '', '']","《獨立研究》
 本課程限國資所學生加選",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SBF554&Crsname=資本市場業務經營實務,,,False,國際資產所,SBF554,2,不分班,"資本市場業務經營實務
 CAPITAL MARKETS OPERATION & MANAGEMENT IN PRACTICE",2,期,False,50,0,0,50,賈安霈,,"['', '', '', '', '', '78', '']","《講授類》
