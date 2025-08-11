@@ -1,0 +1,23 @@
+Value of root[148]['select'] changed from 0 to 1.
+Value of root[167]['select'] changed from 0 to 1.
+Value of root[297]['select'] changed from 0 to 1.
+Value of root[316]['select'] changed from 0 to 1.
+Value of root[346]['select'] changed from 0 to 1.
+Value of root[379]['select'] changed from 0 to 1.
+Value of root[381]['select'] changed from 0 to 1.
+Value of root[795]['selected'] changed from 34 to 33.
+Value of root[795]['remaining'] changed from 16 to 17.
+Value of root[801]['selected'] changed from 34 to 33.
+Value of root[801]['remaining'] changed from 16 to 17.
+Value of root[807]['selected'] changed from 34 to 33.
+Value of root[807]['remaining'] changed from 16 to 17.
+Value of root[2064]['room'] changed from "二2,3,4(社SS 3010-2)" to "一2,3,4(社SS 3008)".
+Value of root[2418]['teacher'] changed from "待聘,王宏仁" to "李馨慈,王宏仁".
+Value of root[2418]['description'] changed from "《講授類》" to "《講授類》
+ 
+※英語授課".
+Value of root[2565]['teacher'] changed from "劉正山" to "劉正山,方志恒".
+Value of root[2565]['room'] changed from "一2,3,4(社SS 3008)" to "二2,3,4(社SS 3010-2)".
+Value of root[2783]['room'] changed from "二2,3,4(社SS 3010-2)" to "一2,3,4(社SS 3008)".
+Value of root[2807]['teacher'] changed from "劉正山" to "劉正山,方志恒".
+Value of root[2807]['room'] changed from "一2,3,4(社SS 3008)" to "二2,3,4(社SS 3010-2)".
