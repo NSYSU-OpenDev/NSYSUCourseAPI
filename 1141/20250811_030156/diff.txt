@@ -1,2 +1,0 @@
-Type of root[969]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[969]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室8/11".
