@@ -1,0 +1,26 @@
+Item root[893]['classTime'][3] added to iterable.
+Item root[2528]['classTime'][3] added to iterable.
+Item root[893]['classTime'][2] removed from iterable.
+Item root[893]['classTime'][3] removed from iterable.
+Item root[2528]['classTime'][3] removed from iterable.
+Repetition change for item root[893]['classTime'][0].
+Value of root[132]['room'] changed from "三5,6,7(通GE 1010)" to "二5,6,7(通GE 1008)".
+Value of root[143]['room'] changed from "二5,6,7(通GE 1008)" to "三5,6,7(通GE 1010)".
+Value of root[767]['selected'] changed from 1 to 0.
+Value of root[767]['remaining'] changed from 49 to 50.
+Value of root[770]['selected'] changed from 1 to 0.
+Value of root[770]['remaining'] changed from 49 to 50.
+Value of root[773]['selected'] changed from 1 to 0.
+Value of root[773]['remaining'] changed from 49 to 50.
+Value of root[776]['selected'] changed from 1 to 0.
+Value of root[776]['remaining'] changed from 49 to 50.
+Value of root[893]['room'] changed from "三6(工MS 4022) 四7(工MS 4022)" to "四6,7(工MS 4022)".
+Value of root[1173]['teacher'] changed from "待聘" to "鄭南玉".
+Value of root[1174]['teacher'] changed from "待聘" to "鄭南玉".
+Value of root[1185]['teacher'] changed from "吳亦昕,夏晧清,宋世祥,張淑美,待聘,王兆璋,謝如梅" to "夏晧清,宋世祥,張淑美,王兆璋,謝如梅,鄭南玉".
+Value of root[1189]['room'] changed from "三5,6,7(通GE 1010)" to "二5,6,7(通GE 1008)".
+Value of root[1190]['room'] changed from "二5,6,7(通GE 1008)" to "三5,6,7(通GE 1010)".
+Value of root[1730]['teacher'] changed from "待聘" to "李廣輝".
+Value of root[1730]['description'] changed from "《獨立研究》" to "《獨立研究》
+半導體材料磊晶成長，材料分析，光電元件".
+Value of root[2528]['room'] changed from "四2,3,4(管CM 1036)" to "四8,6,7(管CM 1036)".
