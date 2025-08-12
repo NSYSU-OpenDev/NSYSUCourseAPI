@@ -1,0 +1,41 @@
+Item root[1219]['classTime'][4] added to iterable.
+Item root[1219]['classTime'][4] removed from iterable.
+Type of root[1157]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1157]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/12".
+Type of root[1227]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1227]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/12".
+Type of root[1244]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1244]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/12".
+Type of root[2124]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2124]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/12".
+Value of root[7]['select'] changed from 0 to 3.
+Value of root[24]['select'] changed from 2 to 5.
+Value of root[34]['select'] changed from 2 to 5.
+Value of root[37]['select'] changed from 1 to 4.
+Value of root[42]['select'] changed from 1 to 4.
+Value of root[71]['select'] changed from 2 to 5.
+Value of root[89]['select'] changed from 0 to 1.
+Value of root[96]['select'] changed from 1 to 4.
+Value of root[100]['select'] changed from 0 to 2.
+Value of root[108]['select'] changed from 1 to 4.
+Value of root[138]['select'] changed from 0 to 1.
+Value of root[148]['select'] changed from 1 to 3.
+Value of root[150]['select'] changed from 0 to 1.
+Value of root[169]['select'] changed from 0 to 2.
+Value of root[170]['select'] changed from 0 to 1.
+Value of root[174]['select'] changed from 0 to 3.
+Value of root[175]['select'] changed from 0 to 1.
+Value of root[187]['select'] changed from 1 to 2.
+Value of root[332]['select'] changed from 1 to 2.
+Value of root[390]['select'] changed from 0 to 1.
+Value of root[885]['select'] changed from 1 to 3.
+Value of root[1157]['room'] changed from "四2,3,4(社SS 4004-2)" to "三2,3,4(社SS 4004-2)".
+Value of root[1219]['changeDescription'] changed from "確認教師8/8" to "更換部份時間8/12".
+Value of root[1223]['teacher'] changed from "張博智,待聘,沈元琦,王弘仁,葉明倫,陳建旭,陳彥樺" to "張博智,待聘,沈元琦,王弘仁,葉明倫,陳建旭,陳建良,陳彥樺".
+Value of root[1224]['teacher'] changed from "劉婷婷,王文宏,王金洲,葉明倫,趙敏吾,陳彥樺" to "劉婷婷,王文宏,葉明倫,趙敏吾,陳彥樺,陳秀玲".
+Value of root[1227]['teacher'] changed from "待聘,朱國安,林明毅,陳建良" to "朱國安,林明毅,陳建良".
+Value of root[1244]['teacher'] changed from "待聘,朱國安,林明毅,陳建良" to "朱國安,林明毅,陳建良".
+Value of root[1855]['select'] changed from 0 to 1.
+Value of root[2124]['room'] changed from "一8,6,7(社SS 3004-2)" to "四8,6,7(社SS 3004-2)".
+Value of root[2129]['select'] changed from 0 to 1.
+Value of root[2561]['select'] changed from 0 to 1.
