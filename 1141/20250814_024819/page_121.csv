@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS934&Crsname=民意與選舉,,,False,政治碩專,IPS934,2,不分班,"民意與選舉
+PUBLIC OPINION AND ELECTORAL BEHAVIOR",3,期,False,50,0,0,50,黃志呈,"二C,D,E(社SS 3010-2)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS935&Crsname=AI與政治哲學,,,False,政治碩專,IPS935,1,不分班,"AI與政治哲學
+ARTIFICIAL INTELLIGENCE AND POLITICAL PHILOSOPHY",3,期,False,50,0,0,50,楊尚儒,"三D,E,F(社SS 3008)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS951&Crsname=議題的發掘與方法,,,False,政治碩專,IPS951,1,不分班,"議題的發掘與方法
+SUBJECT EXPLORTATION AND METHODS",3,期,True,50,0,8,42,劉正山,"一C,D,E(社SS 3010-2)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON901&Crsname=個體經濟,異動,取消合授教師7/31,False,經濟碩專,ECON901,1,不分班,"個體經濟
+MICROECONOMICS",3,期,True,50,0,13,37,劉楚俊,"一C,D,E(社SS 3002-1)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON902&Crsname=總體經濟,,,False,經濟碩專,ECON902,2,不分班,"總體經濟
+MACROECONOMICS",3,期,True,50,0,6,44,鄭宜玲,"二C,D,E(社SS 2003-2)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON906&Crsname=碩士論文,,,False,經濟碩專,ECON906,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,0,6,44,指導教授,"六C,D,E(社SS 3002-1)","['', '', '', '', '', 'CDE', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON913&Crsname=商用統計,,,False,經濟碩專,ECON913,1,不分班,"商用統計
+STATISTICS FOR BUSINESS",3,期,False,50,0,0,50,童永年,"二C,D,E(社SS 3002-1)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON921&Crsname=國際金融,,,False,經濟碩專,ECON921,2,不分班,"國際金融
+INTERNATIONAL FINANCE",3,期,False,50,0,0,50,翁銘章,"四C,D,E(社SS 3002-1)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON931&Crsname=財務理論與實務,,,False,經濟碩專,ECON931,1,不分班,"財務理論與實務
+FINANCIAL THEORY AND PRACTICE",3,期,False,50,0,0,50,李國榮,"三D,E,F(社SS 3002-1)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON935&Crsname=實證公司理財,,,False,經濟碩專,ECON935,2,不分班,"實證公司理財
+EMPIRICAL CORPORATE FINANCE",3,期,False,50,0,0,50,鄭子長,"五C,D,E(社SS 3002-1)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS901&Crsname=中國政府與政治,,,False,亞太碩專,CAPS901,1,不分班,"中國政府與政治
+GOVERNMENT AND POLITICS OF CHINA",3,期,False,50,0,0,50,林文程,"五C,D,E(社SS 2011)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS902&Crsname=中國經濟發展,,,False,亞太碩專,CAPS902,2,不分班,"中國經濟發展
+ECONOMIC DEVELOPMENT OF CHINA",3,期,False,50,0,0,50,林雅淇,"四C,D,E(社SS 2007)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS907&Crsname=碩士論文專題研究,,,False,亞太碩專,CAPS907,2,不分班,"碩士論文專題研究
+INDEPENDENT STUDIES IN MASTER THESIS",3,期,True,50,0,9,41,指導教授,"六C,D,E(社SS 2008)","['', '', '', '', '', 'CDE', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS909&Crsname=社會科學研究方法,,,False,亞太碩專,CAPS909,1,不分班,"社會科學研究方法
+RESEARCH METHODS IN SOCIAL SCIENCE",3,期,True,50,0,6,44,郭育仁,"二C,D,E(社SS 2011)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS921&Crsname=中國國家與社會關係研究,,,False,亞太碩專,CAPS921,2,不分班,"中國國家與社會關係研究
+THE STATE-SOCIETY RELATIONS IN CONTEMPORARY CHINA",3,期,False,50,0,0,50,蔡書瑋,"一C,D,E(社SS 2007)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CAPS923&Crsname=危機處理與美中臺關係,,,False,亞太碩專,CAPS923,2,不分班,"危機處理與美中臺關係
+CRISIS MANAGEMENT AND US-CHINA-TAIWAN RELATIONS",3,期,False,50,0,0,50,林正義,"四9,C,D(社SS 2011)","['', '', '', '9CD', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SOC901&Crsname=社會學,,,False,社會原碩專,SOC901,1,不分班,"社會學
+SOCIOLOGY",3,期,True,50,0,12,38,"李宛儒,邱花妹","六8,9,7(社SS 3004-2)","['', '', '', '', '', '789', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SOC903&Crsname=當代原住民族議題（一）,異動,更換授課方式8/11,False,社會原碩專,SOC903,1,不分班,"當代原住民族議題（一）
+CONTEMPORARY ISSUES OF INDIGENOUS PEOPLES（I）",3,期,True,50,0,12,38,"李馨慈,王宏仁","六B,5,6(社SS 3004-2)","['', '', '', '', '', 'B56', '']","《講授類》
+ 
+※英語授課",['原民文化探索及永續發展學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SOC912&Crsname=全球史中的原住民族,,,False,社會原碩專,SOC912,1,不分班,"全球史中的原住民族
+INDIGENOUS PEOPLES IN GLOBAL HISTORY",3,期,False,50,0,0,50,"巴清雄,待聘,趙恩潔","六2,3,4(社SS 3004-2)","['', '', '', '', '', '234', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE901&Crsname=教育統計學研究,,,False,教育碩專,IOE901,0,不分班,"教育統計學研究
+STUDIES IN EDUCATIONAL STATISTICS",3,期,False,50,0,0,50,施慶麟,"一C,D,E(社SS 3006)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
