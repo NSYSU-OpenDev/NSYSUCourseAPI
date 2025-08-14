@@ -1,0 +1,58 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2530&Crsname=統計學暨實習,新增,6/27,False,博雅向度五,GEAE2530,0,不分班,"統計學暨實習
+STATISTICS WITH RECITATION",4,期,True,40,0,0,40,AI聯盟教師,"二5,6(非同步遠距)(實驗) 三2,3,4(非同步遠距)","['', '56', '234', '', '', '', '']","《講授類》
+1.開課單位及教師：臺灣大學李宗穎老師。本校協同教師：生科系張楊家豪助理教授。 3.上課時間：每週二 13:20-15:10 PM、星期三 9:10-12:10 AM 。 4.考試安排：進行 6 次小考（9/23、10/7、10/14、11/11、11/25、12/2）、1 次期中考（10/22）、 1 次期末考（12/10），皆為同步紙本考試。5.本課程為優先選修課程，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2531&Crsname=生成式人工智慧與機器學習導論,新增,6/27,False,博雅向度五,GEAE2531,0,不分班,"生成式人工智慧與機器學習導論
+INTRODUCTION TO GENERATIVE ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",3,期,True,10,0,0,10,AI聯盟教師,,"['', '', '', '', '678', '', '']","《講授類》
+1.開課單位及教師：臺灣大學李宏毅老師。 2.上課時間：週五14:20-17:20，實際上課週次為9/12、9/19、9/26、10/17、10/24、10/31、11/14、11/28、12/5、12/12。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2601&Crsname=地球科學,,,False,博雅向度六,GEAE2601,0,不分班,"地球科學
+FUNDAMENTALS OF EARTH SCIENCE",2,期,True,90,0,0,90,"托星豪,方盈智,林玉詩,楊仁凱","四5,6(海MA 3021)","['', '', '', '56', '', '', '']",《講授類》,"['環境教育學程', '熱帶海洋微學程', '氣候變遷與調適學分學程', '看見臺灣海岸微學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2602&Crsname=海洋生態與海洋科技教育探索,,,False,博雅向度六,GEAE2602,0,不分班,"海洋生態與海洋科技教育探索
+EXPLORATION OF MARINE ECOLOGY AND TECHNOLOGY",2,期,True,80,0,0,80,黃蔚人,"二6,7(海MA 3021)","['', '67', '', '', '', '', '']",《講授類》,"['環境教育學程', '實踐環境教育微學程', '熱帶海洋微學程', '看見臺灣海岸微學程', '氣候變遷與調適學分學程', '印象海味微學程', '臺灣研究學程', '生物多樣性學程', '海洋永續發展產業科技微學程', '探索海洋國家公園微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2610&Crsname=環境倫理與環境政策,,,False,博雅向度六,GEAE2610,0,不分班,"環境倫理與環境政策
+ENVIRONMENTAL ETHICS AND ENVIRONMENTAL POLICIES",2,期,True,73,0,0,73,"吳偉寧,林新沛","二3,4(通GE 1008)","['', '34', '', '', '', '', '']",《講授類》,"['環境教育學程', '環境科技與管理學程', '企業社會責任學程', '公共事務與企業社會責任微學程', '地方發展與永續農業微學程', '氣候變遷與調適學分學程', '看見臺灣海岸微學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2613&Crsname=氣候變遷與調適,,,False,博雅向度六,GEAE2613,0,不分班,"氣候變遷與調適
+CLIMATE CHANGE ADAPTATION",3,期,True,80,0,0,80,"劉叔秋,張水鍇,張詠斌,李育諭","一5,6,7(通GE 4016)","['567', '', '', '', '', '', '']",《講授類》,"['環境教育學程', '實踐環境教育微學程', '熱帶海洋微學程', '公共事務與企業社會責任微學程', '氣候變遷與調適學分學程', '臺灣研究學程', '企業社會責任學程', '地方發展與永續農業微學程', '國際素養微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2622&Crsname=人類與環境之交互關係,異動,更換教室7/8,False,博雅向度六,GEAE2622,0,不分班,"人類與環境之交互關係
+HUMAN-ENVIRONMENT INTERACTIONS",3,期,True,70,0,0,70,夏燦風,"四2,3,4(理SC 1005)","['', '', '', '234', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['全英語通識教育菁英學程', '科技與環境英語微學程', '氣候變遷與調適學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2624&Crsname=污染防治與環境管理,,,False,博雅向度六,GEAE2624,0,不分班,"污染防治與環境管理
+POLLUTION CONTROL AND ENVIRONMENTAL MANAGEMENT",2,期,True,95,0,0,95,袁中新,"四C,D(工EC 1001)","['', '', '', 'CD', '', '', '']",《講授類》,"['環境科技與管理學程', '環境教育學程', '永續管理微學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', 'STREAM永續發展培力微學程', '臺灣研究學程', '企業社會責任學程', '淨零轉型與永續發展整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2627&Crsname=永續生活理念UX/UI設計實務,,,False,博雅向度六,GEAE2627,0,不分班,"永續生活理念UX/UI設計實務
+SUSTAINABLE LIFE CONCEPT UX/UI DESIGN PRACTICES",3,期,True,50,0,0,50,廖奕雯,"三5,6,7(圖IL PC02)","['', '', '567', '', '', '', '']","《講授類》
+限非資工、資管系修習。",['生成式AI素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI10001&Crsname=人工智慧導論,新增,6/26,False,AI聯盟(學),AI10001,0,不分班,"人工智慧導論
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE",3,期,False,10,0,0,10,AI聯盟教師,"四5,6,7(同步遠距)","['', '', '', '567', '', '', '']","《講授類》
+1.開課單位及教師：成功大學朱威達老師。 2.此為同步遠距課程，遠距上課連結 https://www.youtube.com/@WeiTaChu 3.上課時間：星期四13:10-16:00。 4.同步考試時間：2025年12月11日, 13:10~16:00 （所有學生需同步進行，在此時段無法應考的學生請勿修課）","['海洋天然物微學程', '智慧製造聯網微學程', '跨領域智慧製造學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI10004&Crsname=基礎程式設計（C++）,新增,6/26,False,AI聯盟(學),AI10004,0,不分班,"基礎程式設計（C++）
+INTRODUCTION TO PROGRAMMING （C++）",3,期,False,10,2,0,10,AI聯盟教師,"一2,3,4(同步遠距)","['234', '', '', '', '', '', '']","《講授類》
+1.開課單位及教師：陽明交通大學温宏斌老師。本校協同教師：資工系林俊宏教授。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。 3.上課時間：星期一 9:00-12:00。 4.同步考試時間：(實體)10/20 與 12/15上午 9:00–12:00為期中考試與期末考試時間，選修課程同學務必配合保留時間參與考試。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI10005&Crsname=統計學暨實習,新增,6/26,False,AI聯盟(學),AI10005,0,不分班,"統計學暨實習
+STATISTICS WITH RECITATION",4,期,False,10,0,0,10,AI聯盟教師,"二5,6(非同步遠距)(實驗) 三2,3,4(非同步遠距)","['', '56', '234', '', '', '', '']","《講授類》
+1.開課單位及教師：臺灣大學李宗穎老師。本校協同教師：生科系張楊家豪助理教授。 3.上課時間：每週二 13:20-15:10 PM (recitation session)、星期三 9:10-12:10 AM (lecture)。 4.o	考試安排：進行 6 次小考（9/23、10/7、10/14、11/11、11/25、12/2）、1 次期中考（10/22）、 1 次期末考（12/10），皆為同步紙本考試。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI10006&Crsname=生成式人工智慧與機器學習導論,,,False,AI聯盟(學),AI10006,0,不分班,"生成式人工智慧與機器學習導論
+INTRODUCTION TO GENERATIVE ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",3,期,False,10,1,0,10,AI聯盟教師,,"['', '', '', '', '567', '', '']","《講授類》
+1.開課單位及教師：臺灣大學李宏毅老師。 2.上課時間：週五14:20-17:20，實際上課週次為9/12、9/19、9/26、10/17、10/24、10/31、11/14、11/28、12/5、12/12。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI50002&Crsname=金融科技導論,,,False,AI聯盟(碩),AI50002,0,不分班,"金融科技導論
+INTRODUCTION TO FINTECH",3,期,False,45,1,0,45,AI聯盟教師,"三2,3,4(同步遠距)","['', '', '234', '', '', '', '']","《講授類》
+1.開課單位及教師：台灣大學張智星老師。 2.此為同步遠距課程，遠距上課連結 https://ntucc.webex.com/meet/rogerjang 。 3.上課時間：星期三9:10-12:10。 4.先修課程要求：請詳閱課程大綱。 5.同步考試時間：(實體)2025 /12/17 9:10~12:10",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI50003&Crsname=資料探勘與應用,新增,6/26,False,AI聯盟(碩),AI50003,0,不分班,"資料探勘與應用
+DATA MINING: CONCEPTS, TECHNIQUES, AND APPLICATIONS",3,期,False,50,3,0,50,AI聯盟教師,"一2,3,4(同步遠距)","['234', '', '', '', '', '', '']","《講授類》
+1.開課單位及教師：清華大學陳宜欣老師。本校協同教師：應數系鍾思齊助理教授。  2.此為同步遠距課程，遠距上課連結 https://www.youtube.com/@NTHU_ISA5810_DataMining 3.上課時間：星期一9:00-12:00。 4.建議學生需已修過Python程式設計、有基本機率概念。本課程期末專題採分組開發，請評估可投入時間再選課，以避免影響同組修課同學之權益。 5.同步考試時間：2025/12/8 9:00~12:00（學生需同步進行，在此時段無法應考者勿修課)
+※英語授課","['跨領域智慧製造學程', '智慧製造聯網微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI50004&Crsname=自然語言處理,新增,6/26,False,AI聯盟(碩),AI50004,0,不分班,"自然語言處理
+NATURAL LANGUAGE PROCESSING",3,期,False,50,0,0,50,AI聯盟教師,"二5,6(同步遠距) 四5(同步遠距)","['', '56', '', '5', '', '', '']","《講授類》
+1.開課單位及教師：清華大學高宏宇老師。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（https://cool.ntu.edu.tw/courses/41436/modules）。 3.上課時間：星期二 13:20~15:10 及星期四 13:20-14:10。 4.建議學生須先具Python程式語言的先備知識。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI50006&Crsname=生成式AI：文字與圖像生成的原理與實務,新增,6/26,False,AI聯盟(碩),AI50006,0,不分班,"生成式AI：文字與圖像生成的原理與實務
+GENERATIVE AI: TEXT AND IMAGE SYNTHESIS PRINCIPLES AND PRACTICE",3,期,False,10,0,0,10,AI聯盟教師,"二8,9,C(同步遠距)","['', '89C', '', '', '', '', '']","《講授類》
+1.開課單位及教師：政治大學蔡炎龍老師。本校協同教師：機電系楊政融助理教授。 2.此為同步遠距課程，請使用Facebook【政大應數系直播中心】（https://facebook.com/groups/nccumathonline/）。 3.上課時間：每週二 16:00-19:00。",['生成式AI素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI50009&Crsname=智慧人機互動,新增,6/26,False,AI聯盟(碩),AI50009,0,不分班,"智慧人機互動
+HUMAN-AI INTERACTION",3,期,False,50,2,0,50,AI聯盟教師,"四5,6,7(同步遠距)","['', '', '', '567', '', '', '']","《講授類》
+1.開課單位及教師：臺北科技大學韓秉軒老師。 2.此為同步遠距課程，遠距上課位置： https://www.youtube.com/@xrlabntut0411 3.上課時間：每週四 13:10~16:00。 4.12/27  13:10~16:00共同展示交流期末成果。 5.建議學生先修習「生成式人工智慧導論」課程，或其他與人工智慧、自然語言處理相關之課程，具備基礎的 AI 概念與應用經驗、基本的多媒體程式設計能力，並熟悉 Unity Editor 的操作與 Unity SDK 的基礎開發技能",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI50010&Crsname=電腦視覺實務與深度學習,,,False,AI聯盟(碩),AI50010,0,不分班,"電腦視覺實務與深度學習
+COMPUTER VISION PRACTICE WITH DEEP LEARNING",3,期,False,50,0,0,50,AI聯盟教師,"五2,3,4(同步遠距)","['', '', '', '', '234', '', '']","《講授類》
+1.開課單位及教師：臺灣大學鄭文皇老師。本校協同教師：電機系莊子肇副教授。 2.上課時間：星期五9:10-12:10 3.建議學生修讀過機器學習與深度學習。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PHY101&Crsname=普通物理學（一）,,,False,普通物理小組,PHY101,1,不分班,"普通物理學（一）
+GENERAL PHYSICS (I)",3,期,True,50,0,0,50,陳易馨,"一3,4(理SC 0008) 三5(理SC 0008)","['34', '', '5', '', '', '', '']","《講授類》
+本課程與普通物理學演習(一)一起規劃課程, 需與普通物理學演習(一)一起修習.",[],False
