@@ -1,0 +1,63 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ASPT592A&Crsname=專題報告【驗收與規劃A】,,,True,半導體封測所,ASPT592A,3,不分班,"專題報告【驗收與規劃A】
+PROJECT REPORTING - ACCEPTANCE AND PLANNING （A）",3,期,True,50,0,0,50,康宗仁,"二2,3,4(華泰廠區	)(實驗)","['', '234', '', '', '', '', '']","《企業實習》
+限先進半導體封測所學生修課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ASPT592B&Crsname=專題報告【驗收與規劃A】,,,True,半導體封測所,ASPT592B,3,不分班,"專題報告【驗收與規劃A】
+PROJECT REPORTING - ACCEPTANCE AND PLANNING （A）",3,期,True,50,0,0,50,孫家彬,"二2,3,4(穎崴廠區)(實驗)","['', '234', '', '', '', '', '']","《企業實習》
+限先進半導體封測所學生修課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ASPT593&Crsname=專題報告【驗收與規劃B】,,,True,半導體封測所,ASPT593,3,不分班,"專題報告【驗收與規劃B】
+PROJECT REPORTING - ACCEPTANCE AND PLANNING （B）",3,期,True,80,0,0,80,賴逸少,"四5,6,7(日月光廠區)(實驗)","['', '', '', '567', '', '', '']","《企業實習》
+限先進半導體封測所學生修課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ASPT596&Crsname=專題技術報告（一）,,,False,半導體封測所,ASPT596,2,不分班,"專題技術報告（一）
+SPECIAL TOPICS & TECHNICAL REPORTS IN ADVANCED SEMICONDUCTOR PACKAGING AND TESTING (I)",0,期,False,95,0,0,95,"林勇志,王志逢,蔡潤波,陳信助","五8,6,7(國 IR 6002 K)","['', '', '', '', '678', '', '']","《獨立研究》
+限先進半導體封測所學生修課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ASPT598&Crsname=專題技術報告（三）,,,False,半導體封測所,ASPT598,3,不分班,"專題技術報告（三）
+SPECIAL TOPICS & TECHNICAL REPORTS IN ADVANCED SEMICONDUCTOR PACKAGING AND TESTING (III)",0,期,False,95,0,0,95,"吳松茂,張美濙,張鼎張,施孟鎧,李英杰,林勇志,林挺生,汪正祺,潘正堂,王志逢,王郁仁,蔡崇煒,蔡潤波,郭振坤,郭紹偉,陳信助,魏家博","六2,3,4(教授研究室)","['', '', '', '', '', '234', '']","《獨立研究》
+限先進半導體封測所學生修課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ASPT599&Crsname=專題技術報告（四）,,,False,半導體封測所,ASPT599,3,不分班,"專題技術報告（四）
+SPECIAL TOPICS & TECHNICAL REPORTS IN ADVANCED SEMICONDUCTOR PACKAGING AND TESTING (IV)",0,期,False,50,0,0,50,"吳昇翰,吳松茂,孫家彬,康宗仁,張美濙,張鼎張,林勇志,林挺生,林智偉,林裕修,潘正堂,王志逢,王郁仁,蔡潤波,賴逸少,郭紹偉,陳信助,魏家博","六8,6,7(教授研究室)","['', '', '', '', '', '678', '']","《獨立研究》
+限先進半導體封測所學生修課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC610&Crsname=半導體材料,,,False,零組件研究所,PEC610,1,不分班,"半導體材料
+SEMICONDUCTOR MATERIALS",3,期,False,15,0,0,15,鍾秀瑩,"四2,3,4(國IR 6002J)","['', '', '', '234', '', '', '']","《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課","['半導體設備工程學程', '半導體元件學程', '半導體化學學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC611&Crsname=應用力學與材料力學,,,False,零組件研究所,PEC611,1,不分班,"應用力學與材料力學
+APPLIED MECHANICS AND MECHANICS OF MATERIALS",3,期,False,15,0,0,15,潘正堂,"一2,3,4(工EC 3001)","['234', '', '', '', '', '', '']","《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC620&Crsname=材料科學,,,False,零組件研究所,PEC620,1,不分班,"材料科學
+MATERIALS SCIENCE",3,期,True,30,0,18,12,陳英忠,"四8,6,7(工EC 3012)","['', '', '', '678', '', '', '']","《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC655&Crsname=奈米材料與分析,,,False,零組件研究所,PEC655,1,不分班,"奈米材料與分析
+NANOMATERIALS AND ANALYSIS",3,期,False,15,0,0,15,鍾秀瑩,"一2,3,4(國IR 6002J)","['234', '', '', '', '', '', '']","《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC661&Crsname=工廠管理,,,False,零組件研究所,PEC661,1,不分班,"工廠管理
+FACTORY MANAGEMENT",3,期,False,15,0,0,15,李英杰,"一5,6,7(國IR 6002J)","['567', '', '', '', '', '', '']","《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC665&Crsname=薄膜工程與檢測技術,異動,確認教師8/4,False,零組件研究所,PEC665,1,不分班,"薄膜工程與檢測技術
+THIN-FILM ENGINEERING AND CHARACTERIZATION",3,期,False,15,0,0,15,黃仲平,"五2,3,4(國IR 6002K)","['', '', '', '', '234', '', '']","《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課","['半導體設備工程學程', '半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC666&Crsname=LTCC製程實現LC諧振電路簡介,,,True,零組件研究所,PEC666,2,不分班,"LTCC製程實現LC諧振電路簡介
+INTERNSHIP IN INTRODUCTION OF LC RESONANCE CIRCUIT BY LTCC PROCESS",3,期,True,5,0,0,5,李俊德,"四1,2,3,4(國巨廠區)(實驗)","['', '', '', '1234', '', '', '']","《企業實習》
+限精密電子零組件研究所-被動元件組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC667&Crsname=MLCC製程概要與實習（一）,異動,確認教師8/4,True,零組件研究所,PEC667,2,不分班,"MLCC製程概要與實習（一）
+INTERNSHIP IN INTRODUCTION OF MLCC MANUFACTURE PROCESS - PART 1",3,期,True,5,0,0,5,徐豐麒,"四8,5,6,7(國巨廠區)(實驗)","['', '', '', '5678', '', '', '']","《企業實習》
+限精密電子零組件研究所-被動元件組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC679&Crsname=進階企業實習（一）,,,True,零組件研究所,PEC679,2,不分班,"進階企業實習（一）
+ADVANCED CORPORATE INTERNSHIP（I）",3,期,True,5,0,0,5,熊學毅,"四1,2,3,4(雷科廠區)(實驗)","['', '', '', '1234', '', '', '']","《企業實習》
+限精密電子零組件研究所-電子零組件及設備組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC679A&Crsname=進階企業實習（一）,異動,確認教師8/4,True,零組件研究所,PEC679A,2,不分班,"進階企業實習（一）
+ADVANCED CORPORATE INTERNSHIP（I）",3,期,True,5,0,0,5,陳南誠,"一8,5,6,7(穎崴廠區)(實驗)","['5678', '', '', '', '', '', '']","《企業實習》
+限精密電子零組件研究所-電子零組件及設備組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC679B&Crsname=進階企業實習（一）,,,True,零組件研究所,PEC679B,2,不分班,"進階企業實習（一）
+ADVANCED CORPORATE INTERNSHIP（I）",3,期,True,5,0,0,5,林震,"二8,5,6,7(台虹廠區)(實驗)","['', '5678', '', '', '', '', '']","《企業實習》
+限精密電子零組件研究所-電子零組件及設備組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC679C&Crsname=進階企業實習（一）,異動,確認教師8/4,True,零組件研究所,PEC679C,2,不分班,"進階企業實習（一）
+ADVANCED CORPORATE INTERNSHIP（I）",3,期,True,5,0,0,5,謝明哲,"二1,2,3,4(台郡廠區)(實驗)","['', '1234', '', '', '', '', '']","《企業實習》
+限精密電子零組件研究所-電子零組件及設備組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC680&Crsname=進階企業實習（二）,,,True,零組件研究所,PEC680,2,不分班,"進階企業實習（二）
+ADVANCED CORPORATE INTERNSHIP（II）",3,期,True,5,0,0,5,熊學毅,"四8,5,6,7(雷科廠區)(實驗)","['', '', '', '5678', '', '', '']","《企業實習》
+限精密電子零組件研究所-電子零組件及設備組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PEC680A&Crsname=進階企業實習（二）,異動,確認教師8/4,True,零組件研究所,PEC680A,2,不分班,"進階企業實習（二）
+ADVANCED CORPORATE INTERNSHIP（II）",3,期,True,5,0,0,5,陳南誠,"二8,5,6,7(穎崴廠區)(實驗)","['', '5678', '', '', '', '', '']","《企業實習》
+限精密電子零組件研究所-電子零組件及設備組學生修課",[],False

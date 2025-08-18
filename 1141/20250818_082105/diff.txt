@@ -1,0 +1,30 @@
+Item root[2022] removed from iterable.
+Type of root[360]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[360]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/18".
+Type of root[361]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[361]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/18".
+Type of root[1310]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1310]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/18".
+Type of root[1311]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1311]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/18".
+Type of root[1651]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1651]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/18".
+Type of root[1938]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1938]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/18".
+Type of root[2766]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2766]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/18".
+Type of root[2767]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2767]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/18".
+Value of root[111]['changeDescription'] changed from "8/14" to "修正名額8/18".
+Value of root[111]['restrict'] changed from 50 to 24.
+Value of root[111]['remaining'] changed from 50 to 24.
+Value of root[360]['teacher'] changed from "待聘,陳嬿今" to "葉俊吟,陳嬿今".
+Value of root[361]['teacher'] changed from "待聘,陳嬿今" to "葉俊吟,陳嬿今".
+Value of root[1310]['teacher'] changed from "待聘,陳嬿今" to "葉俊吟,陳嬿今".
+Value of root[1311]['teacher'] changed from "待聘,陳嬿今" to "葉俊吟,陳嬿今".
+Value of root[1572]['selected'] changed from 111 to 108.
+Value of root[1572]['remaining'] changed from 39 to 42.
+Value of root[1651]['room'] changed from "四2,3,4(工EC 5000)" to "四2,3,4(工EC 5007)".
+Value of root[1938]['room'] changed from "二8,6,7(管CM 3038)" to "二8,6,7(管CM 3022)".
+Value of root[2766]['room'] changed from "二8,6,7(管CM 3038)" to "二8,6,7(管CM 3022)".
+Value of root[2767]['room'] changed from "二8,6,7(管CM 3038)" to "二8,6,7(管CM 3022)".
