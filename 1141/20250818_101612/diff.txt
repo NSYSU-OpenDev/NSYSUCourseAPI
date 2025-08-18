@@ -1,0 +1,11 @@
+Item root[108]['classTime'][0] added to iterable.
+Item root[108]['classTime'][1] added to iterable.
+Item root[108]['classTime'][3] added to iterable.
+Item root[108]['classTime'][4] added to iterable.
+Item root[108]['classTime'][2] added to iterable.
+Item root[108]['classTime'][5] added to iterable.
+Repetition change for item root[108]['classTime'][0].
+Value of root[108]['restrict'] changed from 50 to 20.
+Value of root[108]['remaining'] changed from 50 to 20.
+Value of root[108]['description'] changed from "《體育類》" to "《體育類》
+限大二以上選修。200公尺(自由式、蛙式各100公尺)游泳6分鐘完成，方得修習本課程。".
