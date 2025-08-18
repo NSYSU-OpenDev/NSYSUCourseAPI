@@ -1,0 +1,51 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2006&Crsname=電工實驗（一）,,,False,電機系,EE2006,2,甲班,"電工實驗（一）
+ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,0,28,30,"莊豐任,謝耀慶","三2,3,4(工EC 6023)(實驗)","['', '', '234', '', '', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2006A&Crsname=電工實驗（一）,,,False,電機系,EE2006A,2,乙班,"電工實驗（一）
+ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,0,29,29,"莊豐任,謝耀慶","三2,3,4(工EC 6018)(實驗)","['', '', '234', '', '', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2006B&Crsname=電工實驗（一）,,,False,電機系,EE2006B,2,全英班,"電工實驗（一）
+ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,0,55,3,"莊豐任,謝耀慶","四5,6,7(工EC 6023)(實驗)","['', '', '', '567', '', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2100&Crsname=電子學（一）,,,False,電機系,EE2100,2,甲班,"電子學（一）
+ELECTRONICS (I)",3,期,True,70,0,28,42,馬誠佑,"二2,3,4(工EC 6019)","['', '234', '', '', '', '', '']",《講授類》,"['半導體元件學程', '數位IC設計學程', '類比射頻IC設計學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2100A&Crsname=電子學（一）,,,False,電機系,EE2100A,2,乙班,"電子學（一）
+ELECTRONICS (I)",3,期,True,70,0,29,41,馬誠佑,"二2,3,4(工EC 6019)","['', '234', '', '', '', '', '']",《講授類》,"['半導體元件學程', '數位IC設計學程', '類比射頻IC設計學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2100B&Crsname=電子學（一）,,,False,電機系,EE2100B,2,全英班,"電子學（一）
+ELECTRONICS (I)",3,期,True,70,0,55,15,陳昶孝,"五2,3,4(工EC 3009)","['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '數位IC設計學程', '類比射頻IC設計學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2204&Crsname=矩陣理論及應用,,,False,電機系,EE2204,2,不分班,"矩陣理論及應用
+MATRIX THEORY AND APPLICATIONS",3,期,False,50,0,0,50,高崇堯,"一5,6,7(工EC 2010)","['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2204A&Crsname=矩陣理論及應用,異動,更換教室7/28,False,電機系,EE2204A,2,不分班,"矩陣理論及應用
+MATRIX THEORY AND APPLICATIONS",3,期,False,50,0,0,50,李立,"五8,6,7(工EC 2007)","['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2305&Crsname=資料結構,,,False,電機系,EE2305,2,不分班,"資料結構
+DATA STRUCTURES",3,期,False,50,0,0,50,周孜燦,"三5,6,7(工EC 3013)","['', '', '567', '', '', '', '']",《講授類》,"['軟體工程學程', '永續能源學程', '計算物理及人工智慧微學程', '金融科技學程', '智慧製造聯網微學程', '跨領域智慧製造學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2401&Crsname=電路學（二）,,,False,電機系,EE2401,2,甲班,"電路學（二）
+CIRCUIT THEORY (II)",3,期,True,70,0,28,42,李宗璘,"一2,3,4(工EC 2011)","['234', '', '', '', '', '', '']",《講授類》,"['半導體元件學程', '南星產業樞紐學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2401A&Crsname=電路學（二）,,,False,電機系,EE2401A,2,乙班,"電路學（二）
+CIRCUIT THEORY (II)",3,期,True,70,0,29,41,李宗璘,"一2,3,4(工EC 2011)","['234', '', '', '', '', '', '']",《講授類》,"['半導體元件學程', '南星產業樞紐學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2401B&Crsname=電路學（二）,異動,更換教室8/8,False,電機系,EE2401B,2,全英班,"電路學（二）
+CIRCUIT THEORY (II)",3,期,True,70,0,55,15,余祥華,"三2,3,4(工EC 3012)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '南星產業樞紐學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2403&Crsname=電力電子學,,,False,電機系,EE2403,3,不分班,"電力電子學
+POWER ELECTRONICS",3,期,False,50,0,0,50,哈菲茲,"三2,3,4(工EC 3014)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體設備工程學程', '永續能源學程', '無人載具學程', '海事工程學程', '南星產業樞紐學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2500&Crsname=電磁學（一）,,,False,電機系,EE2500,2,甲班,"電磁學（一）
+ELECTROMAGNETIC THEORY (I)",3,期,True,70,0,28,42,李杰穎,"二5,6,7(工EC 3012)","['', '567', '', '', '', '', '']",《講授類》,"['半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2500A&Crsname=電磁學（一）,,,False,電機系,EE2500A,2,乙班,"電磁學（一）
+ELECTROMAGNETIC THEORY (I)",3,期,True,70,0,29,41,李杰穎,"二5,6,7(工EC 3012)","['', '567', '', '', '', '', '']",《講授類》,"['半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2500B&Crsname=電磁學（一）,,,False,電機系,EE2500B,2,全英班,"電磁學（一）
+ELECTROMAGNETIC THEORY (I)",3,期,True,70,0,55,15,沈昭元,"二2,3,4(工EC 3013)","['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2600&Crsname=訊號與系統,,,False,電機系,EE2600,2,甲班,"訊號與系統
+SIGNALS AND SYSTEMS",3,期,True,70,0,28,42,曾凡碩,"四5,6,7(工EC 2002)","['', '', '', '567', '', '', '']",《講授類》,"['類比射頻IC設計學程', '智慧製造聯網微學程', '南星產業樞紐學程', '跨領域智慧製造學程', '製造與大數據分析微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2600A&Crsname=訊號與系統,,,False,電機系,EE2600A,2,乙班,"訊號與系統
+SIGNALS AND SYSTEMS",3,期,True,70,0,29,41,曾凡碩,"四5,6,7(工EC 2002)","['', '', '', '567', '', '', '']",《講授類》,"['類比射頻IC設計學程', '智慧製造聯網微學程', '南星產業樞紐學程', '跨領域智慧製造學程', '製造與大數據分析微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2600B&Crsname=訊號與系統,,,False,電機系,EE2600B,2,全英班,"訊號與系統
+SIGNALS AND SYSTEMS",3,期,True,70,0,55,15,曾乙立,"二5,6,7(工EC 3013)","['', '567', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['類比射頻IC設計學程', '智慧製造聯網微學程', '南星產業樞紐學程', '跨領域智慧製造學程', '製造與大數據分析微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2701&Crsname=硬體描述語言,,,False,電機系,EE2701,2,不分班,"硬體描述語言
+HARDWARE DESCRIPTION LANGUAGES",3,期,False,50,0,0,50,邱日清,"五2,3,4(工EC 3012)","['', '', '', '', '234', '', '']",《講授類》,"['數位IC設計學程', '南星產業樞紐學程']",False
