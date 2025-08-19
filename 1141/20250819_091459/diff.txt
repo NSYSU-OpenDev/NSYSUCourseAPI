@@ -1,0 +1,35 @@
+Item root[1501]['classTime'][1] added to iterable.
+Item root[2069]['classTime'][3] added to iterable.
+Item root[2801]['classTime'][3] added to iterable.
+Item root[1501]['classTime'][1] removed from iterable.
+Item root[2069]['classTime'][0] removed from iterable.
+Item root[2801]['classTime'][0] removed from iterable.
+Item root[1178] removed from iterable.
+Type of root[1232]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1232]['changeDescription'] changed from NoneType to str and value changed from None to "調整教師時間8/19".
+Type of root[1501]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1501]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/19".
+Type of root[2376]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2376]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/19".
+Value of root[1064]['select'] changed from 1 to 2.
+Value of root[1064]['selected'] changed from 49 to 48.
+Value of root[1064]['remaining'] changed from 11 to 12.
+Value of root[1065]['select'] changed from 1 to 2.
+Value of root[1065]['selected'] changed from 49 to 48.
+Value of root[1065]['remaining'] changed from 21 to 22.
+Value of root[1066]['select'] changed from 1 to 2.
+Value of root[1066]['selected'] changed from 49 to 48.
+Value of root[1066]['remaining'] changed from 6 to 7.
+Value of root[1067]['select'] changed from 1 to 2.
+Value of root[1067]['selected'] changed from 49 to 48.
+Value of root[1067]['remaining'] changed from 6 to 7.
+Value of root[1232]['teacher'] changed from "劉婷婷,王文宏,葉明倫,趙敏吾,陳彥樺,陳秀玲" to "劉婷婷,王文宏,葉明倫,趙敏吾,陳彥樺,陳德全,陳秀玲".
+Value of root[1501]['room'] changed from "二8,6,7(理SC 4009-0)" to "二8,9,7(理SC 4009-0)".
+Value of root[2069]['room'] changed from "一2,3,4(社SS 3008)" to "四5,6,7(社SS 3010-2)".
+Value of root[2243]['room'] changed from "一8,6,7(PC 03電腦教室)" to "一8,6,7(圖IL PC03)".
+Value of root[2262]['teacher'] changed from "林勇志,王志逢,蔡潤波,陳信助" to "林勇志,王志逢,蔡潤波,陳信助,黃仲平".
+Value of root[2262]['room'] changed from "五8,6,7(國 IR 6002 K)" to "五8,6,7(國IR 6002K)".
+Value of root[2263]['teacher'] changed from "吳松茂,張美濙,張鼎張,施孟鎧,李英杰,林勇志,林挺生,汪正祺,潘正堂,王志逢,王郁仁,蔡崇煒,蔡潤波,郭振坤,郭紹偉,陳信助,魏家博" to "吳松茂,張美濙,張鼎張,施孟鎧,李英杰,林勇志,林挺生,汪正祺,潘正堂,王志逢,王郁仁,蔡崇煒,蔡潤波,郭振坤,郭紹偉,陳信助,魏家博,黃仲平".
+Value of root[2264]['teacher'] changed from "吳昇翰,吳松茂,孫家彬,康宗仁,張美濙,張鼎張,林勇志,林挺生,林智偉,林裕修,潘正堂,王志逢,王郁仁,蔡潤波,賴逸少,郭紹偉,陳信助,魏家博" to "王志逢,蔡崇煒,蔡潤波,郭紹偉,陳信助".
+Value of root[2376]['room'] changed from "三1,2(台北)" to "二1,2(台北)".
+Value of root[2801]['room'] changed from "一2,3,4(社SS 3008)" to "四5,6,7(社SS 3010-2)".
