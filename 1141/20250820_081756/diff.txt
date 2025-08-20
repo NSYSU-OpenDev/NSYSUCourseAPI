@@ -1,0 +1,47 @@
+Item root[913]['classTime'][4] added to iterable.
+Item root[914]['classTime'][4] added to iterable.
+Item root[1117] added to iterable.
+Item root[1162]['classTime'][1] added to iterable.
+Item root[1162]['classTime'][3] added to iterable.
+Item root[2671] added to iterable.
+Item root[913]['classTime'][3] removed from iterable.
+Item root[913]['classTime'][4] removed from iterable.
+Item root[914]['classTime'][3] removed from iterable.
+Item root[914]['classTime'][4] removed from iterable.
+Item root[1162]['classTime'][0] removed from iterable.
+Repetition change for item root[913]['classTime'][0].
+Repetition change for item root[914]['classTime'][0].
+Repetition change for item root[1162]['classTime'][1].
+Type of root[1161]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1161]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/20".
+Type of root[1162]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1162]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室8/20".
+Type of root[1178]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1178]['changeDescription'] changed from NoneType to str and value changed from None to "取消限修條件8/20".
+Type of root[2018]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2018]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式8/20".
+Value of root[694]['select'] changed from 0 to 1.
+Value of root[694]['selected'] changed from 20 to 19.
+Value of root[694]['remaining'] changed from 30 to 31.
+Value of root[696]['select'] changed from 0 to 1.
+Value of root[696]['selected'] changed from 20 to 19.
+Value of root[696]['remaining'] changed from 30 to 31.
+Value of root[698]['select'] changed from 0 to 1.
+Value of root[698]['selected'] changed from 20 to 19.
+Value of root[698]['remaining'] changed from 30 to 31.
+Value of root[913]['changeDescription'] changed from "確認教師7/28" to "更動時間8/20".
+Value of root[913]['room'] changed from "四2(工MS 4019) 五2,3(工MS 4019)" to "五2,3,4(工MS 4019)".
+Value of root[914]['changeDescription'] changed from "確認教師7/28" to "更動時間8/20".
+Value of root[914]['room'] changed from "四2(工MS 4019) 五2,3(工MS 4019)" to "五2,3,4(工MS 4019)".
+Value of root[1105]['select'] changed from 0 to 1.
+Value of root[1105]['selected'] changed from 30 to 29.
+Value of root[1105]['remaining'] changed from 20 to 21.
+Value of root[1106]['select'] changed from 0 to 1.
+Value of root[1106]['selected'] changed from 30 to 29.
+Value of root[1106]['remaining'] changed from 20 to 21.
+Value of root[1161]['room'] changed from "一2,3,4(社SS 1003)" to "一2,3,4(社SS 4004-2)".
+Value of root[1162]['room'] changed from "一9,1(社SS 1003)(實驗)" to "二9(社SS 4004-2)(實驗) 四9(社SS 4004-2)(實驗)".
+Value of root[1178]['description'] changed from "《講授類》
+此課程僅限參與課程甄選，入選者方得加選。詳見職涯學院粉專：國立中山大學西灣職涯學院。" to "《講授類》".
+Value of root[2267]['selected'] changed from 17 to 16.
+Value of root[2267]['remaining'] changed from 13 to 14.
