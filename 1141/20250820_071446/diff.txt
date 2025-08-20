@@ -1,0 +1,9 @@
+Type of root[490]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[490]['changeDescription'] changed from NoneType to str and value changed from None to "更正合授教師8/20".
+Type of root[1949]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1949]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/20".
+Value of root[490]['teacher'] changed from "黃姿菁" to "陳冠豪,黃姿菁".
+Value of root[1949]['teacher'] changed from "廖志中" to "張鈞涵".
+Value of root[2267]['select'] changed from 0 to 5.
+Value of root[2267]['selected'] changed from 21 to 17.
+Value of root[2267]['remaining'] changed from 9 to 13.
