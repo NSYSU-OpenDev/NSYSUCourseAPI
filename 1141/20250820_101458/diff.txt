@@ -1,0 +1,14 @@
+Item root[913]['classTime'][3] added to iterable.
+Item root[913]['classTime'][4] added to iterable.
+Item root[914]['classTime'][3] added to iterable.
+Item root[914]['classTime'][4] added to iterable.
+Item root[913]['classTime'][4] removed from iterable.
+Item root[914]['classTime'][4] removed from iterable.
+Repetition change for item root[913]['classTime'][0].
+Repetition change for item root[914]['classTime'][0].
+Type of root[913]['change'] changed from str to NoneType and value changed from "異動" to None.
+Type of root[913]['changeDescription'] changed from str to NoneType and value changed from "更動時間8/20" to None.
+Type of root[914]['change'] changed from str to NoneType and value changed from "異動" to None.
+Type of root[914]['changeDescription'] changed from str to NoneType and value changed from "更動時間8/20" to None.
+Value of root[913]['room'] changed from "五2,3,4(工MS 4019)" to "四2(工MS 4019) 五2,3(工MS 4019)".
+Value of root[914]['room'] changed from "五2,3,4(工MS 4019)" to "四2(工MS 4019) 五2,3(工MS 4019)".
