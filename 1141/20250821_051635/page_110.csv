@@ -1,0 +1,47 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST526&Crsname=計算生物專題研究（一）,,,False,醫科碩,IMST526,0,不分班,"計算生物專題研究（一）
+INDEPENDENT STUDIES IN COMPUTATIONAL BIOLOGY （I）",3,期,False,10,0,0,10,陳志杰,"五2,3,4(國IR 1006-14)","['', '', '', '', '234', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST534&Crsname=生醫訊號處理,,,False,醫科碩,IMST534,0,不分班,"生醫訊號處理
+BIOMEDICAL SIGNAL PROCESSING",3,期,False,40,0,0,40,林遠彬,"四5,6,7(國IR 5002)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST535&Crsname=神經人因工程專題研究（一）,,,False,醫科碩,IMST535,0,不分班,"神經人因工程專題研究（一）
+INDEPENDENT STUDIES IN NEUROERGONOMICS （I）",3,期,False,30,0,0,30,林遠彬,"一5,6,7(國IR 5002)","['567', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST538&Crsname=腦機介面理論及實務,,,False,醫科碩,IMST538,1,不分班,"腦機介面理論及實務
+BRAIN-COMPUTER INTERFACE : PRINCIPLES AND PRACTICE",3,期,True,40,0,22,18,林遠彬,"五2,3,4(國IR 5002)","['', '', '', '', '234', '', '']","《講授類》
+ 
+※英語授課",['醫師工程師微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST539&Crsname=臨床毒理學專題研究（一）,異動,更換部份時間6/19,False,醫科碩,IMST539,0,不分班,"臨床毒理學專題研究（一）
+INDEPENDENT STUDIES IN CLINICAL TOXICOLOGY (I)",3,期,False,10,0,0,10,李啟偉,"五4,B,5(國IR 1006-1)","['', '', '', '', '4B5', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST541&Crsname=化工材料,,,False,醫科碩,IMST541,0,不分班,"化工材料
+CHEMICAL ENGINEERING MATERIALS",3,期,False,20,0,0,20,陳玟帆,"一5,6,7(國IR 5003)","['567', '', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['醫師工程師微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST543&Crsname=病理學,異動,調整名額8/20,False,醫科碩,IMST543,1,不分班,"病理學
+PATHOLOGY",3,期,True,45,0,22,23,李啟偉,"五8,6,7(國IR 5002)","['', '', '', '', '678', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST551&Crsname=3D列印應用實作,,,False,醫科碩,IMST551,0,不分班,"3D列印應用實作
+3D PRINTING APPLICATIONS AND PRACTICES",3,期,False,40,0,0,40,陳玟帆,"二5,6,7(國IR 5002)","['', '567', '', '', '', '', '']",《講授類》,['醫師工程師微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST555&Crsname=多功能材料專題研究（一）,,,False,醫科碩,IMST555,0,不分班,"多功能材料專題研究（一）
+INDEPENDENT STUDIES IN FUNCTIONAL MATERIALS (I)",3,期,False,20,0,0,20,陳玟帆,"五2,3,4(國IR 1006-1)","['', '', '', '', '234', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST557&Crsname=生物物理專題研究（一）,,,False,醫科碩,IMST557,0,不分班,"生物物理專題研究（一）
+INDEPENDENT STUDIES IN BIOPHYSICS (I)",3,期,False,30,0,0,30,范秀芳,"一2,3,4(理SC 4033-7)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST564&Crsname=儀器分析於生物化學上之應用,,,False,醫科碩,IMST564,0,不分班,"儀器分析於生物化學上之應用
+INSTRUMENTAL ANALYSIS ON BIOCHEMISTRY",3,期,False,30,0,0,30,范秀芳,"四2,3,4(理CH 3002)","['', '', '', '234', '', '', '']",《講授類》,['醫師工程師微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST573&Crsname=微奈米感測專題研究（一）,,,False,醫科碩,IMST573,0,不分班,"微奈米感測專題研究（一）
+INDEPENDENT STUDY IN MICRO/NANO SENSING TECHNOLOGY (I)",3,期,False,20,0,0,20,莊承鑫,"一2,3,4(體GM 2005)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST583&Crsname=實驗動物模式與人類疾病特論,,,False,醫科碩,IMST583,0,不分班,"實驗動物模式與人類疾病特論
+ANIMAL MODELS FOR HUMAN DISEASE",2,期,False,15,0,0,15,"儲天輝,李永國","一8,7(國IR 1006-1)","['78', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST601&Crsname=書報討論（三）,,,False,醫科碩,IMST601,2,不分班,"書報討論（三）
+SEMINAR (III)",1,期,True,40,0,18,22,李啟偉,三7(國IR 5002),"['', '', '7', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST604&Crsname=結構生物學,,,False,醫科碩,IMST604,0,不分班,"結構生物學
+STRUCTURAL BIOLOGY",3,期,False,15,0,0,15,陳志杰,"四2,3,4(國IR 1006-1)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST605&Crsname=智慧長照書報討論（一）,,,False,醫科碩,IMST605,1,不分班,"智慧長照書報討論（一）
+SEMINAR IN LONG-TERM CARE (I)",1,期,True,20,0,22,-2,柯朝元,三5(國IR 5003),"['', '', '5', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST606&Crsname=智慧長期照護專論,,,False,醫科碩,IMST606,1,不分班,"智慧長期照護專論
+SPECIAL TOPICS IN INTELLIGENT LONG-TERM CARE",2,期,True,20,0,22,-2,"鄒綉菊,金憲國","三3,4(國IR 5003)","['', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST607&Crsname=長照智慧科技實務應用（一）,,,False,醫科碩,IMST607,1,不分班,"長照智慧科技實務應用（一）
+APPLICATION OF INTELLIGENT ASSISTANCE TECHNOLOGIES IN LONG-TERM CARE SERVICES(Ⅰ)",2,期,True,15,0,22,-7,"巫常誠,羅貽豪","四5,6(國IR 1006-1)","['', '', '', '56', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST608&Crsname=長期照護技術特論,,,False,醫科碩,IMST608,1,不分班,"長期照護技術特論
+SPECIAL TOPICS IN TECHNOLOGY FOR LONG-TERM CARE",2,期,True,20,0,22,-2,"李柏群,袁建漢","四8,7(國IR 5003)","['', '', '', '78', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IMST610&Crsname=醫用微機電系統,,,False,醫科碩,IMST610,1,不分班,"醫用微機電系統
+MICROELECTROMECHANICAL SYSTEM FOR MEDICAL APPLICATIONS",3,期,True,40,0,22,18,莊承鑫,"二2,3,4(國IR 5002)","['', '234', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['醫師工程師微學程'],False
