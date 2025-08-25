@@ -1,0 +1,16 @@
+Item root[1034]['classTime'][3] added to iterable.
+Item root[1502] added to iterable.
+Item root[2616] added to iterable.
+Item root[1034]['classTime'][3] removed from iterable.
+Type of root[753]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[753]['changeDescription'] changed from NoneType to str and value changed from None to "修正備註內容8/25".
+Type of root[1034]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1034]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間8/25".
+Value of root[753]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》
+限電機系大三全英班或重修生選修
+※英語授課".
+Value of root[1034]['room'] changed from "四5(海MB 2004) 四6,7(海MB 2004)(實驗)" to "四8(海MB 2004) 四6,7(海MB 2004)(實驗)".
+Value of root[1272]['grade'] changed from "2" to "1".
+Value of root[1273]['grade'] changed from "2" to "1".
