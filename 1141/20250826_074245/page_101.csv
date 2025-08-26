@@ -1,0 +1,48 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA613&Crsname=國際水下文化遺產法,,,False,海事碩,MA613,0,不分班,"國際水下文化遺產法
+INTERNATIONAL UNDERWATER CULTURAL HERITAGE LAW",3,期,False,50,0,0,50,吳培福,"四C,D,E(海MA 2034)","['', '', '', 'CDE', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA619&Crsname=海洋保護區：規劃與執行,,,False,海事碩,MA619,0,不分班,"海洋保護區：規劃與執行
+MARINE PROTECTED AREA: PLANNING AND IMPLEMENTING",3,期,False,50,4,0,50,張水鍇,"五8,9,7(海MA 2034)","['', '', '', '', '789', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA620&Crsname=海洋空間規劃,異動,更換時間6/20,False,海事碩,MA620,0,不分班,"海洋空間規劃
+MARINE SPATIAL PLANNING",3,期,False,50,7,0,50,張懿,"四5,6,7(海MA 2034)","['', '', '', '567', '', '', '']","《講授類》
+ 
+※英語授課",['海洋永續發展產業科技微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA622&Crsname=海洋環境與漁業資源,新增,8/12,False,海事碩,MA622,0,不分班,"海洋環境與漁業資源
+MARINE ENVIRONMENT AND FISHERY RESOURCES",3,期,False,50,3,0,50,張懿,"一5,6,7(海MA 2034)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA629&Crsname=海洋產業經濟理論與實務,,,False,海事碩,MA629,0,不分班,"海洋產業經濟理論與實務
+ENVIRONMENTAL TRANSFORMATIONS AND CULTURAL RESPONSES IN OCEANIA",3,期,False,50,0,0,50,劉子銘,"二B,5,6(海MA 1020)","['', 'B56', '', '', '', '', '']","《講授類》
+ 
+※英語授課",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA630&Crsname=海洋環境變遷與南島民族,,,False,海事碩,MA630,0,不分班,"海洋環境變遷與南島民族
+ENVIRONMENTAL TRANSFORMATIONS AND CULTURAL RESPONSES IN OCEANIA",3,期,False,50,0,0,50,劉子銘,"三B,5,6(海MA 1020)","['', '', 'B56', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA668&Crsname=永續海洋與漁業專題研究（一）,,,False,海事碩,MA668,0,不分班,"永續海洋與漁業專題研究（一）
+INDEPENDENT STUDIES ON SUSTAINABLE OCEANS AND FISHERIES(Ⅰ)",2,期,False,50,0,0,50,張水鍇,"二A,1()","['', 'A1', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA670&Crsname=海洋空間規劃專題研究（一）,,,False,海事碩,MA670,0,不分班,"海洋空間規劃專題研究（一）
+INDEPENDENT STUDIES ON MARINE SPATIAL PLANNING(Ⅰ)",2,期,False,50,0,0,50,張懿,"三A,1()","['', '', 'A1', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA672&Crsname=環境變遷與調適專題研究（一）,,,False,海事碩,MA672,0,不分班,"環境變遷與調適專題研究（一）
+INDEPENDENT STUDIES ON ENVIRONMENTAL CHANGE AND ADAPTATION(Ⅰ)",2,期,False,50,0,0,50,劉子銘,"三3,4()","['', '', '34', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA674&Crsname=藍色經濟專題研究（一）,,,False,海事碩,MA674,0,不分班,"藍色經濟專題研究（一）
+INDEPENDENT STUDIES ON BLUE ECONOMY(Ⅰ)",2,期,False,50,0,0,50,劉子銘,"二3,4()","['', '34', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO501&Crsname=海洋學導論,,,False,海科碩,DO501,0,不分班,"海洋學導論
+INTRODUCTION TO OCEANOGRAPHY",3,期,False,50,3,0,50,"劉莉蓮,張詠斌,李逸環,雷漢杰","一2,3,4(海MA 3040)","['234', '', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO502&Crsname=海上實習,,,False,海科碩,DO502,0,不分班,"海上實習
+OCEANOGRAPHIC CRUISE",1,期,False,50,4,0,50,"塗子萱,李逸環,黃蔚人","一6,7(海MA 3020)(實驗)","['67', '', '', '', '', '', '']",《實習類》,"['環境教育學程', '擁海學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO508&Crsname=專題演講（一）,,,False,海科碩,DO508,0,不分班,"專題演講（一）
+COLLOQUIUM (I)",1,期,False,50,1,0,50,雷漢杰,三6(海MA 3040),"['', '', '6', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO510&Crsname=專題演講（三）,,,False,海科碩,DO510,0,不分班,"專題演講（三）
+COLLOQUIUM (III)",1,期,False,50,1,0,50,簡國童,三7(海MA 3040),"['', '', '7', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO524&Crsname=環礁生態研究,,,False,海科碩,DO524,0,不分班,"環礁生態研究
+ATOLL ECOLOGY RESEARCH",2,期,False,5,2,0,5,塗子萱,"二3,4(海MA 3020)","['', '34', '', '', '', '', '']","《講授類》
+限有參與東沙環礁實地訓練者選修。暑假期間在東沙上課，受限機位、空間因素，限修人數為5人。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO562&Crsname=高等海洋地質學,,,False,海科碩,DO562,0,不分班,"高等海洋地質學
+ADVANCED MARINE GEOLOGY",3,期,False,50,1,0,50,林慧玲,"二2,3,4(海MA 2009)","['', '234', '', '', '', '', '']",《講授類》,['環境科技與管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO563&Crsname=海洋沉積物分析,,,False,海科碩,DO563,0,不分班,"海洋沉積物分析
+ANALYSES OF MARINE SEDIMENTS",2,期,False,50,1,0,50,林慧玲,"三3,4(海MA 2009)","['', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO574&Crsname=海洋汙染,,,False,海科碩,DO574,0,不分班,"海洋汙染
+MARINE POLLUTION",3,期,False,50,2,0,50,雷漢杰,"四8,6,7(海MA 2009)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO614&Crsname=海洋觀測與調查,,,False,海科碩,DO614,0,不分班,"海洋觀測與調查
+OCEAN OBSERVATION AND INVESTIGATION",3,期,False,50,2,0,50,簡國童,"四8,6,7(海MA 3040)","['', '', '', '678', '', '', '']","《講授類》
+與DO324併班上課。","['環境教育學程', '擁海學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO625&Crsname=古氣候學概論,,,False,海科碩,DO625,0,不分班,"古氣候學概論
+INTRODUCTION TO PALEOCLIMATOLOGY",2,期,False,50,3,0,50,張詠斌,"五3,4(海MA 2009)","['', '', '', '', '34', '', '']","《講授類》
+與DO431併班上課。","['環境教育學程', '氣候變遷與調適學分學程']",False
