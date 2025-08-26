@@ -1,0 +1,57 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI502&Crsname=音樂理論總論,,,False,音樂碩,MUSI502,0,不分班,"音樂理論總論
+MUSIC THEORY REVIEW",3,期,False,50,5,0,50,游詠晴,"三2,3,4(文FA 6011)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI503&Crsname=鋼琴室內樂（一）,異動,確認教師7/25,False,音樂碩,MUSI503,0,不分班,"鋼琴室內樂（一）
+PIANO CHAMBER MUSIC（I）",1,期,False,50,7,0,50,唐佳迎,"四5,6(文FA 5008)","['', '', '', '56', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI505&Crsname=音樂研究導論,,,False,音樂碩,MUSI505,1,不分班,"音樂研究導論
+INTRODUCTION TO MUSIC RESEARCH",2,期,True,50,1,18,32,郭瓊嬌,"五5,6(文FA 6011)","['', '', '', '', '56', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI515&Crsname=鍵盤（一）,異動,增加合授教師8/22,False,音樂碩,MUSI515,0,不分班,"鍵盤（一）
+KEYBOARD (I)",2,期,False,50,4,0,50,"唐佳迎,林雅叙,陳宜蓁,顏竹君,黃楚涵","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI516&Crsname=鍵盤（二）,,,False,音樂碩,MUSI516,0,不分班,"鍵盤（二）
+KEYBOARD(II)",2,期,False,50,0,0,50,陳宜蓁,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI535&Crsname=弦樂一（大提琴）,,,False,音樂碩,MUSI535,0,不分班,"弦樂一（大提琴）
+STRINGS I (CELLO)",2,期,False,50,1,0,50,"張毅心,曾加宜","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI536&Crsname=弦樂一（中、小提琴）,,,False,音樂碩,MUSI536,0,不分班,"弦樂一（中、小提琴）
+STRINGS I (VIOLA & VIOLIN)",2,期,False,50,0,0,50,陳鈺雯,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI547&Crsname=管樂一（長笛）,,,False,音樂碩,MUSI547,0,不分班,"管樂一（長笛）
+WOODWIND I (FLUTE)",2,期,False,50,2,0,50,林鴻君,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI548&Crsname=管樂一（單簧管）,,,False,音樂碩,MUSI548,0,不分班,"管樂一（單簧管）
+WOODWIND I(CLARINET)",2,期,False,50,0,0,50,陳怡君,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI560&Crsname=聲樂（一）,,,False,音樂碩,MUSI560,0,不分班,"聲樂（一）
+VOICE (I)",2,期,False,50,1,0,50,黃子珊,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI563&Crsname=聲樂演唱技巧探討,,,False,音樂碩,MUSI563,0,不分班,"聲樂演唱技巧探討
+SINGING TECHNIQUE",2,期,False,50,5,0,50,黃子珊,"三6,7(文FA 6011-1)","['', '', '67', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI564&Crsname=擊樂 (一),,,False,音樂碩,MUSI564,0,不分班,"擊樂 (一)
+PERCUSSION (I)",2,期,False,50,0,0,50,"鄭雅心,陸淯姿","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI569&Crsname=管弦樂指揮（一）,,,False,音樂碩,MUSI569,0,不分班,"管弦樂指揮（一）
+ORCHESTRAL CONDUCTING (I)",2,期,False,50,1,0,50,楊智欽,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI589&Crsname=作曲（一）,,,False,音樂碩,MUSI589,0,不分班,"作曲（一）
+COMPOSITION(I)",2,期,False,50,1,0,50,李思嫺,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI610&Crsname=鍵盤（三）,,,False,音樂碩,MUSI610,0,不分班,"鍵盤（三）
+KEYBOARD (III)",2,期,False,50,0,0,50,林雅叙,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI611&Crsname=鍵盤（四）,,,False,音樂碩,MUSI611,0,不分班,"鍵盤（四）
+KEYBOARD(IV)",2,期,False,50,0,0,50,"林雅叙,顏竹君,黃瓊儀","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI612&Crsname=大鍵琴（一）,,,False,音樂碩,MUSI612,0,不分班,"大鍵琴（一）
+HARPSICHORD(I)",1,期,False,12,3,0,12,李美文,"一3,4(文FA 5008)(實驗)","['34', '', '', '', '', '', '']","《音樂類》
+限音樂系碩士班學生修課，開放各組別學生選課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI614&Crsname=鋼琴合作,,,False,音樂碩,MUSI614,0,不分班,"鋼琴合作
+PIANO ACCOMPANIMENT",2,期,False,50,9,0,50,林雅叙,"四3,4(文FA 5008)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI622&Crsname=弦樂三（中、小提琴）,,,False,音樂碩,MUSI622,0,不分班,"弦樂三（中、小提琴）
+STRINGS III (VIOLA & VIOLIN)",2,期,False,50,2,0,50,"張群,林子平,莊孟勳,葉翹任,陳鈺雯","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI623&Crsname=弦樂四（大提琴）,,,False,音樂碩,MUSI623,0,不分班,"弦樂四（大提琴）
+STRINGS IV(CELLO)",2,期,False,50,0,0,50,謝孟軒,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
