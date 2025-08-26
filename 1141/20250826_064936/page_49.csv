@@ -1,0 +1,51 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM341&Crsname=整合行銷溝通,異動,更換時間及教室6/27,False,企管系,BM341,3,不分班,"整合行銷溝通
+INTEGRATED MARKETING COMMUNICATION",3,期,False,50,28,0,50,張純端,"四2,3,4(管CM 3015)","['', '', '', '234', '', '', '']","《講授類》
+ 
+※英語授課","['音樂藝術管理與行銷學程', '行銷管理學程', '智慧城市與智慧運輸學程', '城市行銷微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM345&Crsname=商用英文（一）,,,False,企管系,BM345,3,不分班,"商用英文（一）
+ENGLISH FOR BUSINESS (I)",3,期,False,50,7,0,50,陳信智,"五2,3,4(管CM 3019)","['', '', '', '', '234', '', '']","《講授類》
+限企管系(含雙主修、輔系)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM346&Crsname=中級會計學（一）,,,False,企管系,BM346,3,不分班,"中級會計學（一）
+INTERMEDIATE ACCOUNTING(I)",3,期,False,50,1,0,50,王萬成,"三5,6,7(管CM 2025)","['', '', '567', '', '', '', '']",《講授類》,['會計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM369&Crsname=新時代的科技法律陷阱,,,False,企管系,BM369,3,不分班,"新時代的科技法律陷阱
+TECHNOLOGY LAW AND ITS TRAPS IN THE MODERN SOCIETY",3,期,False,50,4,0,50,盧憶,"四5,6,7(管CM 3015)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM370&Crsname=稅務法規,,,False,企管系,BM370,3,不分班,"稅務法規
+TAX LAWS",3,期,False,50,15,0,50,陳昭誠,"二C,D,E(管CM 2025)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM413&Crsname=策略管理,,,False,企管系,BM413,4,甲班,"策略管理
+STRATEGIC MANAGEMENT",3,期,True,50,6,21,29,林豪傑,"一5,6,7(管CM 4112)","['567', '', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)","['科技創新與服務業管理學程', '人力資源管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM413A&Crsname=策略管理,,,False,企管系,BM413A,4,乙班,"策略管理
+STRATEGIC MANAGEMENT",3,期,True,50,10,34,16,蔡宗霖,"一5,6,7(管CM 3019)","['567', '', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)","['科技創新與服務業管理學程', '人力資源管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM426&Crsname=行銷專題研討（二）,異動,更換教室8/18,False,企管系,BM426,4,不分班,"行銷專題研討（二）
+SEMINAR IN MARKETING MANAGEMENT （II）",2,期,False,50,2,0,50,佘健源,"四8,9(管CM 3017)","['', '', '', '89', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS101&Crsname=計算機概論,,,False,資管系,MIS101,1,不分班,"計算機概論
+BASIC COMPUTER CONCEPTS",3,期,True,50,0,52,-2,羅珮綺,"三5,6,7(管CM 4069)","['', '', '567', '', '', '', '']","《講授類》
+限資管系一年級修習且需搭配實習一同修習 
+※英語授課",['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS103&Crsname=微積分,,,False,資管系,MIS103,1,不分班,"微積分
+CALCULUS",3,期,True,50,0,51,-1,張中,"三2,3,4(管CM 3017)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS104&Crsname=會計學（一）,,,False,資管系,MIS104,1,不分班,"會計學（一）
+ACCOUNTING(I)",3,期,True,50,0,52,-2,蕭哲芬,"一5,6,7(管CM 4069)","['567', '', '', '', '', '', '']","《講授類》
+限資管系一年級修習且需搭配實習一同修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS108&Crsname=資訊經濟學,,,False,資管系,MIS108,1,不分班,"資訊經濟學
+THE ECONOMICS OF IT AND E-COMMERCE",3,期,True,50,2,52,-2,楊宗文,"四C,D,E(管CM 2037)","['', '', '', 'CDE', '', '', '']",《講授類》,['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS131&Crsname=計算機概論實習,,,False,資管系,MIS131,1,不分班,"計算機概論實習
+INTRODUCTION TO COMPUTER SCIENCE PRACTICE",1,期,False,50,10,0,50,羅珮綺,"一3,4(管CM 3051)(實驗)","['34', '', '', '', '', '', '']","《實習類》
+限資管系一年級修習且需搭配正課一同修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS133&Crsname=會計學實習（一）,異動,更換時間及教室7/30,False,資管系,MIS133,1,不分班,"會計學實習（一）
+ACCOUNTING PRACTICE (I)",1,期,False,50,10,0,50,蕭哲芬,"一8,9(管CM 4069)(實驗)","['89', '', '', '', '', '', '']","《實習類》
+限資管系一年級修習且需搭配正課一同修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS201&Crsname=統計學（一）,,,False,資管系,MIS201,2,不分班,"統計學（一）
+STATISTICS(I)",3,期,True,50,4,44,6,張德民,"一5,6,7(管CM 3051)","['567', '', '', '', '', '', '']",《講授類》,['巨量資料分析學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS203&Crsname=資料結構,,,False,資管系,MIS203,2,不分班,"資料結構
+DATA STRUCTURES",3,期,True,50,3,43,7,李偉柏,"二5,6,7(管CM 3051)","['', '567', '', '', '', '', '']",《講授類》,"['軟體工程學程', '計算物理及人工智慧微學程', '巨量資料分析學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS301&Crsname=系統分析與設計,,,False,資管系,MIS301,3,不分班,"系統分析與設計
+SYSTEMS ANALYSIS AND DESIGN",3,期,True,50,4,45,5,吳仁和,"四8,6,7(管CM 4078)","['', '', '', '678', '', '', '']",《講授類》,"['軟體工程學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS302&Crsname=作業系統,,,False,資管系,MIS302,3,不分班,"作業系統
+OPERATING SYSTEMS",3,期,False,50,4,0,50,陳嘉玫,"六2,3,4(管CM 4078)","['', '', '', '', '', '234', '']",《講授類》,['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS303&Crsname=企業資料通訊,異動,更換時間及教室8/11,False,資管系,MIS303,3,不分班,"企業資料通訊
+BUSINESS DATA COMMUNICATION",3,期,True,50,3,45,5,林耕霈,"五2,3,4(管CM 4069)","['', '', '', '', '234', '', '']",《講授類》,['軟體工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS311&Crsname=生產與作業管理,,,True,資管系,MIS311,3,不分班,"生產與作業管理
+PRODUCTIONS AND OPERATIONS MANAGEMENT",3,期,True,50,3,0,50,劉賓陽,"三2,3,4(管CM 2016)","['', '', '234', '', '', '', '']",《講授類》,[],False
