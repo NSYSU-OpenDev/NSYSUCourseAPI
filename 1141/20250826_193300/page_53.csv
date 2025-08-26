@@ -1,0 +1,50 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR227&Crsname=海洋生物多樣性導論,,,False,海資系,MBR227,2,全英班,"海洋生物多樣性導論
+INTRODUCTION TO MARINE BIODIVERSITY",2,期,True,50,14,28,22,"劉商隱,水晶","二6,7(海MB 2020)","['', '67', '', '', '', '', '']","《講授類》
+ 
+※英語授課","['生物多樣性學程', '環境教育學程', '探索海洋國家公園微學程', '海洋生物資源與實務應用微學程', '臺灣研究學程', '自然生物資產微學程', '海洋循環經濟學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR238&Crsname=海洋生物活性成分於疾病模式應用,異動,更換年級及時間8/18,False,海資系,MBR238,4,全英班,"海洋生物活性成分於疾病模式應用
+APPLICATION OF MARINE BIOACTIVE COMPOUNDS IN DISEASE MODELS",2,期,False,50,8,0,50,張鈞涵,"三3,4(海MB 1009)","['', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR306&Crsname=生物化學（一）,,,False,海資系,MBR306,2,全英班,"生物化學（一）
+BIOCHEMISTRY(I)",3,期,True,50,7,28,22,"廖志中,廖睿妘,李益銘","三2,3,4(海MB 2020)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['生物技術學程', '天然藥物合成學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR308&Crsname=生物化學實驗,,,False,海資系,MBR308,3,全英班,"生物化學實驗
+BIOCHEMISTRY LABORATORY",1,期,False,50,1,0,50,"李益銘,邱素芬","三5,6,7(海MB 2012)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,"['生物技術學程', '生物技術微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR310&Crsname=海上實習,,,False,海資系,MBR310,3,全英班,"海上實習
+OCEANOGRAPHY CRUISE PRACTICE",1,期,True,50,6,30,20,林秀瑾,"五5,6(海MB 1009)(實驗)","['', '', '', '', '56', '', '']","《實習類》
+修課學生須先取得海科院舉辦之水域活動安全與自救訓練講習證明，始能參與水域活動(含實習航次)
+※英語授課",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR313&Crsname=生物統計學及實習(一),,,False,海資系,MBR313,3,全英班,"生物統計學及實習(一)
+BIOSTATISTICS AND PRACTICE (I)",3,期,True,50,5,32,18,張楊家豪,"二2,3,4(海MB 2020)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR315&Crsname=生態學,,,False,海資系,MBR315,4,全英班,"生態學
+ECOLOGY",2,期,False,50,30,0,50,水晶,"三6,7(海MB 1009)","['', '', '67', '', '', '', '']","《講授類》
+ 
+※英語授課","['環境科技與管理學程', '生物多樣性學程', '海洋生物資源與實務應用微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR318&Crsname=海洋無脊椎動物學（一）,,,False,海資系,MBR318,2,全英班,"海洋無脊椎動物學（一）
+MARINE INVERTEBRATE ZOOLOGY(I)",2,期,False,50,7,0,50,劉商隱,"五6,7(海MB 2016)","['', '', '', '', '67', '', '']",《講授類》,"['生物多樣性學程', '環境教育學程', '熱帶海洋微學程', '印象海味微學程', '擁海學程', '海洋生物資源與實務應用微學程', '海洋生產模式整合學程', '海洋循環經濟學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR326&Crsname=天然物生物活性研究方法,,,False,海資系,MBR326,4,全英班,"天然物生物活性研究方法
+RESEARCH METHODS FOR BIOLOGICAL ACTIVITY OF NATURE COMPOUNDS",2,期,False,50,3,0,50,"溫志宏,陳武福","五6,7(海MB 1005)","['', '', '', '', '67', '', '']",《講授類》,['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR341&Crsname=生藥學,,,False,海資系,MBR341,3,全英班,"生藥學
+PHARMACOGNOSY",3,期,False,50,10,0,50,廖志中,"一2,3,4(海MB 2015)","['234', '', '', '', '', '', '']",《講授類》,"['生物技術學程', '海洋天然物微學程', '校園預防醫學暨食品安全學程', '海洋生產模式整合學程', '天然藥物合成學程', '海洋生物資源開發學程', '海洋生物資源開發學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR342&Crsname=藻類學,,,False,海資系,MBR342,3,全英班,"藻類學
+PHYCOLOGY",3,期,False,50,32,0,50,李澤民,"四2,3,4(海MB 2015)","['', '', '', '234', '', '', '']",《講授類》,"['環境教育學程', '海洋微生物及應用推廣微學程', '海洋循環經濟學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR345&Crsname=環境化學,,,False,海資系,MBR345,3,全英班,"環境化學
+ENVIRONMENTAL CHEMISTRY",2,期,False,50,1,0,50,王維賢,"三3,4(海MB 2014)","['', '', '34', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR351&Crsname=蛋白質化學,,,False,海資系,MBR351,3,全英班,"蛋白質化學
+PROTEIN CHEMISTRY",3,期,False,50,13,0,50,李益銘,"四5,6,7(海MB 2016)","['', '', '', '567', '', '', '']",《講授類》,"['生物技術微學程', '海洋生產模式整合學程', '海洋循環經濟學程', '海洋生物資源開發學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR360&Crsname=專題研究（一）,,,False,海資系,MBR360,3,全英班,"專題研究（一）
+INDEPENDENT STUDIES IN MARINE RESOURCES（I）",1,期,False,50,22,0,50,"劉商隱,廖志中,廖睿妘,張桂祥,張鈞涵,李景欽,李澤民,李益銘,林梅芳,林秀瑾,水晶,王亮鈞,翁靖如,鄭源斌",二A(各研究室),"['', 'A', '', '', '', '', '']","《獨立研究》
+修課規定已公告於本系網頁(課程資訊>大學部>【課程公告】114-1大三「專題研究（一）］修課說明)，未依規定者不得修課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR361&Crsname=基因體學,異動,更換時間及教室8/18,False,海資系,MBR361,2,全英班,"基因體學
+GENOMICS",2,期,False,50,10,0,50,林梅芳,"一3,4(海MB 2016)","['34', '', '', '', '', '', '']",《講授類》,['生物技術微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR401&Crsname=海洋資源專題研討（一）,,,False,海資系,MBR401,4,全英班,"海洋資源專題研討（一）
+SEMINAR IN MARINE RESOURCES(I)",2,期,True,50,0,24,26,"劉商隱,廖志中","四6,7(海MB 2015)","['', '', '', '67', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR407&Crsname=訊息傳遞與藥物開發概論,,,False,海資系,MBR407,4,全英班,"訊息傳遞與藥物開發概論
+INTRODUCTION OF SIGNAL TRANSDUCTION AND DRUG DISCOVERY",2,期,False,50,5,0,50,翁靖如,"二3,4(海MB 1009)","['', '34', '', '', '', '', '']",《講授類》,"['生物技術學程', '海洋天然物微學程', '海洋生產模式整合學程', '天然藥物合成學程', '海洋生物資源開發學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR409&Crsname=生化儀器分析,,,False,海資系,MBR409,4,全英班,"生化儀器分析
+INSTRUMENTAL ANALYSIS OF BIOCHEMISTRY",3,期,False,50,8,0,50,"翁靖如,邱素芬","五2,3,4(海MB 1009)","['', '', '', '', '234', '', '']",《講授類》,['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR410&Crsname=淺海養殖,異動,增加合授教師7/10,False,海資系,MBR410,4,全英班,"淺海養殖
+MARICULTURE",3,期,False,50,21,0,50,"呂明毅,張桂祥,彭紹宏,方力行,李宗賢,郭富雯,韓僑權","一8,6,7(海MB 1009)","['678', '', '', '', '', '', '']",《講授類》,"['海洋生物資源與實務應用微學程', '海洋微生物及應用推廣微學程', '海洋生產模式整合學程', '海洋循環經濟學程', '海洋生物資源開發學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR411&Crsname=天然物化學概論,,,False,海資系,MBR411,4,全英班,"天然物化學概論
+INTRODUCTION TO CHEMISTRY OF NATURAL PRODUCTS",3,期,False,50,5,0,50,翁靖如,"四2,3,4(海MB 1009)","['', '', '', '234', '', '', '']",《講授類》,"['海洋天然物微學程', '海洋生產模式整合學程', '天然藥物合成學程']",False
