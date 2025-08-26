@@ -1,0 +1,59 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2514&Crsname=生命科學,,,False,博雅向度五,GEAE2514,0,不分班,"生命科學
+LIFE SCIENCES",2,期,True,95,46,86,9,"王亮鈞,王志騰,陳慶能","一8,9(通GE 1010)","['89', '', '', '', '', '', '']","《講授類》
+限非生科、海資系學生修習。",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2514A&Crsname=生命科學,,,False,博雅向度五,GEAE2514A,0,不分班,"生命科學
+LIFE SCIENCES",2,期,True,95,23,59,36,"吳長益,高資棟","二6,7(通GE 4016)","['', '67', '', '', '', '', '']","《講授類》
+限非生科、海資系學生修習。",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2514B&Crsname=生命科學,,,False,博雅向度五,GEAE2514B,0,不分班,"生命科學
+LIFE SCIENCES",2,期,True,95,9,57,38,"劉勃佑,王敬湧","二8,9(通GE 1010)","['', '89', '', '', '', '', '']","《講授類》
+限非生科、海資系學生修習。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課",['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2515&Crsname=生醫桂冠的故事,,,False,博雅向度五,GEAE2515,0,不分班,"生醫桂冠的故事
+THE STORIES OF NOBEL PRIZE LAUREATES IN BIOMEDICAL SCIENCES",2,期,True,85,3,84,1,許晉銓,"四6,7(通GE 1010)","['', '', '', '67', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2519&Crsname=烹飪與科學,,,False,博雅向度五,GEAE2519,0,不分班,"烹飪與科學
+COOKING AND SCIENCE",2,期,True,50,19,50,0,李容婷,"五3,4(西SW 1005)","['', '', '', '', '34', '', '']",《講授類》,"['地方發展與永續農業微學程', '生成式AI素養微學程', '飲食文化微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2520&Crsname=科學的本質,,,False,博雅向度五,GEAE2520,0,不分班,"科學的本質
+NATURE OF SCIENCE",2,期,True,80,11,80,0,劉叔秋,"四8,9(通GE 4016)","['', '', '', '89', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['全英語通識教育菁英學程', '科技與環境英語微學程', '生成式AI素養微學程', '台灣文化英語微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2522&Crsname=科學思考與實作,,,False,博雅向度五,GEAE2522,0,不分班,"科學思考與實作
+SCIENTIFIC THINKING AND PRACTICE",2,期,True,70,9,70,0,"劉叔秋,夏沛亞","五6,7(海ME 3006)","['', '', '', '', '67', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['全英語通識教育菁英學程', '科技與環境英語微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2526&Crsname=地球生命概論,,,False,博雅向度五,GEAE2526,0,不分班,"地球生命概論
+AN INTRODUCTION TO LIFE ON EARTH",3,期,True,70,13,23,47,邊安台,"三2,3,4(通GE 1010)","['', '', '234', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課",['國際素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2528&Crsname=基礎程式設計（C++）,新增,7/8,False,博雅向度五,GEAE2528,0,不分班,"基礎程式設計（C++）
+INTRODUCTION TO PROGRAMMING（C++）",3,期,True,40,2,40,0,AI聯盟教師,"一2,3,4(同步遠距)","['234', '', '', '', '', '', '']","《講授類》
+1.開課單位及教師：陽明交通大學温宏斌老師。本校協同教師：資工系林俊宏教授。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（http://cool.ntu.edu.tw/login/portal）。 3.上課時間：星期一 9:00-12:00。 4.同步考試時間：(實體)10/20 與 12/15上午 9:00–12:00為期中考試與期末考試時間，選修課程同學務必配合保留時間參與考試。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2529&Crsname=人工智慧導論,新增,6/27,False,博雅向度五,GEAE2529,0,不分班,"人工智慧導論
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE",3,期,True,40,2,40,0,AI聯盟教師,"四5,6,7(同步遠距)","['', '', '', '567', '', '', '']","《講授類》
+1.開課單位及教師：成功大學朱威達老師。 2.此為同步遠距課程，遠距上課連結 https://www.youtube.com/@WeiTaChu 3.上課時間：星期四13:10-16:00。 4.同步考試時間：2025年12月11日, 13:10~16:00 （所有學生需同步進行，在此時段無法應考的學生請勿修課）",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2530&Crsname=統計學暨實習,新增,6/27,False,博雅向度五,GEAE2530,0,不分班,"統計學暨實習
+STATISTICS WITH RECITATION",4,期,True,40,2,8,32,AI聯盟教師,"二5,6(非同步遠距)(實驗) 三2,3,4(非同步遠距)","['', '56', '234', '', '', '', '']","《講授類》
+1.開課單位及教師：臺灣大學李宗穎老師。本校協同教師：生科系張楊家豪助理教授。 3.上課時間：每週二 13:20-15:10 PM、星期三 9:10-12:10 AM 。 4.考試安排：進行 6 次小考（9/23、10/7、10/14、11/11、11/25、12/2）、1 次期中考（10/22）、 1 次期末考（12/10），皆為同步紙本考試。5.本課程為優先選修課程，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班學生。(2)其他學士班學生。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2531&Crsname=生成式人工智慧與機器學習導論,新增,6/27,False,博雅向度五,GEAE2531,0,不分班,"生成式人工智慧與機器學習導論
+INTRODUCTION TO GENERATIVE ARTIFICIAL INTELLIGENCE AND MACHINE LEARNING",3,期,True,10,6,10,0,AI聯盟教師,,"['', '', '', '', '678', '', '']","《講授類》
+1.開課單位及教師：臺灣大學李宏毅老師。 2.上課時間：週五14:20-17:20，實際上課週次為9/12、9/19、9/26、10/17、10/24、10/31、11/14、11/28、12/5、12/12。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2601&Crsname=地球科學,,,False,博雅向度六,GEAE2601,0,不分班,"地球科學
+FUNDAMENTALS OF EARTH SCIENCE",2,期,True,90,4,90,0,"托星豪,方盈智,林玉詩,楊仁凱","四5,6(海MA 3021)","['', '', '', '56', '', '', '']",《講授類》,"['環境教育學程', '熱帶海洋微學程', '氣候變遷與調適學分學程', '看見臺灣海岸微學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2602&Crsname=海洋生態與海洋科技教育探索,,,False,博雅向度六,GEAE2602,0,不分班,"海洋生態與海洋科技教育探索
+EXPLORATION OF MARINE ECOLOGY AND TECHNOLOGY",2,期,True,80,7,80,0,黃蔚人,"二6,7(海MA 3021)","['', '67', '', '', '', '', '']",《講授類》,"['環境教育學程', '實踐環境教育微學程', '熱帶海洋微學程', '看見臺灣海岸微學程', '氣候變遷與調適學分學程', '印象海味微學程', '臺灣研究學程', '生物多樣性學程', '海洋永續發展產業科技微學程', '探索海洋國家公園微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2610&Crsname=環境倫理與環境政策,,,False,博雅向度六,GEAE2610,0,不分班,"環境倫理與環境政策
+ENVIRONMENTAL ETHICS AND ENVIRONMENTAL POLICIES",2,期,True,73,30,31,42,"吳偉寧,林新沛","二3,4(通GE 1008)","['', '34', '', '', '', '', '']",《講授類》,"['環境教育學程', '環境科技與管理學程', '企業社會責任學程', '公共事務與企業社會責任微學程', '地方發展與永續農業微學程', '氣候變遷與調適學分學程', '看見臺灣海岸微學程', '臺灣研究學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2613&Crsname=氣候變遷與調適,,,False,博雅向度六,GEAE2613,0,不分班,"氣候變遷與調適
+CLIMATE CHANGE ADAPTATION",3,期,True,80,18,80,0,"劉叔秋,張水鍇,張詠斌,李育諭","一5,6,7(通GE 4016)","['567', '', '', '', '', '', '']",《講授類》,"['環境教育學程', '實踐環境教育微學程', '熱帶海洋微學程', '公共事務與企業社會責任微學程', '氣候變遷與調適學分學程', '臺灣研究學程', '企業社會責任學程', '地方發展與永續農業微學程', '國際素養微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2622&Crsname=人類與環境之交互關係,異動,更換教室7/8,False,博雅向度六,GEAE2622,0,不分班,"人類與環境之交互關係
+HUMAN-ENVIRONMENT INTERACTIONS",3,期,True,70,12,41,29,夏燦風,"四2,3,4(理SC 1005)","['', '', '', '234', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課","['全英語通識教育菁英學程', '科技與環境英語微學程', '氣候變遷與調適學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2624&Crsname=污染防治與環境管理,,,False,博雅向度六,GEAE2624,0,不分班,"污染防治與環境管理
+POLLUTION CONTROL AND ENVIRONMENTAL MANAGEMENT",2,期,True,95,8,95,0,袁中新,"四C,D(工EC 1001)","['', '', '', 'CD', '', '', '']",《講授類》,"['環境科技與管理學程', '環境教育學程', '永續管理微學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', 'STREAM永續發展培力微學程', '臺灣研究學程', '企業社會責任學程', '淨零轉型與永續發展整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2627&Crsname=永續生活理念UX/UI設計實務,,,False,博雅向度六,GEAE2627,0,不分班,"永續生活理念UX/UI設計實務
+SUSTAINABLE LIFE CONCEPT UX/UI DESIGN PRACTICES",3,期,True,50,11,50,0,廖奕雯,"三5,6,7(圖IL PC02)","['', '', '567', '', '', '', '']","《講授類》
+限非資工、資管系修習。",['生成式AI素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AI10001&Crsname=人工智慧導論,新增,6/26,False,AI聯盟(學),AI10001,0,不分班,"人工智慧導論
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE",3,期,False,10,3,0,10,AI聯盟教師,"四5,6,7(同步遠距)","['', '', '', '567', '', '', '']","《講授類》
+1.開課單位及教師：成功大學朱威達老師。 2.此為同步遠距課程，遠距上課連結 https://www.youtube.com/@WeiTaChu 3.上課時間：星期四13:10-16:00。 4.同步考試時間：2025年12月11日, 13:10~16:00 （所有學生需同步進行，在此時段無法應考的學生請勿修課）","['海洋天然物微學程', '智慧製造聯網微學程', '跨領域智慧製造學程']",False
