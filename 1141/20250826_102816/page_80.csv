@@ -1,0 +1,44 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME532&Crsname=塑性力學,,,False,機電碩,MEME532,1,不分班,"塑性力學
+PLASTICITY",3,期,False,50,8,0,50,黃永茂,"一2,3,4(工EN 0031)","['234', '', '', '', '', '', '']",《講授類》,['南星產業樞紐學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME549&Crsname=類神經網路概論,,,False,機電碩,MEME549,1,不分班,"類神經網路概論
+INTRODUCTION TO NEURAL NETWORKS",3,期,False,50,33,0,50,嚴成文,"一2,3,4(工EC 3006)","['234', '', '', '', '', '', '']",《講授類》,"['跨領域智慧製造學程', '製造與大數據分析微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME550&Crsname=科技產業分析,,,False,機電碩,MEME550,1,不分班,"科技產業分析
+ANALYSIS OF TECHNOLOGICAL INDUSTRY",3,期,False,50,7,0,50,吳美玲,"五2,3,4(工EN 4055-2)","['', '', '', '', '234', '', '']","《講授類》
+EMI/CLIL/STEM",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME562&Crsname=摩潤學,,,False,機電碩,MEME562,1,不分班,"摩潤學
+TRIBOLOGY",3,期,False,50,34,0,50,邱源成,"二5,6,7(工EN 0031)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME573&Crsname=智慧製造與監測技術,,,False,機電碩,MEME573,1,不分班,"智慧製造與監測技術
+SMART MANUFACTURING AND MONITORING TECHNOLOGY",3,期,False,50,28,0,50,"汪正祺,王郁仁","四2,3,4(工EC 3001)","['', '', '', '234', '', '', '']",《講授類》,"['半導體設備工程學程', '碳流資訊盤查與低碳設計微學程', '人工智慧工業應用學分學程', '智慧港埠微學程', '智慧製造聯網微學程', '跨領域智慧製造學程', '製造與大數據分析微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME577&Crsname=半導體微影設備系統概論,,,False,機電碩,MEME577,1,不分班,"半導體微影設備系統概論
+INTRODUCTION TO LITHOGRAPHY EQUIPMENT AND SYSTEMS FOR SEMICONDUCTOR MANUFACTURING",3,期,False,35,11,0,35,胡龍豪,"三5,6,7(工EN 3021)","['', '', '567', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME583&Crsname=奈米元件電腦輔助設計,,,False,機電碩,MEME583,1,不分班,"奈米元件電腦輔助設計
+COMPUTER-AIDED DESIGN AT NANO-DEVICE",3,期,False,50,9,0,50,朱訓鵬,"三2,3,4(工EN 4055-2)","['', '', '234', '', '', '', '']",《講授類》,['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME597&Crsname=可壓縮流,,,False,機電碩,MEME597,1,不分班,"可壓縮流
+COMPRESSIBLE FLOWS",3,期,False,30,13,0,30,鄭威利,"三2,3,4(工EN 2022)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME601&Crsname=太陽能空調系統設計,,,False,機電碩,MEME601,1,不分班,"太陽能空調系統設計
+SOLAR COOLING SYSTEM DESIGN",3,期,False,35,23,0,35,梁俊德,"三5,6,7(工EC 3005)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME606&Crsname=燃料電池系統專題（一）,,,False,機電碩,MEME606,2,不分班,"燃料電池系統專題（一）
+SPECIAL TOPICS IN FUEL CELL SYSTEMS (I)",3,期,False,50,8,0,50,郭振坤,"四C,D,E(工EN 3035-1)","['', '', '', 'CDE', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME6109&Crsname=應用微奈米技術專題（一）,,,False,機電碩,MEME6109,2,不分班,"應用微奈米技術專題（一）
+INDEPENDENT STUDIES IN APPLIED MICRO AND NANO TECHNOLOGY(I)",3,期,False,50,1,0,50,郭清德,"一8,9(工EN 0036) 二9(工EN 0036)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME6111&Crsname=先進複材結構設計專題（一）,,,False,機電碩,MEME6111,2,不分班,"先進複材結構設計專題（一）
+INDEPENDENT STUDIES IN ADVANCED COMPOSITE STRUCTURE DESIGN (I)",3,期,False,50,3,0,50,蔡尚南,"三D,E,F(工EN 3035-2)","['', '', 'DEF', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME6113&Crsname=數值計算之工程運用專題,,,False,機電碩,MEME6113,2,不分班,"數值計算之工程運用專題
+INDEPENDENT STUDIES IN ENGINEERING APPLICATIONS BY NUMERICAL COMPUTATIONS",3,期,False,50,3,0,50,鄭威利,"二C,D,E(工EN 2019-2)","['', 'CDE', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME6114&Crsname=智慧製造專題,,,False,機電碩,MEME6114,2,不分班,"智慧製造專題
+INDEPENDENT STUDIES IN INTELLIGENT MANUFACTURING",3,期,False,50,4,0,50,汪正祺,"一C,D,E(工EN 3039-1)","['CDE', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME6116&Crsname=微系統力學設計與分析專題 （一）,,,False,機電碩,MEME6116,2,不分班,"微系統力學設計與分析專題 （一）
+INDEPENDENT STUDIES IN MICROSYSTEM MECHANICAL DESIGN AND ANALYSIS (I)",3,期,False,50,5,0,50,施孟鎧,"一9,C,D(工EN 3040-1)","['9CD', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME6119&Crsname=熱流與能源技術專題（一）,,,False,機電碩,MEME6119,2,不分班,"熱流與能源技術專題（一）
+INDEPENDENT STUDIES IN THERMAL FLUIDS AND ENERGY RESEARCH (I)",3,期,False,50,2,0,50,梁俊德,"二8,9,C(工EN 3041)","['', '89C', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME6120&Crsname=虛實整合最佳化設計專題（一）,,,False,機電碩,MEME6120,2,不分班,"虛實整合最佳化設計專題（一）
+INDEPENDENT STUDIES IN CYBER-PHYSICAL OPTIMIZATION (I)",3,期,False,50,1,0,50,盧威廷,"一C,D,E(工EN 2025)","['CDE', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME630&Crsname=數值解析加工學專題研討（一）,,,False,機電碩,MEME630,2,不分班,"數值解析加工學專題研討（一）
+SPECIAL TOPICS IN NUM. ANAL. AT METHOD (I)",3,期,False,50,1,0,50,黃永茂,"二8,9,C(工EN 2020)","['', '89C', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME631&Crsname=高階電子封裝專題（一）,,,False,機電碩,MEME631,2,不分班,"高階電子封裝專題（一）
+SPECIAL TOPICS IN ADVANCED ELECTRONIC PACKAGING(I)",3,期,False,50,0,0,50,吳美玲,"二8,9,C(工EN 2018)","['', '89C', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME647&Crsname=類神經網路專題（一）,,,False,機電碩,MEME647,2,不分班,"類神經網路專題（一）
+SPECIAL TOPICS IN NEURAL NETWORKS (I)",3,期,False,50,8,0,50,嚴成文,"四C,D,E(工EN 4080-2)","['', '', '', 'CDE', '', '', '']",《獨立研究》,[],False
