@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM152&Crsname=中醫暨整合醫學,異動,增加合授教師8/19,False,後醫學系,DPBM152,1,不分班,"中醫暨整合醫學
+CHINESE AND INTERGRATIVE MEDICINE",2,期,False,50,0,0,50,"張嘉祐,許堯欽,謝孟倉,陳貞吟","四3,4(醫IL 9012)","['', '', '', '34', '', '', '']","《講授類》
+限後醫系學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM204&Crsname=臨床技能（二）,異動,確認教師8/27,False,後醫學系,DPBM204,2,不分班,"臨床技能（二）
+MEDICAL SKILL TRAINING PROGRAM(II)",1,期,True,50,0,21,29,"余俊彥,梁深怡,沈元琦,王慧婷,蔡明釗",,"['12346789', '', '', '', '23456789', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM205&Crsname=溝通與專業素養（三）,,,False,後醫學系,DPBM205,2,不分班,"溝通與專業素養（三）
+COMMUNICATION AND PROFESSIONALISM(III)",1,期,True,50,0,21,29,陳德全,,"['678', '678', '', '', '', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM212&Crsname=照護科技跨域專題（一）,,,False,後醫學系,DPBM212,2,不分班,"照護科技跨域專題（一）
+INDEPENDENT STUDIES IN INNOVATIVE TECHNOLOGIES FOR HEALTHCARE (I)",1,期,True,50,0,7,43,莊承鑫,,"['', '', '56', '', '', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM213&Crsname=心臟血管基礎醫學,,,False,後醫學系,DPBM213,2,不分班,"心臟血管基礎醫學
+THE BASIC MEDICAL SCIENCE OF CARDIOVASCULAR SYSTEM",3,期,True,50,0,21,29,"劉勃佑,李昇翰,柯瓊媛,王文宏,甘祐瑜,鄭雅勻,陳亮傑,陳彥旭,陳彥樺",,"['34567', '12345678', '3456', '34568', '345678', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM214&Crsname=心臟血管臨床醫學,異動,確認教師8/8,False,後醫學系,DPBM214,2,不分班,"心臟血管臨床醫學
+CLINICAL MEDICINE OF CARDIOVASCULAR SYSTEM",2,期,True,50,0,21,29,"張博智,張瑋婷,施志遠,李威杰,陳彥旭",,"['345678', '345678', '234567', '67', '2345678', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM215&Crsname=呼吸系統基礎醫學,,,False,後醫學系,DPBM215,2,不分班,"呼吸系統基礎醫學
+THE BASIC MEDICAL SCIENCES OF RESPIRATORY SYSTEM",2,期,True,50,0,21,29,"劉勃佑,朱彰堯,李昇翰,柯瓊媛,柯翠玲,王文宏,鄭雅勻,陳亮傑,陳彥樺",,"['345678', '123567', '3456', '23456', '45', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM216&Crsname=呼吸系統臨床醫學,異動,更換部份時間8/12,False,後醫學系,DPBM216,2,不分班,"呼吸系統臨床醫學
+CLINICAL MEDICINE OF RESPIRATORY SYSTEM",2,期,True,50,0,21,29,"張博智,李昇翰,王文宏,蔣士仁,鄭舒帆,鄭雅勻",,"['56789', '23456789', '23', '5678', '235678', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM217&Crsname=消化系統基礎醫學,,,False,後醫學系,DPBM217,2,不分班,"消化系統基礎醫學
+THE BASIC MEDICAL SCIENCE OF DIGESTIVE SYSTEM",2,期,True,50,0,21,29,"劉勃佑,柯瓊媛,柯翠玲,王文宏",,"['23567', '234567', '1234', '23456', '', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM218&Crsname=消化系統臨床醫學,異動,確認教師8/27,False,後醫學系,DPBM218,2,不分班,"消化系統臨床醫學
+CLINICAL MEDICINE OF RESPIRATORY SYSTEM",2,期,True,50,0,21,29,"劉婷婷,張博智,葉明倫,蔡明釗,陳亮傑,陳彥樺",,"['34567', '345678', '234', '12345678', '1234567', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM219&Crsname=腎臟與泌尿系統基礎醫學,,,False,後醫學系,DPBM219,2,不分班,"腎臟與泌尿系統基礎醫學
+THE BASIC MEDICAL SCIENCE OF  KIDNEY AND URETERAL",2,期,True,50,0,21,29,"劉勃佑,李昇翰,柯瓊媛,甘祐瑜,葉明倫,鄭雅勻,陳亮傑,陳彥樺",,"['34567', '345679', '34', '3456', '345678', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM220&Crsname=腎臟與泌尿系統臨床醫學,異動,確認教師8/27,False,後醫學系,DPBM220,2,不分班,"腎臟與泌尿系統臨床醫學
+CLINICAL MEDICINE OF KIDNEY AND URETERAL",2,期,True,50,0,21,29,"張博智,沈元琦,王弘仁,葉明倫,陳建旭,陳彥樺,陳德全",,"['234567', '12345678', '234', '234', '23456', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM221&Crsname=腫瘤學,異動,調整教師時間8/19,False,後醫學系,DPBM221,2,不分班,"腫瘤學
+ONCOLOGY",1,期,True,50,0,21,29,"劉婷婷,王文宏,葉明倫,趙敏吾,陳彥樺,陳德全,陳秀玲",,"['4', '345678', '234', '234678', '67', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM235&Crsname=藥物科技,,,False,後醫學系,DPBM235,2,不分班,"藥物科技
+PHARMACEUTICAL TECHNOLOGY",2,期,False,50,6,0,50,陳亮傑,"三5,6(醫IL 9017)","['', '', '56', '', '', '', '']","《講授類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM236&Crsname=組織學研究法,,,False,後醫學系,DPBM236,2,不分班,"組織學研究法
+RESEARCH METHODS IN HISTOLOGY",2,期,False,50,3,0,50,甘祐瑜,"三5,6(醫IL 9018)","['', '', '56', '', '', '', '']","《講授類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM237&Crsname=基礎臨床核心課程與案例分析,異動,確認教師8/12,False,後醫學系,DPBM237,2,不分班,"基礎臨床核心課程與案例分析
+BASIC CLINICAL CORE CURRICULUM AND CASE ANALYSIS",1,期,False,50,1,0,50,"朱國安,林明毅,陳建良",三7(醫IL 9014),"['', '', '7', '', '', '', '']","《講授類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM302&Crsname=內科學實習（一）,,,False,後醫學系,DPBM302,3,不分班,"內科學實習（一）
+CLERKSHIP IN INTERNAL MEDICINE(I)",6,年,True,23,0,22,1,"張瑋婷,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM303&Crsname=外科學實習（一）,,,False,後醫學系,DPBM303,3,不分班,"外科學實習（一）
+CLERKSHIP IN SURGERY(I)",6,年,True,23,0,22,1,"張博智,待聘",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM304&Crsname=婦產科學實習（一）,,,False,後醫學系,DPBM304,3,不分班,"婦產科學實習（一）
+CLERKSHIP IN OBSTETRICS AND GYNECOLOGY(I)",4,年,True,23,0,22,1,"待聘,林立德",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM305&Crsname=兒科學實習（一）,,,False,後醫學系,DPBM305,3,不分班,"兒科學實習（一）
+CLERKSHIP IN PEDIATRICS(I)",4,年,True,23,0,22,1,"待聘,蕭志誠",,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
