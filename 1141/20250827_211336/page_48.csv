@@ -1,0 +1,59 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM105&Crsname=經濟學（一）,,,False,企管系,BM105,1,甲班,"經濟學（一）
+ECONOMICS(I)",3,期,True,50,14,39,11,林晉禾,"三5,6,7(管CM 0052)","['', '', '567', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課",['海洋生產模式整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM105A&Crsname=經濟學（一）,,,False,企管系,BM105A,1,乙班,"經濟學（一）
+ECONOMICS(I)",3,期,True,50,8,42,8,林晉禾,"三5,6,7(管CM 0052)","['', '', '567', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課",['海洋生產模式整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM107&Crsname=經濟學實習（一）,,,False,企管系,BM107,1,甲班,"經濟學實習（一）
+ECONOMICS PRACTICE(I)",1,期,False,50,16,0,50,林晉禾,"一5,6(管CM 1037)(實驗)","['56', '', '', '', '', '', '']","《實習類》
+限企管系(含雙主修、輔系)；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM107A&Crsname=經濟學實習（一）,,,False,企管系,BM107A,1,乙班,"經濟學實習（一）
+ECONOMICS PRACTICE(I)",1,期,False,50,18,0,50,林晉禾,"一5,6(管CM 1037)(實驗)","['56', '', '', '', '', '', '']","《實習類》
+限企管系(含雙主修、輔系)；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM109&Crsname=企業概論,,,False,企管系,BM109,1,不分班,"企業概論
+INTRODUCTION TO BUSINESS",3,期,False,50,81,0,50,蔡宗霖,"二5,6,7(管CM 3015)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM115&Crsname=微積分,,,False,企管系,BM115,1,甲班,"微積分
+CALCULUS",3,期,True,50,16,39,11,卓建宏,"一2,3,4(管CM 1037)","['234', '', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM115A&Crsname=微積分,,,False,企管系,BM115A,1,乙班,"微積分
+CALCULUS",3,期,True,50,8,42,8,卓建宏,"一2,3,4(管CM 1037)","['234', '', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM201&Crsname=統計學（一）,,,False,企管系,BM201,2,甲班,"統計學（一）
+STATISTICS(I)",3,期,True,50,15,39,11,林晉禾,"三2,3,4(管CM 1037)","['', '', '234', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM201A&Crsname=統計學（一）,,,False,企管系,BM201A,2,乙班,"統計學（一）
+STATISTICS(I)",3,期,True,50,11,41,9,林晉禾,"三2,3,4(管CM 1037)","['', '', '234', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM203&Crsname=行銷管理,,,False,企管系,BM203,2,甲班,"行銷管理
+MARKETING MANAGEMENT",3,期,True,50,8,39,11,黃明新,"三5,6,7(管CM 1037)","['', '', '567', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課","['音樂藝術管理與行銷學程', '行銷管理學程', '科技創新與服務業管理學程', '地方敘事與創生學程', '海洋生產模式整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM203A&Crsname=行銷管理,,,False,企管系,BM203A,2,乙班,"行銷管理
+MARKETING MANAGEMENT",3,期,True,50,1,39,11,黃明新,"三5,6,7(管CM 1037)","['', '', '567', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課","['音樂藝術管理與行銷學程', '行銷管理學程', '科技創新與服務業管理學程', '地方敘事與創生學程', '海洋生產模式整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM204&Crsname=組織行為,,,False,企管系,BM204,2,甲班,"組織行為
+ORGANIZATIONAL BEHAVIOR",3,期,True,50,18,38,12,施欣宜,"二2,3,4(管CM 1037)","['', '234', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM204A&Crsname=組織行為,,,False,企管系,BM204A,2,乙班,"組織行為
+ORGANIZATIONAL BEHAVIOR",3,期,True,50,1,39,11,施欣宜,"二8,6,7(管CM 2037)","['', '678', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM217&Crsname=統計學實習（一）,異動,更換時間7/8,False,企管系,BM217,2,甲班,"統計學實習（一）
+EXERCISE FOR STATISTICS(I)",1,期,False,50,23,0,50,林晉禾,"四B,5(管CM 0052)(實驗)","['', '', '', 'B5', '', '', '']","《實習類》
+限企管系(含雙主修、輔系)；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM217A&Crsname=統計學實習（一）,異動,更換時間7/8,False,企管系,BM217A,2,乙班,"統計學實習（一）
+EXERCISE FOR STATISTICS(I)",1,期,False,50,34,0,50,林晉禾,"四B,5(管CM 0052)(實驗)","['', '', '', 'B5', '', '', '']","《實習類》
+限企管系(含雙主修、輔系)；併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM225A&Crsname=醫務管理概論,,,False,企管系,BM225A,2,不分班,"醫務管理概論
+INTRODUCTION TO HEALTH CARE MANAGEMENT",3,期,False,50,39,0,50,黃俊智,"四5,6,7(管CM 1037)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM302&Crsname=管理會計,,,False,企管系,BM302,3,甲班,"管理會計
+MANAGERIAL ACCOUNTING",3,期,True,50,37,29,21,陳妮雲,"二2,3,4(管CM 3015)","['', '234', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課",['會計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM302A&Crsname=管理會計,,,False,企管系,BM302A,3,乙班,"管理會計
+MANAGERIAL ACCOUNTING",3,期,True,50,14,35,15,陳妮雲,"三2,3,4(管CM 3015)","['', '', '234', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)",['會計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM303&Crsname=管理資訊系統,,,False,企管系,BM303,3,甲班,"管理資訊系統
+MANAGEMENT INFORMATION SYSTEM",3,期,True,50,15,34,16,黃鋒樟,"二5,6,7(管CM 1037)","['', '567', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課",['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM303A&Crsname=管理資訊系統,,,False,企管系,BM303A,3,乙班,"管理資訊系統
+MANAGEMENT INFORMATION SYSTEM",3,期,True,50,5,35,15,黃鋒樟,"二5,6,7(管CM 1037)","['', '567', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；併班上課",['科技創新與服務業管理學程'],False
