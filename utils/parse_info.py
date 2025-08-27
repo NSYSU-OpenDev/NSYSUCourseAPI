@@ -90,11 +90,11 @@ def parse_course_info(
         # check if the course is taught in English
         # Since some descriptions have multiple identical suffixes,
         # use while to check multiple times.
-        english = False
-        while description.endswith("※英語授課"):
-            english = True
-            description = description[:-6]
-        description = description.strip()
+
+        # Fix: "※英語授課" may appear in the middle of the description
+        english = "※英語授課" in description
+        description = description.replace("※英語授課", "").strip()
+
 
         info_url_el = d.select_one("td:nth-child(8) small a[href]")
         assert info_url_el, "info_url_el is None"
