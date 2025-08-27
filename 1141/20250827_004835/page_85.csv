@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5030&Crsname=超快光電子學專題,,,False,光電碩,EO5030,0,不分班,"超快光電子學專題
+SPECIAL TOPICS IN ULTRAFAST PHOTONICS",3,期,False,50,6,0,50,李晁逵,"三D,E,1(國IR 3004)","['', '', '1DE', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5034&Crsname=光電實驗（一）,異動,修正時間6/19,False,光電碩,EO5034,0,不分班,"光電實驗（一）
+ELECTRO-OPTICS LAB (I)",3,期,False,50,4,0,50,李晁逵,"一1(國IR 3014) 一9,2,3,4,5(國IR 3014)(實驗)","['123459', '', '', '', '', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5040&Crsname=有機太陽能電池,,,False,光電碩,EO5040,0,不分班,"有機太陽能電池
+ORGANIC SOLAR CELLS",3,期,False,50,25,0,50,黃文堯,"四5,6,7(國IR 3003)","['', '', '', '567', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5041&Crsname=有機半導體材料專題,,,False,光電碩,EO5041,0,不分班,"有機半導體材料專題
+SPECIAL TOPICS: ORGANIC SEMICONDUCTING MATERIALS",3,期,False,50,7,0,50,黃文堯,"四C,D,E(國IR 2007)","['', '', '', 'CDE', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5042&Crsname=有機光電材料原理及應用,,,False,光電碩,EO5042,0,不分班,"有機光電材料原理及應用
+THE PRINCIPLE AND APPLICATION OF ORGANIC OPTP-ELECTRONIC MATERIALS",3,期,False,50,41,0,50,張美濙,"二2,3,4(國IR 3003)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5050&Crsname=積體光電元件專題,,,False,光電碩,EO5050,0,不分班,"積體光電元件專題
+SPECIAL TOPICS IN INTEGRATED PHOTONIC DEVICES",3,期,False,50,4,0,50,洪玉珠,"二C,D,E(工EC 3019)","['', 'CDE', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5052&Crsname=非線性光纖傳送專題,,,False,光電碩,EO5052,0,不分班,"非線性光纖傳送專題
+SPECIAL TOPICS IN NONLINEAR FIBER TRANSMISSION",3,期,False,50,6,0,50,林元堯,"一C,D,E(國IR 3004)","['CDE', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5056&Crsname=光子晶體元件設計專題,,,False,光電碩,EO5056,0,不分班,"光子晶體元件設計專題
+SPECIAL TOPICS ON DESIGNS OF PHOTONIC CRYSTAL DEVICES",3,期,False,50,4,0,50,于欽平,"四C,D,E(國IR 3002)","['', '', '', 'CDE', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5059&Crsname=特種光纖專題,,,False,光電碩,EO5059,0,不分班,"特種光纖專題
+SPECIAL TOPICS IN SPECIALTY FIBER",3,期,False,50,5,0,50,洪裕涵,"一C,D,E(工EC 4011)","['CDE', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5061&Crsname=電漿子學之原理及應用,,,False,光電碩,EO5061,0,不分班,"電漿子學之原理及應用
+PRINCIPLES AND APPLICATIONS OF PLASMONICS",3,期,False,50,39,0,50,洪玉珠,"五5,6,7(工EC 4012)","['', '', '', '', '567', '', '']",《講授類》,['半導體元件學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5064&Crsname=最新顯示器技術專題研討,,,False,光電碩,EO5064,0,不分班,"最新顯示器技術專題研討
+SPECIAL TOPICS IN EMERGING DISPLAY TECHNOLOGIES",3,期,False,50,7,0,50,王俊達,"四C,D,E(工EC 4022)","['', '', '', 'CDE', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5071&Crsname=近代光學,,,False,光電碩,EO5071,0,不分班,"近代光學
+FUNDAMENTALS OF MODERN OPTICS",3,期,False,50,18,0,50,邱逸仁,"四2,3,4(工EC 4037)","['', '', '', '234', '', '', '']",《講授類》,['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5072&Crsname=光電子學,,,False,光電碩,EO5072,0,不分班,"光電子學
+OPTOELECTRONICS",3,期,False,50,41,0,50,朱安國,"三2,3,4(國IR 3003)","['', '', '234', '', '', '', '']","《講授類》
+ 
+※英語授課","['半導體元件學程', '矽光子微學程', '矽光子學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5080&Crsname=物理光學,,,False,光電碩,EO5080,0,不分班,"物理光學
+PHYSICAL OPTICS",3,期,False,50,3,0,50,李晁逵,"二5,6,7(國IR 2008)","['', '567', '', '', '', '', '']",《講授類》,['半導體製程模組學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5097&Crsname=光電半導體技術及應用專題,,,False,光電碩,EO5097,0,不分班,"光電半導體技術及應用專題
+SPECIAL TOPICS IN SEMICONDUCTOR OPTOELECTRONICES",3,期,False,50,9,0,50,洪勇智,"四C,D,E(工EC 4009)","['', '', '', 'CDE', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5118&Crsname=半導體製程專題,,,False,光電碩,EO5118,0,不分班,"半導體製程專題
+SPECIAL TOPICS IN SEMICONDUCTOR PROCESSING",3,期,False,50,4,0,50,朱安國,"五C,D,E(國IR 3013)","['', '', '', '', 'CDE', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5135&Crsname=液晶光電材料,,,False,光電碩,EO5135,0,不分班,"液晶光電材料
+LIQUID CRYSTAL OPTOELECTRONIC MATERIALS",3,期,False,50,11,0,50,王俊達,"四2,3,4(國IR 3001)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5136&Crsname=液態光子晶體應用專題,,,False,光電碩,EO5136,0,不分班,"液態光子晶體應用專題
+SPECIAL TOPICS ON PHOTONIC LIQUID CRYSTAL",3,期,False,50,4,0,50,林宗賢,"五C,D,E(工EC 2025)","['', '', '', '', 'CDE', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5250&Crsname=通訊之隨機程序,,,False,光電碩,EO5250,0,不分班,"通訊之隨機程序
+RANDOM PROCESSES FOR COMMUNICATIONS",3,期,False,50,3,0,50,魏嘉建,"二2,3,4(工EC 4037)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5251&Crsname=光通訊調變格式專題,,,False,光電碩,EO5251,0,不分班,"光通訊調變格式專題
+INDEPENDENT STUDIES IN ADVANCED OPTICAL MODULATION FORMATS",3,期,False,50,2,0,50,魏嘉建,"三D,E,1(工EC 4014)","['', '', '1DE', '', '', '', '']",《獨立研究》,[],False
