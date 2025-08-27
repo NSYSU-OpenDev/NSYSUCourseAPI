@@ -1,0 +1,1573 @@
+Item root[2757] added to iterable.
+Item root[2758] added to iterable.
+Item root[2758] removed from iterable.
+Item root[2759] removed from iterable.
+Value of root[98]['description'] changed from "《體育類》
+限大二以上選修
+※英語授課" to "《體育類》
+限大二以上選修".
+Value of root[98]['english'] changed from False to True.
+Value of root[99]['description'] changed from "《體育類》
+限大二以上選修
+※英語授課" to "《體育類》
+限大二以上選修".
+Value of root[99]['english'] changed from False to True.
+Value of root[102]['description'] changed from "《體育類》
+限大二以上選修
+※英語授課" to "《體育類》
+限大二以上選修".
+Value of root[102]['english'] changed from False to True.
+Value of root[119]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[119]['english'] changed from False to True.
+Value of root[122]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[122]['english'] changed from False to True.
+Value of root[124]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。 
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[124]['english'] changed from False to True.
+Value of root[135]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[135]['english'] changed from False to True.
+Value of root[136]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[136]['english'] changed from False to True.
+Value of root[142]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[142]['english'] changed from False to True.
+Value of root[143]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[143]['english'] changed from False to True.
+Value of root[144]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[144]['english'] changed from False to True.
+Value of root[146]['description'] changed from "《講授類》
+1. 須具備英語溝通能力。 2. 須繳交霧台踏查行程交通與食宿等費用，一人5000元。 3. 6/20前須填寫報名表單，經通知錄取並完成繳費者，方能選課。
+※英語授課" to "《講授類》
+1. 須具備英語溝通能力。 2. 須繳交霧台踏查行程交通與食宿等費用，一人5000元。 3. 6/20前須填寫報名表單，經通知錄取並完成繳費者，方能選課。".
+Value of root[146]['english'] changed from False to True.
+Value of root[162]['description'] changed from "《講授類》
+限非生科、海資系學生修習。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+限非生科、海資系學生修習。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[162]['english'] changed from False to True.
+Value of root[165]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[165]['english'] changed from False to True.
+Value of root[166]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[166]['english'] changed from False to True.
+Value of root[167]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[167]['english'] changed from False to True.
+Value of root[176]['description'] changed from "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。
+※英語授課" to "《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。".
+Value of root[176]['english'] changed from False to True.
+Value of root[184]['description'] changed from "《講授類》
+1.開課單位及教師：清華大學陳宜欣老師。本校協同教師：應數系鍾思齊助理教授。  2.此為同步遠距課程，遠距上課連結 https://www.youtube.com/@NTHU_ISA5810_DataMining 3.上課時間：星期一9:00-12:00。 4.建議學生需已修過Python程式設計、有基本機率概念。本課程期末專題採分組開發，請評估可投入時間再選課，以避免影響同組修課同學之權益。 5.同步考試時間：2025/12/8 9:00~12:00（學生需同步進行，在此時段無法應考者勿修課)
+※英語授課" to "《講授類》
+1.開課單位及教師：清華大學陳宜欣老師。本校協同教師：應數系鍾思齊助理教授。  2.此為同步遠距課程，遠距上課連結 https://www.youtube.com/@NTHU_ISA5810_DataMining 3.上課時間：星期一9:00-12:00。 4.建議學生需已修過Python程式設計、有基本機率概念。本課程期末專題採分組開發，請評估可投入時間再選課，以避免影響同組修課同學之權益。 5.同步考試時間：2025/12/8 9:00~12:00（學生需同步進行，在此時段無法應考者勿修課)".
+Value of root[184]['english'] changed from False to True.
+Value of root[224]['description'] changed from "《講授類》
+建議修畢本校通識英語文「英文中高級」課程，或具備相當於CEFR B2(含)以上英文程度學生修習。跨院通識與外文系DFLL222課程併班上課
+※英語授課" to "《講授類》
+建議修畢本校通識英語文「英文中高級」課程，或具備相當於CEFR B2(含)以上英文程度學生修習。跨院通識與外文系DFLL222課程併班上課".
+Value of root[224]['english'] changed from False to True.
+Value of root[230]['description'] changed from "《研討類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL438課程併班上課
+※英語授課" to "《研討類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL438課程併班上課".
+Value of root[230]['english'] changed from False to True.
+Value of root[231]['description'] changed from "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL220課程併班上課
+※英語授課" to "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL220課程併班上課".
+Value of root[231]['english'] changed from False to True.
+Value of root[232]['description'] changed from "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL320課程併班上課
+※英語授課" to "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL320課程併班上課".
+Value of root[232]['english'] changed from False to True.
+Value of root[235]['description'] changed from "《講授類》
+跨院通識與文學院LIBA122課程併班上課
+※英語授課" to "《講授類》
+跨院通識與文學院LIBA122課程併班上課".
+Value of root[235]['english'] changed from False to True.
+Value of root[236]['description'] changed from "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL337課程併班上課
+※英語授課" to "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL337課程併班上課".
+Value of root[236]['english'] changed from False to True.
+Value of root[237]['description'] changed from "《展演》
+跨院通識與文學院LIBA124課程併班上課
+※英語授課" to "《展演》
+跨院通識與文學院LIBA124課程併班上課".
+Value of root[237]['english'] changed from False to True.
+Value of root[238]['description'] changed from "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL461課程併班上課
+※英語授課" to "《講授類》
+建議修畢本校通識英語文「英文中級」課程，或具備相當於多益測驗 600分(含)以上英文程度學生修習。跨院通識與外文系DFLL461課程併班上課".
+Value of root[238]['english'] changed from False to True.
+Value of root[253]['description'] changed from "《講授類》
+跨院通識與外文系DFLL240課程併班上課
+※英語授課" to "《講授類》
+跨院通識與外文系DFLL240課程併班上課".
+Value of root[253]['english'] changed from False to True.
+Value of root[261]['description'] changed from "《講授類》
+跨院通識與應數系MATH103A課程併班上課
+※英語授課" to "《講授類》
+跨院通識與應數系MATH103A課程併班上課".
+Value of root[261]['english'] changed from False to True.
+Value of root[263]['description'] changed from "《講授類》
+跨院通識與應數系MATH107A課程併班上課
+※英語授課" to "《講授類》
+跨院通識與應數系MATH107A課程併班上課".
+Value of root[263]['english'] changed from False to True.
+Value of root[266]['description'] changed from "《講授類》
+限非資管系學生修習。跨院通識與電機系EE1300B課程併班上課
+※英語授課" to "《講授類》
+限非資管系學生修習。跨院通識與電機系EE1300B課程併班上課".
+Value of root[266]['english'] changed from False to True.
+Value of root[268]['description'] changed from "《講授類》
+跨院通識與電機系EE2100B課程併班上課
+※英語授課" to "《講授類》
+跨院通識與電機系EE2100B課程併班上課".
+Value of root[268]['english'] changed from False to True.
+Value of root[270]['description'] changed from "《講授類》
+跨院通識與電機系EE2600B課程併班上課
+※英語授課" to "《講授類》
+跨院通識與電機系EE2600B課程併班上課".
+Value of root[270]['english'] changed from False to True.
+Value of root[273]['description'] changed from "《講授類》
+跨院通識與電機系EE2401B課程併班上課
+※英語授課" to "《講授類》
+跨院通識與電機系EE2401B課程併班上課".
+Value of root[273]['english'] changed from False to True.
+Value of root[275]['description'] changed from "《講授類》
+跨院通識與電機系EE1301B課程併班上課
+※英語授課" to "《講授類》
+跨院通識與電機系EE1301B課程併班上課".
+Value of root[275]['english'] changed from False to True.
+Value of root[278]['description'] changed from "《講授類》
+跨院通識與電機系EE2500B課程併班上課
+※英語授課" to "《講授類》
+跨院通識與電機系EE2500B課程併班上課".
+Value of root[278]['english'] changed from False to True.
+Value of root[280]['description'] changed from "《講授類》
+跨院通識與電機系EE1700B課程併班上課
+※英語授課" to "《講授類》
+跨院通識與電機系EE1700B課程併班上課".
+Value of root[280]['english'] changed from False to True.
+Value of root[303]['description'] changed from "《講授類》
+跨院通識與海工系MAEV150課程併班上課
+※英語授課" to "《講授類》
+跨院通識與海工系MAEV150課程併班上課".
+Value of root[303]['english'] changed from False to True.
+Value of root[306]['description'] changed from "《講授類》
+跨院通識與海工系MAEV261課程併班上課
+※英語授課" to "《講授類》
+跨院通識與海工系MAEV261課程併班上課".
+Value of root[306]['english'] changed from False to True.
+Value of root[307]['description'] changed from "《講授類》
+跨院通識與海科系DO203A課程併班上課
+※英語授課" to "《講授類》
+跨院通識與海科系DO203A課程併班上課".
+Value of root[307]['english'] changed from False to True.
+Value of root[314]['description'] changed from "《講授類》
+跨院通識與海科系DO225課程併班上課
+※英語授課" to "《講授類》
+跨院通識與海科系DO225課程併班上課".
+Value of root[314]['english'] changed from False to True.
+Value of root[315]['description'] changed from "《講授類》
+跨院通識與海資系MBR227課程併班上課
+※英語授課" to "《講授類》
+跨院通識與海資系MBR227課程併班上課".
+Value of root[315]['english'] changed from False to True.
+Value of root[329]['description'] changed from "《講授類》
+跨院通識與社會系SOC257課程併班上課
+※英語授課" to "《講授類》
+跨院通識與社會系SOC257課程併班上課".
+Value of root[329]['english'] changed from False to True.
+Value of root[340]['description'] changed from "《講授類》
+跨院通識與醫學院MED145課程併班上課
+※英語授課" to "《講授類》
+跨院通識與醫學院MED145課程併班上課".
+Value of root[340]['english'] changed from False to True.
+Value of root[358]['description'] changed from "《講授類》
+跨院通識與醫學院MED154課程併班上課
+※英語授課" to "《講授類》
+跨院通識與醫學院MED154課程併班上課".
+Value of root[358]['english'] changed from False to True.
+Value of root[362]['description'] changed from "《講授類》
+跨院通識與醫學院MED158課程併班上課
+※英語授課" to "《講授類》
+跨院通識與醫學院MED158課程併班上課".
+Value of root[362]['english'] changed from False to True.
+Value of root[369]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中級』以上程度學生修習選課。
+※英語授課" to "《講授類》
+限非外文系。建議英文程度『中級』以上程度學生修習選課。".
+Value of root[369]['english'] changed from False to True.
+Value of root[370]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。".
+Value of root[370]['english'] changed from False to True.
+Value of root[371]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。".
+Value of root[371]['english'] changed from False to True.
+Value of root[372]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。".
+Value of root[372]['english'] changed from False to True.
+Value of root[373]['description'] changed from "《講授類》
+限非外文系。建議英文程度『高級』以上程度學生修習選課。
+※英語授課" to "《講授類》
+限非外文系。建議英文程度『高級』以上程度學生修習選課。".
+Value of root[373]['english'] changed from False to True.
+Value of root[376]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。".
+Value of root[376]['english'] changed from False to True.
+Value of root[377]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中級』以上程度學生修習選課。
+※英語授課" to "《講授類》
+限非外文系。建議英文程度『中級』以上程度學生修習選課。".
+Value of root[377]['english'] changed from False to True.
+Value of root[378]['description'] changed from "《講授類》
+限非外文系。建議英文程度『高級』以上程度學生修習選課。
+※英語授課" to "《講授類》
+限非外文系。建議英文程度『高級』以上程度學生修習選課。".
+Value of root[378]['english'] changed from False to True.
+Value of root[381]['description'] changed from "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。
+※英語授課" to "《講授類》
+限非外文系。建議英文程度『中高級』以上程度學生修習選課。".
+Value of root[381]['english'] changed from False to True.
+Value of root[397]['description'] changed from "《服務學習類》
+限大二以上修習
+※英語授課" to "《服務學習類》
+限大二以上修習".
+Value of root[397]['english'] changed from False to True.
+Value of root[432]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[432]['english'] changed from False to True.
+Value of root[439]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[439]['english'] changed from False to True.
+Value of root[440]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[440]['english'] changed from False to True.
+Value of root[441]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[441]['english'] changed from False to True.
+Value of root[448]['description'] changed from "《講授類》
+外文系學生優先選修。本課程限修，於加退選2階段開放選修。
+※英語授課" to "《講授類》
+外文系學生優先選修。本課程限修，於加退選2階段開放選修。".
+Value of root[448]['english'] changed from False to True.
+Value of root[450]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[450]['english'] changed from False to True.
+Value of root[454]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[454]['english'] changed from False to True.
+Value of root[455]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[455]['english'] changed from False to True.
+Value of root[457]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[457]['english'] changed from False to True.
+Value of root[463]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[463]['english'] changed from False to True.
+Value of root[464]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[464]['english'] changed from False to True.
+Value of root[465]['description'] changed from "《研討類》
+ 
+※英語授課" to "《研討類》".
+Value of root[465]['english'] changed from False to True.
+Value of root[469]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[469]['english'] changed from False to True.
+Value of root[557]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[557]['english'] changed from False to True.
+Value of root[558]['description'] changed from "《展演》
+ 
+※英語授課" to "《展演》".
+Value of root[558]['english'] changed from False to True.
+Value of root[578]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[578]['english'] changed from False to True.
+Value of root[580]['description'] changed from "《講授類》
+限生科系
+※英語授課" to "《講授類》
+限生科系".
+Value of root[580]['english'] changed from False to True.
+Value of root[584]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[584]['english'] changed from False to True.
+Value of root[586]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[586]['english'] changed from False to True.
+Value of root[588]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[588]['english'] changed from False to True.
+Value of root[590]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[590]['english'] changed from False to True.
+Value of root[597]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[597]['english'] changed from False to True.
+Value of root[598]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[598]['english'] changed from False to True.
+Value of root[601]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[601]['english'] changed from False to True.
+Value of root[605]['description'] changed from "《講授類》
+限化學系同學選修。與光電系、材光系併班。
+※英語授課" to "《講授類》
+限化學系同學選修。與光電系、材光系併班。".
+Value of root[605]['english'] changed from False to True.
+Value of root[607]['description'] changed from "《講授類》
+化學系主題課程。2-4年級皆可選修。
+※英語授課" to "《講授類》
+化學系主題課程。2-4年級皆可選修。".
+Value of root[607]['english'] changed from False to True.
+Value of root[614]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[614]['english'] changed from False to True.
+Value of root[616]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[616]['english'] changed from False to True.
+Value of root[618]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[618]['english'] changed from False to True.
+Value of root[620]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[620]['english'] changed from False to True.
+Value of root[631]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.
+※英語授課" to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.".
+Value of root[631]['english'] changed from False to True.
+Value of root[633]['description'] changed from "《講授類》
+與電機系英文組併班上課.
+※英語授課" to "《講授類》
+與電機系英文組併班上課.".
+Value of root[633]['english'] changed from False to True.
+Value of root[635]['description'] changed from "《講授類》
+與材光系英文組併班上課.
+※英語授課" to "《講授類》
+與材光系英文組併班上課.".
+Value of root[635]['english'] changed from False to True.
+Value of root[645]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.
+※英語授課" to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.".
+Value of root[645]['english'] changed from False to True.
+Value of root[646]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.
+※英語授課" to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.".
+Value of root[646]['english'] changed from False to True.
+Value of root[648]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[648]['english'] changed from False to True.
+Value of root[652]['description'] changed from "《獨立研究》
+研究主題：量子光學，請事先與老師洽談.
+※英語授課" to "《獨立研究》
+研究主題：量子光學，請事先與老師洽談.".
+Value of root[652]['english'] changed from False to True.
+Value of root[653]['description'] changed from "《獨立研究》
+研究主題：生物感測器平台之研究、三態超導之研究，請事先與老師洽談.
+※英語授課" to "《獨立研究》
+研究主題：生物感測器平台之研究、三態超導之研究，請事先與老師洽談.".
+Value of root[653]['english'] changed from False to True.
+Value of root[654]['description'] changed from "《獨立研究》
+研究主題：量子磁性材料合成及物理特性研究，請事先與老師洽談.
+※英語授課" to "《獨立研究》
+研究主題：量子磁性材料合成及物理特性研究，請事先與老師洽談.".
+Value of root[654]['english'] changed from False to True.
+Value of root[655]['description'] changed from "《獨立研究》
+研究主題：量子計算，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：量子計算，請事先與老師洽談。".
+Value of root[655]['english'] changed from False to True.
+Value of root[656]['description'] changed from "《獨立研究》
+研究主題：Machine learning applications in physics，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：Machine learning applications in physics，請事先與老師洽談。".
+Value of root[656]['english'] changed from False to True.
+Value of root[657]['description'] changed from "《獨立研究》
+研究主題：微流體生醫影像平台，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：微流體生醫影像平台，請事先與老師洽談。".
+Value of root[657]['english'] changed from False to True.
+Value of root[658]['description'] changed from "《獨立研究》
+研究主題：拓樸物理的對稱研究，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：拓樸物理的對稱研究，請事先與老師洽談。".
+Value of root[658]['english'] changed from False to True.
+Value of root[659]['description'] changed from "《獨立研究》
+研究主題：邁射星系與黑洞質量測量研究，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：邁射星系與黑洞質量測量研究，請事先與老師洽談。".
+Value of root[659]['english'] changed from False to True.
+Value of root[660]['description'] changed from "《獨立研究》
+研究主題：幾何與量子物理(Geometry and quantum physics)，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：幾何與量子物理(Geometry and quantum physics)，請事先與老師洽談。".
+Value of root[660]['english'] changed from False to True.
+Value of root[661]['description'] changed from "《獨立研究》
+研究主題：二維材料在感應器上的應用，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：二維材料在感應器上的應用，請事先與老師洽談。".
+Value of root[661]['english'] changed from False to True.
+Value of root[662]['description'] changed from "《獨立研究》
+研究主題：利用第一原理研究新穎二維材料，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：利用第一原理研究新穎二維材料，請事先與老師洽談。".
+Value of root[662]['english'] changed from False to True.
+Value of root[663]['description'] changed from "《獨立研究》
+研究主題：低微材料的電性傳輸性質，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：低微材料的電性傳輸性質，請事先與老師洽談。".
+Value of root[663]['english'] changed from False to True.
+Value of root[664]['description'] changed from "《獨立研究》
+研究主題：前瞻半導體元件性能及可靠度分析、次世代可撓式薄膜電晶體平面顯示器性能及可靠度分析，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：前瞻半導體元件性能及可靠度分析、次世代可撓式薄膜電晶體平面顯示器性能及可靠度分析，請事先與老師洽談。".
+Value of root[664]['english'] changed from False to True.
+Value of root[665]['description'] changed from "《獨立研究》
+研究主題：Time-domain terahertz spectroscopy and single-pixel cameras，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：Time-domain terahertz spectroscopy and single-pixel cameras，請事先與老師洽談。".
+Value of root[665]['english'] changed from False to True.
+Value of root[666]['description'] changed from "《獨立研究》
+研究主題：二維新穎材料的原子影像，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：二維新穎材料的原子影像，請事先與老師洽談。".
+Value of root[666]['english'] changed from False to True.
+Value of root[667]['description'] changed from "《獨立研究》
+研究主題：Particle physics phenomenology 粒子物理現象學，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：Particle physics phenomenology 粒子物理現象學，請事先與老師洽談。".
+Value of root[667]['english'] changed from False to True.
+Value of root[668]['description'] changed from "《獨立研究》
+研究主題：Materials Physics & Electronic Surfaces，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：Materials Physics & Electronic Surfaces，請事先與老師洽談。".
+Value of root[668]['english'] changed from False to True.
+Value of root[669]['description'] changed from "《獨立研究》
+研究主題：電波干涉天文原理與實務應用，請事先與老師洽談。
+※英語授課" to "《獨立研究》
+研究主題：電波干涉天文原理與實務應用，請事先與老師洽談。".
+Value of root[669]['english'] changed from False to True.
+Value of root[673]['description'] changed from "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.
+※英語授課" to "《講授類》
+此為全英組必修課程，提供一般組學生做為選修課程.".
+Value of root[673]['english'] changed from False to True.
+Value of root[689]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[689]['english'] changed from False to True.
+Value of root[691]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[691]['english'] changed from False to True.
+Value of root[694]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[694]['english'] changed from False to True.
+Value of root[696]['description'] changed from "《講授類》
+選修過微積分(一)(二)者才可選修。
+※英語授課" to "《講授類》
+選修過微積分(一)(二)者才可選修。".
+Value of root[696]['english'] changed from False to True.
+Value of root[698]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[698]['english'] changed from False to True.
+Value of root[700]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[700]['english'] changed from False to True.
+Value of root[706]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[706]['english'] changed from False to True.
+Value of root[713]['description'] changed from "《講授類》
+與物理系英文組併班上課
+※英語授課" to "《講授類》
+與物理系英文組併班上課".
+Value of root[713]['english'] changed from False to True.
+Value of root[716]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[716]['english'] changed from False to True.
+Value of root[719]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[719]['english'] changed from False to True.
+Value of root[722]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[722]['english'] changed from False to True.
+Value of root[728]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[728]['english'] changed from False to True.
+Value of root[734]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[734]['english'] changed from False to True.
+Value of root[735]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[735]['english'] changed from False to True.
+Value of root[738]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[738]['english'] changed from False to True.
+Value of root[741]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[741]['english'] changed from False to True.
+Value of root[745]['description'] changed from "《實驗類》
+ 
+※英語授課" to "《實驗類》".
+Value of root[745]['english'] changed from False to True.
+Value of root[751]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[751]['english'] changed from False to True.
+Value of root[755]['description'] changed from "《講授類》
+限電機系大三全英班或重修生選修
+※英語授課" to "《講授類》
+限電機系大三全英班或重修生選修".
+Value of root[755]['english'] changed from False to True.
+Value of root[761]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[761]['english'] changed from False to True.
+Value of root[766]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[766]['english'] changed from False to True.
+Value of root[767]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[767]['english'] changed from False to True.
+Value of root[770]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[770]['english'] changed from False to True.
+Value of root[778]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[778]['english'] changed from False to True.
+Value of root[781]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[781]['english'] changed from False to True.
+Value of root[784]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[784]['english'] changed from False to True.
+Value of root[794]['description'] changed from "《講授類》
+限全英班學生加選
+※英語授課" to "《講授類》
+限全英班學生加選".
+Value of root[794]['english'] changed from False to True.
+Value of root[797]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[797]['english'] changed from False to True.
+Value of root[800]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[800]['english'] changed from False to True.
+Value of root[803]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[803]['english'] changed from False to True.
+Value of root[806]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[806]['english'] changed from False to True.
+Value of root[809]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[809]['english'] changed from False to True.
+Value of root[811]['description'] changed from "《實驗類》
+三乙、三英併班上課，實驗室在工EV 2008
+※英語授課" to "《實驗類》
+三乙、三英併班上課，實驗室在工EV 2008".
+Value of root[811]['english'] changed from False to True.
+Value of root[812]['description'] changed from "《實驗類》
+三乙、三英併班上課，實驗室在工EV 2008
+※英語授課" to "《實驗類》
+三乙、三英併班上課，實驗室在工EV 2008".
+Value of root[812]['english'] changed from False to True.
+Value of root[815]['description'] changed from "《實驗類》
+實驗室在工EC1030
+※英語授課" to "《實驗類》
+實驗室在工EC1030".
+Value of root[815]['english'] changed from False to True.
+Value of root[818]['description'] changed from "《講授類》
+限全英班學生加選
+※英語授課" to "《講授類》
+限全英班學生加選".
+Value of root[818]['english'] changed from False to True.
+Value of root[820]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[820]['english'] changed from False to True.
+Value of root[822]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[822]['english'] changed from False to True.
+Value of root[827]['description'] changed from "《講授類》
+EMI/ESP/CLIL/STEM
+※英語授課" to "《講授類》
+EMI/ESP/CLIL/STEM".
+Value of root[827]['english'] changed from False to True.
+Value of root[831]['description'] changed from "《實習類》
+ 
+※英語授課" to "《實習類》".
+Value of root[831]['english'] changed from False to True.
+Value of root[837]['description'] changed from "《講授類》
+本系學生優先修習
+※英語授課" to "《講授類》
+本系學生優先修習".
+Value of root[837]['english'] changed from False to True.
+Value of root[838]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[838]['english'] changed from False to True.
+Value of root[846]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[846]['english'] changed from False to True.
+Value of root[851]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[851]['english'] changed from False to True.
+Value of root[852]['description'] changed from "《講授類》
+本系學生優先修習
+※英語授課" to "《講授類》
+本系學生優先修習".
+Value of root[852]['english'] changed from False to True.
+Value of root[858]['description'] changed from "《講授類》
+限本系生選修。
+※英語授課" to "《講授類》
+限本系生選修。".
+Value of root[858]['english'] changed from False to True.
+Value of root[859]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[859]['english'] changed from False to True.
+Value of root[860]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[860]['english'] changed from False to True.
+Value of root[864]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[864]['english'] changed from False to True.
+Value of root[865]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[865]['english'] changed from False to True.
+Value of root[867]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[867]['english'] changed from False to True.
+Value of root[868]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[868]['english'] changed from False to True.
+Value of root[871]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[871]['english'] changed from False to True.
+Value of root[872]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[872]['english'] changed from False to True.
+Value of root[876]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[876]['english'] changed from False to True.
+Value of root[877]['description'] changed from "《實驗類》
+ 
+※英語授課" to "《實驗類》".
+Value of root[877]['english'] changed from False to True.
+Value of root[878]['description'] changed from "《實驗類》
+ 
+※英語授課" to "《實驗類》".
+Value of root[878]['english'] changed from False to True.
+Value of root[879]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[879]['english'] changed from False to True.
+Value of root[880]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[880]['english'] changed from False to True.
+Value of root[881]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[881]['english'] changed from False to True.
+Value of root[882]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[882]['english'] changed from False to True.
+Value of root[883]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[883]['english'] changed from False to True.
+Value of root[884]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[884]['english'] changed from False to True.
+Value of root[893]['description'] changed from "《講授類》
+與物理系英文組併班
+※英語授課" to "《講授類》
+與物理系英文組併班".
+Value of root[893]['english'] changed from False to True.
+Value of root[895]['description'] changed from "《講授類》
+限本系生選修；與光電系、化學系英文班併班上課。
+※英語授課" to "《講授類》
+限本系生選修；與光電系、化學系英文班併班上課。".
+Value of root[895]['english'] changed from False to True.
+Value of root[899]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[899]['english'] changed from False to True.
+Value of root[900]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[900]['english'] changed from False to True.
+Value of root[901]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[901]['english'] changed from False to True.
+Value of root[902]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[902]['english'] changed from False to True.
+Value of root[903]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[903]['english'] changed from False to True.
+Value of root[905]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[905]['english'] changed from False to True.
+Value of root[908]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[908]['english'] changed from False to True.
+Value of root[913]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[913]['english'] changed from False to True.
+Value of root[914]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[914]['english'] changed from False to True.
+Value of root[915]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[915]['english'] changed from False to True.
+Value of root[916]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[916]['english'] changed from False to True.
+Value of root[927]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[927]['english'] changed from False to True.
+Value of root[929]['description'] changed from "《講授類》
+限本系學生修習
+※英語授課" to "《講授類》
+限本系學生修習".
+Value of root[929]['english'] changed from False to True.
+Value of root[930]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[930]['english'] changed from False to True.
+Value of root[931]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[931]['english'] changed from False to True.
+Value of root[932]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[932]['english'] changed from False to True.
+Value of root[933]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[933]['english'] changed from False to True.
+Value of root[934]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[934]['english'] changed from False to True.
+Value of root[935]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[935]['english'] changed from False to True.
+Value of root[961]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[961]['english'] changed from False to True.
+Value of root[962]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[962]['english'] changed from False to True.
+Value of root[970]['description'] changed from "《講授類》
+限資管系一年級修習且需搭配實習一同修習 
+※英語授課" to "《講授類》
+限資管系一年級修習且需搭配實習一同修習".
+Value of root[970]['english'] changed from False to True.
+Value of root[1001]['description'] changed from "《講授類》
+限財管系(含雙主修、輔系)
+※英語授課" to "《講授類》
+限財管系(含雙主修、輔系)".
+Value of root[1001]['english'] changed from False to True.
+Value of root[1003]['description'] changed from "《講授類》
+限財管系(含雙主修、輔系)
+※英語授課" to "《講授類》
+限財管系(含雙主修、輔系)".
+Value of root[1003]['english'] changed from False to True.
+Value of root[1005]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1005]['english'] changed from False to True.
+Value of root[1010]['description'] changed from "《講授類》
+限修畢財管系財務管理(一)及財務管理(二)
+※英語授課" to "《講授類》
+限修畢財管系財務管理(一)及財務管理(二)".
+Value of root[1010]['english'] changed from False to True.
+Value of root[1022]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1022]['english'] changed from False to True.
+Value of root[1024]['description'] changed from "《講授類》
+限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。
+※英語授課" to "《講授類》
+限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。".
+Value of root[1024]['english'] changed from False to True.
+Value of root[1025]['description'] changed from "《講授類》
+限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。
+※英語授課" to "《講授類》
+限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。".
+Value of root[1025]['english'] changed from False to True.
+Value of root[1028]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1028]['english'] changed from False to True.
+Value of root[1029]['description'] changed from "《實驗類》
+ 
+※英語授課" to "《實驗類》".
+Value of root[1029]['english'] changed from False to True.
+Value of root[1042]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1042]['english'] changed from False to True.
+Value of root[1044]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1044]['english'] changed from False to True.
+Value of root[1046]['description'] changed from "《實習類》
+修課學生須先取得海科院舉辦之水域活動安全與自救訓練講習證明，始能參與水域活動(含實習航次)
+※英語授課" to "《實習類》
+修課學生須先取得海科院舉辦之水域活動安全與自救訓練講習證明，始能參與水域活動(含實習航次)".
+Value of root[1046]['english'] changed from False to True.
+Value of root[1048]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1048]['english'] changed from False to True.
+Value of root[1066]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1066]['english'] changed from False to True.
+Value of root[1067]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1067]['english'] changed from False to True.
+Value of root[1068]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1068]['english'] changed from False to True.
+Value of root[1076]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1076]['english'] changed from False to True.
+Value of root[1099]['description'] changed from "《講授類》
+適合大一、大二學生跨院選修。
+※英語授課" to "《講授類》
+適合大一、大二學生跨院選修。".
+Value of root[1099]['english'] changed from False to True.
+Value of root[1104]['description'] changed from "《講授類》
+適合大一、大二學生跨院選修。
+※英語授課" to "《講授類》
+適合大一、大二學生跨院選修。".
+Value of root[1104]['english'] changed from False to True.
+Value of root[1123]['description'] changed from "《講授類》
+海資系、海工系及海科系大一必修。
+※英語授課" to "《講授類》
+海資系、海工系及海科系大一必修。".
+Value of root[1123]['english'] changed from False to True.
+Value of root[1152]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1152]['english'] changed from False to True.
+Value of root[1157]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1157]['english'] changed from False to True.
+Value of root[1162]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1162]['english'] changed from False to True.
+Value of root[1199]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1199]['english'] changed from False to True.
+Value of root[1204]['description'] changed from "《講授類》
+1.須具備英語溝通能力。2.須繳交霧台踏查行程交通與食宿費等用，一人5000元。3.6/20前須填寫報名表單，經通知錄取並完成繳費者，方能選課。
+※英語授課" to "《講授類》
+1.須具備英語溝通能力。2.須繳交霧台踏查行程交通與食宿費等用，一人5000元。3.6/20前須填寫報名表單，經通知錄取並完成繳費者，方能選課。".
+Value of root[1204]['english'] changed from False to True.
+Value of root[1268]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1268]['english'] changed from False to True.
+Value of root[1274]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1274]['english'] changed from False to True.
+Value of root[1305]['description'] changed from "《講授類》
+限醫學院大學部學生修習
+※英語授課" to "《講授類》
+限醫學院大學部學生修習".
+Value of root[1305]['english'] changed from False to True.
+Value of root[1309]['description'] changed from "《講授類》
+限醫學院大學部學生修習
+※英語授課" to "《講授類》
+限醫學院大學部學生修習".
+Value of root[1309]['english'] changed from False to True.
+Value of root[1313]['description'] changed from "《講授類》
+限醫學院大學部學生修習
+※英語授課" to "《講授類》
+限醫學院大學部學生修習".
+Value of root[1313]['english'] changed from False to True.
+Value of root[1333]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1333]['english'] changed from False to True.
+Value of root[1390]['description'] changed from "《展演》
+ 
+※英語授課" to "《展演》".
+Value of root[1390]['english'] changed from False to True.
+Value of root[1397]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1397]['english'] changed from False to True.
+Value of root[1464]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1464]['english'] changed from False to True.
+Value of root[1469]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1469]['english'] changed from False to True.
+Value of root[1536]['description'] changed from "《講授類》
+與電機電力學程併班上課
+※英語授課" to "《講授類》
+與電機電力學程併班上課".
+Value of root[1536]['english'] changed from False to True.
+Value of root[1537]['description'] changed from "《講授類》
+與電機電力學程併班上課
+※英語授課" to "《講授類》
+與電機電力學程併班上課".
+Value of root[1537]['english'] changed from False to True.
+Value of root[1538]['description'] changed from "《講授類》
+與電機電力學程併班上課
+※英語授課" to "《講授類》
+與電機電力學程併班上課".
+Value of root[1538]['english'] changed from False to True.
+Value of root[1543]['description'] changed from "《獨立研究》
+ 
+※英語授課" to "《獨立研究》".
+Value of root[1543]['english'] changed from False to True.
+Value of root[1560]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1560]['english'] changed from False to True.
+Value of root[1562]['description'] changed from "《講授類》
+與IC設計所併班上課
+※英語授課" to "《講授類》
+與IC設計所併班上課".
+Value of root[1562]['english'] changed from False to True.
+Value of root[1563]['description'] changed from "《講授類》
+與IC設計所併班上課
+※英語授課" to "《講授類》
+與IC設計所併班上課".
+Value of root[1563]['english'] changed from False to True.
+Value of root[1564]['description'] changed from "《講授類》
+與IC設計所併班上課
+※英語授課" to "《講授類》
+與IC設計所併班上課".
+Value of root[1564]['english'] changed from False to True.
+Value of root[1570]['description'] changed from "《講授類》
+與IC設計所併班上課
+※英語授課" to "《講授類》
+與IC設計所併班上課".
+Value of root[1570]['english'] changed from False to True.
+Value of root[1571]['description'] changed from "《講授類》
+與IC設計所併班上課
+※英語授課" to "《講授類》
+與IC設計所併班上課".
+Value of root[1571]['english'] changed from False to True.
+Value of root[1578]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1578]['english'] changed from False to True.
+Value of root[1587]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1587]['english'] changed from False to True.
+Value of root[1615]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1615]['english'] changed from False to True.
+Value of root[1619]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1619]['english'] changed from False to True.
+Value of root[1664]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1664]['english'] changed from False to True.
+Value of root[1680]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1680]['english'] changed from False to True.
+Value of root[1694]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1694]['english'] changed from False to True.
+Value of root[1702]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1702]['english'] changed from False to True.
+Value of root[1713]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1713]['english'] changed from False to True.
+Value of root[1714]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1714]['english'] changed from False to True.
+Value of root[1716]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1716]['english'] changed from False to True.
+Value of root[1719]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1719]['english'] changed from False to True.
+Value of root[1759]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1759]['english'] changed from False to True.
+Value of root[1763]['description'] changed from "《講授類》
+與電機碩併班上課
+※英語授課" to "《講授類》
+與電機碩併班上課".
+Value of root[1763]['english'] changed from False to True.
+Value of root[1765]['description'] changed from "《講授類》
+與電機碩併班上課
+※英語授課" to "《講授類》
+與電機碩併班上課".
+Value of root[1765]['english'] changed from False to True.
+Value of root[1766]['description'] changed from "《講授類》
+與電機碩併班上課
+※英語授課" to "《講授類》
+與電機碩併班上課".
+Value of root[1766]['english'] changed from False to True.
+Value of root[1767]['description'] changed from "《講授類》
+與電機碩併班上課
+※英語授課" to "《講授類》
+與電機碩併班上課".
+Value of root[1767]['english'] changed from False to True.
+Value of root[1769]['description'] changed from "《講授類》
+與電機碩併班上課
+※英語授課" to "《講授類》
+與電機碩併班上課".
+Value of root[1769]['english'] changed from False to True.
+Value of root[1780]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1780]['english'] changed from False to True.
+Value of root[1782]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1782]['english'] changed from False to True.
+Value of root[1790]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1790]['english'] changed from False to True.
+Value of root[1793]['description'] changed from "《講授類》
+與電機系併班上課.
+※英語授課" to "《講授類》
+與電機系併班上課.".
+Value of root[1793]['english'] changed from False to True.
+Value of root[1794]['description'] changed from "《講授類》
+與電機系併班上課.
+※英語授課" to "《講授類》
+與電機系併班上課.".
+Value of root[1794]['english'] changed from False to True.
+Value of root[1795]['description'] changed from "《講授類》
+與電機系併班上課
+※英語授課" to "《講授類》
+與電機系併班上課".
+Value of root[1795]['english'] changed from False to True.
+Value of root[1796]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1796]['english'] changed from False to True.
+Value of root[1809]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1809]['english'] changed from False to True.
+Value of root[1840]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1840]['english'] changed from False to True.
+Value of root[1863]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1863]['english'] changed from False to True.
+Value of root[1866]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1866]['english'] changed from False to True.
+Value of root[1875]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1875]['english'] changed from False to True.
+Value of root[1908]['description'] changed from "《講授類》
+與GHRM503課程併班
+※英語授課" to "《講授類》
+與GHRM503課程併班".
+Value of root[1908]['english'] changed from False to True.
+Value of root[1929]['description'] changed from "《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。
+※英語授課" to "《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。".
+Value of root[1929]['english'] changed from False to True.
+Value of root[1930]['description'] changed from "《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。
+※英語授課" to "《講授類》
+限IBMBA學程及GHRM MBA學程學生修習，欲加選學生請於異常處理時加選。".
+Value of root[1930]['english'] changed from False to True.
+Value of root[1961]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1961]['english'] changed from False to True.
+Value of root[1963]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1963]['english'] changed from False to True.
+Value of root[1968]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1968]['english'] changed from False to True.
+Value of root[1969]['description'] changed from "《講授類》
+上課地點在海生館
+※英語授課" to "《講授類》
+上課地點在海生館".
+Value of root[1969]['english'] changed from False to True.
+Value of root[1983]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1983]['english'] changed from False to True.
+Value of root[1984]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1984]['english'] changed from False to True.
+Value of root[1986]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1986]['english'] changed from False to True.
+Value of root[1993]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1993]['english'] changed from False to True.
+Value of root[1999]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[1999]['english'] changed from False to True.
+Value of root[2002]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2002]['english'] changed from False to True.
+Value of root[2003]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2003]['english'] changed from False to True.
+Value of root[2006]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2006]['english'] changed from False to True.
+Value of root[2008]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2008]['english'] changed from False to True.
+Value of root[2048]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2048]['english'] changed from False to True.
+Value of root[2057]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2057]['english'] changed from False to True.
+Value of root[2061]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2061]['english'] changed from False to True.
+Value of root[2066]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2066]['english'] changed from False to True.
+Value of root[2069]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2069]['english'] changed from False to True.
+Value of root[2070]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2070]['english'] changed from False to True.
+Value of root[2099]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2099]['english'] changed from False to True.
+Value of root[2110]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2110]['english'] changed from False to True.
+Value of root[2141]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2141]['english'] changed from False to True.
+Value of root[2142]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2142]['english'] changed from False to True.
+Value of root[2144]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2144]['english'] changed from False to True.
+Value of root[2145]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2145]['english'] changed from False to True.
+Value of root[2147]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2147]['english'] changed from False to True.
+Value of root[2148]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2148]['english'] changed from False to True.
+Value of root[2169]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2169]['english'] changed from False to True.
+Value of root[2189]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2189]['english'] changed from False to True.
+Value of root[2191]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2191]['english'] changed from False to True.
+Value of root[2205]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2205]['english'] changed from False to True.
+Value of root[2214]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2214]['english'] changed from False to True.
+Value of root[2228]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2228]['english'] changed from False to True.
+Value of root[2232]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2232]['english'] changed from False to True.
+Value of root[2234]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2234]['english'] changed from False to True.
+Value of root[2237]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2237]['english'] changed from False to True.
+Value of root[2246]['description'] changed from "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課" to "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。".
+Value of root[2246]['english'] changed from False to True.
+Value of root[2253]['description'] changed from "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課" to "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。".
+Value of root[2253]['english'] changed from False to True.
+Value of root[2255]['description'] changed from "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課" to "《講授類》
+網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。".
+Value of root[2255]['english'] changed from False to True.
+Value of root[2274]['description'] changed from "《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課" to "《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。".
+Value of root[2274]['english'] changed from False to True.
+Value of root[2279]['description'] changed from "《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課" to "《講授類》
+網路選課期間先以精密電子零組件研究所學生修課為優先，外院、半導體封測所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。".
+Value of root[2279]['english'] changed from False to True.
+Value of root[2300]['description'] changed from "《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課" to "《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。".
+Value of root[2300]['english'] changed from False to True.
+Value of root[2304]['description'] changed from "《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。
+※英語授課" to "《講授類》
+網路選課期間先以創新半導體製造所學生修課為優先，外院、電子零組件所及半導體封測所的學生於選課異常處理期間進行紙本加簽選修。".
+Value of root[2304]['english'] changed from False to True.
+Value of root[2434]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2434]['english'] changed from False to True.
+Value of root[2485]['description'] changed from "《研討類》
+ 
+※英語授課" to "《研討類》".
+Value of root[2485]['english'] changed from False to True.
+Value of root[2517]['description'] changed from "《講授類》
+企業管理組;
+ 
+※英語授課" to "《講授類》
+企業管理組;".
+Value of root[2517]['english'] changed from False to True.
+Value of root[2519]['description'] changed from "《講授類》
+企業管理組;
+ 
+※英語授課" to "《講授類》
+企業管理組;".
+Value of root[2519]['english'] changed from False to True.
+Value of root[2603]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2603]['english'] changed from False to True.
+Value of root[2654]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2654]['english'] changed from False to True.
+Value of root[2671]['description'] changed from "《講授類》
+海資系、海工系及海科系大一必修。
+※英語授課" to "《講授類》
+海資系、海工系及海科系大一必修。".
+Value of root[2671]['english'] changed from False to True.
+Value of root[2673]['description'] changed from "《講授類》
+海資系、海工系及海科系大一必修。
+※英語授課" to "《講授類》
+海資系、海工系及海科系大一必修。".
+Value of root[2673]['english'] changed from False to True.
+Value of root[2672]['description'] changed from "《講授類》
+海資系、海工系及海科系大一必修。
+※英語授課" to "《講授類》
+海資系、海工系及海科系大一必修。".
+Value of root[2672]['english'] changed from False to True.
+Value of root[2682]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2682]['english'] changed from False to True.
+Value of root[2684]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2684]['english'] changed from False to True.
+Value of root[2685]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2685]['english'] changed from False to True.
+Value of root[2687]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2687]['english'] changed from False to True.
+Value of root[2690]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2690]['english'] changed from False to True.
+Value of root[2696]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2696]['english'] changed from False to True.
+Value of root[2705]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2705]['english'] changed from False to True.
+Value of root[2706]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2706]['english'] changed from False to True.
+Value of root[2707]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2707]['english'] changed from False to True.
+Value of root[2708]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2708]['english'] changed from False to True.
+Value of root[2709]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2709]['english'] changed from False to True.
+Value of root[2757]['description'] changed from "《講授類》
+企業管理組;
+與GHRM503課程併班
+※英語授課" to "《講授類》
+企業管理組;
+與GHRM503課程併班".
+Value of root[2757]['english'] changed from False to True.
+Value of root[2785]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2785]['english'] changed from False to True.
+Value of root[2786]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2786]['english'] changed from False to True.
+Value of root[2787]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2787]['english'] changed from False to True.
+Value of root[2788]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2788]['english'] changed from False to True.
+Value of root[2789]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2789]['english'] changed from False to True.
+Value of root[2793]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2793]['english'] changed from False to True.
+Value of root[2794]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2794]['english'] changed from False to True.
+Value of root[2795]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2795]['english'] changed from False to True.
+Value of root[2797]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2797]['english'] changed from False to True.
+Value of root[2798]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2798]['english'] changed from False to True.
+Value of root[2799]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2799]['english'] changed from False to True.
+Value of root[2800]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2800]['english'] changed from False to True.
+Value of root[2804]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2804]['english'] changed from False to True.
+Value of root[2806]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2806]['english'] changed from False to True.
+Value of root[2809]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2809]['english'] changed from False to True.
+Value of root[2810]['description'] changed from "《講授類》
+ 
+※英語授課" to "《講授類》".
+Value of root[2810]['english'] changed from False to True.
