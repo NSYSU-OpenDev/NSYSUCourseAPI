@@ -1,0 +1,4 @@
+Value of root[2073]['changeDescription'] changed from "確認教師7/17" to "更換教室8/28".
+Value of root[2073]['room'] changed from "三5,6,7(社SS 3008)" to "三5,6,7(社SS 3010-2)".
+Value of root[2813]['changeDescription'] changed from "確認教師7/17" to "更換教室8/28".
+Value of root[2813]['room'] changed from "三5,6,7(社SS 3008)" to "三5,6,7(社SS 3010-2)".
