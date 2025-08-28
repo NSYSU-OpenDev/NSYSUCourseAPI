@@ -1,0 +1,20 @@
+Item root[1254]['classTime'][1] added to iterable.
+Item root[1254]['classTime'][1] removed from iterable.
+Item root[758] removed from iterable.
+Repetition change for item root[2354]['classTime'][0].
+Repetition change for item root[2354]['classTime'][4].
+Type of root[543]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[543]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/28".
+Type of root[551]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[551]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/28".
+Type of root[707]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[707]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/28".
+Type of root[1484]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1484]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/28".
+Value of root[543]['room'] changed from "四5,6,7(文FA 3012)" to "四5,6,7(文FA 3007)".
+Value of root[551]['room'] changed from "二5,6,7(文FA 1014)" to "二5,6,7(文FA 2016)".
+Value of root[707]['room'] changed from "三2,3,4(理SC 4009-1)" to "三2,3,4(理SC 0009)".
+Value of root[1254]['changeDescription'] changed from "更換時間8/19" to "更換時間8/28".
+Value of root[1254]['room'] changed from "二8(高雄榮總臨床技能教室)" to "二B(高雄榮總臨床技能教室)".
+Value of root[1484]['room'] changed from "三2,3,4(理SC 4009-1)" to "三2,3,4(理SC 0009)".
+Value of root[2354]['changeDescription'] changed from "修正部份時間6/19" to "修正部份時間8/28".
