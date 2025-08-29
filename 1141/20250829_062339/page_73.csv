@@ -1,0 +1,42 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM574&Crsname=核磁共振光譜簡介,異動,更換時間及教室7/15,False,化學碩,CHEM574,1,不分班,"核磁共振光譜簡介
+INTRODUCTION TO NUCLEAR MAGNETIC RESONANCE SPECTROSCOPY",3,期,False,50,0,11,39,丁尚武,"一8,6,7(理SC 0012)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM579&Crsname=質譜分析技術,,,False,化學碩,CHEM579,1,不分班,"質譜分析技術
+MASS SPECTROMETRY",3,期,False,50,1,41,9,謝建台,"一8,6,7(理SC 2001)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM582&Crsname=化學生物學專題研究（一）,,,True,化學碩,CHEM582,1,不分班,"化學生物學專題研究（一）
+INDEPENDENT STUDIES IN CHEMICAL BIOLOGY (I)",3,期,True,50,0,5,45,林伯樵,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM583&Crsname=氣膠與生醫材料科學專題研究（一）,,,True,化學碩,CHEM583,1,不分班,"氣膠與生醫材料科學專題研究（一）
+INDEPENDENT STUDIES IN AEROSOLS AND BIOMEDICAL NANOMATERIAL SCIENCES(I)",3,期,True,50,0,3,47,王家蓁,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM586&Crsname=奈米材料化學專題研究（一）,,,True,化學碩,CHEM586,1,不分班,"奈米材料化學專題研究（一）
+INDEPENDENT STUDIES IN CHEMISTRY OF NANOMATERIALS (I)",3,期,True,50,0,5,45,陳軍互,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM591&Crsname=合成與生物有機化學專題研究（一）,,,True,化學碩,CHEM591,1,不分班,"合成與生物有機化學專題研究（一）
+INDEPENDENT STUDIES IN SYNTHESIS AND BIOORGANIC CHEMISTRY (I)",3,期,True,50,0,3,47,林渝亞,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM595&Crsname=無機催化專題研究（一）,,,True,化學碩,CHEM595,1,不分班,"無機催化專題研究（一）
+INDEPENDENT STUDIES IN INORGANIC CATALYSIS （I）",3,期,True,50,0,2,48,蔡明利,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM601&Crsname=有機化學書報討論（三）,,,True,化學碩,CHEM601,2,不分班,"有機化學書報討論（三）
+SEMINAR IN ORGANIC CHEMISTRY (III)",1,期,True,50,2,16,34,張均然,二4(理SC 3003-2),"['', '4', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM602&Crsname=無機化學書報討論（三）,,,True,化學碩,CHEM602,2,不分班,"無機化學書報討論（三）
+SEMINAR IN INORGANIC CHEMISTRY (III)",1,期,True,50,3,15,35,陳軍互,二4(理SC 2001),"['', '4', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM603&Crsname=物理化學書報討論（三）,,,True,化學碩,CHEM603,2,不分班,"物理化學書報討論（三）
+SEMINAR IN PHYSICAL CHEMISTRY (III)",1,期,True,50,1,10,40,謝淑貞,二4(理CH 3002),"['', '4', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM604&Crsname=分析化學書報討論（三）,,,True,化學碩,CHEM604,2,不分班,"分析化學書報討論（三）
+SEMINAR IN ANALYTICAL CHEMISTRY (III)",1,期,True,50,0,18,32,張柏齡,二4(理CH 2002),"['', '4', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM619&Crsname=分子與固態結構電子性質,新增,7/21,False,化學碩,CHEM619,1,不分班,"分子與固態結構電子性質
+ELECTRONIC PROPERTIES OF MOLECULES AND SOLID STATES",3,期,False,50,0,11,39,邱政超,"五5,6,7(理CH 4002)","['', '', '', '', '567', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM630&Crsname=AI產業與生成式AI的應用,,,False,化學碩,CHEM630,1,不分班,"AI產業與生成式AI的應用
+APPLICATIONS OF AI INDUSTRY AND GENERATIVE AI",3,期,False,50,3,50,0,"謝建台,謝淑貞","四8,6,7(理SC 1005)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM631&Crsname=半導體的化學、物理與材料,,,False,化學碩,CHEM631,1,不分班,"半導體的化學、物理與材料
+CHEMISTRY, PHYSICS, AND MATERIALS OF SEMICONDUCTORS",3,期,False,50,2,50,0,"李志聰,謝建台","五5,6,7(理SC 1005)","['', '', '', '', '567', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PH60001&Crsname=機器學習量子材料物理專題研討（一）,,,False,物理碩,PH60001,2,不分班,"機器學習量子材料物理專題研討（一）
+SEMINAR IN MACHINE LEARNING QUANTUM MATERIALS PHYSICS (I)",3,期,False,50,1,2,48,莊豐權,"三A,1,B(理PH 4007)","['', '', 'A1B', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PH60003&Crsname=機器學習物理應用專題（一）,,,False,物理碩,PH60003,2,不分班,"機器學習物理應用專題（一）
+INDEPENDENT STUDIES IN MACHINE LEARNING APPLICATIONS IN PHYSICS (I)",3,期,False,50,0,1,49,狄米契,"四3,4,B(理PH 6005)","['', '', '', '34B', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PH60007&Crsname=生醫光電與微流體系統專題（一）,,,False,物理碩,PH60007,2,不分班,"生醫光電與微流體系統專題（一）
+INDEPENDENT STUDIES IN BIOMEDICAL PHOTONICS AND MICROFLUIDICS SYSTEM (I)",3,期,False,50,0,3,47,洪昇廷,"一A,1,B(理PH 6008)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PH60009&Crsname=非厄米特量子力學專題（一）,,,False,物理碩,PH60009,2,不分班,"非厄米特量子力學專題（一）
+INDEPENDENT STUDIES IN NON-HERMITIAN QUANTUM MECHANICS (I)",3,期,False,50,0,0,50,朱家誼,"四A,1,B(理PH 5006)","['', '', '', 'A1B', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PH60013&Crsname=太赫茲時域光譜和單像素相機專題(一),,,False,物理碩,PH60013,2,不分班,"太赫茲時域光譜和單像素相機專題(一)
+INDEPENDENT STUDIES IN TIME-DOMAIN TERAHERTZ SPECTROSCOPY AND SINGLE-PIXEL CAMERAS (I)",3,期,False,50,0,0,50,史丹哲夫,"四A,1,B(理PH 3008)","['', '', '', 'A1B', '', '', '']","《獨立研究》
+As a prerequisite you need to have studied Maxwell’s equations and have some understanding about the propagation of electromagnetic waves in 1-dimension. Further, must be able to do basic programming in Matlab, Python or Julia (either programming lan",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PH60015&Crsname=電波天文與星際介質專題(一),,,False,物理碩,PH60015,2,不分班,"電波天文與星際介質專題(一)
+INDEPENDENT STUDIES IN RADIO INTERFEROMETRY AND INSTERSTELLAR MEDIUM (I)",3,期,False,50,0,0,50,呂浩宇,"五A,1,B(理SC 2006-3)","['', '', '', '', 'A1B', '', '']",《獨立研究》,[],False
