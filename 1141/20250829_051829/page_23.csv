@@ -1,0 +1,52 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL222&Crsname=歐洲文學：1350-1800,異動,更換時間及教室6/18,True,外文系,DFLL222,2,不分班,"歐洲文學：1350-1800
+EUROPEAN LITERATURE : AFTER 1350-1800",3,期,True,50,0,33,17,沈尚玉,"一5,6,7(文LA 3004)","['567', '', '', '', '', '', '']",《講授類》,"['法國語言、文化與社會學程', '西洋經典文學與文化學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL224&Crsname=英國文學：1660以前,,,True,外文系,DFLL224,2,不分班,"英國文學：1660以前
+ENGLISH LITERATURE : BEFORE 1660",3,期,True,50,0,17,33,范澤凱,"四5,6,7(文LA 3002)","['', '', '', '567', '', '', '']",《講授類》,"['法國語言、文化與社會學程', '西洋經典文學與文化學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL232&Crsname=日文（一）,,,True,外文系,DFLL232,2,不分班,"日文（一）
+JAPANESE(1)",3,期,True,20,2,16,4,森國松江,"三5,6,7(文LA 3013)","['', '', '567', '', '', '', '']","《講授類》
+外文系學生優先選修。本課程限修，於加退選2階段開放選修。",['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL232A&Crsname=日文（一）,,,True,外文系,DFLL232A,2,不分班,"日文（一）
+JAPANESE(1)",3,期,True,20,4,20,0,森國松江,"三2,3,4(文LA 2003)","['', '', '234', '', '', '', '']","《講授類》
+非外文系學生優先選修",['日本研究學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL234&Crsname=西班牙文（一）,,,True,外文系,DFLL234,2,不分班,"西班牙文（一）
+SPANISH(I)",3,期,True,20,1,8,12,李優俐,"三5,6,7(文LA 3014)","['', '', '567', '', '', '', '']","《講授類》
+外文系學生優先選修。本課程限修，於加退選2階段開放選修。",['西洋經典文學與文化學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL234A&Crsname=西班牙文（一）,,,True,外文系,DFLL234A,2,不分班,"西班牙文（一）
+SPANISH(I)",3,期,True,20,2,4,16,李優俐,"三2,3,4(文LA 1002)","['', '', '234', '', '', '', '']","《講授類》
+非外文系學生優先選修",['西洋經典文學與文化學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL236&Crsname=法文（一）,,,True,外文系,DFLL236,2,不分班,"法文（一）
+FRENCH(I)",3,期,True,20,0,20,0,王柔惠,"一2,3,4(文LA 3004)","['234', '', '', '', '', '', '']","《講授類》
+外文系學生優先選修。本課程限修，於加退選2階段開放選修。","['法國語言、文化與社會學程', '西洋經典文學與文化學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL236A&Crsname=法文（一）,,,True,外文系,DFLL236A,2,不分班,"法文（一）
+FRENCH(I)",3,期,True,20,0,20,0,王柔惠,"一5,6,7(文LA 3002)","['567', '', '', '', '', '', '']","《講授類》
+非外文系同學優先選修","['法國語言、文化與社會學程', '西洋經典文學與文化學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL238&Crsname=德文（一）,,,True,外文系,DFLL238,2,不分班,"德文（一）
+GERMAN(I)",3,期,True,20,1,10,10,盧家達,"三5,6,7(文LA 3004)","['', '', '567', '', '', '', '']","《講授類》
+外文系學生優先選修。本課程限修，於加退選2階段開放選修。",['西洋經典文學與文化學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL238A&Crsname=德文（一）,,,True,外文系,DFLL238A,2,不分班,"德文（一）
+GERMAN(I)",3,期,True,20,1,20,0,陳麗雅,"三2,3,4(文LA 1001)","['', '', '234', '', '', '', '']","《講授類》
+非外文系同學優先選修",['西洋經典文學與文化學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL240&Crsname=俄文（一）,,,True,外文系,DFLL240,2,不分班,"俄文（一）
+RUSSIAN(I)",3,期,True,20,1,9,11,米哈伊爾,"一2,3,4(文LA 3015)","['234', '', '', '', '', '', '']",《講授類》,['西洋經典文學與文化學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL303&Crsname=進階英文寫作,,,True,外文系,DFLL303,3,不分班,"進階英文寫作
+ADVANCED ENGLISH WRITING",2,期,True,16,0,16,0,黃心雅,"三2,3,4(文LA 3004)","['', '', '234', '', '', '', '']","《講授類》
+限本系修畢「英文寫作一(一)、一(二)」、「英文寫作二(一)、二(二)」學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL303A&Crsname=進階英文寫作,,,True,外文系,DFLL303A,3,不分班,"進階英文寫作
+ADVANCED ENGLISH WRITING",2,期,True,16,0,16,0,李佳容,"三2,3,4(文LA 3003)","['', '', '234', '', '', '', '']","《講授類》
+限本系修畢「英文寫作一(一)、一(二)」、「英文寫作二(一)、二(二)」學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL303B&Crsname=進階英文寫作,,,True,外文系,DFLL303B,3,不分班,"進階英文寫作
+ADVANCED ENGLISH WRITING",2,期,True,16,1,7,9,徐淑瑛,"三2,3,4(文LA 3002)","['', '', '234', '', '', '', '']","《講授類》
+限本系修畢「英文寫作一(一)、一(二)」、「英文寫作二(一)、二(二)」學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL320&Crsname=英國文學：1800-1900,,,True,外文系,DFLL320,3,不分班,"英國文學：1800-1900
+ENGLISH LITERATURE : 1800-1900",3,期,True,50,0,17,33,李佳容,"四2,3,4(文LA 3001)","['', '', '', '234', '', '', '']",《講授類》,['西洋經典文學與文化學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL322&Crsname=英美詩歌（一）,,,False,外文系,DFLL322,3,不分班,"英美詩歌（一）
+ENGLISH AND AMERICAN POETRY(I)",3,期,False,50,0,14,36,范澤凱,"一5,6,7(文LA 3012)","['567', '', '', '', '', '', '']",《講授類》,['西洋經典文學與文化學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL330&Crsname=英文中譯（一）,,,False,外文系,DFLL330,3,不分班,"英文中譯（一）
+TRANSLATING ENGLISH TEXTS INTO CHINESE (I)",3,期,False,20,1,17,3,林毓凱,"二5,6,7(文LA 2003)","['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL337&Crsname=觀光英語,,,False,外文系,DFLL337,3,不分班,"觀光英語
+TOURISM ENGLISH",3,期,False,50,2,50,0,施智閔,"三5,6,7(海ME 3006)","['', '', '567', '', '', '', '']",《講授類》,"['實用英語跨域學程', '地方敘事與創生學程', '臺灣研究學程', '地方敘事與文化設計微學程', '社區文創微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL340&Crsname=上演歌舞劇,,,False,外文系,DFLL340,3,不分班,"上演歌舞劇
+STAGING A MUSICAL",3,期,False,50,0,30,20,溫惠珍,"四5,6,7(文LA 3003)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DFLL341&Crsname=日文（三）,,,False,外文系,DFLL341,3,不分班,"日文（三）
+JAPANESE(III)",3,期,False,20,2,20,0,森國松江,"一2,3,4(文LA 3013)","['234', '', '', '', '', '', '']",《講授類》,['日本研究學程'],False
