@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON510&Crsname=數理經濟學,,,False,經濟碩,ECON510,1,不分班,"數理經濟學
+MATHEMATICAL ECONOMICS",3,期,True,50,1,29,21,許嘉麟,"三5,6,7(社SS 3002-1)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON611&Crsname=景氣循環理論,,,False,經濟碩,ECON611,2,不分班,"景氣循環理論
+BUSINESS CYCLE THEORY",3,期,False,50,0,8,42,陳冠任,"一8,6,7(社SS 3002-1)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON622&Crsname=財務計量應用,,,False,經濟碩,ECON622,2,不分班,"財務計量應用
+APPLICATIONS OF FINANNCIAL ECONOMETRICS",3,期,False,50,1,15,35,鄭子長,"四8,6,7(社SS 2003-2)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON682A&Crsname=專題研究（三）,,,False,經濟碩,ECON682A,2,不分班,"專題研究（三）
+INDEPENDENT STUDIES(III)",3,期,False,50,0,5,45,童永年,"四8,6,7(社SS 1014)","['', '', '', '678', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON682B&Crsname=專題研究（三）,,,False,經濟碩,ECON682B,2,不分班,"專題研究（三）
+INDEPENDENT STUDIES(III)",3,期,False,50,0,3,47,陳冠任,"四8,6,7(社SS 3002-1)","['', '', '', '678', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON682C&Crsname=專題研究（三）,,,False,經濟碩,ECON682C,2,不分班,"專題研究（三）
+INDEPENDENT STUDIES(III)",3,期,False,50,0,4,46,鄭宜玲,"五8,6,7(社SS 2003-2)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON682D&Crsname=專題研究（三）,,,False,經濟碩,ECON682D,2,不分班,"專題研究（三）
+INDEPENDENT STUDIES(III)",3,期,False,50,0,3,47,李慶男,"三5,6,7(社SS 3002-1)","['', '', '567', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON682E&Crsname=專題研究（三）,,,False,經濟碩,ECON682E,2,不分班,"專題研究（三）
+INDEPENDENT STUDIES(III)",3,期,False,50,0,1,49,許嘉麟,"五8,6,7(社SS 1014)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON682F&Crsname=專題研究（三）,,,False,經濟碩,ECON682F,2,不分班,"專題研究（三）
+INDEPENDENT STUDIES(III)",3,期,False,50,1,0,50,劉楚俊,"一8,6,7(社SS 2003-2)","['678', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON682G&Crsname=專題研究（三）,,,False,經濟碩,ECON682G,2,不分班,"專題研究（三）
+INDEPENDENT STUDIES(III)",3,期,False,50,1,6,44,鄭子長,"二2,3,4(社SS 1014)","['', '234', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ECON688&Crsname=書報討論（一）,異動,更換教師7/31,False,經濟碩,ECON688,2,不分班,"書報討論（一）
+SEMINAR IN ECONOMICS (I)",1,期,False,50,2,22,28,童永年,二6(社SS 3002-1),"['', '6', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE505&Crsname=教育統計學研究,,,False,教育碩,IOE505,0,不分班,"教育統計學研究
+STUDIES IN EDUCATIONAL STATISTICS",3,期,False,50,0,6,44,施慶麟,"三2,3,4(社SS 3006)","['', '', '234', '', '', '', '']",《講授類》,['政經大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE513&Crsname=教育政策分析,,,False,教育碩,IOE513,0,不分班,"教育政策分析
+ANALYSES ON EDUCATIONAL POLICIES",3,期,False,50,1,11,39,林靜慧,"一8,6,7(社SS 2002-1)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE537&Crsname=課程發展與設計,,,False,教育碩,IOE537,0,不分班,"課程發展與設計
+CURRICULUM DEVELOPMENT AND DESIGN",3,期,False,50,0,6,44,周珮儀,"二2,3,4(社SS 2002-2)","['', '234', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE540&Crsname=質性研究法,,,False,教育碩,IOE540,0,不分班,"質性研究法
+QUALITATIVE RESEARCH METHODS",3,期,False,50,1,8,42,莊雪華,"三B,5,6(社SS 2006)","['', '', 'B56', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE548&Crsname=教學設計,,,False,教育碩,IOE548,0,不分班,"教學設計
+INSTRUCTIONAL DESIGN",3,期,False,50,0,9,41,張至慶,"四8,6,7(社SS 2005)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE554&Crsname=專題研討（一）,,,False,教育碩,IOE554,1,不分班,"專題研討（一）
+SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,50,0,15,35,陳菁徽,三7(社SS 2001),"['', '', '7', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE566&Crsname=結構方程模式,,,False,教育碩,IOE566,0,不分班,"結構方程模式
+STRUCTURAL EQUATION MODELS",3,期,False,50,0,3,47,鄭雯,"一2,3,4(社SS 3006)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE575&Crsname=多元文化教育研究,,,False,教育碩,IOE575,0,不分班,"多元文化教育研究
+RESEARCH ON MULTICULTURAL EDUCATION",3,期,False,50,0,5,45,紀博善,"一B,5,6(社SS 2002-2)","['B56', '', '', '', '', '', '']",《講授類》,"['社會情緒學習與內在永續發展微學程', '全球研究學分學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE584&Crsname=永續發展教育研究,,,False,教育碩,IOE584,0,不分班,"永續發展教育研究
+EDUCATION FOR SUSTAINABLE DEVELOPMENT RESEARCH",3,期,False,50,1,4,46,周珮儀,"一2,3,4(社SS 2002-1)","['234', '', '', '', '', '', '']",《講授類》,"['環境教育學程', '社會情緒學習與內在永續發展微學程', '原民文化探索及永續發展學程', 'STREAM永續發展培力微學程']",False
