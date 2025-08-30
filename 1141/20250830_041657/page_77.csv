@@ -1,0 +1,46 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5208&Crsname=希爾伯特空間方法與應用,,,False,電機碩,EE5208,0,不分班,"希爾伯特空間方法與應用
+HILBERT SPACE METHOD AND APPLICATIONS",3,期,False,50,3,6,44,余祥華,"四2,3,4(工EC 7040)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5209&Crsname=非線性系統,,,False,電機碩,EE5209,0,不分班,"非線性系統
+NONLINEAR SYSTEMS",3,期,False,50,1,1,49,李廸章,"二2,3,4(工EC 2010)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5224&Crsname=線性系統專題,異動,更換時間8/18,False,電機碩,EE5224,0,不分班,"線性系統專題
+SPECIAL TOPICS IN LINEAR SYSTEM",3,期,False,50,4,0,50,康斯証,"四C,D,E(工EC 8037)","['', '', '', 'CDE', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5227&Crsname=智慧型機器人專題（一）,,,False,電機碩,EE5227,0,不分班,"智慧型機器人專題（一）
+INDEPENDENT STUDIES IN INTELLIGENT ROBOT PROJECT (I)",3,期,False,50,0,4,46,黃國勝,"二C,D,E(工EC 8037)","['', 'CDE', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5230&Crsname=智慧型控制,,,False,電機碩,EE5230,0,不分班,"智慧型控制
+INTELLIGENT CONTROL",3,期,False,50,3,6,44,蔡舜宏,"一2,3,4(工EC 2010)","['234', '', '', '', '', '', '']","《講授類》
+與緯創AI產碩專班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5231&Crsname=智慧型控制研究專題,,,False,電機碩,EE5231,0,不分班,"智慧型控制研究專題
+INDEPENDENT STUDIES IN INTELLIGENT CONTROL",3,期,False,50,2,4,46,蔡舜宏,"一5,6,7(工EC 6015-2)","['567', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5232&Crsname=圖型識別,,,False,電機碩,EE5232,0,不分班,"圖型識別
+PATTERN RECOGNITION",3,期,False,50,4,6,44,蔡舜宏,"五2,3,4(工EC 6016)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5308&Crsname=車載行動網路專題,,,False,電機碩,EE5308,0,不分班,"車載行動網路專題
+SPECIAL TOPICS ON VEHICULAR AD-HOC NETWORKS",3,期,False,50,1,4,46,周孜燦,"五8,6,7(工EC 7015-2)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5310&Crsname=計算機網路,異動,更動教師名稱8/8,False,電機碩,EE5310,0,不分班,"計算機網路
+COMPUTER NETWORK",3,期,False,50,2,24,26,待聘,"三5,6,7(工EC 3012)","['', '', '567', '', '', '', '']","《講授類》
+開放大三、大四學生選修","['軟體工程學程', '永續能源學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5332&Crsname=軟性計算,,,False,電機碩,EE5332,0,不分班,"軟性計算
+SOFT COMPUTING",3,期,False,50,3,19,31,黃國勝,"二3,4(工EC 3009) 三4(工EC 3009)","['', '34', '4', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5336&Crsname=賽局理論與應用,,,False,電機碩,EE5336,0,不分班,"賽局理論與應用
+GAME THEORY AND APPLICATIONS",3,期,False,50,5,47,3,周孜燦,"四8,6,7(工EC 3013)","['', '', '', '678', '', '', '']",《講授類》,['無人載具學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5340&Crsname=視覺辨識專題,,,False,電機碩,EE5340,0,不分班,"視覺辨識專題
+INDEPENDENT STUDIES IN VISUAL RECOGNITION",3,期,False,50,0,4,46,魏家博,"二2,3,4(工EC 8037)","['', '234', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5341&Crsname=組合數學,,,False,電機碩,EE5341,0,不分班,"組合數學
+INTRODUCTION TO COMBINATORIAL MATHEMATICS",3,期,False,50,1,2,48,黃宗傳,"四2,3,4(工EC 3013)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5406&Crsname=配電管理系統專題,,,False,電機碩,EE5406,0,不分班,"配電管理系統專題
+SPECIAL TOPICS IN DISTRIBUTION SYSTEM MANAGEMENT",3,期,False,50,1,7,43,盧展南,"五8,6,7(工EC 6015-2)","['', '', '', '', '678', '', '']",《獨立研究》,['海事工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5410&Crsname=電力系統專題,,,False,電機碩,EE5410,0,不分班,"電力系統專題
+SPECIAL TOPICS IN POWER SYSTEMS",3,期,False,50,0,1,49,蘇健翔,"五C,D,E(工EC 7040)","['', '', '', '', 'CDE', '', '']",《獨立研究》,['海事工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5413&Crsname=電力系統運轉,,,False,電機碩,EE5413,0,不分班,"電力系統運轉
+POWER SYSTEM OPERATIONS",3,期,False,50,0,3,47,蘇健翔,"四8,6,7(工EC 7040)","['', '', '', '678', '', '', '']","《講授類》
+與電機電力學程併班上課",['海事工程學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5416&Crsname=電力電子轉換器,,,False,電機碩,EE5416,0,不分班,"電力電子轉換器
+POWER ELECTRONICS CONVERTER",3,期,False,50,1,25,25,謝耀慶,"五2,3,4(工EC 3010)","['', '', '', '', '234', '', '']","《講授類》
+與電機電力學程併班上課",['海事工程學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5417&Crsname=電力潮流分析,,,False,電機碩,EE5417,0,不分班,"電力潮流分析
+LOAD FLOW ANALYSIS",3,期,False,50,1,17,33,艾慕明,"四8,6,7(工EC 6010-2)","['', '', '', '678', '', '', '']","《講授類》
+與電機電力學程併班上課",['海事工程學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5418&Crsname=電子安定器設計專題,,,False,電機碩,EE5418,0,不分班,"電子安定器設計專題
+SPECIAL TOPICS IN DESIGN OF ELECTRONICS BALLASTA",3,期,False,50,0,8,42,謝耀慶,"一C,D,E(通GE 2008)","['CDE', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5426&Crsname=智慧電網專題,,,False,電機碩,EE5426,0,不分班,"智慧電網專題
+INDEPENDENT STUDIES IN SMART GRIDS",3,期,False,50,0,5,45,鄧人豪,"四8,6,7(工EC 8023-1)","['', '', '', '678', '', '', '']",《獨立研究》,['海事工程學程'],False
