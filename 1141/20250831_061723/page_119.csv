@@ -1,0 +1,56 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAMA968&Crsname=社會行銷,,,False,公事碩專,PAMA968,2,不分班,"社會行銷
+SOCIAL MARKETING",2,期,False,40,1,40,0,蔡錦昌,"四C,D(管CM 4100)","['', '', '', 'CD', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM901&Crsname=碩士論文,,,False,人管碩專,HRM901,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,0,26,24,指導教授,"日C,D,E()","['', '', '', '', '', '', 'CDE']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM911&Crsname=組織理論與管理,,,False,人管碩專,HRM911,0,不分班,"組織理論與管理
+ORGANIZATION THEORY AND MANAGEMENT",3,期,False,28,1,14,14,陳旻男,"四C,D,E(管CM 3043)","['', '', '', 'CDE', '', '', '']","《講授類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM914&Crsname=人力資源研究方法,,,False,人管碩專,HRM914,0,不分班,"人力資源研究方法
+RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT",3,期,False,50,8,34,16,紀乃文,"二A,B,5(管CM 3044)","['', 'AB5', '', '', '', '', '']","《講授類》
+限暑期先修課程者選課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM953&Crsname=人力發展管理,,,False,人管碩專,HRM953,0,不分班,"人力發展管理
+HUMAN RESOURCE DEVELOPMENT MANAGEMENT",3,期,False,28,1,21,7,謝慧賢,"三D,E,F(管CM 3043)","['', '', 'DEF', '', '', '', '']","《講授類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM963&Crsname=績效管理與人才發展,異動,調整名額8/29,False,人管碩專,HRM963,0,不分班,"績效管理與人才發展
+PERFORMANCE MANAGEMENT AND TALENT DEVELOPMENT",3,期,False,31,5,27,4,王豫萱,"日2,3,4(管CM 3043)","['', '', '', '', '', '', '234']","《講授類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM976&Crsname=人工智慧在測驗下的相關應用與發展,異動,調整名額8/29,False,人管碩專,HRM976,0,不分班,"人工智慧在測驗下的相關應用與發展
+RELEVANT APPLICATIONS AND DEVELOPMENT OF ARTIFICIAL INTELLIGENCE IN MEASUREMENT",3,期,False,16,6,14,2,鄭怡玲,"六2,3,4(管CM 3043)","['', '', '', '', '', '234', '']","《研討類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM996&Crsname=薪酬管理,異動,確認教師8/11,False,人管碩專,HRM996,0,不分班,"薪酬管理
+COMPENSATION MANAGEMENT",3,期,False,28,8,27,1,劉念琪,"六8,6,7(管CM 3043)","['', '', '', '', '', '678', '']","《講授類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ICM905&Crsname=媒體，文化，與社會,,,False,行傳碩專,ICM905,0,不分班,"媒體，文化，與社會
+MEDIA,CULTURE,AND SOCIETY",3,期,False,50,1,14,36,譚躍,"二C,D,E(管CM 2029)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ICM909&Crsname=碩士論文,,,False,行傳碩專,ICM909,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,1,15,35,指導教授,"六C,D,E(管CM 2032)","['', '', '', '', '', 'CDE', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ICM912&Crsname=企業傳播與實務,,,False,行傳碩專,ICM912,0,不分班,"企業傳播與實務
+CORPORATE COMMUNICATION AND PRACTICE",1,期,False,50,1,9,41,王紹蓉,六6(管CM 2032),"['', '', '', '', '', '6', '']","《講授類》
+限行傳所碩專班學生選修；英語授課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS983&Crsname=電子商務,,,False,資電碩專,MIS983,1,不分班,"電子商務
+ELECTRONIC COMMERCE",3,期,True,50,0,37,13,邱兆民,"二C,D,E(管CM 2016)","['', 'CDE', '', '', '', '', '']","《講授類》
+限資電碩專學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS984&Crsname=統計基礎及R語言應用,,,False,資電碩專,MIS984,1,不分班,"統計基礎及R語言應用
+INTRODUCTION TO STATISTICS: WITH APPLICATIONS IN R",3,期,True,50,0,37,13,李捷,"三D,E,F(管CM 2016)","['', '', 'DEF', '', '', '', '']","《講授類》
+限資電碩專學生選修(第一次上課請以課程公告為準)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS986&Crsname=碩士論文（一）,,,False,資電碩專,MIS986,2,不分班,"碩士論文（一）
+MASTER THESIS（I）",3,期,True,50,0,29,21,指導教授,"日1,2,3()","['', '', '', '', '', '', '123']","《講授類》
+限資電碩專學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS989&Crsname=金融科技,,,False,資電碩專,MIS989,2,不分班,"金融科技
+FINTECH",3,期,True,50,1,29,21,楊淯程,"四C,D,E(管CM 2016)","['', '', '', 'CDE', '', '', '']","《講授類》
+限資電碩專學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS993&Crsname=商業分析專題演講,,,False,資電碩專,MIS993,1,不分班,"商業分析專題演講
+SEMINAR IN BUSINESS ANALYTICS",3,期,True,50,0,37,13,康藝晃,"日C,D,E()","['', '', '', '', '', '', 'CDE']","《演講/參訪》
+限資電碩專學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MIS994&Crsname=管理資訊系統,,,False,資電碩專,MIS994,1,不分班,"管理資訊系統
+MANAGEMENT IFFORMATION SYSTEM",3,期,True,50,0,37,13,林東清,"一C,D,E(管CM 2016)","['CDE', '', '', '', '', '', '']","《講授類》
+限資電碩專學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRMA901&Crsname=碩士論文,,,False,人亞碩專,HRMA901,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,0,13,37,指導教授,"日C,D,E()","['', '', '', '', '', '', 'CDE']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRMA911&Crsname=組織理論與管理,,,False,人亞碩專,HRMA911,0,不分班,"組織理論與管理
+ORGANIZATION THEORY & MANAGEMENT",3,期,False,50,1,7,43,葉致微,"四C,D,E(管CM 1036)","['', '', '', 'CDE', '', '', '']","《講授類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRMA912&Crsname=組織行為,,,False,人亞碩專,HRMA912,0,不分班,"組織行為
+ORGANIZATIONAL BEHAVIOR",3,期,False,50,1,4,46,"王豫萱,鄭怡玲","三D,E,F(管CM 4112)","['', '', 'DEF', '', '', '', '']","《講授類》
+限人管所修",[],False
