@@ -1,0 +1,44 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM524&Crsname=環境心理學,,,False,公事碩,PAM524,0,不分班,"環境心理學
+ENVIRONMENTAL PSYCHOLOGY",2,期,False,50,0,2,48,林新沛,"四6,7(管CM 2025)","['', '', '', '67', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM542&Crsname=媒體與公共事務,,,False,公事碩,PAM542,0,不分班,"媒體與公共事務
+MEDIA AND PUBLIC AFFAIRS",2,期,False,50,2,15,35,崔可玫,"三2,3(管CM 1020)","['', '', '23', '', '', '', '']",《講授類》,"['企業社會責任學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '地方創生與區域治理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM587&Crsname=社會行銷,,,False,公事碩,PAM587,0,不分班,"社會行銷
+SOCIAL MARKETING",2,期,False,50,5,9,41,蔡錦昌,"五3,4(管CM 1020)","['', '', '', '', '34', '', '']",《講授類》,"['非營利事業及社會創新微學程', '企業社會責任學程', '公共事務與企業社會責任微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM590&Crsname=非營利組織管理研討,,,False,公事碩,PAM590,0,不分班,"非營利組織管理研討
+SEMINAR IN NONPROFIT ORGANIZATION MANAGEMENT",2,期,False,50,1,15,35,謝政勳,"二3,4(管CM 1020)","['', '34', '', '', '', '', '']",《研討類》,"['非營利事業及社會創新微學程', '企業社會責任學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '地方創生與區域治理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM599&Crsname=新興公共議題研討,,,False,公事碩,PAM599,0,不分班,"新興公共議題研討
+SEMINAR IN EMERGING PUBLIC ISSUES",2,期,False,50,2,6,44,郭瑞坤,,"['', '', '', '', '', '34B56789', '']","《研討類》
+主題：地方創生與區域治理（國內）","['非營利事業及社會創新微學程', '地方創生與永續發展整合學程', '淨零轉型微學程', '地方創生與區域治理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM606&Crsname=性別化創新,,,False,公事碩,PAM606,0,不分班,"性別化創新
+GENDERED INNOVATIONS",1,期,False,50,1,2,48,彭渰雯,四3(管CM 1035),"['', '', '', '3', '', '', '']",《講授類》,"['性別研究學程', '性別與管理微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM608&Crsname=都市規劃設計,,,False,公事碩,PAM608,0,不分班,"都市規劃設計
+URBAN PLANNING AND DESIGN",2,期,False,50,0,4,46,謝旭昇,"五3,4(管CM 1035)","['', '', '', '', '34', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM613&Crsname=永續報告書寫作,異動,更換部份時間7/9,False,公事碩,PAM613,0,不分班,"永續報告書寫作
+WRITING OF SUSTAINABILITY REPORT",2,期,False,50,4,47,3,林新沛,,"['', '', '', '', '', '234B5678', '']",《講授類》,"['企業社會責任學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '淨零轉型微學程', '淨零轉型與永續發展整合學程', '永續管理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM618&Crsname=服務管理,,,False,公事碩,PAM618,0,不分班,"服務管理
+SERVICE MANAGEMENT",2,期,False,12,2,7,5,吳偉寧,"二6,7(管CM 1020)","['', '67', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM619&Crsname=後成長:探討永續之總體路徑,,,False,公事碩,PAM619,0,不分班,"後成長:探討永續之總體路徑
+POST-GROWTH: A PATH TO SUSTAINABLE DEVELOPMENT",3,期,False,50,1,11,39,張瓊婷,"二8,6,7(管CM 1035)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM501&Crsname=組織理論與管理,,,False,人管碩,HRM501,1,不分班,"組織理論與管理
+ORGANIZATION THEORY & MANAGEMENT",3,期,True,50,0,24,26,何佳澔,"四8,6,7(管CM 3035)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM502&Crsname=組織行為,,,False,人管碩,HRM502,1,不分班,"組織行為
+ORGANIZATIONAL BEHAVIOR",3,期,True,35,0,25,10,"王豫萱,鄭怡玲","三5,6,7(管CM 1036)","['', '', '567', '', '', '', '']",《講授類》,['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM503&Crsname=人力資源管理,,,False,人管碩,HRM503,1,不分班,"人力資源管理
+HUMAN RESOURCE MANAGEMENT",3,期,True,35,0,26,9,紀乃文,"二8,6,7(管CM 1036)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM504&Crsname=人力資源研究方法,,,False,人管碩,HRM504,1,不分班,"人力資源研究方法
+RESEARCH METHODOLOGY IN HUMAN RESOURCE MANAGEMENT",3,期,True,30,0,23,7,紀乃文,"二A,B,5(管CM 3044)","['', 'AB5', '', '', '', '', '']","《講授類》
+限暑期先修課程者選課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM540&Crsname=創意與創新管理,,,False,人管碩,HRM540,0,不分班,"創意與創新管理
+CREATIVITY AND INNOVATION MANAGEMENT",3,期,False,50,7,29,21,葉致微,"四2,3,4(管CM 3038)","['', '', '', '234', '', '', '']",《講授類》,['音樂藝術管理與行銷學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=HRM674&Crsname=應用統計與資料分析,,,False,人管碩,HRM674,0,不分班,"應用統計與資料分析
+APPLIED STATISTICS AND DATA ANALYSIS",3,期,False,25,9,7,18,鄭怡玲,"二2,3,4(管CM 2023)","['', '234', '', '', '', '', '']","《講授類》
+限人管所修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ICM507&Crsname=應用傳播統計學,,,False,行銷傳播碩,ICM507,0,不分班,"應用傳播統計學
+APPLIED STATISTICS IN COMMUNICATIONS",3,期,False,50,1,18,32,鄭安授,"一8,6,7(管CM 2023)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ICM532&Crsname=電腦中介傳播,,,False,行銷傳播碩,ICM532,0,不分班,"電腦中介傳播
+COMPUTER-MEDIATED COMMUNICATION",3,期,False,50,0,20,30,王紹蓉,"四5,6,7(管CM 2032)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ICM541&Crsname=品牌行銷,,,False,行銷傳播碩,ICM541,0,不分班,"品牌行銷
+BRANDING",3,期,False,50,4,46,4,李雅靖,"三2,3,4(管CM 4112)","['', '', '234', '', '', '', '']",《講授類》,"['行銷管理學程', '科技創新與服務業管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=ICM548&Crsname=行銷管理,,,False,行銷傳播碩,ICM548,0,不分班,"行銷管理
+MARKETING MANAGEMENT",3,期,False,50,5,40,10,張榮華,"一C,D,E(管CM 2037)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
