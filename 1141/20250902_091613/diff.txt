@@ -1,0 +1,32 @@
+Item root[182]['classTime'][4] added to iterable.
+Item root[1417] added to iterable.
+Item root[1497] added to iterable.
+Item root[1827] added to iterable.
+Item root[182]['classTime'][4] removed from iterable.
+Type of root[182]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[182]['changeDescription'] changed from NoneType to str and value changed from None to "更正時間9/2".
+Type of root[415]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[415]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/2".
+Type of root[1006]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1006]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額及教室9/2".
+Value of root[158]['change'] changed from "新增" to "異動".
+Value of root[158]['changeDescription'] changed from "6/27" to "調升名額9/2".
+Value of root[158]['restrict'] changed from 40 to 45.
+Value of root[158]['remaining'] changed from 0 to 5.
+Value of root[168]['change'] changed from "新增" to "異動".
+Value of root[168]['changeDescription'] changed from "7/8" to "調升名額9/2".
+Value of root[168]['restrict'] changed from 40 to 50.
+Value of root[168]['remaining'] changed from 0 to 10.
+Value of root[182]['description'] changed from "《講授類》
+1.開課單位及教師：臺灣大學李宏毅老師。 2.上課時間：週五14:20-17:20，實際上課週次為9/12、9/19、9/26、10/17、10/24、10/31、11/14、11/28、12/5、12/12。" to "《講授類》
+1.開課單位及教師：臺灣大學李宏毅老師。 2.上課時間：週五14:20-17:20，實際上課週次為9/12、9/19、9/26、10/17、10/24、10/31、11/14、11/28、12/12、12/19。".
+Value of root[415]['room'] changed from "五5,6,7(文LA 5004)" to "五5,6,7(文LA 2004)".
+Value of root[522]['selected'] changed from 50 to 49.
+Value of root[522]['remaining'] changed from 0 to 1.
+Value of root[528]['selected'] changed from 50 to 49.
+Value of root[528]['remaining'] changed from 0 to 1.
+Value of root[533]['selected'] changed from 50 to 49.
+Value of root[533]['remaining'] changed from 0 to 1.
+Value of root[1006]['restrict'] changed from 50 to 60.
+Value of root[1006]['remaining'] changed from 0 to 10.
+Value of root[1837]['changeDescription'] changed from "調整合授教師8/19" to "確認教師9/2".
