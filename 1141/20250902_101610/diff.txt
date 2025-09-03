@@ -1,6 +1,0 @@
-Value of root[186]['change'] changed from "新增" to "異動".
-Value of root[186]['changeDescription'] changed from "6/26" to "調升名額9/2".
-Value of root[186]['restrict'] changed from 10 to 15.
-Value of root[186]['remaining'] changed from 0 to 5.
-Value of root[1006]['room'] changed from "五2,3,4(管CM 2015)" to "五2,3,4(管CM 4112)".
-Value of root[1840]['teacher'] changed from "吳藺芝,待聘,蕭珮婕" to "吳藺芝,蕭珮婕,鄭義".
