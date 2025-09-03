@@ -1,7 +1,0 @@
-Value of root[189]['select'] changed from 0 to 1.
-Value of root[339]['select'] changed from 5 to 6.
-Value of root[509]['select'] changed from 4 to 3.
-Value of root[532]['selected'] changed from 43 to 44.
-Value of root[532]['remaining'] changed from 7 to 6.
-Value of root[715]['select'] changed from 4 to 5.
-Value of root[1654]['changeDescription'] changed from "更換教室9/1" to "更換教室9/3".
