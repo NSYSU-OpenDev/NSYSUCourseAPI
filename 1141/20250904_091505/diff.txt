@@ -1,0 +1,8 @@
+Type of root[925]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[925]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/4".
+Type of root[992]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[992]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間9/4".
+Value of root[510]['selected'] changed from 17 to 18.
+Value of root[510]['remaining'] changed from 33 to 32.
+Value of root[925]['room'] changed from "一5,6,7(圖IL PC 01)" to "一5,6,7(工EC 2011)".
+Value of root[992]['room'] changed from "一1() 二1() 三1()" to "一1() 二1() 四1()".
