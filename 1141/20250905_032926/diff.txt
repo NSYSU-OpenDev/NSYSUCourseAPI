@@ -1,0 +1,15 @@
+Value of root[1070]['selected'] changed from 34 to 33.
+Value of root[1070]['remaining'] changed from 26 to 27.
+Value of root[1071]['selected'] changed from 38 to 37.
+Value of root[1071]['remaining'] changed from 22 to 23.
+Value of root[1072]['selected'] changed from 37 to 36.
+Value of root[1072]['remaining'] changed from 13 to 14.
+Value of root[1073]['selected'] changed from 39 to 38.
+Value of root[1073]['remaining'] changed from 21 to 22.
+Value of root[1076]['selected'] changed from 41 to 40.
+Value of root[1076]['remaining'] changed from 19 to 20.
+Value of root[1077]['selected'] changed from 35 to 34.
+Value of root[1077]['remaining'] changed from 25 to 26.
+Value of root[1115]['change'] changed from "新增" to "異動".
+Value of root[1115]['changeDescription'] changed from "8/6" to "更換教室9/5".
+Value of root[1115]['room'] changed from "三5,6,7(海MA 1020)" to "三5,6,7(海MB 1005)".
