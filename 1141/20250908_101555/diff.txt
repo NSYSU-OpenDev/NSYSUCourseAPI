@@ -1,3 +1,0 @@
-Item root[1415] added to iterable.
-Value of root[1680]['selected'] changed from 78 to 77.
-Value of root[1680]['remaining'] changed from 2 to 3.

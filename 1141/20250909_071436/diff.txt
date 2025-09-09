@@ -1,0 +1,25 @@
+Value of root[172]['change'] changed from "新增" to "異動".
+Value of root[172]['changeDescription'] changed from "6/27" to "修正備註內容9/9".
+Value of root[172]['description'] changed from "《講授類》
+1.開課單位及教師：臺灣大學李宏毅老師。 2.上課時間：週五14:20-17:20，實際上課週次為9/12、9/19、9/26、10/17、10/24、10/31、11/14、11/28、12/5、12/12。" to "《講授類》
+1.開課單位及教師：臺灣大學李宏毅老師。 2.上課時間：週五14:20-17:20，實際上課週次為9/12、9/19、9/26、10/17、10/24、10/31、11/14、11/28、12/12、12/19。3.上課連結：https://www.youtube.com/live/KdWbpl9-66k".
+Value of root[183]['changeDescription'] changed from "更正時間9/2" to "更正備註內容9/9".
+Value of root[183]['description'] changed from "《講授類》
+1.開課單位及教師：臺灣大學李宏毅老師。 2.上課時間：週五14:20-17:20，實際上課週次為9/12、9/19、9/26、10/17、10/24、10/31、11/14、11/28、12/12、12/19。" to "《講授類》
+1.開課單位及教師：臺灣大學李宏毅老師。 2.上課時間：週五14:20-17:20，實際上課週次為9/12、9/19、9/26、10/17、10/24、10/31、11/14、11/28、12/12、12/19。3.上課連結：https://www.youtube.com/live/KdWbpl9-66k".
+Value of root[184]['description'] changed from "《講授類》
+1.開課單位及教師：台灣大學張智星老師。 2.此為同步遠距課程，遠距上課連結 https://ntucc.webex.com/meet/rogerjang 。 3.上課時間：星期三9:10-12:10。 4.先修課程要求：請詳閱課程大綱。 5.同步考試時間：(實體)2025 /12/17 9:10~12:10" to "《講授類》
+1.開課單位及教師：台灣大學張智星老師。 2.此為同步遠距課程，遠距上課連結 https://ntucc.webex.com/meet/rogerjang 。 3.上課時間：星期三9:10-12:10。 4.先修課程要求：請詳閱課程大綱。 5.同步考試時間：(實體)2025 /12/17 9:10~12:10。6.第一堂課連結：https://meet.google.com/kwq-ytep-gsa".
+Value of root[186]['description'] changed from "《講授類》
+1.開課單位及教師：清華大學高宏宇老師。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（https://cool.ntu.edu.tw/courses/41436/modules）。 3.上課時間：星期二 13:20~15:10 及星期四 13:20-14:10。 4.建議學生須先具Python程式語言的先備知識。第一堂課程錄影連結：https://www.youtube.com/live/X7XJcm9wfFA" to "《講授類》
+1.開課單位及教師：清華大學高宏宇老師。 2.此為同步遠距課程，請使用台大數位學習平台NTUCOOL（https://cool.ntu.edu.tw/courses/41436/modules）。 3.上課時間：星期二 13:20~15:10 及星期四 13:20-14:10。 4.建議學生須先具Python程式語言的先備知識。第一堂課程：https://github.com/IKMLab/NTHU_Natural_Language_Processing/blob/main/README.md".
+Value of root[2282]['selected'] changed from 11 to 10.
+Value of root[2282]['remaining'] changed from 19 to 20.
+Value of root[2371]['restrict'] changed from 38 to 36.
+Value of root[2371]['remaining'] changed from 7 to 5.
+Value of root[2586]['changeDescription'] changed from "更換時間及教室8/11" to "更換教室9/9".
+Value of root[2586]['room'] changed from "二2,3,4(社SS 3010-2)" to "二2,3,4(社SS 3010-1)".
+Value of root[2827]['restrict'] changed from 38 to 36.
+Value of root[2827]['remaining'] changed from 7 to 5.
+Value of root[2845]['changeDescription'] changed from "更換時間及教室8/11" to "更換教室9/9".
+Value of root[2845]['room'] changed from "二2,3,4(社SS 3010-2)" to "二2,3,4(社SS 3010-1)".
