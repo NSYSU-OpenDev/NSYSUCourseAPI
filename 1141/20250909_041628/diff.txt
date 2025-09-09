@@ -1,0 +1,86 @@
+Type of root[1053]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1053]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[1062]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1062]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[1955]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1955]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師9/9".
+Type of root[1966]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1966]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[1968]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1968]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[1971]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1971]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[1977]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1977]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師9/9".
+Type of root[1980]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1980]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[1981]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1981]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[1982]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1982]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[2563]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2563]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師9/9".
+Type of root[2567]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2567]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[2569]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2569]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[2571]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2571]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師9/9".
+Type of root[2573]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2573]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[2574]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2574]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Type of root[2575]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2575]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/9".
+Value of root[194]['selected'] changed from 47 to 46.
+Value of root[194]['remaining'] changed from 3 to 4.
+Value of root[226]['selected'] changed from 11 to 12.
+Value of root[226]['remaining'] changed from -1 to -2.
+Value of root[508]['selected'] changed from 18 to 20.
+Value of root[508]['remaining'] changed from 32 to 30.
+Value of root[871]['selected'] changed from 32 to 33.
+Value of root[871]['remaining'] changed from 18 to 17.
+Value of root[900]['room'] changed from "二2,3,4(工MS 4023)" to "二2,3,4(工EC 1001)".
+Value of root[901]['room'] changed from "二2,3,4(工MS 4023)" to "二2,3,4(工EC 1001)".
+Value of root[918]['room'] changed from "一2,3,4(工MS 4023)" to "一2,3,4(工MS 4019)".
+Value of root[1053]['teacher'] changed from "劉商隱,廖志中,廖睿妘,張桂祥,張鈞涵,李景欽,李澤民,李益銘,林梅芳,林秀瑾,水晶,王亮鈞,翁靖如,鄭源斌" to "廖志中,廖睿妘,張桂祥,李景欽,李益銘,林梅芳,林秀瑾,王亮鈞,翁靖如,邱素芬".
+Value of root[1062]['teacher'] changed from "劉商隱,廖志中,廖睿妘,張桂祥,張鈞涵,李景欽,李澤民,李益銘,林梅芳,林秀瑾,水晶,王亮鈞,翁靖如,鄭源斌" to "廖睿妘,張桂祥,李澤民,李益銘,林梅芳,林秀瑾,水晶,王亮鈞,鄭源斌".
+Value of root[1091]['selected'] changed from 47 to 46.
+Value of root[1091]['remaining'] changed from 3 to 4.
+Value of root[1092]['selected'] changed from 42 to 41.
+Value of root[1092]['remaining'] changed from 8 to 9.
+Value of root[1094]['selected'] changed from 37 to 36.
+Value of root[1094]['remaining'] changed from 3 to 4.
+Value of root[1096]['selected'] changed from 42 to 41.
+Value of root[1096]['remaining'] changed from 8 to 9.
+Value of root[1715]['room'] changed from "一8,6,7(工MS 4025)" to "一8,6,7(工MS 4019)".
+Value of root[1817]['selected'] changed from 36 to 35.
+Value of root[1817]['remaining'] changed from 14 to 15.
+Value of root[1843]['selected'] changed from 18 to 17.
+Value of root[1843]['remaining'] changed from 32 to 33.
+Value of root[1955]['teacher'] changed from "林梅芳" to "林梅芳,水晶".
+Value of root[1966]['teacher'] changed from "廖睿妘,李景欽,李澤民,王亮鈞" to "李景欽,李澤民,王亮鈞".
+Value of root[1968]['teacher'] changed from "劉商隱,張桂祥,林梅芳,林秀瑾,樊同雲,水晶" to "劉商隱,張桂祥,林秀瑾,樊同雲".
+Value of root[1971]['teacher'] changed from "廖志中,李益銘,翁靖如,鄭源斌" to "廖志中,李益銘,鄭源斌".
+Value of root[1977]['teacher'] changed from "林梅芳" to "林梅芳,水晶".
+Value of root[1980]['teacher'] changed from "廖睿妘,李景欽,李澤民,王亮鈞" to "李景欽,李澤民".
+Value of root[1981]['teacher'] changed from "劉商隱,張桂祥,林梅芳,林秀瑾,樊同雲,水晶,陳德豪" to "劉商隱,樊同雲,陳德豪".
+Value of root[1982]['teacher'] changed from "廖志中,李益銘,翁靖如,鄭源斌" to "翁靖如,鄭源斌".
+Value of root[2323]['selected'] changed from 60 to 59.
+Value of root[2323]['remaining'] changed from 10 to 11.
+Value of root[2324]['selected'] changed from 59 to 58.
+Value of root[2324]['remaining'] changed from 11 to 12.
+Value of root[2325]['selected'] changed from 59 to 58.
+Value of root[2325]['remaining'] changed from 11 to 12.
+Value of root[2563]['teacher'] changed from "林梅芳" to "林梅芳,水晶".
+Value of root[2567]['teacher'] changed from "廖志中,李益銘,翁靖如,鄭源斌" to "鄭源斌".
+Value of root[2569]['teacher'] changed from "廖睿妘,李景欽,李澤民,王亮鈞" to "王亮鈞".
+Value of root[2571]['teacher'] changed from "林梅芳" to "林梅芳,水晶".
+Value of root[2573]['teacher'] changed from "劉商隱,張桂祥,林梅芳,林秀瑾,水晶" to "劉商隱".
+Value of root[2574]['teacher'] changed from "廖志中,李益銘,翁靖如,鄭源斌" to "翁靖如".
+Value of root[2575]['teacher'] changed from "廖睿妘,李景欽,李澤民,王亮鈞" to "李澤民".
+Value of root[2688]['room'] changed from "一8,6,7(工MS 4025)" to "一8,6,7(工MS 4019)".
+Value of root[2721]['selected'] changed from 36 to 35.
+Value of root[2721]['remaining'] changed from 14 to 15.
+Value of root[2722]['selected'] changed from 36 to 35.
+Value of root[2722]['remaining'] changed from 14 to 15.
