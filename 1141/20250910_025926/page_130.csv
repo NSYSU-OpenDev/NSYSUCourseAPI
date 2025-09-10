@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IGPM705&Crsname=專題研究（一）,,,False,海科全英博,IGPM705,0,不分班,"專題研究（一）
+INDEPENDENT STUDY (I)",3,期,False,50,1,8,42,"張桂祥,王敬湧","二1,2,3(各研究室)","['', '123', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IGPM707&Crsname=進階浮游植物生態學研究（一）,,,False,海科全英博,IGPM707,0,不分班,"進階浮游植物生態學研究（一）
+ADVANCED STUDIES IN PHYTOPLANKTON ECOLOGY (I)",2,期,False,50,0,3,47,張桂祥,"一3,4(海MB 1005)","['34', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IGPM709&Crsname=流體中的海洋生物,,,False,海科全英博,IGPM709,0,不分班,"流體中的海洋生物
+MARINE LIFE IN MOVING FLUIDS",3,期,False,50,0,1,49,王敬湧,"三2,3,4(海MB 1005)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS701&Crsname=政治學方法論,異動,更換教室9/9,False,政治博,IPS701,1,不分班,"政治學方法論
+METHODOLOGY OF POLITICAL SCIENCE",3,期,True,50,1,5,45,"劉正山,方志恒","二2,3,4(社SS 3010-1)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE714&Crsname=教育統計學研究,,,False,教育博,IOE714,0,不分班,"教育統計學研究
+STUDIES IN EDUCATIONAL STATISTICS",3,期,False,50,1,5,45,施慶麟,"三2,3,4(社SS 3006)","['', '', '234', '', '', '', '']",《講授類》,['政經大數據分析微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE719&Crsname=教育政策分析,,,False,教育博,IOE719,0,不分班,"教育政策分析
+ANALYSES ON EDUCATIONAL POLICIES",3,期,False,50,0,1,49,林靜慧,"一8,6,7(社SS 2002-1)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE732&Crsname=發展心理學研究,異動,更換教室9/9,False,教育博,IOE732,0,不分班,"發展心理學研究
+RESEARCH IN DEVELOPMENTAL PSYCHOLOGY",3,期,False,20,0,0,20,宋呈澔,"二2,3,4(社SS 2002-1)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE735&Crsname=質性研究法,,,False,教育博,IOE735,0,不分班,"質性研究法
+QUALITATIVE RESEARCH METHOD",3,期,False,50,1,7,43,莊雪華,"三B,5,6(社SS 2006)","['', '', 'B56', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE740&Crsname=教學設計,,,False,教育博,IOE740,0,不分班,"教學設計
+INSTRUCTIONAL DESIGN",3,期,False,30,0,2,28,張至慶,"四8,6,7(社SS 2005)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE749&Crsname=專題研討（一）,,,False,教育博,IOE749,1,不分班,"專題研討（一）
+SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,50,0,16,34,陳菁徽,三7(社SS 2001),"['', '', '7', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE755&Crsname=結構方程模式,,,False,教育博,IOE755,0,不分班,"結構方程模式
+STRUCTURAL EQUATION MODELS",3,期,False,50,0,8,42,鄭雯,"一2,3,4(社SS 3006)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE765&Crsname=多元文化教育研究,,,False,教育博,IOE765,0,不分班,"多元文化教育研究
+RESEARCH ON MULTICULTURAL EDUCATION",3,期,False,50,0,1,49,紀博善,"一B,5,6(社SS 2002-2)","['B56', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE770&Crsname=課程發展與設計,異動,更換教室9/9,False,教育博,IOE770,0,不分班,"課程發展與設計
+CURRICULUM DEVELOPMENT AND DESIGN",3,期,False,50,0,3,47,周珮儀,"二2,3,4(社SS 2006)","['', '234', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE778&Crsname=永續發展教育研究,,,False,教育博,IOE778,0,不分班,"永續發展教育研究
+EDUCATION FOR SUSTAINABLE DEVELOPMENT RESEARCH",3,期,False,50,0,1,49,周珮儀,"一2,3,4(社SS 2002-1)","['234', '', '', '', '', '', '']",《講授類》,"['環境教育學程', 'STREAM永續發展培力微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE784&Crsname=認知心理學研究,新增,8/20,False,教育博,IOE784,0,不分班,"認知心理學研究
+STUDIES IN COGNITIVE PSYCHOLOGY",3,期,False,50,1,2,48,楊淑晴,"五B,5,6(社SS 2002-2)","['', '', '', '', 'B56', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE788&Crsname=大學生健康,,,False,教育博,IOE788,0,不分班,"大學生健康
+COLLEGE STUDENT HEALTH",3,期,False,30,0,0,30,陳威霖,"四5,6,7(社SS 2002-1)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE791&Crsname=人工智慧教育,,,False,教育博,IOE791,0,不分班,"人工智慧教育
+ARTIFICIAL INTELLIGENCE IN EDUCATION",3,期,False,50,0,2,48,陳菁徽,"四2,3,4(社SS 2002-1)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE801&Crsname=教育學方法論研究,,,False,教育博,IOE801,2,不分班,"教育學方法論研究
+SPECIAL TOPICS IN METHODOLOGY OF EDUCATIONAL STUDIES",3,期,True,20,0,10,10,"宋呈澔,林靜慧,莊雪華,鄭雯","二8,6,7(社SS 2005)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE802&Crsname=獨立研究（一）,,,False,教育博,IOE802,2,不分班,"獨立研究（一）
+INDEPENDENT STUDIES",3,期,True,50,0,12,38,施慶麟,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IOE804&Crsname=專題研討（三）,,,False,教育博,IOE804,2,不分班,"專題研討（三）
+SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,50,0,13,37,陳菁徽,三7(社SS 2001),"['', '', '7', '', '', '', '']",《研討類》,[],False
