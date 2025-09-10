@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR597&Crsname=海洋天然物與化學分析（一）,,,True,海資碩,MBR597,1,,"海洋天然物與化學分析（一）
+MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS I",2,期,True,50,1,5,45,"李益銘,翁靖如","五5,6(海MB 3013)","['', '', '', '', '56', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV522&Crsname=海洋系統模擬（一）,,,False,海工碩,MAEV522,1,,"海洋系統模擬（一）
+MARINE SYSTEM MODELING(I)",3,期,False,50,0,2,48,歐雅森,"二8,6,7(海ME 2002)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV525&Crsname=應用工程水力學,,,False,海工碩,MAEV525,1,,"應用工程水力學
+APPLIED ENGINEERING HYDRAULICS",3,期,False,50,0,0,50,歐雅森,"二2,3,4(海ME 2002)","['', '234', '', '', '', '', '']",《講授類》,['環境教育學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV5600&Crsname=海洋及森林碳匯與碳權概論,,,False,海工碩,MAEV5600,1,,"海洋及森林碳匯與碳權概論
+INTRODUCTION TO MARINE AND FOREST CARBON SINKS AND CARBON CREDITS",3,期,False,50,2,17,33,王右仁,"二8,6,7(海ME 2001)","['', '678', '', '', '', '', '']",《講授類》,"['海洋永續發展產業科技微學程', '淨零轉型微學程', '淨零轉型與永續發展整合學程', '海事工程學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV651&Crsname=生態系統及棲地復育生態工程學,,,False,海工碩,MAEV651,1,,"生態系統及棲地復育生態工程學
+ECOLOGICAL ENGINEERING FOR ECOSYSTEM AND HABITAT RESTORATION",3,期,False,50,0,9,41,林巧雯,"三5,6,7(海ME 2007)","['', '', '567', '', '', '', '']",《講授類》,"['生物多樣性學程', '環境教育學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV662&Crsname=應用Python於海洋環境資料分析,,,False,海工碩,MAEV662,1,,"應用Python於海洋環境資料分析
+PYTHON FOR MARINE ENVIRONMENTAL DATA ANALYSIS",3,期,False,50,1,12,38,夏沛亞,"一8,6,7(海ME 3004)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA505&Crsname=社會科學研究方法,,,False,海事碩,MA505,0,,"社會科學研究方法
+RESEARCH METHODS IN SOCIAL SCIENCE",3,期,False,50,0,2,48,蔡宏政,"三5,6,7(海MA 2034)","['', '', '567', '', '', '', '']",《講授類》,['環境教育學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA562&Crsname=海洋與環境政策,,,False,海事碩,MA562,0,,"海洋與環境政策
+OCEAN AND ENVIRONMENTAL POLICY",3,期,False,50,0,3,47,高世明,"五2,3,4(海MA 2034)","['', '', '', '', '234', '', '']",《講授類》,"['環境教育學程', '氣候變遷與調適學分學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA577&Crsname=資源經濟學,,,False,海事碩,MA577,0,,"資源經濟學
+RESOURCE ECONOMICS",3,期,False,50,1,0,50,劉子銘,"二8,9,7(海MA 1020)","['', '789', '', '', '', '', '']",《講授類》,"['環境教育學程', '氣候變遷與調適學分學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA629&Crsname=海洋產業經濟理論與實務,,,False,海事碩,MA629,0,,"海洋產業經濟理論與實務
+ENVIRONMENTAL TRANSFORMATIONS AND CULTURAL RESPONSES IN OCEANIA",3,期,False,50,0,0,50,劉子銘,"二B,5,6(海MA 1020)","['', 'B56', '', '', '', '', '']",《講授類》,['環境教育學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO702&Crsname=進階藻類學與實作,,,False,海科碩,DO702,0,,"進階藻類學與實作
+ADVANCED PHYCOLOGY AND PRACTICE",3,期,False,50,3,1,49,陳慶能,"五1,2,3(海MA 1020)","['', '', '', '', '123', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO717&Crsname=海洋基礎生產力,,,False,海科碩,DO717,0,,"海洋基礎生產力
+MARINE PRIMARY PRODUCTIVITY",2,期,False,50,1,4,46,托星豪,"四3,4(海MA 2009)","['', '', '', '34', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=UT514&Crsname=數值方法與軟體應用,,,False,海下科技碩,UT514,0,,"數值方法與軟體應用
+NUMERICAL METHODS WITH MATLAB",3,期,False,50,0,11,39,陳信宏,"三2,3,4(海MA 2052)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=UT543&Crsname=模糊邏輯控制與水下載具應用,,,False,海下科技碩,UT543,0,,"模糊邏輯控制與水下載具應用
+FUZZY LOGIC CONTROL AND ITS APPLICATION TO UNDERWATER VEHICLES",3,期,False,50,0,3,47,周佑誠,"四2,3,4(海MA 2052)","['', '', '', '234', '', '', '']",《講授類》,"['海洋永續發展產業科技微學程', '無人載具學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=UT544&Crsname=海洋環境監測與感測器設計,,,False,海下科技碩,UT544,0,,"海洋環境監測與感測器設計
+MARINE ENVIRONMENTAL MONITORING AND SENSOR DESIGN",3,期,False,50,1,14,36,謝孟璋,"五2,3,4(海MA 2052)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS501&Crsname=台灣政府與政治,異動,更換教室9/4,False,政治碩,IPS501,0,,"台灣政府與政治
+TAIWAN GOVERNMENT  AND POLITICS",3,期,False,50,2,34,16,張晉赫,"四2,3,4(社SS 1005)","['', '', '', '234', '', '', '']",《講授類》,['日本研究學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS507&Crsname=社會科學方法論,,,True,政治碩,IPS507,1,,"社會科學方法論
+SOCIAL SCIENCE METHODOLOGY",3,期,True,50,1,22,28,陳宗巖,"一2,3,4(社SS 3010-2)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS518&Crsname=政治理論與思想史,,,True,政治碩,IPS518,1,,"政治理論與思想史
+POLITICAL
+THEORY AND
+HISTORY OF
+POLITICAL
+THOUGHT",3,期,True,50,1,9,41,楊尚儒,"二5,6,7(社SS 3008)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS531&Crsname=國際關係,,,True,政治碩,IPS531,1,,"國際關係
+INTERNATIONAL RELATIONS",3,期,True,50,6,24,26,黃韋豪,"一5,6,7(社SS 3010-2)","['567', '', '', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS540&Crsname=全球政治,異動,調整名額7/10,False,政治碩,IPS540,0,,"全球政治
+GLOBAL POLITICS",3,期,False,25,5,12,13,方志恒,"二8,6,7(社SS 4001)","['', '678', '', '', '', '', '']",《講授類》,['地方發展與永續農業微學程'],True
