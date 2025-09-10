@@ -1,8 +1,0 @@
-Item root[318] removed from iterable.
-Item root[1060] removed from iterable.
-Item root[1623] removed from iterable.
-Type of root[672]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[672]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/9".
-Type of root[2099]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[2099]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/9".
-Value of root[672]['room'] changed from "一2,3,4(理PH 5009)" to "一2,3,4(理SC 2006)".
