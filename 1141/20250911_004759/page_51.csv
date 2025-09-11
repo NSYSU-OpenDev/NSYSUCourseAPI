@@ -1,0 +1,56 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM203&Crsname=中級會計學（一）,,,False,財管系,FM203,2,不分班,"中級會計學（一）
+INTERMEDIATE ACCOUNTING(I)",3,期,True,65,12,57,8,陳俐聿,"一2,3,4(管CM 3015)","['234', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系(含雙主修、輔系)",['會計學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM213&Crsname=倫理與法律,,,False,財管系,FM213,2,不分班,"倫理與法律
+ETHICS AND LAW",3,期,False,50,4,45,5,周宜鋒,"四5,6,7(管CM 1025)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM302&Crsname=金融市場,異動,更換授課方式8/14,False,財管系,FM302,3,不分班,"金融市場
+FINANCIAL MARKETS",3,期,True,60,7,60,0,廖源星,"一8,6,7(管CM 3015)","['678', '', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系(含雙主修、輔系)","['金融工程學程', '金融科技學程', '財務管理專業學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM303&Crsname=投資學,,,False,財管系,FM303,3,不分班,"投資學
+INVESTMENT",3,期,True,65,15,60,5,王昭文,"三5,6,7(管CM 4112)","['', '', '567', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系(含雙主修、輔系)","['金融工程學程', '金融科技學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM304&Crsname=成本會計學,,,False,財管系,FM304,3,不分班,"成本會計學
+COST ACCOUNTING",3,期,False,50,10,32,18,陳俐聿,"二2,3,4(管CM 3022)","['', '234', '', '', '', '', '']",《講授類》,"['會計學程', '金融工程學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM309&Crsname=國際財務管理,,,False,財管系,FM309,3,不分班,"國際財務管理
+MULTINATIONAL FINANCIAL MANAGEMENT",3,期,True,65,5,62,3,邱敬貿,"二8,6,7(管CM 4112)","['', '678', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系(含雙主修、輔系)","['金融工程學程', '財務管理專業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM323&Crsname=財務風險管理,異動,調整名額及教室9/2,False,財管系,FM323,3,不分班,"財務風險管理
+FINANCIAL RISK MANAGEMENT",3,期,False,60,4,46,14,蔡秉真,"五2,3,4(管CM 4112)","['', '', '', '', '234', '', '']",《講授類》,['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM401&Crsname=財務管理個案研究,,,False,財管系,FM401,4,不分班,"財務管理個案研究
+CASE STUDIES IN FINANCE",3,期,True,65,1,49,16,王昭文,"四2,3,4(管CM 4112)","['', '', '', '234', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限財管系(含雙主修、輔系)",['財務管理專業學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM402&Crsname=高等統計學,,,False,財管系,FM402,0,不分班,"高等統計學
+ADVANCED STATISTICS",3,期,False,50,1,3,47,唐俊華,"一8,6,7(管CM 2015)","['678', '', '', '', '', '', '']",《講授類》,['金融科技學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM403&Crsname=中級財務管理,,,False,財管系,FM403,4,不分班,"中級財務管理
+INTERMEDIATE FINANCIAL MANAGEMENT",3,期,False,50,1,10,40,蕭珮婕,"三2,3,4(管CM 2025)","['', '', '234', '', '', '', '']","《講授類》
+限修畢財管系財務管理(一)及財務管理(二)",['財務管理專業學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=FM422&Crsname=高等會計學,,,False,財管系,FM422,4,不分班,"高等會計學
+ADVANCE ACCOUNTING",3,期,False,50,0,4,46,林玉華,"五2,3,4(管CM 3022)","['', '', '', '', '234', '', '']",《講授類》,['會計學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM405&Crsname=企業交流與社會責任實踐,,,False,管理學院,CM405,0,不分班,"企業交流與社會責任實踐
+CORPORATE COMMUNICATION AND SOCIAL RESPONSIBILITY PRACTICE",1,期,False,40,8,11,29,蔡錦昌,五6(管CM 4069),"['', '', '', '', '6', '', '']","《演講/參訪》
+本課程將前往三家企業深入了解如何執行CSR","['公共事務與企業社會責任微學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM407&Crsname=管理學概論,,,False,管理學院,CM407,0,不分班,"管理學概論
+INTRODUCTION TO MANAGEMENT",1,期,False,25,5,24,1,王致遠,三B(網路大學),"['', '', 'B', '', '', '', '']","《講授類》
+限管院大學部學生與電機系大學部學生選修/網大進行之非同步線上課程",['人力資源管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM409&Crsname=經濟學概論,,,False,管理學院,CM409,0,不分班,"經濟學概論
+INTRODUCTION TO ECONOMICS",1,期,False,20,2,15,5,佘健源,四B(網路大學),"['', '', '', 'B', '', '', '']","《講授類》
+限管院大學部學生與電機系大學部學生選修/網大進行之非同步線上課程",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM411&Crsname=倫理與社會責任的理論與實務,,,False,管理學院,CM411,0,不分班,"倫理與社會責任的理論與實務
+THEORY AND PRACTICE OF ETHICS AND SOCIAL",1,期,False,200,20,36,164,"王致遠,謝慧賢,鄭安授,陳世哲",四A(網路大學),"['', '', '', 'A', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限管理學院大學部學生修習(含雙主修、輔系)。 CM411與CM412為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。 網大進行之非同步線上課程。","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM412&Crsname=國際商管倫理觀的理論與實務,,,False,管理學院,CM412,0,不分班,"國際商管倫理觀的理論與實務
+THE THEORY AND PRACTICE OF ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,6,22,38,"王致遠,王豫萱,鄭安授",三A(網路大學),"['', '', 'A', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限管理學院大學部學生修習(含雙主修、輔系)。 CM411與CM412為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。 網大進行之非同步線上課程。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IBBA101&Crsname=微積分,,,False,國際學士學程,IBBA101,1,全英班,"微積分
+CALCULUS",3,期,True,50,18,45,5,陳志偉,"五2,3,4(管CM 4036)","['', '', '', '', '234', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IBBA102&Crsname=經濟學（一）,,,False,國際學士學程,IBBA102,1,全英班,"經濟學（一）
+ECONOMICS(I)",3,期,True,50,8,44,6,安大衛,"二2,3,4(管CM 4036)","['', '234', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IBBA103&Crsname=會計學（一）,異動,更換時間7/8,False,國際學士學程,IBBA103,1,全英班,"會計學（一）
+ACCOUNTING (I)",3,期,True,50,8,46,4,馬威爾,"三5,6,7(管CM 4036)","['', '', '567', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IBBA104&Crsname=國際企業概論,異動,更換時間7/8,False,國際學士學程,IBBA104,1,全英班,"國際企業概論
+INTRODUCTION TO INTERNATIONAL BUSINESS",3,期,True,50,6,47,3,待聘,"五5,6,7(管CM 4036)","['', '', '', '', '567', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。限IBBA(含雙主修、輔系)學生修習，欲加選學生請於加退選2階段辦理選課。",[],True
