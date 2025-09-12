@@ -1,0 +1,32 @@
+Item root[1107]['classTime'][4] added to iterable.
+Item root[1107]['classTime'][4] removed from iterable.
+Value of root[142]['selected'] changed from 70 to 71.
+Value of root[142]['remaining'] changed from 0 to -1.
+Value of root[228]['select'] changed from 6 to 5.
+Value of root[228]['selected'] changed from 16 to 18.
+Value of root[228]['remaining'] changed from -6 to -8.
+Value of root[556]['select'] changed from 1 to 0.
+Value of root[556]['selected'] changed from 8 to 10.
+Value of root[556]['remaining'] changed from 42 to 40.
+Value of root[745]['selected'] changed from 40 to 39.
+Value of root[745]['remaining'] changed from 16 to 17.
+Value of root[780]['select'] changed from 1 to 0.
+Value of root[780]['selected'] changed from 50 to 51.
+Value of root[780]['remaining'] changed from 0 to -1.
+Value of root[944]['select'] changed from 10 to 6.
+Value of root[944]['selected'] changed from 46 to 50.
+Value of root[944]['remaining'] changed from 4 to 0.
+Value of root[1107]['room'] changed from "五8,9(海MA 3040)" to "五8,7(海MA 3040)".
+Value of root[1186]['selected'] changed from 40 to 41.
+Value of root[1186]['remaining'] changed from 10 to 9.
+Value of root[1662]['selected'] changed from 91 to 90.
+Value of root[1662]['remaining'] changed from 0 to 1.
+Value of root[1931]['select'] changed from 1 to 0.
+Value of root[1931]['selected'] changed from 17 to 18.
+Value of root[1931]['remaining'] changed from 33 to 32.
+Value of root[2728]['select'] changed from 1 to 0.
+Value of root[2728]['selected'] changed from 17 to 18.
+Value of root[2728]['remaining'] changed from 33 to 32.
+Value of root[2729]['select'] changed from 1 to 0.
+Value of root[2729]['selected'] changed from 17 to 18.
+Value of root[2729]['remaining'] changed from 33 to 32.
