@@ -1,0 +1,36 @@
+Item root[2565] removed from iterable.
+Item root[2567] removed from iterable.
+Item root[2568] removed from iterable.
+Item root[2838] removed from iterable.
+Item root[2839] removed from iterable.
+Type of root[251]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[251]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[270]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[270]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[426]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[426]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[434]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[434]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[439]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[439]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[461]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[461]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[473]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[473]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Type of root[728]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[728]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/11".
+Value of root[104]['selected'] changed from 35 to 34.
+Value of root[104]['remaining'] changed from 0 to 1.
+Value of root[251]['room'] changed from "五2,3,4(文LA 3004)" to "五2,3,4(文LA 0002)".
+Value of root[270]['room'] changed from "五2,3,4(工EC 3009)" to "五2,3,4(工EC 6019)".
+Value of root[426]['room'] changed from "四5,6,7(文LA 3014)" to "四5,6,7(文LA 3012)".
+Value of root[434]['room'] changed from "五2,3,4(文LA 3004)" to "五2,3,4(文LA 0002)".
+Value of root[439]['room'] changed from "三2,3,4(文LA 2003)" to "三2,3,4(文LA 2001)".
+Value of root[461]['room'] changed from "四5,6,7(文LA 3013)" to "四5,6,7(文LA 3014)".
+Value of root[473]['room'] changed from "四2,3,4(文LA 3013)" to "四2,3,4(文LA 3014)".
+Value of root[728]['room'] changed from "五2,3,4(工EC 3009)" to "五2,3,4(工EC 6019)".
+Value of root[2416]['selected'] changed from 0 to 3.
+Value of root[2416]['remaining'] changed from 50 to 47.
+Value of root[2421]['selected'] changed from 0 to 3.
+Value of root[2421]['remaining'] changed from 50 to 47.
+Value of root[2628]['teacher'] changed from "鄭雯" to "謝百淇,鄭雯".
