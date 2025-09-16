@@ -1,0 +1,10 @@
+Value of root[95]['selected'] changed from 25 to 28.
+Value of root[95]['remaining'] changed from 0 to -3.
+Value of root[556]['selected'] changed from 13 to 15.
+Value of root[556]['remaining'] changed from 37 to 35.
+Value of root[688]['selected'] changed from 51 to 52.
+Value of root[688]['remaining'] changed from 9 to 8.
+Value of root[1880]['room'] changed from "五C,D,E(管CM 3017)" to "五C,D,E(管CM 3015)".
+Value of root[2706]['room'] changed from "五C,D,E(管CM 3017)" to "五C,D,E(管CM 3015)".
+Value of root[2708]['room'] changed from "五C,D,E(管CM 3017)" to "五C,D,E(管CM 3015)".
+Value of root[2707]['room'] changed from "五C,D,E(管CM 3017)" to "五C,D,E(管CM 3015)".
