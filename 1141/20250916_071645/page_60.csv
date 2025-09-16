@@ -1,0 +1,44 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS1009&Crsname=運輸規劃與管理,,,False,人科學程,PIS1009,1,不分班,"運輸規劃與管理
+TRANSPORTATION PLANNING AND MANAGEMENT",3,期,False,20,0,14,6,夏晧清,"三5,6,7(西SW 1007)","['', '', '567', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '運輸管理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS1103&Crsname=都市環境概論,,,False,人科學程,PIS1103,1,不分班,"都市環境概論
+INTRODUCTION TO URBAN ENVIRONMENT",3,期,False,50,0,22,28,夏晧清,"二2,3,4(西SW 1005)","['', '234', '', '', '', '', '']",《講授類》,"['碳流資訊盤查與低碳設計微學程', '智慧城市與智慧運輸學程', '都市永續規劃與管理微學程', '綠色港市微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS1201&Crsname=音場技術導論,,,False,人科學程,PIS1201,1,不分班,"音場技術導論
+INTRODUCTION TO SOUND FIELD TECHNOLOGY",1,期,False,50,0,7,43,陳以軒,,"['', '', '', '678', '', '', '']",《講授類》,"['沉浸式體驗技術與應用學程', '音場技術與情境感受微學程', '沉浸式體驗內容應用微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS1213&Crsname=場景設計導論,,,False,人科學程,PIS1213,1,不分班,"場景設計導論
+INTRODUCTION TO SCENE DESIGN",2,期,False,50,0,12,38,李怡賡,"三3,4(文LA 1012)","['', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS2001&Crsname=跨領域探索,異動,確認教師8/18,False,人科學程,PIS2001,2,不分班,"跨領域探索
+CROSS-DISCIPLINARY EXPLORATION",1,期,True,50,0,30,20,"夏晧清,宋世祥,張淑美,謝如梅,鄭南玉",,"['', '', '', '', '', '789', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS2002&Crsname=設計思考,,,False,人科學程,PIS2002,2,不分班,"設計思考
+DESIGN THINKING",3,期,True,30,0,30,0,宋世祥,"四5,6,7(西SW 1007)","['', '', '', '567', '', '', '']",《講授類》,"['社區文創微學程', '公民參與微學程', '生態想想微學程', 'STREAM永續發展培力微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS2003&Crsname=科技創新趨勢與需求探索,,,False,人科學程,PIS2003,1,不分班,"科技創新趨勢與需求探索
+EXPLORATION THE TRENDS OF TECHNICAL INNOVATION AND SOCIAL NEEDS",3,期,True,50,0,41,9,謝如梅,"一8,6,7(西SW 1005)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS2007&Crsname=創意街區發展與設計思考,,,False,人科學程,PIS2007,2,不分班,"創意街區發展與設計思考
+CREATIVE DISTRICT DEVELOPMENT AND DESIGN THINKING",3,期,False,25,0,2,23,宋世祥,"二5,6,7(西SW 1004)","['', '567', '', '', '', '', '']",《講授類》,"['社區文創微學程', '公民參與微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS2008&Crsname=設計心理學,,,False,人科學程,PIS2008,2,不分班,"設計心理學
+DESIGN PSYCHOLOGY",3,期,False,50,0,25,25,張淑美,"二5,6,7(西SW 1005)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS2011&Crsname=創意設計方法,,,False,人科學程,PIS2011,2,不分班,"創意設計方法
+CREATIVE DESIGN METHODS",3,期,False,20,1,18,2,張淑美,"三5,6,7(西SW 1005)","['', '', '567', '', '', '', '']",《講授類》,"['中文創意跨域應用整合學程', '創新創業微學程', 'STREAM永續發展培力微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS3002&Crsname=跨領域創新專題（二）,異動,更換合授教師8/12,False,人科學程,PIS3002,3,不分班,"跨領域創新專題（二）
+INDEPENDENT STUDIES IN CROSS-DISCIPLINARY INNOVATION (2)",3,期,True,50,0,32,18,"夏晧清,宋世祥,張淑美,王兆璋,謝如梅,鄭南玉","六2,3,4(西SW 1005)","['', '', '', '', '', '234', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PIS4002&Crsname=創新設計或創業專題研討,異動,修正時間9/1,False,人科學程,PIS4002,4,不分班,"創新設計或創業專題研討
+SEMINAR IN INNOVATION AND ENTREPRENEURSHIP",2,期,True,50,0,29,21,"吳亦昕,夏晧清,宋世祥,張淑美,謝如梅","六5,6(西SW 1005)","['', '', '', '', '', '56', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=III1001&Crsname=閱讀與寫作,異動,取消合授教師8/19,False,國際學士原民專班,III1001,1,不分班,"閱讀與寫作
+READING AND WRITING",3,期,True,50,0,7,43,王宏仁,"四8,6,7(西SW 1004)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=III1002&Crsname=南島文化概論,異動,更換教室9/12,False,國際學士原民專班,III1002,1,不分班,"南島文化概論
+INTRODUCTION TO AUSTRONESIAN CULTURES",3,期,True,50,0,7,43,吳明仁,"五2,3,4(通GE 4020)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=III1007&Crsname=流行音樂、科技與社會,異動,更換時間及教室8/12,False,國際學士原民專班,III1007,1,不分班,"流行音樂、科技與社會
+POPULAR MUSIC, TECHNOLOGY AND SOCIETY",3,期,False,20,0,4,16,王啟仲,"三5,6,7(通GE 1010)","['', '', '567', '', '', '', '']",《講授類》,['文化產業創新學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=III1009&Crsname=普世人權：觀念與挑戰,異動,更換時間及教室8/5,False,國際學士原民專班,III1009,1,不分班,"普世人權：觀念與挑戰
+UNIVERSAL HUMAN RIGHTS: IDEAS AND CHALLENGES",3,期,False,20,0,3,17,許家豪,"一2,3,4(通GE 1008)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=III1013&Crsname=都市農業與永續發展,,,False,國際學士原民專班,III1013,1,不分班,"都市農業與永續發展
+URBAN AGRICULTURE AND SUSTAINABLE DEVELOPMENT",3,期,False,20,0,1,19,"李育諭,林季怡","五8,6,7(通GE 4016)","['', '', '', '', '678', '', '']",《講授類》,"['地方創生與永續發展整合學程', '地方發展與永續農業微學程', '氣候變遷與調適學分學程', '地方創生與區域治理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM101&Crsname=習醫之道,,,False,後醫學系,DPBM101,1,不分班,"習醫之道
+ON DOCTORING",0.5,期,True,50,0,18,32,陳彥旭,,"['78', '', '', '89', '89', '', '']","《演講/參訪》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM103&Crsname=生物化學,,,False,後醫學系,DPBM103,1,不分班,"生物化學
+BIOCHEMISTRY",2,期,True,50,0,18,32,"劉勃佑,孫羽佑,徐志文,李昇翰,李豪嶧,王文宏,趙敏吾,陳亮傑,陳彥樺",,"['234', '', '234', '', '234', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DPBM108&Crsname=臨床技能（一）,異動,確認教師8/28,False,後醫學系,DPBM108,1,不分班,"臨床技能（一）
+MEDICAL SKILL TRAINING PROGRAM(I)",0.5,年,True,23,0,18,5,王慧婷,,"['123456', '', '', '', '678', '', '']","《醫學類》
+限後醫系修習",[],False
