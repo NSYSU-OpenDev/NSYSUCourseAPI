@@ -1,0 +1,6 @@
+Value of root[171]['teacher'] changed from "AI聯盟教師,林俊宏" to "AI聯盟教師,莊豐任".
+Value of root[183]['change'] changed from "新增" to "異動".
+Value of root[183]['changeDescription'] changed from "6/26" to "更換教師".
+Value of root[183]['teacher'] changed from "AI聯盟教師,林俊宏" to "AI聯盟教師,莊豐任".
+Value of root[1188]['selected'] changed from 26 to 25.
+Value of root[1188]['remaining'] changed from 24 to 25.
