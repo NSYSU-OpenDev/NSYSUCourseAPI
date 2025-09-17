@@ -1,0 +1,54 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES512&Crsname=半導體物理,,,False,材光碩,MOES512,0,不分班,"半導體物理
+PHYSICS OF SEMICONDUCTOR",3,期,False,50,0,11,39,杭大任,"四C,D,E(工MS 4025)","['', '', '', 'CDE', '', '', '']","《講授類》
+初選限研究生選課","['類比射頻IC設計學程', '矽光子學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES513&Crsname=波動光學,異動,調整名額9/9,False,材光碩,MOES513,0,不分班,"波動光學
+WAVE OPTICS",3,期,False,59,8,64,-5,蘇威宏,"一4(工EC 3003) 四3,4(工EC 3003)","['4', '', '', '34', '', '', '']",《講授類》,['半導體製程模組學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES515&Crsname=電磁與量子物理,異動,更正時間6/26,False,材光碩,MOES515,0,不分班,"電磁與量子物理
+ELECTROMAGNETISM AND QUANTUM PHYSICS",3,期,False,50,2,8,42,杭大任,"三D,E(工MS 4025) 四9(工MS 2011)","['', '', 'DE', '9', '', '', '']","《講授類》
+初選限研究生選課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES541&Crsname=高分子檢測與分析,新增,8/28,False,材光碩,MOES541,0,不分班,"高分子檢測與分析
+POLYMER CHARACTERIZATION",3,期,False,50,1,47,3,葉昀昇,"四8,6,7(工MS 4019)","['', '', '', '678', '', '', '']",《講授類》,"['有機和材料合成學程', '半導體元件學程', '半導體製程模組學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES543&Crsname=軟質材料,,,False,材光碩,MOES543,0,不分班,"軟質材料
+SOFT MATERIALS",3,期,False,50,6,55,-5,郭紹偉,"二8,6,7(工MS 4019)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES546&Crsname=電子顯微鏡於軟物質研究之應用,異動,更換教室8/25,False,材光碩,MOES546,0,不分班,"電子顯微鏡於軟物質研究之應用
+ELECTRON MICROSCOPY FOR SOFT MATERIALS",3,期,False,50,0,30,20,蔣酉旺,"二2,3,4(工EC 3002)","['', '234', '', '', '', '', '']",《講授類》,"['半導體元件學程', '半導體製程模組學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES547&Crsname=半導體元件,,,False,材光碩,MOES547,0,不分班,"半導體元件
+SEMICONDUCTOR DEVICE",3,期,False,50,0,31,19,蔡宗鳴,"四C,D,E(工MS 4022)","['', '', '', 'CDE', '', '', '']",《講授類》,"['半導體元件學程', '類比射頻IC設計學程', '半導體物理與先進元件分析微學程', '半導體製程模組學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES557&Crsname=材料光譜分析,,,False,材光碩,MOES557,0,不分班,"材料光譜分析
+SPECTROSCOPIC METHODS IN MATERIALS CHARACTERIZATION",3,期,False,50,1,11,39,徐瑞鴻,"三2,3,4(工MS 4025)","['', '', '234', '', '', '', '']",《講授類》,"['半導體元件學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES561&Crsname=凝態理論,,,False,材光碩,MOES561,0,不分班,"凝態理論
+CONDENSED MATTER THEORY",3,期,False,50,0,17,33,林仕鑫,"五1,2,3(工MS 4023)","['', '', '', '', '123', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES571C&Crsname=專題研究（一）,,,False,材光碩,MOES571C,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,4,46,郭哲男,"二C,D,E()","['', 'CDE', '', '', '', '', '']","《獨立研究》
+金屬3D列印、先進金屬材料相關專題。學生選課前請先與指導教授洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES571F&Crsname=專題研究（一）,,,False,材光碩,MOES571F,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,1,49,杭大任,"二C,D,E()","['', 'CDE', '', '', '', '', '']","《獨立研究》
+半導體材料與科學、能源材料相關專題。學生選課前請先與指導教授洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES571G&Crsname=專題研究（一）,,,False,材光碩,MOES571G,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,1,49,王致傑,"二C,D,E()","['', 'CDE', '', '', '', '', '']","《獨立研究》
+奈米能源材料相關專題。學生選課前請先與指導教授洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES571I&Crsname=專題研究（一）,,,False,材光碩,MOES571I,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,2,48,蘇威宏,"二C,D,E()","['', 'CDE', '', '', '', '', '']","《獨立研究》
+光學檢測相關專題。學生選課前請先與指導教授洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES571K&Crsname=專題研究（一）,,,False,材光碩,MOES571K,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,5,45,郭紹偉,"二C,D,E()","['', 'CDE', '', '', '', '', '']","《獨立研究》
+超分子材料相關專題。學生選課前請先與指導教授洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES571L&Crsname=專題研究（一）,,,False,材光碩,MOES571L,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,2,48,張六文,"二C,D,E()","['', 'CDE', '', '', '', '', '']","《獨立研究》
+材料顯微組織與集合組織分析相關專題。學生選課前請先與指導教授洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES571M&Crsname=專題研究（一）,,,False,材光碩,MOES571M,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,3,47,蔣酉旺,"二C,D,E()","['', 'CDE', '', '', '', '', '']","《獨立研究》
+先進高分子相關專題。學生選課前請先與指導教授洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES571N&Crsname=專題研究（一）,,,False,材光碩,MOES571N,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,1,1,49,王映樵,"二C,D,E()","['', 'CDE', '', '', '', '', '']","《獨立研究》
+光電材料與元件相關專題。學生選課前請先與指導教授洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES571O&Crsname=專題研究（一）,,,False,材光碩,MOES571O,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,2,48,曼哈迪,"二C,D,E()","['', 'CDE', '', '', '', '', '']","《獨立研究》
+有機高分子相關專題。學生選課前請先與指導教授洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES571P&Crsname=專題研究（一）,,,False,材光碩,MOES571P,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,1,49,邱政維,"二C,D,E()","['', 'CDE', '', '', '', '', '']","《獨立研究》
+奈米材料、高分子合成相關專題。學生選課前請先與指導教授洽談。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MOES571T&Crsname=專題研究（一）,異動,確認教師8/12,False,材光碩,MOES571T,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,2,48,李廣輝,"二C,D,E()","['', 'CDE', '', '', '', '', '']","《獨立研究》
+半導體材料磊晶成長，材料分析，光電元件",[],True
