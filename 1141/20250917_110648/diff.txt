@@ -1,0 +1,39 @@
+Item root[219] added to iterable.
+Item root[220] added to iterable.
+Item root[221] added to iterable.
+Item root[222] added to iterable.
+Item root[223] added to iterable.
+Item root[224] added to iterable.
+Item root[225] added to iterable.
+Item root[226] added to iterable.
+Item root[227] added to iterable.
+Item root[228] added to iterable.
+Item root[229] added to iterable.
+Item root[230] added to iterable.
+Item root[231] added to iterable.
+Item root[232] added to iterable.
+Item root[233] added to iterable.
+Item root[234] added to iterable.
+Item root[235] added to iterable.
+Item root[236] added to iterable.
+Item root[237] added to iterable.
+Item root[238] added to iterable.
+Item root[239] added to iterable.
+Item root[719]['classTime'][3] removed from iterable.
+Item root[720]['classTime'][2] removed from iterable.
+Item root[721]['classTime'][3] removed from iterable.
+Item root[722]['classTime'][2] removed from iterable.
+Item root[723]['classTime'][0] removed from iterable.
+Item root[724]['classTime'][1] removed from iterable.
+Repetition change for item root[719]['classTime'][0].
+Repetition change for item root[720]['classTime'][0].
+Repetition change for item root[721]['classTime'][0].
+Repetition change for item root[722]['classTime'][0].
+Repetition change for item root[723]['classTime'][1].
+Repetition change for item root[724]['classTime'][0].
+Value of root[719]['room'] changed from "四A,1,B(理PH 6008)" to "".
+Value of root[720]['room'] changed from "三A,1,B(理PH 3008)" to "".
+Value of root[721]['room'] changed from "四A,1,B(理PH 2009)" to "".
+Value of root[722]['room'] changed from "三A,1,B(理SC 2006-3)" to "".
+Value of root[723]['room'] changed from "一A,1,B(理PH 5004)" to "".
+Value of root[724]['room'] changed from "二A,1,B(理PH 5006)" to "".
