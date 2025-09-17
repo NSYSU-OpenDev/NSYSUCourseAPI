@@ -1,0 +1,42 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV101&Crsname=微積分（一）,,,False,海工系,MAEV101,1,全英班,"微積分（一）
+CALCULUS(I)",3,期,True,60,0,50,10,余冠儒,"五2,3,4(理SC 1005)","['', '', '', '', '234', '', '']",《講授類》,['人工智慧與數學學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV150&Crsname=基礎環境科學,,,False,海工系,MAEV150,1,全英班,"基礎環境科學
+BASIC ENVIRONMENTAL SCIENCE",2,期,True,70,0,48,22,卓宴琳,"四3,4(海ME 3006)","['', '', '', '34', '', '', '']",《講授類》,"['環境教育學程', '環境科技與管理學程', '地方創生與永續發展整合學程', '淨零轉型與永續發展整合學程', '氣候變遷與調適學分學程', '企業社會責任學程', '永續管理微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV201&Crsname=計算機概論,,,False,海工系,MAEV201,1,全英班,"計算機概論
+INTRODUCTION TO COMPUTERS:CONCEPT AND LANGUAGE",3,期,True,55,1,51,4,夏沛亞,"三2,3,4(海ME 3004)","['', '', '234', '', '', '', '']",《講授類》,['軟體工程學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV202&Crsname=計算機概論實習,,,False,海工系,MAEV202,1,全英班,"計算機概論實習
+INTRODUCTION TO COMPUTERS : PRACTICE",1,期,True,55,0,51,4,夏沛亞,"三5,6,7(海ME 3004)(實驗)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV203&Crsname=工程數學（一）,,,False,海工系,MAEV203,2,全英班,"工程數學（一）
+ENGINEERING MATHEMATICS(I)",3,期,True,60,0,33,27,曾以帆,"三2,3,4(海ME 2003)","['', '', '234', '', '', '', '']","《講授類》
+限微積分（一）及微積分（二）50分(D)（含）以上修習，若未符合上述規定者，請洽授課老師後於異常處理階段加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV242&Crsname=工程材料,,,False,海工系,MAEV242,2,全英班,"工程材料
+ENGINEERING MATERIAL",2,期,True,60,1,37,23,詹鵬台,"一5,6(海ME 2005)","['56', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV243&Crsname=結構與材料實驗,,,False,海工系,MAEV243,2,全英班,"結構與材料實驗
+STRUCTURAL AND MATERIAL LABORATORY",1,期,True,50,0,36,14,詹鵬台,"一8,7(海ME 2005)(實驗)","['78', '', '', '', '', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV244&Crsname=材料力學,,,False,海工系,MAEV244,2,全英班,"材料力學
+MATERIAL MECHANICS",3,期,True,60,0,38,22,金尚進,"三5,6,7(海ME 2005)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV250A&Crsname=環境微生物學,,,False,海工系,MAEV250A,2,全英班,"環境微生物學
+ENVIRONMENTAL MICROBIOLOGY",3,期,False,50,0,7,43,卓宴琳,"五2,3,4(海ME 2007)","['', '', '', '', '234', '', '']",《講授類》,"['環境教育學程', '生物技術學程', '環境科技與管理學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV251A&Crsname=環境微生物學實驗,,,False,海工系,MAEV251A,2,全英班,"環境微生物學實驗
+ENVIRONMENTAL MICROBIOLOGY LABORATORY",1,期,False,50,0,8,42,卓宴琳,"五8,6,7(海ME 2007)(實驗)","['', '', '', '', '678', '', '']",《實驗類》,"['環境教育學程', '生物技術學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV261&Crsname=測量學,,,False,海工系,MAEV261,2,全英班,"測量學
+SURVEYING",3,期,True,60,0,41,19,鍾秉宸,"二2,3,4(海ME 2005)","['', '234', '', '', '', '', '']",《講授類》,['南星產業樞紐學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV262&Crsname=測量學實習,,,False,海工系,MAEV262,2,全英班,"測量學實習
+SURVEYING LABORATORY",1,期,True,60,0,34,26,鍾秉宸,"二5,6,7(海ME 2005)(實驗)","['', '567', '', '', '', '', '']",《實習類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV322&Crsname=海洋波浪學,,,False,海工系,MAEV322,3,不分班,"海洋波浪學
+OCEAN WAVES",3,期,True,70,0,42,28,許弘莒,"一8,6,7(海ME 2003)","['678', '', '', '', '', '', '']",《講授類》,"['環境教育學程', '南星產業樞紐學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV325&Crsname=渠道水力學,,,False,海工系,MAEV325,4,不分班,"渠道水力學
+OPEN CHANNEL HYDRAULICS",3,期,False,50,0,23,27,葉博弘,"五5,6,7(海ME 2005)","['', '', '', '', '567', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV326&Crsname=流體動力學,,,False,海工系,MAEV326,3,不分班,"流體動力學
+HYDRODYNAMICS",3,期,False,50,2,33,17,葉博弘,"四5,6,7(海ME 2003)","['', '', '', '567', '', '', '']",《講授類》,['南星產業樞紐學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV340&Crsname=土壤力學,,,False,海工系,MAEV340,3,不分班,"土壤力學
+SOIL MECHANICS",3,期,True,60,0,43,17,林俊宏,"四2,3,4(海ME 2003)","['', '', '', '234', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV341&Crsname=土壤力學實驗,,,False,海工系,MAEV341,3,不分班,"土壤力學實驗
+SOIL MECHANICS LABORATORY",1,期,True,60,0,36,24,林俊宏,"三5,6,7(海ME 2003)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV344&Crsname=中等結構學,,,False,海工系,MAEV344,3,不分班,"中等結構學
+INDETERMINATE STRUCTURE THEORY",3,期,False,50,0,4,46,金尚進,"三2,3,4(海ME 2005)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV345&Crsname=鋼筋混凝土學,,,False,海工系,MAEV345,3,不分班,"鋼筋混凝土學
+REINFORCED CONCRETE",3,期,False,50,0,13,37,張博彥,"六2,3,4(海ME 2003)","['', '', '', '', '', '234', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV402&Crsname=電腦輔助繪圖,,,False,海工系,MAEV402,4,不分班,"電腦輔助繪圖
+COMPUTER-AIDED DRAFTING",3,期,False,50,3,50,0,莊偉良,"一2,3,4(海ME 3004)","['234', '', '', '', '', '', '']",《講授類》,['南星產業樞紐學程'],False
