@@ -1,0 +1,42 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR105&Crsname=普通生物學實驗（一）,,,False,海資系,MBR105,1,全英班,"普通生物學實驗（一）
+GENERAL BIOLOGY LABORATORY(I)",1,期,True,50,0,49,1,張鈞涵,"四5,6,7(海MB 2003)(實驗)","['', '', '', '567', '', '', '']",《實驗類》,['環境教育學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR107&Crsname=微積分,異動,確認教師8/18,False,海資系,MBR107,1,全英班,"微積分
+CALCULUS",3,期,True,50,3,50,0,林建同,"五2,3,4(海MB 2015)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR109&Crsname=普通化學,,,False,海資系,MBR109,1,全英班,"普通化學
+GENERAL CHEMISTRY",3,期,True,50,0,48,2,楊佳寧,"五5,6,7(海MB 2015)","['', '', '', '', '567', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR111&Crsname=普通化學實驗,,,False,海資系,MBR111,1,全英班,"普通化學實驗
+GENERAL CHEMISTRY LABORATORY",1,期,True,50,0,48,2,梁子輝,"三2,3,4(理SC 4019)(實驗)","['', '', '234', '', '', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR202&Crsname=有機化學（二）,,,False,海資系,MBR202,2,全英班,"有機化學（二）
+ORGANIC CHEMISTRY(II)",2,期,True,50,0,34,16,林渝亞,"一6,7(海MB 2015)","['67', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR204&Crsname=有機化學實驗（二）,,,False,海資系,MBR204,2,全英班,"有機化學實驗（二）
+ORGANIC CHEMISTRY LABORATORY(II)",1,期,True,50,0,36,14,林渝亞,"四2,3,4(理SC 4020)(實驗)","['', '', '', '234', '', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR210&Crsname=微生物學,,,False,海資系,MBR210,2,全英班,"微生物學
+MICROBIOLOGY",3,期,False,50,0,20,30,"李景欽,王亮鈞","五2,3,4(海MB 2016)","['', '', '', '', '234', '', '']",《講授類》,"['環境教育學程', '生物技術學程', '海洋天然物微學程', '海洋微生物及應用推廣微學程', '海洋生產模式整合學程', '海洋循環經濟學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR211&Crsname=微生物學實驗,異動,更換部份時間8/25,False,海資系,MBR211,2,全英班,"微生物學實驗
+MICROBIOLOGY LABORATORY",2,期,False,50,0,9,41,邱素芬,"四8(海MB 2004) 四6,7(海MB 2004)(實驗)","['', '', '', '678', '', '', '']",《實驗類》,"['生物技術學程', '生物技術微學程', '海洋微生物及應用推廣微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR214&Crsname=細胞生物學,,,False,海資系,MBR214,3,全英班,"細胞生物學
+CELL BIOLOGY",3,期,False,50,0,14,36,溫志宏,"五2,3,4(海MB 2020)","['', '', '', '', '234', '', '']",《講授類》,"['生物技術學程', '生物技術微學程', '海洋生產模式整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR216&Crsname=浮游生物學,,,False,海資系,MBR216,3,全英班,"浮游生物學
+PLANKTOLOGY",3,期,False,50,0,17,33,張桂祥,"二5,6,7(海MB 2015)","['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR218&Crsname=魚類學,,,False,海資系,MBR218,2,全英班,"魚類學
+ICHTHYOLOGY",2,期,False,50,0,13,37,林秀瑾,"二3,4(海MB 2015)","['', '34', '', '', '', '', '']",《講授類》,"['生物多樣性學程', '熱帶海洋微學程', '印象海味微學程', '海洋生物資源與實務應用微學程', '海洋循環經濟學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR219&Crsname=魚類學實驗,,,False,海資系,MBR219,2,全英班,"魚類學實驗
+ICHTHYOLOGY LABORATORY",1,期,False,50,0,6,44,林秀瑾,三6(海MB 2003) 三7(海MB 2003)(實驗),"['', '', '67', '', '', '', '']",《實驗類》,['生物多樣性學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR223&Crsname=地質學,,,False,海資系,MBR223,2,全英班,"地質學
+GEOLOGY",2,期,False,50,0,9,41,蕭炎宏,"三6,7(海MB 2009)","['', '', '67', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR227&Crsname=海洋生物多樣性導論,,,False,海資系,MBR227,2,全英班,"海洋生物多樣性導論
+INTRODUCTION TO MARINE BIODIVERSITY",2,期,True,50,0,41,9,"劉商隱,水晶","二6,7(海MB 2020)","['', '67', '', '', '', '', '']",《講授類》,"['生物多樣性學程', '環境教育學程', '探索海洋國家公園微學程', '海洋生物資源與實務應用微學程', '臺灣研究學程', '自然生物資產微學程', '海洋循環經濟學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR238&Crsname=海洋生物活性成分於疾病模式應用,異動,更換年級及時間8/18,False,海資系,MBR238,4,全英班,"海洋生物活性成分於疾病模式應用
+APPLICATION OF MARINE BIOACTIVE COMPOUNDS IN DISEASE MODELS",2,期,False,50,0,11,39,張鈞涵,"三3,4(海MB 1009)","['', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR306&Crsname=生物化學（一）,,,False,海資系,MBR306,2,全英班,"生物化學（一）
+BIOCHEMISTRY(I)",3,期,True,50,3,37,13,"廖志中,廖睿妘,李益銘","三2,3,4(海MB 2020)","['', '', '234', '', '', '', '']",《講授類》,"['生物技術學程', '天然藥物合成學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR308&Crsname=生物化學實驗,,,False,海資系,MBR308,3,全英班,"生物化學實驗
+BIOCHEMISTRY LABORATORY",1,期,False,50,0,1,49,"李益銘,邱素芬","三5,6,7(海MB 2012)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,"['生物技術學程', '生物技術微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR310&Crsname=海上實習,,,False,海資系,MBR310,3,全英班,"海上實習
+OCEANOGRAPHY CRUISE PRACTICE",1,期,True,50,0,33,17,林秀瑾,"五5,6(海MB 1009)(實驗)","['', '', '', '', '56', '', '']","《實習類》
+修課學生須先取得海科院舉辦之水域活動安全與自救訓練講習證明，始能參與水域活動(含實習航次)",['環境教育學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR313&Crsname=生物統計學及實習(一),,,False,海資系,MBR313,3,全英班,"生物統計學及實習(一)
+BIOSTATISTICS AND PRACTICE (I)",3,期,True,50,0,37,13,張楊家豪,"二2,3,4(海MB 2020)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MBR315&Crsname=生態學,,,False,海資系,MBR315,4,全英班,"生態學
+ECOLOGY",2,期,False,50,0,40,10,水晶,"三6,7(海MB 1009)","['', '', '67', '', '', '', '']",《講授類》,"['環境科技與管理學程', '生物多樣性學程', '海洋生物資源與實務應用微學程']",True
