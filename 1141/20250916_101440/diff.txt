@@ -1,4 +1,0 @@
-Value of root[516]['changeDescription'] changed from "取消合授教師9/8" to "異動合授教師9/16".
-Value of root[516]['teacher'] changed from "陳以軒" to "應廣儀,陳以軒".
-Value of root[1335]['teacher'] changed from "唐佳迎,林雅叙,顏竹君" to "唐佳迎,林雅叙,陳宜蓁,顏竹君,黃楚涵".
-Value of root[1884]['select'] changed from 1 to 2.
