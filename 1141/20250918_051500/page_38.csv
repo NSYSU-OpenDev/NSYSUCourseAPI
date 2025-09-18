@@ -1,21 +1,21 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PHYS418H&Crsname=論文專題（一）,,,True,物理系,PHYS418H,4,全英班,"論文專題（一）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,2,48,洪昇廷,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,2,48,洪昇廷,"四A,1,B(理PH 6008)","['', '', '', 'A1B', '', '', '']","《獨立研究》
 需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PHYS418I&Crsname=論文專題（一）,,,True,物理系,PHYS418I,4,全英班,"論文專題（一）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,2,48,史丹哲夫,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,2,48,史丹哲夫,"三A,1,B(理PH 3008)","['', '', 'A1B', '', '', '', '']","《獨立研究》
 需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PHYS418J&Crsname=論文專題（一）,,,True,物理系,PHYS418J,4,全英班,"論文專題（一）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,2,48,郭建成,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,2,48,郭建成,"四A,1,B(理PH 2009)","['', '', '', 'A1B', '', '', '']","《獨立研究》
 需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PHYS418K&Crsname=論文專題（一）,,,True,物理系,PHYS418K,4,全英班,"論文專題（一）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,2,48,呂浩宇,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,2,48,呂浩宇,"三A,1,B(理SC 2006-3)","['', '', 'A1B', '', '', '', '']","《獨立研究》
 需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PHYS418L&Crsname=論文專題（一）,新增,8/27,True,物理系,PHYS418L,4,全英班,"論文專題（一）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,1,49,黃信銘,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,1,49,黃信銘,"一A,1,B(理PH 5004)","['A1B', '', '', '', '', '', '']","《獨立研究》
 需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PHYS418M&Crsname=論文專題（一）,新增,8/27,True,物理系,PHYS418M,4,全英班,"論文專題（一）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,1,49,朱家誼,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,False,50,0,1,49,朱家誼,"二A,1,B(理PH 5006)","['', 'A1B', '', '', '', '', '']","《獨立研究》
 需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MATH101&Crsname=微積分（一）,,,False,應數系,MATH101,1,不分班,"微積分（一）
 CALCULUS (I)",4,期,True,60,0,52,8,黃毅青,"一2,3(理SC 3001) 五2,3(理SC 3001)","['23', '', '', '', '23', '', '']",《講授類》,"['人工智慧與數學學程', '應用數學學程']",False
