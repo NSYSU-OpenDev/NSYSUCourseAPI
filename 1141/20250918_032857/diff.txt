@@ -1,0 +1,9 @@
+Item root[182]['classTime'][1] added to iterable.
+Repetition change for item root[182]['classTime'][0].
+Value of root[18]['selected'] changed from 13 to 14.
+Value of root[18]['remaining'] changed from 37 to 36.
+Value of root[182]['room'] changed from "" to "二2,3,4()".
+Value of root[182]['description'] changed from "《講授類》" to "《講授類》
+高雄師範大學數學系".
+Value of root[1909]['selected'] changed from 48 to 49.
+Value of root[1909]['remaining'] changed from 2 to 1.
