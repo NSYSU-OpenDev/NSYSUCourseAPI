@@ -1,0 +1,58 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI146&Crsname=主修（雙簧管）,,,True,音樂系,MUSI146,1,不分班,"主修（雙簧管）
+MAJOR (OBOE)",2,期,True,50,0,2,48,張瑞芝,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI147&Crsname=主修（豎笛）,,,True,音樂系,MUSI147,1,不分班,"主修（豎笛）
+MAJOR CLARINET",2,期,True,50,0,6,44,"楊蕙祺,陳怡君","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI148&Crsname=主修（長笛）,,,True,音樂系,MUSI148,1,不分班,"主修（長笛）
+MAJOR (FLUTE)",2,期,True,50,0,9,41,"呂承祐,林鴻君,馬曉珮","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI149&Crsname=主修（法國號）,異動,取消合授教師9/8,True,音樂系,MUSI149,1,不分班,"主修（法國號）
+MAJOR (FRENCH HORN)",2,期,True,50,0,2,48,陳冠豪,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI150&Crsname=主修（小號）,,,True,音樂系,MUSI150,1,不分班,"主修（小號）
+MAJOR (TRUMPET)",2,期,True,50,0,3,47,劉郁君,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI151&Crsname=主修（低音管）,,,True,音樂系,MUSI151,1,不分班,"主修（低音管）
+MAJOR (BASSOON)",2,期,True,50,0,1,49,陳奕秀,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI152&Crsname=主修（長號）,,,True,音樂系,MUSI152,1,不分班,"主修（長號）
+MAJOR(TROMBONE)",2,期,True,50,0,2,48,鄭詔駿,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI155&Crsname=主修（低音號）,,,True,音樂系,MUSI155,1,不分班,"主修（低音號）
+MAJOR(TUBA)",2,期,True,50,0,3,47,湯志偉,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI156&Crsname=主修（薩克斯管）,,,True,音樂系,MUSI156,1,不分班,"主修（薩克斯管）
+MAJOR (SAXOPHONE)",2,期,True,50,0,4,46,陳品樺,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI157&Crsname=主修 (上低音號),,,True,音樂系,MUSI157,1,不分班,"主修 (上低音號)
+MAJOR (EUPHONIUM)",2,期,True,50,0,2,48,黃詩堯,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI160&Crsname=主修（打擊樂）,,,True,音樂系,MUSI160,1,不分班,"主修（打擊樂）
+MAJOR (PERCUSSIONS)",2,期,True,50,0,8,42,"鄭雅心,陸淯姿","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI168&Crsname=主修（創作與應用）,,,True,音樂系,MUSI168,1,不分班,"主修（創作與應用）
+MUSIC COMPOSITION AND PRODUCTION",3,期,True,50,0,4,46,"李思嫺,江俊典","一8,9,7(文FA 6011)","['789', '', '', '', '', '', '']","《音樂類》
+限音樂系創作與應用組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI168A&Crsname=主修（創作與應用）,,,True,音樂系,MUSI168A,2,不分班,"主修（創作與應用）
+MUSIC COMPOSITION AND PRODUCTION",3,期,True,50,0,4,46,"劉聖賢,陳以軒","一B,5,6(文FA 6011)","['B56', '', '', '', '', '', '']","《音樂類》
+限音樂系創作與應用組學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI172&Crsname=爵士音樂理論與鍵盤和聲（二）,,,False,音樂系,MUSI172,1,不分班,"爵士音樂理論與鍵盤和聲（二）
+JAZZ MUSIC THEORY AND KEYBOARD VOICING 2",2,期,False,50,0,13,37,黃盟傑,"二8,7(文FA 6011)","['', '78', '', '', '', '', '']","《講授類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI176&Crsname=中國音樂史,,,False,音樂系,MUSI176,1,不分班,"中國音樂史
+A HISTORY OF CHINESE MUSIC",2,期,False,50,0,33,17,鄭溪和,"二8,9(文FA 7003)","['', '89', '', '', '', '', '']","《講授類》
+限音樂系學生修課",['音樂藝術管理與行銷學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI202&Crsname=管樂演奏實務,,,False,音樂系,MUSI202,3,不分班,"管樂演奏實務
+WIND PERFORMANCE CLASS",2,期,False,50,0,4,46,林鴻君,"一8,7(文FA 4030)","['78', '', '', '', '', '', '']",《音樂類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI210&Crsname=音樂基礎訓練（三）,異動,更換教室9/8,True,音樂系,MUSI210,2,不分班,"音樂基礎訓練（三）
+MUSICIANSHIP (Ⅲ)",1,期,True,50,0,11,39,楊妮蓉,一2(文FA 4030),"['2', '', '', '', '', '', '']","《講授類》
+限音樂系學生修課，且須修畢音樂基礎訓練(一)及音樂基礎訓練(二)課程，始得修課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI210A&Crsname=音樂基礎訓練（三）,,,True,音樂系,MUSI210A,2,不分班,"音樂基礎訓練（三）
+MUSICIANSHIP (Ⅲ)",1,期,True,50,0,9,41,楊妮蓉,一3(文FA 4030),"['3', '', '', '', '', '', '']","《講授類》
+限音樂系學生修課，且須修畢音樂基礎訓練(一)及音樂基礎訓練(二)課程，始得修課。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI218&Crsname=西洋音樂史（一）,,,False,音樂系,MUSI218,2,不分班,"西洋音樂史（一）
+HISTORY OF WESTERN MUSIC I",2,期,True,50,2,50,0,郭瓊嬌,"五3,4(文FA 7003)","['', '', '', '', '34', '', '']",《講授類》,['音樂劇學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MUSI232&Crsname=調性音樂理論與分析（三）,,,False,音樂系,MUSI232,2,不分班,"調性音樂理論與分析（三）
+THEORY AND ANALYSIS IN TONAL MUSIC (III)",2,期,True,50,0,25,25,李思嫺,"三3,4(文FA 4034)","['', '', '34', '', '', '', '']",《講授類》,[],False
