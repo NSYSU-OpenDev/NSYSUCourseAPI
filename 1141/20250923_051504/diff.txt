@@ -1,0 +1,17 @@
+Value of root[169]['selected'] changed from 73 to 74.
+Value of root[169]['remaining'] changed from -18 to -19.
+Value of root[643]['selected'] changed from 23 to 22.
+Value of root[643]['remaining'] changed from 7 to 8.
+Value of root[1096]['selected'] changed from 46 to 47.
+Value of root[1096]['remaining'] changed from 4 to 3.
+Value of root[1498]['room'] changed from "二3(理CH 3002)" to "二3(理SC 0008)".
+Value of root[1511]['room'] changed from "二4(理CH 3002)" to "二4(理SC 0008)".
+Value of root[2356]['selected'] changed from 21 to 22.
+Value of root[2356]['remaining'] changed from 29 to 28.
+Value of root[2358]['selected'] changed from 44 to 64.
+Value of root[2358]['remaining'] changed from 56 to 36.
+Value of root[2365]['select'] changed from 5 to 4.
+Value of root[2365]['selected'] changed from 50 to 51.
+Value of root[2365]['remaining'] changed from 0 to -1.
+Value of root[2366]['selected'] changed from 43 to 42.
+Value of root[2366]['remaining'] changed from 57 to 58.
