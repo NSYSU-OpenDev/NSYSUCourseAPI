@@ -1,0 +1,42 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=UT534&Crsname=海下科技研討（三）,,,False,海下科技碩,UT534,0,不分班,"海下科技研討（三）
+SEMINAR IN UNDERSEA TECHNOLOGY (III)",2,期,False,50,0,10,40,謝孟璋,"五6,7(海MA 1020)","['', '', '', '', '67', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=UT543&Crsname=模糊邏輯控制與水下載具應用,,,False,海下科技碩,UT543,0,不分班,"模糊邏輯控制與水下載具應用
+FUZZY LOGIC CONTROL AND ITS APPLICATION TO UNDERWATER VEHICLES",3,期,False,50,0,5,45,周佑誠,"四2,3,4(海MA 2052)","['', '', '', '234', '', '', '']",《講授類》,"['海洋永續發展產業科技微學程', '無人載具學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=UT544&Crsname=海洋環境監測與感測器設計,,,False,海下科技碩,UT544,0,不分班,"海洋環境監測與感測器設計
+MARINE ENVIRONMENTAL MONITORING AND SENSOR DESIGN",3,期,False,50,0,16,34,謝孟璋,"五2,3,4(海MA 2052)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=UT632&Crsname=水中聲學專題研究（一）,,,False,海下科技碩,UT632,0,不分班,"水中聲學專題研究（一）
+INDEPENDENT STUDIES IN UNDERWATER ACOUSTICS (I)",2,期,False,50,1,6,44,"周佑誠,王兆璋,謝孟璋,邱永盛,陳信宏,魏瑞昌","一3,4(海MA 2052)","['34', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=UT633&Crsname=水下機電專題研究（一）,,,False,海下科技碩,UT633,0,不分班,"水下機電專題研究（一）
+INDEPENDENT STUDIES IN UNDERWATER MECHATRONICS (I)",2,期,False,50,0,7,43,"周佑誠,王兆璋,謝孟璋,邱永盛,陳信宏,魏瑞昌","一1,2(海MA 2052)","['12', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC501&Crsname=海洋生態與保育專題討論（一）,,,False,海生保育碩,MEC501,1,不分班,"海洋生態與保育專題討論（一）
+SEMINAR IN MARINE ECOLOGY AND CONSERVATION（I）",1,期,True,50,0,6,44,林裕䕒,三6(海MA 2009),"['', '', '6', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC503&Crsname=海洋生態與保育專題研究（一）,異動,調整合授教師6/25,False,海生保育碩,MEC503,2,不分班,"海洋生態與保育專題研究（一）
+INDEPENDENT STUDIES IN MARINE ECOLOGY AND CONSERVATION（I）",3,期,True,50,0,5,45,"劉商隱,劉莉蓮,塗子萱,廖德裕,張揚祺,張桂祥,徐華遜,托星豪,林裕䕒,陳孟仙,陳慶能",一B(海MA 1020) 二B(海MA 1020) 三B(海MA 1020),"['B', 'B', 'B', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC506&Crsname=海上實習,,,False,海生保育碩,MEC506,0,不分班,"海上實習
+OCEANOGRAPHIC CRUISE",1,期,False,50,1,3,47,"塗子萱,李逸環,黃蔚人","一6,7(海MA 3020)(實驗)","['67', '', '', '', '', '', '']",《實習類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC507&Crsname=海洋學導論,異動,更換教室9/11,False,海生保育碩,MEC507,0,不分班,"海洋學導論
+INTRODUCTION TO OCEANOGRAPHY",3,期,False,50,0,6,44,"劉莉蓮,張詠斌,李逸環,雷漢杰","一2,3,4(海MA 2009)","['234', '', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC508A&Crsname=海洋生態與保育專題討論（三）,異動,確認教師8/12,False,海生保育碩,MEC508A,0,不分班,"海洋生態與保育專題討論（三）
+SEMINAR IN MARINE ECOLOGY AND CONSERVATION（III）",1,期,False,50,0,4,46,林裕䕒,三7(海MA 1020),"['', '', '7', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC513&Crsname=海洋生物多樣性與保育（一）,,,True,海生保育碩,MEC513,1,不分班,"海洋生物多樣性與保育（一）
+MARINE BIODIVERSITY AND CONSERVATION （1）",2,期,True,50,0,6,44,劉商隱,"三3,4(海MB 2016)","['', '', '34', '', '', '', '']",《講授類》,['環境教育學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC514&Crsname=海洋保育個案研析,異動,取消合授教師7/21,False,海生保育碩,MEC514,1,不分班,"海洋保育個案研析
+CASE STUDIES IN MARINE CONSERVATION",3,期,True,50,0,7,43,林裕䕒,"五5,6,7(海MB 2020)","['', '', '', '', '567', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC520&Crsname=生物統計,,,True,海生保育碩,MEC520,1,不分班,"生物統計
+BIOSTATISTICS",3,期,True,50,1,11,39,林裕䕒,"四2,3,4(海MB 3013)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC522&Crsname=軟骨魚類特論,,,False,海生保育碩,MEC522,0,不分班,"軟骨魚類特論
+SPECIAL TOPICS ON CHONDRICHTHYAN FISHES",2,期,False,50,0,7,43,徐華遜,"二3,4(海MA 1020)","['', '34', '', '', '', '', '']","《講授類》
+課程時間及教室不確定，請留意開課前信件通知",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEC523&Crsname=海洋及森林碳匯與碳權概論,,,False,海生保育碩,MEC523,0,不分班,"海洋及森林碳匯與碳權概論
+INTRODUCTION TO MARINE AND FOREST CARBON SINKS AND CARBON CREDITS",3,期,False,50,1,4,46,王右仁,"二8,6,7(海ME 2001)","['', '678', '', '', '', '', '']",《講授類》,['海洋永續發展產業科技微學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=OWP501&Crsname=離岸風電概論,,,False,離岸風電碩,OWP501,1,不分班,"離岸風電概論
+INTRODUCTION TO OFFSHORE WIND ENERGY",3,期,False,50,0,19,31,王右仁,"四3,4,B(海ME 2001)","['', '', '', '34B', '', '', '']",《講授類》,"['海洋永續發展產業科技微學程', '永續能源學程', '淨零轉型微學程', '淨零轉型與永續發展整合學程', '海事工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=OWP502&Crsname=離岸風電書報討論（一）,,,False,離岸風電碩,OWP502,1,不分班,"離岸風電書報討論（一）
+SEMINAR IN OFFSHORE WIND POWER (Ⅰ)",2,期,False,50,0,2,48,莊偉良,"四6,7(海ME 3002)","['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=OWP504&Crsname=離岸風電書報討論（三）,,,False,離岸風電碩,OWP504,2,不分班,"離岸風電書報討論（三）
+SEMINAR IN OFFSHORE WIND POWER (Ⅲ)",2,期,False,50,0,4,46,卓宴琳,"四6,7(海ME 3002)","['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=OWP513&Crsname=離岸浮式構造物工程導論,,,False,離岸風電碩,OWP513,1,不分班,"離岸浮式構造物工程導論
+INTRODUCTION TO MARITIME AND OCEAN ENGINEERING OF FLOATING OFFSHORE STRUCTURES",3,期,False,50,0,3,47,林俊宏,"三2,3,4(海ME 3005)","['', '', '234', '', '', '', '']",《講授類》,['海事工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=IPS501&Crsname=台灣政府與政治,異動,更換教室9/4,False,政治碩,IPS501,0,不分班,"台灣政府與政治
+TAIWAN GOVERNMENT  AND POLITICS",3,期,False,50,0,44,6,張晉赫,"四2,3,4(社SS 1005)","['', '', '', '234', '', '', '']",《講授類》,['日本研究學程'],True
