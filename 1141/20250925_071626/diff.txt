@@ -1,0 +1,4 @@
+Item root[941] removed from iterable.
+Value of root[1430]['teacher'] changed from "吳怡瑱,康尹貞,杜思慧,許仁豪" to "吳怡瑱,康尹貞,許仁豪".
+Value of root[2529]['selected'] changed from 5 to 4.
+Value of root[2529]['remaining'] changed from 45 to 46.
