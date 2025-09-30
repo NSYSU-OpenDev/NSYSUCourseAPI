@@ -2,7 +2,7 @@ url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,c
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO2012A&Crsname=電子學實驗（一）,,,False,光電系,EO2012A,2,全英班,"電子學實驗（一）
 ELECTRONICS LABORATORY (I)",1,期,True,50,0,20,30,王俊達,"五2,3,4(工EC 6023)(實驗)","['', '', '', '', '234', '', '']",《實驗類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO2013&Crsname=工程數學（二）,,,False,光電系,EO2013,2,不分班,"工程數學（二）
-ENGINEERING MATHEMATICS (II)",3,期,True,50,1,33,17,林煒淳,"一2,3,4(工EC 4012)","['234', '', '', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體製程模組學程']",True
+ENGINEERING MATHEMATICS (II)",3,期,True,50,0,34,16,林煒淳,"一2,3,4(工EC 4012)","['234', '', '', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體製程模組學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO2013A&Crsname=工程數學（二）,,,False,光電系,EO2013A,2,全英班,"工程數學（二）
 ENGINEERING MATHEMATICS (II)",3,期,True,50,1,23,27,林煒淳,"一2,3,4(工EC 4012)","['234', '', '', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體製程模組學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO2014&Crsname=電磁學（一）,異動,更換教室9/18,False,光電系,EO2014,2,不分班,"電磁學（一）
