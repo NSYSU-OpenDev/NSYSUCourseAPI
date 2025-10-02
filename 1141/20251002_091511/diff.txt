@@ -1,0 +1,3 @@
+Item root[240]['classTime'][2] added to iterable.
+Item root[240]['classTime'][1] removed from iterable.
+Value of root[240]['room'] changed from "二3,4()" to "三E,F()".
