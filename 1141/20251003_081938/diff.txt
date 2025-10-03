@@ -1,0 +1,3 @@
+Type of root[2205]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2205]['changeDescription'] changed from NoneType to str and value changed from None to "專簽更換教師10/3".
+Value of root[2205]['teacher'] changed from "儲天輝,李永國" to "儲天輝".
