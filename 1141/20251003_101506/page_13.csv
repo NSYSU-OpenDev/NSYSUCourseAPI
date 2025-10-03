@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AF010044&Crsname=憲法（一）,,,False,校際(學士班),AF010044,0,不分班,"憲法（一）
-CONSTITUTION LAW (1)",2,期,False,50,0,1,49,校際選課,"二3,4()","['', '34', '', '', '', '', '']","《講授類》
+CONSTITUTION LAW (1)",2,期,False,50,0,1,49,校際選課,"三E,F()","['', '', 'EF', '', '', '', '']","《講授類》
 高雄大學財經法律學系",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=AF010045&Crsname=臨床心理學導論,,,False,校際(學士班),AF010045,0,不分班,"臨床心理學導論
 INTRODUCTION TO CLINICAL PSYCHOLOGY",3,期,False,50,0,1,49,校際選課,"一2,3,4()","['234', '', '', '', '', '', '']","《講授類》
