@@ -1,0 +1,5 @@
+Type of root[729]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[729]['changeDescription'] changed from NoneType to str and value changed from None to "專簽更換授課方式10/15".
+Value of root[729]['english'] changed from False to True.
+Value of root[2036]['changeDescription'] changed from "更換授課方式8/20" to "專簽更換授課方式10/15".
+Value of root[2036]['english'] changed from True to False.
