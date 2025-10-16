@@ -324,7 +324,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEPE215
 SPORT & HEALTH: BASIC YACHTING",1,期,True,25,5,34,-9,蔡鋒樺,"二1,2(海域中心/Marine sports center)","['', '12', '', '', '', '', '']","《體育類》
 限大二以上選修。",['永續海洋休閒運動產業學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEPE215C&Crsname=運動與健康：初級帆船,,,False,運動健康(必),GEPE215C,2,不分班,"運動與健康：初級帆船
-SPORT & HEALTH: BASIC YACHTING",1,期,True,25,1,26,-1,吳緒昌,"二1,2(海域中心/Marine sports center)","['', '12', '', '', '', '', '']","《體育類》
+SPORT & HEALTH: BASIC YACHTING",1,期,True,25,1,25,0,吳緒昌,"二1,2(海域中心/Marine sports center)","['', '12', '', '', '', '', '']","《體育類》
 限大二以上選修。",['永續海洋休閒運動產業學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEPE215D&Crsname=運動與健康：初級帆船,,,False,運動健康(必),GEPE215D,2,不分班,"運動與健康：初級帆船
 SPORT & HEALTH: BASIC YACHTING",1,期,True,25,3,23,2,吳緒昌,"二3,4(海域中心/Marine sports center)","['', '34', '', '', '', '', '']","《體育類》
@@ -463,7 +463,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE233
 SOCIO-CULTURAL ANALYSIS",3,期,True,60,7,60,0,王啟仲,"二5,6,7(通GE 1008)","['', '567', '', '', '', '', '']","《講授類》
 本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。","['日本研究學程', '環境教育學程', '地方敘事與創生學程', '地方敘事與文化設計微學程', '全英語通識教育菁英學程', '臺灣研究學程', '台灣文化英語微學程', '文化產業創新學程', '當代策展與藝術行政學程', '生成式AI素養微學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2336&Crsname=國際事務與公民參與,,,False,博雅向度三,GEAE2336,0,不分班,"國際事務與公民參與
-INTERNATIONAL AFFAIRS AND CIVIL ENGAGING",3,期,True,70,14,83,-13,黃韋豪,"四5,6,7(社SS 2001)","['', '', '', '567', '', '', '']","《講授類》
+INTERNATIONAL AFFAIRS AND CIVIL ENGAGING",3,期,True,70,14,82,-12,黃韋豪,"四5,6,7(社SS 2001)","['', '', '', '567', '', '', '']","《講授類》
 本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。","['環境教育學程', '日本研究學程', '全英語通識教育菁英學程', '全民國防微學程', '全球研究學分學程', '臺灣研究學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAE2341&Crsname=中國崛起與亞太區域安全,,,False,博雅向度三,GEAE2341,0,不分班,"中國崛起與亞太區域安全
 CHINA’S RISE AND SECURITY IN THE ASIA-PACIFIC REGION",3,期,True,60,1,60,0,許家豪,"二8,6,7(海ME 3006)","['', '678', '', '', '', '', '']","《講授類》
@@ -957,7 +957,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI131
 INTRODUCTION TO COMPUTERS",3,期,True,10,1,12,-2,陳伯煒,"五5,6,7(工EC 1001)","['', '', '', '', '567', '', '']","《講授類》
 限非資管系學生修習。跨院通識與電機系EE1300課程併班上課","['軟體工程學程', '人工智慧探索應用學分學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1311B&Crsname=計算機概論,,,False,跨院選修(工),GEAI1311B,0,不分班,"計算機概論
-INTRODUCTION TO COMPUTERS",3,期,True,10,0,10,0,翁愷貽,"三2,3,4(工EC 3013)","['', '', '234', '', '', '', '']","《講授類》
+INTRODUCTION TO COMPUTERS",3,期,True,10,0,9,1,翁愷貽,"三2,3,4(工EC 3013)","['', '', '234', '', '', '', '']","《講授類》
 限非資管系學生修習。跨院通識與電機系EE1300B課程併班上課","['軟體工程學程', '人工智慧探索應用學分學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=GEAI1312&Crsname=電子學（一）,,,False,跨院選修(工),GEAI1312,0,不分班,"電子學（一）
 ELECTRONICS (I)",3,期,True,10,0,9,1,馬誠佑,"二2,3,4(工EC 6019)","['', '234', '', '', '', '', '']","《講授類》
@@ -1858,10 +1858,10 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM105
 CALCULUS(I)",3,期,True,50,1,31,19,翁鵬絜,"一2,3,4(工EC 1001)","['234', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限化學系同學選修。與光電系、材光系併班。",['人工智慧與數學學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM207&Crsname=化學數學,,,False,化學系,CHEM207,2,不分班,"化學數學
-MATHEMATICS FOR CHEMISTS",3,期,False,50,1,28,22,丁尚武,"五5,6,7(理SC 0012)","['', '', '', '', '567', '', '']","《講授類》
+MATHEMATICS FOR CHEMISTS",3,期,False,50,1,27,23,丁尚武,"五5,6,7(理SC 0012)","['', '', '', '', '567', '', '']","《講授類》
 化學系主題課程。2-4年級皆可選修。",['自然科學之程式應用學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM208&Crsname=群論,,,False,化學系,CHEM208,2,不分班,"群論
-GROUP THEORY",3,期,False,50,2,53,-3,梁蘭昌,"一2,3,4(理SC 2001)","['234', '', '', '', '', '', '']","《講授類》
+GROUP THEORY",3,期,False,50,2,52,-2,梁蘭昌,"一2,3,4(理SC 2001)","['234', '', '', '', '', '', '']","《講授類》
 化學系主題課程。2-4年級皆可選修。",['自然科學之程式應用學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM209&Crsname=生物化學（一）,,,False,化學系,CHEM209,4,不分班,"生物化學（一）
 BIOCHEMISTRY(I)",3,期,False,50,0,31,19,范秀芳,"二2,3,4(理CH 4002)","['', '234', '', '', '', '', '']","《講授類》
@@ -1870,7 +1870,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM212
 CHEMISTRY LABORATORY(III)",2,期,True,50,1,18,32,"曾韋龍,王志偉","三2(理SC 4032) 三3,4(理SC 4032)(實驗)","['', '', '234', '', '', '', '']","《實驗類》
 『本課程之限修，於加退選2階段開放選修』。限學號雙號選",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM212A&Crsname=化學實驗（三）,,,True,化學系,CHEM212A,2,全英班,"化學實驗（三）
-CHEMISTRY LABORATORY(III)",2,期,True,50,0,11,39,"克里斯那,張均然","一6(理SC 4020) 一8,7(理SC 4020)(實驗)","['678', '', '', '', '', '', '']","《實驗類》
+CHEMISTRY LABORATORY(III)",2,期,True,50,0,10,40,"克里斯那,張均然","一6(理SC 4020) 一8,7(理SC 4020)(實驗)","['678', '', '', '', '', '', '']","《實驗類》
 『本課程之限修，於加退選2階段開放選修』。限學號單號選",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM212B&Crsname=化學實驗（三）,,,True,化學系,CHEM212B,2,不分班,"化學實驗（三）
 CHEMISTRY LABORATORY(III)",2,期,True,50,0,15,35,"曾韋龍,王志偉","三2(理SC 4020) 三3,4(理SC 4020)(實驗)","['', '', '234', '', '', '', '']","《實驗類》
@@ -1881,11 +1881,11 @@ CHEMISTRY LABORATORY(III)",2,期,True,50,0,13,37,"克里斯那,張均然","一6(
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM214&Crsname=分析化學（二）,,,False,化學系,CHEM214,2,不分班,"分析化學（二）
 ANALYTICAL CHEMISTRY(II)",3,期,True,50,0,35,15,張柏齡,"二6,7(理SC 0012) 四7(理SC 0012)","['', '67', '', '7', '', '', '']",《講授類》,['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM214A&Crsname=分析化學（二）,,,False,化學系,CHEM214A,2,全英班,"分析化學（二）
-ANALYTICAL CHEMISTRY(II)",3,期,True,50,0,28,22,克里斯那,"二8,7(理CH 4002) 四2(理CH 4002)","['', '78', '', '2', '', '', '']",《講授類》,['半導體製程模組學程'],True
+ANALYTICAL CHEMISTRY(II)",3,期,True,50,0,27,23,克里斯那,"二8,7(理CH 4002) 四2(理CH 4002)","['', '78', '', '2', '', '', '']",《講授類》,['半導體製程模組學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM215&Crsname=有機化學（二）,,,False,化學系,CHEM215,2,不分班,"有機化學（二）
 ORGANIC CHEMISTRY (II)",3,期,True,60,0,40,20,李志聰,"二3,4(理SC 0012) 四6(理SC 0012)","['', '34', '', '6', '', '', '']",《講授類》,['半導體製程模組學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM215A&Crsname=有機化學（二）,,,False,化學系,CHEM215A,2,全英班,"有機化學（二）
-ORGANIC CHEMISTRY (II)",3,期,True,60,0,29,31,張均然,"二6(理CH 4002) 四3,4(理CH 4002)","['', '6', '', '34', '', '', '']",《講授類》,['半導體製程模組學程'],True
+ORGANIC CHEMISTRY (II)",3,期,True,60,0,28,32,張均然,"二6(理CH 4002) 四3,4(理CH 4002)","['', '6', '', '34', '', '', '']",《講授類》,['半導體製程模組學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM302&Crsname=無機化學（二）,,,False,化學系,CHEM302,3,不分班,"無機化學（二）
 INORGANIC CHEMISTRY(II)",3,期,True,60,0,45,15,邱政超,"三3,4(理SC 2001) 四4(理SC 2001)","['', '', '34', '4', '', '', '']",《講授類》,"['半導體設備工程學程', '半導體製程模組學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CHEM302A&Crsname=無機化學（二）,,,False,化學系,CHEM302A,3,全英班,"無機化學（二）
@@ -2021,9 +2021,9 @@ INDEPENDENT STUDIES IN PHYSICS (I)",3,期,True,50,0,2,48,岩本祥,"五A,1,B(理
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PHYS313R&Crsname=物理研究專題（一）,,,True,物理系,PHYS313R,3,全英班,"物理研究專題（一）
 INDEPENDENT STUDIES IN PHYSICS (I)",3,期,True,50,0,2,48,呂浩宇,"四A,1,B(理SC 2006-3)","['', '', '', 'A1B', '', '', '']","《獨立研究》
 研究主題：電波干涉天文原理與實務應用，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PHYS313S&Crsname=物理研究專題（一）,,,False,物理系,PHYS313S,3,不分班,"物理研究專題（一）
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PHYS313S&Crsname=物理研究專題（一）,異動,專簽更換授課方式10/15,False,物理系,PHYS313S,3,不分班,"物理研究專題（一）
 INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,1,49,林德鴻,"四A,1,B(理PH 7001)","['', '', '', 'A1B', '', '', '']","《獨立研究》
-研究主題：隱形斗篷簡介(Introduction to Invisibility Cloak)，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],False
+研究主題：隱形斗篷簡介(Introduction to Invisibility Cloak)，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PHYS313T&Crsname=物理研究專題（一）,,,False,物理系,PHYS313T,3,不分班,"物理研究專題（一）
 INDEPENDENT STUDIES IN PHYSICS (I)",3,期,False,50,0,1,49,陳宗緯,"五A,1,B(理PH 7006)","['', '', '', '', 'A1B', '', '']","《獨立研究》
 研究主題：相對論與自旋動力學，請事先與老師洽談。",['半導體物理與先進元件分析微學程'],False
@@ -3991,7 +3991,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5100&
 SEMINAR",1,期,True,160,1,152,8,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《演講/參訪》
 碩、博士班併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5100A&Crsname=書報討論,,,False,電機碩,EE5100A,2,不分班,"書報討論
-SEMINAR",1,期,True,160,0,136,24,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《演講/參訪》
+SEMINAR",1,期,True,160,0,135,25,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《演講/參訪》
 碩、博士班併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE5107&Crsname=光電半導體元件專題,異動,更換時間及教室8/29,False,電機碩,EE5107,0,不分班,"光電半導體元件專題
 SPECIAL TOPICS IN SEMICONDUCTOR OPTOELECTRONICS",3,期,False,50,0,5,45,莊豐任,"二2,3,4(工EC 1008)","['', '234', '', '', '', '', '']",《獨立研究》,[],False
@@ -4385,7 +4385,7 @@ ORGANIC SOLAR CELLS",3,期,False,50,1,22,28,黃文堯,"四5,6,7(國IR 3003)","['
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5041&Crsname=有機半導體材料專題,,,False,光電碩,EO5041,0,不分班,"有機半導體材料專題
 SPECIAL TOPICS: ORGANIC SEMICONDUCTING MATERIALS",3,期,False,50,0,9,41,黃文堯,"四C,D,E(國IR 2007)","['', '', '', 'CDE', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5042&Crsname=有機光電材料原理及應用,,,False,光電碩,EO5042,0,不分班,"有機光電材料原理及應用
-THE PRINCIPLE AND APPLICATION OF ORGANIC OPTP-ELECTRONIC MATERIALS",3,期,False,50,3,56,-6,張美濙,"二2,3,4(國IR 3003)","['', '234', '', '', '', '', '']",《講授類》,[],True
+THE PRINCIPLE AND APPLICATION OF ORGANIC OPTP-ELECTRONIC MATERIALS",3,期,False,50,3,55,-5,張美濙,"二2,3,4(國IR 3003)","['', '234', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5050&Crsname=積體光電元件專題,,,False,光電碩,EO5050,0,不分班,"積體光電元件專題
 SPECIAL TOPICS IN INTEGRATED PHOTONIC DEVICES",3,期,False,50,0,4,46,洪玉珠,"二C,D,E(工EC 3019)","['', 'CDE', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO5052&Crsname=非線性光纖傳送專題,,,False,光電碩,EO5052,0,不分班,"非線性光纖傳送專題
@@ -5069,9 +5069,9 @@ PYTHON FOR MARINE ENVIRONMENTAL DATA ANALYSIS",3,期,False,50,0,12,38,夏沛亞,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MAEV679&Crsname=波與孔隙物作用專研（一）,,,False,海工碩,MAEV679,2,不分班,"波與孔隙物作用專研（一）
 INDEPENDENT STUDIES IN WAVE-POROUS STRUCTURE (I)",2,期,False,50,0,2,48,許弘莒,"一A,1()","['A1', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA501&Crsname=專題討論,,,False,海事碩,MA501,1,不分班,"專題討論
-SEMINAR",1,期,True,50,0,6,44,高世明,"二3,4(海MA 2034)","['', '34', '', '', '', '', '']",《研討類》,[],False
+SEMINAR",1,期,True,50,0,5,45,高世明,"二3,4(海MA 2034)","['', '34', '', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA502&Crsname=海洋事務總論,,,False,海事碩,MA502,1,不分班,"海洋事務總論
-MARINE AFFAIRS",3,期,True,50,0,7,43,蔡宏政,"二5,6,7(海MA 2034)","['', '567', '', '', '', '', '']",《講授類》,"['環境教育學程', '海洋永續發展產業科技微學程']",False
+MARINE AFFAIRS",3,期,True,50,0,6,44,蔡宏政,"二5,6,7(海MA 2034)","['', '567', '', '', '', '', '']",《講授類》,"['環境教育學程', '海洋永續發展產業科技微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA504&Crsname=海洋學導論,異動,更換教室9/11,False,海事碩,MA504,0,不分班,"海洋學導論
 INTRODUCTION TO OCEANOGRAPHY",3,期,False,50,1,6,44,"劉莉蓮,張詠斌,李逸環,雷漢杰","一2,3,4(海MA 2009)","['234', '', '', '', '', '', '']",《講授類》,['環境教育學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA505&Crsname=社會科學研究方法,,,False,海事碩,MA505,0,不分班,"社會科學研究方法
@@ -5079,7 +5079,7 @@ RESEARCH METHODS IN SOCIAL SCIENCE",3,期,False,50,0,2,48,蔡宏政,"三5,6,7(�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA506&Crsname=論文研究,,,False,海事碩,MA506,2,不分班,"論文研究
 THESIS RESEARCH",2,期,True,50,0,7,43,"張懿,高世明","五A,1(授課教師研究室)","['', '', '', '', 'A1', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA546&Crsname=海洋政策,,,False,海事碩,MA546,0,不分班,"海洋政策
-MARINE POLICY",3,期,False,50,0,7,43,高世明,"一D,E,F(海MA 2034)","['DEF', '', '', '', '', '', '']",《講授類》,['環境教育學程'],False
+MARINE POLICY",3,期,False,50,0,6,44,高世明,"一D,E,F(海MA 2034)","['DEF', '', '', '', '', '', '']",《講授類》,['環境教育學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA562&Crsname=海洋與環境政策,,,False,海事碩,MA562,0,不分班,"海洋與環境政策
 OCEAN AND ENVIRONMENTAL POLICY",3,期,False,50,0,5,45,高世明,"五2,3,4(海MA 2034)","['', '', '', '', '234', '', '']",《講授類》,"['環境教育學程', '氣候變遷與調適學分學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MA577&Crsname=資源經濟學,,,False,海事碩,MA577,0,不分班,"資源經濟學
@@ -5124,8 +5124,8 @@ INTRODUCTION TO PALEOCLIMATOLOGY",2,期,False,50,0,6,44,張詠斌,"五3,4(海MA 
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO643&Crsname=中等物理海洋學,,,False,海科碩,DO643,0,不分班,"中等物理海洋學
 INTERMEDIATE PHYSICAL OCEANOGRAPHY",2,期,False,50,0,6,44,方盈智,"三3,4(海MA 3040)","['', '', '34', '', '', '', '']","《講授類》
 與DO445併班上課。",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO647&Crsname=現場觀測與資料分析,異動,更換授課方式8/20,False,海科碩,DO647,0,不分班,"現場觀測與資料分析
-FIELD OBSERVATIONS AND DATA ANALYSIS",3,期,False,50,0,4,46,李逸環,"四8,6,7(海MA 1020)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO647&Crsname=現場觀測與資料分析,異動,專簽更換授課方式10/15,False,海科碩,DO647,0,不分班,"現場觀測與資料分析
+FIELD OBSERVATIONS AND DATA ANALYSIS",3,期,False,50,0,4,46,李逸環,"四8,6,7(海MA 1020)","['', '', '', '678', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO667&Crsname=海洋生物專題研究（一）,,,False,海科碩,DO667,1,不分班,"海洋生物專題研究（一）
 INDEPENDENT STUDIES IN MARINE BIOLOGY（I）",3,期,True,50,0,13,37,"劉莉蓮,塗子萱,廖德裕,托星豪,熊寶兒,王志騰,陳慶能","三D,E,F()","['', '', 'DEF', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=DO673&Crsname=海洋地質及生地化學專題研究（三）,,,False,海科碩,DO673,0,不分班,"海洋地質及生地化學專題研究（三）
@@ -5763,7 +5763,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SBF502A
 MACROECONOMIC ANALYSIS & PORTFOLIO MANAGEMENT",3,期,True,50,0,18,32,艾西亞,,"['', '', '', '', '', '89C', '']","《講授類》
 本課程限國資所(企業組)學生加選。實際上課時間為15:40-18:30。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SBF503&Crsname=創新商業模式實作（一）,,,False,國際資產所,SBF503,1,不分班,"創新商業模式實作（一）
-INDEPENDENT STUDIES IN INNOVATIVE BUSINESS MODELS-1",1,期,True,65,0,49,16,"王昭文,郭志文",,"['', '', '', '', '8', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN INNOVATIVE BUSINESS MODELS-1",1,期,True,65,0,48,17,"王昭文,郭志文",,"['', '', '', '', '8', '', '']","《獨立研究》
 本課程限國資所學生加選",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=SBF513&Crsname=跨國金融業務法規與法遵實務,異動,更換節次8/14,False,國際資產所,SBF513,1,不分班,"跨國金融業務法規與法遵實務
 CROSS-BORDER LAW COMPLIANCE IN PRACTICE",2,期,False,50,0,31,19,饒永華,,"['', '', '', '', '67', '', '']","《講授類》
@@ -6733,31 +6733,31 @@ ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,�
 網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
 ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
 企業管理組;
+網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
 網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM502&Crsname=企業經營策略,異動,修正名額及教室8/28,False,企企管碩,BM502,0,,"企業經營策略
 BUSINESS POLICY AND STRATEGY",3,期,False,65,0,73,-8,蔡宗霖,"四C,D,E(管CM 1037)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
