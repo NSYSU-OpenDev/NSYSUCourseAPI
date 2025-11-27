@@ -170,16 +170,13 @@ async def get_academic_year(
         
         # Generate crawling tasks with semaphore
         tasks = [fetch(s, code, academic_year, i, semaphore=semaphore) for i in range(1, max_page + 1)]
-        pages = list(await tqdm_async.gather(*tasks, desc="Fetching data", unit="page", return_exceptions=True))
         
-        # Check for exceptions and filter out failed requests
-        valid_pages = []
-        for i, page in enumerate(pages):
-            if isinstance(page, Exception):
-                print(f"\nWarning: Failed to fetch page {i+1}: {page}")
-            else:
-                valid_pages.append(page)
-        pages = valid_pages
+        # Use tqdm_async.gather without return_exceptions, handle errors in fetch function
+        try:
+            pages = list(await tqdm_async.gather(*tasks, desc="Fetching data", unit="page"))
+        except Exception as e:
+            print(f"\nError during fetching: {e}")
+            raise
 
     result = []
     for page in tqdm(pages, desc="Parsing data", unit="page"):
