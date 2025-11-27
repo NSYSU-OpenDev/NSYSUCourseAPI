@@ -92,7 +92,8 @@ async def get_academic_year(
     ctx = ssl.create_default_context(ssl.Purpose.SERVER_AUTH)
     ctx.options |= 0x4  # OP_LEGACY_SERVER_CONNECT
     conn = aiohttp.TCPConnector(ssl=ctx)
-    async with aiohttp.ClientSession(connector=conn, headers=DEFAULT_HEADERS) as s:
+    timeout = aiohttp.ClientTimeout(total=600, connect=60, sock_read=60)
+    async with aiohttp.ClientSession(connector=conn, headers=DEFAULT_HEADERS, timeout=timeout) as s:
         out = await s.get(f"{BASEURL}/qrycourse.asp?HIS=2")
 
         if academic_year is None:
