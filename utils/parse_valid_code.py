@@ -51,7 +51,7 @@ def parse_valid_code(img: bytes, module_path="model/EfficientCapsNetDeploy.pth")
     model = make_deploy_model()
 
     # Load the model weights
-    model.load_state_dict(torch.load(module_path, map_location=DEVICE))
+    model.load_state_dict(torch.load(module_path, map_location=DEVICE, weights_only=False))
     model.to(DEVICE)
     model.eval()
 
