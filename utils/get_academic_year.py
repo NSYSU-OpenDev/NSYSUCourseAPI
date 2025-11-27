@@ -1,3 +1,4 @@
+import asyncio
 import re
 import ssl
 import time
@@ -15,6 +16,8 @@ BASEURL = "https://selcrs.nsysu.edu.tw/menu1"
 DEFAULT_HEADERS = {
     "User-Agent": "Mozilla/5.0 (X11; Linux x86_64) AppleWebKit/537.36",
 }
+MAX_CONCURRENT_REQUESTS = 2  # Limit concurrent connections
+MAX_RETRIES = 5  # Maximum retry attempts
 
 
 async def fetch(
@@ -24,9 +27,10 @@ async def fetch(
     index: int = 1,
     *,
     callback: Optional[Callable[[], None]] = None,
+    semaphore: Optional[asyncio.Semaphore] = None,
 ) -> str:
     """
-    Fetch the data
+    Fetch the data with retry logic
 
     Args:
         s (aiohttp.ClientSession): The session
@@ -34,40 +38,76 @@ async def fetch(
         academic_year (str): The academic year
         index (int): The index
         callback (Optional[Callable[[], None]]): The callback function
+        semaphore (Optional[asyncio.Semaphore]): Semaphore to limit concurrent requests
 
     Returns:
         str: The response
     """
-    try:
-        async with s.post(
-            f"{BASEURL}/dplycourse.asp?page={index}",
-            data={
-                "HIS": "",
-                "IDNO": "",
-                "ITEM": "",
-                "D0": academic_year,
-                "DEG_COD": "*",
-                "D1": "",
-                "D2": "",
-                "CLASS_COD": "",
-                "SECT_COD": "",
-                "TYP": "1",
-                "SDG_COD": "",
-                "teacher": "",
-                "crsname": "",
-                "T3": "",
-                "WKDAY": "",
-                "SECT": "",
-                "nowhis": "1",
-                "ValidCode": code,
-            },
-        ) as resp:
-            result = await resp.text()
-            if callback is not None:
-                callback()
-            return result
-    except aiohttp.ClientOSError:
-        return await fetch(s, code, academic_year, index, callback=callback)
+    for attempt in range(MAX_RETRIES):
+        try:
+            if semaphore:
+                async with semaphore:
+                    async with s.post(
+                        f"{BASEURL}/dplycourse.asp?page={index}",
+                        data={
+                            "HIS": "",
+                            "IDNO": "",
+                            "ITEM": "",
+                            "D0": academic_year,
+                            "DEG_COD": "*",
+                            "D1": "",
+                            "D2": "",
+                            "CLASS_COD": "",
+                            "SECT_COD": "",
+                            "TYP": "1",
+                            "SDG_COD": "",
+                            "teacher": "",
+                            "crsname": "",
+                            "T3": "",
+                            "WKDAY": "",
+                            "SECT": "",
+                            "nowhis": "1",
+                            "ValidCode": code,
+                        },
+                    ) as resp:
+                        result = await resp.text()
+                        if callback is not None:
+                            callback()
+                        return result
+            else:
+                async with s.post(
+                    f"{BASEURL}/dplycourse.asp?page={index}",
+                    data={
+                        "HIS": "",
+                        "IDNO": "",
+                        "ITEM": "",
+                        "D0": academic_year,
+                        "DEG_COD": "*",
+                        "D1": "",
+                        "D2": "",
+                        "CLASS_COD": "",
+                        "SECT_COD": "",
+                        "TYP": "1",
+                        "SDG_COD": "",
+                        "teacher": "",
+                        "crsname": "",
+                        "T3": "",
+                        "WKDAY": "",
+                        "SECT": "",
+                        "nowhis": "1",
+                        "ValidCode": code,
+                    },
+                ) as resp:
+                    result = await resp.text()
+                    if callback is not None:
+                        callback()
+                    return result
+        except (aiohttp.ClientOSError, aiohttp.ServerTimeoutError, asyncio.TimeoutError) as e:
+            if attempt < MAX_RETRIES - 1:
+                wait_time = 2 ** attempt  # Exponential backoff: 1s, 2s, 4s, 8s, 16s
+                await asyncio.sleep(wait_time)
+            else:
+                raise  # Re-raise on final attempt
 
 
 async def get_academic_year(
@@ -125,9 +165,21 @@ async def get_academic_year(
         if max_page == 0:
             raise ValueError("Max page is 0")
 
-        # Generate crawling tasks
-        tasks = map(lambda i: fetch(s, code, academic_year, i), range(1, max_page + 1))
-        pages = list(await tqdm_async.gather(*tasks, desc="Fetching data", unit="page"))
+        # Create semaphore to limit concurrent requests
+        semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
+        
+        # Generate crawling tasks with semaphore
+        tasks = [fetch(s, code, academic_year, i, semaphore=semaphore) for i in range(1, max_page + 1)]
+        pages = list(await tqdm_async.gather(*tasks, desc="Fetching data", unit="page", return_exceptions=True))
+        
+        # Check for exceptions and filter out failed requests
+        valid_pages = []
+        for i, page in enumerate(pages):
+            if isinstance(page, Exception):
+                print(f"\nWarning: Failed to fetch page {i+1}: {page}")
+            else:
+                valid_pages.append(page)
+        pages = valid_pages
 
     result = []
     for page in tqdm(pages, desc="Parsing data", unit="page"):
