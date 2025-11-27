@@ -1,4 +1,5 @@
 name: Generate API
+
 on:
   workflow_dispatch:
     inputs:
@@ -23,34 +24,61 @@ jobs:
     runs-on: ubuntu-latest
     concurrency: tick-lock
     steps:
-      - uses: actions/checkout@v4
 
+      # -------------------------------
+      # 1. Checkout main repo WITH LFS
+      # -------------------------------
+      - uses: actions/checkout@v4
+        with:
+          lfs: true           # <-- IMPORTANT: download model .pth
+          fetch-depth: 1      # faster, no need for full history
+
+      # -------------------------------------
+      # 2. Setup Python environment
+      # -------------------------------------
       - uses: actions/setup-python@v5
         id: pysetup
         with:
           python-version: '3.11'
           cache: pip
 
-      - name: setup-python requires
-        # if: ${{ !steps.pysetup.outputs.cache-hit }}
+      - name: Install Python deps
         run: pip install -r requirements.txt
 
-      - name: Clone
+      # ---------------------------------------------------
+      # 3. Cache the model so LFS doesn't re-download every run
+      # ---------------------------------------------------
+      - name: Cache LFS model
+        uses: actions/cache@v4
+        with:
+          path: model/EfficientCapsNetDeploy.pth
+          key: lfs-model-${{ hashFiles('model/EfficientCapsNetDeploy.pth') }}
+
+      # -------------------------------------
+      # 4. Checkout gh-pages branch (NO LFS)
+      # -------------------------------------
+      - name: Clone gh-pages branch
         uses: actions/checkout@v4
         with:
           repository: ${{ github.repository }}
           path: data
           ref: gh-pages
+          lfs: false          # gh-pages does not need LFS
 
+      # -------------------------------------
+      # 5. Run your script
+      # -------------------------------------
       - name: Start
         run: python main.py start
         env:
-          # https://en.wikipedia.org/wiki/List_of_tz_database_time_zones#List
           TZ: TW
           ACADEMIC_YEAR: ${{ github.event.inputs.academic_year }}
           RAW_BASE_URL: https://raw.githubusercontent.com/nsysu-opendev/NSYSUCourseAPI/gh-pages/
           STATIC_BASE_URL: https://nsysu-opendev.github.io/NSYSUCourseAPI/
 
+      # -------------------------------------
+      # 6. Deploy data to gh-pages
+      # -------------------------------------
       - name: Deploy
         run: |
           git config --global user.name "GitHub Action"
