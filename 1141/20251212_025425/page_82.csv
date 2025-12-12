@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME549&Crsname=類神經網路概論,,,False,機電碩,MEME549,1,不分班,"類神經網路概論
-INTRODUCTION TO NEURAL NETWORKS",3,期,False,50,0,72,-22,嚴成文,"一2,3,4(工EC 3006)","['234', '', '', '', '', '', '']",《講授類》,"['跨領域智慧製造學程', '製造與大數據分析微學程']",False
+INTRODUCTION TO NEURAL NETWORKS",3,期,False,50,0,71,-21,嚴成文,"一2,3,4(工EC 3006)","['234', '', '', '', '', '', '']",《講授類》,"['跨領域智慧製造學程', '製造與大數據分析微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME550&Crsname=科技產業分析,異動,更換授課方式9/11,False,機電碩,MEME550,1,不分班,"科技產業分析
 ANALYSIS OF TECHNOLOGICAL INDUSTRY",3,期,False,50,6,11,39,吳美玲,"五2,3,4(工EN 4055-2)","['', '', '', '', '234', '', '']","《講授類》
 EMI/CLIL/STEM",[],False
@@ -27,7 +27,7 @@ INDEPENDENT STUDIES IN ENGINEERING APPLICATIONS BY NUMERICAL COMPUTATIONS",3,期
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME6114&Crsname=智慧製造專題,,,False,機電碩,MEME6114,2,不分班,"智慧製造專題
 INDEPENDENT STUDIES IN INTELLIGENT MANUFACTURING",3,期,False,50,0,7,43,汪正祺,"一C,D,E(工EN 3039-1)","['CDE', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME6116&Crsname=微系統力學設計與分析專題 （一）,,,False,機電碩,MEME6116,2,不分班,"微系統力學設計與分析專題 （一）
-INDEPENDENT STUDIES IN MICROSYSTEM MECHANICAL DESIGN AND ANALYSIS (I)",3,期,False,50,0,7,43,施孟鎧,"一9,C,D(工EN 3040-1)","['9CD', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN MICROSYSTEM MECHANICAL DESIGN AND ANALYSIS (I)",3,期,False,50,0,6,44,施孟鎧,"一9,C,D(工EN 3040-1)","['9CD', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME6119&Crsname=熱流與能源技術專題（一）,,,False,機電碩,MEME6119,2,不分班,"熱流與能源技術專題（一）
 INDEPENDENT STUDIES IN THERMAL FLUIDS AND ENERGY RESEARCH (I)",3,期,False,50,0,3,47,梁俊德,"二8,9,C(工EN 3041)","['', '89C', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME6120&Crsname=虛實整合最佳化設計專題（一）,,,False,機電碩,MEME6120,2,不分班,"虛實整合最佳化設計專題（一）

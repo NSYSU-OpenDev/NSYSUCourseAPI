@@ -2,7 +2,7 @@ url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,c
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3008B&Crsname=電工實驗（三）,,,False,電機系,EE3008B,3,全英班,"電工實驗（三）
 ELECTRICAL ENGINEERING LAB. (III)",1,期,True,56,0,50,6,"邱日清,陳有德","四2,3,4(工EC 6018)(實驗)","['', '', '', '234', '', '', '']",《實驗類》,['太空科技微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3009&Crsname=電工實驗（五）,,,False,電機系,EE3009,4,甲班,"電工實驗（五）
-ELECTRICAL ENGINEERING LAB. (V)",1,期,True,56,0,39,17,"溫朝凱,王復康","三5,6,7(工EC 6023)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,[],False
+ELECTRICAL ENGINEERING LAB. (V)",1,期,True,56,0,38,18,"溫朝凱,王復康","三5,6,7(工EC 6023)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3009A&Crsname=電工實驗（五）,,,False,電機系,EE3009A,4,乙班,"電工實驗（五）
 ELECTRICAL ENGINEERING LAB. (V)",1,期,True,56,0,40,16,"溫朝凱,王復康","三5,6,7(工EC 6018)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3009B&Crsname=電工實驗（五）,,,False,電機系,EE3009B,4,全英班,"電工實驗（五）
@@ -33,15 +33,15 @@ POWER SYSTEMS(I)",3,期,False,50,0,18,32,艾慕明,"一2,3,4(工EC 2007)","['234
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3502&Crsname=微波工程,,,False,電機系,EE3502,3,不分班,"微波工程
 MICROWAVE ENGINEERING",3,期,False,70,0,54,16,王復康,"二2,3,4(工EC 3012)","['', '234', '', '', '', '', '']",《講授類》,['太空科技微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3602&Crsname=通訊系統,,,False,電機系,EE3602,3,甲班,"通訊系統
-COMMUNICATION SYSTEMS",3,期,True,70,0,42,28,王藏億,"五2,3,4(工EC 2002)","['', '', '', '', '234', '', '']","《講授類》
+COMMUNICATION SYSTEMS",3,期,True,70,0,41,29,王藏億,"五2,3,4(工EC 2002)","['', '', '', '', '234', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['類比射頻IC設計學程', '太空科技微學程', '南星產業樞紐學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3602A&Crsname=通訊系統,,,False,電機系,EE3602A,3,乙班,"通訊系統
-COMMUNICATION SYSTEMS",3,期,True,70,0,39,31,王藏億,"五2,3,4(工EC 2002)","['', '', '', '', '234', '', '']","《講授類》
+COMMUNICATION SYSTEMS",3,期,True,70,0,38,32,王藏億,"五2,3,4(工EC 2002)","['', '', '', '', '234', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['類比射頻IC設計學程', '太空科技微學程', '南星產業樞紐學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3602B&Crsname=通訊系統,,,False,電機系,EE3602B,3,全英班,"通訊系統
 COMMUNICATION SYSTEMS",3,期,True,70,0,58,12,黃婉甄,"三5,6,7(工EC 3014)","['', '', '567', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['類比射頻IC設計學程', '太空科技微學程', '南星產業樞紐學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3705&Crsname=實用數位系統設計,異動,更換時間及教室6/26,False,電機系,EE3705,3,不分班,"實用數位系統設計
-PRACTICAL DIGITAL SYSTEMS DESIGN",3,期,False,50,0,35,15,謝東佑,"三2,3,4(工EC 2010)","['', '', '234', '', '', '', '']",《講授類》,"['數位IC設計學程', '矽光子學程']",True
+PRACTICAL DIGITAL SYSTEMS DESIGN",3,期,False,50,0,34,16,謝東佑,"三2,3,4(工EC 2010)","['', '', '234', '', '', '', '']",《講授類》,"['數位IC設計學程', '矽光子學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE3901&Crsname=數值運算實務,,,False,電機系,EE3901,3,不分班,"數值運算實務
 PRACTICE OF NUMERICAL COMPUTING",3,期,False,50,0,7,43,吳珮歆,"三2,3,4(工EC 6016)","['', '', '234', '', '', '', '']",《講授類》,['無人載具學程'],False
