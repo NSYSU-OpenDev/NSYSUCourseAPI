@@ -2150,14 +2150,14 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE1700A
 DESIGN OF DIGITAL SYSTEMS",3,期,True,70,1,29,41,李宗哲,"四5,6,7(工EC 1009)","['', '', '', '567', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['數位IC設計學程', '矽光子學程', '南星產業樞紐學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE1700B&Crsname=數位系統設計,,,False,電機系,EE1700B,1,全英班,"數位系統設計
-DESIGN OF DIGITAL SYSTEMS",3,期,True,70,1,60,10,王朝欽,"一2,3,4(工EC 3012)","['234', '', '', '', '', '', '']","《講授類》
+DESIGN OF DIGITAL SYSTEMS",3,期,True,70,1,59,11,王朝欽,"一2,3,4(工EC 3012)","['234', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['數位IC設計學程', '矽光子學程', '南星產業樞紐學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2006&Crsname=電工實驗（一）,,,False,電機系,EE2006,2,甲班,"電工實驗（一）
 ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,0,38,20,"莊豐任,謝耀慶","三2,3,4(工EC 6023)(實驗)","['', '', '234', '', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2006A&Crsname=電工實驗（一）,,,False,電機系,EE2006A,2,乙班,"電工實驗（一）
 ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,0,32,26,"莊豐任,謝耀慶","三2,3,4(工EC 6018)(實驗)","['', '', '234', '', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2006B&Crsname=電工實驗（一）,,,False,電機系,EE2006B,2,全英班,"電工實驗（一）
-ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,0,59,-1,"莊豐任,謝耀慶","四5,6,7(工EC 6023)(實驗)","['', '', '', '567', '', '', '']",《實驗類》,[],True
+ELECTRICAL ENGINEERING LAB.(I)",1,期,True,58,1,58,0,"莊豐任,謝耀慶","四5,6,7(工EC 6023)(實驗)","['', '', '', '567', '', '', '']",《實驗類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2100&Crsname=電子學（一）,,,False,電機系,EE2100,2,甲班,"電子學（一）
 ELECTRONICS (I)",3,期,True,70,0,66,4,馬誠佑,"二2,3,4(工EC 6019)","['', '234', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['半導體元件學程', '數位IC設計學程', '類比射頻IC設計學程', '半導體製程模組學程', '半導體設備工程學程']",False
@@ -2165,7 +2165,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2100A
 ELECTRONICS (I)",3,期,True,70,0,48,22,馬誠佑,"二2,3,4(工EC 6019)","['', '234', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['半導體元件學程', '數位IC設計學程', '類比射頻IC設計學程', '半導體製程模組學程', '半導體設備工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2100B&Crsname=電子學（一）,異動,更換教室9/11,False,電機系,EE2100B,2,全英班,"電子學（一）
-ELECTRONICS (I)",3,期,True,70,3,76,-6,陳昶孝,"五2,3,4(工EC 6019)","['', '', '', '', '234', '', '']","《講授類》
+ELECTRONICS (I)",3,期,True,70,3,75,-5,陳昶孝,"五2,3,4(工EC 6019)","['', '', '', '', '234', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['半導體元件學程', '數位IC設計學程', '類比射頻IC設計學程', '半導體製程模組學程', '半導體設備工程學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2204&Crsname=矩陣理論及應用,,,False,電機系,EE2204,2,不分班,"矩陣理論及應用
 MATRIX THEORY AND APPLICATIONS",3,期,False,50,0,5,45,高崇堯,"一5,6,7(工EC 2010)","['567', '', '', '', '', '', '']",《講授類》,[],False
@@ -2180,7 +2180,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2401A
 CIRCUIT THEORY (II)",3,期,True,70,1,35,35,李宗璘,"一2,3,4(工EC 2011)","['234', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['半導體元件學程', '南星產業樞紐學程', '半導體製程模組學程', '半導體設備工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2401B&Crsname=電路學（二）,異動,更換教室8/8,False,電機系,EE2401B,2,全英班,"電路學（二）
-CIRCUIT THEORY (II)",3,期,True,70,1,58,12,余祥華,"三2,3,4(工EC 3012)","['', '', '234', '', '', '', '']","《講授類》
+CIRCUIT THEORY (II)",3,期,True,70,2,57,13,余祥華,"三2,3,4(工EC 3012)","['', '', '234', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['半導體元件學程', '南星產業樞紐學程', '半導體製程模組學程', '半導體設備工程學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2403&Crsname=電力電子學,,,False,電機系,EE2403,3,不分班,"電力電子學
 POWER ELECTRONICS",3,期,False,50,0,30,20,哈菲茲,"三2,3,4(工EC 3014)","['', '', '234', '', '', '', '']",《講授類》,"['半導體設備工程學程', '永續能源學程', '無人載具學程', '海事工程學程', '南星產業樞紐學程', '半導體製程模組學程']",True
@@ -2191,7 +2191,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2500A
 ELECTROMAGNETIC THEORY (I)",3,期,True,70,0,38,32,李杰穎,"二5,6,7(工EC 1009)","['', '567', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['半導體元件學程', '半導體製程模組學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2500B&Crsname=電磁學（一）,,,False,電機系,EE2500B,2,全英班,"電磁學（一）
-ELECTROMAGNETIC THEORY (I)",3,期,True,70,0,71,-1,沈昭元,"二2,3,4(工EC 3013)","['', '234', '', '', '', '', '']","《講授類》
+ELECTROMAGNETIC THEORY (I)",3,期,True,70,1,70,0,沈昭元,"二2,3,4(工EC 3013)","['', '234', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['半導體元件學程', '半導體製程模組學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2600&Crsname=訊號與系統,,,False,電機系,EE2600,2,甲班,"訊號與系統
 SIGNALS AND SYSTEMS",3,期,True,70,0,42,28,曾凡碩,"四5,6,7(工EC 2002)","['', '', '', '567', '', '', '']","《講授類》
@@ -2200,7 +2200,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2600A
 SIGNALS AND SYSTEMS",3,期,True,70,0,35,35,曾凡碩,"四5,6,7(工EC 2002)","['', '', '', '567', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['類比射頻IC設計學程', '智慧製造聯網微學程', '南星產業樞紐學程', '跨領域智慧製造學程', '製造與大數據分析微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2600B&Crsname=訊號與系統,,,False,電機系,EE2600B,2,全英班,"訊號與系統
-SIGNALS AND SYSTEMS",3,期,True,70,0,57,13,曾乙立,"二5,6,7(工EC 3013)","['', '567', '', '', '', '', '']","《講授類》
+SIGNALS AND SYSTEMS",3,期,True,70,1,56,14,曾乙立,"二5,6,7(工EC 3013)","['', '567', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。","['類比射頻IC設計學程', '智慧製造聯網微學程', '南星產業樞紐學程', '跨領域智慧製造學程', '製造與大數據分析微學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EE2701&Crsname=硬體描述語言,,,False,電機系,EE2701,2,不分班,"硬體描述語言
 HARDWARE DESCRIPTION LANGUAGES",3,期,False,50,0,8,42,邱日清,"五2,3,4(工EC 3012)","['', '', '', '', '234', '', '']",《講授類》,"['數位IC設計學程', '南星產業樞紐學程']",False
@@ -2383,7 +2383,7 @@ INTRODUCTION TO MICROELECTROMECHANICAL SYSTEMS",3,期,False,50,2,38,12,林哲信
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME332&Crsname=系統化工程設計概論,,,False,機電系,MEME332,3,不分班,"系統化工程設計概論
 INTRODUCTION TO SYSTEMATIC  ENGINEERING DESIGN",3,期,False,25,3,25,0,楊政融,"二2,3,4(工EN 3021)","['', '234', '', '', '', '', '']",《講授類》,['碳流資訊盤查與低碳設計微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME333&Crsname=中等熱傳學,,,False,機電系,MEME333,3,不分班,"中等熱傳學
-INTERMEDIATE HEAT TRANSFER",3,期,False,50,0,6,44,鄭威利,"三5,6,7(工EN 2022)","['', '', '567', '', '', '', '']",《講授類》,['半導體設備工程學程'],True
+INTERMEDIATE HEAT TRANSFER",3,期,False,50,1,5,45,鄭威利,"三5,6,7(工EN 2022)","['', '', '567', '', '', '', '']",《講授類》,['半導體設備工程學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME336&Crsname=由創新申請專利,,,False,機電系,MEME336,2,不分班,"由創新申請專利
 PATENT APPLICATION VIA INNOVATIONS",3,期,False,50,1,52,-2,何應勤,"二8,9(工EN 3021) 四8(工EN 3021)","['', '89', '', '8', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME401&Crsname=熱流實驗,異動,更換時間及教室8/18,False,機電系,MEME401,4,甲班,"熱流實驗
@@ -2407,7 +2407,7 @@ PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME429B&Crsname=機電實務專案,,,False,機電系,MEME429B,4,全英班,"機電實務專案
 PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,20,30,"林哲信,潘正堂,王郁仁,程啓正","四A(實驗)(實驗) 五A,1(實驗)(實驗)","['', '', '', 'A', 'A1', '', '']",《實習類》,['太空科技微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=MEME430&Crsname=電腦輔助熱流工程分析,,,False,機電系,MEME430,4,不分班,"電腦輔助熱流工程分析
-COMPUTER AIDED THERMAL-FLUID ENGINEERING",3,期,False,50,1,11,39,許聖彥,"二5,6,7(工EN 4055-2)","['', '567', '', '', '', '', '']",《講授類》,[],False
+COMPUTER AIDED THERMAL-FLUID ENGINEERING",3,期,False,50,2,10,40,許聖彥,"二5,6,7(工EN 4055-2)","['', '567', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE104&Crsname=微積分,,,False,資工系,CSE104,1,不分班,"微積分
 CALCULUS",3,期,True,60,0,61,-1,程正傑,"三5,6,7(工EC 9032)","['', '', '567', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限本系學生修習",[],True
@@ -2478,7 +2478,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO1003A
 CALCULUS (I)",3,期,True,50,1,24,26,翁鵬絜,"一2,3,4(工EC 1001)","['234', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限本系生選修。",['人工智慧與數學學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO1004&Crsname=計算機程式,,,False,光電系,EO1004,1,不分班,"計算機程式
-COMPUTER PROGRAMMING",3,期,True,60,3,68,-8,林元堯,"四9,C,D(圖IL PC01)","['', '', '', '9CD', '', '', '']",《講授類》,"['金融工程學程', '計算物理及人工智慧微學程', '自然科學之程式應用學程']",True
+COMPUTER PROGRAMMING",3,期,True,60,3,67,-7,林元堯,"四9,C,D(圖IL PC01)","['', '', '', '9CD', '', '', '']",《講授類》,"['金融工程學程', '計算物理及人工智慧微學程', '自然科學之程式應用學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO1004A&Crsname=計算機程式,,,False,光電系,EO1004A,1,全英班,"計算機程式
 COMPUTER PROGRAMMING",3,期,True,60,0,58,2,林元堯,"四9,C,D(圖IL PC01)","['', '', '', '9CD', '', '', '']",《講授類》,"['金融工程學程', '計算物理及人工智慧微學程', '自然科學之程式應用學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO1011&Crsname=光電科技前沿,,,False,光電系,EO1011,0,不分班,"光電科技前沿
@@ -2531,7 +2531,7 @@ PHOTONICS",3,期,True,60,0,36,24,邱逸仁,"二5,6,7(工EC 4012)","['', '567', '
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO3025A&Crsname=光子學,,,False,光電系,EO3025A,3,全英班,"光子學
 PHOTONICS",3,期,True,60,0,21,39,邱逸仁,"二5,6,7(工EC 4012)","['', '567', '', '', '', '', '']",《講授類》,['半導體製程模組學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO3027&Crsname=光電工程專題（一）,,,False,光電系,EO3027,3,不分班,"光電工程專題（一）
-INDEPENDENT STUDIES IN PHOTONICS(I)",1,期,True,50,0,29,21,黃文堯,五A(工EC 4012),"['', '', '', '', 'A', '', '']",《獨立研究》,[],True
+INDEPENDENT STUDIES IN PHOTONICS(I)",1,期,True,50,0,28,22,黃文堯,五A(工EC 4012),"['', '', '', '', 'A', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO3027A&Crsname=光電工程專題（一）,,,False,光電系,EO3027A,3,全英班,"光電工程專題（一）
 INDEPENDENT STUDIES IN PHOTONICS(I)",1,期,True,50,0,20,30,黃文堯,五A(工EC 4012),"['', '', '', '', 'A', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=EO3033&Crsname=應用化學,,,False,光電系,EO3033,0,不分班,"應用化學
@@ -2623,7 +2623,7 @@ INTRODUCTION TO SCIENTIFIC COMPUTING WITH PYTHON",3,期,True,50,1,28,22,呂德,"
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE1001&Crsname=離散數學,,,False,資工全英班,CSE1001,1,全英班,"離散數學
 DISCRETE MATHEMATICS",3,期,True,50,0,40,10,希家史提夫,"五2,3,4(工EC 5012)","['', '', '', '', '234', '', '']",《講授類》,['軟體工程學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE1002&Crsname=微積分,,,False,資工全英班,CSE1002,1,全英班,"微積分
-CALCULUS",3,期,True,50,0,34,16,程正傑,"三5,6,7(工EC 9032)","['', '', '567', '', '', '', '']","《講授類》
+CALCULUS",3,期,True,50,1,33,17,程正傑,"三5,6,7(工EC 9032)","['', '', '567', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限本系學生修習",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CSE1006&Crsname=Ｃ程式設計,,,False,資工全英班,CSE1006,1,全英班,"Ｃ程式設計
 C PROGRAMMING",3,期,True,50,3,47,3,柯正雯,"一5,6,7(工EC 9031)","['567', '', '', '', '', '', '']","《講授類》
@@ -4759,7 +4759,7 @@ SOCIAL MARKETING",2,期,False,50,0,14,36,蔡錦昌,"五3,4(管CM 1020)","['', ''
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM590&Crsname=非營利組織管理研討,,,False,公事碩,PAM590,0,不分班,"非營利組織管理研討
 SEMINAR IN NONPROFIT ORGANIZATION MANAGEMENT",2,期,False,50,0,15,35,謝政勳,"二3,4(管CM 1020)","['', '34', '', '', '', '', '']",《研討類》,"['非營利事業及社會創新微學程', '企業社會責任學程', '公共事務與企業社會責任微學程', '地方創生與永續發展整合學程', '地方創生與區域治理微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM599&Crsname=新興公共議題研討,,,False,公事碩,PAM599,0,不分班,"新興公共議題研討
-SEMINAR IN EMERGING PUBLIC ISSUES",2,期,False,50,0,9,41,郭瑞坤,,"['', '', '', '', '', '34B56789', '']","《研討類》
+SEMINAR IN EMERGING PUBLIC ISSUES",2,期,False,50,0,8,42,郭瑞坤,,"['', '', '', '', '', '34B56789', '']","《研討類》
 主題：地方創生與區域治理（國內）","['非營利事業及社會創新微學程', '地方創生與永續發展整合學程', '淨零轉型微學程', '地方創生與區域治理微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=PAM608&Crsname=都市規劃設計,,,False,公事碩,PAM608,0,不分班,"都市規劃設計
 URBAN PLANNING AND DESIGN",2,期,False,50,0,8,42,謝旭昇,"五3,4(管CM 1035)","['', '', '', '', '34', '', '']",《講授類》,[],False
@@ -6754,10 +6754,10 @@ ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,�
 網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
 ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-企業管理組;
 網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
 ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,10,50,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+企業管理組;
 網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=1&CrsDat=BM502&Crsname=企業經營策略,異動,修正名額及教室8/28,False,企企管碩,BM502,0,,"企業經營策略
 BUSINESS POLICY AND STRATEGY",3,期,False,65,0,73,-8,蔡宗霖,"四C,D,E(管CM 1037)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
