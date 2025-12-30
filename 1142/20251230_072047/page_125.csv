@@ -1,0 +1,45 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS707&Crsname=高等資管專題研討（四）,,,False,資管博,MIS707,2,不分班,"高等資管專題研討（四）
+SEMINAR IN ADVANCED INFORMATION SYSTEMS (IV)",1,期,True,50,0,0,50,楊淯程,"四6,7(管CM 2016)","['', '', '', '67', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=FM706&Crsname=財金專題評析（二）,,,False,財管博,FM706,1,不分班,"財金專題評析（二）
+FINANCIAL STUDIES REVIEW (II)",1,期,True,20,0,0,20,封之遠,四3(管CM 2020),"['', '', '', '3', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=FM709&Crsname=財務理論分析,,,False,財管博,FM709,0,不分班,"財務理論分析
+FINANCIAL THEORY ANALYSIS",3,期,False,20,0,0,20,廖源星,"五5,6,7(管CM 2020)","['', '', '', '', '567', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=FM809&Crsname=財金專題評析（四）,,,False,財管博,FM809,0,不分班,"財金專題評析（四）
+FINANCIAL STUDIES REVIEW (IV)",1,期,False,20,0,0,20,封之遠,四4(管CM 2020),"['', '', '', '4', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=FM810&Crsname=國際金融與財管分析,,,False,財管博,FM810,0,不分班,"國際金融與財管分析
+SPECIAL TOPICS IN INTERNATIONAL FINANCE",3,期,False,20,0,0,20,待聘,"五2,3,4(管CM 2020)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=FM817&Crsname=國際會計準則與權益評價,,,False,財管博,FM817,0,不分班,"國際會計準則與權益評價
+INTERNATIONAL FINANCIAL REPORTING STANDARDS AND EQUITY VALUATION",3,期,False,20,0,0,20,羅勝議,"一2,3,4(管CM 2026)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM703&Crsname=高等公共經濟學,,,False,公事博,PAM703,2,不分班,"高等公共經濟學
+ADVANCED PUBLIC ECONOMICS",3,期,False,50,0,0,50,張瓊婷,"三2,3,4(管CM 1035)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM708&Crsname=高等公共事務管理,,,False,公事博,PAM708,1,不分班,"高等公共事務管理
+ADVANCED PUBLIC AFFAIRS MANAGEMENT",3,期,True,50,0,0,50,"張瓊婷,蔡錦昌","三5,6,7(管CM 1020)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM727&Crsname=倫理與衝突,,,False,公事博,PAM727,2,不分班,"倫理與衝突
+ETHICS AND CONFLICT",2,期,True,50,0,0,50,林新沛,"五3,4(管M 1020)","['', '', '', '', '34', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM754&Crsname=第三部門經營與社會參與,,,False,公事博,PAM754,2,不分班,"第三部門經營與社會參與
+THE MANAGEMENT AND SOCIAL PARTICIPATION OF THE THIRD SECTOR",3,期,False,50,0,0,50,蔡錦昌,"三D,E,F(管CM 1035)","['', '', 'DEF', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM701&Crsname=高等組織理論與管理,,,False,人管博,HRM701,1,不分班,"高等組織理論與管理
+ADVANCED ORGANIZATION THEORY AND MANAGEMENT",3,期,True,50,0,0,50,葉致微,"三5,6,7(管CM 4091)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM704&Crsname=高等研究方法（二）,,,False,人管博,HRM704,1,不分班,"高等研究方法（二）
+ADVANCED RESEARCH METHODS (II)",3,期,True,50,0,0,50,鄭怡玲,"四5,6,7(管CM 4091)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM725&Crsname=當代人管及工作心理學之專題研討,,,False,人管博,HRM725,2,不分班,"當代人管及工作心理學之專題研討
+SEMINAR IN CRITICAL REFLECTIONS ON CONTEMPORARY RESEARCH IN HRM AND WORK PSYCHOLOGY",3,期,False,50,0,0,50,紀乃文,"五8,6,7(管CM 4091)","['', '', '', '', '678', '', '']","《研討類》
+限修過員工工作態度與行為研討者修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM755&Crsname=工作情緒專題研討,,,False,人管博,HRM755,2,不分班,"工作情緒專題研討
+SEMINAR IN MOODS AND EMOTIONS AT WORK",3,期,False,50,0,0,50,紀乃文,"五2,3,4(管CM 4091)","['', '', '', '', '234', '', '']","《研討類》
+限修過員工工作態度與行為研討者修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM757&Crsname=員工工作態度與行為研討,,,False,人管博,HRM757,1,不分班,"員工工作態度與行為研討
+SEMINAR IN EMPLOYEE ATTITUDES AND BEHAVIORS AT WORK",3,期,False,50,0,0,50,紀乃文,"三2,3,4(管CM 1036)","['', '', '234', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM772&Crsname=家族企業理論專題研究,,,False,人管博,HRM772,0,不分班,"家族企業理論專題研究
+SEMINAR IN FAMILY BUSINESS STUDIES",3,期,False,50,0,0,50,"段逸君,陳世哲","五2,3,4(管CM 2038)","['', '', '', '', '234', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM831&Crsname=人力資源測驗評量專題研究,,,False,人管博,HRM831,0,不分班,"人力資源測驗評量專題研究
+INDEPENDENT STUDIES OF ASSESSMENT METHODS IN WORKPLACE",3,期,False,50,0,0,50,李澄賢,"三2,3,4(管CM 3044)","['', '', '234', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HCM701&Crsname=高等組織及管理理論,,,False,企醫管博,HCM701,1,不分班,"高等組織及管理理論
+ADVANCED MANAGEMENT THEORY",3,期,True,50,0,0,50,施欣宜,"二2,3,4(管CM 3035)","['', '234', '', '', '', '', '']","《講授類》
+與企管博高等管理理論併班",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HCM703&Crsname=高等統計分析（二）,,,False,企醫管博,HCM703,1,不分班,"高等統計分析（二）
+ADVANCED STATISTICAL ANALYSIS (II)",3,期,True,50,0,0,50,待聘,"四5,6,7(管CM 3035)","['', '', '', '567', '', '', '']","《講授類》
+與企管博高等數量分析(二)併班",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HCM707&Crsname=醫療暨健康產業分析,,,False,企醫管博,HCM707,0,不分班,"醫療暨健康產業分析
+ANALYSIS IN MEDICAL AND HEALTH CARE INDUSTRY",3,期,False,50,0,0,50,李英俊,"二8,6,7(管CM 3035)","['', '678', '', '', '', '', '']",《講授類》,[],False

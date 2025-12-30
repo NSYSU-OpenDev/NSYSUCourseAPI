@@ -1,0 +1,23 @@
+Item root[120] added to iterable.
+Item root[132] added to iterable.
+Item root[157] added to iterable.
+Item root[176] added to iterable.
+Item root[205] added to iterable.
+Item root[206] added to iterable.
+Item root[220] added to iterable.
+Item root[415]['classTime'][6] added to iterable.
+Item root[415]['classTime'][0] removed from iterable.
+Value of root[415]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CL430&Crsname=性別文化民俗誌" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1093&Crsname=深度SDG探索聯合國永續目標--英語看世界".
+Value of root[415]['department'] changed from "中文系" to "跨院選修(通)".
+Value of root[415]['id'] changed from "CL430" to "GEAI1093".
+Value of root[415]['grade'] changed from "2" to "0".
+Value of root[415]['name'] changed from "性別文化民俗誌
+CHRONICLES OF FEMININE CULTURE" to "深度SDG探索聯合國永續目標--英語看世界
+SDG DEEPDIVE VIA HELLOWORLD IN ENGLISH".
+Value of root[415]['credit'] changed from "3" to "2".
+Value of root[415]['restrict'] changed from 25 to 50.
+Value of root[415]['remaining'] changed from 25 to 50.
+Value of root[415]['teacher'] changed from "楊濟襄" to "待聘".
+Value of root[415]['room'] changed from "一5,6,7(文LA 2004)" to "日C,D(同步遠距)".
+Value of root[415]['description'] changed from "《講授類》" to "《講授類》
+1.此為iGER跨校通識聯盟數位課程，授課教師：中興大學蔡孟勳老師、中正大學張文俐老師。 2.詳細選課/修課規定及課綱請至西灣學院網頁最新消息查詢，請注意線上同步課程時間。".
