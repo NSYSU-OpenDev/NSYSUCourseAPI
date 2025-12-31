@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAE2153&Crsname=圖像中的藝術與文化 ,,,False,博雅向度一,GEAE2153,0,不分班,"圖像中的藝術與文化 
-THE ARTS AND CULTURE OF VISUAL IMAGES",2,期,True,50,0,0,50,待聘,"一3,4(同步遠距)","['34', '', '', '', '', '', '']","《講授類》
+THE ARTS AND CULTURE OF VISUAL IMAGES",2,期,True,40,0,0,40,待聘,"一3,4(同步遠距)","['34', '', '', '', '', '', '']","《講授類》
 1.此為iGER跨校通識聯盟數位課程。 授課教師：文化大學連啟元老師。2.詳細選課/修課規定及課綱請至西灣學院網頁最新消息查詢，請注意線上同步課程時間。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAE2204&Crsname=自由與責任,,,False,博雅向度二,GEAE2204,0,不分班,"自由與責任
 FREEDOM AND RESPONSIBILITY",3,期,True,50,0,0,50,戴遠雄,"三5,6,7(文LA 1003)","['', '', '567', '', '', '', '']",《講授類》,[],False
@@ -26,7 +26,7 @@ DISCRIMINATION, BIAS AND SOCIAL JUSTICE",3,期,True,50,0,0,50,許家豪,"二2,3,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAE2236&Crsname=自我經營學：情緒、人際與生活,,,False,博雅向度二,GEAE2236,0,不分班,"自我經營學：情緒、人際與生活
 SELF-MANAGEMENT STUDIES: EMOTIONS, INTERPERSONAL RELATIONSHIPS, AND LIFE",2,期,True,80,0,0,80,"于欽平,黃淑玲","四5,6(通GE 1010)","['', '', '', '56', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAE2237&Crsname=國際人權與轉型正義,,,False,博雅向度二,GEAE2237,0,不分班,"國際人權與轉型正義
-INTERNATIONAL HUMAN RIGHTS REGIMES AND TRANSITIONAL JUSTICE",2,期,True,50,0,0,50,待聘,"四6,7(同步遠距)","['', '', '', '67', '', '', '']","《講授類》
+INTERNATIONAL HUMAN RIGHTS REGIMES AND TRANSITIONAL JUSTICE",2,期,True,40,0,0,40,待聘,"四6,7(同步遠距)","['', '', '', '67', '', '', '']","《講授類》
 1.此為iGER跨校通識聯盟數位課程，授課教師：政治大學葉浩教師。 2.詳細選課/修課規定及課綱請至西灣學院網頁最新消息查詢，請注意線上同步課程時間。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAE2301&Crsname=海洋文化,,,False,博雅向度三,GEAE2301,0,不分班,"海洋文化
 MARITIME CULTURE",3,期,True,80,0,0,80,江政寬,"四5,6,7(通GE 1008)","['', '', '', '567', '', '', '']",《講授類》,[],False
