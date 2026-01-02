@@ -1,4 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MA584&Crsname=漁業政策,,,False,海事碩,MA584,0,不分班,"漁業政策
+FISHERIES POLICY",3,期,False,50,0,0,50,高世明,"五2,3,4(海MA 2034)","['', '', '', '', '234', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MA585&Crsname=行政法,,,False,海事碩,MA585,0,不分班,"行政法
 ADMINISTRATIVE LAW",3,期,False,50,0,0,50,黃明和,"五8,6,7(海MA 2034)","['', '', '', '', '678', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MA611&Crsname=水下文化遺產保存、保護與管理,,,False,海事碩,MA611,0,不分班,"水下文化遺產保存、保護與管理
@@ -43,6 +45,3 @@ ADVANCED PALEOCEANOGRAPHY",3,期,False,50,0,0,50,張詠斌,"五8,6,7(海MA 2009)
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DO664&Crsname=野外實驗方法,,,False,海科碩,DO664,0,不分班,"野外實驗方法
 FIELD EXPERIMENTAL APPROACHES",2,期,False,6,0,0,6,塗子萱,"四3,4(海MA 2022)","['', '', '', '34', '', '', '']","《講授類》
 限有參與東沙環礁實地訓練者選修。寒假期間在東沙上課，受限機位、空間因素，限修人數為6人",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DO666&Crsname=海洋地球化學,,,False,海科碩,DO666,0,不分班,"海洋地球化學
-MARINE GEOCHEMISTRY",3,期,False,50,0,0,50,簡國童,"二8,6,7(海MA 2042)","['', '678', '', '', '', '', '']","《講授類》
-與DO313併班上課。",[],False
