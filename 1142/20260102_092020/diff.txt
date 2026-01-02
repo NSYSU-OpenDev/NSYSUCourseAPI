@@ -1,0 +1,8 @@
+Item root[1441]['classTime'][1] added to iterable.
+Item root[1441]['classTime'][2] added to iterable.
+Item root[1441]['classTime'][4] added to iterable.
+Item root[1441]['classTime'][2] removed from iterable.
+Repetition change for item root[1441]['classTime'][0].
+Type of root[1441]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1441]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/2".
+Value of root[1441]['room'] changed from "三5,6,7(理SC 2002-6)" to "二A(理SC 2002-6) 三A(理SC 2002-6) 五A(理SC 2002-6)".

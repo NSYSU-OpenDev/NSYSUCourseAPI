@@ -1,5 +1,5 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS525A&Crsname=半導體材料與物理,,,False,物理碩,PHYS525A,1,全英班,"半導體材料與物理
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS525A&Crsname=半導體材料與物理,,,False,物理碩,PHYS525A,1,不分班,"半導體材料與物理
 SEMICONDUCTOR MATERIALS AND PHYSICS",3,期,False,50,0,0,50,余健文,"二8,6,7(理PH 5008)","['', '678', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS503&Crsname=資訊科技研究,,,True,資管碩,MIS503,1,,"資訊科技研究
 SPECIAL ISSUES IN INFORMATION TECHNOLOGY",3,期,True,50,0,0,50,韓毅,"一8,6,7(管CM 4078)","['678', '', '', '', '', '', '']",《講授類》,[],False
