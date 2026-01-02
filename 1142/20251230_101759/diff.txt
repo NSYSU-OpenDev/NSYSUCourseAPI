@@ -1,4 +1,0 @@
-Value of root[928]['room'] changed from "五7(管CM 0052  ) 五5,6(管CM 0052)" to "五5,6,7(管CM 0052)".
-Value of root[928]['description'] changed from "《講授類》
-限企管系(含雙主修、輔系)；併班上課※併班" to "《講授類》
-限企管系(含雙主修、輔系)；併班上課；".
