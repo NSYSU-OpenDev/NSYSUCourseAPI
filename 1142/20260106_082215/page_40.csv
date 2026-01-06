@@ -1,0 +1,51 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE4806B&Crsname=通訊實作專題,,,True,電機系,EE4806B,3,全英班,"通訊實作專題
+INDEPENDENT STUDIES IN COMMUNICATION PRACTICE",2,期,True,50,0,0,50,待聘,"四C,D,E,F(工EC 6013)(實驗)","['', '', '', 'CDEF', '', '', '']","《獨立研究》
+請自行找通訊所老師做專題，請先至 https://forms.gle/cUWtYUwJFbw3bXYn9 登錄",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE4807&Crsname=系統晶片實作專題,,,True,電機系,EE4807,3,甲班,"系統晶片實作專題
+INDEPENDENT STUDIES IN SYSTEM-ON-CHIP DESIGN",2,期,True,50,0,0,50,待聘,"六C,D,E,F(工EC 6013)(實驗)","['', '', '', '', '', 'CDEF', '']","《獨立研究》
+請自行找SOC組或IC設計所老師做專題，請先至 https://forms.gle/cUWtYUwJFbw3bXYn9 登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE4807A&Crsname=系統晶片實作專題,,,True,電機系,EE4807A,3,乙班,"系統晶片實作專題
+INDEPENDENT STUDIES IN SYSTEM-ON-CHIP DESIGN",2,期,True,50,0,0,50,待聘,"六C,D,E,F(工EC 6013)(實驗)","['', '', '', '', '', 'CDEF', '']","《獨立研究》
+請自行找SOC組或IC設計所老師做專題，請先至 https://forms.gle/cUWtYUwJFbw3bXYn9 登錄",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE4807B&Crsname=系統晶片實作專題,,,True,電機系,EE4807B,3,全英班,"系統晶片實作專題
+INDEPENDENT STUDIES IN SYSTEM-ON-CHIP DESIGN",2,期,True,50,0,0,50,待聘,"二C,D,E,F(工EC 6013)(實驗)","['', 'CDEF', '', '', '', '', '']","《獨立研究》
+請自行找SOC組或IC設計所老師做專題，請先至 https://forms.gle/cUWtYUwJFbw3bXYn9 登錄",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME104&Crsname=微積分（二）,,,False,機電系,MEME104,1,甲班,"微積分（二）
+CALCULUS(II)",3,期,True,50,0,0,50,鍾思齊,"五2,3,4(工EN 4055-1)","['', '', '', '', '234', '', '']","《講授類》
+一甲、一乙班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME104A&Crsname=微積分（二）,,,False,機電系,MEME104A,1,乙班,"微積分（二）
+CALCULUS(II)",3,期,True,50,0,0,50,鍾思齊,"五2,3,4(工EN 4055-1)","['', '', '', '', '234', '', '']","《講授類》
+一甲、一乙班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME104B&Crsname=微積分（二）,,,False,機電系,MEME104B,1,全英班,"微積分（二）
+CALCULUS(II)",3,期,True,50,0,0,50,余冠儒,"五2,3,4(理SC 1005)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME106&Crsname=機電材料,,,False,機電系,MEME106,1,甲班,"機電材料
+ELECTRO-MECHANICAL MATERIALS",3,期,True,70,0,0,70,胡龍豪,"二5,6,7(工EC 3003)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME106A&Crsname=機電材料,,,False,機電系,MEME106A,1,乙班,"機電材料
+ELECTRO-MECHANICAL MATERIALS",3,期,True,70,0,0,70,待聘,"四2,3,4(工EC 3002)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME106B&Crsname=機電材料,,,False,機電系,MEME106B,1,全英班,"機電材料
+ELECTRO-MECHANICAL MATERIALS",3,期,True,70,0,0,70,李伯軒,"四2,3,4(工EN 3021)","['', '', '', '234', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME109&Crsname=奈米科技概論,,,False,機電系,MEME109,0,不分班,"奈米科技概論
+INTRODUCTION TO NANOTECHNOLOGY",3,期,False,50,0,0,50,郭清德,"一5,6,7(工EC 3002)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME202&Crsname=應用力學（二）,,,False,機電系,MEME202,1,甲班,"應用力學（二）
+APPLIED MECHANICS (II)",3,期,True,50,0,0,50,郭清德,"四2,3,4(工EC 3003)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME202A&Crsname=應用力學（二）,,,False,機電系,MEME202A,1,乙班,"應用力學（二）
+APPLIED MECHANICS (II)",3,期,True,50,0,0,50,蔡尚南,"一8,6,7(工EC 3003)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME202B&Crsname=應用力學（二）,,,False,機電系,MEME202B,1,全英班,"應用力學（二）
+APPLIED MECHANICS (II)",3,期,True,50,0,0,50,盧威廷,"四5,6,7(工EN 3021)","['', '', '', '567', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME206&Crsname=工程數學（二）,,,False,機電系,MEME206,2,甲班,"工程數學（二）
+ENGINEERING MATHEMATICS(II)",3,期,True,50,0,0,50,劉耿豪,"二2,3,4(工EN 4055-1)","['', '234', '', '', '', '', '']","《講授類》
+二甲、二乙班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME206A&Crsname=工程數學（二）,,,False,機電系,MEME206A,2,乙班,"工程數學（二）
+ENGINEERING MATHEMATICS(II)",3,期,True,50,0,0,50,劉耿豪,"二2,3,4(工EN 4055-1)","['', '234', '', '', '', '', '']","《講授類》
+二甲、二乙班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME206B&Crsname=工程數學（二）,,,False,機電系,MEME206B,2,全英班,"工程數學（二）
+ENGINEERING MATHEMATICS(II)",3,期,True,50,0,0,50,汪正祺,"二2,3,4(工EC 2003)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME208&Crsname=機動學,,,False,機電系,MEME208,2,甲班,"機動學
+MECHANISM",3,期,True,66,0,0,66,楊政融,"三2,3,4(工EN 4055-1)","['', '', '234', '', '', '', '']","《講授類》
+二甲、二乙班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME208A&Crsname=機動學,,,False,機電系,MEME208A,2,乙班,"機動學
+MECHANISM",3,期,True,66,0,0,66,楊政融,"三2,3,4(工EN 4055-1)","['', '', '234', '', '', '', '']","《講授類》
+二甲、二乙班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME208B&Crsname=機動學,,,False,機電系,MEME208B,2,全英班,"機動學
+MECHANISM",3,期,True,66,0,0,66,王郁仁,"一2,3,4(工EC 2003)","['234', '', '', '', '', '', '']",《講授類》,[],True
