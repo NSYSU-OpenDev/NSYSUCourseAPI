@@ -1,0 +1,30 @@
+Item root[905]['classTime'][0] added to iterable.
+Item root[905]['classTime'][1] added to iterable.
+Item root[906]['classTime'][0] added to iterable.
+Item root[906]['classTime'][1] added to iterable.
+Item root[1082]['classTime'][1] added to iterable.
+Item root[1268] added to iterable.
+Item root[905]['classTime'][0] removed from iterable.
+Item root[906]['classTime'][0] removed from iterable.
+Repetition change for item root[905]['classTime'][1].
+Repetition change for item root[906]['classTime'][1].
+Repetition change for item root[1082]['classTime'][0].
+Type of root[905]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[905]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/7".
+Type of root[906]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[906]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室1/7".
+Type of root[1082]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1082]['changeDescription'] changed from NoneType to str and value changed from None to "更新課程資訊1/7".
+Type of root[2026]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2026]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室1/7".
+Type of root[2308]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2308]['changeDescription'] changed from NoneType to str and value changed from None to "更換主授教師1/7".
+Type of root[2519]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2519]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室1/7".
+Value of root[371]['room'] changed from "三5,6,7()" to "三5,6,7(文LA 1002)".
+Value of root[905]['room'] changed from "一5,6,7(工MS 4022)" to "一8() 二3,4()".
+Value of root[906]['room'] changed from "一5,6,7(工MS 4022)" to "一8() 二3,4()".
+Value of root[1082]['teacher'] changed from "待聘" to "李逸環".
+Value of root[1082]['room'] changed from "" to "二3,4(海MB 3013)".
+Value of root[2026]['room'] changed from "一8,6,7(社SS 2002-2)" to "一8,6,7(社SS 2005)".
+Value of root[2519]['room'] changed from "一8,6,7(社SS 2002-2)" to "一8,6,7(社SS 2005)".
