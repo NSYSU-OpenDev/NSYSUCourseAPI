@@ -1,0 +1,13 @@
+Item root[97]['classTime'][2] added to iterable.
+Item root[97]['classTime'][1] removed from iterable.
+Type of root[70]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[70]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/7".
+Type of root[90]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[90]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/7".
+Type of root[97]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[97]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/7".
+Value of root[70]['room'] changed from "三6,7(游泳池/Swimming pool)" to "一6,7(游泳池/Swimming pool)".
+Value of root[90]['room'] changed from "三3,4(韻律教室/Aerobics classroom)" to "一3,4(韻律教室/Aerobics classroom)".
+Value of root[97]['room'] changed from "二3,4(體適能中心/Fitness Center)" to "三6,7(體適能中心/Fitness Center)".
+Value of root[1078]['teacher'] changed from "" to "待聘".
+Value of root[1954]['teacher'] changed from "" to "待聘".
