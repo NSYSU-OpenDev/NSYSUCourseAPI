@@ -1,0 +1,6 @@
+Item root[99] added to iterable.
+Item root[100] added to iterable.
+Item root[102] added to iterable.
+Item root[103] added to iterable.
+Type of root[1176]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1176]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間1/8".
