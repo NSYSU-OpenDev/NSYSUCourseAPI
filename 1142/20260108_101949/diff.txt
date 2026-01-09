@@ -1,7 +1,0 @@
-Item root[1879] added to iterable.
-Value of root[115]['description'] changed from "《體育類》
-限大二以上選修，且海泳200公刀不落地完成(不限泳姿不限時)，方得修習本課程" to "《體育類》
-限大二以上選修，且海泳200公尺不落地完成(不限泳姿不限時)，方得修習本課程".
-Value of root[117]['description'] changed from "《體育類》
-限大二以上選修且本校校隊學生需自行加選；非校際加選以零分計。" to "《體育類》
-限大二以上選修且本校校隊學生需自行加選；非校隊加選以零分計。".
