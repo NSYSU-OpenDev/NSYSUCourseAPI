@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM134&Crsname=肌肉骨骼皮膚系統基礎醫學,,,False,後醫學系,DPBM134,1,不分班,"肌肉骨骼皮膚系統基礎醫學
+THE BASIC MEDICAL SCIENCE OF MUSCULOSKELETAL, INTEGUMENT SYSTEMS",3,期,True,50,6,18,32,"劉勃佑,呂穎怡,廖嘉賓,柯瓊媛,柯翠玲,王文宏,葉明倫,詹佳穎,趙敏吾,鄭雅勻",,"['1234567', '12345678', '3467', '23456', '345', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM135&Crsname=肌肉骨骼皮膚系統臨床醫學,,,False,後醫學系,DPBM135,1,不分班,"肌肉骨骼皮膚系統臨床醫學
+CLINICAL MEDICINE OF MUSCULOSKELETAL, INTEGUMENT SYSTEMS",2,期,True,50,6,18,32,"劉文忠,呂穎怡,林尚宏,楊善為,葉明倫,許建仁,陳俊宇,黃麗珊",,"['2345678', '345678', '34', '56', '1234678', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM136&Crsname=神經系統基礎醫學,,,False,後醫學系,DPBM136,1,不分班,"神經系統基礎醫學
+THE BASIC MEDICAL SCIENCE OF NERVOUS SYSTEM",2,期,True,50,6,18,32,"劉勃佑,劉婷婷,李昇翰,柯瓊媛,王文宏,甘祐瑜,趙敏吾,陳彥樺",,"['', '345678', '67', '78', '23456', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM137&Crsname=神經系統臨床醫學,,,False,後醫學系,DPBM137,1,不分班,"神經系統臨床醫學
+CLINICAL MEDICINE OF NERVOUS SYSTEM",2,期,True,50,6,18,32,"待聘,柯瓊媛,趙敏吾,陳淑芳,陳秀玲",,"['34', '23456789', '67', '1278', '234', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM138&Crsname=特殊感官系統基礎醫學,,,False,後醫學系,DPBM138,1,不分班,"特殊感官系統基礎醫學
+THE BASIC MEDICAL SCIENCE OF SENSORY SYSTEM",1,期,True,50,6,18,32,"劉勃佑,柯瓊媛,甘祐瑜,趙敏吾",,"['13567', '3456', '', '2', '345678', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM139&Crsname=特殊感官系統臨床醫學,,,False,後醫學系,DPBM139,1,不分班,"特殊感官系統臨床醫學
+CLINICAL MEDICINE OF SENSORY SYSTEM",1,期,True,50,6,18,32,"待聘,方博炯,林右才,趙敏吾,郭錫恭",,"['23478', '5678', '', '78', '', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM140&Crsname=精神與心理,,,False,後醫學系,DPBM140,1,不分班,"精神與心理
+PSYCHIATRY AND PSYCHOPHARMACOLOGY",1.5,期,True,50,6,18,32,"待聘,柯瓊媛,王亮人,趙敏吾",,"['1234789', '123456', '', '78', '45678', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM141&Crsname=溝通與專業素養（二）,異動,更換部份時間1/8,False,後醫學系,DPBM141,1,不分班,"溝通與專業素養（二）
+COMMUNICATION AND PROFESSIONALISM (II)",0.5,期,True,50,6,18,32,陳德全,,"['678', '234678', '', '', '', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM142&Crsname=偏鄉服務學習,,,False,後醫學系,DPBM142,1,不分班,"偏鄉服務學習
+RURAL SERVICE LEARNING",0,期,True,50,6,18,32,劉勃佑,,"['123456789', '', '', '', '', '', '123456789']","《服務學習類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM143&Crsname=公共衛生與流行病學,,,False,後醫學系,DPBM143,1,不分班,"公共衛生與流行病學
+PUBLIC HEALTH AND EPIDEMIOLOGY",2,期,True,50,6,18,32,"李昇翰,鄭雅勻",,"['567', '234', '67', '5678', '2345678', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM144&Crsname=生物統計,異動,更換教室1/5,False,後醫學系,DPBM144,1,不分班,"生物統計
+BIOSTATISTICS",2,期,True,50,6,18,32,鄭雅勻,,"['', '', '', '34', '', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM146&Crsname=創新科技與健康照護,,,False,後醫學系,DPBM146,1,不分班,"創新科技與健康照護
+INNOVATIVE TECHNOLOGIES IN HEALTHCARE",2,期,True,50,6,18,32,莊承鑫,,"['5678', '', '', '56', '', '', '']","《演講/參訪》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM147&Crsname=生命教育,,,False,後醫學系,DPBM147,1,不分班,"生命教育
+LIFE EDUCATION",1,期,True,50,6,18,32,楊婉儀,,"['', '', '56', '78', '', '', '']","《講授類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM148&Crsname=代謝體學與生醫應用,,,False,後醫學系,DPBM148,1,不分班,"代謝體學與生醫應用
+METABOLOMICS AND BIOMEDICAL APPLICATION",2,期,False,50,0,0,50,李昇翰,"三3,4(醫IL 9015室)","['', '', '34', '', '', '', '']","《講授類》
+限後醫系修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM149&Crsname=生醫諾貝爾獎的榮耀與遺珠,,,False,後醫學系,DPBM149,1,不分班,"生醫諾貝爾獎的榮耀與遺珠
+THE GLORY AND LEGACY OF THE NOBEL PRIZE IN BIOMEDICINE",3,期,False,50,0,0,50,陳彥樺,"三2,3,4(醫IL 9016室)","['', '', '234', '', '', '', '']","《講授類》
+限後醫系修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM209&Crsname=臨床技能（三）,,,False,後醫學系,DPBM209,2,不分班,"臨床技能（三）
+MEDICAL SKILL TRAINING PROGRAM(III)",1,期,True,50,0,21,29,"待聘,王慧婷",,"['234567', '12345678', '', '', '5678', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM210&Crsname=溝通與專業素養（四）,,,False,後醫學系,DPBM210,2,不分班,"溝通與專業素養（四）
+COMMUNICATION AND PROFESSIONALISM(IV)",1,期,True,50,0,21,29,陳德全,,"['678', '2346789', '234', '', '', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM222&Crsname=照護科技跨域專題（二）,,,False,後醫學系,DPBM222,2,不分班,"照護科技跨域專題（二）
+INDEPENDENT STUDIES IN INNOVATIVE TECHNOLOGIES FOR HEALTHCARE (II)",1,期,True,50,0,21,29,莊承鑫,,"['', '', '12', '', '', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM223&Crsname=新陳代謝與內分泌基礎醫學,,,False,後醫學系,DPBM223,2,不分班,"新陳代謝與內分泌基礎醫學
+THE BASIC MEDICAL SCIENCES OF REPRODUCTIVE BIOLOGY AND ENDOCRINOLOGY",2,期,True,50,0,21,29,"廖嘉賓,李昇翰,柯瓊媛,柯翠玲,葉明倫,趙敏吾,陳亮傑",,"['2345678', '345678', '567', '234567', '23567', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM224&Crsname=新陳代謝與內分泌臨床醫學,,,False,後醫學系,DPBM224,2,不分班,"新陳代謝與內分泌臨床醫學
+CLINICAL MEDICINE OF REPRODUCTIVE BIOLOGY AND ENDOCRINOLOGY",2,期,True,50,0,21,29,"待聘,陳秀玲",,"['23456789', '2345678', '4567', '', '234567', '', '']","《醫學類》
+限後醫系修習",[],False
