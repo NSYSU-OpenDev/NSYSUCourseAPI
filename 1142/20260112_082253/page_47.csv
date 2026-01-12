@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES333&Crsname=材料機械性質,,,False,材光系,MOES333,3,不分班,"材料機械性質
+MECHANICAL BEHAVIOR OF MATERIALS",3,期,False,50,0,0,50,郭哲男,"二8,9,7(工MS 4019)","['', '789', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES334&Crsname=材料與光電專題研究（二）,,,False,材光系,MOES334,3,不分班,"材料與光電專題研究（二）
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(II)",1,期,False,60,0,0,60,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES440&Crsname=材料與光電專題研究（四）,,,False,材光系,MOES440,4,不分班,"材料與光電專題研究（四）
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(VI)",1,期,False,50,0,0,50,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES446&Crsname=半導體物理與材料,,,False,材光系,MOES446,4,不分班,"半導體物理與材料
+SEMICONDUCTOR PHYSICS AND MATERIALS",3,期,False,50,0,0,50,徐瑞鴻,"三2,3,4(工 MS 4019)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES452&Crsname=專題討論,,,False,材光系,MOES452,3,不分班,"專題討論
+SEMINAR",2,期,True,50,0,29,21,陳致光,二6(工MS 4019),"['', '6', '', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES452A&Crsname=專題討論,,,False,材光系,MOES452A,3,全英班,"專題討論
+SEMINAR",2,期,True,50,0,24,26,陳致光,二6(工MS 4019),"['', '6', '', '', '', '', '']",《研討類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES454&Crsname=進階固態物理,,,False,材光系,MOES454,3,不分班,"進階固態物理
+ADVANCED SOLID STATE PHYSICS",3,期,False,50,0,0,50,李廣輝,"五2(工MS 4022 ) 五3,4(工MS 4022)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES456&Crsname=材料顯微分析實驗,,,False,材光系,MOES456,4,不分班,"材料顯微分析實驗
+EXPERIMENTS OF MATERIAL MICROANALYSIS",2,期,False,30,0,0,30,"張六文,李廣輝,王致傑,蔣酉旺,邱政維,郭哲男,郭紹偉","一2,3,4,B(工 MS 4023)(實驗)","['234B', '', '', '', '', '', '']",《實驗類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE1005&Crsname=數位電子學,,,False,資工全英班,CSE1005,1,全英班,"數位電子學
+DIGITAL ELECTRONICS",3,期,True,50,0,32,18,郭可驥,"二5,6,7(工EC 1006)","['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE2002&Crsname=資料結構,,,False,資工全英班,CSE2002,1,全英班,"資料結構
+DATA STRUCTURES",3,期,True,50,0,32,18,李淑敏,"三5,6,7(工EC 1006)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE2004&Crsname=計算機組織,,,False,資工全英班,CSE2004,2,全英班,"計算機組織
+COMPUTER ORGANIZATION",3,期,True,50,0,32,18,黃英哲,"二2,3,4(工EC 9032)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE2006&Crsname=機率學,,,False,資工全英班,CSE2006,2,全英班,"機率學
+PROBABILITY",3,期,True,50,0,32,18,陳嘉平,"三2,3,4(工EC 2011)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE3002&Crsname=物件導向程式設計,,,False,資工全英班,CSE3002,2,全英班,"物件導向程式設計
+OBJECT-ORIENTED PROGRAMMING",3,期,True,50,0,32,18,克拉迪,"二8,6,7(工EC 9032)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE3004&Crsname=電腦網路,,,False,資工全英班,CSE3004,3,全英班,"電腦網路
+COMPUTER NETWORK",3,期,True,50,0,28,22,邱勝敏,"四8,6,7(工EC 1005)","['', '', '', '678', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE3005&Crsname=編譯器製作,,,False,資工全英班,CSE3005,3,全英班,"編譯器製作
+DESIGN AND IMPLEMENTATION OF COMPILER",3,期,True,50,0,28,22,張玉盈,"一8,6,7(工EC 1005)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE3006&Crsname=UNIX系統程式,,,False,資工全英班,CSE3006,3,全英班,"UNIX系統程式
+UNIX SYSTEM PROGRAMMING",3,期,True,50,0,28,22,希家史提夫,"一2,3,4(工EC 9032)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE3007&Crsname=專題製作實驗（一）,,,False,資工全英班,CSE3007,3,全英班,"專題製作實驗（一）
+SPECIAL TOPICS LABORATORY (I)",1,期,True,50,0,28,22,克拉迪,"五8,9,7(工EC 1005)(實驗)","['', '', '', '', '789', '', '']",《實驗類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE3008&Crsname=增強式學習導論,,,False,資工全英班,CSE3008,3,不分班,"增強式學習導論
+INTRODUCTION TO REINFORCEMENT LEARNING",3,期,False,50,0,0,50,吳建澄,"二8,6,7(工EC 5007)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM102&Crsname=會計學（二）,,,False,企管系,BM102,1,甲班,"會計學（二）
+ACCOUNTING (II)",3,期,True,50,0,38,12,羅勝議,"四5,6,7(管CM 3015)","['', '', '', '567', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；會計學(一)不及格不能選課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM102A&Crsname=會計學（二）,,,False,企管系,BM102A,1,乙班,"會計學（二）
+ACCOUNTING (II)",3,期,True,50,0,36,14,陳妮雲,"四2,3,4(管CM 2037)","['', '', '', '234', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)；會計學(一)不及格不能選課",[],False
