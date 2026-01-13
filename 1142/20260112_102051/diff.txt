@@ -1,2 +1,0 @@
-Value of root[430]['teacher'] changed from "待聘" to "歐瑞安".
-Value of root[436]['teacher'] changed from "待聘" to "歐瑞安".
