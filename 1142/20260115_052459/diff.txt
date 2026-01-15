@@ -1,0 +1,6 @@
+Item root[2314]['classTime'][6] added to iterable.
+Item root[2762]['classTime'][6] added to iterable.
+Item root[2314]['classTime'][2] removed from iterable.
+Item root[2762]['classTime'][2] removed from iterable.
+Value of root[2314]['room'] changed from "三D,E,F(管CM 3044)" to "日A,B,5(管CM 3044)".
+Value of root[2762]['room'] changed from "三D,E,F(管CM 3044)" to "日A,B,5(管CM 3044)".
