@@ -1,0 +1,3 @@
+Item root[260]['tags'][0] added to iterable.
+Item root[579]['tags'][0] added to iterable.
+Item root[964]['tags'][0] added to iterable.
