@@ -1,0 +1,11 @@
+Item root[349]['tags'][0] added to iterable.
+Item root[365]['tags'][0] added to iterable.
+Item root[369]['tags'][0] added to iterable.
+Item root[371]['tags'][0] added to iterable.
+Item root[1238]['tags'][0] added to iterable.
+Item root[1239]['tags'][0] added to iterable.
+Item root[1241]['tags'][0] added to iterable.
+Item root[1242]['tags'][0] added to iterable.
+Item root[1245]['tags'][0] added to iterable.
+Value of root[1177]['changeDescription'] changed from "更換部份時間1/5" to "更換部份時間1/15".
+Value of root[1177]['teacher'] changed from "林偉哲,陳德全" to "林偉哲,陳德全,陳盟翔".
