@@ -1,0 +1,7 @@
+Item root[994]['classTime'][2] added to iterable.
+Item root[994]['classTime'][0] removed from iterable.
+Repetition change for item root[2618].
+Value of root[596]['description'] changed from "《講授類》" to "《講授類》
+限生科系".
+Value of root[994]['room'] changed from "一8,6,7(管CM 4112)" to "三5,6,7(管CM 3051)".
+Value of root[996]['room'] changed from "三5,6,7(管CM 2015)" to "一5,6,7(管CM 2025)".
