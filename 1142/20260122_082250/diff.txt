@@ -1,0 +1,32 @@
+Item root[1581] added to iterable.
+Type of root[1166]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1166]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室1/22".
+Type of root[1605]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1605]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/22".
+Type of root[1606]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1606]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/22".
+Type of root[1608]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1608]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/22".
+Type of root[1621]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1621]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/22".
+Type of root[1747]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1747]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/24".
+Type of root[1837]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1837]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/22".
+Type of root[1857]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1857]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/22".
+Type of root[2450]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2450]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/22".
+Type of root[2718]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2718]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/22".
+Type of root[2719]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2719]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/22".
+Type of root[2720]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2720]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/22".
+Value of root[1608]['teacher'] changed from "待聘" to "吳孝純".
+Value of root[1747]['teacher'] changed from "待聘" to "吳孝純".
+Value of root[1837]['room'] changed from "五E(管CM  1032) 五C,D(管CM 1032)" to "一C,D,E(管CM 1032)".
+Value of root[1857]['teacher'] changed from "待聘" to "林芳伃".
+Value of root[2718]['room'] changed from "五E(管CM  1032) 五C,D(管CM 1032)" to "一C,D,E(管CM 1032)".
+Value of root[2719]['room'] changed from "五E(管CM  1032) 五C,D(管CM 1032)" to "一C,D,E(管CM 1032)".
+Value of root[2720]['room'] changed from "五E(管CM  1032) 五C,D(管CM 1032)" to "一C,D,E(管CM 1032)".
