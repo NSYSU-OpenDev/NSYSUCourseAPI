@@ -1,0 +1,26 @@
+Item root[56] added to iterable.
+Type of root[32]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[32]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/22".
+Type of root[33]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[33]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/22".
+Type of root[248]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[248]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/22".
+Type of root[301]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[301]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/22".
+Type of root[308]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[308]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/20".
+Value of root[32]['teacher'] changed from "待聘" to "涂書瑋".
+Value of root[33]['teacher'] changed from "待聘" to "歐瑞安".
+Value of root[248]['restrict'] changed from 10 to 5.
+Value of root[248]['remaining'] changed from 10 to 5.
+Value of root[301]['restrict'] changed from 30 to 20.
+Value of root[301]['remaining'] changed from 30 to 20.
+Value of root[308]['restrict'] changed from 30 to 10.
+Value of root[308]['remaining'] changed from 30 to 10.
+Value of root[308]['description'] changed from "《講授類》
+會計學(一)不及格不能選課;跨院通識與企管系BM102A課程併班上課" to "《講授類》
+會計學(一)不及格不能選課跨院通識與企管系BM102A課程併班上課".
+Value of root[841]['selected'] changed from 54 to 53.
+Value of root[841]['remaining'] changed from 26 to 27.
+Value of root[842]['selected'] changed from 54 to 53.
+Value of root[842]['remaining'] changed from 6 to 7.
