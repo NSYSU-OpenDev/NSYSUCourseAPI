@@ -1,0 +1,30 @@
+Item root[839]['tags'][0] removed from iterable.
+Item root[94] removed from iterable.
+Item root[248] removed from iterable.
+Type of root[750]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[750]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/22".
+Type of root[761]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[761]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/22".
+Type of root[1098]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1098]['changeDescription'] changed from NoneType to str and value changed from None to "取消合授教師1/22".
+Type of root[839]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[839]['changeDescription'] changed from NoneType to str and value changed from None to "1/22".
+Type of root[2441]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2441]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式1/22".
+Value of root[330]['teacher'] changed from "塗子萱,張水鍇" to "塗子萱".
+Value of root[750]['restrict'] changed from 56 to 50.
+Value of root[750]['remaining'] changed from 56 to 50.
+Value of root[761]['restrict'] changed from 60 to 50.
+Value of root[761]['remaining'] changed from 10 to 0.
+Value of root[1098]['teacher'] changed from "塗子萱,張水鍇" to "塗子萱".
+Value of root[839]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME411&Crsname=有限元素法應用" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME537&Crsname=可靠度工程與應用".
+Value of root[839]['department'] changed from "機電系" to "機電碩".
+Value of root[839]['id'] changed from "MEME411" to "MEME537".
+Value of root[839]['grade'] changed from "0" to "1".
+Value of root[839]['name'] changed from "有限元素法應用
+APPLICATIONS OF THE FINITE ELEMENT METHOD" to "可靠度工程與應用
+RELIABILITY ENGINEERING AND APPLICATIONS".
+Value of root[839]['description'] changed from "《講授類》
+欲修讀本課程，需已修習有限元素法概論，並具備足以進行模型建構與分析之有限元素模擬能力。" to "《講授類》".
+Value of root[839]['english'] changed from True to False.
+Value of root[2441]['english'] changed from True to False.
