@@ -1,0 +1,5 @@
+Value of root[1166]['room'] changed from "二5,6,7(通GE 1008)" to "三5,6,7(通GE 1010)".
+Value of root[1606]['teacher'] changed from "曾凡碩" to "吳孝純".
+Value of root[1607]['teacher'] changed from "曾凡碩" to "吳孝純".
+Value of root[1622]['teacher'] changed from "待聘" to "吳孝純".
+Value of root[2451]['teacher'] changed from "曾凡碩" to "吳孝純".
