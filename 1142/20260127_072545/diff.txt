@@ -1,0 +1,15 @@
+Type of root[152]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[152]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室1/27".
+Type of root[157]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[157]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室1/27".
+Type of root[175]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[175]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/27".
+Type of root[402]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[402]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間1/27".
+Value of root[48]['change'] changed from "新增" to "異動".
+Value of root[48]['changeDescription'] changed from "1/20" to "更換教師1/27".
+Value of root[48]['teacher'] changed from "黃舒屏" to "戴藤懋".
+Value of root[152]['room'] changed from "五2,3,4(通GE 2006)" to "一2,3,4(通GE 1010)".
+Value of root[157]['room'] changed from "五5,6,7(通GE 2006)" to "一5,6,7(通GE 1010)".
+Value of root[175]['teacher'] changed from "塗子萱,待聘,林巧雯,江友中,邱花妹" to "塗子萱,張瑜峻,林巧雯,江友中,邱花妹".
+Value of root[402]['room'] changed from "五8,9(通GE 2006)" to "一8,9(通GE 2006)".
