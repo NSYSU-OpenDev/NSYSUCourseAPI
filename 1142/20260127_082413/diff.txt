@@ -1,0 +1,15 @@
+Item root[365] removed from iterable.
+Item root[370] removed from iterable.
+Item root[1258] removed from iterable.
+Item root[1260] removed from iterable.
+Item root[1869] removed from iterable.
+Item root[1874] removed from iterable.
+Item root[1879] removed from iterable.
+Item root[1881] removed from iterable.
+Type of root[435]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[435]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間1/27".
+Type of root[854]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[854]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師1/27".
+Type of root[1009]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1009]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室1/27".
+Value of root[854]['teacher'] changed from "黃英哲" to "楊惠芳".
