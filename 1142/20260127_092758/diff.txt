@@ -1,0 +1,32 @@
+Item root[2716] added to iterable.
+Item root[2717] added to iterable.
+Item root[2718] added to iterable.
+Item root[2719] added to iterable.
+Item root[2720] added to iterable.
+Item root[2721] added to iterable.
+Item root[2722] added to iterable.
+Item root[2723] added to iterable.
+Type of root[136]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[136]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/27".
+Type of root[148]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[148]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/27".
+Type of root[172]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[172]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/27".
+Type of root[191]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[191]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/27".
+Type of root[234]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[234]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/27".
+Type of root[235]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[235]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師1/27".
+Type of root[1519]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1519]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式1/27".
+Value of root[136]['teacher'] changed from "待聘" to "IGER跨校通識聯盟教師".
+Value of root[148]['teacher'] changed from "待聘" to "IGER跨校通識聯盟教師".
+Value of root[172]['teacher'] changed from "待聘" to "IGER跨校通識聯盟教師".
+Value of root[191]['teacher'] changed from "待聘" to "IGER跨校通識聯盟教師".
+Value of root[220]['changeDescription'] changed from "更換時間1/9" to "確認教師1/27".
+Value of root[220]['teacher'] changed from "待聘" to "IGER跨校通識聯盟教師".
+Value of root[234]['teacher'] changed from "待聘" to "IGER跨校通識聯盟教師".
+Value of root[235]['teacher'] changed from "待聘" to "IGER跨校通識聯盟教師".
+Value of root[1007]['room'] changed from "二2,3,4(管CM 4036)" to "二2,3,4(管CM 3015)".
+Value of root[1519]['english'] changed from False to True.
