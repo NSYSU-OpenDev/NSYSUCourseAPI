@@ -1,0 +1,16 @@
+Item root[1963] removed from iterable.
+Type of root[388]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[388]['changeDescription'] changed from NoneType to str and value changed from None to "確認教室1/29".
+Type of root[1379]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1379]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額1/29".
+Type of root[1592]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1592]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室1/29".
+Type of root[1952]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1952]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式1/29".
+Type of root[2563]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2563]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室1/29".
+Value of root[370]['changeDescription'] changed from "更時間及教室1/20" to "更教室1/29".
+Value of root[370]['room'] changed from "五5,6,7(通GE 4016)" to "五5,6,7(海ME 3004)".
+Value of root[388]['room'] changed from "三2,3,4()" to "三2,3,4(醫IL 3017)".
+Value of root[1379]['restrict'] changed from 50 to 15.
+Value of root[1379]['remaining'] changed from 50 to 15.
