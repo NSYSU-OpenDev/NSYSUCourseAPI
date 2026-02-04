@@ -1,3 +1,0 @@
-Item root[875] removed from iterable.
-Value of root[1840]['changeDescription'] changed from "更換授課方式1/20" to "更換授課方式2/3".
-Value of root[1840]['english'] changed from True to False.
