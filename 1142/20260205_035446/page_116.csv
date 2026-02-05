@@ -1,0 +1,48 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM969&Crsname=商業個案研究,,,False,人管碩專,HRM969,0,不分班,"商業個案研究
+BUSINESS CASE STUDIES",3,期,False,28,11,0,28,葉致微,"五C,D,E(管CM 3043)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM976&Crsname=人工智慧在測驗下的相關應用與發展,,,False,人管碩專,HRM976,0,不分班,"人工智慧在測驗下的相關應用與發展
+RELEVANT APPLICATIONS AND DEVELOPMENT OF ARTIFICIAL INTELLIGENCE IN MEASUREMENT",3,期,False,15,13,0,15,鄭怡玲,"日8,6,7(管CM 1036)","['', '', '', '', '', '', '678']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM983&Crsname=策略管理,,,False,人管碩專,HRM983,0,不分班,"策略管理
+STRATEGIC MANAGEMENT",3,期,False,28,27,0,28,陳寶蓮,"六8,6,7(管CM 3043)","['', '', '', '', '', '678', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM995&Crsname=雇主品牌行銷管理,,,False,人管碩專,HRM995,0,不分班,"雇主品牌行銷管理
+EMPLOYER BRANDING AND MARKETING MANAGEMENT",3,期,False,28,5,0,28,楊文芬,"日C,D,E(管CM 3043)","['', '', '', '', '', '', 'CDE']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ICM904&Crsname=行銷傳播管理研究方法,,,False,行傳碩專,ICM904,0,不分班,"行銷傳播管理研究方法
+MARKETING COMMUNICATION RESEARCH METHODS",3,期,False,50,13,0,50,王紹蓉,"四C,D,E(管CM 2032)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ICM909&Crsname=碩士論文,,,False,行傳碩專,ICM909,1,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,11,3,47,指導教授,"六C,D,E(管CM 2029)","['', '', '', '', '', 'CDE', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS950&Crsname=數位商業模式個案分析,,,False,資電碩專,MIS950,0,不分班,"數位商業模式個案分析
+CASE STUDIES IN INFORMATION MANAGEMENT",3,期,False,50,14,0,50,徐士傑,"三D,E,F(管CM 4069)","['', '', 'DEF', '', '', '', '']","《講授類》
+限資電碩專&資管碩專班學生選修(第一次上課請以課程公告為準)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS985&Crsname=商業分析實務,,,False,資電碩專,MIS985,1,不分班,"商業分析實務
+PRACTICAL BUSINESS ANALYTICS",3,期,True,50,1,34,16,康藝晃,"四C,D,E(管CM 2016)","['', '', '', 'CDE', '', '', '']","《講授類》
+限資電碩專學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS987&Crsname=碩士論文（二）,,,False,資電碩專,MIS987,2,不分班,"碩士論文（二）
+MASTER THESIS（II）",3,期,True,50,0,29,21,指導教授,"日1,2,3()","['', '', '', '', '', '', '123']","《講授類》
+限資電碩專學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS988&Crsname=數位行銷分析,異動,更換主授教師1/7,False,資電碩專,MIS988,1,不分班,"數位行銷分析
+DIGITAL MARKETING & ANALYTICS",3,期,True,50,1,34,16,"卓雍然,李家瑩","一C,D,E(管CM 2016)","['CDE', '', '', '', '', '', '']","《講授類》
+限資電碩專班學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS990&Crsname=社群媒體分析,,,False,資電碩專,MIS990,2,不分班,"社群媒體分析
+SOCIAL MEDIA ANALYSIS",3,期,True,50,1,29,21,黃三益,"二C,D,E(管CM 4069)","['', 'CDE', '', '', '', '', '']","《講授類》
+限資電碩專學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS995&Crsname=研究方法論,,,False,資電碩專,MIS995,1,不分班,"研究方法論
+RESEARCH METHODOLOGY",3,期,True,50,0,34,16,李怡珍,"二C,D,E(管CM 2016)","['', 'CDE', '', '', '', '', '']","《講授類》
+限資電碩專學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRMA901&Crsname=碩士論文,,,False,人亞碩專,HRMA901,2,不分班,"碩士論文
+MASTER THESIS",3,期,True,50,0,13,37,指導教授,"二C,D,E()","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRMA913&Crsname=人力資源管理,異動,調整名額1/15,False,人亞碩專,HRMA913,0,不分班,"人力資源管理
+HUMAN RESOURCE MANAGEMENT",3,期,False,30,9,0,30,謝慧賢,"一C,D,E(管CM 1036)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRMA916&Crsname=量化研究方法,,,False,人亞碩專,HRMA916,0,不分班,"量化研究方法
+QUANTITATIVE RESEARCH METHODS",3,期,False,50,22,0,50,"李澄賢,王豫萱,陳旻男","六C,D,E(管CM 3051)","['', '', '', '', '', 'CDE', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRMA955&Crsname=永續轉型與變革管理,,,False,人亞碩專,HRMA955,0,不分班,"永續轉型與變革管理
+SUSTAINABILITY TRANSITION AND ORGANIZATIONAL CHANGE",3,期,False,50,12,0,50,何佳澔,"六8,6,7(管CM 1037)","['', '', '', '', '', '678', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRMA971&Crsname=策略性人力資源管理,,,False,人亞碩專,HRMA971,0,不分班,"策略性人力資源管理
+STRATEGIC HUMAN RESOURCE MANAGEMENT",3,期,False,50,16,0,50,陳寶蓮,"日2,3,4(管CM 2037)","['', '', '', '', '', '', '234']","《講授類》
+限修過策略管理相關課程選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EMBA888&Crsname=市場投資與經營,,,True,EMBA碩專,EMBA888,1,不分班,"市場投資與經營
+INVESTMENT AND BUSINESS OPERATIONS",1.5,期,True,80,0,0,80,"蔡佳芬,邱敬貿","二C,D(圖資中信廳)","['', 'CD', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EMBA9005&Crsname=亞太經貿環境分析（一）,,,True,EMBA碩專,EMBA9005,1,不分班,"亞太經貿環境分析（一）
+ANALYSIS IN ASIA-PACIFIC ECNOMIC AND TRADE ENVIRONMENT （一）",2,期,True,50,0,0,50,陳旻男,"二E,F(台北)","['', 'EF', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EMBA9006&Crsname=亞太經貿環境分析（二）,,,True,EMBA碩專,EMBA9006,2,不分班,"亞太經貿環境分析（二）
+ANALYSIS IN ASIA-PACIFIC ECNOMIC AND TRADE ENVIRONMENT （二）",2,期,True,50,0,0,50,陳旻男,"二A,1(台北)","['', 'A1', '', '', '', '', '']",《講授類》,[],False
