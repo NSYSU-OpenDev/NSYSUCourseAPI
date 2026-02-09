@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ECON692B&Crsname=專題研究（二）,,,False,經濟碩,ECON692B,2,不分班,"專題研究（二）
+INDEPENDENT STUDIES （II）",3,期,False,50,0,4,46,陳冠任,"四8,6,7(社SS 2003-2)","['', '', '', '678', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ECON692C&Crsname=專題研究（二）,,,False,經濟碩,ECON692C,2,不分班,"專題研究（二）
+INDEPENDENT STUDIES （II）",3,期,False,50,0,1,49,許嘉麟,"五8,6,7(社SS 1014)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ECON692D&Crsname=專題研究（二）,,,False,經濟碩,ECON692D,2,不分班,"專題研究（二）
+INDEPENDENT STUDIES （II）",3,期,False,50,0,4,46,童永年,"四2,3,4(社SS 1014)","['', '', '', '234', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ECON692E&Crsname=專題研究（二）,,,False,經濟碩,ECON692E,2,不分班,"專題研究（二）
+INDEPENDENT STUDIES （II）",3,期,False,50,0,2,48,鄭宜玲,"三5,6,7(社SS 1014)","['', '', '567', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ECON692F&Crsname=專題研究（二）,,,False,經濟碩,ECON692F,2,不分班,"專題研究（二）
+INDEPENDENT STUDIES （II）",3,期,False,50,1,1,49,李慶男,"五2,3,4(社SS 3002-1)","['', '', '', '', '234', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ECON698&Crsname=書報討論（二）,,,False,經濟碩,ECON698,1,不分班,"書報討論（二）
+SEMINAR IN ECONOMICS (2)",1,期,False,50,3,21,29,童永年,二6(社SS 3002-1),"['', '6', '', '', '', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE509&Crsname=教育研究法,,,False,教育碩,IOE509,1,不分班,"教育研究法
+EDUCATIONAL RESEARCH METHODS",3,期,True,30,0,13,17,"鄭雯,陳利銘","二8,6,7(社SS 2005)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE529&Crsname=教育測驗與評量研究,,,False,教育碩,IOE529,0,不分班,"教育測驗與評量研究
+STUDIES IN EDUCATIONAL TESTING AND MEASUREMENT",3,期,False,30,0,2,28,施慶麟,"三2,3,4(社SS 2004-3)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE530&Crsname=課程理論研究,異動,更換教室1/7,False,教育碩,IOE530,0,不分班,"課程理論研究
+STUDIES IN CURRICULUM THEORIES",3,期,False,30,0,1,29,周珮儀,"一8,6,7(社SS 2005)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE557&Crsname=專題研討（二）,,,False,教育碩,IOE557,1,不分班,"專題研討（二）
+SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,30,0,13,17,謝百淇,三7(社SS 2001),"['', '', '7', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE558&Crsname=全球教育研究,,,False,教育碩,IOE558,0,不分班,"全球教育研究
+STUDIES IN GLOBAL EDUCATION",3,期,False,30,1,5,25,周珮儀,"一2,3,4(社SS 2002-1)","['234', '', '', '', '', '', '']",《講授類》,['全球研究學分學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE581&Crsname=教學心理學研究,,,False,教育碩,IOE581,0,不分班,"教學心理學研究
+THE STUDY OF PSYCHOLOGY FOR TEACHING",3,期,False,30,1,1,29,楊淑晴,"三B,5,6(社SS 2002-1)","['', '', 'B56', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE596&Crsname=教師專業發展研究,,,False,教育碩,IOE596,0,不分班,"教師專業發展研究
+STUDIES IN FACULTY PROFESSION IN HIGHER EDUCATION",3,期,False,30,0,1,29,林靜慧,"三B,5,6(社SS 2005)","['', '', 'B56', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE600&Crsname=全球教育領導,,,False,教育碩,IOE600,0,不分班,"全球教育領導
+LEADERSHIP IN GLOBAL EDUCATION",3,期,False,30,0,0,30,艾玲,"一8,6,7(社SS 2006)","['678', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE605&Crsname=教育專題研究（二）,,,False,教育碩,IOE605,2,不分班,"教育專題研究（二）
+INDEPENDENT STUDIES IN EDUCATION (II)",1,期,True,30,0,13,17,施慶麟,六1(),"['', '', '', '', '', '1', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE607&Crsname=多變量分析,,,False,教育碩,IOE607,0,不分班,"多變量分析
+MULTIVARIATE ANALYSIS",3,期,False,30,0,2,28,艾玲,"一2,3,4(社SS 3006 )","['234', '', '', '', '', '', '']",《講授類》,['政經大數據分析微學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE612&Crsname=STEM教育研究,,,False,教育碩,IOE612,0,不分班,"STEM教育研究
+RESEARCH ON STEM EDUCATION",3,期,False,30,0,1,29,謝百淇,"四2,3,4(社SS 2005)","['', '', '', '234', '', '', '']",《講授類》,"['STREAM永續發展培力微學程', '原民文化探索及永續發展學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE623&Crsname=研究方法,,,False,教育碩,IOE623,1,不分班,"研究方法
+RESEARCH METHODS",3,期,True,20,0,3,17,馮雅群,"三2,3,4(社SS 2002-1)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE624&Crsname=STREAM探究與實作,,,False,教育碩,IOE624,0,不分班,"STREAM探究與實作
+INQUIRY AND PRACTICE ON STREAM",3,期,False,30,0,1,29,楊淑晴,"五B,5,6(社SS 2002-2)","['', '', '', '', 'B56', '', '']",《講授類》,['STREAM永續發展培力微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE627&Crsname=對外英語教學,,,False,教育碩,IOE627,0,不分班,"對外英語教學
+TEACHING ENGLISH TO SPEAKERS OF OTHER LANGUAGES (TESOL)",3,期,False,30,1,2,28,紀博善,"三B,5,6(社SS 2002-2)","['', '', 'B56', '', '', '', '']",《講授類》,[],True

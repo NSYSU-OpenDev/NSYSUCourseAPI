@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME308A&Crsname=固力實驗,,,False,機電系,MEME308A,3,乙班,"固力實驗
+MATERIAL TESTING LABORATORY",1,期,True,60,1,24,36,吳美玲,"三2,3,4(工EC 3006)(實驗)","['', '', '234', '', '', '', '']","《實驗類》
+實驗室在工EV 2015",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME308B&Crsname=固力實驗,,,False,機電系,MEME308B,3,全英班,"固力實驗
+MATERIAL TESTING LABORATORY",1,期,True,60,0,39,21,吳美玲,"三5,6,7(工EC 3006)(實驗)","['', '', '567', '', '', '', '']","《實驗類》
+實驗室在工EV 2015",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME309&Crsname=控制實驗,,,False,機電系,MEME309,3,甲班,"控制實驗
+CONTROL LABORATORY",1,期,True,60,0,29,31,嚴成文,"一5,6,7(工EC 3006)(實驗)","['567', '', '', '', '', '', '']","《實驗類》
+實驗室在工EV 2008",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME309A&Crsname=控制實驗,,,False,機電系,MEME309A,3,乙班,"控制實驗
+CONTROL LABORATORY",1,期,True,60,3,44,16,嚴成文,"一2,3,4(工EC 3006)(實驗)","['234', '', '', '', '', '', '']","《實驗類》
+實驗室在工EV 2008",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME309B&Crsname=控制實驗,,,False,機電系,MEME309B,3,全英班,"控制實驗
+CONTROL LABORATORY",1,期,True,60,0,33,27,嚴成文,"二2,3,4(工EC 3006)(實驗)","['', '234', '', '', '', '', '']","《實驗類》
+實驗室在工EV 2008",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME317&Crsname=電子封裝簡介,,,False,機電系,MEME317,0,不分班,"電子封裝簡介
+AN INTRODUCTION OF IC PACKAGING",3,期,False,50,4,50,0,施孟鎧,"三2,3,4(工EN 3021)","['', '', '234', '', '', '', '']",《講授類》,"['矽光子暨半導體學程', '半導體製程模組學程', '半導體元件學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME318&Crsname=機械振動,,,False,機電系,MEME318,0,不分班,"機械振動
+MECHANICAL VIBRATION",3,期,False,50,3,36,14,盧威廷,"三5,6,7(工EN 2022)","['', '', '567', '', '', '', '']",《講授類》,"['海事工程學程', '南星產業樞紐學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME321&Crsname=數位電子學,,,False,機電系,MEME321,0,不分班,"數位電子學
+DIGITAL ELECTRONICS",3,期,False,50,0,2,48,許煜亮,"二2,3,4(工EC 3002)","['', '234', '', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體設備工程學程', '半導體元件學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME328&Crsname=機械設計原理（二）,,,False,機電系,MEME328,0,不分班,"機械設計原理（二）
+PRINCIPLES OF MACHINE DESIGN(II)",3,期,False,50,0,41,9,蔡尚南,"四8,6,7(工EC 3003)","['', '', '', '678', '', '', '']",《講授類》,"['無人載具學程', '半導體設備工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME328A&Crsname=機械設計原理（二）,,,False,機電系,MEME328A,0,不分班,"機械設計原理（二）
+PRINCIPLES OF MACHINE DESIGN(II)",3,期,False,50,0,13,37,胡龍豪,"三5,6,7(工EN 3021)","['', '', '567', '', '', '', '']",《講授類》,"['無人載具學程', '半導體設備工程學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME333&Crsname=中等熱傳學,,,False,機電系,MEME333,0,不分班,"中等熱傳學
+INTERMEDIATE HEAT TRANSFER",3,期,False,50,1,11,39,鄭威利,"五5,6,7(工EN 2022)","['', '', '', '', '567', '', '']",《講授類》,['半導體設備工程學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME334&Crsname=太空科技導論,,,False,機電系,MEME334,0,不分班,"太空科技導論
+INTRODUCTION TO SPACE TECHNOLOGY",3,期,False,50,5,37,13,汪正祺,"三2,3,4(工EC 3002)","['', '', '234', '', '', '', '']",《講授類》,['太空科技微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME401&Crsname=熱流實驗,,,False,機電系,MEME401,3,甲班,"熱流實驗
+THERMALFLUIDS EXPERIMENT",1,期,True,60,0,37,23,梁俊德,"二5,6,7(工EN 4055-1)(實驗)","['', '567', '', '', '', '', '']","《實驗類》
+三甲、三乙、三英併班上課，本課程須配合實驗設備彈性安排實驗時間，實驗室在工EV3008。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME401A&Crsname=熱流實驗,,,False,機電系,MEME401A,3,乙班,"熱流實驗
+THERMALFLUIDS EXPERIMENT",1,期,True,60,0,36,24,梁俊德,"二5,6,7(工EN 4055-1)(實驗)","['', '567', '', '', '', '', '']","《實驗類》
+三甲、三乙、三英併班上課，本課程須配合實驗設備彈性安排實驗時間，實驗室在工EV3008。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME401B&Crsname=熱流實驗,,,False,機電系,MEME401B,3,全英班,"熱流實驗
+THERMALFLUIDS EXPERIMENT",1,期,True,60,0,35,25,梁俊德,"二5,6,7(工EN 4055-1)(實驗)","['', '567', '', '', '', '', '']","《實驗類》
+三甲、三乙、三英併班上課，本課程須配合實驗設備彈性安排實驗時間，實驗室在工EV3008。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME414&Crsname=工程倫理,異動,更正時間1/14,False,機電系,MEME414,0,不分班,"工程倫理
+ENGINEERING ETHICS",3,期,False,50,2,48,2,何應勤,"二8,9(工EN 3021) 四8(工EN 3021)","['', '89', '', '8', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME429&Crsname=機電實務專案,,,False,機電系,MEME429,3,甲班,"機電實務專案
+PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,37,13,王郁仁,"四A(工EN 4055-1)(實驗) 五A,1(工EN 4055-1)(實驗)","['', '', '', 'A', 'A1', '', '']",《實習類》,['太空科技微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME429A&Crsname=機電實務專案,,,False,機電系,MEME429A,3,乙班,"機電實務專案
+PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,35,15,王郁仁,"四A(工EN 4055-1)(實驗) 五A,1(工EN 4055-1)(實驗)","['', '', '', 'A', 'A1', '', '']",《實習類》,['太空科技微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME429B&Crsname=機電實務專案,,,False,機電系,MEME429B,3,全英班,"機電實務專案
+PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,33,17,王郁仁,"四A(工EN 4055-1)(實驗) 五A,1(工EN 4055-1)(實驗)","['', '', '', 'A', 'A1', '', '']",《實習類》,['太空科技微學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE170&Crsname=數位電子學,,,False,資工系,CSE170,1,不分班,"數位電子學
+DIGITAL ELECTRONICS",3,期,True,80,1,66,14,郭可驥,"一5,6,7(工EC 5012)","['567', '', '', '', '', '', '']",《講授類》,"['矽光子暨半導體學程', '類比射頻IC設計學程']",False
