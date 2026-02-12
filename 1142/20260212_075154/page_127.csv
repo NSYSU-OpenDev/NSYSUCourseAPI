@@ -1,8 +1,8 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IGPM708&Crsname=進階浮游植物生態學研究（二）,,,False,海科全英博,IGPM708,0,不分班,"進階浮游植物生態學研究（二）
 ADVANCED STUDIES IN PHYTOPLANKTON ECOLOGY (II)",2,期,False,50,0,0,50,張桂祥,"二6,7(MB 1005)","['', '67', '', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IPS706&Crsname=政治學數量資料分析,,,False,政治博,IPS706,0,不分班,"政治學數量資料分析
-POLITICAL SCIENCE QUANTITATIVE DATA ANALYSIS",3,期,False,40,0,2,38,張晉赫,"三2,3,4(社SS 3010-2)","['', '', '234', '', '', '', '']",《講授類》,['政經大數據分析微學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IPS706&Crsname=政治學數量資料分析,異動,更換教室2/12,False,政治博,IPS706,0,不分班,"政治學數量資料分析
+POLITICAL SCIENCE QUANTITATIVE DATA ANALYSIS",3,期,False,40,0,2,38,張晉赫,"三2,3,4(社SS 3008)","['', '', '234', '', '', '', '']",《講授類》,['政經大數據分析微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE701&Crsname=教學心理學研究,,,False,教育博,IOE701,0,不分班,"教學心理學研究
 STUDIES IN PSYCHOLOGY FOR TEACHING",3,期,False,30,0,0,30,楊淑晴,"三B,5,6(社SS 2002-1)","['', '', 'B56', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE709&Crsname=課程理論研究,異動,更換教室1/7,False,教育博,IOE709,0,不分班,"課程理論研究

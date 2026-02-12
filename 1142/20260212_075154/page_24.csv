@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DFLL237A&Crsname=法文（二）,,,False,外文系,DFLL237A,2,不分班,"法文（二）
-FRENCH(II)",3,期,False,20,1,16,4,王柔惠,"一2,3,4(文LA 3002)","['234', '', '', '', '', '', '']","《講授類》
+FRENCH(II)",3,期,False,20,1,17,3,王柔惠,"一2,3,4(文LA 3002)","['234', '', '', '', '', '', '']","《講授類》
 初級法文。非外文系學生優先選修","['西洋經典文學與文化學程', '法國語言、文化與社會學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DFLL239&Crsname=德文（二）,,,False,外文系,DFLL239,2,不分班,"德文（二）
 GERMAN(II)",3,期,False,20,0,8,12,陳麗雅,"三5,6,7(文LA 3012)","['', '', '567', '', '', '', '']","《講授類》
