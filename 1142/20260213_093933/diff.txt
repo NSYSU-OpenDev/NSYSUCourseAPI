@@ -1,0 +1,5 @@
+Type of root[1092]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1092]['changeDescription'] changed from NoneType to str and value changed from None to "修正備註說明2/13".
+Value of root[1092]['description'] changed from "《講授類》" to "《講授類》
+本課程預計停開，請學生勿在再加選，已選上之學生請自行退選課程。".
+Value of root[2220]['room'] changed from "二1,2,3,4(台郡廠商)(實驗)" to "二1,2,3,4(台郡廠區)(實驗)".
