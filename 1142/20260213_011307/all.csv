@@ -828,9 +828,9 @@ ELECTROMAGNETICS (II)",3,期,True,10,0,0,10,洪子聖,"二2,3,4(工EC 1001)","['
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1342B&Crsname=電磁學（二）,,,False,跨院選修(工),GEAI1342B,0,不分班,"電磁學（二）
 ELECTROMAGNETICS (II)",3,期,True,10,0,8,2,王復康,"二2,3,4(工EC 6019)","['', '234', '', '', '', '', '']","《講授類》
 跨院通識與電機系EE3501B課程併班上課",['類比射頻IC設計學程'],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1343&Crsname=機率與統計,異動,更換教室1/14,False,跨院選修(工),GEAI1343,0,不分班,"機率與統計
-PROBABILITY THEORY",3,期,True,10,0,7,3,陳有德,"三2,3,4(工EC 3009)","['', '', '234', '', '', '', '']","《講授類》
-本課程英語專班無法抵免。跨院通識與電機系EE3607課程併班上課","['生成式AI素養微學程', '人工智慧探索應用學分學程', '人工智慧工業應用學分學程', '南星產業樞紐學程', '金融工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1343&Crsname=機率與統計,異動,更換教室2/12,False,跨院選修(工),GEAI1343,0,不分班,"機率與統計
+PROBABILITY THEORY",3,期,True,10,0,7,3,陳有德,"三2,3,4(工EC 2002)","['', '', '234', '', '', '', '']","《講授類》
+本課程英語專班無法抵免跨院通識與電機系EE3607課程併班上課","['生成式AI素養微學程', '人工智慧探索應用學分學程', '人工智慧工業應用學分學程', '南星產業樞紐學程', '金融工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1349&Crsname=無線網際網路,,,False,跨院選修(工),GEAI1349,0,不分班,"無線網際網路
 WIRELESS INTERNET",3,期,False,10,5,10,0,王友群,"三5,6,7(工EC 1005)","['', '', '567', '', '', '', '']","《講授類》
 跨院通識與資工系CSE445課程併班上課","['製造與大數據分析微學程', '無人載具學程', '跨領域智慧製造學程', '人工智慧與數學學程']",False
@@ -1462,7 +1462,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MUSI301
 STRING CHAMBER ENSEMBLE(I)",1,期,False,50,0,6,44,富澤直子,"二3,4(文FA 4031)","['', '34', '', '', '', '', '']","《音樂類》
 限音樂系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MUSI315&Crsname=音樂心理學,,,False,音樂系,MUSI315,3,不分班,"音樂心理學
-PSYCHOLOGY OF MUSIC",2,期,False,50,4,25,25,鄭夙雯,"三3,4(文FA 7003)","['', '', '34', '', '', '', '']","《講授類》
+PSYCHOLOGY OF MUSIC",2,期,False,50,4,27,23,鄭夙雯,"三3,4(文FA 7003)","['', '', '34', '', '', '', '']","《講授類》
 限音樂系學生修課","['音樂與高齡照護學程', '表達性藝術治療學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MUSI317&Crsname=管弦樂指揮法,,,False,音樂系,MUSI317,4,不分班,"管弦樂指揮法
 ORCHESTRAL CONDUCTING",2,期,False,50,0,33,17,楊智欽,"五8,7(文FA 4031)","['', '', '', '', '78', '', '']","《講授類》
@@ -2063,11 +2063,11 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE3501B
 ELECTROMAGNETICS (II)",3,期,True,110,0,85,25,王復康,"二2,3,4(工EC 6019)","['', '234', '', '', '', '', '']",《講授類》,['類比射頻IC設計學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE3503&Crsname=微波元件導論,,,False,電機系,EE3503,2,不分班,"微波元件導論
 INTRODUCTION TO MICROWAVE DEVICES",3,期,False,50,0,19,31,李杰穎,"五5,6,7(工EC 3012)","['', '', '', '', '567', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE3607&Crsname=機率與統計,異動,更換教室1/14,False,電機系,EE3607,2,甲班,"機率與統計
-PROBABILITY THEORY",3,期,True,60,0,41,19,陳有德,"三2,3,4(工EC 3009)","['', '', '234', '', '', '', '']","《講授類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE3607&Crsname=機率與統計,異動,更換教室2/12,False,電機系,EE3607,2,甲班,"機率與統計
+PROBABILITY THEORY",3,期,True,60,0,41,19,陳有德,"三2,3,4(工EC 2002)","['', '', '234', '', '', '', '']","《講授類》
 甲、乙班併班上課；本課程英語專班無法抵免","['人工智慧探索應用學分學程', '人工智慧工業應用學分學程', '南星產業樞紐學程', '金融工程學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE3607A&Crsname=機率與統計,異動,更換教室1/14,False,電機系,EE3607A,2,乙班,"機率與統計
-PROBABILITY THEORY",3,期,True,60,1,31,29,陳有德,"三2,3,4(工EC 3009)","['', '', '234', '', '', '', '']","《講授類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE3607A&Crsname=機率與統計,異動,更換教室2/12,False,電機系,EE3607A,2,乙班,"機率與統計
+PROBABILITY THEORY",3,期,True,60,1,31,29,陳有德,"三2,3,4(工EC 2002)","['', '', '234', '', '', '', '']","《講授類》
 甲、乙班併班上課；本課程英語專班無法抵免","['人工智慧探索應用學分學程', '人工智慧工業應用學分學程', '南星產業樞紐學程', '金融工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE3607B&Crsname=機率與統計,異動,調整名額1/22,False,電機系,EE3607B,2,全英班,"機率與統計
 PROBABILITY THEORY",3,期,True,50,11,51,-1,梁家昌,"二8,6,7(工EC 3013)","['', '678', '', '', '', '', '']",《講授類》,"['人工智慧探索應用學分學程', '人工智慧工業應用學分學程', '南星產業樞紐學程', '金融工程學程']",True
@@ -2809,7 +2809,7 @@ INTRODUCTION TO ENVIRONMENTAL SCIENCE",2,期,False,30,0,16,14,雷漢杰,"四3,4(
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DO237&Crsname=地球科學概論,,,False,海科系,DO237,2,不分班,"地球科學概論
 INTRODUCTION TO EARTH SCIENCE",2,期,False,35,0,14,21,林慧玲,"二3,4(海MA 3020)","['', '34', '', '', '', '', '']",《講授類》,"['環境教育學程', '看見臺灣海岸微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DO243&Crsname=程式設計,,,False,海科系,DO243,2,不分班,"程式設計
-PROGRAMMING DESIGN",3,期,True,50,0,30,20,周佑誠,"三2,3,4(圖IL PC02)","['', '', '234', '', '', '', '']",《講授類》,"['金融工程學程', '擁海學程', '軟體工程學程', '自然科學之程式應用學程']",False
+PROGRAMMING DESIGN",3,期,True,50,0,29,21,周佑誠,"三2,3,4(圖IL PC02)","['', '', '234', '', '', '', '']",《講授類》,"['金融工程學程', '擁海學程', '軟體工程學程', '自然科學之程式應用學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DO243A&Crsname=程式設計,,,False,海科系,DO243A,2,不分班,"程式設計
 PROGRAMMING DESIGN",3,期,False,50,1,8,42,王敬湧,"二5,6,7(圖IL PC02)","['', '567', '', '', '', '', '']",《講授類》,"['金融工程學程', '擁海學程', '軟體工程學程', '自然科學之程式應用學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DO246&Crsname=氣象學,,,False,海科系,DO246,2,不分班,"氣象學
@@ -3019,7 +3019,7 @@ INTRODUCTION TO RESEARCH METHODS",3,期,True,50,0,30,20,"夏晧清,謝如梅","�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PIS3003&Crsname=創新設計或創業專題（一）,異動,更換部份時間2/6,False,人科學程,PIS3003,3,不分班,"創新設計或創業專題（一）
 INDEPENDENT STUDIES IN INNOVATION AND ENTREPRENEURSHIP (1)",3,期,True,50,0,29,21,"夏晧清,宋世祥,張淑美,王兆璋,謝如梅,鄭南玉","六3,4,B(西SW 1005)","['', '', '', '', '', '34B', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=III1003&Crsname=世界史中的原住民,異動,更換授課方式2/12,False,國際學士原民專班,III1003,1,不分班,"世界史中的原住民
-INDIGENOUS PEOPLES IN WORLD HISTORY",3,期,True,50,0,7,43,李馨慈,"五2,3,4(通GE 3013)","['', '', '', '', '234', '', '']",《講授類》,[],False
+INDIGENOUS PEOPLES IN WORLD HISTORY",3,期,True,50,0,7,43,李馨慈,"五2,3,4(通GE 3013)","['', '', '', '', '234', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=III1004&Crsname=文獻分析與田野實作,,,False,國際學士原民專班,III1004,1,不分班,"文獻分析與田野實作
 LITERATURE ANALYSIS AND FIELD PRACTICE",3,期,True,50,0,7,43,"李育諭,王啟仲,許家豪","四5,6,7(通GE 4020)","['', '', '', '567', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=III1005&Crsname=社會文化分析,異動,更換時間及教室1/22,False,國際學士原民專班,III1005,1,不分班,"社會文化分析
@@ -3713,7 +3713,7 @@ INTRODUCTION TO BIOMEDICAL INSTRUMENTATION",3,期,False,50,0,6,44,"余祥華,曾
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE4718&Crsname=高可靠度系統之設計、測試與應用,異動,更換教室2/10,False,電機碩,EE4718,0,不分班,"高可靠度系統之設計、測試與應用
 DESIGN, TEST, AND APPLICATIONS OF HIGHLY RELIABLE SYSTEMS",3,期,False,70,0,63,7,謝東佑,"五2,3,4(工EC 2002)","['', '', '', '', '234', '', '']",《講授類》,"['數位IC設計學程', '資通安全學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5100&Crsname=書報討論,,,False,電機碩,EE5100,1,不分班,"書報討論
-SEMINAR",1,期,True,150,0,150,0,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']",《演講/參訪》,[],False
+SEMINAR",1,期,True,150,0,149,1,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5100A&Crsname=書報討論,,,False,電機碩,EE5100A,2,不分班,"書報討論
 SEMINAR",1,期,True,150,0,141,9,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5105&Crsname=光電元件,,,False,電機碩,EE5105,0,不分班,"光電元件
@@ -3851,8 +3851,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5740&
 POWER MANAGEMENT INTEGRATED CIRCUIT DESIGN",3,期,False,50,1,9,41,李宗哲,"五5,6,7(工EC 6010-2)","['', '', '', '', '567', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5801&Crsname=生理訊號研究專題,,,False,電機碩,EE5801,0,不分班,"生理訊號研究專題
 INDEPENDENT STUDIES IN PHYSIOLOGY-RELATED SIGNAL",3,期,False,50,0,3,47,吳珮歆,"一2,3,4(工EC 6015-1)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5805&Crsname=生理學,,,False,電機碩,EE5805,0,不分班,"生理學
-PHYSIOLOGY",3,期,False,50,0,11,39,吳珮歆,"一8,6,7(工EC 2007)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5805&Crsname=生理學,異動,更換教室2/12,False,電機碩,EE5805,0,不分班,"生理學
+PHYSIOLOGY",3,期,False,50,0,11,39,吳珮歆,"一8,6,7(工EC 8037)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5806&Crsname=生醫訊號處理,異動,更換授課方式1/27,False,電機碩,EE5806,0,不分班,"生醫訊號處理
 BIOMEDICAL SIGNAL PROCESSING",3,期,False,50,0,21,29,曾乙立,"三5,6,7(工EC 6016)","['', '', '567', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5807&Crsname=腦機介面專題,,,False,電機碩,EE5807,0,不分班,"腦機介面專題
@@ -4967,8 +4967,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=OWP505&
 SEMINAR IN OFFSHORE WIND POWER (Ⅳ)",2,期,False,50,0,1,49,張揚祺,"四6,7(海ME 3002)","['', '', '', '67', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=OWP509&Crsname=海事工程風險分析及管理,,,False,離岸風電碩,OWP509,1,不分班,"海事工程風險分析及管理
 RISK ANALYSIS AND MANAGEMENT FOR OFFSHORE ENGINEERING",3,期,False,50,0,1,49,柯宗廷,"五2,3,4(海ME 2001)","['', '', '', '', '234', '', '']",《講授類》,"['環境教育學程', '海事工程學程', '南星產業樞紐學程', '永續能源學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=OWP516&Crsname=離岸風電運維實務,,,False,離岸風電碩,OWP516,1,不分班,"離岸風電運維實務
-OPERATION AND MAINTENANCE OF OFFSHORE WIND FARMS",3,期,False,50,1,14,36,王右仁,"四3,4,B(海ME 2001)","['', '', '', '34B', '', '', '']",《講授類》,"['淨零轉型微學程', '淨零轉型與永續發展整合學程', '海事工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=OWP516&Crsname=離岸風電運維實務,異動,更換教師2/12,False,離岸風電碩,OWP516,1,不分班,"離岸風電運維實務
+OPERATION AND MAINTENANCE OF OFFSHORE WIND FARMS",3,期,False,50,1,14,36,卓宴琳,"四3,4,B(海ME 2001)","['', '', '', '34B', '', '', '']",《講授類》,"['淨零轉型微學程', '淨零轉型與永續發展整合學程', '海事工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IPS503&Crsname=社會科學的哲學,,,True,政治碩,IPS503,1,不分班,"社會科學的哲學
 PHILOSOPHY OF SOCIAL SCIENCE",3,期,True,50,0,0,50,林婉萍,"五5,6,7(社SS 3008)","['', '', '', '', '567', '', '']","《講授類》
 限政治所碩士生修習",[],False
