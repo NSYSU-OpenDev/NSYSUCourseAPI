@@ -1462,7 +1462,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MUSI301
 STRING CHAMBER ENSEMBLE(I)",1,期,False,50,0,6,44,富澤直子,"二3,4(文FA 4031)","['', '34', '', '', '', '', '']","《音樂類》
 限音樂系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MUSI315&Crsname=音樂心理學,,,False,音樂系,MUSI315,3,不分班,"音樂心理學
-PSYCHOLOGY OF MUSIC",2,期,False,50,4,25,25,鄭夙雯,"三3,4(文FA 7003)","['', '', '34', '', '', '', '']","《講授類》
+PSYCHOLOGY OF MUSIC",2,期,False,50,4,27,23,鄭夙雯,"三3,4(文FA 7003)","['', '', '34', '', '', '', '']","《講授類》
 限音樂系學生修課","['音樂與高齡照護學程', '表達性藝術治療學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MUSI317&Crsname=管弦樂指揮法,,,False,音樂系,MUSI317,4,不分班,"管弦樂指揮法
 ORCHESTRAL CONDUCTING",2,期,False,50,0,33,17,楊智欽,"五8,7(文FA 4031)","['', '', '', '', '78', '', '']","《講授類》
@@ -1482,7 +1482,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MUSI366
 PERCUSSION INTERPRETATION OF ORCHESTRA EXCERPTS",2,期,False,50,0,2,48,陸淯姿,"一8,7(文FA 4030)","['78', '', '', '', '', '', '']","《講授類》
 限音樂系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MUSI372&Crsname=主修（作曲）,,,True,音樂系,MUSI372,3,不分班,"主修（作曲）
-MAJOR (THEORY & COMPOSITION)",2,期,True,5,0,2,3,"應廣儀,李思嫺,陳以軒","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+MAJOR (THEORY & COMPOSITION)",2,期,True,5,0,2,3,"李思嫺,陳以軒","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
 限音樂系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MUSI374&Crsname=主修（製作）,,,True,音樂系,MUSI374,3,不分班,"主修（製作）
 MAJOR(PRODUCTION)",2,期,True,50,1,9,41,"劉聖賢,李思嫺,江俊典,陳以軒,顏竹君,黃盟傑","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
@@ -2776,8 +2776,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV361
 PROBABILITY AND STATISTICS",3,期,False,50,0,17,33,夏沛亞,"三2,3,4(海ME 3004)","['', '', '234', '', '', '', '']",《講授類》,['金融工程學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV401&Crsname=計算機在工程上的應用,,,False,海工系,MAEV401,4,不分班,"計算機在工程上的應用
 COMPUTER APPLICATION TO ENGINEERING PROBLEMS",3,期,False,50,0,3,47,金尚進,"三5,6,7(海ME 3004)","['', '', '567', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV403&Crsname=海洋環境專題研究（一）,,,False,海工系,MAEV403,4,不分班,"海洋環境專題研究（一）
-INDEPENDENT STUDIES IN MARINE ENVIRONMENT (I)",3,期,False,50,0,2,48,指導教授,"六8,9,7()","['', '', '', '', '', '789', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV403&Crsname=海洋環境專題研究（一）,異動,確認教師2/13,False,海工系,MAEV403,4,不分班,"海洋環境專題研究（一）
+INDEPENDENT STUDIES IN MARINE ENVIRONMENT (I)",3,期,False,50,0,2,48,鍾秉宸,"六8,9,7()","['', '', '', '', '', '789', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV441&Crsname=鋼筋混凝土設計,,,False,海工系,MAEV441,3,不分班,"鋼筋混凝土設計
 REINFORCED CONCRETE DESIGN",3,期,False,50,0,11,39,詹鵬台,"二2,3,4(海ME 2007)","['', '234', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV442&Crsname=工程地質學,,,False,海工系,MAEV442,4,不分班,"工程地質學
@@ -3370,7 +3370,7 @@ DISCUSSIONS ON SERIAL MUSIC",2,期,False,50,0,14,36,陳以軒,"四3,4(文FA 6011
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MUSI689&Crsname=進階管弦樂法,,,False,音樂碩,MUSI689,0,不分班,"進階管弦樂法
 ADVANCED ORCHESTRATION",2,期,False,50,0,6,44,李思嫺,"一3,4(文FA 6011)","['34', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MUSI698&Crsname=音樂學術寫作技巧,,,False,音樂碩,MUSI698,0,不分班,"音樂學術寫作技巧
-ACADEMIC WRITING TECHNIQUES FOR MUSIC DISCOURSE",1,期,False,50,0,3,47,林雅叙,三A(),"['', '', 'A', '', '', '', '']","《音樂類》
+ACADEMIC WRITING TECHNIQUES FOR MUSIC DISCOURSE",1,期,False,50,0,3,47,"林雅叙,顏竹君",三A(),"['', '', 'A', '', '', '', '']","《音樂類》
 限音樂系學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHIL532&Crsname=哲學法文,,,False,哲學碩,PHIL532,0,不分班,"哲學法文
 PHILOSOPHICAL FRENCH",3,期,False,50,0,0,50,宋灝,"二8,6,7(文LA 2008)","['', '678', '', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],False
@@ -3713,7 +3713,7 @@ INTRODUCTION TO BIOMEDICAL INSTRUMENTATION",3,期,False,50,0,6,44,"余祥華,曾
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE4718&Crsname=高可靠度系統之設計、測試與應用,異動,更換教室2/10,False,電機碩,EE4718,0,不分班,"高可靠度系統之設計、測試與應用
 DESIGN, TEST, AND APPLICATIONS OF HIGHLY RELIABLE SYSTEMS",3,期,False,70,0,63,7,謝東佑,"五2,3,4(工EC 2002)","['', '', '', '', '234', '', '']",《講授類》,"['數位IC設計學程', '資通安全學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5100&Crsname=書報討論,,,False,電機碩,EE5100,1,不分班,"書報討論
-SEMINAR",1,期,True,150,0,150,0,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']",《演講/參訪》,[],False
+SEMINAR",1,期,True,150,0,149,1,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5100A&Crsname=書報討論,,,False,電機碩,EE5100A,2,不分班,"書報討論
 SEMINAR",1,期,True,150,0,141,9,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5105&Crsname=光電元件,,,False,電機碩,EE5105,0,不分班,"光電元件
@@ -3862,7 +3862,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5809&
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE5810&Crsname=醫療影像之深度學習應用專題,,,False,電機碩,EE5810,0,不分班,"醫療影像之深度學習應用專題
 INDEPENDENT STUDIES IN DEEP LEARNING FOR MEDICAL IMAGING APPLICATIONS",3,期,False,50,0,0,50,莊子肇,"一2,3,4(工EC 7040)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME501&Crsname=書報討論,,,False,機電碩,MEME501,1,不分班,"書報討論
-SEMINAR",1,期,True,150,0,118,32,王郁仁,"四6,7(工EC 1009)","['', '', '', '67', '', '', '']","《演講/參訪》
+SEMINAR",1,期,True,150,0,117,33,王郁仁,"四6,7(工EC 1009)","['', '', '', '67', '', '', '']","《演講/參訪》
 碩、博士班併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME503&Crsname=數值分析,,,False,機電碩,MEME503,0,不分班,"數值分析
 NUMERICAL ANALYSIS",3,期,False,50,1,38,12,郭振坤,"一5,6,7(工EC 3005)","['567', '', '', '', '', '', '']",《講授類》,"['金融工程學程', '軟體工程學程']",False
@@ -4794,8 +4794,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR622&
 INDEPENDENT STUDIES IN AQUATIC ECOLOGY (IV)",2,期,False,50,0,5,45,"林秀瑾,樊同雲,陳德豪","二A,1()","['', 'A1', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV502&Crsname=海洋環境書報討論（二）,,,False,海工碩,MAEV502,1,不分班,"海洋環境書報討論（二）
 SEMINAR IN MARINE ENVIRONMENT (II)",2,期,False,50,0,21,29,曾以帆,"四6,7(海ME 3002)","['', '', '', '67', '', '', '']",《演講/參訪》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV506&Crsname=專題研究（二）,,,False,海工碩,MAEV506,1,不分班,"專題研究（二）
-INDEPENDENT STUDIES(II)",3,期,False,50,0,22,28,指導教授,"五A,1,B()","['', '', '', '', 'A1B', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV506&Crsname=專題研究（二）,異動,確認教師2/13,False,海工碩,MAEV506,1,不分班,"專題研究（二）
+INDEPENDENT STUDIES(II)",3,期,False,50,0,22,28,"卓宴琳,夏沛亞,張揚祺,曾以帆,李政賢,林俊宏,林巧雯,莊偉良,葉博弘,許弘莒,鍾秉宸","五A,1,B()","['', '', '', '', 'A1B', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV511&Crsname=數值方法,,,False,海工碩,MAEV511,1,不分班,"數值方法
 NUMERICAL METHODS",3,期,False,50,0,1,49,莊偉良,"一2,3,4(海ME 3004)","['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV520&Crsname=波浪理論,,,False,海工碩,MAEV520,1,不分班,"波浪理論
@@ -6269,9 +6269,9 @@ INDEPENDENT STUDIES",3,期,True,50,0,7,43,鄭雯,一A() 二A() 三A(),"['A', 'A'
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IBMS704&Crsname=書報討論（二）,,,False,生醫博,IBMS704,1,不分班,"書報討論（二）
 SEMINAR (II)",1,期,True,10,0,3,7,張玉泉,一5(國IR 5005),"['5', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IBMS804&Crsname=書報討論（四）,,,False,生醫博,IBMS804,2,不分班,"書報討論（四）
-SEMINAR (IV)",1,期,True,10,0,13,-3,"戴明泓,許晉銓",一6(國IR 5005),"['6', '', '', '', '', '', '']",《講授類》,[],True
+SEMINAR (IV)",1,期,True,10,0,12,-2,"戴明泓,許晉銓",一6(國IR 5005),"['6', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IBMS806&Crsname=生物醫學專題研究（二）,異動,更換時間及教室1/29,False,生醫博,IBMS806,2,不分班,"生物醫學專題研究（二）
-INDEPENDENT STUDIES IN BIOMEDICAL RESEARCH(II)",3,期,True,10,1,13,-3,"戴明泓,楊仁豪,薛佑玲,許晉銓,鄭光宏","四2,3,4(國IR 5004)","['', '', '', '234', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN BIOMEDICAL RESEARCH(II)",3,期,True,10,1,12,-2,"戴明泓,楊仁豪,薛佑玲,許晉銓,鄭光宏","四2,3,4(國IR 5004)","['', '', '', '234', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IMST702&Crsname=書報討論（二）,,,False,醫科博,IMST702,1,不分班,"書報討論（二）
 SEMINAR (II)",1,期,True,10,0,4,6,廖子嫻,三B(國 IR5002),"['', '', 'B', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IMST704&Crsname=書報討論（四）,,,False,醫科博,IMST704,2,不分班,"書報討論（四）
