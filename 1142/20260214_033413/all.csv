@@ -2870,8 +2870,9 @@ HUMAN FACTORS ENGINEERING",3,期,False,10,0,8,2,謝孟璋,"三5,6,7(海MB 1009)"
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MRSC119&Crsname=國家公園概論,異動,取消合授教師1/22,False,海科院（學）,MRSC119,0,不分班,"國家公園概論
 INTRODUCTION TO NATIONAL PARKS",2,期,False,40,0,21,19,塗子萱,"五B,5(海MA 3020)","['', '', '', '', 'B5', '', '']","《講授類》
 共同授課業界專家：海洋國家公園管理處林尚卿處長、吳岱穎技士。",['探索海洋國家公園微學程'],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MRSC121&Crsname=海洋永續發展產業概論,,,False,海科院（學）,MRSC121,0,不分班,"海洋永續發展產業概論
-INTRODUCTION TO MARINE SUSTAINABLE DEVELOPMENT INDUSTRIES",2,期,False,50,0,8,42,"葉博弘,魏瑞昌","二3,4(海MA 2016)","['', '34', '', '', '', '', '']",《講授類》,['海洋永續發展產業科技微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MRSC121&Crsname=海洋永續發展產業概論,異動,修正備註說明2/13,False,海科院（學）,MRSC121,0,不分班,"海洋永續發展產業概論
+INTRODUCTION TO MARINE SUSTAINABLE DEVELOPMENT INDUSTRIES",2,期,False,50,0,8,42,"葉博弘,魏瑞昌","二3,4(海MA 2016)","['', '34', '', '', '', '', '']","《講授類》
+本課程預計停開，請學生勿在再加選，已選上之學生請自行退選課程。",['海洋永續發展產業科技微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PE102&Crsname=經濟學原理（二）,,,False,政經系,PE102,1,不分班,"經濟學原理（二）
 PRINCIPLES OF ECONOMICS(II)",3,期,True,55,11,55,0,張光亮,"四5,6,7(社SS 3005)","['', '', '', '567', '', '', '']",《講授類》,['金融工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PE126&Crsname=經濟數學（二）,,,False,政經系,PE126,1,不分班,"經濟數學（二）
@@ -2927,8 +2928,8 @@ SOCIOLOGY（II）",3,期,True,50,0,47,3,李宛儒,"四8,6,7(社SS 4001)","['', '
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=SOC106&Crsname=社會學實習（二）,,,False,社會系,SOC106,1,不分班,"社會學實習（二）
 SOCIOLOGY PRACTICE (II)",1,期,True,50,0,47,3,李宛儒,"三D,E(社SS 1003)(實驗)","['', '', 'DE', '', '', '', '']","《實習類》
 本課程限選修本系《社會學（二）》之學生。",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=SOC137&Crsname=政治社會學,,,False,社會系,SOC137,1,不分班,"政治社會學
-POLITICAL SOCIOLOGY",3,期,False,50,16,50,0,林傳凱,"二2,3,4(社SS 4004-2)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=SOC137&Crsname=政治社會學,異動,更換教室2/13,False,社會系,SOC137,1,不分班,"政治社會學
+POLITICAL SOCIOLOGY",3,期,False,50,16,50,0,林傳凱,"二2,3,4(社SS 2001)","['', '234', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=SOC203&Crsname=社會統計（二）,,,False,社會系,SOC203,2,不分班,"社會統計（二）
 SOCIAL STATISTICS (II)",3,期,True,50,0,20,30,葉高華,"二2,3,4(圖IL PC 02)","['', '234', '', '', '', '', '']","《講授類》
 「限修過本系社會統計(一)且及格，點選本課請同時點選社會統計實習(二)」",[],False
@@ -3546,8 +3547,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CHEM552
 SEMINAR IN ANALYTICAL CHEMISTRY (II)",1,期,True,50,0,14,36,張柏齡,二3(理CH 2002),"['', '3', '', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CHEM570&Crsname=表面化學,異動,確認教師2/2,False,化學碩,CHEM570,1,不分班,"表面化學
 SURFACE CHEMISTRY",3,期,False,50,0,17,33,劉柏宏,"三2(理CH 2002) 四3,4(理CH 2002)","['', '', '2', '34', '', '', '']",《講授類》,['半導體製程模組學程'],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CHEM571&Crsname=高等化學動力學,異動,更換教室1/8,False,化學碩,CHEM571,1,不分班,"高等化學動力學
-ADVANCED CHEMICAL KINETICS",3,期,False,50,0,29,21,蔣昭明,"三3,4(理SC 3004) 四8(理SC 3004)","['', '', '34', '8', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CHEM571&Crsname=高等化學動力學,異動,更換教室2/13,False,化學碩,CHEM571,1,不分班,"高等化學動力學
+ADVANCED CHEMICAL KINETICS",3,期,False,50,0,29,21,蔣昭明,"三3,4(理SC 0008) 四8(理SC 0008)","['', '', '34', '8', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CHEM578&Crsname=化學分離技術與應用,,,False,化學碩,CHEM578,1,不分班,"化學分離技術與應用
 TECHNIQUES OF CHEMICAL SEPARATION AND APPLICATIONS",3,期,False,50,1,29,21,謝建台,"一8,6,7(理CH 3002)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CHEM584&Crsname=氣膠與生醫材料科學專題研究（二）,,,True,化學碩,CHEM584,1,不分班,"氣膠與生醫材料科學專題研究（二）
@@ -5469,7 +5470,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PEC684B
 ADVANCED CORPORATE INTERNSHIP（III）",3,期,True,5,0,2,3,林震,"三A,1,2,3(台虹廠區)(實驗)","['', '', 'A123', '', '', '', '']","《企業實習》
 限精密電子零組件研究所-電子零組件及設備組學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PEC684C&Crsname=進階企業實習（三）,,,True,零組件研究所,PEC684C,2,不分班,"進階企業實習（三）
-ADVANCED CORPORATE INTERNSHIP（III）",3,期,True,5,0,2,3,謝明哲,"二1,2,3,4(台郡廠商)(實驗)","['', '1234', '', '', '', '', '']","《企業實習》
+ADVANCED CORPORATE INTERNSHIP（III）",3,期,True,5,0,2,3,謝明哲,"二1,2,3,4(台郡廠區)(實驗)","['', '1234', '', '', '', '', '']","《企業實習》
 限精密電子零組件研究所-電子零組件及設備組學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PEC686&Crsname=進階企業實習（四）,,,True,零組件研究所,PEC686,2,不分班,"進階企業實習（四）
 ADVANCED CORPORATE INTERNSHIP（IV）",3,期,True,5,0,2,3,熊學毅,"四8,5,6,7(雷科廠區)(實驗)","['', '', '', '5678', '', '', '']","《企業實習》

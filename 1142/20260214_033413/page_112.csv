@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PEC684C&Crsname=進階企業實習（三）,,,True,零組件研究所,PEC684C,2,不分班,"進階企業實習（三）
-ADVANCED CORPORATE INTERNSHIP（III）",3,期,True,5,0,2,3,謝明哲,"二1,2,3,4(台郡廠商)(實驗)","['', '1234', '', '', '', '', '']","《企業實習》
+ADVANCED CORPORATE INTERNSHIP（III）",3,期,True,5,0,2,3,謝明哲,"二1,2,3,4(台郡廠區)(實驗)","['', '1234', '', '', '', '', '']","《企業實習》
 限精密電子零組件研究所-電子零組件及設備組學生修課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PEC686&Crsname=進階企業實習（四）,,,True,零組件研究所,PEC686,2,不分班,"進階企業實習（四）
 ADVANCED CORPORATE INTERNSHIP（IV）",3,期,True,5,0,2,3,熊學毅,"四8,5,6,7(雷科廠區)(實驗)","['', '', '', '5678', '', '', '']","《企業實習》
