@@ -1,2 +1,0 @@
-Value of root[1117]['room'] changed from "二2,3,4(社SS 4004-2)" to "二2,3,4(社SS 2001)".
-Value of root[1366]['room'] changed from "三3,4(理SC 3004) 四8(理SC 3004)" to "三3,4(理SC 0008) 四8(理SC 0008)".
