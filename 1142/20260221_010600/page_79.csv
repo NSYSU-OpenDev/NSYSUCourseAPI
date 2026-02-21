@@ -1,16 +1,16 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ENVE535&Crsname=環境流體力學,,,False,環工碩,ENVE535,0,不分班,"環境流體力學
-ENVIRONMENTAL FLUID MECHANICS",3,期,False,50,0,19,31,彭彥彬,"一C,D,E(工EC 1004)","['CDE', '', '', '', '', '', '']",《講授類》,['環境科技與管理學程'],True
+ENVIRONMENTAL FLUID MECHANICS",3,期,False,50,0,19,31,彭彥彬,,"['', '', '', '', '', '', '']",《講授類》,['環境科技與管理學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ENVE543&Crsname=空氣污染物採樣與分析,異動,確認教師2/10,False,環工碩,ENVE543,0,不分班,"空氣污染物採樣與分析
-SAMPLING AND ANALYSIS OF AIR POLLUTANTS",3,期,False,50,0,7,43,陳谷汎,"四5,6(工EC 1004) 四8,7(工EC 1004)(實驗)","['', '', '', '5678', '', '', '']",《講授類》,"['環境教育學程', '工業污染防治及減排微學程']",False
+SAMPLING AND ANALYSIS OF AIR POLLUTANTS",3,期,False,50,0,7,43,陳谷汎,,"['', '', '', '', '', '', '']",《講授類》,"['環境教育學程', '工業污染防治及減排微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ENVE553&Crsname=廢棄物資源回收及再生,異動,確認教師2/10,False,環工碩,ENVE553,0,不分班,"廢棄物資源回收及再生
-RESOURCE RECOVERY AND RECYCLING OF SOLID WASTE",3,期,False,50,1,20,30,陳谷汎,"五2,3,4(工EC 1004)","['', '', '', '', '234', '', '']",《講授類》,['環境科技與管理學程'],True
+RESOURCE RECOVERY AND RECYCLING OF SOLID WASTE",3,期,False,50,1,20,30,陳谷汎,,"['', '', '', '', '', '', '']",《講授類》,['環境科技與管理學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ENVE566&Crsname=異味及揮發性有機物控制技術,,,False,環工碩,ENVE566,0,不分班,"異味及揮發性有機物控制技術
-TECHNOLOGIES FOR THE CONTROL OF ODORS AND VOLATILE ORGANIC COMPOUNDS",3,期,False,50,0,4,46,張耿崚,"三2,3,4(工EC 1004)","['', '', '234', '', '', '', '']",《講授類》,['環境科技與管理學程'],True
+TECHNOLOGIES FOR THE CONTROL OF ODORS AND VOLATILE ORGANIC COMPOUNDS",3,期,False,50,0,4,46,張耿崚,,"['', '', '', '', '', '', '']",《講授類》,['環境科技與管理學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ENVE583&Crsname=環境決策與管理,,,False,環工碩,ENVE583,0,不分班,"環境決策與管理
-ENVIRONMENT DECISIOIN MAKING AND MANAGEMENT",3,期,False,50,0,14,36,陳威翔,"一8,6,7(工EC 1004)","['678', '', '', '', '', '', '']",《講授類》,"['公民參與微學程', '環境教育學程', '氣膠科學環境教育微學程', 'STREAM永續發展培力微學程', '環境科技與管理學程', '工業污染防治及減排微學程']",False
+ENVIRONMENT DECISIOIN MAKING AND MANAGEMENT",3,期,False,50,0,14,36,陳威翔,,"['', '', '', '', '', '', '']",《講授類》,"['公民參與微學程', '環境教育學程', '氣膠科學環境教育微學程', 'STREAM永續發展培力微學程', '環境科技與管理學程', '工業污染防治及減排微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ENVE594&Crsname=專題研究（二）,異動,確認教師2/10,False,環工碩,ENVE594,0,不分班,"專題研究（二）
-INDEPENDENT STUDIES(II)",3,期,False,50,0,17,33,"張耿崚,彭彥彬,施育仁,林淵淙,陳則綸,陳威翔,陳谷汎","六C,D,E(工EC 1004)","['', '', '', '', '', 'CDE', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES(II)",3,期,False,50,0,17,33,"張耿崚,彭彥彬,施育仁,林淵淙,陳則綸,陳威翔,陳谷汎",,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE523&Crsname=進階機器學習,,,False,資工碩,CSE523,0,不分班,"進階機器學習
 ADVANCED MACHINE LEARNING",3,期,False,50,0,19,31,張雲南,"一2,3,4(工EC 5012)","['234', '', '', '', '', '', '']",《講授類》,"['計算物理及人工智慧微學程', '永續能源學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE532&Crsname=書報討論（二）,,,False,資工碩,CSE532,1,不分班,"書報討論（二）
