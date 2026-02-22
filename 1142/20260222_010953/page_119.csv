@@ -1,10 +1,10 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=SOC907&Crsname=博物館與文化資產保存,,,False,社會原碩專,SOC907,1,不分班,"博物館與文化資產保存
-MUSEUM AND CULTURAL HERITAGE PRESERVATION",3,期,False,50,0,11,39,巴清雄,,"['', '', '', '', '', '', '']",《講授類》,[],False
+MUSEUM AND CULTURAL HERITAGE PRESERVATION",3,期,False,50,0,11,39,巴清雄,"六2,3,4(社SS 3004-2)","['', '', '', '', '', '234', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=SOC909&Crsname=社會學研究方法,,,False,社會原碩專,SOC909,1,不分班,"社會學研究方法
-SOCIAL METHODOLOGY",3,期,True,50,0,11,39,"李宛儒,王梅香,葉高華",,"['', '', '', '', '', '', '']",《講授類》,[],False
+SOCIAL METHODOLOGY",3,期,True,50,0,11,39,"李宛儒,王梅香,葉高華","六8,9,7(社SS 3004-2)","['', '', '', '', '', '789', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=SOC914&Crsname=社會科學論文寫作,,,False,社會原碩專,SOC914,2,不分班,"社會科學論文寫作
-ACADEMIC WRITING IN SOCIAL SCIENCES",3,期,False,50,0,8,42,"楊靜利,萬毓澤,邱花妹,陳美華",,"['', '', '', '', '', '', '']",《講授類》,[],False
+ACADEMIC WRITING IN SOCIAL SCIENCES",3,期,False,50,0,8,42,"楊靜利,萬毓澤,邱花妹,陳美華","六2,3,4(社SS 4004-2)","['', '', '', '', '', '234', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE906&Crsname=特殊教育研究,,,False,教育碩專,IOE906,0,不分班,"特殊教育研究
 STUDIES IN SPECIAL EDUCATION",3,期,False,30,0,13,17,鍾素香,"六2,3,4(社SS 2006)","['', '', '', '', '', '234', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE908&Crsname=教育政策分析,,,False,教育碩專,IOE908,0,不分班,"教育政策分析
