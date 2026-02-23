@@ -1,0 +1,17 @@
+Type of root[929]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[929]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/23".
+Type of root[1589]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1589]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/23".
+Type of root[1601]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1601]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/23".
+Type of root[2034]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2034]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師2/23".
+Type of root[2529]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2529]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師2/23".
+Type of root[2568]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2568]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授教師2/23".
+Value of root[929]['room'] changed from "二8,6,7(工EC 5007)" to "二8,6,7(工EC 9031)".
+Value of root[1589]['room'] changed from "二5,6,7(工EC 9031)" to "二5,6,7(工EC 5007)".
+Value of root[1601]['room'] changed from "三2,3,4(工EC 5025)" to "三2,3,4(工EC 1005)".
+Value of root[2502]['changeDescription'] changed from "確認教師2/11" to "更換時間2/23".
+Value of root[2529]['teacher'] changed from "施慶麟" to "周珮儀,施慶麟,林靜慧,楊淑晴,莊雪華,謝百淇,鄭雯".
