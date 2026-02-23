@@ -1,0 +1,35 @@
+Item root[2502]['classTime'][4] added to iterable.
+Item root[2502]['classTime'][3] removed from iterable.
+Item root[342] removed from iterable.
+Item root[1141] removed from iterable.
+Type of root[23]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[23]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/23".
+Type of root[314]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[314]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/23".
+Type of root[938]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[938]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額2/23".
+Type of root[1383]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1383]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/23".
+Type of root[1986]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1986]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教師2/23".
+Type of root[2167]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2167]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室2/23".
+Type of root[2194]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2194]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師2/23".
+Type of root[2197]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2197]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師2/23".
+Type of root[2202]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2202]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師2/23".
+Value of root[297]['selected'] changed from 20 to 0.
+Value of root[297]['remaining'] changed from 0 to 20.
+Value of root[314]['restrict'] changed from 20 to 35.
+Value of root[314]['remaining'] changed from 0 to 15.
+Value of root[938]['restrict'] changed from 50 to 71.
+Value of root[938]['remaining'] changed from 5 to 26.
+Value of root[1709]['selected'] changed from 50 to 51.
+Value of root[1709]['remaining'] changed from 0 to -1.
+Value of root[2034]['teacher'] changed from "施慶麟" to "宋呈澔,張宇慧,張至慶,施慶麟,紀博善,陳利銘,馮雅群".
+Value of root[2502]['room'] changed from "四A,1()" to "五8,9()".
+Value of root[2568]['teacher'] changed from "楊佳寧,馮已榕" to "于松桓,楊佳寧,馮已榕".
+Value of root[2633]['selected'] changed from 50 to 51.
+Value of root[2633]['remaining'] changed from 0 to -1.
