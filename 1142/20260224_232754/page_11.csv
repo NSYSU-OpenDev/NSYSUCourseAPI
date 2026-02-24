@@ -1,0 +1,60 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY104&Crsname=普通物理學（二）,,,False,普通物理小組,PHY104,1,不分班,"普通物理學（二）
+GENERAL PHYSICS (II)",3,期,True,50,1,25,25,陳易馨,"一3,4(理SC 0008) 三5(理SC 0008)","['34', '', '5', '', '', '', '']","《講授類》
+本課程與普通物理學演習(二)一起規劃課程, 需與普通物理學演習(二)一起修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY105&Crsname=普通物理（二）,,,False,普通物理小組,PHY105,1,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,70,3,78,-8,周雄,"三5,6,7(工EN 4055-1)","['', '', '567', '', '', '', '']","《講授類》
+化學系與機電系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY105A&Crsname=普通物理（二）,,,False,普通物理小組,PHY105A,1,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,70,2,63,7,陳龍銘,"三2,3,4(工EC 1001)","['', '', '234', '', '', '', '']","《講授類》
+材光系與光電系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY105B&Crsname=普通物理（二）,,,False,普通物理小組,PHY105B,1,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,70,0,55,15,蔡民雄,"五2,3,4(工EC 6019)","['', '', '', '', '234', '', '']","《講授類》
+電機系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY105C&Crsname=普通物理（二）,,,False,普通物理小組,PHY105C,1,不分班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,50,1,50,0,吳紘丞,"一2,3,4(海MA 3020)","['234', '', '', '', '', '', '']","《講授類》
+海科系一年級學生優先選修，本課程無法抵免英語專班普通物理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY105D&Crsname=普通物理（二）,,,False,普通物理小組,PHY105D,1,全英班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,70,6,69,1,范越芳,"三5,6,7(工EC 2003)","['', '', '567', '', '', '', '']","《講授類》
+化學系與機電系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY105E&Crsname=普通物理（二）,,,False,普通物理小組,PHY105E,1,全英班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,115,39,50,65,史丹哲夫,"三2,3,4(工EC 1009)","['', '', '234', '', '', '', '']","《講授類》
+材光系與光電系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY105F&Crsname=普通物理（二）,,,False,普通物理小組,PHY105F,1,全英班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,70,3,38,32,岩本祥,"五5,6,7(工EC 2010)","['', '', '', '', '567', '', '']","《講授類》
+電機系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY107&Crsname=基礎物理,,,False,普通物理小組,PHY107,1,不分班,"基礎物理
+FUNDAMENTAL PHYSICS",3,期,True,50,0,24,26,杜立偉,"三5,6,7(理SC 0009)","['', '', '567', '', '', '', '']","《講授類》
+限生科系一年級學生選修，本課程無法抵免英語專班基礎物理、普通物理或普通物理學",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY107A&Crsname=基礎物理,,,False,普通物理小組,PHY107A,1,全英班,"基礎物理
+FUNDAMENTAL PHYSICS",3,期,True,50,0,18,32,周雄,"一5,6,7(理SC 0009)","['567', '', '', '', '', '', '']","《講授類》
+限生科系一年級英語專班學生選修，本課程無法抵免普通物理或普通物理學",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY109&Crsname=普通物理實驗（二）,,,False,普通物理小組,PHY109,1,不分班,"普通物理實驗（二）
+GENERAL PHYSICS LABORATORY (II)",1,期,True,70,1,67,3,陳易馨,"一5,6,7(理SC 0018; 理SC 0019)(實驗)","['567', '', '', '', '', '', '']","《實驗類》
+物理系與材光系一年級學生優先選修，本課程無法抵免英語專班普通物理實驗",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY109A&Crsname=普通物理實驗（二）,,,False,普通物理小組,PHY109A,1,不分班,"普通物理實驗（二）
+GENERAL PHYSICS LABORATORY (II)",1,期,True,50,0,29,21,洪昇廷,"五5,6,7(理SC 0018; 理SC 0019)(實驗)","['', '', '', '', '567', '', '']","《實驗類》
+光電系一年級學生優先選修，本課程無法抵免英語專班普通物理實驗",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY109B&Crsname=普通物理實驗（二）,,,False,普通物理小組,PHY109B,1,全英班,"普通物理實驗（二）
+GENERAL PHYSICS LABORATORY (II)",1,期,True,50,1,46,4,吳紘丞,"三5,6,7(理SC 0018; 理SC 0019)(實驗)","['', '', '567', '', '', '', '']","《實驗類》
+材光系與光電系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY111&Crsname=基礎理論物理（二）,,,False,普通物理小組,PHY111,1,全英班,"基礎理論物理（二）
+INTRODUCTION TO THEORETICAL PHYSICS (II)",4,期,True,50,1,22,28,郭建成,"三5,6(理SC 2006) 四3,4(理SC 2006)","['', '', '56', '34', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH105&Crsname=博物館典藏探究,,,False,應用性課程,GEAH105,0,不分班,"博物館典藏探究
+MUSEUM COLLECTIONS IN PRACTICE",1,期,False,50,3,13,37,林季怡,二5(通GE 2006),"['', '5', '', '', '', '', '']","《講授類》
+1.本課程上課時間採半密集式，學期初(導論)在本校教室上課，3-4月密集授課(部分課程將安排於周六、周日)，主要上課地點為高雄市自然史教育館。   2.110學年度以後入學生至多採計第1門應用性課程之學分，第2門以上之學分不計入最低畢業學分。 3.可與博雅學分搭配，若選修「應用性課程」(至多1學分)，則「博雅課程」必修為12 學分。",['國際素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH106&Crsname=全民國防教育軍事訓練課程：國防科技（軍訓）,,,False,應用性課程,GEAH106,0,不分班,"全民國防教育軍事訓練課程：國防科技（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING: DEFENSE TECHNOLOGY",2,期,False,50,7,31,19,"林明政,游淵達",,"['', '1234', '1234', '1234', '', '', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。3.密集授課時間：6/23-7/9每週二三四8~12點。4.本課程不會與二三四上午課程衝堂。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH107&Crsname=全民國防教育軍事訓練課程：全民國防（軍訓）,,,False,應用性課程,GEAH107,0,不分班,"全民國防教育軍事訓練課程：全民國防（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING: CIVIL DEFENSE",2,期,False,50,7,46,4,許世宗,,"['', '', '', '', '', '1234', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。3..密集授課時間：3/7~3/28、4/11、4/25及5/9~5/23每週六8~12點。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH109&Crsname=全民國防教育軍事訓練課程：防衛動員（軍訓）,異動,更換時間及教室1/21,False,應用性課程,GEAH109,0,不分班,"全民國防教育軍事訓練課程：防衛動員（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING: DEFENSE MOBILIZATION",2,期,False,60,6,60,0,陳惠華,"五8,7(通GE 4016)","['', '', '', '', '78', '', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH110&Crsname=全民國防教育軍事訓練課程：國防政策（軍訓）,異動,更換時間及教室1/21,False,應用性課程,GEAH110,0,不分班,"全民國防教育軍事訓練課程：國防政策（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING：NATIONAL DEFENSE POLICIES",2,期,False,60,11,58,2,陳惠華,"五5,6(通GE 4016)","['', '', '', '', '56', '', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH126&Crsname=全民國防教育軍事訓練課程：國際情勢（軍訓）,,,False,應用性課程,GEAH126,0,不分班,"全民國防教育軍事訓練課程：國際情勢（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING: INTERNATIONAL SITUATION?",2,期,False,50,15,49,1,蔡家和,"二8,9(通GE 3011)","['', '89', '', '', '', '', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。",['全民國防微學程'],False
