@@ -1,0 +1,42 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS526&Crsname=相對論,新增,1/27,False,物理碩,PHYS526,1,不分班,"相對論
+RELATIVITY",3,期,False,50,2,5,45,狄米契,"四8,9(理PH 5009) 五9(理PH 5009)","['', '', '', '89', '9', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS606&Crsname=低溫物理專題（二）,,,False,物理碩,PHYS606,2,不分班,"低溫物理專題（二）
+INDEPENDENT STUDIES IN LOW TEMPERATURE PHYSICS (II)",3,期,False,50,0,2,48,楊弘敦,"四A,1,B(理PH 4010)","['', '', '', 'A1B', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS614&Crsname=書報討論（四）,,,False,物理碩,PHYS614,2,不分班,"書報討論（四）
+SEMINAR (IV)",1,期,False,50,4,6,44,"岩本祥,朱家誼",四7(理PH 2006),"['', '', '', '7', '', '', '']","《演講/參訪》
+需先修習書報討論(二)",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS615&Crsname=凝體物理（二）,,,False,物理碩,PHYS615,2,不分班,"凝體物理（二）
+CONDENSED MATTER PHYSICS (II)",3,期,False,50,4,27,23,余健文,"三2,3,4(理PH 5008)","['', '', '234', '', '', '', '']",《講授類》,['量子材料微學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS622&Crsname=半導體奈米元件物理,,,False,物理碩,PHYS622,2,不分班,"半導體奈米元件物理
+SEMICONDUCTOR NANO DEVICE PHYSICS",3,期,False,50,2,49,1,張鼎張,"一C,D,E(理PH 2006)","['CDE', '', '', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體設備工程學程', '半導體元件學程', '半導體物理與先進元件分析微學程', '半導體化學學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS682&Crsname=相對論量子自旋專題（二）,,,False,物理碩,PHYS682,2,不分班,"相對論量子自旋專題（二）
+INDEPENDENT STUDIES IN RELATIVISTIC QUANTUM SPIN (II)",3,期,False,50,0,3,47,陳宗緯,"四A,1,B(理PH 7006)","['', '', '', 'A1B', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS684&Crsname=非區域自旋閥專題研究（二）,,,False,物理碩,PHYS684,2,不分班,"非區域自旋閥專題研究（二）
+INDEPENDENT STUDIES IN NON-LOCAL SPIN VALVE（II）",3,期,False,50,0,5,45,黃旭明,"一A,1,B(理PH 2008)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS689&Crsname=天文物理專題研究（二）,,,False,物理碩,PHYS689,2,不分班,"天文物理專題研究（二）
+INDEPENDENT STUDIES IN ASTROPHYSICS （II）",3,期,False,50,0,0,50,郭政育,"三A,1,B(理PH 5005)","['', '', 'A1B', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS691&Crsname=低維度光電材料專題研究（二）,,,False,物理碩,PHYS691,2,不分班,"低維度光電材料專題研究（二）
+INDEPENDENT STUDIES IN LOW-DIMENSIONAL OPTOELECTRONIC MATERIALS（II）",3,期,False,50,0,1,49,盧怡穎,"五A,1,B(理PH 6009)","['', '', '', '', 'A1B', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS693&Crsname=隱形科學專題（二）,,,False,物理碩,PHYS693,2,不分班,"隱形科學專題（二）
+INDEPENDENT STUDIES IN SCIENCE OF INVISIBILITY (II)",3,期,False,50,2,0,50,林德鴻,"三A,1,B(理PH 7001)","['', '', 'A1B', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS695&Crsname=拓樸物理專題研究（二）,,,False,物理碩,PHYS695,2,不分班,"拓樸物理專題研究（二）
+INDEPENDENT STUDIES IN TOPOLOGICAL PHYSICS (II)",3,期,False,50,0,1,49,黃信銘,"一A,1,B(理PH 6001)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS697&Crsname=量子光學專題（二）,,,False,物理碩,PHYS697,2,不分班,"量子光學專題（二）
+INDEPENDENT STUDIES IN QUANTUM OPTICS (II)",3,期,False,50,0,2,48,陳易馨,"一A,1,B(理PH 6010)","['A1B', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS699&Crsname=量子計算專題（二）,,,False,物理碩,PHYS699,2,不分班,"量子計算專題（二）
+INDEPENDENT STUDIES IN QUANTUM COMPUTING(Ⅱ)",3,期,False,50,0,1,49,邱奎霖,"二A,1,B(理PH 3007)","['', 'A1B', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH501&Crsname=統計書報討論（一）,,,True,應數碩,MATH501,1,不分班,"統計書報討論（一）
+SEMINAR IN STATISTICS(I)",1,期,True,30,3,15,15,張中,四6(理SC 4009-1),"['', '', '', '6', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH502&Crsname=數理統計,,,False,應數碩,MATH502,0,不分班,"數理統計
+MATHEMATICAL STATISTICS",3,期,False,30,0,4,26,林建同,"五5,6,7(理SC 4009-1)","['', '', '', '', '567', '', '']",《講授類》,['金融工程學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH504&Crsname=財務時間序列分析,異動,更換部份時間2/2,False,應數碩,MATH504,0,不分班,"財務時間序列分析
+ANALYSIS OF FINANCIAL TIME SERIES",3,期,False,30,3,10,20,郭美惠,"三4(理SC 4009-1) 五3,4(理SC 4009-1)","['', '', '4', '', '34', '', '']",《講授類》,"['巨量資料分析學程', '金融工程學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH508&Crsname=統計品管,異動,更換部份時間2/2,False,應數碩,MATH508,0,不分班,"統計品管
+STATISTICAL QUALITY CONTROL",3,期,False,30,1,18,12,郭美惠,"一3,4(理SC 4009-1) 四4(理SC 4009-1)","['34', '', '', '4', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH510&Crsname=存活分析,異動,更換部份時間2/2,False,應數碩,MATH510,0,不分班,"存活分析
+SURVIVAL ANALYSIS",3,期,False,30,2,17,13,張中,"一2(理SC 4009-1) 四2,3(理SC 4009-1)","['2', '', '', '23', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH513&Crsname=精算方法與模型,,,False,應數碩,MATH513,0,不分班,"精算方法與模型
+ACTUARIAL METHODS AND MODELS",3,期,False,30,0,3,27,李欣倫,"二2,3,4(理SC 4009-1)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH514&Crsname=無母數統計,異動,更換部份時間2/2,False,應數碩,MATH514,0,不分班,"無母數統計
+NONPARAMETRIC STATISTICS",3,期,False,30,1,7,23,施嘉翰,"三2,3(理SC 4009-1) 五2(理SC 4009-1)","['', '', '23', '', '2', '', '']",《講授類》,[],False
