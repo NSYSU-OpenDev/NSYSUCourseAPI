@@ -1,0 +1,16 @@
+Item root[2232] removed from iterable.
+Value of root[306]['selected'] changed from 8 to 9.
+Value of root[306]['remaining'] changed from 2 to 1.
+Value of root[1103]['selected'] changed from 24 to 25.
+Value of root[1103]['remaining'] changed from 26 to 25.
+Value of root[1129]['select'] changed from 2 to 1.
+Value of root[1129]['selected'] changed from 41 to 42.
+Value of root[1129]['remaining'] changed from 9 to 8.
+Value of root[1556]['selected'] changed from 50 to 49.
+Value of root[1556]['remaining'] changed from 0 to 1.
+Value of root[1684]['selected'] changed from 27 to 26.
+Value of root[1684]['remaining'] changed from 23 to 24.
+Value of root[1686]['selected'] changed from 17 to 16.
+Value of root[1686]['remaining'] changed from 33 to 34.
+Value of root[1687]['selected'] changed from 22 to 21.
+Value of root[1687]['remaining'] changed from 8 to 9.
