@@ -1,0 +1,5 @@
+Value of root[528]['teacher'] changed from "李思嫺,陳以軒" to "陳以軒".
+Value of root[1283]['teacher'] changed from "林雅叙" to "林雅叙,黃瓊儀".
+Value of root[1654]['room'] changed from "三3,4(工MS 2004) 四8(工MS 4019)" to "三3,4(工MS 4019) 四8(工MS 4019)".
+Value of root[2466]['room'] changed from "五8,6,7(管CM 2021)" to "五8,6,7(管CM 3038)".
+Value of root[2618]['room'] changed from "三3,4(工MS 2004) 四8(工MS 4019)" to "三3,4(工MS 4019) 四8(工MS 4019)".
