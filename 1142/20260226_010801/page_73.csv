@@ -1,10 +1,10 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH687&Crsname=結理論專題研討（一）,異動,更換部份時間2/25,False,應數碩,MATH687,0,不分班,"結理論專題研討（一）
-SEMINAR IN KNOT THEORY (I)",3,期,False,10,0,1,9,王以晟,"四B,5(理SC 2002-1) 五5(理SC 2002-1)","['', '', '', 'B5', '5', '', '']",《研討類》,[],True
+SEMINAR IN KNOT THEORY (I)",3,期,False,10,0,1,9,王以晟,,"['', '', '', '', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH693&Crsname=社交網絡專題研討（二）,,,False,應數碩,MATH693,0,不分班,"社交網絡專題研討（二）
-SEMINAR IN SOCIAL NETWORK (II)",3,期,False,10,0,0,10,李欣倫,"一8,6,7(理SC 4027)","['678', '', '', '', '', '', '']",《研討類》,[],False
+SEMINAR IN SOCIAL NETWORK (II)",3,期,False,10,0,0,10,李欣倫,,"['', '', '', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH694&Crsname=高維度資料分析專題研討（一）,,,False,應數碩,MATH694,0,不分班,"高維度資料分析專題研討（一）
-SEMINAR IN HIGH-DIMENSIONAL DATA ANALYSIS (I)",3,期,False,5,0,2,3,林建同,"三5,6,7(理SC 4013)","['', '', '567', '', '', '', '']",《研討類》,[],False
+SEMINAR IN HIGH-DIMENSIONAL DATA ANALYSIS (I)",3,期,False,5,0,2,3,林建同,,"['', '', '', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE3902&Crsname=生醫儀器導論,,,False,電機碩,EE3902,0,不分班,"生醫儀器導論
 INTRODUCTION TO BIOMEDICAL INSTRUMENTATION",3,期,False,50,0,6,44,"余祥華,曾乙立","一5,6,7(工EC 3013)","['567', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=EE4718&Crsname=高可靠度系統之設計、測試與應用,異動,更換教室2/10,False,電機碩,EE4718,0,不分班,"高可靠度系統之設計、測試與應用

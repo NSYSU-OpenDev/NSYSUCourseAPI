@@ -1,3 +1,0 @@
-Value of root[234]['room'] changed from "二3,4(通GE 3011)" to "二3,4(通GE 4016)".
-Value of root[677]['room'] changed from "一C,D,E(理PH 2008)" to "二C,D,E(理PH 2008)".
-Value of root[683]['english'] changed from False to True.
