@@ -1,0 +1,18 @@
+Item root[1357]['classTime'][2] added to iterable.
+Item root[1358]['classTime'][4] added to iterable.
+Item root[1359]['classTime'][0] added to iterable.
+Item root[2120]['classTime'][0] added to iterable.
+Item root[2121]['classTime'][4] added to iterable.
+Item root[2122]['classTime'][2] added to iterable.
+Repetition change for item root[1357]['classTime'][0].
+Repetition change for item root[1358]['classTime'][0].
+Repetition change for item root[1359]['classTime'][0].
+Repetition change for item root[2120]['classTime'][0].
+Repetition change for item root[2121]['classTime'][0].
+Repetition change for item root[2122]['classTime'][0].
+Value of root[1357]['room'] changed from "" to "三A,1,B(理PH 4007)".
+Value of root[1358]['room'] changed from "" to "五A,1,B(理PH 6005)".
+Value of root[1359]['room'] changed from "" to "一A,1,B(理PH 6008)".
+Value of root[2120]['room'] changed from "" to "一5,6,7(國IR 6017-1)".
+Value of root[2121]['room'] changed from "" to "五2,3,4(國IR 5002)".
+Value of root[2122]['room'] changed from "" to "三6(國IR 5001)".
