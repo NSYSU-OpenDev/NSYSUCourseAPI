@@ -2467,19 +2467,19 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM112A&
 MANAGEMENT",3,期,True,50,2,46,4,王致遠,"四5,6,7(管CM 1037)","['', '', '', '567', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限企管系(含雙主修、輔系)","['人力資源管理學程', '地方敘事與創生學程', '音樂藝術管理與行銷學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM202&Crsname=統計學（二）,,,False,企管系,BM202,2,甲班,"統計學（二）
-STATISTICS(II)",3,期,True,50,5,50,0,林晉禾,"一5,6,7(管CM 0052)","['567', '', '', '', '', '', '']","《講授類》
+STATISTICS(II)",3,期,True,50,5,49,1,林晉禾,"一5,6,7(管CM 0052)","['567', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限企管系(含雙主修、輔系)；併班上課※併班",['金融工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM202A&Crsname=統計學（二）,,,False,企管系,BM202A,2,乙班,"統計學（二）
 STATISTICS(II)",3,期,True,50,2,50,0,林晉禾,"一5,6,7(管CM 0052)","['567', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限企管系(含雙主修、輔系)；併班上課※併班",['金融工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM205&Crsname=生產與作業管理,,,False,企管系,BM205,2,甲班,"生產與作業管理
-PRODUCTION AND OPERATIONS MANAGEMEN",3,期,True,50,3,48,2,黃鋒樟,"二5,6,7(管CM 1037)","['', '567', '', '', '', '', '']","《講授類》
+PRODUCTION AND OPERATIONS MANAGEMEN",3,期,True,50,3,47,3,黃鋒樟,"二5,6,7(管CM 1037)","['', '567', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限企管系(含雙主修、輔系)；併班上課※併班",['科技創新與服務業管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM205A&Crsname=生產與作業管理,,,False,企管系,BM205A,2,乙班,"生產與作業管理
 PRODUCTION AND OPERATIONS MANAGEMEN",3,期,True,50,0,50,0,黃鋒樟,"二5,6,7(管CM 1037)","['', '567', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限企管系(含雙主修、輔系)；併班上課※併班",['科技創新與服務業管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM209&Crsname=人力資源管理,,,False,企管系,BM209,2,甲班,"人力資源管理
-HUMAN RESOURCES MANAGEMENT",3,期,True,50,5,50,0,王致遠,"三2,3,4(管CM 1037)","['', '', '234', '', '', '', '']","《講授類》
+HUMAN RESOURCES MANAGEMENT",3,期,True,50,5,49,1,王致遠,"三2,3,4(管CM 1037)","['', '', '234', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限企管系(含雙主修、輔系)",['人力資源管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM209A&Crsname=人力資源管理,,,False,企管系,BM209A,2,乙班,"人力資源管理
 HUMAN RESOURCES MANAGEMENT",3,期,True,50,0,49,1,林杏娥,"三5,6,7(管CM 1037)","['', '', '567', '', '', '', '']","《講授類》
@@ -6379,37 +6379,37 @@ ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,9,200,0,"王致遠,謝慧賢,�
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['公共事務與企業社會責任微學程', '人力資源管理學程', '企業社會責任學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
 ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
 企業管理組;
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,18,42,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM503&Crsname=生產與作業管理,異動,調整名額及教室2/9,False,企企管碩,BM503,0,,"生產與作業管理
 PRODUCTIONS AND OPERATIONS MANAGEMENT",3,期,False,75,16,75,0,彭聖翔,"五C,D,E(管CM 3015)","['', '', '', '', 'CDE', '', '']","《講授類》
