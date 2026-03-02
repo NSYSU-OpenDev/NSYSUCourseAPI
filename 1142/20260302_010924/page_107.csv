@@ -1,10 +1,10 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IPM555&Crsname=高等細胞生物學,,,False,精準醫學碩,IPM555,0,不分班,"高等細胞生物學
-ADVANCED CELLULAR BIOLOGY",3,期,False,50,0,4,46,"李豪嶧,楊仁豪,賴至人",,"['', '', '', '', '', '', '']",《講授類》,[],True
+ADVANCED CELLULAR BIOLOGY",3,期,False,50,0,4,46,"李豪嶧,楊仁豪,賴至人","一5,6,7(國IR 6017-1)","['567', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IPM557&Crsname=臨床精準醫學專題研究（二）,異動,更換時間及教室1/27,False,精準醫學碩,IPM557,0,不分班,"臨床精準醫學專題研究（二）
-INDEPENDENT STUDIES IN CLINICAL PRECISION MEDICINE (II)",3,期,False,50,0,2,48,"趙敏吾,鄭雅勻",,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN CLINICAL PRECISION MEDICINE (II)",3,期,False,50,0,2,48,"趙敏吾,鄭雅勻","五2,3,4(國IR 5002)","['', '', '', '', '234', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IPM602&Crsname=書報討論（四）,,,False,精準醫學碩,IPM602,2,不分班,"書報討論（四）
-SEMINAR(IV)",1,期,True,50,0,10,40,"李佶珉,馮已榕",,"['', '', '', '', '', '', '']",《講授類》,[],False
+SEMINAR(IV)",1,期,True,50,0,10,40,"李佶珉,馮已榕",三6(國IR 5001),"['', '', '6', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ASPT542&Crsname=半導體工程技術,,,False,半導體封測所,ASPT542,1,不分班,"半導體工程技術
 INTRODUCTION OF SEMICONDUCTOR ENGINEERING TECHNOLOGY",3,期,False,10,3,10,0,陳信助,"一8,6,7(國IR 6002K)","['678', '', '', '', '', '', '']","《講授類》
 網路選課期間先以先進半導體封測所學生修課為優先，外院、電子零組件所及半導體製造所的學生於選課異常處理期間進行紙本加簽選修。",[],False
