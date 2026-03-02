@@ -2,7 +2,7 @@ url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,c
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH207&Crsname=離散數學（二）,,,False,應數系,MATH207,2,不分班,"離散數學（二）
 DISCRETE MATHEMATICS (II)",3,期,False,50,5,50,0,余冠儒,"二2,3(理SC 3001) 三4(理SC 3001)","['', '23', '4', '', '', '', '']",《講授類》,"['應用數學學程', '軟體工程學程', '人工智慧與數學學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH208&Crsname=資料結構,,,False,應數系,MATH208,3,不分班,"資料結構
-DATA STRUCTURES",3,期,False,50,1,49,1,鍾思齊,"一2,3,4(理SC 2004)","['234', '', '', '', '', '', '']",《講授類》,"['計算物理及人工智慧微學程', '金融科技學程', '軟體工程學程', '人工智慧與數學學程']",False
+DATA STRUCTURES",3,期,False,50,1,50,0,鍾思齊,"一2,3,4(理SC 2004)","['234', '', '', '', '', '', '']",《講授類》,"['計算物理及人工智慧微學程', '金融科技學程', '軟體工程學程', '人工智慧與數學學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH301&Crsname=數值分析（一）,,,False,應數系,MATH301,3,不分班,"數值分析（一）
 NUMERICAL ANALYSIS (I)",3,期,False,50,1,49,1,呂宗澤,"三6,7(理SC 0014) 四4(理SC 4011)","['', '', '67', '4', '', '', '']",《講授類》,"['巨量資料分析學程', '應用數學學程', '金融工程學程', '軟體工程學程', '人工智慧與數學學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH307&Crsname=機率論（二）,,,False,應數系,MATH307,2,不分班,"機率論（二）
