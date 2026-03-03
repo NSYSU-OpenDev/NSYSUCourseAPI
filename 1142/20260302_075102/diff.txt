@@ -1,1 +1,0 @@
-Value of root[1339]['changeDescription'] changed from "更換教室2/24" to "更換教室2/26".
