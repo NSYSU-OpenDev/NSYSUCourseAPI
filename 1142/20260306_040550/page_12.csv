@@ -1,0 +1,59 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY105F&Crsname=普通物理（二）,,,False,普通物理小組,PHY105F,1,全英班,"普通物理（二）
+GENERAL PHYSICS (II)",3,期,True,70,3,40,30,岩本祥,"五5,6,7(工EC 2010)","['', '', '', '', '567', '', '']","《講授類》
+電機系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY107&Crsname=基礎物理,,,False,普通物理小組,PHY107,1,不分班,"基礎物理
+FUNDAMENTAL PHYSICS",3,期,True,50,0,26,24,杜立偉,"三5,6,7(理SC 0009)","['', '', '567', '', '', '', '']","《講授類》
+限生科系一年級學生選修，本課程無法抵免英語專班基礎物理、普通物理或普通物理學",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY107A&Crsname=基礎物理,,,False,普通物理小組,PHY107A,1,全英班,"基礎物理
+FUNDAMENTAL PHYSICS",3,期,True,50,0,22,28,周雄,"一5,6,7(理SC 0009)","['567', '', '', '', '', '', '']","《講授類》
+限生科系一年級英語專班學生選修，本課程無法抵免普通物理或普通物理學",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY109&Crsname=普通物理實驗（二）,,,False,普通物理小組,PHY109,1,不分班,"普通物理實驗（二）
+GENERAL PHYSICS LABORATORY (II)",1,期,True,70,0,67,3,陳易馨,"一5,6,7(理SC 0018; 理SC 0019)(實驗)","['567', '', '', '', '', '', '']","《實驗類》
+物理系與材光系一年級學生優先選修，本課程無法抵免英語專班普通物理實驗",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY109A&Crsname=普通物理實驗（二）,,,False,普通物理小組,PHY109A,1,不分班,"普通物理實驗（二）
+GENERAL PHYSICS LABORATORY (II)",1,期,True,50,0,29,21,洪昇廷,"五5,6,7(理SC 0018; 理SC 0019)(實驗)","['', '', '', '', '567', '', '']","《實驗類》
+光電系一年級學生優先選修，本課程無法抵免英語專班普通物理實驗",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY109B&Crsname=普通物理實驗（二）,,,False,普通物理小組,PHY109B,1,全英班,"普通物理實驗（二）
+GENERAL PHYSICS LABORATORY (II)",1,期,True,50,0,47,3,吳紘丞,"三5,6,7(理SC 0018; 理SC 0019)(實驗)","['', '', '567', '', '', '', '']","《實驗類》
+材光系與光電系一年級英語專班學生優先選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHY111&Crsname=基礎理論物理（二）,,,False,普通物理小組,PHY111,1,全英班,"基礎理論物理（二）
+INTRODUCTION TO THEORETICAL PHYSICS (II)",4,期,True,50,0,23,27,郭建成,"三5,6(理SC 2006) 四3,4(理SC 2006)","['', '', '56', '34', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH105&Crsname=博物館典藏探究,,,False,應用性課程,GEAH105,0,不分班,"博物館典藏探究
+MUSEUM COLLECTIONS IN PRACTICE",1,期,False,50,0,16,34,林季怡,二5(通GE 2006),"['', '5', '', '', '', '', '']","《講授類》
+1.本課程上課時間採半密集式，學期初(導論)在本校教室上課，3-4月密集授課(部分課程將安排於周六、周日)，主要上課地點為高雄市自然史教育館。   2.110學年度以後入學生至多採計第1門應用性課程之學分，第2門以上之學分不計入最低畢業學分。 3.可與博雅學分搭配，若選修「應用性課程」(至多1學分)，則「博雅課程」必修為12 學分。",['國際素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH106&Crsname=全民國防教育軍事訓練課程：國防科技（軍訓）,,,False,應用性課程,GEAH106,0,不分班,"全民國防教育軍事訓練課程：國防科技（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING: DEFENSE TECHNOLOGY",2,期,False,50,1,37,13,"林明政,游淵達",,"['', '1234', '1234', '1234', '', '', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。3.密集授課時間：6/23-7/9每週二三四8~12點。4.本課程不會與二三四上午課程衝堂。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH107&Crsname=全民國防教育軍事訓練課程：全民國防（軍訓）,,,False,應用性課程,GEAH107,0,不分班,"全民國防教育軍事訓練課程：全民國防（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING: CIVIL DEFENSE",2,期,False,50,5,51,-1,許世宗,,"['', '', '', '', '', '1234', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。3..密集授課時間：3/7~3/28、4/11、4/25及5/9~5/23每週六8~12點。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH109&Crsname=全民國防教育軍事訓練課程：防衛動員（軍訓）,異動,更換時間及教室1/21,False,應用性課程,GEAH109,0,不分班,"全民國防教育軍事訓練課程：防衛動員（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING: DEFENSE MOBILIZATION",2,期,False,60,7,62,-2,陳惠華,"五8,7(通GE 4016)","['', '', '', '', '78', '', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH110&Crsname=全民國防教育軍事訓練課程：國防政策（軍訓）,異動,更換時間及教室1/21,False,應用性課程,GEAH110,0,不分班,"全民國防教育軍事訓練課程：國防政策（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING：NATIONAL DEFENSE POLICIES",2,期,False,60,17,60,0,陳惠華,"五5,6(通GE 4016)","['', '', '', '', '56', '', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH126&Crsname=全民國防教育軍事訓練課程：國際情勢（軍訓）,,,False,應用性課程,GEAH126,0,不分班,"全民國防教育軍事訓練課程：國際情勢（軍訓）
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING: INTERNATIONAL SITUATION?",2,期,False,50,14,51,-1,蔡家和,"二8,9(通GE 3011)","['', '89', '', '', '', '', '']","《講授類》
+1.軍訓選修課程不列入畢業總學分數，不計應用性課程學分數。 2.本門課可依規定折抵兵役役期。",['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAH127&Crsname=全民國防教育軍事訓練課程 － 全民國防,異動,調升名額2/5,False,應用性課程,GEAH127,0,不分班,"全民國防教育軍事訓練課程 － 全民國防
+ALL-OUT DEFENSE EDUCATION MILITARY TRAINING- CIVIL DEFENSE",2,期,False,70,11,70,0,IGER跨校通識聯盟教師,"六3,4(同步遠距)","['', '', '', '', '', '34', '']","《講授類》
+1.此為iGER跨校通識聯盟數位課程，授課教師：臺北醫學大學李樂老師。 2.詳細選課/修課規定及課綱請至西灣學院網頁最新消息查詢，請注意線上同步課程時間。 3.不列入畢業總學分數，不計應用性課程學分數，可依規定折抵兵役役期。若已修習「全民國防教育軍事訓練課程：全民國防（軍訓）」課程不可重複折抵。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1017&Crsname=程式設計概論,,,False,跨院選修(通),GEAI1017,0,不分班,"程式設計概論
+THE INTRODUCTION OF PROGRAMMING",3,期,False,50,11,56,-6,許智超,"一2,3,4(圖IL PC03)","['234', '', '', '', '', '', '']","《講授類》
+限非應數、電機、機電、資工、材光、光電、資管、海工系學生修習",['計算物理及人工智慧微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1040&Crsname=關懷設計,,,False,跨院選修(通),GEAI1040,0,不分班,"關懷設計
+ PHILANTHROPIC DESIGN",3,期,False,25,3,15,10,張淑美,"二5,6,7(西SW 1005)","['', '567', '', '', '', '', '']","《講授類》
+跨院通識與人科學程PIS2012課程併班上課","['創新創業微學程', '智慧長照微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1043&Crsname=跨領域創新專題（一）,,,False,跨院選修(通),GEAI1043,0,不分班,"跨領域創新專題（一）
+INDEPENDENT STUDIES IN CROSS-DISCIPLINARY INNOVATION (1)",3,期,True,25,0,2,23,宋世祥,"二2,3,4(西SW 1007)","['', '234', '', '', '', '', '']","《講授類》
+跨院通識與人科學程PIS2009課程併班上課","['STREAM永續發展培力微學程', '社區文創微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1050&Crsname=空間調查分析與規劃,,,False,跨院選修(通),GEAI1050,0,不分班,"空間調查分析與規劃
+SPATIAL INVESTIGATION, ANALYSIS AND PLANNING",3,期,False,25,4,19,6,夏晧清,"三5,6,7(西SW 1007)","['', '', '567', '', '', '', '']","《講授類》
+跨院通識與人科學程PIS2000課程併班上課","['智慧城市與智慧運輸學程', '都市永續規劃與管理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1054&Crsname=海洋休閒活動概論,,,False,跨院選修(通),GEAI1054,0,不分班,"海洋休閒活動概論
+INTRODUCTION TO MARINE LEISURE ACTIVITIES",2,期,False,50,5,51,-1,羅凱暘,"一8,9(西SW 1005)","['89', '', '', '', '', '', '']",《講授類》,"['印象海味微學程', '永續海洋休閒運動產業學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1070&Crsname=客家語言與文化,異動,更換部份時間1/28,False,跨院選修(通),GEAI1070,0,不分班,"客家語言與文化
+HAKKA LANGUAGE AND CULTURE",1,期,False,50,11,52,-2,古錦松,,"['', '', '', '', '', '234567', '12345678']","《講授類》
+部分客家語授課",[],False
