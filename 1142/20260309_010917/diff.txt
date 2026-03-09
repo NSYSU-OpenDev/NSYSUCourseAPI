@@ -1,5 +1,0 @@
-Item root[236]['classTime'][1] added to iterable.
-Repetition change for item root[236]['classTime'][0].
-Value of root[236]['room'] changed from "" to "二2,3,4()".
-Value of root[236]['description'] changed from "《講授類》" to "《講授類》
-高雄醫學大學	心理學系".
