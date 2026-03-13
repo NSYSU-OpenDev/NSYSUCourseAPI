@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEPE210A&Crsname=運動與健康：初級籃球,新增,1/8,False,運動健康(必),GEPE210A,2,不分班,"運動與健康：初級籃球
-SPORT & HEALTH: BASIC BASKETBALL",1,期,True,50,0,48,2,羅郁平,"三3,4(體育館3樓/3rd floors of Gym)","['', '', '34', '', '', '', '']","《體育類》
+SPORT & HEALTH: BASIC BASKETBALL",1,期,True,50,0,47,3,羅郁平,"三3,4(體育館3樓/3rd floors of Gym)","['', '', '34', '', '', '', '']","《體育類》
 限大二以上選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEPE211&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211,2,不分班,"運動與健康：初級墊上核心
 SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,1,54,-4,許秀桃,"一6,7(韻律教室/Aerobics classroom)","['67', '', '', '', '', '', '']","《體育類》
