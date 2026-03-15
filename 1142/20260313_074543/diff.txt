@@ -1,7 +1,0 @@
-Value of root[796]['select'] changed from 1 to 2.
-Value of root[796]['selected'] changed from 32 to 31.
-Value of root[796]['remaining'] changed from 28 to 29.
-Value of root[912]['selected'] changed from 19 to 20.
-Value of root[912]['remaining'] changed from 31 to 30.
-Value of root[935]['selected'] changed from 9 to 10.
-Value of root[935]['remaining'] changed from 41 to 40.
