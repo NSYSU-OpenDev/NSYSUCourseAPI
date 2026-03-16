@@ -1,20 +1,20 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IPS929&Crsname=數位民主政治,,,False,政治碩專,IPS929,2,不分班,"數位民主政治
-THE POLITICS OF DIGITAL DEMOCRACY",3,期,False,50,0,11,39,沈明璁,,"['', '', '', '', '', '', '']",《講授類》,[],False
+THE POLITICS OF DIGITAL DEMOCRACY",3,期,False,50,0,11,39,沈明璁,"六2,3,4(社SS 3010-2)","['', '', '', '', '', '234', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IPS930&Crsname=兩岸關係,,,False,政治碩專,IPS930,1,不分班,"兩岸關係
-SELECTED TOPICS OF CROSS-STRAITS RELATIONS",3,期,False,50,0,8,42,林婉萍,,"['', '', '', '', '', '', '']",《講授類》,[],False
+SELECTED TOPICS OF CROSS-STRAITS RELATIONS",3,期,False,50,0,8,42,林婉萍,"四C,D,E(社SS 3010-2)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IPS932&Crsname=民意與民調實務,,,False,政治碩專,IPS932,2,不分班,"民意與民調實務
-PUBLIC OPINION AND POLL PRACTICES",3,期,False,50,0,17,33,黃志呈,,"['', '', '', '', '', '', '']",《講授類》,[],False
+PUBLIC OPINION AND POLL PRACTICES",3,期,False,50,0,17,33,黃志呈,"二C,D,E(社SS 3010-2)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ECON906&Crsname=碩士論文,,,False,經濟碩專,ECON906,2,不分班,"碩士論文
-MASTER THESIS",3,期,True,50,0,5,45,指導教授,,"['', '', '', '', '', '', '']",《研討類》,[],False
+MASTER THESIS",3,期,True,50,0,5,45,指導教授,"六C,D,E(社SS 3002-1)","['', '', '', '', '', 'CDE', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ECON908&Crsname=財金與經濟資料計量分析,,,False,經濟碩專,ECON908,1,不分班,"財金與經濟資料計量分析
-ECONOMETRIC ANALYSIS OF FINANCIAL AND ECONOMIC DATA",3,期,True,50,0,9,41,李慶男,,"['', '', '', '', '', '', '']",《講授類》,[],False
+ECONOMETRIC ANALYSIS OF FINANCIAL AND ECONOMIC DATA",3,期,True,50,0,9,41,李慶男,"三D,E,F(社SS 3002-1)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ECON927&Crsname=經濟理論與制度,,,False,經濟碩專,ECON927,2,不分班,"經濟理論與制度
-ECONOMIC THEORIES AND INSTITUTIONS",3,期,False,50,0,5,45,陳孟瑋,,"['', '', '', '', '', '', '']",《講授類》,[],False
+ECONOMIC THEORIES AND INSTITUTIONS",3,期,False,50,0,5,45,陳孟瑋,"五C,D,E(社SS 3002-1)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ECON933&Crsname=財經研究方法實作,,,False,經濟碩專,ECON933,2,不分班,"財經研究方法實作
-PRACTICE OF FINANCIAL RESEARCH METHOD",3,期,False,50,0,6,44,李國榮,,"['', '', '', '', '', '', '']",《講授類》,[],False
+PRACTICE OF FINANCIAL RESEARCH METHOD",3,期,False,50,0,6,44,李國榮,"四C,D,E(社SS 3002-1)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ECON934&Crsname=投資學,,,False,經濟碩專,ECON934,1,不分班,"投資學
-FUNDAMENTALS OF INVESTMENTS",3,期,False,50,1,34,16,李顯儀,,"['', '', '', '', '', '', '']",《講授類》,[],False
+FUNDAMENTALS OF INVESTMENTS",3,期,False,50,1,34,16,李顯儀,"一C,D,E(社SS 3002-1)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CAPS907&Crsname=碩士論文專題研究,,,True,亞太碩專,CAPS907,2,不分班,"碩士論文專題研究
 INDEPENDENT STUDIES IN MASTER THESIS",3,期,True,50,0,7,43,指導教授,"六C,D,E(社SS 2008)","['', '', '', '', '', 'CDE', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CAPS915&Crsname=國際法與兩岸關係,,,False,亞太碩專,CAPS915,1,不分班,"國際法與兩岸關係
@@ -26,16 +26,16 @@ INTERNATIONAL DISPUTE SETTLEMENT AND NEGOTIATIONS",3,期,False,50,0,1,49,楊健�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CAPS926&Crsname=憲法與基本人權保障,,,False,亞太碩專,CAPS926,1,不分班,"憲法與基本人權保障
 CONSTITUTION AND PROTECTION OF HUMAIN RIGHTS",3,期,False,50,0,5,45,陳盈雪,"一C,D,E(社SS 2009-1)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=SOC904&Crsname=當代原住民族議題（二）,,,False,社會原碩專,SOC904,1,不分班,"當代原住民族議題（二）
-CONTEMPORARY ISSUES OF INDIGENOUS PEOPLES（II）",3,期,True,50,0,11,39,"李馨慈,楊又欣,王啟仲,趙恩潔",,"['', '', '', '', '', '', '']",《講授類》,['原民文化探索及永續發展學程'],False
+CONTEMPORARY ISSUES OF INDIGENOUS PEOPLES（II）",3,期,True,50,0,11,39,"李馨慈,楊又欣,王啟仲,趙恩潔","六B,5,6(社SS 3004-2)","['', '', '', '', '', 'B56', '']",《講授類》,['原民文化探索及永續發展學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=SOC907&Crsname=博物館與文化資產保存,,,False,社會原碩專,SOC907,1,不分班,"博物館與文化資產保存
-MUSEUM AND CULTURAL HERITAGE PRESERVATION",3,期,False,50,0,11,39,巴清雄,,"['', '', '', '', '', '', '']",《講授類》,[],False
+MUSEUM AND CULTURAL HERITAGE PRESERVATION",3,期,False,50,0,11,39,巴清雄,"六2,3,4(社SS 3004-2)","['', '', '', '', '', '234', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=SOC909&Crsname=社會學研究方法,,,False,社會原碩專,SOC909,1,不分班,"社會學研究方法
-SOCIAL METHODOLOGY",3,期,True,50,0,10,40,"李宛儒,王梅香,葉高華",,"['', '', '', '', '', '', '']",《講授類》,[],False
+SOCIAL METHODOLOGY",3,期,True,50,0,10,40,"李宛儒,王梅香,葉高華","六8,9,7(社SS 3004-2)","['', '', '', '', '', '789', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=SOC914&Crsname=社會科學論文寫作,,,False,社會原碩專,SOC914,2,不分班,"社會科學論文寫作
-ACADEMIC WRITING IN SOCIAL SCIENCES",3,期,False,50,0,8,42,"楊靜利,萬毓澤,邱花妹,陳美華",,"['', '', '', '', '', '', '']",《講授類》,[],False
+ACADEMIC WRITING IN SOCIAL SCIENCES",3,期,False,50,0,8,42,"楊靜利,萬毓澤,邱花妹,陳美華","六2,3,4(社SS 4004-2)","['', '', '', '', '', '234', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE906&Crsname=特殊教育研究,,,False,教育碩專,IOE906,0,不分班,"特殊教育研究
-STUDIES IN SPECIAL EDUCATION",3,期,False,30,0,14,16,鍾素香,,"['', '', '', '', '', '', '']",《講授類》,[],False
+STUDIES IN SPECIAL EDUCATION",3,期,False,30,0,14,16,鍾素香,"六2,3,4(社SS 2006)","['', '', '', '', '', '234', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE908&Crsname=教育政策分析,,,False,教育碩專,IOE908,0,不分班,"教育政策分析
-ANALYSES ON EDUCATIONAL POLICIES",3,期,False,30,0,14,16,陳修平,,"['', '', '', '', '', '', '']",《講授類》,[],False
+ANALYSES ON EDUCATIONAL POLICIES",3,期,False,30,0,14,16,陳修平,"一C,D,E(社SS 2005)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IOE910&Crsname=教育研究法,,,False,教育碩專,IOE910,1,不分班,"教育研究法
-EDUCATIONAL RESEARCH METHODS",3,期,True,30,0,15,15,"鄭雯,陳利銘",,"['', '', '', '', '', '', '']",《講授類》,[],False
+EDUCATIONAL RESEARCH METHODS",3,期,True,30,0,15,15,"鄭雯,陳利銘","二C,D,E(社SS 2005)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
