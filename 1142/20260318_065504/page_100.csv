@@ -1,8 +1,8 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=OWP509&Crsname=海事工程風險分析及管理,,,False,離岸風電碩,OWP509,1,不分班,"海事工程風險分析及管理
-RISK ANALYSIS AND MANAGEMENT FOR OFFSHORE ENGINEERING",3,期,False,50,0,1,49,柯宗廷,,"['', '', '', '', '', '', '']",《講授類》,"['環境教育學程', '海事工程學程', '南星產業樞紐學程', '永續能源學程']",False
+RISK ANALYSIS AND MANAGEMENT FOR OFFSHORE ENGINEERING",3,期,False,50,0,1,49,柯宗廷,"五2,3,4(海ME 2001)","['', '', '', '', '234', '', '']",《講授類》,"['環境教育學程', '海事工程學程', '南星產業樞紐學程', '永續能源學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=OWP516&Crsname=離岸風電運維實務,異動,更換教師2/12,False,離岸風電碩,OWP516,1,不分班,"離岸風電運維實務
-OPERATION AND MAINTENANCE OF OFFSHORE WIND FARMS",3,期,False,50,0,16,34,卓宴琳,,"['', '', '', '', '', '', '']",《講授類》,"['淨零轉型微學程', '淨零轉型與永續發展整合學程', '海事工程學程']",False
+OPERATION AND MAINTENANCE OF OFFSHORE WIND FARMS",3,期,False,50,0,16,34,卓宴琳,"四3,4,B(海ME 2001)","['', '', '', '34B', '', '', '']",《講授類》,"['淨零轉型微學程', '淨零轉型與永續發展整合學程', '海事工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IPS510&Crsname=探索式資料分析,,,False,政治碩,IPS510,0,不分班,"探索式資料分析
 EXPLORATORY DATA ANALYSIS",3,期,False,20,0,7,13,劉正山,"四5,6,7(社SS 3010-2)","['', '', '', '567', '', '', '']","《講授類》
 限修習過至少一門R相關課程之學生選修",['政經大數據分析微學程'],False
