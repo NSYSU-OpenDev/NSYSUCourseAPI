@@ -1,10 +1,10 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME691&Crsname=平行處理及計算（二）,,,False,機電碩,MEME691,0,不分班,"平行處理及計算（二）
-PARALLEL PROCESSING AND COMPUTING (II)",3,期,False,50,0,4,46,朱訓鵬,,"['', '', '', '', '', '', '']",《講授類》,[],False
+PARALLEL PROCESSING AND COMPUTING (II)",3,期,False,50,0,4,46,朱訓鵬,"一8,9(工EN 4075-2) 二9(工EN 4075-2)","['89', '9', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME693&Crsname=熱流數值模擬應用專題,,,False,機電碩,MEME693,0,不分班,"熱流數值模擬應用專題
-INDEPENDENT STUDIES IN APPLICATIONS IN NUMERICAL SIMULATIONS TO THE THERMAL-FLUID PROBLEMS",3,期,False,50,0,4,46,鄭威利,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN APPLICATIONS IN NUMERICAL SIMULATIONS TO THE THERMAL-FLUID PROBLEMS",3,期,False,50,0,4,46,鄭威利,"一8,9(工EN 2019-2) 二9(工EN 2019-2)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME698&Crsname=燃燒與防火安全專題（二）,,,False,機電碩,MEME698,0,不分班,"燃燒與防火安全專題（二）
-INDEPENDENT STUDIES IN COMBUSTION AND FIRE SAFETY II",3,期,False,50,0,4,46,許聖彥,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN COMBUSTION AND FIRE SAFETY II",3,期,False,50,0,4,46,許聖彥,"一8,9(工EN 3029) 二9(工EN 3029)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ENVE521&Crsname=書報討論,,,False,環工碩,ENVE521,1,不分班,"書報討論
 SEMINAR",1,期,True,50,0,15,35,彭彥彬,"三6,7(工EV 4024)","['', '', '67', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ENVE521A&Crsname=書報討論,,,False,環工碩,ENVE521A,2,不分班,"書報討論
