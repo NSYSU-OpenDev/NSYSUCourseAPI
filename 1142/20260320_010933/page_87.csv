@@ -42,8 +42,8 @@ INDEPENDENT STUDIES IN HIGH-PERFORMANCE AI ACCELERATOR DESIGN",3,期,False,50,0,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=IICD591&Crsname=UNIX/LINUX 作業系統專題,異動,確認教師2/4,False,積體電路碩,IICD591,0,不分班,"UNIX/LINUX 作業系統專題
 INDEPENDENT STUDIES IN UNIX/LINUX OPERATING SYSTEMS",3,期,False,18,0,4,14,辛艾曼,"四8,6,7(工EC 3024)","['', '', '', '678', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE513&Crsname=安全密碼協定,,,False,資安碩,CSE513,1,不分班,"安全密碼協定
-SECURE CRYPTOGRAPHIC PROTOCOLS",3,期,True,50,2,25,25,王智弘,"五2,3,4(工EC 1005)","['', '', '', '', '234', '', '']",《講授類》,['資通安全學程'],False
+SECURE CRYPTOGRAPHIC PROTOCOLS",3,期,True,50,2,24,26,王智弘,"五2,3,4(工EC 1005)","['', '', '', '', '234', '', '']",《講授類》,['資通安全學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE514&Crsname=安全程式設計,,,False,資安碩,CSE514,1,不分班,"安全程式設計
-SECURE PROGRAMMING",3,期,True,50,0,17,33,克拉迪,"四8,6,7(工EC 1006)","['', '', '', '678', '', '', '']",《講授類》,['資通安全學程'],True
+SECURE PROGRAMMING",3,期,True,50,0,16,34,克拉迪,"四8,6,7(工EC 1006)","['', '', '', '678', '', '', '']",《講授類》,['資通安全學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE517&Crsname=網路安全,異動,更換教室1/13,False,資安碩,CSE517,1,不分班,"網路安全
-NETWORK SECURITY",3,期,True,50,0,16,34,陳嘉玫,"六2,3,4(管CM 2023)","['', '', '', '', '', '234', '']",《講授類》,['永續能源學程'],False
+NETWORK SECURITY",3,期,True,50,0,15,35,陳嘉玫,"六2,3,4(管CM 2023)","['', '', '', '', '', '234', '']",《講授類》,['永續能源學程'],False
