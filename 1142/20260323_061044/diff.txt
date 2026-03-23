@@ -1,0 +1,1 @@
+Value of root[1848]['room'] changed from "二E(管CM  1032) 二C,D(管CM 1032)" to "二C,D,E(管CM 1032)".
