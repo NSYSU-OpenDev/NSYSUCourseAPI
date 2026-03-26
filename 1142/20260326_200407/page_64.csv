@@ -1,28 +1,28 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=NURS106&Crsname=微生物與免疫學之臨床應用,,,False,護理系,NURS106,1,不分班,"微生物與免疫學之臨床應用
-CLINICAL APPLICATIONS OF MICROBIOLOGY AND IMMUNOLOGY",1,期,True,50,0,40,10,"王文宏,陳彥樺",一5(醫IL 3005),"['5', '', '', '', '', '', '']","《講授類》
+CLINICAL APPLICATIONS OF MICROBIOLOGY AND IMMUNOLOGY",1,期,True,50,0,40,10,"王文宏,陳彥樺",,"['', '', '', '', '', '', '']","《講授類》
 限護理學系學生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=NURS107&Crsname=藥理學與臨床應用,,,False,護理系,NURS107,1,不分班,"藥理學與臨床應用
-PHARMACOLOGY AND CLINICAL APPLICATIONS",3,期,True,50,0,40,10,"趙敏吾,陳亮傑","一8,6,7(醫IL 3005)","['678', '', '', '', '', '', '']","《講授類》
+PHARMACOLOGY AND CLINICAL APPLICATIONS",3,期,True,50,0,40,10,"趙敏吾,陳亮傑",,"['', '', '', '', '', '', '']","《講授類》
 限護理學系學生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=NURS108&Crsname=生物統計與健康數據分析,,,False,護理系,NURS108,1,不分班,"生物統計與健康數據分析
-BIOSTATISTICS AND HEALTH DATA ANALYSIS",2,期,True,50,0,40,10,鄭雅勻,"三5,6(PC 01)","['', '', '56', '', '', '', '']","《講授類》
+BIOSTATISTICS AND HEALTH DATA ANALYSIS",2,期,True,50,0,40,10,鄭雅勻,,"['', '', '', '', '', '', '']","《講授類》
 限護理學系學生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=NURS109&Crsname=創新科技與醫療照護,,,False,護理系,NURS109,1,不分班,"創新科技與醫療照護
-INNOVATIVE TECHNOLOGY AND HEALTHCARE",1,期,True,50,0,39,11,葉俊吟,一4(醫IL 3005),"['4', '', '', '', '', '', '']","《講授類》
+INNOVATIVE TECHNOLOGY AND HEALTHCARE",1,期,True,50,0,39,11,葉俊吟,,"['', '', '', '', '', '', '']","《講授類》
 限護理學系學生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=NURS111&Crsname=深睡的力量：揭開睡眠與健康的面紗,異動,增加合授教師2/25,False,護理系,NURS111,1,不分班,"深睡的力量：揭開睡眠與健康的面紗
-THE DEEP POWER OF SLEEP：UNDERSTANDING SLEEP AND HEALTH",3,期,False,20,2,21,-1,"熊乃歡,陳嬿今","三5,6,7(醫IL3013)","['', '', '567', '', '', '', '']",《講授類》,['智慧高齡生活微學程'],False
+THE DEEP POWER OF SLEEP：UNDERSTANDING SLEEP AND HEALTH",3,期,False,20,2,21,-1,"熊乃歡,陳嬿今",,"['', '', '', '', '', '', '']",《講授類》,['智慧高齡生活微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=NURS114&Crsname=多元健康管理,,,False,護理系,NURS114,1,不分班,"多元健康管理
-MULTIDIMENSIONAL HEALTH MANAGEMENT",2,期,False,25,1,24,1,郭素娥,"四8,7(醫IL3013)","['', '', '', '78', '', '', '']",《講授類》,['智慧高齡生活微學程'],True
+MULTIDIMENSIONAL HEALTH MANAGEMENT",2,期,False,25,1,24,1,郭素娥,,"['', '', '', '', '', '', '']",《講授類》,['智慧高齡生活微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=NURS115&Crsname=家庭與健康,異動,變更授課方式1/15,False,護理系,NURS115,1,不分班,"家庭與健康
-FAMILIES AND HEALTH",2,期,False,25,8,22,3,王美卿,"四3,4(醫IL 3013)","['', '', '', '34', '', '', '']",《講授類》,[],False
+FAMILIES AND HEALTH",2,期,False,25,8,22,3,王美卿,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=NURS116&Crsname=氣候變遷下的健康生活學,異動,增加合授教師2/25,False,護理系,NURS116,1,不分班,"氣候變遷下的健康生活學
-LIVING WELL IN A CHANGING CLIMATE",3,期,False,25,3,17,8,"熊乃歡,葉俊吟","二5,6,7(醫IL3005)","['', '567', '', '', '', '', '']",《講授類》,['智慧高齡生活微學程'],True
+LIVING WELL IN A CHANGING CLIMATE",3,期,False,25,3,17,8,"熊乃歡,葉俊吟",,"['', '', '', '', '', '', '']",《講授類》,['智慧高齡生活微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=NURS117&Crsname=計算機概論,,,False,護理系,NURS117,1,不分班,"計算機概論
-BASIC COMPUTER CONCEPTS",2,期,False,50,1,21,29,羅珮綺,"四5,6(PC01)","['', '', '', '56', '', '', '']",《講授類》,"['智慧高齡生活微學程', '軟體工程學程']",False
+BASIC COMPUTER CONCEPTS",2,期,False,50,1,21,29,羅珮綺,,"['', '', '', '', '', '', '']",《講授類》,"['智慧高齡生活微學程', '軟體工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=NURS118&Crsname=跨文化照護與靈性護理,異動,修正部份時間2/24,False,護理系,NURS118,1,不分班,"跨文化照護與靈性護理
-TRANSCULTURAL CARE AND SPIRITUAL NURSING",2,期,False,50,0,14,36,陳嬿今,,"['', '234567', '234567', '234567', '', '', '']","《講授類》
+TRANSCULTURAL CARE AND SPIRITUAL NURSING",2,期,False,50,0,14,36,陳嬿今,,"['', '', '', '', '', '', '']","《講授類》
 本課程為暑假7/5-7/20至越南移地教學及參訪，學生需自行負擔旅費一",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MED101&Crsname=基礎生物學,,,False,醫學院,MED101,0,不分班,"基礎生物學
 BASIC CONCEPTS OF BIOLOGY",2,期,False,5,2,3,2,"張玉泉,薛佑玲,鄭光宏","四8,9(通GE 1010)","['', '', '', '89', '', '', '']","《講授類》
