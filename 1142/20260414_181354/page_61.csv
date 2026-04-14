@@ -1,10 +1,10 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=III1016&Crsname=台灣政經發展,,,False,國際學士原民專班,III1016,1,不分班,"台灣政經發展
-POLITICAL AND ECONOMIC DEVELOPMENT IN TAIWAN",3,期,False,20,0,1,19,許家豪,,"['', '', '', '', '', '', '']",《講授類》,['臺灣研究學程'],True
+POLITICAL AND ECONOMIC DEVELOPMENT IN TAIWAN",3,期,False,20,0,1,19,許家豪,"二8,6,7(海ME 3006)","['', '678', '', '', '', '', '']",《講授類》,['臺灣研究學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=III1017&Crsname=歧視、偏見與社會正義,,,False,國際學士原民專班,III1017,1,不分班,"歧視、偏見與社會正義
-DISCRIMINATION, BIAS AND SOCIAL JUSTICE",3,期,False,20,0,7,13,許家豪,,"['', '', '', '', '', '', '']",《講授類》,[],False
+DISCRIMINATION, BIAS AND SOCIAL JUSTICE",3,期,False,20,0,7,13,許家豪,"二2,3,4(海ME 3006)","['', '234', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=III1018&Crsname=繪本藝術與創意實踐,,,False,國際學士原民專班,III1018,1,不分班,"繪本藝術與創意實踐
-PICTURE BOOK ART AND CREATIVE PRACTICE",3,期,False,20,0,6,14,黃郁晴,,"['', '', '', '', '', '', '']",《講授類》,[],False
+PICTURE BOOK ART AND CREATIVE PRACTICE",3,期,False,20,0,6,14,黃郁晴,"一5,6,7(西SW 1005)","['567', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=DPBM102&Crsname=程式設計,,,False,後醫學系,DPBM102,1,不分班,"程式設計
 PROGRAMING LANGUAGE",2,期,False,50,0,2,48,于松桓,"三3,4(PC 01電腦教室)","['', '', '34', '', '', '', '']","《講授類》
 限後醫系修習",['金融工程學程'],False
