@@ -1,21 +1,21 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME401&Crsname=熱流實驗,,,False,機電系,MEME401,3,甲班,"熱流實驗
-THERMALFLUIDS EXPERIMENT",1,期,True,60,0,37,23,梁俊德,,"['', '', '', '', '', '', '']","《實驗類》
+THERMALFLUIDS EXPERIMENT",1,期,True,60,0,37,23,梁俊德,"二5,6,7(工EN 4055-1)(實驗)","['', '567', '', '', '', '', '']","《實驗類》
 三甲、三乙、三英併班上課，本課程須配合實驗設備彈性安排實驗時間，實驗室在工EV3008。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME401A&Crsname=熱流實驗,,,False,機電系,MEME401A,3,乙班,"熱流實驗
-THERMALFLUIDS EXPERIMENT",1,期,True,60,0,37,23,梁俊德,,"['', '', '', '', '', '', '']","《實驗類》
+THERMALFLUIDS EXPERIMENT",1,期,True,60,0,37,23,梁俊德,"二5,6,7(工EN 4055-1)(實驗)","['', '567', '', '', '', '', '']","《實驗類》
 三甲、三乙、三英併班上課，本課程須配合實驗設備彈性安排實驗時間，實驗室在工EV3008。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME401B&Crsname=熱流實驗,,,False,機電系,MEME401B,3,全英班,"熱流實驗
-THERMALFLUIDS EXPERIMENT",1,期,True,60,0,35,25,梁俊德,,"['', '', '', '', '', '', '']","《實驗類》
+THERMALFLUIDS EXPERIMENT",1,期,True,60,0,35,25,梁俊德,"二5,6,7(工EN 4055-1)(實驗)","['', '567', '', '', '', '', '']","《實驗類》
 三甲、三乙、三英併班上課，本課程須配合實驗設備彈性安排實驗時間，實驗室在工EV3008。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME414&Crsname=工程倫理,異動,更正時間1/14,False,機電系,MEME414,0,不分班,"工程倫理
-ENGINEERING ETHICS",3,期,False,57,3,52,5,何應勤,,"['', '', '', '', '', '', '']",《講授類》,[],True
+ENGINEERING ETHICS",3,期,False,57,3,52,5,何應勤,"二8,9(工EN 3021) 四8(工EN 3021)","['', '89', '', '8', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME429&Crsname=機電實務專案,異動,更換教師2/24,False,機電系,MEME429,3,甲班,"機電實務專案
-PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,39,11,"劉耿豪,李伯軒,林哲信,胡龍豪,許煜亮",,"['', '', '', '', '', '', '']",《實習類》,['太空科技微學程'],False
+PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,39,11,"劉耿豪,李伯軒,林哲信,胡龍豪,許煜亮","四A(工EN 4055-1)(實驗) 五A,1(工EN 4055-1)(實驗)","['', '', '', 'A', 'A1', '', '']",《實習類》,['太空科技微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME429A&Crsname=機電實務專案,異動,確認教師2/24,False,機電系,MEME429A,3,乙班,"機電實務專案
-PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,35,15,"嚴成文,朱訓鵬,楊政融,蔡尚南",,"['', '', '', '', '', '', '']",《實習類》,['太空科技微學程'],False
+PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,35,15,"嚴成文,朱訓鵬,楊政融,蔡尚南","四A(工EN 4055-1)(實驗) 五A,1(工EN 4055-1)(實驗)","['', '', '', 'A', 'A1', '', '']",《實習類》,['太空科技微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME429B&Crsname=機電實務專案,異動,確認教師2/24,False,機電系,MEME429B,3,全英班,"機電實務專案
-PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,30,20,"汪正祺,王郁仁,郭振坤,鄭威利",,"['', '', '', '', '', '', '']",《實習類》,['太空科技微學程'],True
+PRACTICE AND PROJECT IN MECHANICAL AND ELECTROMECHANICAL ENGINEERING",1,期,True,50,0,30,20,"汪正祺,王郁仁,郭振坤,鄭威利","四A(工EN 4055-1)(實驗) 五A,1(工EN 4055-1)(實驗)","['', '', '', 'A', 'A1', '', '']",《實習類》,['太空科技微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE170&Crsname=數位電子學,,,False,資工系,CSE170,1,不分班,"數位電子學
 DIGITAL ELECTRONICS",3,期,True,80,0,68,12,郭可驥,"一5,6,7(工EC 5012)","['567', '', '', '', '', '', '']",《講授類》,"['矽光子暨半導體學程', '類比射頻IC設計學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE215&Crsname=資料結構,,,False,資工系,CSE215,1,不分班,"資料結構
