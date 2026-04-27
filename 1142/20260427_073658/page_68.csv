@@ -1,12 +1,12 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=TA557&Crsname=文本與空間敘事,,,False,劇藝碩,TA557,0,不分班,"文本與空間敘事
-TEXT AND SPATIAL NARRATION",3,期,False,50,0,12,38,約書亞沙發兒,,"['', '', '', '', '', '', '']","《講授類》
+TEXT AND SPATIAL NARRATION",3,期,False,50,0,12,38,約書亞沙發兒,"三5,6,7(文FA 2012, 1015以及壽山動物園)","['', '', '567', '', '', '', '']","《講授類》
 包含移地教學與期末展演於壽山動物園","['地方創生與永續發展整合學程', '地方創生與區域治理微學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=TA570&Crsname=跨域創作與研究,,,False,劇藝碩,TA570,0,不分班,"跨域創作與研究
-INTERDISCIPLINARY PRACTICE AND RESEARCH",3,期,False,50,0,10,40,約書亞沙發兒,,"['', '', '', '', '', '', '']","《展演》
+INTERDISCIPLINARY PRACTICE AND RESEARCH",3,期,False,50,0,10,40,約書亞沙發兒,"一8,6,7(文FA 2012, 2018)","['678', '', '', '', '', '', '']","《展演》
 本系碩士班理論組與創作組必選課程",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=TA582&Crsname=畢業專題（二）,,,True,劇藝碩,TA582,2,不分班,"畢業專題（二）
-INDEPENDENT STUDIES(II)",2,期,True,50,0,4,46,"何怡璉,吳怡瑱,康尹貞,杜思慧,許仁豪",,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES(II)",2,期,True,50,0,4,46,"何怡璉,吳怡瑱,康尹貞,杜思慧,許仁豪","一1,B(文FA 2012)","['1B', '', '', '', '', '', '']","《獨立研究》
 碩二以上，畢業論文或創作指導",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=AME501&Crsname=研究方法,,,False,藝管創業所,AME501,1,不分班,"研究方法
 RESEARCH METHODS",3,期,True,50,0,16,34,陳尚盈,"二2,3,4(文FA 3011)","['', '234', '', '', '', '', '']","《講授類》
