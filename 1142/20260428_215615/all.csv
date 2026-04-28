@@ -2594,17 +2594,17 @@ POLYMER PHYSICS",3,期,False,60,2,47,13,葉昀昇,"四2,3,4(工MS 4019)","['', '
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES333&Crsname=材料機械性質,,,False,材光系,MOES333,3,不分班,"材料機械性質
 MECHANICAL BEHAVIOR OF MATERIALS",3,期,False,50,0,25,25,郭哲男,"二8,9,7(工MS 4019)","['', '789', '', '', '', '', '']",《講授類》,['有機和材料合成學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES334&Crsname=材料與光電專題研究（二）,,,False,材光系,MOES334,3,不分班,"材料與光電專題研究（二）
-RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(II)",1,期,False,60,2,32,28,蔣酉旺,,"['', '', '', '', '', '', '']",《獨立研究》,[],True
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(II)",1,期,False,60,2,32,28,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES440&Crsname=材料與光電專題研究（四）,異動,更換時間1/29,False,材光系,MOES440,4,不分班,"材料與光電專題研究（四）
-RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(VI)",1,期,False,50,0,9,41,蔣酉旺,,"['', '', '', '', '', '', '']",《獨立研究》,[],True
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(VI)",1,期,False,50,0,9,41,蔣酉旺,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES452&Crsname=專題討論,,,False,材光系,MOES452,3,不分班,"專題討論
-SEMINAR",2,期,True,50,0,43,7,陳致光,,"['', '', '', '', '', '', '']",《研討類》,[],True
+SEMINAR",2,期,True,50,0,43,7,陳致光,二6(工MS 4019),"['', '6', '', '', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES452A&Crsname=專題討論,,,False,材光系,MOES452A,3,全英班,"專題討論
-SEMINAR",2,期,True,50,0,28,22,陳致光,,"['', '', '', '', '', '', '']",《研討類》,[],True
+SEMINAR",2,期,True,50,0,28,22,陳致光,二6(工MS 4019),"['', '6', '', '', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES454&Crsname=進階固態物理,,,False,材光系,MOES454,3,不分班,"進階固態物理
-ADVANCED SOLID STATE PHYSICS",3,期,False,50,0,49,1,李廣輝,,"['', '', '', '', '', '', '']",《講授類》,[],False
+ADVANCED SOLID STATE PHYSICS",3,期,False,50,0,49,1,李廣輝,"五2(工MS 4022 ) 五3,4(工MS 4022)","['', '', '', '', '234', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES456&Crsname=材料顯微分析實驗,,,False,材光系,MOES456,4,不分班,"材料顯微分析實驗
-EXPERIMENTS OF MATERIAL MICROANALYSIS",2,期,False,30,0,11,19,"張六文,李廣輝,王致傑,蔣酉旺,邱政維,郭哲男,郭紹偉",,"['', '', '', '', '', '', '']",《實驗類》,[],False
+EXPERIMENTS OF MATERIAL MICROANALYSIS",2,期,False,30,0,11,19,"張六文,李廣輝,王致傑,蔣酉旺,邱政維,郭哲男,郭紹偉","一2,3,4,B(工 MS 4023)(實驗)","['234B', '', '', '', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE1005&Crsname=數位電子學,,,False,資工全英班,CSE1005,1,全英班,"數位電子學
 DIGITAL ELECTRONICS",3,期,True,50,0,39,11,郭可驥,"二5,6,7(工EC 1006)","['', '567', '', '', '', '', '']",《講授類》,"['矽光子暨半導體學程', '類比射頻IC設計學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE2002&Crsname=資料結構,,,False,資工全英班,CSE2002,1,全英班,"資料結構
@@ -4501,50 +4501,50 @@ IMPACT INVESTING FUND MANAGEMENT PRACTICES",3,期,False,50,1,16,34,"邱敬貿,�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=FM606&Crsname=創業投資,,,False,財管碩,FM606,0,不分班,"創業投資
 VENTURE CAPITAL",3,期,False,50,1,51,-1,黃振聰,"三2,3,4(管CM 3017)","['', '', '234', '', '', '', '']",《講授類》,['財務管理專業學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=FM613&Crsname=專題研究（二）,,,False,財管碩,FM613,2,不分班,"專題研究（二）
-INDEPENDENT STUDIES(II)",3,期,False,50,1,26,24,佘博文,,"['', '', '', '', '', '', '']",《獨立研究》,[],True
+INDEPENDENT STUDIES(II)",3,期,False,50,1,26,24,佘博文,"二2,3,4(管CM 2020)","['', '234', '', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=FM613A&Crsname=專題研究（二）,異動,更換教室1/5,False,財管碩,FM613A,2,不分班,"專題研究（二）
-INDEPENDENT STUDIES(II)",3,期,False,50,0,15,35,陳俐聿,,"['', '', '', '', '', '', '']",《獨立研究》,[],True
+INDEPENDENT STUDIES(II)",3,期,False,50,0,15,35,陳俐聿,"二2,3,4(管CM 1019)","['', '234', '', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=FM614&Crsname=金融數據分析與交易策略,,,False,財管碩,FM614,0,不分班,"金融數據分析與交易策略
-PRACTICE IN FINANCIAL DATA ANALYSIS AND TRADING STRATEGIES",3,期,False,50,1,49,1,蔡秉真,,"['', '', '', '', '', '', '']",《講授類》,['金融科技學程'],True
+PRACTICE IN FINANCIAL DATA ANALYSIS AND TRADING STRATEGIES",3,期,False,50,1,49,1,蔡秉真,"五2,3,4(管CM 4078)","['', '', '', '', '234', '', '']",《講授類》,['金融科技學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=FM616&Crsname=金融科技服務開發,,,False,財管碩,FM616,0,不分班,"金融科技服務開發
-THE DEVELOPMENT OF FINTECH SERVICES",3,期,False,50,0,37,13,"吳藺芝,邱敬貿",,"['', '', '', '', '', '', '']",《講授類》,"['金融科技與創新微學程', '科技創新與服務業管理學程']",False
+THE DEVELOPMENT OF FINTECH SERVICES",3,期,False,50,0,37,13,"吳藺芝,邱敬貿","一8,6,7(管CM 1025)","['678', '', '', '', '', '', '']",《講授類》,"['金融科技與創新微學程', '科技創新與服務業管理學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=FM619&Crsname=財務資料庫應用與分析,新增,1/14,False,財管碩,FM619,0,不分班,"財務資料庫應用與分析
-FINANCIAL DATABASE APPLICATION AND ANALYSIS",3,期,False,50,0,1,49,翁培師,,"['', '', '', '', '', '', '']",《講授類》,[],False
+FINANCIAL DATABASE APPLICATION AND ANALYSIS",3,期,False,50,0,1,49,翁培師,"一5,6,7(管CM 2015)","['567', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM512&Crsname=倫理與衝突,異動,修正限修條件1/6,False,公事碩,PAM512,2,不分班,"倫理與衝突
-ETHICS AND CONFLICT",2,期,True,15,0,15,0,林新沛,,"['', '', '', '', '', '', '']","《講授類》
+ETHICS AND CONFLICT",2,期,True,15,0,15,0,林新沛,"五3,4(管CM 1020)","['', '', '', '', '34', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限公事所碩二以上學生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM518&Crsname=都市環境管理,,,False,公事碩,PAM518,1,不分班,"都市環境管理
-URBAN ENVIRONMENTAL MANAGEMENT",2,期,False,50,0,6,44,謝旭昇,,"['', '', '', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '都市永續規劃與管理微學程', '永續管理微學程']",True
+URBAN ENVIRONMENTAL MANAGEMENT",2,期,False,50,0,6,44,謝旭昇,"五8,9(管CM 1020)","['', '', '', '', '89', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '都市永續規劃與管理微學程', '永續管理微學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM539&Crsname=量化資料分析與寫作,,,False,公事碩,PAM539,1,不分班,"量化資料分析與寫作
-QUANTITATIVE DATA ANALYSIS AND WRITING",3,期,False,50,1,4,46,吳偉寧,,"['', '', '', '', '', '', '']",《講授類》,[],False
+QUANTITATIVE DATA ANALYSIS AND WRITING",3,期,False,50,1,4,46,吳偉寧,"二2,3,4(管CM 1020)","['', '234', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM541&Crsname=質化資料分析與寫作,,,False,公事碩,PAM541,1,不分班,"質化資料分析與寫作
-QUALITATIVE DATA ANALYSIS AND WRITING",3,期,False,50,0,12,38,蔡錦昌,,"['', '', '', '', '', '', '']",《講授類》,[],False
+QUALITATIVE DATA ANALYSIS AND WRITING",3,期,False,50,0,12,38,蔡錦昌,"一8,6,7(管CM 1020)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM597&Crsname=公共參與及審議民主,,,False,公事碩,PAM597,2,不分班,"公共參與及審議民主
-PUBLIC PARTICIPATION AND DELIBERATIVE DEMOCRACY",3,期,False,50,0,8,42,彭渰雯,,"['', '', '', '', '', '', '']",《講授類》,['公民參與微學程'],False
+PUBLIC PARTICIPATION AND DELIBERATIVE DEMOCRACY",3,期,False,50,0,8,42,彭渰雯,"四8,6,7(管CM 1020)","['', '', '', '678', '', '', '']",《講授類》,['公民參與微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM599&Crsname=新興公共議題研討,異動,確認教師1/9,False,公事碩,PAM599,1,不分班,"新興公共議題研討
-SEMINAR IN EMERGING PUBLIC ISSUES",2,期,False,50,0,13,37,黃奕臻,,"['', '', '', '', '', '', '']","《研討類》
+SEMINAR IN EMERGING PUBLIC ISSUES",2,期,False,50,0,13,37,黃奕臻,"五5,6(管CM 1020)","['', '', '', '', '56', '', '']","《研討類》
 主題：淨零轉型與氣候治理","['淨零轉型微學程', '地方創生與永續發展整合學程', '非營利事業及社會創新微學程', '地方創生與區域治理微學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM603&Crsname=氣候行動書報討論,,,False,公事碩,PAM603,2,不分班,"氣候行動書報討論
-PAPER READINGS IN CLIMATE ACTIONS",1,期,False,50,1,6,44,林新沛,,"['', '', '', '', '', '', '']","《研討類》
+PAPER READINGS IN CLIMATE ACTIONS",1,期,False,50,1,6,44,林新沛,,"['', 'B567', '', '', '', '', '']","《研討類》
 雙數周上課","['環境教育學程', '淨零轉型與永續發展整合學程', '地方創生與永續發展整合學程', '企業社會責任學程', '永續管理微學程', '地方發展與永續農業微學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM609&Crsname=公共事務專題研究,,,False,公事碩,PAM609,2,不分班,"公共事務專題研究
-INDEPENDENT STUDIES IN PUBLIC AFFAIRS",2,期,False,50,0,9,41,郭瑞坤,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN PUBLIC AFFAIRS",2,期,False,50,0,9,41,郭瑞坤,,"['', '', '', '', '', 'B56789', '']","《獨立研究》
 主題：國際地方創生實地見學","['淨零轉型微學程', '地方創生與永續發展整合學程', '地方創生與區域治理微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM612&Crsname=溫室氣體盤查報告實作,,,False,公事碩,PAM612,2,不分班,"溫室氣體盤查報告實作
-WRITING OF GHG INVENTORY REPORT",2,期,False,50,2,42,8,林新沛,,"['', '', '', '', '', '', '']",《講授類》,"['淨零轉型微學程', '淨零轉型與永續發展整合學程', '地方創生與永續發展整合學程', '企業社會責任學程', '永續管理微學程', '公共事務與企業社會責任微學程']",False
+WRITING OF GHG INVENTORY REPORT",2,期,False,50,2,42,8,林新沛,,"['', '', '', '', '', '1234B5678', '']",《講授類》,"['淨零轉型微學程', '淨零轉型與永續發展整合學程', '地方創生與永續發展整合學程', '企業社會責任學程', '永續管理微學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM615&Crsname=城市災害管理,,,False,公事碩,PAM615,1,不分班,"城市災害管理
-URBAN DISASTER MANAGEMENT",2,期,False,50,0,9,41,吳偉寧,,"['', '', '', '', '', '', '']",《講授類》,['永續管理微學程'],False
+URBAN DISASTER MANAGEMENT",2,期,False,50,0,9,41,吳偉寧,"二8,9(管CM 1020)","['', '89', '', '', '', '', '']",《講授類》,['永續管理微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PAM616&Crsname=社區治理,,,False,公事碩,PAM616,1,不分班,"社區治理
-COMMUNITY GOVERNANCE",2,期,False,50,0,13,37,謝政勳,,"['', '', '', '', '', '', '']",《講授類》,['公民參與微學程'],False
+COMMUNITY GOVERNANCE",2,期,False,50,0,13,37,謝政勳,"三3,4(管CM 1020)","['', '', '34', '', '', '', '']",《講授類》,['公民參與微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM506&Crsname=量化研究方法,異動,調整名額1/15,False,人管碩,HRM506,0,不分班,"量化研究方法
-QUANTITATIVE RESEARCH METHODS",3,期,False,30,0,24,6,"李澄賢,王豫萱,陳旻男",,"['', '', '', '', '', '', '']",《講授類》,[],False
+QUANTITATIVE RESEARCH METHODS",3,期,False,30,0,24,6,"李澄賢,王豫萱,陳旻男","五2,3,4(管CM 2023)","['', '', '', '', '234', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM507&Crsname=企業管理專案研究,,,False,人管碩,HRM507,1,不分班,"企業管理專案研究
-INDEPENDENT STUDIES IN CORPORATE MANAGEMENT",3,期,True,50,0,24,26,"李澄賢,謝慧賢,陳旻男",,"['', '', '', '', '', '', '']","《講授類》
+INDEPENDENT STUDIES IN CORPORATE MANAGEMENT",3,期,True,50,0,24,26,"李澄賢,謝慧賢,陳旻男","五1,B,5(管CM 3044)","['', '', '', '', '1B5', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM544&Crsname=書報討論,異動,更換教室1/6,False,人管碩,HRM544,1,不分班,"書報討論
-SEMINAR IN HUMAN RESOURCE MANAGEMENT",3,期,False,50,0,6,44,王豫萱,,"['', '', '', '', '', '', '']",《研討類》,[],False
+SEMINAR IN HUMAN RESOURCE MANAGEMENT",3,期,False,50,0,6,44,王豫萱,"四2,3,4(管CM 4091)","['', '', '', '234', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM561&Crsname=質化研究方法,異動,調整名額1/15,False,人管碩,HRM561,0,不分班,"質化研究方法
-QUALITATIVE RESEARCH METHODS",3,期,False,30,0,12,18,何佳澔,,"['', '', '', '', '', '', '']","《講授類》
+QUALITATIVE RESEARCH METHODS",3,期,False,30,0,12,18,何佳澔,"四8,6,7(管CM 1036)","['', '', '', '678', '', '', '']","《講授類》
 限人管所碩、博士班學生選修",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=HRM565&Crsname=研發管理,異動,調整名額1/15,False,人管碩,HRM565,0,不分班,"研發管理
 R&D MANAGEMENT",3,期,False,30,0,19,11,陳旻男,"三5,6,7(管CM 1036)","['', '', '567', '', '', '', '']","《講授類》
@@ -4569,7 +4569,7 @@ DIGITAL MARKETING",3,期,False,50,1,23,27,李雅靖,"三2,3,4(管CM 2037)","['',
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ICM526&Crsname=行銷傳播策略,,,False,行銷傳播碩,ICM526,0,不分班,"行銷傳播策略
 MARKETING COMMUNICATIONS STRATEGY",3,期,False,50,0,19,31,鄭安授,"二C,D,E(管CM 2032)","['', 'CDE', '', '', '', '', '']",《講授類》,"['地方創生與永續發展整合學程', '地方創生與區域治理微學程', '行銷管理學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ICM534&Crsname=消費者心理與行為學,,,False,行銷傳播碩,ICM534,0,不分班,"消費者心理與行為學
-CONSUMER PSYCHOLOGY AND BEHAVIOR",3,期,False,50,1,32,18,周軒逸,"五8,6,7(管CM 2032)","['', '', '', '', '678', '', '']",《講授類》,['行銷管理學程'],False
+CONSUMER PSYCHOLOGY AND BEHAVIOR",3,期,False,50,1,31,19,周軒逸,"五8,6,7(管CM 2032)","['', '', '', '', '678', '', '']",《講授類》,['行銷管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ICM539&Crsname=策略寫作,,,False,行銷傳播碩,ICM539,0,不分班,"策略寫作
 STRATEGIC WRITING",3,期,False,50,1,7,43,鄭安授,"四8,6,7(管CM 2032)","['', '', '', '678', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ICM551&Crsname=服務業行銷,,,False,行銷傳播碩,ICM551,0,不分班,"服務業行銷
@@ -6363,45 +6363,45 @@ ORGANIC SEMICONDUCTOR MATERIALS",3,期,False,50,0,18,32,王映樵,"一2,3,4(工M
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES594&Crsname=工程英文寫作,,,False,材光碩,MOES594,0,,"工程英文寫作
 ENGLISH TECHNICAL WRITING",3,期,False,50,0,10,40,邱政維,"一5,6,7(工MS 2004)","['567', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES596&Crsname=統計熱力學,,,False,材光碩,MOES596,0,,"統計熱力學
-STATISTICAL THERMODYNAMICS",3,期,False,50,0,4,46,林仕鑫,,"['', '', '', '', '', '', '']",《講授類》,[],True
+STATISTICAL THERMODYNAMICS",3,期,False,50,0,4,46,林仕鑫,"二2,3,4(工MS 2001)","['', '234', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES597&Crsname=生物與仿生材料,異動,確認教師2/3,False,材光碩,MOES597,0,,"生物與仿生材料
-BIOLOGICAL AND BIO-INSPIRED MATERIALS",3,期,False,21,0,4,17,張尹,,"['', '', '', '', '', '', '']",《講授類》,[],False
+BIOLOGICAL AND BIO-INSPIRED MATERIALS",3,期,False,21,0,4,17,張尹,"一5,6,7(國IL PC05)","['567', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES671&Crsname=進階材料模擬設計,,,False,材光碩,MOES671,0,,"進階材料模擬設計
-ADVANCED AB INITIO MATERIALS DESIGN",3,期,False,50,0,3,47,呂德,,"['', '', '', '', '', '', '']",《講授類》,[],True
+ADVANCED AB INITIO MATERIALS DESIGN",3,期,False,50,0,3,47,呂德,"四5,6(工MS 2004) 五5(工MS 2004)","['', '', '', '56', '5', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS503&Crsname=資訊科技研究,,,True,資管碩,MIS503,1,,"資訊科技研究
-SPECIAL ISSUES IN INFORMATION TECHNOLOGY",3,期,True,50,1,44,6,韓毅,,"['', '', '', '', '', '', '']",《講授類》,['巨量資料分析學程'],False
+SPECIAL ISSUES IN INFORMATION TECHNOLOGY",3,期,True,50,1,44,6,韓毅,"一8,6,7(管CM 4078)","['678', '', '', '', '', '', '']",《講授類》,['巨量資料分析學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS513&Crsname=計算機網路,,,False,資管碩,MIS513,0,,"計算機網路
-COMPUTER NETWORKS",3,期,False,50,0,57,-7,林耕霈,,"['', '', '', '', '', '', '']",《講授類》,"['軟體工程學程', '永續能源學程']",True
+COMPUTER NETWORKS",3,期,False,50,0,57,-7,林耕霈,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']",《講授類》,"['軟體工程學程', '永續能源學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS513&Crsname=計算機網路,,,False,資管碩,MIS513,0,,"計算機網路
-COMPUTER NETWORKS",3,期,False,50,0,57,-7,林耕霈,,"['', '', '', '', '', '', '']",《講授類》,"['軟體工程學程', '永續能源學程']",True
+COMPUTER NETWORKS",3,期,False,50,0,57,-7,林耕霈,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']",《講授類》,"['軟體工程學程', '永續能源學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS514&Crsname=生產與作業管理,,,False,資管碩,MIS514,0,,"生產與作業管理
-PRODUCTION/OPERATION MANAGEMENT",3,期,False,50,0,6,44,劉賓陽,,"['', '', '', '', '', '', '']",《講授類》,[],False
+PRODUCTION/OPERATION MANAGEMENT",3,期,False,50,0,6,44,劉賓陽,"二2,3,4(管CM 2016)","['', '234', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS514&Crsname=生產與作業管理,,,False,資管碩,MIS514,0,,"生產與作業管理
-PRODUCTION/OPERATION MANAGEMENT",3,期,False,50,0,6,44,劉賓陽,,"['', '', '', '', '', '', '']",《講授類》,[],False
+PRODUCTION/OPERATION MANAGEMENT",3,期,False,50,0,6,44,劉賓陽,"二2,3,4(管CM 2016)","['', '234', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,,,False,資管碩,MIS535,0,,"服務品質管理
-SERVICE QUALITY MANAGEMENT",3,期,False,50,0,7,43,劉賓陽,,"['', '', '', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
+SERVICE QUALITY MANAGEMENT",3,期,False,50,0,7,43,劉賓陽,"三D,E,F(管CM 2016)","['', '', 'DEF', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,,,False,資管碩,MIS535,0,,"服務品質管理
-SERVICE QUALITY MANAGEMENT",3,期,False,50,0,7,43,劉賓陽,,"['', '', '', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
+SERVICE QUALITY MANAGEMENT",3,期,False,50,0,7,43,劉賓陽,"三D,E,F(管CM 2016)","['', '', 'DEF', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS535&Crsname=服務品質管理,,,False,資管碩,MIS535,0,,"服務品質管理
-SERVICE QUALITY MANAGEMENT",3,期,False,50,0,7,43,劉賓陽,,"['', '', '', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
+SERVICE QUALITY MANAGEMENT",3,期,False,50,0,7,43,劉賓陽,"三D,E,F(管CM 2016)","['', '', 'DEF', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS537&Crsname=專案管理,,,False,資管碩,MIS537,0,,"專案管理
-PROJECT MANAGEMENT",3,期,False,50,3,44,6,李捷,,"['', '', '', '', '', '', '']",《講授類》,['非營利事業及社會創新微學程'],True
+PROJECT MANAGEMENT",3,期,False,50,3,44,6,李捷,"四C,D,E(管CM 4069)","['', '', '', 'CDE', '', '', '']",《講授類》,['非營利事業及社會創新微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS537&Crsname=專案管理,,,False,資管碩,MIS537,0,,"專案管理
-PROJECT MANAGEMENT",3,期,False,50,3,44,6,李捷,,"['', '', '', '', '', '', '']",《講授類》,['非營利事業及社會創新微學程'],True
+PROJECT MANAGEMENT",3,期,False,50,3,44,6,李捷,"四C,D,E(管CM 4069)","['', '', '', 'CDE', '', '', '']",《講授類》,['非營利事業及社會創新微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS537&Crsname=專案管理,,,False,資管碩,MIS537,0,,"專案管理
-PROJECT MANAGEMENT",3,期,False,50,3,44,6,李捷,,"['', '', '', '', '', '', '']",《講授類》,['非營利事業及社會創新微學程'],True
+PROJECT MANAGEMENT",3,期,False,50,3,44,6,李捷,"四C,D,E(管CM 4069)","['', '', '', 'CDE', '', '', '']",《講授類》,['非營利事業及社會創新微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS537&Crsname=專案管理,,,False,資管碩,MIS537,0,,"專案管理
-PROJECT MANAGEMENT",3,期,False,50,3,44,6,李捷,,"['', '', '', '', '', '', '']",《講授類》,['非營利事業及社會創新微學程'],True
+PROJECT MANAGEMENT",3,期,False,50,3,44,6,李捷,"四C,D,E(管CM 4069)","['', '', '', 'CDE', '', '', '']",《講授類》,['非營利事業及社會創新微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS537&Crsname=專案管理,,,False,資管碩,MIS537,0,,"專案管理
-PROJECT MANAGEMENT",3,期,False,50,3,44,6,李捷,,"['', '', '', '', '', '', '']",《講授類》,['非營利事業及社會創新微學程'],True
+PROJECT MANAGEMENT",3,期,False,50,3,44,6,李捷,"四C,D,E(管CM 4069)","['', '', '', 'CDE', '', '', '']",《講授類》,['非營利事業及社會創新微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS538&Crsname=網路安全,異動,更換教室1/12,False,資管碩,MIS538,0,,"網路安全
-NETWORK SECURITY",3,期,False,50,1,9,41,陳嘉玫,,"['', '', '', '', '', '', '']",《講授類》,"['金融科技學程', '無人載具學程', '永續能源學程', '資通安全學程']",False
+NETWORK SECURITY",3,期,False,50,1,9,41,陳嘉玫,"六2,3,4(管CM 2023)","['', '', '', '', '', '234', '']",《講授類》,"['金融科技學程', '無人載具學程', '永續能源學程', '資通安全學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS538&Crsname=網路安全,異動,更換教室1/12,False,資管碩,MIS538,0,,"網路安全
-NETWORK SECURITY",3,期,False,50,1,9,41,陳嘉玫,,"['', '', '', '', '', '', '']",《講授類》,"['金融科技學程', '無人載具學程', '永續能源學程', '資通安全學程']",False
+NETWORK SECURITY",3,期,False,50,1,9,41,陳嘉玫,"六2,3,4(管CM 2023)","['', '', '', '', '', '234', '']",《講授類》,"['金融科技學程', '無人載具學程', '永續能源學程', '資通安全學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS545&Crsname=資料探勘與知識發現,,,False,資管碩,MIS545,0,,"資料探勘與知識發現
-DATA MINING AND KNOWLEDGE DISCOVERY",3,期,False,50,1,14,36,李偉柏,,"['', '', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
+DATA MINING AND KNOWLEDGE DISCOVERY",3,期,False,50,1,14,36,李偉柏,"四8,6,7(管CM 2025)","['', '', '', '678', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS545&Crsname=資料探勘與知識發現,,,False,資管碩,MIS545,0,,"資料探勘與知識發現
-DATA MINING AND KNOWLEDGE DISCOVERY",3,期,False,50,1,14,36,李偉柏,,"['', '', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
+DATA MINING AND KNOWLEDGE DISCOVERY",3,期,False,50,1,14,36,李偉柏,"四8,6,7(管CM 2025)","['', '', '', '678', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS567&Crsname=資訊科技策略,,,False,資管碩,MIS567,0,,"資訊科技策略
 INFORMATION TECHNOLOGY STRATEGY",3,期,False,50,1,9,41,吳仁和,"一C,D,E(管CM 4078)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS567&Crsname=資訊科技策略,,,False,資管碩,MIS567,0,,"資訊科技策略
