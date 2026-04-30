@@ -1,16 +1,16 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES334&Crsname=材料與光電專題研究（二）,,,False,材光系,MOES334,3,不分班,"材料與光電專題研究（二）
-RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(II)",1,期,False,60,2,32,28,蔣酉旺,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']",《獨立研究》,[],True
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(II)",1,期,False,60,2,32,28,蔣酉旺,,"['', '', '', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES440&Crsname=材料與光電專題研究（四）,異動,更換時間1/29,False,材光系,MOES440,4,不分班,"材料與光電專題研究（四）
-RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(VI)",1,期,False,50,0,9,41,蔣酉旺,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']",《獨立研究》,[],True
+RESEARCH PROJECT MATERIALS AND OPTOELECTRONIC(VI)",1,期,False,50,0,9,41,蔣酉旺,,"['', '', '', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES452&Crsname=專題討論,,,False,材光系,MOES452,3,不分班,"專題討論
-SEMINAR",2,期,True,50,0,43,7,陳致光,二6(工MS 4019),"['', '6', '', '', '', '', '']",《研討類》,[],True
+SEMINAR",2,期,True,50,0,43,7,陳致光,,"['', '', '', '', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES452A&Crsname=專題討論,,,False,材光系,MOES452A,3,全英班,"專題討論
-SEMINAR",2,期,True,50,0,28,22,陳致光,二6(工MS 4019),"['', '6', '', '', '', '', '']",《研討類》,[],True
+SEMINAR",2,期,True,50,0,28,22,陳致光,,"['', '', '', '', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES454&Crsname=進階固態物理,,,False,材光系,MOES454,3,不分班,"進階固態物理
-ADVANCED SOLID STATE PHYSICS",3,期,False,50,0,49,1,李廣輝,"五2(工MS 4022 ) 五3,4(工MS 4022)","['', '', '', '', '234', '', '']",《講授類》,[],False
+ADVANCED SOLID STATE PHYSICS",3,期,False,50,0,49,1,李廣輝,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES456&Crsname=材料顯微分析實驗,,,False,材光系,MOES456,4,不分班,"材料顯微分析實驗
-EXPERIMENTS OF MATERIAL MICROANALYSIS",2,期,False,30,0,11,19,"張六文,李廣輝,王致傑,蔣酉旺,邱政維,郭哲男,郭紹偉","一2,3,4,B(工 MS 4023)(實驗)","['234B', '', '', '', '', '', '']",《實驗類》,[],False
+EXPERIMENTS OF MATERIAL MICROANALYSIS",2,期,False,30,0,11,19,"張六文,李廣輝,王致傑,蔣酉旺,邱政維,郭哲男,郭紹偉",,"['', '', '', '', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE1005&Crsname=數位電子學,,,False,資工全英班,CSE1005,1,全英班,"數位電子學
 DIGITAL ELECTRONICS",3,期,True,50,0,39,11,郭可驥,"二5,6,7(工EC 1006)","['', '567', '', '', '', '', '']",《講授類》,"['矽光子暨半導體學程', '類比射頻IC設計學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE2002&Crsname=資料結構,,,False,資工全英班,CSE2002,1,全英班,"資料結構
