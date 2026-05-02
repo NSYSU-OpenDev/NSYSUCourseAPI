@@ -1,45 +1,45 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR228&Crsname=海洋污染概論,,,False,海資系,MBR228,4,全英班,"海洋污染概論
-INTRODUCTION TO MARINE POLLUTION",2,期,False,50,1,31,19,楊宗勳,,"['', '', '', '', '', '', '']",《講授類》,"['看見臺灣海岸微學程', '智慧港埠微學程', '海洋生物資源開發學程', '擁海學程']",False
+INTRODUCTION TO MARINE POLLUTION",2,期,False,50,1,31,19,楊宗勳,"三6,7(海MB 2015)","['', '', '67', '', '', '', '']",《講授類》,"['看見臺灣海岸微學程', '智慧港埠微學程', '海洋生物資源開發學程', '擁海學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR232&Crsname=病毒學,,,False,海資系,MBR232,2,全英班,"病毒學
-VIROLOGY",2,期,False,50,0,9,41,李景欽,,"['', '', '', '', '', '', '']",《講授類》,[],False
+VIROLOGY",2,期,False,50,0,9,41,李景欽,"五3,4(海MB 2015)","['', '', '', '', '34', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR235&Crsname=海洋生物探究與導覽實作,,,False,海資系,MBR235,2,全英班,"海洋生物探究與導覽實作
-MARINE ORGANISM (MUSEUM) – INQUIRY AND TOUR WORKSHOP",2,期,False,10,6,15,-5,水晶,,"['', '', '', '', '', '', '']","《講授類》
+MARINE ORGANISM (MUSEUM) – INQUIRY AND TOUR WORKSHOP",2,期,False,10,6,15,-5,水晶,,"['12345678', '123456789', '1234567', '1234B', '', '', '56789']","《講授類》
 限修畢海洋科學學院核心必修課程「海洋基礎科學」或「海洋應用科學」之學生選修。課程於學期末住宿於海生館並密集授課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR236&Crsname=古生物學,,,False,海資系,MBR236,2,全英班,"古生物學
-PALEONTOLOGY",2,期,False,50,0,18,32,李世緯,,"['', '', '', '', '', '', '']",《講授類》,[],False
+PALEONTOLOGY",2,期,False,50,0,18,32,李世緯,"四6,7(海MB 1009)","['', '', '', '67', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR239&Crsname=科學英語寫作及簡報,,,False,海資系,MBR239,2,全英班,"科學英語寫作及簡報
-SCIENTIFIC COMMUNICATION IN ENGLISH: WRITING AND PRESENTATIONS",2,期,False,50,0,24,26,水晶,,"['', '', '', '', '', '', '']",《講授類》,[],True
+SCIENTIFIC COMMUNICATION IN ENGLISH: WRITING AND PRESENTATIONS",2,期,False,50,0,24,26,水晶,"二6,7(海MB 2020)","['', '67', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR303&Crsname=水產養殖及傳染病概論,,,False,海資系,MBR303,3,全英班,"水產養殖及傳染病概論
-INTRODUCTION TO AQUACULTURE AND INFECTIOUS DISEASES",3,期,False,50,0,25,25,王亮鈞,,"['', '', '', '', '', '', '']",《講授類》,['海洋微生物及應用推廣微學程'],False
+INTRODUCTION TO AQUACULTURE AND INFECTIOUS DISEASES",3,期,False,50,0,25,25,王亮鈞,"五5,6,7(海MB 2002)","['', '', '', '', '567', '', '']",《講授類》,['海洋微生物及應用推廣微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR307&Crsname=生物化學（二）,,,False,海資系,MBR307,2,全英班,"生物化學（二）
-BIOCHEMISTRY(II)",3,期,True,50,0,37,13,"廖志中,廖睿妘,李益銘",,"['', '', '', '', '', '', '']","《講授類》
+BIOCHEMISTRY(II)",3,期,True,50,0,37,13,"廖志中,廖睿妘,李益銘",,"['', '', '234X', '', '', '', '']","《講授類》
 混成課程。",['天然藥物合成學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR316&Crsname=海洋生態學,異動,更換主授教師1/27,False,海資系,MBR316,3,全英班,"海洋生態學
-MARINE ECOLOGY",2,期,False,50,0,12,38,"劉商隱,林秀瑾",,"['', '', '', '', '', '', '']",《講授類》,"['海洋生物資源與實務應用微學程', '環境科技與管理學程', '生物多樣性學程']",False
+MARINE ECOLOGY",2,期,False,50,0,12,38,"劉商隱,林秀瑾","三3,4(海MB 2015)","['', '', '34', '', '', '', '']",《講授類》,"['海洋生物資源與實務應用微學程', '環境科技與管理學程', '生物多樣性學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR319&Crsname=海洋無脊椎動物學（二）,,,False,海資系,MBR319,2,全英班,"海洋無脊椎動物學（二）
-MARINE INVERTEBRATE ZOOLOGY(II)",2,期,False,50,0,17,33,劉商隱,,"['', '', '', '', '', '', '']",《講授類》,"['環境教育學程', '海洋生物資源與實務應用微學程', '擁海學程', '生物多樣性學程', '海洋生產模式整合學程', '海洋循環經濟學程', '熱帶海洋微學程']",False
+MARINE INVERTEBRATE ZOOLOGY(II)",2,期,False,50,0,17,33,劉商隱,"五8,7(海MB 2020)","['', '', '', '', '78', '', '']",《講授類》,"['環境教育學程', '海洋生物資源與實務應用微學程', '擁海學程', '生物多樣性學程', '海洋生產模式整合學程', '海洋循環經濟學程', '熱帶海洋微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR322&Crsname=海洋醣蛋白的功能與應用,,,False,海資系,MBR322,3,全英班,"海洋醣蛋白的功能與應用
-FUNCTION AND APPLICATION OF MARINE GLYCOL-PROTEIN",2,期,False,50,0,19,31,李益銘,,"['', '', '', '', '', '', '']",《講授類》,[],True
+FUNCTION AND APPLICATION OF MARINE GLYCOL-PROTEIN",2,期,False,50,0,19,31,李益銘,"四3,4(海MB 1009)","['', '', '', '34', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR350&Crsname=分子生物學,,,False,海資系,MBR350,3,全英班,"分子生物學
-MOLECULAR BIOLOGY",3,期,True,50,1,35,15,李澤民,,"['', '', '', '', '', '', '']",《講授類》,"['海洋生物資源開發學程', '生物技術學程']",True
+MOLECULAR BIOLOGY",3,期,True,50,1,35,15,李澤民,"二2,3,4(海MB 2020)","['', '234', '', '', '', '', '']",《講授類》,"['海洋生物資源開發學程', '生物技術學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR362&Crsname=專題研究（二）,異動,確認教師2/11,False,海資系,MBR362,3,全英班,"專題研究（二）
-INDEPENDENT STUDIES IN MARINE RESOURCES（II）",1,期,False,50,0,20,30,"廖志中,廖睿妘,張桂祥,張鈞涵,李益銘,林梅芳,林秀瑾,翁靖如,鄭源斌",,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN MARINE RESOURCES（II）",1,期,False,50,0,20,30,"廖志中,廖睿妘,張桂祥,張鈞涵,李益銘,林梅芳,林秀瑾,翁靖如,鄭源斌",三1(),"['', '', '1', '', '', '', '']","《獨立研究》
 修課規定已公告於本系網頁(課程資訊>大學部>【課程公告】114-2大三「專題研究（二）］修課說明)，未依規定者不得修課。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR364&Crsname=天然物分離實驗,,,False,海資系,MBR364,3,全英班,"天然物分離實驗
-EXPERIMENT ON NATURAL PRODUCT SEPARATION",1,期,False,50,0,4,46,鄭源斌,,"['', '', '', '', '', '', '']",《實驗類》,[],False
+EXPERIMENT ON NATURAL PRODUCT SEPARATION",1,期,False,50,0,4,46,鄭源斌,"四8,9(海MB 2012)(實驗)","['', '', '', '89', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR402&Crsname=海洋資源專題研討（二）,,,False,海資系,MBR402,4,全英班,"海洋資源專題研討（二）
-SEMINAR IN MARINE RESOURCES",2,期,True,50,0,29,21,"李益銘,水晶",,"['', '', '', '', '', '', '']",《研討類》,[],True
+SEMINAR IN MARINE RESOURCES",2,期,True,50,0,29,21,"李益銘,水晶","四6,7(海MB 2015)","['', '', '', '67', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR426&Crsname=藻類養殖及生質能應用技術,,,False,海資系,MBR426,4,全英班,"藻類養殖及生質能應用技術
-ALGAL CULTURE AND BIO-ENERGY APPLICATION TECHNOLOGY",2,期,False,50,0,39,11,李澤民,,"['', '', '', '', '', '', '']",《講授類》,['海洋生物資源開發學程'],False
+ALGAL CULTURE AND BIO-ENERGY APPLICATION TECHNOLOGY",2,期,False,50,0,39,11,李澤民,"四3,4(海MB 2015)","['', '', '', '34', '', '', '']",《講授類》,['海洋生物資源開發學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR435&Crsname=海洋光合作用,,,False,海資系,MBR435,1,全英班,"海洋光合作用
-PHOTOSYNTHESIS IN THE SEA",2,期,False,50,0,43,7,廖睿妘,,"['', '', '', '', '', '', '']",《講授類》,[],False
+PHOTOSYNTHESIS IN THE SEA",2,期,False,50,0,43,7,廖睿妘,"五3,4(海MB 2020)","['', '', '', '', '34', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR437&Crsname=老化疾病與海洋天然物,,,False,海資系,MBR437,4,全英班,"老化疾病與海洋天然物
-AGING DISEASES AND MARINE NATURAL PRODUCTS",2,期,False,50,0,22,28,張鈞涵,,"['', '', '', '', '', '', '']",《講授類》,[],False
+AGING DISEASES AND MARINE NATURAL PRODUCTS",2,期,False,50,0,22,28,張鈞涵,"一3,4(海MB 1009)","['34', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV102&Crsname=微積分（二）,,,False,海工系,MAEV102,1,全英班,"微積分（二）
-CALCULUS(II)",3,期,True,50,0,47,3,余冠儒,,"['', '', '', '', '', '', '']",《講授類》,['人工智慧與數學學程'],True
+CALCULUS(II)",3,期,True,50,0,47,3,余冠儒,"五2,3,4(理SC 1005)","['', '', '', '', '234', '', '']",《講授類》,['人工智慧與數學學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV107&Crsname=工程圖學,,,False,海工系,MAEV107,2,全英班,"工程圖學
-ENGINEERING GRAPHICS",2,期,False,50,0,29,21,詹鵬台,,"['', '', '', '', '', '', '']",《講授類》,['南星產業樞紐學程'],True
+ENGINEERING GRAPHICS",2,期,False,50,0,29,21,詹鵬台,"三6,7(海ME 2007)","['', '', '67', '', '', '', '']",《講授類》,['南星產業樞紐學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV204&Crsname=工程數學（二）,,,False,海工系,MAEV204,2,全英班,"工程數學（二）
-ENGINEERING MATHEMATICS(II)",3,期,True,60,0,40,20,歐雅森,,"['', '', '', '', '', '', '']","《講授類》
+ENGINEERING MATHEMATICS(II)",3,期,True,60,0,40,20,歐雅森,"三2,3,4(海ME 2003)","['', '', '234', '', '', '', '']","《講授類》
 限微積分（⼀）及微積分（⼆）50 分(D) （含）以上修習， 若未符合上述規定者，請洽授課老師後於異常處理階段加選。",[],True
