@@ -1045,7 +1045,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI140
 ECONOMICS PRACITCE(II)",1,期,False,10,0,4,6,彭聖翔,"五3,4(管CM 0052)(實驗)","['', '', '', '', '34', '', '']","《實習類》
 限非政經系學生修習。跨院通識與企管系BM108A課程併班上課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1416&Crsname=財務管理,,,False,跨院選修(管),GEAI1416,0,不分班,"財務管理
-FINANCIAL MANAGEMENT",3,期,True,34,2,31,3,陳安琳,"三2,3,4(管CM 4112)","['', '', '234', '', '', '', '']","《講授類》
+FINANCIAL MANAGEMENT",3,期,True,34,2,30,4,陳安琳,"三2,3,4(管CM 4112)","['', '', '234', '', '', '', '']","《講授類》
 跨院通識與企管系BM301課程併班上課","['財務管理專業學程', '金融工程學程', '會計學程', '科技創新與服務業管理學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=GEAI1416A&Crsname=財務管理,,,False,跨院選修(管),GEAI1416A,0,不分班,"財務管理
 FINANCIAL MANAGEMENT",3,期,True,34,6,33,1,陳安琳,"三5,6,7(管CM 4112)","['', '', '567', '', '', '', '']","《講授類》
@@ -1762,7 +1762,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=TA451&C
 CREATIVE PERFORMANCE（Ⅲ）",2,期,False,50,0,13,37,楊士平,"三3,4(文FA 2017)","['', '', '34', '', '', '', '']","《展演》
 限修畢進階表演一",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=LIBA122&Crsname=跨文化人文思潮與美學導論,,,False,文學院,LIBA122,0,不分班,"跨文化人文思潮與美學導論
-INTRODUCTION TO CROSS-CULTURAL STUDIES AND AESTHETICS",3,期,False,20,0,18,2,何重誼,"四2,3,4(文LA 1001)","['', '', '', '234', '', '', '']",《講授類》,"['當代策展與藝術行政學程', '跨文化人文思潮與美學微學程', '臺灣閩南語文書寫應用與創作微學程', '與社會交往的表演藝術微學程']",True
+INTRODUCTION TO CROSS-CULTURAL STUDIES AND AESTHETICS",3,期,False,20,0,17,3,何重誼,"四2,3,4(文LA 1001)","['', '', '', '234', '', '', '']",《講授類》,"['當代策展與藝術行政學程', '跨文化人文思潮與美學微學程', '臺灣閩南語文書寫應用與創作微學程', '與社會交往的表演藝術微學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=LIBA123&Crsname=跨文化人文思潮與美學-課程與教學實作專題,,,False,文學院,LIBA123,0,不分班,"跨文化人文思潮與美學-課程與教學實作專題
 SPECIAL TOPICS IN CROSS-CULTURAL STUDIES AND AESTHETICS",3,期,False,30,0,16,14,"杜思慧,許仁豪,辛翠玲",,"['234567', '234567', '234567', '234567', '234567', '', '']","《講授類》
 本課程為暑假至泰國朱拉隆功大學移地教學，包括參訪、工作坊等，且包含部分自費行程。","['跨文化人文思潮與美學微學程', '與社會交往的表演藝術微學程']",False
@@ -2046,60 +2046,60 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS415
 INTRODUCTION TO ASTRONOMY",3,期,False,45,16,44,1,郭政育,"三2,3,4(理PH 2006)","['', '', '234', '', '', '', '']","《講授類》
 物理系學生優先選課，與跨院選修GEAI1222 課程併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS419&Crsname=論文專題（二）,,,True,物理系,PHYS419,4,全英班,"論文專題（二）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,3,47,陳易馨,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,3,47,陳易馨,"三A,1,B(理PH 6010)","['', '', 'A1B', '', '', '', '']","《獨立研究》
 需先修習論文專題(一)，學生需於學期末繳交畢業論文",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS419A&Crsname=論文專題（二）,,,True,物理系,PHYS419A,4,全英班,"論文專題（二）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,4,46,周雄,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,4,46,周雄,"三A,1,B(理PH 7008)","['', '', 'A1B', '', '', '', '']","《獨立研究》
 需先修習論文專題(一)，學生需於學期末繳交畢業論文",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS419B&Crsname=論文專題（二）,,,True,物理系,PHYS419B,4,全英班,"論文專題（二）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,2,48,邱奎霖,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,2,48,邱奎霖,"三A,1,B(理PH 3007)","['', '', 'A1B', '', '', '', '']","《獨立研究》
 需先修習論文專題(一)，學生需於學期末繳交畢業論文",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS419C&Crsname=論文專題（二）,,,True,物理系,PHYS419C,4,全英班,"論文專題（二）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,2,48,洪昇廷,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,2,48,洪昇廷,"四A,1,B(理PH 6008)","['', '', '', 'A1B', '', '', '']","《獨立研究》
 需先修習論文專題(一)，學生需於學期末繳交畢業論文",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS419D&Crsname=論文專題（二）,,,True,物理系,PHYS419D,4,全英班,"論文專題（二）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,1,49,朱家誼,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,1,49,朱家誼,"三A,1,B(理PH 5006)","['', '', 'A1B', '', '', '', '']","《獨立研究》
 需先修習論文專題(一)，學生需於學期末繳交畢業論文",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS419E&Crsname=論文專題（二）,,,True,物理系,PHYS419E,4,全英班,"論文專題（二）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,1,49,黃旭明,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,1,49,黃旭明,"五C,D,E(理PH 2008)","['', '', '', '', 'CDE', '', '']","《獨立研究》
 需先修習論文專題(一)，學生需於學期末繳交畢業論文",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS419F&Crsname=論文專題（二）,,,True,物理系,PHYS419F,4,全英班,"論文專題（二）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,1,49,張鼎張,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,1,49,張鼎張,"日5,6,7(理PH 7009)","['', '', '', '', '', '', '567']","《獨立研究》
 需先修習論文專題(一)，學生需於學期末繳交畢業論文",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS419G&Crsname=論文專題（二）,,,True,物理系,PHYS419G,4,全英班,"論文專題（二）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,1,49,史丹哲夫,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,1,49,史丹哲夫,"三A,1,B(理PH 3008)","['', '', 'A1B', '', '', '', '']","《獨立研究》
 需先修習論文專題(一)，學生需於學期末繳交畢業論文",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS419H&Crsname=論文專題（二）,,,True,物理系,PHYS419H,4,全英班,"論文專題（二）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,2,48,郭建成,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,2,48,郭建成,"四A,1,B(理PH 2009)","['', '', '', 'A1B', '', '', '']","《獨立研究》
 需先修習論文專題(一)，學生需於學期末繳交畢業論文",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS419I&Crsname=論文專題（二）,,,True,物理系,PHYS419I,4,全英班,"論文專題（二）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,1,49,呂浩宇,,"['', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SPECIAL TOPICS (II)",3,期,True,50,0,1,49,呂浩宇,"三A,1,B(理SC 2006-3)","['', '', 'A1B', '', '', '', '']","《獨立研究》
 需先修習論文專題(一)，學生需於學期末繳交畢業論文",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH102&Crsname=微積分（二）,,,False,應數系,MATH102,1,不分班,"微積分（二）
-CALCULUS (II)",4,期,True,50,0,55,-5,黃毅青,,"['', '', '', '', '', '', '']",《講授類》,"['應用數學學程', '人工智慧與數學學程']",False
+CALCULUS (II)",4,期,True,50,0,55,-5,黃毅青,"一2,3(理SC 3001) 四2,3(理SC 3001)","['23', '', '', '23', '', '', '']",《講授類》,"['應用數學學程', '人工智慧與數學學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH102A&Crsname=微積分（二）,,,False,應數系,MATH102A,1,全英班,"微積分（二）
-CALCULUS (II)",4,期,True,50,0,36,14,陳志漢,,"['', '', '', '', '', '', '']",《講授類》,"['應用數學學程', '人工智慧與數學學程']",True
+CALCULUS (II)",4,期,True,50,0,36,14,陳志漢,"一2,3(理SC 0014) 四2,3(理SC 0014)","['23', '', '', '23', '', '', '']",《講授類》,"['應用數學學程', '人工智慧與數學學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH104&Crsname=線性代數（二）,,,False,應數系,MATH104,1,不分班,"線性代數（二）
-LINEAR ALGEBRA (II)",3,期,True,50,0,35,15,翁鵬絜,,"['', '', '', '', '', '', '']","《講授類》
+LINEAR ALGEBRA (II)",3,期,True,50,0,35,15,翁鵬絜,"三6,7(理SC 3001) 四5(理SC 3001)","['', '', '67', '5', '', '', '']","《講授類》
 限線性代數(一) 學期總成績至少D等第學生選修。演習課上課時間：星期四第B節(理SC 3001)","['應用數學學程', '金融工程學程', '人工智慧與數學學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH104A&Crsname=線性代數（二）,,,False,應數系,MATH104A,1,全英班,"線性代數（二）
-LINEAR ALGEBRA (II)",3,期,True,50,0,21,29,王以晟,,"['', '', '', '', '', '', '']",《講授類》,"['應用數學學程', '金融工程學程', '人工智慧與數學學程']",True
+LINEAR ALGEBRA (II)",3,期,True,50,0,21,29,王以晟,"一4,B,5(理SC 0014)","['4B5', '', '', '', '', '', '']",《講授類》,"['應用數學學程', '金融工程學程', '人工智慧與數學學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH106&Crsname=計算機程式,,,False,應數系,MATH106,1,不分班,"計算機程式
-COMPUTER PROGRAMMING",3,期,True,50,0,30,20,李宗錂,,"['', '', '', '', '', '', '']","《講授類》
+COMPUTER PROGRAMMING",3,期,True,50,0,30,20,李宗錂,"一8,6,7(理SC 2004)","['678', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限本系、輔系、雙主修本系學生及修習軟體工程學生選修。","['計算物理及人工智慧微學程', '人工智慧探索應用學分學程', '金融工程學程', '軟體工程學程', '人工智慧與數學學程', '自然科學之程式應用學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH106A&Crsname=計算機程式,,,False,應數系,MATH106A,1,全英班,"計算機程式
-COMPUTER PROGRAMMING",3,期,True,50,0,21,29,黃杰森,,"['', '', '', '', '', '', '']","《講授類》
+COMPUTER PROGRAMMING",3,期,True,50,0,21,29,黃杰森,"三3,4(理SC 2004) 五3(理SC 2004)","['', '', '34', '', '3', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限本系、輔系、雙主修本系學生及修習軟體工程學生選修。演習課上課時間：星期五第4,B節(理SC 2004)","['計算物理及人工智慧微學程', '人工智慧探索應用學分學程', '金融工程學程', '軟體工程學程', '人工智慧與數學學程', '自然科學之程式應用學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH108&Crsname=數學導論（二）,,,False,應數系,MATH108,1,不分班,"數學導論（二）
-INTRODUCTION TO MATHEMATICS (II)",3,期,False,50,0,38,12,許柏翰,,"['', '', '', '', '', '', '']",《講授類》,['應用數學學程'],False
+INTRODUCTION TO MATHEMATICS (II)",3,期,False,50,0,38,12,許柏翰,"三5(理SC 3001) 五6,7(理SC 3001)","['', '', '5', '', '67', '', '']",《講授類》,['應用數學學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH202&Crsname=高等微積分（二）,異動,更換部份時間1/8,False,應數系,MATH202,2,不分班,"高等微積分（二）
-ADVANCED CALCULUS (II)",4,期,True,50,0,27,23,陳志偉,,"['', '', '', '', '', '', '']","《講授類》
+ADVANCED CALCULUS (II)",4,期,True,50,0,27,23,陳志偉,"三2,3(理SC 3001) 五3,4(理SC 3001)","['', '', '23', '', '34', '', '']","《講授類》
 選修過微積分(上)(下)或微積分(一)(二)，及高等微積分(一)者才可選修。",['應用數學學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH202A&Crsname=高等微積分（二）,,,False,應數系,MATH202A,2,全英班,"高等微積分（二）
-ADVANCED CALCULUS (II)",4,期,True,50,0,29,21,許柏翰,,"['', '', '', '', '', '', '']","《講授類》
+ADVANCED CALCULUS (II)",4,期,True,50,0,29,21,許柏翰,"三2,3(理SC 0014) 五2,3(理SC 0014)","['', '', '23', '', '23', '', '']","《講授類》
 選修過微積分(上)(下)或微積分(一)(二)，及高等微積分(一)者才可選修。",['應用數學學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH204&Crsname=微分方程（一）,,,False,應數系,MATH204,2,不分班,"微分方程（一）
-DIFFERENTIAL EQUATIONS (I)",3,期,True,50,0,22,28,黃毅青,,"['', '', '', '', '', '', '']",《講授類》,"['應用數學學程', '金融工程學程']",False
+DIFFERENTIAL EQUATIONS (I)",3,期,True,50,0,22,28,黃毅青,"一6(理SC 3001) 二6,7(理SC 3001)","['6', '67', '', '', '', '', '']",《講授類》,"['應用數學學程', '金融工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH204A&Crsname=微分方程（一）,,,False,應數系,MATH204A,2,全英班,"微分方程（一）
 DIFFERENTIAL EQUATIONS (I)",3,期,True,50,0,28,22,陳志漢,"二8,5,7(理SC 0008)","['', '578', '', '', '', '', '']",《講授類》,"['應用數學學程', '金融工程學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH206&Crsname=統計學（一）,,,False,應數系,MATH206,2,不分班,"統計學（一）
@@ -2699,7 +2699,7 @@ ACCOUNTING INFORMATION SYSTEMS",3,期,False,50,0,18,32,葉貞吟,"三5,6,7(管CM
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM364&Crsname=國際企業實務,,,False,企管系,BM364,3,不分班,"國際企業實務
 INTERNATIONAL BUSINESS PRACTICES",3,期,False,50,12,54,-4,蔡宗霖,"三5,6,7(管CM 3015)","['', '', '567', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM408&Crsname=行銷個案,,,False,企管系,BM408,4,不分班,"行銷個案
-CASE STUDIES IN MARKETING",3,期,False,50,0,20,30,林政佑,"四8,6,7(管CM 1032)","['', '', '', '678', '', '', '']",《講授類》,['行銷管理學程'],False
+CASE STUDIES IN MARKETING",3,期,False,50,0,19,31,林政佑,"四8,6,7(管CM 1032)","['', '', '', '678', '', '', '']",《講授類》,['行銷管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=BM409&Crsname=科技管理導論,異動,更換教室1/20,False,企管系,BM409,4,不分班,"科技管理導論
 INTRODUCTION TO TECHNOLOGY MANAGEMENT",3,期,False,50,1,24,26,"劉常勇,謝如梅","四8,6,7(管CM 3019)","['', '', '', '678', '', '', '']",《講授類》,"['智慧高齡生活微學程', '科技創新與服務業管理學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MIS102&Crsname=程式設計,,,False,資管系,MIS102,1,不分班,"程式設計
@@ -2914,14 +2914,14 @@ CONSTRUCTION MANAGEMENT",3,期,False,50,0,31,19,王世旭,"二8,6,7(海ME 2007)"
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV320&Crsname=水文學,,,False,海工系,MAEV320,2,全英班,"水文學
 HYDROLOGY",3,期,True,50,1,40,10,莊偉良,"四2,3,4(海ME 2003)","['', '', '', '234', '', '', '']",《講授類》,['環境教育學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV324&Crsname=海岸工程學,,,False,海工系,MAEV324,3,不分班,"海岸工程學
-COASTAL ENGINEERING",3,期,True,65,0,55,10,葉博弘,"一8,6,7(海ME 2003)","['678', '', '', '', '', '', '']","《講授類》
+COASTAL ENGINEERING",3,期,True,65,0,54,11,葉博弘,"一8,6,7(海ME 2003)","['678', '', '', '', '', '', '']","《講授類》
 限⼯程數學（⼀）、 ⼯程數學（⼆）及流體⼒學等三科50分(D) (含)以上修習，若未符合上述規定者，請洽授課老師後於異常處理階段加選。","['環境教育學程', '看見臺灣海岸微學程', '南星產業樞紐學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV343&Crsname=結構學,,,False,海工系,MAEV343,2,全英班,"結構學
 STRUCTURE THEORY",3,期,False,50,0,45,5,金尚進,"四5,6,7(海ME 2003)","['', '', '', '567', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV352&Crsname=固體廢棄物處理,,,False,海工系,MAEV352,3,不分班,"固體廢棄物處理
 SOLID WASTE MANAGEMENT",3,期,False,50,0,11,39,卓宴琳,"四8,6,7(海ME 2005)","['', '', '', '678', '', '', '']",《講授類》,"['環境教育學程', '環境科技與管理學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV354&Crsname=給水及排水工程,,,False,海工系,MAEV354,3,不分班,"給水及排水工程
-WATER SUPPLY AND DRAINAGE SYSTEM",3,期,True,50,0,40,10,"林巧雯,鍾秉宸","三5,6,7(海ME 2003)","['', '', '567', '', '', '', '']","《講授類》
+WATER SUPPLY AND DRAINAGE SYSTEM",3,期,True,50,0,39,11,"林巧雯,鍾秉宸","三5,6,7(海ME 2003)","['', '', '567', '', '', '', '']","《講授類》
 限流體力學50分(D)(含)以上及環境工程化學50分(D)(含)以上修習，若未符合上述規定者，請洽授課老師後於異常處理階段加選。","['環境教育學程', '環境科技與管理學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MAEV361&Crsname=機率與統計,,,False,海工系,MAEV361,3,不分班,"機率與統計
 PROBABILITY AND STATISTICS",3,期,False,50,0,18,32,夏沛亞,"三2,3,4(海ME 3004)","['', '', '234', '', '', '', '']",《講授類》,['金融工程學程'],True
@@ -3997,51 +3997,51 @@ DEEP LEARNING THEORY AND APPLICATIONS",3,期,False,50,11,48,2,曾偉智,"二2,3,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME554&Crsname=訊號與系統,,,False,機電碩,MEME554,0,不分班,"訊號與系統
 SIGNALS AND SYSTEMS",3,期,False,50,0,47,3,許煜亮,"一8,6,7(工EC 3001)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME568&Crsname=奈米加工學,,,False,機電碩,MEME568,0,不分班,"奈米加工學
-NANO MACHINING TECHNOLOGY",3,期,False,50,0,50,0,邱源成,,"['', '', '', '', '', '', '']",《講授類》,['半導體設備工程學程'],False
+NANO MACHINING TECHNOLOGY",3,期,False,50,0,50,0,邱源成,"二5,6,7(工EN 0031)","['', '567', '', '', '', '', '']",《講授類》,['半導體設備工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME576&Crsname=材料選擇與設計,,,False,機電碩,MEME576,0,不分班,"材料選擇與設計
-MATERIAL SELECTION AND DESIGN",3,期,False,50,0,6,44,李伯軒,,"['', '', '', '', '', '', '']",《講授類》,['材料結構性質微學程'],False
+MATERIAL SELECTION AND DESIGN",3,期,False,50,0,6,44,李伯軒,"二5,6,7(工MS 4022)","['', '567', '', '', '', '', '']",《講授類》,['材料結構性質微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME578&Crsname=精密機械設計,,,False,機電碩,MEME578,0,不分班,"精密機械設計
-PRECISION MACHINE DESIGN",3,期,False,50,0,13,37,王郁仁,,"['', '', '', '', '', '', '']",《講授類》,[],False
+PRECISION MACHINE DESIGN",3,期,False,50,0,13,37,王郁仁,"二2,3,4(工EN 0031)","['', '234', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME587&Crsname=奈米尺度數值模擬理論介紹,,,False,機電碩,MEME587,0,不分班,"奈米尺度數值模擬理論介紹
-INTRODUCTION TO NUMERICAL SIMULATION METHOD IN NANO-SCALE",3,期,False,50,0,15,35,朱訓鵬,,"['', '', '', '', '', '', '']",《講授類》,[],False
+INTRODUCTION TO NUMERICAL SIMULATION METHOD IN NANO-SCALE",3,期,False,50,0,15,35,朱訓鵬,"一2,3,4(工EN 4055-2)","['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME610&Crsname=奈米科技專題(二),,,False,機電碩,MEME610,0,不分班,"奈米科技專題(二)
-INDEPENDENT STUDIES IN NANOTECHNOLOGY (II)",3,期,False,50,0,6,44,潘正堂,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN NANOTECHNOLOGY (II)",3,期,False,50,0,6,44,潘正堂,"一8,9(工EN 3042-1) 二9(工EN 3042-1)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME6110&Crsname=應用微奈米技術專題（二）,,,False,機電碩,MEME6110,0,不分班,"應用微奈米技術專題（二）
-INDEPENDENT STUDIES IN APPLIED MICRO AND NANO TECHNOLOGY (II)",3,期,False,50,0,3,47,郭清德,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN APPLIED MICRO AND NANO TECHNOLOGY (II)",3,期,False,50,0,3,47,郭清德,"一A(工EN 0036) 二A,1(工EN 0036)","['A', 'A1', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME6112&Crsname=先進複材結構設計專題（二）,,,False,機電碩,MEME6112,0,不分班,"先進複材結構設計專題（二）
-INDEPENDENT STUDIES IN ADVANCED COMPOSITE STRUCTURE DESIGN (II)",3,期,False,50,0,3,47,蔡尚南,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN ADVANCED COMPOSITE STRUCTURE DESIGN (II)",3,期,False,50,0,3,47,蔡尚南,"一9(工EN 3035-2) 二8,9(工EN 3035-2)","['9', '89', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME6115&Crsname=最佳化分析與應用專題,,,False,機電碩,MEME6115,0,不分班,"最佳化分析與應用專題
-INDEPENDENT STUDIES IN OPTIMIZATION ANALYSIS AND APPLICATION",3,期,False,50,0,7,43,汪正祺,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN OPTIMIZATION ANALYSIS AND APPLICATION",3,期,False,50,0,7,43,汪正祺,"一8,9(工EN 3039-1) 二9(工EN 3039-1)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME6117&Crsname=微系統力學設計與分析專題 （二）,,,False,機電碩,MEME6117,0,不分班,"微系統力學設計與分析專題 （二）
-INDEPENDENT STUDIES IN MICROSYSTEM MECHANICAL DESIGN AND ANALYSIS (II)",3,期,False,50,0,3,47,施孟鎧,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN MICROSYSTEM MECHANICAL DESIGN AND ANALYSIS (II)",3,期,False,50,0,3,47,施孟鎧,"一9,C,D(工EN 3040-1)","['9CD', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME6118&Crsname=熱流與能源技術專題（二）,,,False,機電碩,MEME6118,0,不分班,"熱流與能源技術專題（二）
-INDEPENDENT STUDIES IN THERMAL FLUIDS AND ENERGY RESEARCH (II)",3,期,False,50,0,4,46,梁俊德,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN THERMAL FLUIDS AND ENERGY RESEARCH (II)",3,期,False,50,0,4,46,梁俊德,"二8,9,C(工EN 3041)","['', '89C', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME6121&Crsname=虛實整合最佳化設計專題（二）,,,False,機電碩,MEME6121,0,不分班,"虛實整合最佳化設計專題（二）
-INDEPENDENT STUDIES IN CYBER-PHYSICAL OPTIMIZATION (II)",3,期,False,50,0,7,43,盧威廷,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN CYBER-PHYSICAL OPTIMIZATION (II)",3,期,False,50,0,7,43,盧威廷,"一8,9,C(工EN 2025)","['89C', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME6122&Crsname=奈米力學與材料設計專題（二）,,,False,機電碩,MEME6122,0,不分班,"奈米力學與材料設計專題（二）
-INDEPENDENT STUDIES IN MATERIALS DESIGN BY NANOMECHANICS (II)",3,期,False,50,0,7,43,李伯軒,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN MATERIALS DESIGN BY NANOMECHANICS (II)",3,期,False,50,0,7,43,李伯軒,"一8,9(工EN 3037-1) 二9(工EN 3037-1)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME613&Crsname=燃料電池系統專題（二）,,,False,機電碩,MEME613,0,不分班,"燃料電池系統專題（二）
-SPECIAL TOPICS IN FUEL CELL SYSTEMS (II)",3,期,False,50,0,13,37,郭振坤,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+SPECIAL TOPICS IN FUEL CELL SYSTEMS (II)",3,期,False,50,0,13,37,郭振坤,"一8,9(工EN 4079-3) 二8(工EN 4079-3)","['89', '8', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME638&Crsname=高階電子封裝專題（二）,,,False,機電碩,MEME638,0,不分班,"高階電子封裝專題（二）
-SPECIAL TOPICS IN ADVANCED ELECTRONI PACKAGING(II)",3,期,False,50,0,3,47,吳美玲,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+SPECIAL TOPICS IN ADVANCED ELECTRONI PACKAGING(II)",3,期,False,50,0,3,47,吳美玲,"一8,9(工EN 2018) 二9(工EN 2018)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME650&Crsname=類神經網路專題二,異動,更換時間2/3,False,機電碩,MEME650,0,不分班,"類神經網路專題二
-SPECIAL TOPICS IN NEURAL NETWORKS(II)",3,期,False,50,0,10,40,嚴成文,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+SPECIAL TOPICS IN NEURAL NETWORKS(II)",3,期,False,50,0,10,40,嚴成文,一1(工EN 4080-2) 二1(工EN 4080-2) 三1(工EN 4080-2),"['1', '1', '1', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME652&Crsname=遙測影像專題,,,False,機電碩,MEME652,0,不分班,"遙測影像專題
-INDEPENDENT STUDIES IN REMOTE SENSING IMAGING",3,期,False,50,0,4,46,劉耿豪,,"['', '', '', '', '', '', '']",《獨立研究》,['太空科技微學程'],False
+INDEPENDENT STUDIES IN REMOTE SENSING IMAGING",3,期,False,50,0,4,46,劉耿豪,"一8,9(工EN 3040-2) 二9(工EN 3040-2)","['89', '9', '', '', '', '', '']",《獨立研究》,['太空科技微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME654&Crsname=智慧感測專題,,,False,機電碩,MEME654,0,不分班,"智慧感測專題
-INDEPENDENT STUDIES IN INTELLIGENT SENSING",3,期,False,50,0,8,42,許煜亮,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN INTELLIGENT SENSING",3,期,False,50,0,8,42,許煜亮,"一9(工EN 2019-3) 二8,9(工EN 2019-3)","['9', '89', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME674&Crsname=系統化設計專題（二）,,,False,機電碩,MEME674,0,不分班,"系統化設計專題（二）
-SPECIAL TOPICS IN SYSTEMATIC DESIGN (II)",3,期,False,50,0,2,48,楊政融,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+SPECIAL TOPICS IN SYSTEMATIC DESIGN (II)",3,期,False,50,0,2,48,楊政融,"四C,D,E(工EN 3039-2)","['', '', '', 'CDE', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME676&Crsname=機械動態分析專題,,,False,機電碩,MEME676,0,不分班,"機械動態分析專題
-INDEPENDENT STUDIES IN DYNAMIC ANALYSIS OF MACHINES",3,期,False,50,1,2,48,王郁仁,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN DYNAMIC ANALYSIS OF MACHINES",3,期,False,50,1,2,48,王郁仁,"一8,9(工EN 4081) 二9(工EN 4081)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME678&Crsname=薄膜製造專題,,,False,機電碩,MEME678,0,不分班,"薄膜製造專題
-INDEPENDENT STUDIES IN THIN FILM MANUFACTURING",3,期,False,50,0,3,47,胡龍豪,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN THIN FILM MANUFACTURING",3,期,False,50,0,3,47,胡龍豪,"一8,9(工EN 4067) 二9(工EN 4067)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME691&Crsname=平行處理及計算（二）,,,False,機電碩,MEME691,0,不分班,"平行處理及計算（二）
-PARALLEL PROCESSING AND COMPUTING (II)",3,期,False,50,0,4,46,朱訓鵬,,"['', '', '', '', '', '', '']",《講授類》,[],False
+PARALLEL PROCESSING AND COMPUTING (II)",3,期,False,50,0,4,46,朱訓鵬,"一8,9(工EN 4075-2) 二9(工EN 4075-2)","['89', '9', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME693&Crsname=熱流數值模擬應用專題,,,False,機電碩,MEME693,0,不分班,"熱流數值模擬應用專題
-INDEPENDENT STUDIES IN APPLICATIONS IN NUMERICAL SIMULATIONS TO THE THERMAL-FLUID PROBLEMS",3,期,False,50,0,4,46,鄭威利,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN APPLICATIONS IN NUMERICAL SIMULATIONS TO THE THERMAL-FLUID PROBLEMS",3,期,False,50,0,4,46,鄭威利,"一8,9(工EN 2019-2) 二9(工EN 2019-2)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MEME698&Crsname=燃燒與防火安全專題（二）,,,False,機電碩,MEME698,0,不分班,"燃燒與防火安全專題（二）
-INDEPENDENT STUDIES IN COMBUSTION AND FIRE SAFETY II",3,期,False,50,0,4,46,許聖彥,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN COMBUSTION AND FIRE SAFETY II",3,期,False,50,0,4,46,許聖彥,"一8,9(工EN 3029) 二9(工EN 3029)","['89', '9', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ENVE521&Crsname=書報討論,,,False,環工碩,ENVE521,1,不分班,"書報討論
 SEMINAR",1,期,True,50,0,15,35,彭彥彬,"三6,7(工EV 4024)","['', '', '67', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=ENVE521A&Crsname=書報討論,,,False,環工碩,ENVE521A,2,不分班,"書報討論
@@ -4791,7 +4791,7 @@ INTRODUCTION TO FUNCTIONAL GENE RESEARCH IN PLANTS AND ALGAE",3,期,False,50,0,1
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR561&Crsname=物種和生態系統對氣候變遷反應的動態,,,False,海資碩,MBR561,1,不分班,"物種和生態系統對氣候變遷反應的動態
 DYNAMICS OF SPECIES AND ECOSYSTEM RESPONSE TO CLIMATE CHANGE",2,期,False,50,1,15,35,水晶,"四3,4(海MB 2009)","['', '', '', '34', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR574&Crsname=海洋分子生態學,,,False,海資碩,MBR574,1,不分班,"海洋分子生態學
-MARINE MOLECULAR ECOLOGY",3,期,False,50,0,17,33,"塗子萱,林梅芳,林秀瑾","五2,3,4(海MB 2016)","['', '', '', '', '234', '', '']",《講授類》,['海洋生物資源開發學程'],True
+MARINE MOLECULAR ECOLOGY",3,期,False,50,0,16,34,"塗子萱,林梅芳,林秀瑾","五2,3,4(海MB 2016)","['', '', '', '', '234', '', '']",《講授類》,['海洋生物資源開發學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR577&Crsname=海洋化學生物學專題研究（二）,異動,確認教師2/11,False,海資碩,MBR577,1,不分班,"海洋化學生物學專題研究（二）
 INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (II)",2,期,False,50,0,7,43,"李益銘,鄭源斌","一A,1()","['A1', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR578&Crsname=海洋化學生物學專題研究（四）,異動,確認教師2/11,False,海資碩,MBR578,2,不分班,"海洋化學生物學專題研究（四）
@@ -5888,13 +5888,13 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CHEM805
 SEMINAR (VIII)",1,期,False,50,0,1,49,梁子輝,二5(理CH 4002),"['', '5', '', '', '', '', '']","《演講/參訪》
 限有機、無機領域",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS702&Crsname=專題研討（二）,,,False,物理博,PHYS702,1,不分班,"專題研討（二）
-STUDIES IN SELECTED RESEARCH TOPICS (II)",2,期,True,50,0,9,41,"楊弘敦,莊豐權",,"['', '', '', '', '', '', '']",《研討類》,[],True
+STUDIES IN SELECTED RESEARCH TOPICS (II)",2,期,True,50,0,9,41,"楊弘敦,莊豐權","四8,9(理PH 5008)","['', '', '', '89', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS806&Crsname=薄膜物理議題研討（二）,,,False,物理博,PHYS806,2,不分班,"薄膜物理議題研討（二）
-SPECIAL TOPICS IN THIN FILM PHYSICS (I)",3,期,False,50,0,2,48,周雄,,"['', '', '', '', '', '', '']",《研討類》,[],True
+SPECIAL TOPICS IN THIN FILM PHYSICS (I)",3,期,False,50,0,2,48,周雄,"一A,1,B(理PH 7008)","['A1B', '', '', '', '', '', '']",《研討類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS808&Crsname=半導體元件物理專題研討（二）,,,False,物理博,PHYS808,2,不分班,"半導體元件物理專題研討（二）
-SEMINAR IN SEMICONDUCTOR DEVICE PHYSICS (II)",3,期,False,50,0,3,47,張鼎張,,"['', '', '', '', '', '', '']",《研討類》,[],False
+SEMINAR IN SEMICONDUCTOR DEVICE PHYSICS (II)",3,期,False,50,0,3,47,張鼎張,"五A,1,B(理PH 7009)","['', '', '', '', 'A1B', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS815&Crsname=半導體專題（二）,,,False,物理博,PHYS815,2,不分班,"半導體專題（二）
-INDEPENDENT STUDIES IN SEMICONDUCTOR (II)",3,期,False,50,0,1,49,余健文,,"['', '', '', '', '', '', '']",《獨立研究》,[],True
+INDEPENDENT STUDIES IN SEMICONDUCTOR (II)",3,期,False,50,0,1,49,余健文,"三A,1,B(理PH 3001)","['', '', 'A1B', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS825&Crsname=自旋物理專題研究（二）,,,False,物理博,PHYS825,2,不分班,"自旋物理專題研究（二）
 INDEPENDENT STUDIES IN SPIN PHYSICS (II)",3,期,False,50,0,1,49,郭建成,"三A,1,B(理PH 2009)","['', '', 'A1B', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH702&Crsname=統計書報討論（二）,,,True,應數博,MATH702,1,不分班,"統計書報討論（二）
@@ -6578,7 +6578,7 @@ MARINE METAGENOMICS",2,期,False,50,0,10,40,"劉勃佑,林梅芳","三3,4(海MB 
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR561&Crsname=物種和生態系統對氣候變遷反應的動態,,,False,海資碩,MBR561,1,,"物種和生態系統對氣候變遷反應的動態
 DYNAMICS OF SPECIES AND ECOSYSTEM RESPONSE TO CLIMATE CHANGE",2,期,False,50,1,15,35,水晶,"四3,4(海MB 2009)","['', '', '', '34', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR574&Crsname=海洋分子生態學,,,False,海資碩,MBR574,1,,"海洋分子生態學
-MARINE MOLECULAR ECOLOGY",3,期,False,50,0,17,33,"塗子萱,林梅芳,林秀瑾","五2,3,4(海MB 2016)","['', '', '', '', '234', '', '']",《講授類》,['海洋生物資源開發學程'],True
+MARINE MOLECULAR ECOLOGY",3,期,False,50,0,16,34,"塗子萱,林梅芳,林秀瑾","五2,3,4(海MB 2016)","['', '', '', '', '234', '', '']",《講授類》,['海洋生物資源開發學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR593&Crsname=海洋生物多樣性與保育（二）,,,True,海資碩,MBR593,1,,"海洋生物多樣性與保育（二）
 MARINE BIODIVERSITY AND CONSERVATION （2）",2,期,True,50,1,12,38,"劉商隱,水晶","二3,4(海MB 2009)","['', '34', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MBR598&Crsname=海洋天然物與化學分析（二）,,,True,海資碩,MBR598,1,,"海洋天然物與化學分析（二）
