@@ -1,0 +1,23 @@
+Item root[2656]['classTime'][3] removed from iterable.
+Item root[2657]['classTime'][3] removed from iterable.
+Item root[2658]['classTime'][0] removed from iterable.
+Item root[2659]['classTime'][0] removed from iterable.
+Repetition change for item root[2656]['classTime'][0].
+Repetition change for item root[2657]['classTime'][0].
+Repetition change for item root[2658]['classTime'][1].
+Repetition change for item root[2659]['classTime'][1].
+Value of root[1441]['selected'] changed from 19 to 18.
+Value of root[1441]['remaining'] changed from 11 to 12.
+Value of root[1443]['selected'] changed from 16 to 15.
+Value of root[1443]['remaining'] changed from 14 to 15.
+Value of root[1448]['selected'] changed from 14 to 13.
+Value of root[1448]['remaining'] changed from 16 to 17.
+Value of root[1456]['select'] changed from 0 to 1.
+Value of root[1456]['selected'] changed from 10 to 9.
+Value of root[1456]['remaining'] changed from 20 to 21.
+Value of root[1775]['selected'] changed from 14 to 13.
+Value of root[1775]['remaining'] changed from 36 to 37.
+Value of root[2656]['room'] changed from "四8,6,7(管CM 4078)" to "".
+Value of root[2657]['room'] changed from "四8,6,7(管CM 4078)" to "".
+Value of root[2658]['room'] changed from "一8,6,7(管CM 1023)" to "".
+Value of root[2659]['room'] changed from "一8,6,7(管CM 1023)" to "".
