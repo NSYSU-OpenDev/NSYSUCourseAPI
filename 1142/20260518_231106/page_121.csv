@@ -1,8 +1,8 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES702&Crsname=書報討論,,,False,材光博,MOES702,1,不分班,"書報討論
-SEMINAR",1,期,True,70,0,9,61,葉昀昇,"三6,7(工EN 2028)","['', '', '67', '', '', '', '']",《研討類》,[],False
+SEMINAR",1,期,True,70,0,9,61,葉昀昇,,"['', '', '', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MOES702A&Crsname=書報討論,,,False,材光博,MOES702A,2,不分班,"書報討論
-SEMINAR",1,期,True,70,0,14,56,葉昀昇,"三6,7(工EN 2028)","['', '', '67', '', '', '', '']",《研討類》,[],False
+SEMINAR",1,期,True,70,0,14,56,葉昀昇,,"['', '', '', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=CSE718&Crsname=書報討論（二）,,,False,資工資安博,CSE718,1,不分班,"書報討論（二）
 SEMINAR II",1,期,True,2,0,1,1,陳嘉平,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
 限本系碩/博士生修習",[],False
