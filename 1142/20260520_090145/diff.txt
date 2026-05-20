@@ -1,0 +1,105 @@
+Item root[1240]['classTime'][5] added to iterable.
+Item root[1240]['classTime'][6] added to iterable.
+Item root[1241]['classTime'][2] added to iterable.
+Item root[1242]['classTime'][3] added to iterable.
+Item root[1243]['classTime'][4] added to iterable.
+Item root[1244]['classTime'][0] added to iterable.
+Item root[1245]['classTime'][3] added to iterable.
+Item root[1246]['classTime'][0] added to iterable.
+Item root[1247]['classTime'][4] added to iterable.
+Item root[1248]['classTime'][0] added to iterable.
+Item root[1249]['classTime'][4] added to iterable.
+Item root[1250]['classTime'][2] added to iterable.
+Item root[1251]['classTime'][2] added to iterable.
+Item root[1252]['classTime'][1] added to iterable.
+Item root[1253]['classTime'][3] added to iterable.
+Item root[1254]['classTime'][1] added to iterable.
+Item root[1255]['classTime'][3] added to iterable.
+Item root[1256]['classTime'][0] added to iterable.
+Item root[1257]['classTime'][1] added to iterable.
+Item root[1258]['classTime'][0] added to iterable.
+Item root[1259]['classTime'][2] added to iterable.
+Item root[2045]['classTime'][2] added to iterable.
+Item root[2046]['classTime'][2] added to iterable.
+Item root[2047]['classTime'][0] added to iterable.
+Item root[2048]['classTime'][4] added to iterable.
+Item root[2049]['classTime'][3] added to iterable.
+Item root[2050]['classTime'][1] added to iterable.
+Item root[2051]['classTime'][2] added to iterable.
+Item root[2052]['classTime'][3] added to iterable.
+Item root[2053]['classTime'][4] added to iterable.
+Item root[2054]['classTime'][4] added to iterable.
+Item root[2055]['classTime'][2] added to iterable.
+Item root[2056]['classTime'][2] added to iterable.
+Item root[2057]['classTime'][3] added to iterable.
+Item root[2058]['classTime'][4] added to iterable.
+Item root[2059]['classTime'][0] added to iterable.
+Repetition change for item root[1240]['classTime'][0].
+Repetition change for item root[1241]['classTime'][0].
+Repetition change for item root[1242]['classTime'][0].
+Repetition change for item root[1243]['classTime'][0].
+Repetition change for item root[1244]['classTime'][0].
+Repetition change for item root[1245]['classTime'][0].
+Repetition change for item root[1246]['classTime'][0].
+Repetition change for item root[1247]['classTime'][0].
+Repetition change for item root[1248]['classTime'][0].
+Repetition change for item root[1249]['classTime'][0].
+Repetition change for item root[1250]['classTime'][0].
+Repetition change for item root[1251]['classTime'][0].
+Repetition change for item root[1252]['classTime'][0].
+Repetition change for item root[1253]['classTime'][0].
+Repetition change for item root[1254]['classTime'][0].
+Repetition change for item root[1255]['classTime'][0].
+Repetition change for item root[1256]['classTime'][0].
+Repetition change for item root[1257]['classTime'][0].
+Repetition change for item root[1258]['classTime'][0].
+Repetition change for item root[1259]['classTime'][0].
+Repetition change for item root[2045]['classTime'][0].
+Repetition change for item root[2046]['classTime'][0].
+Repetition change for item root[2047]['classTime'][0].
+Repetition change for item root[2048]['classTime'][0].
+Repetition change for item root[2049]['classTime'][0].
+Repetition change for item root[2050]['classTime'][0].
+Repetition change for item root[2051]['classTime'][0].
+Repetition change for item root[2052]['classTime'][0].
+Repetition change for item root[2053]['classTime'][0].
+Repetition change for item root[2054]['classTime'][0].
+Repetition change for item root[2055]['classTime'][0].
+Repetition change for item root[2056]['classTime'][0].
+Repetition change for item root[2057]['classTime'][0].
+Repetition change for item root[2058]['classTime'][0].
+Repetition change for item root[2059]['classTime'][0].
+Value of root[1241]['room'] changed from "" to "三2,3,4(醫IL 3013)".
+Value of root[1242]['room'] changed from "" to "四2,3,4(理SC 4019)(實驗)".
+Value of root[1243]['room'] changed from "" to "五2,3,4(理SC 1005)".
+Value of root[1244]['room'] changed from "" to "一5,6,7(圖IL PC01)".
+Value of root[1245]['room'] changed from "" to "四5,6(醫IL 3005)".
+Value of root[1246]['room'] changed from "" to "一2,3,4(圖IL PC01)".
+Value of root[1247]['room'] changed from "" to "五2,3,4(醫IL 3005)".
+Value of root[1248]['room'] changed from "" to "一2,3,4(醫IL 3015)".
+Value of root[1249]['room'] changed from "" to "五5,6,7(醫IL 3016)".
+Value of root[1250]['room'] changed from "" to "三5,6,7(醫IL 3004)".
+Value of root[1251]['room'] changed from "" to "三5,6,7(醫IL 3005)".
+Value of root[1252]['room'] changed from "" to "二2,3,4(醫IL 3015)".
+Value of root[1253]['room'] changed from "" to "四2,3,4(醫IL 3016)".
+Value of root[1254]['room'] changed from "" to "二8,6,7(醫IL 3015)".
+Value of root[1255]['room'] changed from "" to "四5,6,7(醫IL 3004)".
+Value of root[1256]['room'] changed from "" to "一5,6,7(醫IL 3016)".
+Value of root[1257]['room'] changed from "" to "二2,3,4(醫IL 3016)".
+Value of root[1258]['room'] changed from "" to "一5,6,7(醫IL 3015)".
+Value of root[1259]['room'] changed from "" to "三2,3(醫IL 3005)".
+Value of root[2045]['room'] changed from "" to "三2,3,4(社SS 3004-2)".
+Value of root[2046]['room'] changed from "" to "三5(社SS 3004-2)".
+Value of root[2047]['room'] changed from "" to "一8,6,7(社SS 3004-2)".
+Value of root[2048]['room'] changed from "" to "五2,3,4(社SS 3004-2)".
+Value of root[2049]['room'] changed from "" to "四2,3,4(社SS 3004-2)".
+Value of root[2050]['room'] changed from "" to "二8,6,7(社SS 3004-2)".
+Value of root[2051]['room'] changed from "" to "三6(社SS 3004-2)".
+Value of root[2052]['room'] changed from "" to "四8,6,7(社SS 3004-2)".
+Value of root[2053]['room'] changed from "" to "五8,6,7(社SS 3004-1)".
+Value of root[2054]['room'] changed from "" to "五2,3,4(社SS 3004-1)".
+Value of root[2055]['room'] changed from "" to "三5,6,7(社SS 4005)".
+Value of root[2056]['room'] changed from "" to "三2,3,4(社SS 4005)".
+Value of root[2057]['room'] changed from "" to "四5,6,7(社SS 2011)".
+Value of root[2058]['room'] changed from "" to "五8,6,7(社SS 2011)".
+Value of root[2059]['room'] changed from "" to "一2,3,4(社SS 4005)".
