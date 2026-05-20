@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=PHYS699&Crsname=量子計算專題（二）,,,False,物理碩,PHYS699,2,不分班,"量子計算專題（二）
-INDEPENDENT STUDIES IN QUANTUM COMPUTING(Ⅱ)",3,期,False,50,0,1,49,邱奎霖,"二A,1,B(理PH 3007)","['', 'A1B', '', '', '', '', '']",《獨立研究》,[],True
+INDEPENDENT STUDIES IN QUANTUM COMPUTING(Ⅱ)",3,期,False,50,0,1,49,邱奎霖,,"['', '', '', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH501&Crsname=統計書報討論（一）,,,True,應數碩,MATH501,1,不分班,"統計書報討論（一）
 SEMINAR IN STATISTICS(I)",1,期,True,30,0,18,12,張中,四6(理SC 4009-1),"['', '', '', '6', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=2&CrsDat=MATH502&Crsname=數理統計,,,False,應數碩,MATH502,0,不分班,"數理統計
