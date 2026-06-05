@@ -1,5 +1,0 @@
-Type of root[6]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[6]['changeDescription'] changed from NoneType to str and value changed from None to "修正備註說明6/4".
-Value of root[6]['description'] changed from "《講授類》
-★上課日期：7/14(二)~8/20(四)，共計6週，大四以上優先選課，需自備筆電。【本課程不開放準大學生修習】" to "《講授類》
-★上課日期：7/14(二)~8/20(四)，共計6週，大四以上優先選課，需自備筆電。本課程需先至光電系系網填寫Google表單報名且被通知者方可選修，修課學生請於6/18前完成選課。【本課程不開放準大學生修習】".
