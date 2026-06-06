@@ -1,1 +1,0 @@
-Value of root[6]['class'] changed from "不分班" to "全英班".
