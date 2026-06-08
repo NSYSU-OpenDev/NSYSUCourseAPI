@@ -1,4 +1,7 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=MIS992&Crsname=電子商務專題演講,,,False,資電碩專,MIS992,1,不分班,"電子商務專題演講
+SEMINAR IN ELECTRONIC COMMERCE",3,期,True,50,14,0,50,李捷,"一C,D,E(管CM 2016) 二C,D,E(管CM 2016) 四C,D,E(管CM 2016)","['CDE', 'CDE', '', 'CDE', '', '', '']","《演講/參訪》
+限電商碩專班修習。★上課日期：7/13(一)~8/21(五)，共計6週。【本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=EMBA967&Crsname=企業法律環境,,,True,EMBA碩專,EMBA967,1,不分班,"企業法律環境
 THE LEGAL ENVIRONMENT OF BUSINESS",1.5,期,True,50,0,0,50,盧憶,"六3,4(臺北)","['', '', '', '', '', '34', '']","《講授類》
 限EMBA學生選修【本課程不開放準大學生修習】",[],False
@@ -22,5 +25,5 @@ GREEN MANAGEMENT AND INNOVATION",3,期,False,50,17,0,50,林晉禾,"一2,3,4,5,6,
 企業管理組;
 1. 出國參訪課程。2. 上課日期：7/13(一)~8/21(五)共計6週。3.【本課程不開放準大學生修習】。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=IOE850&Crsname=青少年心理與輔導研究,,,False,教育博,IOE850,0,不分班,"青少年心理與輔導研究
-RESEARCH ON ADOLESCENT PSYCHOLOGY AND GUIDANCE",3,期,False,50,4,0,50,宋呈澔,"三2,3,4,5,6(社SS 2004-3) 四3,4,5,6(社SS 2004-3)","['', '', '23456', '3456', '', '', '']","《講授類》
+RESEARCH ON ADOLESCENT PSYCHOLOGY AND GUIDANCE",3,期,False,50,5,0,50,宋呈澔,"三2,3,4,5,6(社SS 2004-3) 四3,4,5,6(社SS 2004-3)","['', '', '23456', '3456', '', '', '']","《講授類》
 本課程部份為美國參訪，限已申請通過學生修習，費用需自費。★上課日期：7/13(一)~8/12(五)，共計6週。【本課程不開放準大學生修習】",[],True
