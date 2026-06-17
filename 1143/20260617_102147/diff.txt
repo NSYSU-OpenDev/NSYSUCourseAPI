@@ -1,0 +1,10 @@
+Item root[10] added to iterable.
+Value of root[2]['description'] changed from "《講授類》
+★上課日期：7/13(一)~8/21(五)，共計6週。本課程無法抵免英語專班普通物理。【本課程開放準大學生修習】。" to "《講授類》
+半導體人才培育課程。★上課日期：7/13(一)~8/21(五)，共計6週。本課程無法抵免英語專班普通物理。【本課程開放準大學生修習】。".
+Value of root[3]['select'] changed from 2 to 3.
+Value of root[6]['select'] changed from 18 to 19.
+Value of root[6]['description'] changed from "《講授類》
+★上課日期：7/14(二)~8/20(四)，共計6週。【本課程不開放準大學生修習】" to "《講授類》
+半導體人才培育課程。★上課日期：7/14(二)~8/20(四)，共計6週。【本課程不開放準大學生修習】".
+Value of root[20]['select'] changed from 24 to 26.
