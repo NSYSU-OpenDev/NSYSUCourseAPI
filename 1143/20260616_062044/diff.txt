@@ -1,6 +1,0 @@
-Type of root[8]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[8]['changeDescription'] changed from NoneType to str and value changed from None to "新增合授教師6/16".
-Value of root[4]['select'] changed from 25 to 26.
-Value of root[5]['select'] changed from 13 to 14.
-Value of root[7]['select'] changed from 16 to 17.
-Value of root[8]['teacher'] changed from "莊豐權" to "余健文,莊豐權".
