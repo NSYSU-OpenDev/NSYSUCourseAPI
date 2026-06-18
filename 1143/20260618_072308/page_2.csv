@@ -1,6 +1,18 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=PEC687B&Crsname=進階企業實習（五）,,,True,零組件研究所,PEC687B,2,不分班,"進階企業實習（五）
+ADVANCED CORPORATE INTERNSHIP（V）",3,期,True,2,0,0,2,林震,"二8,1,2,3,4,5,6,7(台虹廠區)(實驗) 三1,2,3,4(台虹廠區)(實驗)","['', '12345678', '1234', '', '', '', '']","《企業實習》
+限精密電子零組件研究所-電子零組件及設備組學生修課。★課程期間：7/13~8/21。【本課程不開放準大學生修習】",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=PEC687C&Crsname=進階企業實習（五）,,,True,零組件研究所,PEC687C,2,不分班,"進階企業實習（五）
+ADVANCED CORPORATE INTERNSHIP（V）",3,期,True,2,0,0,2,謝明哲,"二8,1,2,3,4,5,6,7(台郡廠區)(實驗) 三1,2,3,4(台郡廠區)(實驗)","['', '12345678', '1234', '', '', '', '']","《企業實習》
+限精密電子零組件研究所-電子零組件及設備組學生修課。★課程期間：7/13~8/21。【本課程不開放準大學生修習】",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=PEC691&Crsname=產品生命週期管理/產品開發模式介紹實務,,,True,零組件研究所,PEC691,2,不分班,"產品生命週期管理/產品開發模式介紹實務
+INTERNSHIP IN INTRODUCTION OF PRODUCT LIFECYCLE MANAGEMENT/ PRODUCT LAUNCH MANAGEMENT",3,期,True,4,0,0,4,胡慶利,"三1,2,3,4(國巨廠區)(實驗) 四8,1,2,3,4,5,6,7(國巨廠區)(實驗)","['', '', '1234', '12345678', '', '', '']","《企業實習》
+限精密電子零組件研究所-被動元件組學生修課。★課程期間：7/13~8/21。【本課程不開放準大學生修習】",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=MIS949&Crsname=電子商務專題演講,,,False,資管碩專,MIS949,1,不分班,"電子商務專題演講
+SEMINAR IN ELECTRONIC COMMERCE",3,期,True,50,8,0,50,李捷,"一C,D,E(管CM 2016) 二C,D,E(管CM 2016) 四C,D,E(管CM 2016)","['CDE', 'CDE', '', 'CDE', '', '', '']","《演講/參訪》
+限資管碩專班修習。★上課日期：7/13(一)~8/21(五)，共計6週。【本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=MIS992&Crsname=電子商務專題演講,,,False,資電碩專,MIS992,1,不分班,"電子商務專題演講
-SEMINAR IN ELECTRONIC COMMERCE",3,期,True,50,24,0,50,李捷,"一C,D,E(管CM 2016) 二C,D,E(管CM 2016) 四C,D,E(管CM 2016)","['CDE', 'CDE', '', 'CDE', '', '', '']","《演講/參訪》
+SEMINAR IN ELECTRONIC COMMERCE",3,期,True,50,26,0,50,李捷,"一C,D,E(管CM 2016) 二C,D,E(管CM 2016) 四C,D,E(管CM 2016)","['CDE', 'CDE', '', 'CDE', '', '', '']","《演講/參訪》
 限電商碩專班修習。★上課日期：7/13(一)~8/21(五)，共計6週。【本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=EMBA967&Crsname=企業法律環境,,,True,EMBA碩專,EMBA967,1,不分班,"企業法律環境
 THE LEGAL ENVIRONMENT OF BUSINESS",1.5,期,True,50,0,0,50,盧憶,"六3,4(臺北)","['', '', '', '', '', '34', '']","《講授類》
