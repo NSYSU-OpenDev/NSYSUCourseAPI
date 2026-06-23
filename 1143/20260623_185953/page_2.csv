@@ -1,4 +1,13 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=EO5016&Crsname=積體光電元件原理與設計,新增,6/18,False,光電碩,EO5016,0,不分班,"積體光電元件原理與設計
+PRINCIPLES AND DESIGN OF INTEGRATED OPTO-ELECTRONIC DEVICES",3,期,False,50,4,0,50,于欽平,"一5,6,7(國IR 3002) 二5,6,7(國IR 3002) 三5,6,7(國IR 3002)","['567', '567', '567', '', '', '', '']","《講授類》
+半導體人才培育計畫課程(本校及外校學士班學生不收學分費，但學士班延修生、研究所學生要收學分費)。★上課日期：7/13(一)~8/19(三)共計6週。【本課程不開放準大學生選修】",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=MOES595&Crsname=先進材料國際研習,,,False,材光碩,MOES595,0,不分班,"先進材料國際研習
+OVERSEA STUDY ON INTRODUCTION TO ADVANCED MATERIALS",3,期,False,14,14,1,13,呂德,,"['234567', '234567', '234', '234567', '234567', '', '']","《講授類》
+本課程為法國和德國研修課程，限已申請通過學生修習，費用部分補助。上課日期：7/01(三)~7/14(二)共計2週。【本課程不開放準大學生修習】",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=ASPT591&Crsname=高端應用電子產品實務,,,True,半導體封測所,ASPT591,2,不分班,"高端應用電子產品實務
+HIGH-END ELECTRONIC PRODUCT PRACTICE",3,期,True,80,0,0,80,林智偉,"三1,2,3,4(日月光廠區)(實驗) 四8,1,2,3,4,5,6,7(日月光廠區)(實驗)","['', '', '1234', '12345678', '', '', '']","《企業實習》
+限先進半導體封測所學生修課。★課程期間：7/13~8/21。【本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=ASPT591A&Crsname=高端應用電子產品實務,,,True,半導體封測所,ASPT591A,2,不分班,"高端應用電子產品實務
 HIGH-END ELECTRONIC PRODUCT PRACTICE",3,期,True,30,0,0,30,王金保,"三1,2,3,4(華泰廠區)(實驗) 四8,1,2,3,4,5,6,7(華泰廠區)(實驗)","['', '', '1234', '12345678', '', '', '']","《企業實習》
 限先進半導體封測所學生修課。★課程期間：7/13~8/21。【本課程不開放準大學生修習】",[],False
@@ -21,7 +30,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=PEC691&
 INTERNSHIP IN INTRODUCTION OF PRODUCT LIFECYCLE MANAGEMENT/ PRODUCT LAUNCH MANAGEMENT",3,期,True,4,0,0,4,胡慶利,"三1,2,3,4(國巨廠區)(實驗) 四8,1,2,3,4,5,6,7(國巨廠區)(實驗)","['', '', '1234', '12345678', '', '', '']","《企業實習》
 限精密電子零組件研究所-被動元件組學生修課。★課程期間：7/13~8/21。【本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=MIS949&Crsname=電子商務專題演講,,,False,資管碩專,MIS949,1,不分班,"電子商務專題演講
-SEMINAR IN ELECTRONIC COMMERCE",3,期,True,50,8,0,50,李捷,"一C,D,E(管CM 2016) 二C,D,E(管CM 2016) 四C,D,E(管CM 2016)","['CDE', 'CDE', '', 'CDE', '', '', '']","《演講/參訪》
+SEMINAR IN ELECTRONIC COMMERCE",3,期,True,50,9,0,50,李捷,"一C,D,E(管CM 2016) 二C,D,E(管CM 2016) 四C,D,E(管CM 2016)","['CDE', 'CDE', '', 'CDE', '', '', '']","《演講/參訪》
 限資管碩專班修習。★上課日期：7/13(一)~8/21(五)，共計6週。【本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=MIS992&Crsname=電子商務專題演講,,,False,資電碩專,MIS992,1,不分班,"電子商務專題演講
 SEMINAR IN ELECTRONIC COMMERCE",3,期,True,50,27,0,50,李捷,"一C,D,E(管CM 2016) 二C,D,E(管CM 2016) 四C,D,E(管CM 2016)","['CDE', 'CDE', '', 'CDE', '', '', '']","《演講/參訪》
@@ -45,7 +54,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=EMPP939
 LECTURES ON ADVANCED PUBLIC POLICY",1,期,True,50,0,0,50,陳美華,,"['', '', '', '', '', '89CD', '']","《講授類》
 本課程限EMPP學生選修。【本課程不開放準大學生修習】",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=BM842&Crsname=綠色管理與創新,,,False,企管博,BM842,0,不分班,"綠色管理與創新
-GREEN MANAGEMENT AND INNOVATION",3,期,False,50,17,0,50,林晉禾,"一2,3,4,5,6,7(管CM 3019) 二2,3,4(管CM 3019)","['234567', '234', '', '', '', '', '']","《講授類》
+GREEN MANAGEMENT AND INNOVATION",3,期,False,50,17,1,49,林晉禾,"一2,3,4,5,6,7(管CM 3019) 二2,3,4(管CM 3019)","['234567', '234', '', '', '', '', '']","《講授類》
 企業管理組;
 1. 出國參訪課程。2. 上課日期：7/13(一)~8/21(五)共計6週。3.【本課程不開放準大學生修習】。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=114&SEM=3&CrsDat=IOE850&Crsname=青少年心理與輔導研究,,,False,教育博,IOE850,0,不分班,"青少年心理與輔導研究
