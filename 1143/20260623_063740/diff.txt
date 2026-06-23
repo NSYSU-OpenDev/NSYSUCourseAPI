@@ -1,0 +1,6 @@
+Item root[2] added to iterable.
+Value of root[10]['select'] changed from 6 to 7.
+Value of root[19]['select'] changed from 1 to 0.
+Value of root[27]['select'] changed from 8 to 9.
+Value of root[35]['selected'] changed from 0 to 1.
+Value of root[35]['remaining'] changed from 50 to 49.
