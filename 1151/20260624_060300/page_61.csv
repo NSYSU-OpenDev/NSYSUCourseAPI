@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM131&Crsname=醫學心理學,,,False,後醫學系,DPBM131,1,不分班,"醫學心理學
+MEDICAL PSYCHOLOGY",1,期,True,50,0,0,50,馮雅群,,"['', '', '', '56789', '5678', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM132&Crsname=人文藝術與生命哲學（一）,,,False,後醫學系,DPBM132,2,不分班,"人文藝術與生命哲學（一）
+MEDICAL HUMANITIES AND LIFE PHILOSOPHY (I)",1,期,True,30,0,0,30,"杜思慧,陳鈺雯,顏竹君,黃資婷",,"['1234', '', '1234', '1234', '123478', '', '']","《演講/參訪》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM133&Crsname=溝通與專業素養（一）,,,False,後醫學系,DPBM133,1,不分班,"溝通與專業素養（一）
+COMMUNICATION AND PROFESSIONALISM (I)",0.5,期,True,50,0,0,50,陳德全,,"['678', '', '', '', '', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM150&Crsname=消化系統總體基因體學,,,False,後醫學系,DPBM150,1,不分班,"消化系統總體基因體學
+GASTROINTESTINAL METAGENOMICS",2,期,False,50,0,0,50,劉勃佑,"三5,6(醫IL 9015)","['', '', '56', '', '', '', '']","《講授類》
+限後醫系修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM151&Crsname=腫瘤分子生物學與微環境,,,False,後醫學系,DPBM151,1,不分班,"腫瘤分子生物學與微環境
+TUMOR MOLECULARU BIOLOGY & MICROENVIRONMENT",2,期,False,50,0,0,50,柯瓊媛,"三5,6(醫IL 9016)","['', '', '56', '', '', '', '']","《講授類》
+限後醫系修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM152&Crsname=中醫暨整合醫學,,,False,後醫學系,DPBM152,1,不分班,"中醫暨整合醫學
+CHINESE AND INTERGRATIVE MEDICINE",2,期,False,50,0,0,50,待聘,"四3,4(醫IL 9012)","['', '', '', '34', '', '', '']","《講授類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM204&Crsname=臨床技能（二）,,,False,後醫學系,DPBM204,2,不分班,"臨床技能（二）
+MEDICAL SKILL TRAINING PROGRAM(II)",1,期,True,50,0,0,50,王慧婷,,"['23456789', '', '', '12346789', '', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM205&Crsname=溝通與專業素養（三）,,,False,後醫學系,DPBM205,2,不分班,"溝通與專業素養（三）
+COMMUNICATION AND PROFESSIONALISM(III)",1,期,True,50,0,0,50,陳德全,,"['678', '678', '', '', '', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM212&Crsname=照護科技跨域專題（一）,,,False,後醫學系,DPBM212,2,不分班,"照護科技跨域專題（一）
+INDEPENDENT STUDIES IN INNOVATIVE TECHNOLOGIES FOR HEALTHCARE (I)",1,期,True,50,0,0,50,莊承鑫,,"['12', '', '', '', '', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM213&Crsname=心臟血管基礎醫學,,,False,後醫學系,DPBM213,2,不分班,"心臟血管基礎醫學
+THE BASIC MEDICAL SCIENCE OF CARDIOVASCULAR SYSTEM",3,期,True,50,0,0,50,"劉勃佑,廖以莊,李昇翰,柯瓊媛,王文宏,甘祐瑜,鄭雅勻,陳亮傑,陳彥樺",,"['345678', '1234567', '34567', '345678', '3456', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM214&Crsname=心臟血管臨床醫學,,,False,後醫學系,DPBM214,2,不分班,"心臟血管臨床醫學
+CLINICAL MEDICINE OF CARDIOVASCULAR SYSTEM",2,期,True,50,0,0,50,"唐逸文,施志遠,李威杰",,"['3456789', '12345789', '34567', '678', '567', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM215&Crsname=呼吸系統基礎醫學,,,False,後醫學系,DPBM215,2,不分班,"呼吸系統基礎醫學
+THE BASIC MEDICAL SCIENCES OF RESPIRATORY SYSTEM",2,期,True,50,0,0,50,"朱彰堯,李昇翰,柯瓊媛,柯翠玲,王文宏,鄭雅勻,陳亮傑,陳彥樺",,"['3456', '2345678', '4567', '34567', '345', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM216&Crsname=呼吸系統臨床醫學,,,False,後醫學系,DPBM216,2,不分班,"呼吸系統臨床醫學
+CLINICAL MEDICINE OF RESPIRATORY SYSTEM",2,期,True,50,0,0,50,"劉勃佑,唐逸文,朱國安,李昇翰,蔣士仁,鄭舒帆",,"['567', '123456789', '234', '2345678', '123456', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM217&Crsname=消化系統基礎醫學,,,False,後醫學系,DPBM217,2,不分班,"消化系統基礎醫學
+THE BASIC MEDICAL SCIENCE OF DIGESTIVE SYSTEM",2,期,True,50,0,0,50,"劉勃佑,劉婷婷,柯翠玲,王文宏,陳亮傑,陳彥樺",,"['234', '345678', '234', '234', '4567', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM218&Crsname=消化系統臨床醫學,,,False,後醫學系,DPBM218,2,不分班,"消化系統臨床醫學
+CLINICAL MEDICINE OF RESPIRATORY SYSTEM",2,期,True,50,0,0,50,"劉勃佑,李昇翰,柯瓊媛,許博欽,趙敏吾,鄭雅勻,陳德全,陳志弘",,"['34567', '2345678', '234', '34567', '4567', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM219&Crsname=腎臟與泌尿系統基礎醫學,,,False,後醫學系,DPBM219,2,不分班,"腎臟與泌尿系統基礎醫學
+THE BASIC MEDICAL SCIENCE OF  KIDNEY AND URETERAL",2,期,True,50,0,0,50,"劉勃佑,唐逸文,李昇翰,柯瓊媛,王慧婷,甘祐瑜,許博欽,趙敏吾,鄭雅勻,陳亮傑,陳彥樺,陳德全",,"['23456', '34567', '234', '3456', '3456', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM220&Crsname=腎臟與泌尿系統臨床醫學,,,False,後醫學系,DPBM220,2,不分班,"腎臟與泌尿系統臨床醫學
+CLINICAL MEDICINE OF KIDNEY AND URETERAL",2,期,True,50,0,0,50,"唐逸文,林明毅,沈元琦,王弘仁,許博欽,陳建旭,陳建良,陳德全",,"['234567', '12345678', '1234', '234', '567', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM221&Crsname=腫瘤學,,,False,後醫學系,DPBM221,2,不分班,"腫瘤學
+ONCOLOGY",1,期,True,50,0,0,50,"劉婷婷,王文宏,蘇祐立,趙敏吾,陳彥樺",,"['34', '234', '34', '2345678', '', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM235&Crsname=藥物科技,,,False,後醫學系,DPBM235,2,不分班,"藥物科技
+PHARMACEUTICAL TECHNOLOGY",2,期,False,50,0,0,50,陳亮傑,"三5,6(醫IL 9017)","['', '', '56', '', '', '', '']","《講授類》
+限後醫系修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM236&Crsname=組織學研究法,,,False,後醫學系,DPBM236,2,不分班,"組織學研究法
+RESEARCH METHODS IN HISTOLOGY",2,期,False,50,0,0,50,甘祐瑜,"三5,6(醫IL 9018)","['', '', '56', '', '', '', '']","《講授類》
+限後醫系修習",[],True

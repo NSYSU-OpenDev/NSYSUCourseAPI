@@ -1,0 +1,51 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI372&Crsname=主修（作曲）,,,True,音樂系,MUSI372,3,不分班,"主修（作曲）
+MAJOR (THEORY & COMPOSITION)",2,期,True,5,0,0,5,"李思嫺,陳以軒","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI374&Crsname=主修（製作）,,,True,音樂系,MUSI374,3,不分班,"主修（製作）
+MAJOR(PRODUCTION)",2,期,True,50,0,0,50,"劉聖賢,李思嫺,江俊典,陳以軒,黃盟傑","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI383&Crsname=跨領域音樂設計與實作（一）,,,False,音樂系,MUSI383,3,不分班,"跨領域音樂設計與實作（一）
+MUSIC DESIGN FOR MULTI-MEDIA（I）",2,期,False,50,0,0,50,陳以軒,"四3,4(文FA 7003)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI410&Crsname=畢業製作,,,True,音樂系,MUSI410,4,不分班,"畢業製作
+GRADUATION RECITAL",0,期,True,50,0,0,50,林雅叙,六B(),"['', '', '', '', '', 'B', '']","《講授類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI430&Crsname=歌劇表演實務,,,False,音樂系,MUSI430,3,不分班,"歌劇表演實務
+PRACTICE OF OPERA PERFORMANCE",2,期,False,50,0,0,50,黃子珊,"一5,6(文FA 7003)","['56', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI440&Crsname=管樂重奏（三）,,,False,音樂系,MUSI440,4,不分班,"管樂重奏（三）
+WIND CHAMBER ENSEMBLE(Ⅲ)",1,期,False,50,0,0,50,張瑞芝,"四3,4(文FA 4031)","['', '', '', '34', '', '', '']",《音樂類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI458&Crsname=樂曲分析,,,False,音樂系,MUSI458,4,不分班,"樂曲分析
+MUSICAL ANALYSIS",2,期,False,50,0,0,50,李思嫺,"二3,4(文FA 6011)","['', '34', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI471&Crsname=表達性藝術治療個案討論,,,False,音樂系,MUSI471,3,不分班,"表達性藝術治療個案討論
+EXPRESSIVE ARTS THERAPY CASE STUDY",3,期,False,50,0,0,50,顏竹君,"五2,3,4(文FA 6011)","['', '', '', '', '234', '', '']","《講授類》
+限修人數中開放15個名額予跨院選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA101&Crsname=排演基礎（一）,,,False,劇藝系,TA101,1,不分班,"排演基礎（一）
+INTRODUCTION TO THEATRE PRODUCTION(I)",3,期,True,50,0,0,50,"李怡賡,楊士平,黃資絜","三2,3,4(文FA 1014,2019,3012)","['', '', '234', '', '', '', '']",《展演》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA103&Crsname=基礎表演（一）,,,True,劇藝系,TA103,1,不分班,"基礎表演（一）
+BASIC ACTING(I)",3,期,True,25,0,0,25,杜思慧,"二5,6,7(文FA 2017)","['', '567', '', '', '', '', '']","《展演》
+限本系單號學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA103A&Crsname=基礎表演（一）,,,True,劇藝系,TA103A,1,不分班,"基礎表演（一）
+BASIC ACTING(I)",3,期,False,25,0,0,25,楊士平,"二5,6,7(文FA 2019)","['', '567', '', '', '', '', '']","《展演》
+限本系雙號學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA104&Crsname=劇場設計導論,,,True,劇藝系,TA104,1,不分班,"劇場設計導論
+INTRODUCTION TO THEATRE DESIGN",2,期,True,25,0,0,25,李怡賡,"二8,9(文FA 1014,3012)","['', '89', '', '', '', '', '']","《展演》
+限本系單號學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA104A&Crsname=劇場設計導論,,,True,劇藝系,TA104A,1,不分班,"劇場設計導論
+INTRODUCTION TO THEATRE DESIGN",2,期,False,25,0,0,25,曾景濱,"二8,9(文FA 1014, 3012)","['', '89', '', '', '', '', '']","《展演》
+限本系雙號學生",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA106&Crsname=中國戲劇史（一）,,,False,劇藝系,TA106,2,不分班,"中國戲劇史（一）
+HISTORY OF CHINESE DRAMA AND THEAER (I)",2,期,True,50,0,0,50,康尹貞,"三3,4(文FA 3009)","['', '', '34', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA108&Crsname=劇本導讀,,,False,劇藝系,TA108,1,不分班,"劇本導讀
+PLAY READING AND ANALYSIS",2,期,True,50,0,0,50,康尹貞,"四6,7(文FA 3009)","['', '', '', '67', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA151&Crsname=肢體開發（一）,,,False,劇藝系,TA151,1,不分班,"肢體開發（一）
+PHYSICAL DEVELOPMENT（I）",2,期,False,30,0,0,30,待聘,"五3,4(文FA 2017)","['', '', '', '', '34', '', '']",《展演》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA154A&Crsname=排演（一）,,,False,劇藝系,TA154A,2,不分班,"排演（一）
+REHEARSAL（I）",3,期,False,50,0,0,50,"何怡璉,康尹貞,李怡賡","四8,9,C(文FA 2016, 2019, 3012)","['', '', '', '89C', '', '', '']","《展演》
+限畢製劇組助理",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA171A&Crsname=視覺藝術（一）：素描,,,False,劇藝系,TA171A,1,不分班,"視覺藝術（一）：素描
+VISUAL ARTS(I)：DRAWING",2,期,False,30,0,0,30,王以亮,"一5,6(文FA 3009)","['56', '', '', '', '', '', '']","《展演》
+本系學生優先",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA191A&Crsname=藝術概論,,,False,劇藝系,TA191A,1,不分班,"藝術概論
+INTRODUCTION TO THE ARTS",2,期,False,50,0,0,50,王以亮,"一3,4(文FA 3009)","['34', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA204&Crsname=導演概論,,,False,劇藝系,TA204,2,不分班,"導演概論
+INTRODUCTION TO THE HISTORY AND THEORY OF DIRECTING",2,期,True,50,0,0,50,楊士平,"四3,4(文FA 3007)","['', '', '', '34', '', '', '']",《講授類》,[],False
