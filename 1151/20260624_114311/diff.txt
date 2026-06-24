@@ -1,0 +1,14 @@
+Item root[169] added to iterable.
+Item root[170] added to iterable.
+Item root[183] added to iterable.
+Item root[184] added to iterable.
+Item root[185] added to iterable.
+Value of root[186]['teacher'] changed from "AI聯盟教師" to "AI聯盟教師,翁愷貽".
+Value of root[537]['teacher'] changed from "林宜誠,蔡詔羽" to "林宜誠".
+Value of root[537]['description'] changed from "《展演》
+限本系年度製作劇組" to "《展演》
+限本系年度製作劇組、表導演與行政部門同學選修".
+Value of root[1389]['teacher'] changed from "林宜誠,蔡詔羽" to "蔡詔羽".
+Value of root[1389]['description'] changed from "《展演》
+限劇藝系年度製作劇組" to "《展演》
+限劇藝系年度製作劇組、設計與技術部門同學選修".
