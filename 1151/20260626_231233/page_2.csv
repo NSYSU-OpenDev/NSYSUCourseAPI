@@ -1,12 +1,12 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=STP278&Crsname=藝術領域藝術生活科-表演藝術專長教材教法,,,False,中學學程,STP278,0,不分班,"藝術領域藝術生活科-表演藝術專長教材教法
-SUBJECT MATTER AND PEDAGOGY FOR ARTS AND LIFE/PERFORMING ARTS",2,期,False,50,0,0,50,鍾佳玲,"三3,4(社SS 2004-3)","['', '', '34', '', '', '', '']","《講授類》
+SUBJECT MATTER AND PEDAGOGY FOR ARTS AND LIFE/PERFORMING ARTS",2,期,False,50,0,0,50,鍾佳玲,,"['', '', '', '', '', '', '']","《講授類》
 本課程為中等教育學程課程，需修畢(含當學期修習)教育基礎必選課程至少4學分、教育方法必選課程至少4學分，選修至少4學分，共計12學分，始得修習本課程。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=STP284&Crsname=雙語教材教法,,,False,中學學程,STP284,0,不分班,"雙語教材教法
-METHODS AND MATERIALS FOR BILINGUAL EDUCATION",2,期,False,50,0,0,50,張宇慧,"二8,9(社SS 2002-2)","['', '89', '', '', '', '', '']","《講授類》
+METHODS AND MATERIALS FOR BILINGUAL EDUCATION",2,期,False,50,0,0,50,張宇慧,,"['', '', '', '', '', '', '']","《講授類》
 本課程為中等教育學程課程，需修畢(含當學期修習)教育基礎必選課程至少4學分、教育方法必選課程至少4學分，選修至少4學分，共計12學分，始得修習本課程。雙語授課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=STP291&Crsname=戶外探索教育與應用,,,False,中學學程,STP291,0,不分班,"戶外探索教育與應用
-ADVENTURE EDUCATION AND IMPLEMENTATION",2,期,False,50,0,0,50,宋呈澔,"四3,4(社SS 2006)","['', '', '', '34', '', '', '']","《講授類》
+ADVENTURE EDUCATION AND IMPLEMENTATION",2,期,False,50,0,0,50,宋呈澔,,"['', '', '', '', '', '', '']","《講授類》
 本課程為教育學程課程。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GENL0001&Crsname=中文思辨與表達（一）,,,True,國家語言,GENL0001,0,不分班,"中文思辨與表達（一）
 CRITICAL THINKING AND EXPRESSION IN CHINESE（I）",3,期,False,45,0,0,45,黃羽璿,"二2,3,4(管CM 0052)","['', '234', '', '', '', '', '']","《講授類》
