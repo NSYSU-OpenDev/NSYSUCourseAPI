@@ -1,9 +1,9 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS428&Crsname=產銷資訊系統專案（二）,,,True,資管系,MIS428,4,不分班,"產銷資訊系統專案（二）
-PRODUCTION-MARKETING INFORMATION SYSTEMS PROJECT (II)",3,期,True,50,0,0,50,劉賓陽,,"['', '', '', '', '', '', '']","《講授類》
+PRODUCTION-MARKETING INFORMATION SYSTEMS PROJECT (II)",3,期,True,50,0,0,50,劉賓陽,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《講授類》
 限資管系四年級",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS429&Crsname=決策支援系統專案（二）,,,True,資管系,MIS429,4,不分班,"決策支援系統專案（二）
-DECISION SUPPORT SYSTEMS PROJECT (II)",3,期,True,50,0,0,50,李捷,,"['', '', '', '', '', '', '']","《講授類》
+DECISION SUPPORT SYSTEMS PROJECT (II)",3,期,True,50,0,0,50,李捷,一A() 二A() 三A(),"['A', 'A', 'A', '', '', '', '']","《講授類》
 限資管系四年級",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=FM101&Crsname=初級會計學（一）,,,False,財管系,FM101,1,不分班,"初級會計學（一）
 ACCOUNTING(I)",3,期,True,65,0,0,65,吳藺芝,"一2,3,4(管CM 1037)","['234', '', '', '', '', '', '']","《講授類》
