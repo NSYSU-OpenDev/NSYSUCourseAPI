@@ -1,11 +1,11 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GESL426&Crsname=服務學習：弱勢兒童課輔,異動,修正備註說明6/25,False,服務學習,GESL426,0,不分班,"服務學習：弱勢兒童課輔
-SERVICE LEARNING: TUTORING FOR SOCIOECONOMICALLY DISADVANTAGED STUDENTS",1,期,True,40,0,0,40,王以亮,"二C,D(通GE 3011)","['', 'CD', '', '', '', '', '']","《服務學習類》
+SERVICE LEARNING: TUTORING FOR SOCIOECONOMICALLY DISADVANTAGED STUDENTS",1,期,True,40,0,0,40,王以亮,,"['', '', '', '', '', '', '']","《服務學習類》
 1.服務時間須滿28小時，服務時間跟地點請詳閱課綱。 2.第2週說明會修課同學一律要求參加，若不克前來請勿選修或請退選本課程。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GESL428&Crsname=服務學習：城市道路標線底圖繪製,,,False,服務學習,GESL428,0,不分班,"服務學習：城市道路標線底圖繪製
-SERVICE LEARNING: BASE MAP DRAFTING FOR URBAN ROAD MARKINGS",1,期,True,40,0,0,40,夏晧清,"四3,4(西SW 1007)","['', '', '', '34', '', '', '']",《服務學習類》,[],False
+SERVICE LEARNING: BASE MAP DRAFTING FOR URBAN ROAD MARKINGS",1,期,True,40,0,0,40,夏晧清,,"['', '', '', '', '', '', '']",《服務學習類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GESL429&Crsname=服務學習：獼猴共存術-人與動物間的共存課,,,False,服務學習,GESL429,0,不分班,"服務學習：獼猴共存術-人與動物間的共存課
-SERVICE LEARNING:  MACAQUE COEXISTENCE TECHNIQUES - COEXISTENCE BETWEEN HUMANS AND ANIMALS",1,期,True,40,0,0,40,待聘,"三3,4(西SW 1007)","['', '', '34', '', '', '', '']",《服務學習類》,[],False
+SERVICE LEARNING:  MACAQUE COEXISTENCE TECHNIQUES - COEXISTENCE BETWEEN HUMANS AND ANIMALS",1,期,True,40,0,0,40,待聘,,"['', '', '', '', '', '', '']",《服務學習類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL103&Crsname=國學導讀（一）,,,False,中文系,CL103,1,不分班,"國學導讀（一）
 INTRODUCTION TO CHINESE CLASSICAL STUDIES(I)",2,期,True,50,0,0,50,黃羽璿,"三3,4(文LA 4005)","['', '', '34', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL105&Crsname=文學概論（一）,,,False,中文系,CL105,1,不分班,"文學概論（一）
