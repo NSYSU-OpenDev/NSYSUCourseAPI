@@ -2781,47 +2781,47 @@ SURVEYING",3,期,True,50,0,0,50,鍾秉宸,"二2,3,4(海ME 2005)","['', '234', ''
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV262&Crsname=測量學實習,,,False,海工系,MAEV262,2,全英班,"測量學實習
 SURVEYING LABORATORY",1,期,True,50,0,0,50,鍾秉宸,"二5,6,7(海ME 2005)(實驗)","['', '567', '', '', '', '', '']",《實習類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV322&Crsname=海洋波浪學,,,False,海工系,MAEV322,3,全英班,"海洋波浪學
-OCEAN WAVES",3,期,True,70,0,0,70,許弘莒,"一8,6,7(海ME 2003)","['678', '', '', '', '', '', '']",《講授類》,[],True
+OCEAN WAVES",3,期,True,70,0,0,70,許弘莒,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV325&Crsname=渠道水力學,,,False,海工系,MAEV325,4,不分班,"渠道水力學
-OPEN CHANNEL HYDRAULICS",3,期,False,50,0,0,50,鍾秉宸,"五5,6,7(海ME 2005)","['', '', '', '', '567', '', '']",《講授類》,[],False
+OPEN CHANNEL HYDRAULICS",3,期,False,50,0,0,50,鍾秉宸,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV326&Crsname=流體動力學,,,False,海工系,MAEV326,3,全英班,"流體動力學
-HYDRODYNAMICS",3,期,False,50,0,0,50,葉博弘,"四5,6,7(海ME 2003)","['', '', '', '567', '', '', '']",《講授類》,[],False
+HYDRODYNAMICS",3,期,False,50,0,0,50,葉博弘,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV340&Crsname=土壤力學,,,False,海工系,MAEV340,3,全英班,"土壤力學
-SOIL MECHANICS",3,期,True,55,0,0,55,林俊宏,"四2,3,4(海ME 2003)","['', '', '', '234', '', '', '']",《講授類》,[],True
+SOIL MECHANICS",3,期,True,55,0,0,55,林俊宏,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV341&Crsname=土壤力學實驗,,,False,海工系,MAEV341,3,全英班,"土壤力學實驗
-SOIL MECHANICS LABORATORY",1,期,True,50,0,0,50,林俊宏,"三5,6,7(海ME 2003)(實驗)","['', '', '567', '', '', '', '']",《實驗類》,[],True
+SOIL MECHANICS LABORATORY",1,期,True,50,0,0,50,林俊宏,,"['', '', '', '', '', '', '']",《實驗類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV344&Crsname=中等結構學,,,False,海工系,MAEV344,3,全英班,"中等結構學
-INDETERMINATE STRUCTURE THEORY",3,期,False,50,0,0,50,金尚進,"三2,3,4(海ME 2005)","['', '', '234', '', '', '', '']",《講授類》,[],True
+INDETERMINATE STRUCTURE THEORY",3,期,False,50,0,0,50,金尚進,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV407&Crsname=畢業專題,,,False,海工系,MAEV407,4,不分班,"畢業專題
-GRADUATION PROJECT",2,期,True,50,0,0,50,指導教授,"六A,1()","['', '', '', '', '', 'A1', '']",《獨立研究》,[],False
+GRADUATION PROJECT",2,期,True,50,0,0,50,指導教授,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV410&Crsname=海上實習,,,False,海工系,MAEV410,3,全英班,"海上實習
-OCEANOGRAPHIC CRUISE PRACTICE",1,期,True,50,0,0,50,"林俊宏,莊偉良","五5,6(海ME 2003)(實驗)","['', '', '', '', '56', '', '']","《實習類》
+OCEANOGRAPHIC CRUISE PRACTICE",1,期,True,50,0,0,50,"林俊宏,莊偉良",,"['', '', '', '', '', '', '']","《實習類》
 修課學生須先取得海科院舉辦之水域活動安全與自救訓練講習證明，始能參與水域活動(含實習航次)",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV420&Crsname=水資源工程,,,False,海工系,MAEV420,3,全英班,"水資源工程
-WATER RESOURCES ENGINEERING",3,期,False,50,0,0,50,莊偉良,"五2,3,4(海ME 2003)","['', '', '', '', '234', '', '']",《講授類》,[],False
+WATER RESOURCES ENGINEERING",3,期,False,50,0,0,50,莊偉良,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV422&Crsname=港灣工程（含設計實例）,,,False,海工系,MAEV422,4,不分班,"港灣工程（含設計實例）
-HARBOR ENGINEERING (INCL. DESIGN CASES STUDY)",3,期,False,50,0,0,50,陳吉紀,"二2,3,4(海ME 2007)","['', '234', '', '', '', '', '']",《講授類》,[],False
+HARBOR ENGINEERING (INCL. DESIGN CASES STUDY)",3,期,False,50,0,0,50,陳吉紀,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV443&Crsname=船舶及海上結構力學,,,False,海工系,MAEV443,4,不分班,"船舶及海上結構力學
-SHIP AND OFFSHORE STRUCTURAL MECHANICS",3,期,False,50,0,0,50,金尚進,"四2,3,4(海ME 2007)","['', '', '', '234', '', '', '']",《講授類》,[],True
+SHIP AND OFFSHORE STRUCTURAL MECHANICS",3,期,False,50,0,0,50,金尚進,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV453&Crsname=海岸開發及保育工程,,,False,海工系,MAEV453,4,不分班,"海岸開發及保育工程
-COASTAL DEVELOPMENT AND RESTORATION ENGINEERING",3,期,False,50,0,0,50,曾以帆,"一8,6,7(海ME 2007)","['678', '', '', '', '', '', '']",《講授類》,[],False
+COASTAL DEVELOPMENT AND RESTORATION ENGINEERING",3,期,False,50,0,0,50,曾以帆,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV454&Crsname=生態工程與實務,,,False,海工系,MAEV454,4,不分班,"生態工程與實務
-ECOLOGICAL ENGINEERING AND PRACTICE",3,期,False,50,0,0,50,林巧雯,"三2,3,4(海ME 2007)","['', '', '234', '', '', '', '']",《講授類》,[],False
+ECOLOGICAL ENGINEERING AND PRACTICE",3,期,False,50,0,0,50,林巧雯,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO101&Crsname=微積分（一）,,,False,海科系,DO101,1,不分班,"微積分（一）
-CALCULUS (I)",3,期,True,50,0,0,50,莊秉樺,"五2,3,4(海MA 3020)","['', '', '', '', '234', '', '']",《講授類》,[],False
+CALCULUS (I)",3,期,True,50,0,0,50,莊秉樺,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO103&Crsname=普通化學,,,False,海科系,DO103,1,不分班,"普通化學
-GENERAL CHEMISTRY",3,期,True,50,0,0,50,蔡明利,"三5,6,7(海MA 3020)","['', '', '567', '', '', '', '']",《講授類》,[],False
+GENERAL CHEMISTRY",3,期,True,50,0,0,50,蔡明利,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO121&Crsname=海洋化學實驗（一）,,,False,海科系,DO121,3,不分班,"海洋化學實驗（一）
-MARINE CHEMISTRY LABORATORY (I)",1,期,False,50,0,0,50,"施詠嚴,洪慶章","一8,9(海MA 2009)(實驗)","['89', '', '', '', '', '', '']",《實驗類》,[],False
+MARINE CHEMISTRY LABORATORY (I)",1,期,False,50,0,0,50,"施詠嚴,洪慶章",,"['', '', '', '', '', '', '']",《實驗類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO131&Crsname=海洋地質概論,,,False,海科系,DO131,1,不分班,"海洋地質概論
-INTRODUCTION TO MARINE GEOLOGY",2,期,True,40,0,0,40,張瑜峻,"四3,4(海MA 1005)","['', '', '', '34', '', '', '']","《講授類》
+INTRODUCTION TO MARINE GEOLOGY",2,期,True,40,0,0,40,張瑜峻,,"['', '', '', '', '', '', '']","《講授類》
 適合大一、大二學生跨院選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO201&Crsname=海洋化學概論,,,False,海科系,DO201,2,不分班,"海洋化學概論
-INTRODUCTION TO MARINE CHEMISTRY",2,期,True,50,0,0,50,簡國童,"三3,4(海MA 1005)","['', '', '34', '', '', '', '']",《講授類》,[],False
+INTRODUCTION TO MARINE CHEMISTRY",2,期,True,50,0,0,50,簡國童,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO203&Crsname=海洋生物概論,,,False,海科系,DO203,1,不分班,"海洋生物概論
-INTRODUCTION TO MARINE BIOLOGY",2,期,True,50,0,0,50,"王志騰,陳慶能","四6,7(海MA 1005)","['', '', '', '67', '', '', '']",《講授類》,[],False
+INTRODUCTION TO MARINE BIOLOGY",2,期,True,50,0,0,50,"王志騰,陳慶能",,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO203A&Crsname=海洋生物概論,,,False,海科系,DO203A,1,不分班,"海洋生物概論
-INTRODUCTION TO MARINE BIOLOGY",2,期,False,30,0,0,30,熊寶兒,"四8,9(海MA 2022)","['', '', '', '89', '', '', '']","《講授類》
+INTRODUCTION TO MARINE BIOLOGY",2,期,False,30,0,0,30,熊寶兒,,"['', '', '', '', '', '', '']","《講授類》
 適合大一、大二學生跨院選修。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO206&Crsname=應用統計學（一）,,,False,海科系,DO206,3,不分班,"應用統計學（一）
 APPLIED STATISTICS (I)",2,期,False,50,0,0,50,托星豪,"一1,2(海MA 2022)","['12', '', '', '', '', '', '']","《講授類》
@@ -4650,13 +4650,13 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS604D
 SEMINAR",3,期,False,50,0,0,50,李怡珍,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS604E&Crsname=專題討論,,,False,資管碩,MIS604E,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,李家瑩,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,李家瑩,,"['', '', '', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS604F&Crsname=專題討論,,,False,資管碩,MIS604F,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,林耕霈,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,林耕霈,,"['', '', '', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS604G&Crsname=專題討論,,,False,資管碩,MIS604G,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,韓毅,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,韓毅,,"['', '', '', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=FM506&Crsname=金融市場理論與實務,,,False,財管碩,FM506,1,不分班,"金融市場理論與實務
 FINANCIAL MARKETS THEORY AND PRACTICE",3,期,False,50,0,0,50,邱敬貿,"一8,6,7(管CM 1023)","['678', '', '', '', '', '', '']",《講授類》,[],False
@@ -6603,51 +6603,51 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM412&C
 THE THEORY AND PRACTICE OF ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,0,60,"王致遠,王豫萱,鄭安授",三A(網路大學),"['', '', 'A', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限管理學院大學部學生修習(含雙主修、輔系)。 CM411與CM412為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。 網大進行之非同步線上課程。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MRSC114&Crsname=海洋基礎科學,,,False,海科院（學）,MRSC114,1,,"海洋基礎科學
-BASIC MARINE SCIENCES",2,期,True,150,0,0,150,"林梅芳,陳冠宇,黃蔚人","一6,7(海MA 3021)","['67', '', '', '', '', '', '']","《講授類》
+BASIC MARINE SCIENCES",2,期,True,150,0,0,150,"林梅芳,陳冠宇,黃蔚人",,"['', '', '', '', '', '', '']","《講授類》
 海資系、海工系及海科系大一必修。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BIOS547&Crsname=演化生物學,,,False,生科碩,BIOS547,1,,"演化生物學
 EVOLUTIONARY BIOLOGY",3,期,False,50,0,0,50,江友中,"二C,D,E(理SC 3005)","['', 'CDE', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BIOS548&Crsname=應用解剖學,,,False,生科碩,BIOS548,1,,"應用解剖學
 APPLIED ANATOMY",3,期,False,50,0,0,50,汪海晏,"一C,D,E(理BI 3001)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHYS525&Crsname=半導體材料與物理,,,False,物理碩,PHYS525,1,不分班,"半導體材料與物理
-SEMICONDUCTOR MATERIALS AND PHYSICS",3,期,False,50,0,0,50,余健文,"二8,6,7(理PH 5008)","['', '678', '', '', '', '', '']",《講授類》,[],True
+SEMICONDUCTOR MATERIALS AND PHYSICS",3,期,False,50,0,0,50,余健文,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHYS525&Crsname=半導體材料與物理,,,False,物理碩,PHYS525,1,全英班,"半導體材料與物理
-SEMICONDUCTOR MATERIALS AND PHYSICS",3,期,False,50,0,0,50,余健文,"二8,6,7(理PH 5008)","['', '678', '', '', '', '', '']",《講授類》,[],True
+SEMICONDUCTOR MATERIALS AND PHYSICS",3,期,False,50,0,0,50,余健文,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5310&Crsname=計算機網路,,,False,電機碩,EE5310,0,,"計算機網路
-COMPUTER NETWORK",3,期,False,50,0,0,50,許蒼嶺,"三5,6,7(工EC 6010-2)","['', '', '567', '', '', '', '']","《講授類》
+COMPUTER NETWORK",3,期,False,50,0,0,50,許蒼嶺,,"['', '', '', '', '', '', '']","《講授類》
 開放大三、大四學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5722&Crsname=生醫影像研究方法,,,False,電機碩,EE5722,0,,"生醫影像研究方法
-BIOMEDICAL IMAGE INVESTIGATION",3,期,False,50,0,0,50,吳珮歆,"一8,6,7(工EC 3014)","['678', '', '', '', '', '', '']","《講授類》
+BIOMEDICAL IMAGE INVESTIGATION",3,期,False,50,0,0,50,吳珮歆,,"['', '', '', '', '', '', '']","《講授類》
 開放大三、大四學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES501&Crsname=書報討論,,,False,材光碩,MOES501,1,,"書報討論
-SEMINAR",1,期,True,70,0,0,70,李廣輝,"三6,7(工EN 2028 )","['', '', '67', '', '', '', '']","《研討類》
+SEMINAR",1,期,True,70,0,0,70,李廣輝,,"['', '', '', '', '', '', '']","《研討類》
 材光系碩一生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES503&Crsname=Ｘ光繞射學,,,False,材光碩,MOES503,0,,"Ｘ光繞射學
-X-RAY DIFFRACTION",3,期,False,50,0,0,50,王致傑,"一8,6,7(工MS 4019)","['678', '', '', '', '', '', '']",《講授類》,[],False
+X-RAY DIFFRACTION",3,期,False,50,0,0,50,王致傑,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES504&Crsname=冶金熱力學,,,False,材光碩,MOES504,0,,"冶金熱力學
-METALLURGICAL THERMODYNAMICS",3,期,False,20,0,0,20,邱政維,"一C,D,E(工MS 4025)","['CDE', '', '', '', '', '', '']",《講授類》,[],True
+METALLURGICAL THERMODYNAMICS",3,期,False,20,0,0,20,邱政維,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES506&Crsname=固態相變化,,,False,材光碩,MOES506,0,,"固態相變化
-PHASE TRANSFORMATION IN SOLIDS",3,期,False,20,0,0,20,張六文,"四3,4(工MS 2001) 五7(工MS 2001)","['', '', '', '34', '7', '', '']",《講授類》,[],False
+PHASE TRANSFORMATION IN SOLIDS",3,期,False,20,0,0,20,張六文,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES508&Crsname=高分子合成與反應,,,False,材光碩,MOES508,0,,"高分子合成與反應
-SYNTHESIS AND REACTIONS OF POLYMERS",3,期,False,32,0,0,32,曼哈迪,"四C,D,E(工MS 4023)","['', '', '', 'CDE', '', '', '']",《講授類》,[],True
+SYNTHESIS AND REACTIONS OF POLYMERS",3,期,False,32,0,0,32,曼哈迪,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES512&Crsname=半導體物理,,,False,材光碩,MOES512,0,,"半導體物理
-PHYSICS OF SEMICONDUCTOR",3,期,False,20,0,0,20,杭大任,"四C,D,E(工MS 4025 )","['', '', '', 'CDE', '', '', '']","《講授類》
+PHYSICS OF SEMICONDUCTOR",3,期,False,20,0,0,20,杭大任,,"['', '', '', '', '', '', '']","《講授類》
 初選限研究生選課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES513&Crsname=波動光學,,,False,材光碩,MOES513,0,,"波動光學
-WAVE OPTICS",3,期,False,60,0,0,60,蘇威宏,"一4(工MS 4019) 四3,4(工MS 4019)","['4', '', '', '34', '', '', '']",《講授類》,[],True
+WAVE OPTICS",3,期,False,60,0,0,60,蘇威宏,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES515&Crsname=電磁與量子物理,,,False,材光碩,MOES515,0,,"電磁與量子物理
-ELECTROMAGNETISM AND QUANTUM PHYSICS",3,期,False,20,0,0,20,杭大任,"三D,E(工MS 2004) 四9(工MS 2004)","['', '', 'DE', '9', '', '', '']","《講授類》
+ELECTROMAGNETISM AND QUANTUM PHYSICS",3,期,False,20,0,0,20,杭大任,,"['', '', '', '', '', '', '']","《講授類》
 初選限研究生選課",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES541&Crsname=高分子檢測與分析,,,False,材光碩,MOES541,0,,"高分子檢測與分析
-POLYMER CHARACTERIZATION",3,期,False,60,0,0,60,葉昀昇,"四8,6,7(工MS 4019)","['', '', '', '678', '', '', '']",《講授類》,[],True
+POLYMER CHARACTERIZATION",3,期,False,60,0,0,60,葉昀昇,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES543&Crsname=軟質材料,,,False,材光碩,MOES543,0,,"軟質材料
-SOFT MATERIALS",3,期,False,60,0,0,60,郭紹偉,"二8,6,7(工MS 4019 )","['', '678', '', '', '', '', '']",《講授類》,[],True
+SOFT MATERIALS",3,期,False,60,0,0,60,郭紹偉,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES546&Crsname=電子顯微鏡於軟物質研究之應用,,,False,材光碩,MOES546,0,,"電子顯微鏡於軟物質研究之應用
-ELECTRON MICROSCOPY FOR SOFT MATERIALS",3,期,False,60,0,0,60,蔣酉旺,"二2,3,4()","['', '234', '', '', '', '', '']",《講授類》,[],True
+ELECTRON MICROSCOPY FOR SOFT MATERIALS",3,期,False,60,0,0,60,蔣酉旺,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES547&Crsname=半導體元件,,,False,材光碩,MOES547,0,,"半導體元件
-SEMICONDUCTOR DEVICE",3,期,False,60,0,0,60,蔡宗鳴,"四C,D,E(工MS 4022)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+SEMICONDUCTOR DEVICE",3,期,False,60,0,0,60,蔡宗鳴,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES557&Crsname=材料光譜分析,,,False,材光碩,MOES557,0,,"材料光譜分析
-SPECTROSCOPIC METHODS IN MATERIALS CHARACTERIZATION",3,期,False,20,0,0,20,徐瑞鴻,"三2,3,4(工MS 4025)","['', '', '234', '', '', '', '']",《講授類》,[],False
+SPECTROSCOPIC METHODS IN MATERIALS CHARACTERIZATION",3,期,False,20,0,0,20,徐瑞鴻,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES561&Crsname=凝態理論,,,False,材光碩,MOES561,0,,"凝態理論
 CONDENSED MATTER THEORY",3,期,False,32,0,0,32,林仕鑫,"五1,2,3()","['', '', '', '', '123', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES591&Crsname=材料化學,,,False,材光碩,MOES591,0,,"材料化學

@@ -1,12 +1,12 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS604E&Crsname=專題討論,,,False,資管碩,MIS604E,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,李家瑩,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,李家瑩,,"['', '', '', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS604F&Crsname=專題討論,,,False,資管碩,MIS604F,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,林耕霈,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,林耕霈,,"['', '', '', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS604G&Crsname=專題討論,,,False,資管碩,MIS604G,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,韓毅,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,韓毅,,"['', '', '', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=FM506&Crsname=金融市場理論與實務,,,False,財管碩,FM506,1,不分班,"金融市場理論與實務
 FINANCIAL MARKETS THEORY AND PRACTICE",3,期,False,50,0,0,50,邱敬貿,"一8,6,7(管CM 1023)","['678', '', '', '', '', '', '']",《講授類》,[],False
