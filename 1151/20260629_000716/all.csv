@@ -4650,13 +4650,13 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS604D
 SEMINAR",3,期,False,50,0,0,50,李怡珍,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS604E&Crsname=專題討論,,,False,資管碩,MIS604E,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,李家瑩,,"['', '', '', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,李家瑩,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS604F&Crsname=專題討論,,,False,資管碩,MIS604F,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,林耕霈,,"['', '', '', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,林耕霈,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS604G&Crsname=專題討論,,,False,資管碩,MIS604G,0,不分班,"專題討論
-SEMINAR",3,期,False,50,0,0,50,韓毅,,"['', '', '', '', '', '', '']","《獨立研究》
+SEMINAR",3,期,False,50,0,0,50,韓毅,一1() 二1() 三1(),"['1', '1', '1', '', '', '', '']","《獨立研究》
 限資管所二年級",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=FM506&Crsname=金融市場理論與實務,,,False,財管碩,FM506,1,不分班,"金融市場理論與實務
 FINANCIAL MARKETS THEORY AND PRACTICE",3,期,False,50,0,0,50,邱敬貿,"一8,6,7(管CM 1023)","['678', '', '', '', '', '', '']",《講授類》,[],False
@@ -6614,7 +6614,7 @@ SEMICONDUCTOR MATERIALS AND PHYSICS",3,期,False,50,0,0,50,余健文,,"['', '', 
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHYS525&Crsname=半導體材料與物理,,,False,物理碩,PHYS525,1,全英班,"半導體材料與物理
 SEMICONDUCTOR MATERIALS AND PHYSICS",3,期,False,50,0,0,50,余健文,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5310&Crsname=計算機網路,,,False,電機碩,EE5310,0,,"計算機網路
-COMPUTER NETWORK",3,期,False,50,0,0,50,許蒼嶺,,"['', '', '', '', '', '', '']","《講授類》
+COMPUTER NETWORK",3,期,False,50,0,0,50,許蒼嶺,"三5,6,7(工EC 6010-2)","['', '', '567', '', '', '', '']","《講授類》
 開放大三、大四學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5722&Crsname=生醫影像研究方法,,,False,電機碩,EE5722,0,,"生醫影像研究方法
 BIOMEDICAL IMAGE INVESTIGATION",3,期,False,50,0,0,50,吳珮歆,,"['', '', '', '', '', '', '']","《講授類》
