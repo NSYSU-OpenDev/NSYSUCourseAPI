@@ -9,10 +9,10 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BIOS311
 MOLECULAR BIOLOGY",3,期,True,50,0,0,50,"傅瀚儀,黃明德","二2,3,4(理SC 3005)","['', '234', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BIOS311A&Crsname=分子生物學,,,False,生科系,BIOS311A,3,全英班,"分子生物學
 MOLECULAR BIOLOGY",3,期,True,50,0,0,50,"李豪嶧,賴至人,陳俊朝","二2,3,4(理BI 2002)","['', '234', '', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BIOS312&Crsname=植物生理學,,,False,生科系,BIOS312,3,不分班,"植物生理學
-PLANT PHYSIOLOGY",3,期,True,50,0,0,50,"傅瀚儀,謝文發","一2,3,4(理SC 2001)","['234', '', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BIOS312A&Crsname=植物生理學,,,False,生科系,BIOS312A,3,全英班,"植物生理學
-PLANT PHYSIOLOGY",3,期,True,50,0,0,50,"傅瀚儀,謝文發","一5,6,7(理SC 2001)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BIOS312&Crsname=植物生理學,異動,取消合授教師6/29,False,生科系,BIOS312,3,不分班,"植物生理學
+PLANT PHYSIOLOGY",3,期,True,50,0,0,50,謝文發,"一2,3,4(理SC 2001)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BIOS312A&Crsname=植物生理學,異動,取消合授教師6/29,False,生科系,BIOS312A,3,全英班,"植物生理學
+PLANT PHYSIOLOGY",3,期,True,50,0,0,50,謝文發,"一5,6,7(理SC 2001)","['567', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BIOS338&Crsname=動物生理學實驗,,,False,生科系,BIOS338,4,不分班,"動物生理學實驗
 ANIMAL PHYSIOLOGY LABORATORY",1,期,False,10,0,0,10,李昆澤,,"['234567', '234567', '234567', '234567', '234567', '', '']","《實驗類》
 暑假集中授課",[],False
