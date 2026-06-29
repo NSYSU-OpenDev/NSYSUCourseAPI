@@ -1,0 +1,14 @@
+Item root[855] added to iterable.
+Item root[1208]['classTime'][0] removed from iterable.
+Repetition change for item root[1208]['classTime'][4].
+Type of root[1209]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1209]['changeDescription'] changed from NoneType to str and value changed from None to "教師時間異動6/29".
+Type of root[1224]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1224]['changeDescription'] changed from NoneType to str and value changed from None to "更換合授教師6/29".
+Type of root[2567]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2567]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間6/29".
+Type of root[2568]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2568]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間6/29".
+Value of root[1224]['teacher'] changed from "劉勃佑,李昇翰,柯瓊媛,許博欽,趙敏吾,鄭雅勻,陳德全,陳志弘" to "劉勃佑,李昇翰,柯瓊媛,趙敏吾,鄭雅勻,陳建良,陳德全,陳志弘".
+Value of root[2567]['room'] changed from "四3(管CM 2020)" to "三3(管CM 2020)".
+Value of root[2568]['room'] changed from "四4(管CM 2020)" to "三4(管CM 2020)".
