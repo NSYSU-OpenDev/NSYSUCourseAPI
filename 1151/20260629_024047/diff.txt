@@ -18,18 +18,8 @@ Item root[1076]['classTime'][3] added to iterable.
 Item root[1077]['classTime'][2] added to iterable.
 Item root[1078]['classTime'][3] added to iterable.
 Item root[1079]['classTime'][3] added to iterable.
-Item root[1840]['classTime'][0] added to iterable.
-Item root[1840]['classTime'][1] added to iterable.
-Item root[1840]['classTime'][2] added to iterable.
-Item root[1841]['classTime'][0] added to iterable.
-Item root[1841]['classTime'][1] added to iterable.
-Item root[1841]['classTime'][2] added to iterable.
-Item root[1842]['classTime'][0] added to iterable.
-Item root[1842]['classTime'][1] added to iterable.
-Item root[1842]['classTime'][2] added to iterable.
 Item root[2680]['classTime'][0] added to iterable.
 Item root[2684]['classTime'][1] added to iterable.
-Item root[2685]['classTime'][2] added to iterable.
 Item root[2686]['classTime'][0] added to iterable.
 Item root[2687]['classTime'][2] added to iterable.
 Item root[2688]['classTime'][0] added to iterable.
@@ -68,12 +58,8 @@ Repetition change for item root[1076]['classTime'][0].
 Repetition change for item root[1077]['classTime'][0].
 Repetition change for item root[1078]['classTime'][0].
 Repetition change for item root[1079]['classTime'][0].
-Repetition change for item root[1840]['classTime'][0].
-Repetition change for item root[1841]['classTime'][0].
-Repetition change for item root[1842]['classTime'][0].
 Repetition change for item root[2680]['classTime'][0].
 Repetition change for item root[2684]['classTime'][0].
-Repetition change for item root[2685]['classTime'][0].
 Repetition change for item root[2686]['classTime'][0].
 Repetition change for item root[2687]['classTime'][0].
 Repetition change for item root[2688]['classTime'][0].
@@ -109,12 +95,8 @@ Value of root[1076]['room'] changed from "" to "四3,4(海MA 1005)".
 Value of root[1077]['room'] changed from "" to "三3,4(海MA 1005)".
 Value of root[1078]['room'] changed from "" to "四6,7(海MA 1005)".
 Value of root[1079]['room'] changed from "" to "四8,9(海MA 2022)".
-Value of root[1840]['room'] changed from "" to "一1() 二1() 三1()".
-Value of root[1841]['room'] changed from "" to "一1() 二1() 三1()".
-Value of root[1842]['room'] changed from "" to "一1() 二1() 三1()".
 Value of root[2680]['room'] changed from "" to "一6,7(海MA 3021)".
 Value of root[2684]['room'] changed from "" to "二8,6,7(理PH 5008)".
-Value of root[2685]['room'] changed from "" to "三5,6,7(工EC 6010-2)".
 Value of root[2686]['room'] changed from "" to "一8,6,7(工EC 3014)".
 Value of root[2687]['room'] changed from "" to "三6,7(工EN 2028 )".
 Value of root[2688]['room'] changed from "" to "一8,6,7(工MS 4019)".
