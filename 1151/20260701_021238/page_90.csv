@@ -37,8 +37,8 @@ ANALOG INTEGRATED CIRCUIT DESIGN",3,期,False,50,0,0,50,郭可驥,"一5,6,7(工E
 與資工碩併班上課。修習本課程須具備電子學、電路學、工程數學及半導體元件物理等基礎知識。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IICD529&Crsname=嵌入式系統實務,,,False,積體電路碩,IICD529,0,不分班,"嵌入式系統實務
 EMBEDDED SYSTEMS PRACTICE",3,期,False,30,0,0,30,李博明,"一2,3,4(工EC 6010-2)","['234', '', '', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IICD534&Crsname=資料密集系統的軟硬體協同設計,,,False,積體電路碩,IICD534,0,不分班,"資料密集系統的軟硬體協同設計
-SOFTWARE-HARDWARE CO-DESIGN FOR DATA-INTENSIVE SYSTEMS",3,期,False,50,0,0,50,辛艾曼,"三5,6,7(工EC 3024)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IICD534&Crsname=資料密集系統的軟硬體協同設計,異動,更換時間6/30,False,積體電路碩,IICD534,0,不分班,"資料密集系統的軟硬體協同設計
+SOFTWARE-HARDWARE CO-DESIGN FOR DATA-INTENSIVE SYSTEMS",3,期,False,50,0,0,50,辛艾曼,"五5,6,7(工EC 3024)","['', '', '', '', '567', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IICD580&Crsname=高等數位電路設計專題,,,False,積體電路碩,IICD580,0,不分班,"高等數位電路設計專題
 INDEPENDENT STUDIES IN ADVANCED DIGITAL CIRCUIT DESIGN",3,期,False,50,0,0,50,施信毓,"一8,6,7(工EC 2018)","['678', '', '', '', '', '', '']","《獨立研究》
 與電機碩併班上課",[],True
