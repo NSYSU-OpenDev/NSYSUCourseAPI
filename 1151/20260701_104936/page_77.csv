@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MATH695&Crsname=高維度資料分析專題研討（二）,,,False,應數碩,MATH695,0,不分班,"高維度資料分析專題研討（二）
-SEMINAR IN HIGH-DIMENSIONAL DATA ANALYSIS (II)",3,期,False,10,0,0,10,林建同,,"['', '', '', '', '', '', '']",《研討類》,[],False
+SEMINAR IN HIGH-DIMENSIONAL DATA ANALYSIS (II)",3,期,False,10,0,0,10,林建同,"三5,6,7(理SC 4013)","['', '', '567', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5100&Crsname=書報討論,,,False,電機碩,EE5100,1,不分班,"書報討論
 SEMINAR",1,期,True,150,0,0,150,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《演講/參訪》
 碩、博併班上課",[],False
