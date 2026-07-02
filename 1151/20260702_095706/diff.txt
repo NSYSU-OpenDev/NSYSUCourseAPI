@@ -1,0 +1,65 @@
+Item root[337]['classTime'][2] added to iterable.
+Item root[1337]['classTime'][1] added to iterable.
+Item root[337]['classTime'][3] removed from iterable.
+Item root[1337]['classTime'][4] removed from iterable.
+Type of root[220]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[220]['changeDescription'] changed from NoneType to str and value changed from None to "7/2".
+Type of root[31]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[31]['changeDescription'] changed from NoneType to str and value changed from None to "7/2".
+Type of root[438]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[438]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室7/2".
+Type of root[337]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[337]['changeDescription'] changed from NoneType to str and value changed from None to "7/2".
+Type of root[24]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[24]['changeDescription'] changed from NoneType to str and value changed from None to "7/2".
+Type of root[1337]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1337]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/2".
+Value of root[220]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1089&Crsname=繪本藝術與創意實踐" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GENL0005&Crsname=基礎阿美族語與文化".
+Value of root[220]['department'] changed from "跨院選修(通)" to "國家語言".
+Value of root[220]['id'] changed from "GEAI1089" to "GENL0005".
+Value of root[220]['name'] changed from "繪本藝術與創意實踐
+PICTURE BOOK ART AND CREATIVE PRACTICE" to "基礎阿美族語與文化
+BASIC AMIS LANGUAGE & CULTURE".
+Value of root[220]['teacher'] changed from "黃郁晴" to "陳金結".
+Value of root[220]['room'] changed from "三2,3,4()" to "二2,3,4(通GE 3011)".
+Value of root[31]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GENL0001H&Crsname=中文思辨與表達（一）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GENL0006&Crsname=排灣族語、文化與藝術（一）".
+Value of root[31]['multipleCompulsory'] changed from True to False.
+Value of root[31]['id'] changed from "GENL0001H" to "GENL0006".
+Value of root[31]['name'] changed from "中文思辨與表達（一）
+CRITICAL THINKING AND EXPRESSION IN CHINESE（I）" to "排灣族語、文化與藝術（一）
+PAIWAN LANGUAGE, CULTURE AND ARTS (I)".
+Value of root[31]['restrict'] changed from 45 to 50.
+Value of root[31]['remaining'] changed from 45 to 50.
+Value of root[31]['teacher'] changed from "蘇凰蘭" to "方化雨".
+Value of root[31]['room'] changed from "二5,6,7(管CM 0052)" to "五5,6,7(西SW 1007)".
+Value of root[31]['description'] changed from "《講授類》
+本課程「加退選期間」額滿不予加簽。" to "《講授類》".
+Value of root[438]['room'] changed from "一5,6,7(文LA 3014)" to "一5,6,7(文LA 3012)".
+Value of root[337]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1685&Crsname=資源經濟學" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL652&Crsname=語用學".
+Value of root[337]['department'] changed from "跨院選修(社)" to "外文碩".
+Value of root[337]['id'] changed from "GEAI1685" to "DFLL652".
+Value of root[337]['name'] changed from "資源經濟學
+RESOURCE ECONOMICS" to "語用學
+PRAGMATICS".
+Value of root[337]['restrict'] changed from 30 to 50.
+Value of root[337]['remaining'] changed from 30 to 50.
+Value of root[337]['teacher'] changed from "林雅淇" to "曾銘裕".
+Value of root[337]['room'] changed from "四C,D,E(社SS 2007)" to "三2,3,4(文LA 3017)".
+Value of root[337]['description'] changed from "《講授類》
+跨院通識與亞太碩專CAPS927課程併班上課" to "《講授類》".
+Value of root[337]['english'] changed from False to True.
+Value of root[24]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GENL0001A&Crsname=中文思辨與表達（一）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL665&Crsname=英語教學研究".
+Value of root[24]['multipleCompulsory'] changed from True to False.
+Value of root[24]['department'] changed from "國家語言" to "外文碩".
+Value of root[24]['id'] changed from "GENL0001A" to "DFLL665".
+Value of root[24]['name'] changed from "中文思辨與表達（一）
+CRITICAL THINKING AND EXPRESSION IN CHINESE（I）" to "英語教學研究
+STUDIES IN ENGLISH LANGUAGE TEACHING".
+Value of root[24]['restrict'] changed from 45 to 50.
+Value of root[24]['remaining'] changed from 45 to 50.
+Value of root[24]['teacher'] changed from "林芷瑩" to "楊郁芬".
+Value of root[24]['room'] changed from "二2,3,4(工EN 0032)" to "五2,3,4(文LA 3017)".
+Value of root[24]['description'] changed from "《講授類》
+本課程「加退選期間」額滿不予加簽。" to "《講授類》".
+Value of root[24]['english'] changed from False to True.
+Value of root[1337]['room'] changed from "五2,3,4()" to "二5,6,7()".
