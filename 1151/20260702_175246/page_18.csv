@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1909&Crsname=環境健康大數據資料分析暨視覺化實務,,,False,跨院選修(醫),GEAI1909,0,不分班,"環境健康大數據資料分析暨視覺化實務
+ENVIRONMENTAL AND HEALTHY BIG DATA ANALYSIS WITH VISUALISED PRACTICE",3,期,False,30,0,0,30,鄭雅勻,"二5,6,7(圖IL PC02)","['', '567', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED145課程併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1912&Crsname=生物統計與資訊,,,False,跨院選修(醫),GEAI1912,0,不分班,"生物統計與資訊
+BIOSTATISTICS AND BIOINFORMATICS?",2,期,False,30,0,0,30,鄭雅勻,"三3,4(圖IL PC01)","['', '', '34', '', '', '', '']","《講授類》
+與醫學院MED146課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1913&Crsname=公共衛生學,,,False,跨院選修(醫),GEAI1913,0,不分班,"公共衛生學
+PUBLIC HEALTH?",2,期,False,40,0,0,40,鄭雅勻,"四5,6(醫IL 9012)","['', '', '', '56', '', '', '']","《講授類》
+與醫學院MED147課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1939&Crsname=共病時代-談人類與動物共通傳染病,,,False,跨院選修(醫),GEAI1939,0,不分班,"共病時代-談人類與動物共通傳染病
+DISEASE, PLAGUE, AND CIVILIZATION",3,期,False,40,0,0,40,王文宏,"二2,3,4(醫IL 9012)","['', '234', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED122課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1940&Crsname=疾病瘟疫與文明,,,False,跨院選修(醫),GEAI1940,0,不分班,"疾病瘟疫與文明
+DISEASE, PLAGUE, AND CIVILIZATION",3,期,False,40,0,0,40,王文宏,"五2,3,4(醫IL 9012)","['', '', '', '', '234', '', '']","《講授類》
+與醫學院MED123課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1943&Crsname=危老年代,,,False,跨院選修(醫),GEAI1943,0,不分班,"危老年代
+AGING AND HEALTH",2,期,False,40,0,0,40,李昇翰,"二8,9(醫IL 9010)","['', '89', '', '', '', '', '']","《講授類》
+與醫學院MED126課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1944&Crsname=危險同居「人」：漫談居家有害生物,,,False,跨院選修(醫),GEAI1944,0,不分班,"危險同居「人」：漫談居家有害生物
+PESTS IN HOUSEHOLD ENVIRONMENT",3,期,False,40,0,0,40,李昇翰,"一8,9,7(醫IL 9010)","['789', '', '', '', '', '', '']","《講授類》
+與醫學院MED127課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1945&Crsname=環境與人類健康,,,False,跨院選修(醫),GEAI1945,0,不分班,"環境與人類健康
+ENVIRONMENT AND HUMAN HEALTH",2,期,False,40,0,0,40,李昇翰,"三3,4(醫IL 9010)","['', '', '34', '', '', '', '']","《講授類》
+與醫學院MED128課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1946&Crsname=基礎外傷急救,,,False,跨院選修(醫),GEAI1946,0,不分班,"基礎外傷急救
+BASICS OF TRAUMA CARE",2,期,False,30,0,0,30,唐逸文,"一3,4(醫IL 9010)","['34', '', '', '', '', '', '']","《講授類》
+跨院通識與醫學院MED129課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1948&Crsname=人體生理功能解密:生理學入門,,,False,跨院選修(醫),GEAI1948,0,不分班,"人體生理功能解密:生理學入門
+HUMAN BODY FUNCTIONS: BASIC PHYSIOLOGY",3,期,False,40,0,0,40,柯瓊媛,"三2,3,4(醫IL 9012)","['', '', '234', '', '', '', '']","《講授類》
+與醫學院MED131課程併班上課(基礎醫學數位微學程)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1950&Crsname=探索藥物：現實與電影中的藥物,,,False,跨院選修(醫),GEAI1950,0,不分班,"探索藥物：現實與電影中的藥物
+EXPLORING DRUGS: DRUGS IN REALITY AND IN MOVIES",3,期,False,40,0,0,40,陳亮傑,"二5,6,7(醫IL 9010)","['', '567', '', '', '', '', '']","《講授類》
+與醫學院MED133課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1952&Crsname=人類免疫與代謝,,,False,跨院選修(醫),GEAI1952,0,不分班,"人類免疫與代謝
+IMMUNOMETABOLISM OF HUMAN DISEASES",2,期,False,30,0,0,30,陳彥樺,"二8,7(醫IL 9012)","['', '78', '', '', '', '', '']","《講授類》
+與醫學院MED135課程併班上課(基礎醫學數位微學程)",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1954&Crsname=基因中的演化之舞,,,False,跨院選修(醫),GEAI1954,0,不分班,"基因中的演化之舞
+TRACING THE TANGLED TRACKS OF EVOLUTIONARY JOURNEY IN GENOME",3,期,False,30,0,0,30,陳彥樺,"三5,6,7(圖IL PC02)","['', '', '567', '', '', '', '']","《講授類》
+與醫學院MED137課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1964&Crsname=神經心理學：大腦與情緒,,,False,跨院選修(醫),GEAI1964,0,不分班,"神經心理學：大腦與情緒
+NEUROPSYCHOLOGY: THE BRAIN AND EMOTIONS",3,期,False,40,0,0,40,楊仁豪,"五8,6,7(國IR 4002)","['', '', '', '', '678', '', '']","《講授類》
+與醫學院MED153課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1965&Crsname=癌症治療,,,False,跨院選修(醫),GEAI1965,0,不分班,"癌症治療
+CANCER THERAPEUTICS",2,期,False,35,0,0,35,趙敏吾,"二5,6(醫IL 9012)","['', '56', '', '', '', '', '']","《講授類》
+與醫學院MED154課程併班上課(英語授課)",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1968&Crsname=生活柯南：破解似是而非的迷思,,,False,跨院選修(醫),GEAI1968,0,不分班,"生活柯南：破解似是而非的迷思
+LIVING CONAN: CRACKING THE MYTHS OF PLAUSIBILITY",2,期,False,30,0,0,30,"葉俊吟,陳嬿今","四3,4(醫IL 3013)","['', '', '', '34', '', '', '']","《講授類》
+與醫學院MED157課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1969&Crsname=與老共舞,,,False,跨院選修(醫),GEAI1969,0,不分班,"與老共舞
+LIVING WITH AGING: GERIATRIC CARE FOR OLDER ADULTS",3,期,False,30,0,0,30,"葉俊吟,郭素娥,陳嬿今","四5,6,7(醫IL 3013)","['', '', '', '567', '', '', '']","《講授類》
+與醫學院MED158課程併班上課(英語授課)",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1970&Crsname=看不見的魔力：生活中的微生物之應用,,,False,跨院選修(醫),GEAI1970,0,不分班,"看不見的魔力：生活中的微生物之應用
+THE INVISIBLE MAGIC: MICROORGANISMS AND THEIR APPLICATIONS IN DAILY LIFE",2,期,False,25,0,0,25,陳彥樺,"一3,4(醫IL 9012)","['34', '', '', '', '', '', '']","《講授類》
+與醫學院MED159課程併班上課(英語授課)",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1978&Crsname=身心健康醫學講座,,,False,跨院選修(醫),GEAI1978,0,不分班,"身心健康醫學講座
+SPECIAL LECTURES ON PHYSICAL AND MENTAL HEALTH",2,期,False,75,0,0,75,"余靈珊,王文宏","一5,6()","['56', '', '', '', '', '', '']","《講授類》
+與醫學院MED167課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1979&Crsname=中醫暨整合醫學,,,False,跨院選修(醫),GEAI1979,0,不分班,"中醫暨整合醫學
+CHINESE AND INTEGRATIVE MEDICINE",2,期,False,40,0,0,40,"謝孟倉,陳貞吟","四3,4(醫IL 9012)","['', '', '', '34', '', '', '']","《講授類》
+與醫學院MED168課程併班上課",[],False
