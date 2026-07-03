@@ -1,0 +1,15 @@
+Item root[1378] added to iterable.
+Type of root[524]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[524]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/3".
+Type of root[536]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[536]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師7/3".
+Type of root[1381]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1381]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師及教室7/3".
+Value of root[248]['teacher'] changed from "待聘" to "楊馨媛".
+Value of root[248]['description'] changed from "《展演》
+與劇藝系TA151課程併班上課" to "《展演》
+跨院通識與劇藝系TA151課程併班上課".
+Value of root[524]['teacher'] changed from "待聘" to "楊馨媛".
+Value of root[536]['teacher'] changed from "待聘" to "楊馨媛".
+Value of root[1381]['teacher'] changed from "戴遠雄" to "越建東".
+Value of root[1381]['room'] changed from "四2,3,4(文LA 7001)" to "四2,3,4(文LA 2009)".

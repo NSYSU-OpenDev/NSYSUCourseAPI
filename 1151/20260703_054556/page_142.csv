@@ -1,0 +1,14 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=HRMA946&Crsname=科技管理,,,False,策略人才碩專,HRMA946,0,,"科技管理
+MANAGEMENT OF TECHNOLOGY",3,期,False,40,0,0,40,陳旻男,"三D,E,F(管CM 3022)","['', '', 'DEF', '', '', '', '']","《講授類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=HRMA983&Crsname=策略管理,,,False,策略人才碩專,HRMA983,0,,"策略管理
+STRATEGIC MANAGEMENT",3,期,False,40,0,0,40,陳寶蓮,"日5,6,7(管CM 1032)","['', '', '', '', '', '', '567']","《講授類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=HRMA986&Crsname=新興科技事業發展策略,,,False,策略人才碩專,HRMA986,0,,"新興科技事業發展策略
+STRATEGIC PLANNING FOR TECHNOLOGY-DRIVEN EMERGING BUSINESS",3,期,False,40,0,0,40,陳寶蓮,"日2,3,4(管CM 1032)","['', '', '', '', '', '', '234']","《講授類》
+限人管所修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IPS701&Crsname=政治學方法論,,,False,政治博,IPS701,1,,"政治學方法論
+METHODOLOGY OF POLITICAL SCIENCE",3,期,True,50,0,0,50,劉正山,"一2,3,4(社SS 3010-1)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CAPS776&Crsname=亞太國家憲政發展,,,True,亞太博,CAPS776,1,,"亞太國家憲政發展
+CONSTITUTIONAL DEVELOPMENT OF ASIA-PACIFIC COUNTRIES",3,期,True,50,0,0,50,陳盈雪,"二2,3,4(社SS 2007)","['', '234', '', '', '', '', '']",《講授類》,[],True

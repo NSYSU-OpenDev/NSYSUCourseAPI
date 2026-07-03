@@ -1,0 +1,51 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI621&Crsname=弦樂三（大提琴）,,,False,音樂碩,MUSI621,0,不分班,"弦樂三（大提琴）
+STRINGS III (CELLO)",2,期,False,50,0,0,50,"張毅心,曾加宜","六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI622&Crsname=弦樂三（中、小提琴）,,,False,音樂碩,MUSI622,0,不分班,"弦樂三（中、小提琴）
+STRINGS III (VIOLA & VIOLIN)",2,期,False,50,0,0,50,陳鈺雯,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI627&Crsname=弦樂室內樂（二）,,,False,音樂碩,MUSI627,0,不分班,"弦樂室內樂（二）
+STRING CHAMBER MUSIC (II)",1,期,False,50,0,0,50,"謝孟軒,陳鈺雯","二3,4(文FA 4031)","['', '34', '', '', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI629&Crsname=聲樂室內樂,異動,更換時間及教室6/25,False,音樂碩,MUSI629,0,不分班,"聲樂室內樂
+VOCAL CHAMBER MUSIC",1,期,False,50,0,0,50,黃子珊,"一8,7(文FA 4030)","['78', '', '', '', '', '', '']",《音樂類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI636&Crsname=管樂三（長笛）,,,False,音樂碩,MUSI636,0,不分班,"管樂三（長笛）
+WOODWIND III (FLUTE)",2,期,False,50,0,0,50,林鴻君,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI638&Crsname=管樂三（雙簧管）,,,False,音樂碩,MUSI638,0,不分班,"管樂三（雙簧管）
+WOODWIND III(OBOE)",2,期,False,50,0,0,50,張瑞芝,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI642&Crsname=名家演奏（唱）風格探討（二）,,,False,音樂碩,MUSI642,0,不分班,"名家演奏（唱）風格探討（二）
+PERFORMANCE STYLE STUSIES OF MASTERS（II）",2,期,False,50,0,0,50,林雅叙,"四3,4(文FA 5008)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI645&Crsname=管樂室內樂（二）,,,False,音樂碩,MUSI645,0,不分班,"管樂室內樂（二）
+WIND CHAMBER MUSIC (II)",1,期,False,50,0,0,50,張瑞芝,"四1,2(文FA 4031)","['', '', '', '12', '', '', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI648&Crsname=管樂團合奏（二）,,,False,音樂碩,MUSI648,0,不分班,"管樂團合奏（二）
+WIND BAND （II）",1,期,False,50,0,0,50,林鴻君,"二9,C(文FA 4030)(實驗)","['', '9C', '', '', '', '', '']",《音樂類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI650&Crsname=聲樂（三）,,,False,音樂碩,MUSI650,0,不分班,"聲樂（三）
+VOICE(III)",2,期,False,50,0,0,50,黃子珊,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI659&Crsname=擊樂（三）,,,False,音樂碩,MUSI659,0,不分班,"擊樂（三）
+PERCUSSION（III）",2,期,False,50,0,0,50,鄭雅心,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI663&Crsname=管弦樂指揮（三）,,,False,音樂碩,MUSI663,0,不分班,"管弦樂指揮（三）
+ORCHESTRAL CONDUCTING（III）",2,期,False,50,0,0,50,楊智欽,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI680&Crsname=作曲（三）,,,False,音樂碩,MUSI680,0,不分班,"作曲（三）
+COMPOSITION(III)",2,期,False,50,0,0,50,李思嫺,"六1,2()","['', '', '', '', '', '12', '']","《音樂類》
+限音樂系學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI687&Crsname=複音音樂分析與再詮釋,,,False,音樂碩,MUSI687,0,不分班,"複音音樂分析與再詮釋
+ANALYSIS AND REINTERPRETATION OF POLYPHONIC MUSIC",2,期,False,50,0,0,50,李思嫺,"一3,4(文FA 6011)","['34', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI693&Crsname=巴洛克時期音樂史,,,False,音樂碩,MUSI693,0,不分班,"巴洛克時期音樂史
+MUSIC IN THE BAROQUE PERIOD",3,期,False,50,0,0,50,郭瓊嬌,"二2,3,4(文FA 6011-1)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI699&Crsname=管樂演奏技巧探討,,,False,音樂碩,MUSI699,0,不分班,"管樂演奏技巧探討
+TECHNIQUE OF WIND PERFORMANCE",2,期,False,50,0,0,50,張瑞芝,"三6,7(文FA 6011)","['', '', '67', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHIL501&Crsname=當代歐陸哲學,,,False,哲學碩,PHIL501,1,不分班,"當代歐陸哲學
+CONTEMPORARY CONTINENTAL PHILOSOPHY",3,期,True,50,0,0,50,宋灝,"二8,6,7(文LA 2009)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHIL516&Crsname=文化哲學,,,False,哲學碩,PHIL516,0,不分班,"文化哲學
+PHILOSOPHY OF CULTURE",3,期,False,50,0,0,50,游淙祺,"三2,3,4(文LA 7001)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHIL522&Crsname=技術哲學,新增,7/3,False,哲學碩,PHIL522,0,不分班,"技術哲學
+PHILOSOPHY OF TECHNOLOGY",3,期,False,50,0,0,50,戴遠雄,"四2,3,4(文LA 7001)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHIL535&Crsname=現象學與人文社會科學,,,False,哲學碩,PHIL535,0,不分班,"現象學與人文社會科學
+PHENOMENOLOGY AND HUMAN-SOCIAL SCIENCES",3,期,False,50,0,0,50,待聘,"一8,6,7(文LA 2009)","['678', '', '', '', '', '', '']",《講授類》,[],False
