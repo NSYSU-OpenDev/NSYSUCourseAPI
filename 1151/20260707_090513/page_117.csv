@@ -1,0 +1,59 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EMM696&Crsname=專題技術報告（一）,,,False,材料機電所,EMM696,2,不分班,"專題技術報告（一）
+SEMMIAL TOPICS & TECHNICAL REPORTS IN PRECISION ELECTRONIC COMPONENTS (I)",0,期,True,10,0,0,10,"林瑞欽,鍾秀瑩",,"['', '', '', '', '', '', '']","《獨立研究》
+限電子材料與機電整合研究所學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EMM698&Crsname=專題技術報告（三）,,,False,材料機電所,EMM698,3,不分班,"專題技術報告（三）
+SEMMIAL TOPICS & TECHNICAL REPORTS IN PRECISION ELECTRONIC COMPONENTS (III)",0,期,True,15,0,0,15,"李英杰,林瑞欽,林震,楊凱勛,蔡崇煒,蔡潤波,謝明哲,鍾秀瑩",,"['', '', '', '', '', '', '']","《獨立研究》
+限電子材料與機電整合研究所學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF501&Crsname=量化投資與演算法,,,True,國際資產所,SBF501,1,不分班,"量化投資與演算法
+QUANTITATIVE INVESTMENT & ALGORITHM",3,期,True,70,0,0,70,彭聰敏,,"['', '', '', '', '', '', '']","《講授類》
+本課程限國資所(一般組)學生加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF501A&Crsname=量化投資與演算法,,,True,國際資產所,SBF501A,1,不分班,"量化投資與演算法
+QUANTITATIVE INVESTMENT & ALGORITHM",3,期,True,70,0,0,70,彭聰敏,,"['', '', '', '', '', '', '']","《講授類》
+本課程限國資所(企業組)學生加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF502&Crsname=總體經濟分析與投資組合,,,True,國際資產所,SBF502,1,不分班,"總體經濟分析與投資組合
+MACROECONOMIC ANALYSIS & PORTFOLIO MANAGEMENT",3,期,True,70,0,0,70,艾西亞,,"['', '', '', '', '', '', '']","《講授類》
+本課程限國資所(一般組)學生加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF502A&Crsname=總體經濟分析與投資組合,,,True,國際資產所,SBF502A,1,不分班,"總體經濟分析與投資組合
+MACROECONOMIC ANALYSIS & PORTFOLIO MANAGEMENT",3,期,True,70,0,0,70,艾西亞,,"['', '', '', '', '', '', '']","《講授類》
+本課程限國資所(企業組)學生加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF503&Crsname=創新商業模式實作（一）,,,False,國際資產所,SBF503,1,不分班,"創新商業模式實作（一）
+INDEPENDENT STUDIES IN INNOVATIVE BUSINESS MODELS-1",1,期,True,70,0,0,70,"王昭文,郭志文",,"['', '', '', '', '', '', '']","《獨立研究》
+本課程限國資所學生加選。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF508&Crsname=另類投資實務,,,False,國際資產所,SBF508,2,不分班,"另類投資實務
+ALTERNATIVE INVESTMENT IN PRACTICE",2,期,False,70,0,0,70,待聘,,"['', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF509&Crsname=高資產客戶投資理財實務分享,,,False,國際資產所,SBF509,2,不分班,"高資產客戶投資理財實務分享
+CASE STUDY OF HNW INVESTMENT MANAGEMENT",2,期,False,70,0,0,70,賈安霈,,"['', '', '', '', '', '', '']","《講授類》
+本課程優先開放國際金融研究學院學生加選，隨後依名額開放予大學部三年級(含)以上學生申請加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF550&Crsname=國際金融交易商務談判,,,False,國際資產所,SBF550,2,不分班,"國際金融交易商務談判
+NEGOTIATION IN INTERNATIONAL FINANCIAL TRANSACTIONS",2,期,True,70,0,0,70,Bryan Low Yi Teng,,"['', '', '', '', '', '', '']","《講授類》
+本課程優先開放國資所學生加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF551&Crsname=創新商業模式實作（三）,,,False,國際資產所,SBF551,2,不分班,"創新商業模式實作（三）
+INDEPENDENT STUDIES IN INNOVATIVE BUSINESS MODELS-3",1,期,True,70,0,0,70,"王昭文,郭志文",,"['', '', '', '', '', '', '']","《獨立研究》
+本課程限國資所學生加選。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF556&Crsname=銀行治理,,,False,國際資產所,SBF556,2,不分班,"銀行治理
+MANAGEMENT OF FINANCIAL INSTITUTIONS",2,期,False,70,0,0,70,"呂桔誠,竹下誠二郎",,"['', '', '', '', '', '', '']","《講授類》
+本課程優先開放國際金融研究學院學生加選，隨後依名額開放予大學部三年級(含)以上學生申請加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF564&Crsname=商用英文實務,,,False,國際資產所,SBF564,1,不分班,"商用英文實務
+ENGLISH FOR BUSINESS",1,期,False,120,0,0,120,李汀洧,,"['', '', '', '', '', '', '']","《講授類》
+本課程限國資所學生加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF570&Crsname=地緣政治、政策與投資決策,,,False,國際資產所,SBF570,2,不分班,"地緣政治、政策與投資決策
+HOW POWER SHAPES MARKETS: GEOPOLITICS, POLICY AND INVESTMENT DECISIONS",2,期,False,50,0,0,50,張綺真,,"['', '', '', '', '', '', '']","《講授類》
+本課程優先開放國際金融研究學院學生加選，隨後依名額開放予大學部三年級(含)以上學生申請加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF571&Crsname=專題研究（一）,,,False,國際資產所,SBF571,2,不分班,"專題研究（一）
+INDEPENDENT STUDIES (I)",3,期,False,50,0,0,50,彭聰敏,,"['', '', '', '', '', '', '']","《獨立研究》
+本課程限國際金融研究學院學生加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SBF571A&Crsname=專題研究（一）,,,False,國際資產所,SBF571A,2,不分班,"專題研究（一）
+INDEPENDENT STUDIES (I)",3,期,False,50,0,0,50,待聘,,"['', '', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DSF501&Crsname=數位金融與數位轉型導論,,,False,數位金融所,DSF501,1,不分班,"數位金融與數位轉型導論
+INTRODUCTION TO DIGITAL FINANCE AND DIGITAL TRANSFORMATION",3,期,True,70,0,0,70,王可言,,"['', '', '', '', '', '', '']","《講授類》
+本課程優先開放數金所學生加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DSF502&Crsname=永續金融導論,,,False,數位金融所,DSF502,1,不分班,"永續金融導論
+INTRODUCTION TO SUSTAINABLE FINANCE",3,期,True,70,0,0,70,貝賽峰,,"['', '', '', '', '', '', '']","《講授類》
+本課程優先開放數金所學生加選。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DSF503&Crsname=創新商業模式實作（一）,,,False,數位金融所,DSF503,1,不分班,"創新商業模式實作（一）
+IMPLEMENTATION OF INNOVATIVE BUSINESS MODELS (I)",1,期,True,70,0,0,70,"王昭文,郭志文",,"['', '', '', '', '', '', '']","《獨立研究》
+本課程限數金所學生加選。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DSF508&Crsname=環境、社會與治理(ESG),,,False,數位金融所,DSF508,2,不分班,"環境、社會與治理(ESG)
+ENVIRONMENTAL, SOCIAL AND GOVERNANCE (ESG)",3,期,True,70,0,0,70,黃正忠,,"['', '', '', '', '', '', '']","《講授類》
+本課程優先開放數金所學生加選，實際上課時間另行公告。",[],True
