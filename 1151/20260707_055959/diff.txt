@@ -1,3 +1,0 @@
-Value of root[189]['description'] changed from "《講授類》
-1.開課單位及教師：清華大學高宏宇老師。2.上課連結：https://cool.ntu.edu.tw/courses/41436/modules。限研究所學生選修。建議學生須先具Python程式語言的先備知識。" to "《講授類》
-1.開課單位及教師：清華大學高宏宇老師。2.上課連結：https://cool.ntu.edu.tw/courses/41436/modules。限研究所學生選修。建議學生須先具Python程式語言的先備知識。3.同步考試時間訂於：12月10日（星期四）09:00–12:00".

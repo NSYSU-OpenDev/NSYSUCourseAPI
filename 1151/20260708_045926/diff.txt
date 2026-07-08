@@ -1,0 +1,4 @@
+Type of root[819]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[819]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額7/8".
+Value of root[819]['restrict'] changed from 70 to 60.
+Value of root[819]['remaining'] changed from 70 to 60.
