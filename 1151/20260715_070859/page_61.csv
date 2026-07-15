@@ -1,5 +1,5 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM120&Crsname=大體解剖學,,,False,後醫學系,DPBM120,1,不分班,"大體解剖學
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM120&Crsname=大體解剖學,異動,更換部份時間7/15,False,後醫學系,DPBM120,1,不分班,"大體解剖學
 GROSS ANATOMY",4,期,True,50,0,0,50,"柯翠玲,甘祐瑜",,"['2345678', '5678', '134567', '34567', '12345678', '23456789', '']","《醫學類》
 限後醫系修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM121&Crsname=大體解剖學實驗,,,False,後醫學系,DPBM121,1,不分班,"大體解剖學實驗
@@ -17,8 +17,8 @@ HISTOLOGY AND PATHOLOGY",1,期,True,50,0,0,50,"劉婷婷,甘祐瑜,陳德全",,"
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM125&Crsname=醫學寄生蟲學,,,False,後醫學系,DPBM125,1,不分班,"醫學寄生蟲學
 PARASITOLOGY",1,期,True,50,0,0,50,楊忠達,,"['3', '234', '234', '34', '3478', '', '']","《醫學類》
 限後醫系修習",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM127&Crsname=人類免疫學導論,,,False,後醫學系,DPBM127,1,不分班,"人類免疫學導論
-INTRODUCTION TO HUMAN IMMUNOLOGY",1,期,True,50,0,0,50,陳彥樺,,"['2789', '5678', '1456', '34', '56', '', '']","《醫學類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM127&Crsname=人類免疫學導論,異動,更換部份時間7/15,False,後醫學系,DPBM127,1,不分班,"人類免疫學導論
+INTRODUCTION TO HUMAN IMMUNOLOGY",1,期,True,50,0,0,50,陳彥樺,,"['25689', '5678', '1456', '34', '56', '', '']","《醫學類》
 限後醫系修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM128&Crsname=醫用微生物學導論,,,False,後醫學系,DPBM128,1,不分班,"醫用微生物學導論
 INTRODUCTION TO MEDICAL MICROBIOLOGY",2,期,True,50,0,0,50,"劉勃佑,王文宏",,"['123489', '', '1234', '12345678', '', '', '']","《醫學類》
