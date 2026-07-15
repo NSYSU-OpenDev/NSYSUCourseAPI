@@ -1,15 +1,15 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICM652&Crsname=社會科學量化分析,,,False,行銷傳播碩,ICM652,0,不分班,"社會科學量化分析
-DATA ANALYSIS OF SOCIAL SCIENCE",3,期,False,50,0,0,50,張榮華,"二C,D,E(管CM 2032)","['', 'CDE', '', '', '', '', '']","《講授類》
+DATA ANALYSIS OF SOCIAL SCIENCE",3,期,False,50,0,0,50,張榮華,,"['', '', '', '', '', '', '']","《講授類》
 限行傳所修畢量化研究方法課程學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICM653&Crsname=專題研究（一）,,,False,行銷傳播碩,ICM653,0,不分班,"專題研究（一）
-INDEPENDENT STUDIES(I)",3,期,False,50,0,0,50,鄭安授,"一2,3,4(管CM 2032)","['234', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES(I)",3,期,False,50,0,0,50,鄭安授,,"['', '', '', '', '', '', '']","《獨立研究》
 限行傳所碩士班二年級學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICM658&Crsname=永續行銷專題研究,,,False,行銷傳播碩,ICM658,0,不分班,"永續行銷專題研究
-INDEPENDENT STUDIES IN SUSTAINABLE MARKETING",3,期,False,50,0,0,50,李雅靖,"三5,6,7(管CM 2029)","['', '', '567', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SUSTAINABLE MARKETING",3,期,False,50,0,0,50,李雅靖,,"['', '', '', '', '', '', '']","《獨立研究》
 限行傳所碩士班二年級學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICM660&Crsname=網路口碑專題研究,,,False,行銷傳播碩,ICM660,0,不分班,"網路口碑專題研究
-INDEPENDENT STUDIES IN ELECTRONIC WORD-OF-MOUTH",3,期,False,50,0,0,50,張榮華,"二8,6,7(管CM 2032)","['', '678', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN ELECTRONIC WORD-OF-MOUTH",3,期,False,50,0,0,50,張榮華,,"['', '', '', '', '', '', '']","《獨立研究》
 限行傳所碩士班二年級學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM503&Crsname=大數據分析、機器學習、與人工智慧方法,,,False,管理學院(碩),CM503,0,不分班,"大數據分析、機器學習、與人工智慧方法
 BIG DATA ANALYTICS, MACHINE LEARNING, AND ARTIFICIAL INTELLIGENCE",3,期,False,50,0,0,50,康藝晃,"三5,6,7(管CM 3051)","['', '', '567', '', '', '', '']","《講授類》

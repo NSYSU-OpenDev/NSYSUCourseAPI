@@ -251,12 +251,12 @@ SPORT & HEALTH: BASIC BASKETBALL",1,期,True,50,0,0,50,待聘,"四1,2(體育館3
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE210C&Crsname=運動與健康：初級籃球,,,False,運動健康(必),GEPE210C,2,不分班,"運動與健康：初級籃球
 SPORT & HEALTH: BASIC BASKETBALL",1,期,True,50,0,0,50,待聘,"四3,4(體育館3樓/3rd floors of Gym)","['', '', '', '34', '', '', '']","《體育類》
 限大二以上選修。",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE211&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211,2,不分班,"運動與健康：初級墊上核心
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE211&Crsname=運動與健康：初級墊上核心,異動,更換時間7/15,False,運動健康(必),GEPE211,2,不分班,"運動與健康：初級墊上核心
+SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,李佳倫,"一B,5(韻律教室/Aerobics classroom)","['B5', '', '', '', '', '', '']","《體育類》
+限大二以上選修。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE211A&Crsname=運動與健康：初級墊上核心,異動,更換時間7/15,False,運動健康(必),GEPE211A,2,不分班,"運動與健康：初級墊上核心
 SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,李佳倫,"一3,4(韻律教室/Aerobics classroom)","['34', '', '', '', '', '', '']","《體育類》
 限大二以上選修。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE211A&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211A,2,不分班,"運動與健康：初級墊上核心
-SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,李佳倫,"一B,5(韻律教室/Aerobics classroom)","['B5', '', '', '', '', '', '']","《體育類》
-限大二以上選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE211B&Crsname=運動與健康：初級墊上核心,,,False,運動健康(必),GEPE211B,2,不分班,"運動與健康：初級墊上核心
 SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,許秀桃,"一6,7(韻律教室/Aerobics classroom)","['67', '', '', '', '', '', '']","《體育類》
 限大二以上選修。",[],False
@@ -975,64 +975,64 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI190
 BASIC CONCEPTS OF BIOLOGY",2,期,False,95,0,0,95,"張玉泉,李佶珉,鄭光宏","四8,9(通GE 1010)","['', '', '', '89', '', '', '']","《講授類》
 與醫學院MED101課程併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1909&Crsname=環境健康大數據資料分析暨視覺化實務,,,False,跨院選修(醫),GEAI1909,0,不分班,"環境健康大數據資料分析暨視覺化實務
-ENVIRONMENTAL AND HEALTHY BIG DATA ANALYSIS WITH VISUALISED PRACTICE",3,期,False,30,0,0,30,鄭雅勻,"二5,6,7(圖IL PC02)","['', '567', '', '', '', '', '']","《講授類》
+ENVIRONMENTAL AND HEALTHY BIG DATA ANALYSIS WITH VISUALISED PRACTICE",3,期,False,30,0,0,30,鄭雅勻,,"['', '', '', '', '', '', '']","《講授類》
 跨院通識與醫學院MED145課程併班上課",['科技與環境英語微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1912&Crsname=生物統計與資訊,,,False,跨院選修(醫),GEAI1912,0,不分班,"生物統計與資訊
-BIOSTATISTICS AND BIOINFORMATICS?",2,期,False,30,0,0,30,鄭雅勻,"三3,4(圖IL PC01)","['', '', '34', '', '', '', '']","《講授類》
+BIOSTATISTICS AND BIOINFORMATICS?",2,期,False,30,0,0,30,鄭雅勻,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED146課程併班上課","['金融工程學程', '基礎醫學數位微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1913&Crsname=公共衛生學,,,False,跨院選修(醫),GEAI1913,0,不分班,"公共衛生學
-PUBLIC HEALTH?",2,期,False,40,0,0,40,鄭雅勻,"四5,6(醫IL 9012)","['', '', '', '56', '', '', '']","《講授類》
+PUBLIC HEALTH?",2,期,False,40,0,0,40,鄭雅勻,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED147課程併班上課",['基礎醫學數位微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1939&Crsname=共病時代-談人類與動物共通傳染病,,,False,跨院選修(醫),GEAI1939,0,不分班,"共病時代-談人類與動物共通傳染病
-DISEASE, PLAGUE, AND CIVILIZATION",3,期,False,40,0,0,40,王文宏,"二2,3,4(醫IL 9012)","['', '234', '', '', '', '', '']","《講授類》
+DISEASE, PLAGUE, AND CIVILIZATION",3,期,False,40,0,0,40,王文宏,,"['', '', '', '', '', '', '']","《講授類》
 跨院通識與醫學院MED122課程併班上課",['基礎醫學數位微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1940&Crsname=疾病瘟疫與文明,,,False,跨院選修(醫),GEAI1940,0,不分班,"疾病瘟疫與文明
-DISEASE, PLAGUE, AND CIVILIZATION",3,期,False,40,0,0,40,王文宏,"五2,3,4(醫IL 9012)","['', '', '', '', '234', '', '']","《講授類》
+DISEASE, PLAGUE, AND CIVILIZATION",3,期,False,40,0,0,40,王文宏,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED123課程併班上課","['校園預防醫學暨食品安全學程', '基礎醫學數位微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1943&Crsname=危老年代,,,False,跨院選修(醫),GEAI1943,0,不分班,"危老年代
-AGING AND HEALTH",2,期,False,40,0,0,40,李昇翰,"二8,9(醫IL 9010)","['', '89', '', '', '', '', '']","《講授類》
+AGING AND HEALTH",2,期,False,40,0,0,40,李昇翰,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED126課程併班上課","['音樂與高齡照護學程', '表達性藝術治療學程', '智慧高齡生活微學程', '音樂應用與高齡友善多元性微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1944&Crsname=危險同居「人」：漫談居家有害生物,,,False,跨院選修(醫),GEAI1944,0,不分班,"危險同居「人」：漫談居家有害生物
-PESTS IN HOUSEHOLD ENVIRONMENT",3,期,False,40,0,0,40,李昇翰,"一8,9,7(醫IL 9010)","['789', '', '', '', '', '', '']","《講授類》
+PESTS IN HOUSEHOLD ENVIRONMENT",3,期,False,40,0,0,40,李昇翰,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED127課程併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1945&Crsname=環境與人類健康,,,False,跨院選修(醫),GEAI1945,0,不分班,"環境與人類健康
-ENVIRONMENT AND HUMAN HEALTH",2,期,False,40,0,0,40,李昇翰,"三3,4(醫IL 9010)","['', '', '34', '', '', '', '']","《講授類》
+ENVIRONMENT AND HUMAN HEALTH",2,期,False,40,0,0,40,李昇翰,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED128課程併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1946&Crsname=基礎外傷急救,,,False,跨院選修(醫),GEAI1946,0,不分班,"基礎外傷急救
-BASICS OF TRAUMA CARE",2,期,False,30,0,0,30,唐逸文,"一3,4(醫IL 9010)","['34', '', '', '', '', '', '']","《講授類》
+BASICS OF TRAUMA CARE",2,期,False,30,0,0,30,唐逸文,,"['', '', '', '', '', '', '']","《講授類》
 跨院通識與醫學院MED129課程併班上課","['基礎醫學數位微學程', '全民國防微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1948&Crsname=人體生理功能解密:生理學入門,,,False,跨院選修(醫),GEAI1948,0,不分班,"人體生理功能解密:生理學入門
-HUMAN BODY FUNCTIONS: BASIC PHYSIOLOGY",3,期,False,40,0,0,40,柯瓊媛,"三2,3,4(醫IL 9012)","['', '', '234', '', '', '', '']","《講授類》
+HUMAN BODY FUNCTIONS: BASIC PHYSIOLOGY",3,期,False,40,0,0,40,柯瓊媛,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED131課程併班上課(基礎醫學數位微學程)",['基礎醫學數位微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1950&Crsname=探索藥物：現實與電影中的藥物,,,False,跨院選修(醫),GEAI1950,0,不分班,"探索藥物：現實與電影中的藥物
-EXPLORING DRUGS: DRUGS IN REALITY AND IN MOVIES",3,期,False,40,0,0,40,陳亮傑,"二5,6,7(醫IL 9010)","['', '567', '', '', '', '', '']","《講授類》
+EXPLORING DRUGS: DRUGS IN REALITY AND IN MOVIES",3,期,False,40,0,0,40,陳亮傑,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED133課程併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1952&Crsname=人類免疫與代謝,,,False,跨院選修(醫),GEAI1952,0,不分班,"人類免疫與代謝
-IMMUNOMETABOLISM OF HUMAN DISEASES",2,期,False,30,0,0,30,陳彥樺,"二8,7(醫IL 9012)","['', '78', '', '', '', '', '']","《講授類》
+IMMUNOMETABOLISM OF HUMAN DISEASES",2,期,False,30,0,0,30,陳彥樺,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED135課程併班上課(基礎醫學數位微學程)",['基礎醫學數位微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1954&Crsname=基因中的演化之舞,,,False,跨院選修(醫),GEAI1954,0,不分班,"基因中的演化之舞
-TRACING THE TANGLED TRACKS OF EVOLUTIONARY JOURNEY IN GENOME",3,期,False,30,0,0,30,陳彥樺,"三5,6,7(圖IL PC02)","['', '', '567', '', '', '', '']","《講授類》
+TRACING THE TANGLED TRACKS OF EVOLUTIONARY JOURNEY IN GENOME",3,期,False,30,0,0,30,陳彥樺,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED137課程併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1964&Crsname=神經心理學：大腦與情緒,,,False,跨院選修(醫),GEAI1964,0,不分班,"神經心理學：大腦與情緒
-NEUROPSYCHOLOGY: THE BRAIN AND EMOTIONS",3,期,False,40,0,0,40,楊仁豪,"五8,6,7(國IR 4002)","['', '', '', '', '678', '', '']","《講授類》
+NEUROPSYCHOLOGY: THE BRAIN AND EMOTIONS",3,期,False,40,0,0,40,楊仁豪,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED153課程併班上課","['音樂與高齡照護學程', '表達性藝術治療學程', '基礎醫學數位微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1965&Crsname=癌症治療,,,False,跨院選修(醫),GEAI1965,0,不分班,"癌症治療
-CANCER THERAPEUTICS",2,期,False,35,0,0,35,趙敏吾,"二5,6(醫IL 9012)","['', '56', '', '', '', '', '']","《講授類》
+CANCER THERAPEUTICS",2,期,False,35,0,0,35,趙敏吾,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED154課程併班上課(英語授課)",['基礎醫學數位微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1968&Crsname=生活柯南：破解似是而非的迷思,,,False,跨院選修(醫),GEAI1968,0,不分班,"生活柯南：破解似是而非的迷思
-LIVING CONAN: CRACKING THE MYTHS OF PLAUSIBILITY",2,期,False,30,0,0,30,"葉俊吟,陳嬿今","四3,4(醫IL 3013)","['', '', '', '34', '', '', '']","《講授類》
+LIVING CONAN: CRACKING THE MYTHS OF PLAUSIBILITY",2,期,False,30,0,0,30,"葉俊吟,陳嬿今",,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED157課程併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1969&Crsname=與老共舞,,,False,跨院選修(醫),GEAI1969,0,不分班,"與老共舞
-LIVING WITH AGING: GERIATRIC CARE FOR OLDER ADULTS",3,期,False,30,0,0,30,"葉俊吟,郭素娥,陳嬿今","四5,6,7(醫IL 3013)","['', '', '', '567', '', '', '']","《講授類》
+LIVING WITH AGING: GERIATRIC CARE FOR OLDER ADULTS",3,期,False,30,0,0,30,"葉俊吟,郭素娥,陳嬿今",,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED158課程併班上課(英語授課)","['音樂與高齡照護學程', '表達性藝術治療學程', '音樂應用與高齡友善多元性微學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1970&Crsname=看不見的魔力：生活中的微生物之應用,,,False,跨院選修(醫),GEAI1970,0,不分班,"看不見的魔力：生活中的微生物之應用
-THE INVISIBLE MAGIC: MICROORGANISMS AND THEIR APPLICATIONS IN DAILY LIFE",2,期,False,25,0,0,25,陳彥樺,"一3,4(醫IL 9012)","['34', '', '', '', '', '', '']","《講授類》
+THE INVISIBLE MAGIC: MICROORGANISMS AND THEIR APPLICATIONS IN DAILY LIFE",2,期,False,25,0,0,25,陳彥樺,,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED159課程併班上課(英語授課)",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1978&Crsname=身心健康醫學講座,,,False,跨院選修(醫),GEAI1978,0,不分班,"身心健康醫學講座
-SPECIAL LECTURES ON PHYSICAL AND MENTAL HEALTH",2,期,False,75,0,0,75,"余靈珊,王文宏","一5,6()","['56', '', '', '', '', '', '']","《講授類》
+SPECIAL LECTURES ON PHYSICAL AND MENTAL HEALTH",2,期,False,75,0,0,75,"余靈珊,王文宏",,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED167課程併班上課",['校園預防醫學暨食品安全學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1979&Crsname=中醫暨整合醫學,,,False,跨院選修(醫),GEAI1979,0,不分班,"中醫暨整合醫學
-CHINESE AND INTEGRATIVE MEDICINE",2,期,False,40,0,0,40,"謝孟倉,陳貞吟","四3,4(醫IL 9012)","['', '', '', '34', '', '', '']","《講授類》
+CHINESE AND INTEGRATIVE MEDICINE",2,期,False,40,0,0,40,"謝孟倉,陳貞吟",,"['', '', '', '', '', '', '']","《講授類》
 與醫學院MED168課程併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1983&Crsname=基礎奈米生醫材料與3D列印技術之應用,,,False,跨院選修(醫),GEAI1983,0,不分班,"基礎奈米生醫材料與3D列印技術之應用
 APPLICATIONS OF FOUNDATIONAL NANOBIOMATERIALS AND 3D PRINTING TECHNOLOGY",2,期,False,35,0,0,35,"廖子嫻,陳玟帆","二8,7(國IR 5002)","['', '78', '', '', '', '', '']","《講授類》
@@ -1143,8 +1143,8 @@ SERVICE LEARNING: GENERAL SCIENCE DEMONSTRATION IN CAMPUS",1,期,True,40,0,0,40,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GESL421&Crsname=服務學習：日本地方創生實務,,,False,服務學習,GESL421,0,不分班,"服務學習：日本地方創生實務
 SERVICE LEARNING: PRACTICAL STUDIES IN REGIONAL REVITALIZATION IN JAPAN",1,期,True,30,0,0,30,吳亦昕,"五6,7(通GE 3013)","['', '', '', '', '67', '', '']","《服務學習類》
 1.須經過甄選並於期限內繳交家長同意書等資料後才符合選課資格，經篩選上之同學應於異常處理期間辦理選課。2.預計09/16-09/29出隊(自費前往日本服務)。",['台日跨文化微學程'],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GESL425&Crsname=服務學習：推動高中民防實作教育,,,False,服務學習,GESL425,0,不分班,"服務學習：推動高中民防實作教育
-SERVICE LEARNING: PROMOTING CIVIL DEFENSE EDUCATION IN HIGH SCHOOLS",1,期,True,40,0,0,40,佘健源,"五6,7(西SW 1005)","['', '', '', '', '67', '', '']",《服務學習類》,['全民國防微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GESL425&Crsname=服務學習：推動高中民防實作教育,異動,更換時間及教室7/15,False,服務學習,GESL425,0,不分班,"服務學習：推動高中民防實作教育
+SERVICE LEARNING: PROMOTING CIVIL DEFENSE EDUCATION IN HIGH SCHOOLS",1,期,True,40,0,0,40,佘健源,"三6,7(通GE 3011)","['', '', '67', '', '', '', '']",《服務學習類》,['全民國防微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GESL426&Crsname=服務學習：弱勢兒童課輔,異動,修正備註說明6/25,False,服務學習,GESL426,0,不分班,"服務學習：弱勢兒童課輔
 SERVICE LEARNING: TUTORING FOR SOCIOECONOMICALLY DISADVANTAGED STUDENTS",1,期,True,40,0,0,40,王以亮,"二C,D(通GE 3011)","['', 'CD', '', '', '', '', '']","《服務學習類》
 1.服務時間須滿28小時，服務時間跟地點請詳閱課綱。 2.第2週說明會修課同學一律要求參加，若不克前來請勿選修或請退選本課程。",[],False
@@ -2967,47 +2967,47 @@ INDEPENDENT STUDIES IN POLITICAL ECONOMIC（II）",3,期,True,50,0,0,50,李明�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE404F&Crsname=政經實作專題（二）,,,False,政經系,PE404F,4,不分班,"政經實作專題（二）
 INDEPENDENT STUDIES IN POLITICAL ECONOMIC（II）",3,期,True,50,0,0,50,張光亮,"四A,1,B(社SS 1005)","['', '', '', 'A1B', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE404G&Crsname=政經實作專題（二）,,,False,政經系,PE404G,4,不分班,"政經實作專題（二）
-INDEPENDENT STUDIES IN POLITICAL ECONOMIC（II）",3,期,True,50,0,0,50,陳若蘭,"二A,1,B(社SS 1006)","['', 'A1B', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN POLITICAL ECONOMIC（II）",3,期,True,50,0,0,50,陳若蘭,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC101&Crsname=社會學（一）,,,False,社會系,SOC101,1,不分班,"社會學（一）
-SOCIOLOGY",3,期,True,50,0,0,50,李宛儒,"四8,6,7(社SS 4001)","['', '', '', '678', '', '', '']","《講授類》
+SOCIOLOGY",3,期,True,50,0,0,50,李宛儒,,"['', '', '', '', '', '', '']","《講授類》
 點選本課請同時點選《社會學實習（一）》",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC105&Crsname=社會學實習（一）,,,False,社會系,SOC105,1,不分班,"社會學實習（一）
-SOCIOLOGY PRACTICE ( I )",1,期,True,50,0,0,50,李宛儒,"三D,E(社SS 1003)(實驗)","['', '', 'DE', '', '', '', '']","《實習類》
+SOCIOLOGY PRACTICE ( I )",1,期,True,50,0,0,50,李宛儒,,"['', '', '', '', '', '', '']","《實習類》
 本課程限選修本系《社會學（一）》之學生。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC130&Crsname=閱讀與寫作,,,False,社會系,SOC130,1,不分班,"閱讀與寫作
-READING AND WRITING",3,期,True,50,0,0,50,楊又欣,"一8,6,7(社SS 4004-2)","['678', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+READING AND WRITING",3,期,True,50,0,0,50,楊又欣,,"['', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC201&Crsname=社會統計（一）,,,False,社會系,SOC201,2,不分班,"社會統計（一）
-SOCIAL STATISTICS (I)",3,期,True,50,0,0,50,戴昀,"二2,3,4(圖IL PC02)","['', '234', '', '', '', '', '']","《講授類》
+SOCIAL STATISTICS (I)",3,期,True,50,0,0,50,戴昀,,"['', '', '', '', '', '', '']","《講授類》
 點選本課請同時點選《社會統計實習（一）》",['金融工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC202&Crsname=南方社會學,,,False,社會系,SOC202,3,不分班,"南方社會學
-SOUTHERN SOCIOLOGY",3,期,True,50,0,0,50,"林傳凱,王梅香","三2,3,4(社SS 4001)","['', '', '234', '', '', '', '']","《講授類》
+SOUTHERN SOCIOLOGY",3,期,True,50,0,0,50,"林傳凱,王梅香",,"['', '', '', '', '', '', '']","《講授類》
 限修過本系或跨院選修之社會學(一)(二)且及格",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC205&Crsname=觀光與社會,,,False,社會系,SOC205,2,不分班,"觀光與社會
-TOURISM AND SOCIOLOGY",3,期,False,50,0,0,50,楊又欣,"五2,3,4(社SS 4004-2)","['', '', '', '', '234', '', '']",《講授類》,[],True
+TOURISM AND SOCIOLOGY",3,期,False,50,0,0,50,楊又欣,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC220&Crsname=社會統計實習（一）,,,False,社會系,SOC220,2,不分班,"社會統計實習（一）
-SOCIAL STATISTICS PRACTICE ( I )",1,期,True,50,0,0,50,戴昀,"四C,D(圖IL PC02)(實驗)","['', '', '', 'CD', '', '', '']","《實習類》
+SOCIAL STATISTICS PRACTICE ( I )",1,期,True,50,0,0,50,戴昀,,"['', '', '', '', '', '', '']","《實習類》
 本課程限選修本系《社會統計（一）》之學生",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC257&Crsname=全球政治,,,False,社會系,SOC257,2,不分班,"全球政治
-GLOBAL POLITICS",3,期,False,20,0,0,20,方志恒,"二8,6,7(社SS 4001)","['', '678', '', '', '', '', '']",《講授類》,"['地方發展與永續農業微學程', '全球研究學分學程']",True
+GLOBAL POLITICS",3,期,False,20,0,0,20,方志恒,,"['', '', '', '', '', '', '']",《講授類》,"['地方發展與永續農業微學程', '全球研究學分學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC258&Crsname=原民的環境、經濟與社會,,,False,社會系,SOC258,2,不分班,"原民的環境、經濟與社會
-INDIGENOUS ENVIRONMENT, ECONOMY AND SOCIETY",3,期,False,50,0,0,50,"李育諭,李馨慈",,"['123456789', '123456789', '1234567DE', '123456789', '', '123456789', '123456789']","《講授類》
+INDIGENOUS ENVIRONMENT, ECONOMY AND SOCIETY",3,期,False,50,0,0,50,"李育諭,李馨慈",,"['', '', '', '', '', '', '']","《講授類》
 暑假密集式授課8/8-8/13，限有修課同學選修",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC263&Crsname=人口變遷與社會變遷,,,False,社會系,SOC263,2,不分班,"人口變遷與社會變遷
-POPULATION AND SOCIAL CHANGES",3,期,False,50,0,0,50,楊靜利,"四8,6,7(社SS 4004-2)","['', '', '', '678', '', '', '']",《講授類》,[],False
+POPULATION AND SOCIAL CHANGES",3,期,False,50,0,0,50,楊靜利,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC301&Crsname=社會學質性研究方法（一）,,,False,社會系,SOC301,3,不分班,"社會學質性研究方法（一）
-QUALITATIVE RESEARCH METHODS IN SOCIOLOGY (I)",3,期,True,50,0,0,50,"王梅香,邱花妹","一2,3,4(社SS 4004-2)","['234', '', '', '', '', '', '']",《講授類》,[],False
+QUALITATIVE RESEARCH METHODS IN SOCIOLOGY (I)",3,期,True,50,0,0,50,"王梅香,邱花妹",,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC302&Crsname=社會理論（一）,,,False,社會系,SOC302,2,不分班,"社會理論（一）
-SOCIAL THEORIES (I)",3,期,True,50,0,0,50,萬毓澤,"二8,6,7(管CM 3019)","['', '678', '', '', '', '', '']","《講授類》
+SOCIAL THEORIES (I)",3,期,True,50,0,0,50,萬毓澤,,"['', '', '', '', '', '', '']","《講授類》
 限修過本系或跨院選修之社會學(一)(二) 且及格",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC323&Crsname=社會政策,,,False,社會系,SOC323,3,不分班,"社會政策
-SOCIAL POLICY",3,期,False,50,0,0,50,楊靜利,"三2,3,4(社SS 4004-2)","['', '', '234', '', '', '', '']",《講授類》,[],False
+SOCIAL POLICY",3,期,False,50,0,0,50,楊靜利,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC352&Crsname=書寫高雄：地方政治與公共轉譯（一）,,,False,社會系,SOC352,3,不分班,"書寫高雄：地方政治與公共轉譯（一）
-CHRONICLING KAOHSIUNG: LOCAL POLITICS AND PUBLIC KNOWLEDGE TRANSLATION (I)",3,期,False,50,0,0,50,"林傳凱,王梅香",,"['', '123456789CD', 'A1234567DEF', '123456789CD', '123456789CD', '123456789C', '']","《講授類》
+CHRONICLING KAOHSIUNG: LOCAL POLITICS AND PUBLIC KNOWLEDGE TRANSLATION (I)",3,期,False,50,0,0,50,"林傳凱,王梅香",,"['', '', '', '', '', '', '']","《講授類》
 暑假密集式授課9/1-9/5，限有修課同學選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC353&Crsname=解殖社會與政治理論,,,False,社會系,SOC353,3,不分班,"解殖社會與政治理論
-DECOLONIZING SOCIAL AND POLITICAL THEORY",3,期,False,50,0,0,50,萬毓澤,"四2,3,4(社SS 1003)","['', '', '', '234', '', '', '']",《講授類》,[],False
+DECOLONIZING SOCIAL AND POLITICAL THEORY",3,期,False,50,0,0,50,萬毓澤,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC354&Crsname=能源、氣候變遷與社會,,,False,社會系,SOC354,3,不分班,"能源、氣候變遷與社會
-ENERGY, CLIMATE CHANGE, AND SOCIETY",3,期,False,50,0,0,50,邱花妹,"四8,6,7(社SS 1003)","['', '', '', '678', '', '', '']",《講授類》,[],False
+ENERGY, CLIMATE CHANGE, AND SOCIETY",3,期,False,50,0,0,50,邱花妹,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSS101&Crsname=心理學,,,False,社科院,CSS101,0,不分班,"心理學
 INTRODUCTION TO PSYCHOLOGY",3,期,False,20,0,0,20,"邱文彬,鄭雯","一5,6,7(社SS 2001)","['567', '', '', '', '', '', '']",《講授類》,['人力資源管理學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSS106&Crsname=經濟學,,,False,社科院,CSS106,0,不分班,"經濟學
@@ -3107,7 +3107,7 @@ BIOCHEMISTRY",2,期,True,50,0,0,50,"劉勃佑,孫羽佑,李昇翰,李豪嶧,王�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM108&Crsname=臨床技能（一）,,,False,後醫學系,DPBM108,1,不分班,"臨床技能（一）
 MEDICAL SKILL TRAINING PROGRAM(I)",0.5,年,True,23,0,0,23,王慧婷,,"['', '', '2', '1234', '6789', '', '']","《醫學類》
 限後醫系修習",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM120&Crsname=大體解剖學,,,False,後醫學系,DPBM120,1,不分班,"大體解剖學
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM120&Crsname=大體解剖學,異動,更換部份時間7/15,False,後醫學系,DPBM120,1,不分班,"大體解剖學
 GROSS ANATOMY",4,期,True,50,0,0,50,"柯翠玲,甘祐瑜",,"['2345678', '5678', '134567', '34567', '12345678', '23456789', '']","《醫學類》
 限後醫系修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM121&Crsname=大體解剖學實驗,,,False,後醫學系,DPBM121,1,不分班,"大體解剖學實驗
@@ -3125,8 +3125,8 @@ HISTOLOGY AND PATHOLOGY",1,期,True,50,0,0,50,"劉婷婷,甘祐瑜,陳德全",,"
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM125&Crsname=醫學寄生蟲學,,,False,後醫學系,DPBM125,1,不分班,"醫學寄生蟲學
 PARASITOLOGY",1,期,True,50,0,0,50,楊忠達,,"['3', '234', '234', '34', '3478', '', '']","《醫學類》
 限後醫系修習",[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM127&Crsname=人類免疫學導論,,,False,後醫學系,DPBM127,1,不分班,"人類免疫學導論
-INTRODUCTION TO HUMAN IMMUNOLOGY",1,期,True,50,0,0,50,陳彥樺,,"['2789', '5678', '1456', '34', '56', '', '']","《醫學類》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM127&Crsname=人類免疫學導論,異動,更換部份時間7/15,False,後醫學系,DPBM127,1,不分班,"人類免疫學導論
+INTRODUCTION TO HUMAN IMMUNOLOGY",1,期,True,50,0,0,50,陳彥樺,,"['25689', '5678', '1456', '34', '56', '', '']","《醫學類》
 限後醫系修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM128&Crsname=醫用微生物學導論,,,False,後醫學系,DPBM128,1,不分班,"醫用微生物學導論
 INTRODUCTION TO MEDICAL MICROBIOLOGY",2,期,True,50,0,0,50,"劉勃佑,王文宏",,"['123489', '', '1234', '12345678', '', '', '']","《醫學類》
@@ -4622,16 +4622,16 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS512&
 DATA BASE MANAGEMENT AND SYSTEMS",3,期,False,50,0,0,50,黃三益,"二C,D,E(管CM 4069)","['', 'CDE', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程', '智慧金融數據分析與創新微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS514&Crsname=生產與作業管理,,,False,資管碩,MIS514,0,不分班,"生產與作業管理
 PRODUCTION/OPERATION MANAGEMENT",3,期,False,50,0,0,50,劉賓陽,"三2,3,4(管CM 2016)","['', '', '234', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,,,False,資管碩,MIS526,0,不分班,"供應鏈管理
-SUPPLY CHAIN MANAGEMENT",3,期,False,50,0,0,50,李捷,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析,,,False,資管碩,MIS559,0,不分班,"系統模擬與分析
-SYSTEM SIMULATION AND ANALYSIS",3,期,False,50,0,0,50,劉賓陽,"三D,E,F(管CM 3051)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,異動,更換時間及教室7/15,False,資管碩,MIS526,0,不分班,"供應鏈管理
+SUPPLY CHAIN MANAGEMENT",3,期,False,30,0,0,30,李捷,"四8,6,7(管CM 3022)","['', '', '', '678', '', '', '']",《講授類》,['科技創新與服務業管理學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析,異動,更換教室7/15,False,資管碩,MIS559,0,不分班,"系統模擬與分析
+SYSTEM SIMULATION AND ANALYSIS",3,期,False,50,0,0,50,劉賓陽,"三D,E,F(管CM 3038)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS562&Crsname=電子商務,,,False,資管碩,MIS562,0,不分班,"電子商務
 ELECTRONIC COMMERCE",3,期,False,50,0,0,50,邱兆民,"一8,6,7(管CM 3019)","['678', '', '', '', '', '', '']",《講授類》,"['行銷管理學程', '金融科技學程', '當代策展與藝術行政學程', '金融科技與創新微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS572&Crsname=巨量資料分析導論,,,False,資管碩,MIS572,0,不分班,"巨量資料分析導論
 INTRODUCTION TO BIG DATA ANALYTICS",3,期,False,50,0,0,50,康藝晃,"三5,6,7(管CM 3051)","['', '', '567', '', '', '', '']",《講授類》,"['跨領域智慧製造學程', '金融科技學程', '無人載具學程', '智慧製造聯網微學程', '永續能源學程', '人工智能投資微學程', '金融科技與創新微學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS580&Crsname=金融科技,,,False,資管碩,MIS580,0,不分班,"金融科技
-FINTECH",3,期,False,50,0,0,50,楊淯程,"四2,3,4(管CM 4078)","['', '', '', '234', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '智慧金融數據分析與創新微學程', '人工智慧探索應用學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS580&Crsname=金融科技,異動,更換教室7/15,False,資管碩,MIS580,0,不分班,"金融科技
+FINTECH",3,期,False,50,0,0,50,楊淯程,"四2,3,4(管CM 2016)","['', '', '', '234', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '智慧金融數據分析與創新微學程', '人工智慧探索應用學分學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS583&Crsname=深度學習,,,False,資管碩,MIS583,0,不分班,"深度學習
 DEEP LEARNING",3,期,False,50,0,0,50,楊惠芳,"四2,3,4(工EC 1001)","['', '', '', '234', '', '', '']",《講授類》,"['智慧商業數據分析與創新微學程', '人工智慧自然語言技術學分學程', '人工智慧視覺技術學分學程', '人工智慧資訊安全技術學分學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS590&Crsname=資訊檢索,,,False,資管碩,MIS590,0,不分班,"資訊檢索
@@ -4780,16 +4780,16 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICM649&
 INDEPENDENT STUDIES IN SOCIAL MARKETING",3,期,False,50,0,0,50,譚躍,"一2,3,4(管CM 2029)","['234', '', '', '', '', '', '']","《獨立研究》
 限行傳所碩士班二年級學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICM652&Crsname=社會科學量化分析,,,False,行銷傳播碩,ICM652,0,不分班,"社會科學量化分析
-DATA ANALYSIS OF SOCIAL SCIENCE",3,期,False,50,0,0,50,張榮華,"二C,D,E(管CM 2032)","['', 'CDE', '', '', '', '', '']","《講授類》
+DATA ANALYSIS OF SOCIAL SCIENCE",3,期,False,50,0,0,50,張榮華,,"['', '', '', '', '', '', '']","《講授類》
 限行傳所修畢量化研究方法課程學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICM653&Crsname=專題研究（一）,,,False,行銷傳播碩,ICM653,0,不分班,"專題研究（一）
-INDEPENDENT STUDIES(I)",3,期,False,50,0,0,50,鄭安授,"一2,3,4(管CM 2032)","['234', '', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES(I)",3,期,False,50,0,0,50,鄭安授,,"['', '', '', '', '', '', '']","《獨立研究》
 限行傳所碩士班二年級學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICM658&Crsname=永續行銷專題研究,,,False,行銷傳播碩,ICM658,0,不分班,"永續行銷專題研究
-INDEPENDENT STUDIES IN SUSTAINABLE MARKETING",3,期,False,50,0,0,50,李雅靖,"三5,6,7(管CM 2029)","['', '', '567', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN SUSTAINABLE MARKETING",3,期,False,50,0,0,50,李雅靖,,"['', '', '', '', '', '', '']","《獨立研究》
 限行傳所碩士班二年級學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICM660&Crsname=網路口碑專題研究,,,False,行銷傳播碩,ICM660,0,不分班,"網路口碑專題研究
-INDEPENDENT STUDIES IN ELECTRONIC WORD-OF-MOUTH",3,期,False,50,0,0,50,張榮華,"二8,6,7(管CM 2032)","['', '678', '', '', '', '', '']","《獨立研究》
+INDEPENDENT STUDIES IN ELECTRONIC WORD-OF-MOUTH",3,期,False,50,0,0,50,張榮華,,"['', '', '', '', '', '', '']","《獨立研究》
 限行傳所碩士班二年級學生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM503&Crsname=大數據分析、機器學習、與人工智慧方法,,,False,管理學院(碩),CM503,0,不分班,"大數據分析、機器學習、與人工智慧方法
 BIG DATA ANALYTICS, MACHINE LEARNING, AND ARTIFICIAL INTELLIGENCE",3,期,False,50,0,0,50,康藝晃,"三5,6,7(管CM 3051)","['', '', '567', '', '', '', '']","《講授類》
@@ -5358,14 +5358,14 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAPA514
 POLITICS AND GOVERNMENT OF JAPAN",3,期,False,50,0,0,50,希家玹,"三2,3,4(社SS 4005)","['', '', '234', '', '', '', '']",《講授類》,['日本研究學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAPA519&Crsname=東北亞的戰略安全與外交關係,,,False,亞太英語碩程,MAPA519,1,不分班,"東北亞的戰略安全與外交關係
 NORTHEAST ASIA STRATEGIC SECURITY AND DIPLOMATIC RELATIONS",3,期,False,50,0,0,50,希家玹,"一2,3,4(社SS 4005)","['234', '', '', '', '', '', '']",《講授類》,['日本研究學程'],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAPA532&Crsname=兩岸關係與亞太安全,,,False,亞太英語碩程,MAPA532,1,不分班,"兩岸關係與亞太安全
-CROSS-STRAIT RELATIONS AND ASIA-PACIFIC SECURITY",3,期,False,50,0,0,50,林正義,"四5,6,7(社SS 4005)","['', '', '', '567', '', '', '']",《講授類》,"['日本研究學程', '全民國防微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAPA532&Crsname=兩岸關係與亞太安全,異動,更換教室7/15,False,亞太英語碩程,MAPA532,1,不分班,"兩岸關係與亞太安全
+CROSS-STRAIT RELATIONS AND ASIA-PACIFIC SECURITY",3,期,False,50,0,0,50,林正義,"四5,6,7(社SS 2011)","['', '', '', '567', '', '', '']",《講授類》,"['日本研究學程', '全民國防微學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAPA534&Crsname=韓國公共外交政策,,,False,亞太英語碩程,MAPA534,1,不分班,"韓國公共外交政策
 PUBLIC DIPLOMACY IN KOREAN PERSPECTIVES",3,期,False,50,0,0,50,郭育仁,"四2,3,4(社SS 4005)","['', '', '', '234', '', '', '']",《講授類》,['日本研究學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAPA537&Crsname=印太地區的政治與安全,,,False,亞太英語碩程,MAPA537,1,不分班,"印太地區的政治與安全
 POLITICS AND SECURITY IN THE INDO-PACIFIC",3,期,False,50,0,0,50,劉奇峯,"三5,6,7(社SS 4005)","['', '', '567', '', '', '', '']",《講授類》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAPA541&Crsname=國家安全與危機處理,,,False,亞太英語碩程,MAPA541,1,不分班,"國家安全與危機處理
-NATIONAL SECURITY AND CRISIS MANAGEMENT",3,期,False,50,0,0,50,林文程,"五8,6,7(社SS 4005)","['', '', '', '', '678', '', '']",《講授類》,['全民國防微學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAPA541&Crsname=國家安全與危機處理,異動,更換教室7/15,False,亞太英語碩程,MAPA541,1,不分班,"國家安全與危機處理
+NATIONAL SECURITY AND CRISIS MANAGEMENT",3,期,False,50,0,0,50,林文程,"五8,6,7(社SS 2011)","['', '', '', '', '678', '', '']",《講授類》,['全民國防微學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAPA542&Crsname=科技與國際關係：理論與方法,,,False,亞太英語碩程,MAPA542,1,不分班,"科技與國際關係：理論與方法
 TECHNOLOGY AND INTERNATIONAL RELATIONS: THEORIES AND METHODS",3,期,False,50,0,0,50,劉奇峯,"二8,6,7(社SS 4005)","['', '678', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IGPE503&Crsname=教育統計學研究,,,False,教人全英碩,IGPE503,0,不分班,"教育統計學研究
@@ -6080,8 +6080,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CAPS921
 THE STATE-SOCIETY RELATIONS IN CONTEMPORARY CHINA",3,期,False,50,0,0,50,蔡書瑋,"一C,D,E(社SS 2007)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CAPS927&Crsname=資源經濟學,,,False,亞太碩專,CAPS927,1,不分班,"資源經濟學
 RESOURCE ECONOMICS",3,期,False,50,0,0,50,林雅淇,"四C,D,E(社SS 2007)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CAPS931&Crsname=國際關係理論與國際法實踐,,,False,亞太碩專,CAPS931,2,不分班,"國際關係理論與國際法實踐
-INTERNATIONAL LAW AND INTERNATIONAL RELATIONS : BRIDGING THEORY AND PRACTICE",3,期,False,50,0,0,50,待聘,"五C,D,E(社SS 2008)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CAPS931&Crsname=國際關係理論與國際法實踐,異動,確認教師7/15,False,亞太碩專,CAPS931,2,不分班,"國際關係理論與國際法實踐
+INTERNATIONAL LAW AND INTERNATIONAL RELATIONS : BRIDGING THEORY AND PRACTICE",3,期,False,50,0,0,50,陳虹宇,"五C,D,E(社SS 2008)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC901&Crsname=社會學,,,False,社會原碩專,SOC901,1,不分班,"社會學
 SOCIOLOGY",3,期,True,50,0,0,50,"李宛儒,萬毓澤,邱花妹","六8,9,7(社SS 3004-2)","['', '', '', '', '', '789', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC903&Crsname=當代原住民族議題（一）,,,False,社會原碩專,SOC903,1,不分班,"當代原住民族議題（一）
@@ -6671,22 +6671,22 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS514&
 PRODUCTION/OPERATION MANAGEMENT",3,期,False,50,0,0,50,劉賓陽,"三2,3,4(管CM 2016)","['', '', '234', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS514&Crsname=生產與作業管理,,,False,資管碩,MIS514,0,,"生產與作業管理
 PRODUCTION/OPERATION MANAGEMENT",3,期,False,50,0,0,50,劉賓陽,"三2,3,4(管CM 2016)","['', '', '234', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,,,False,資管碩,MIS526,0,,"供應鏈管理
-SUPPLY CHAIN MANAGEMENT",3,期,False,50,0,0,50,李捷,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,,,False,資管碩,MIS526,0,,"供應鏈管理
-SUPPLY CHAIN MANAGEMENT",3,期,False,50,0,0,50,李捷,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,,,False,資管碩,MIS526,0,,"供應鏈管理
-SUPPLY CHAIN MANAGEMENT",3,期,False,50,0,0,50,李捷,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,,,False,資管碩,MIS526,0,,"供應鏈管理
-SUPPLY CHAIN MANAGEMENT",3,期,False,50,0,0,50,李捷,"三2,3,4(管CM 4069)","['', '', '234', '', '', '', '']",《講授類》,['科技創新與服務業管理學程'],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析,,,False,資管碩,MIS559,0,,"系統模擬與分析
-SYSTEM SIMULATION AND ANALYSIS",3,期,False,50,0,0,50,劉賓陽,"三D,E,F(管CM 3051)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析,,,False,資管碩,MIS559,0,,"系統模擬與分析
-SYSTEM SIMULATION AND ANALYSIS",3,期,False,50,0,0,50,劉賓陽,"三D,E,F(管CM 3051)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS580&Crsname=金融科技,,,False,資管碩,MIS580,0,,"金融科技
-FINTECH",3,期,False,50,0,0,50,楊淯程,"四2,3,4(管CM 4078)","['', '', '', '234', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '智慧金融數據分析與創新微學程', '人工智慧探索應用學分學程']",False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS580&Crsname=金融科技,,,False,資管碩,MIS580,0,,"金融科技
-FINTECH",3,期,False,50,0,0,50,楊淯程,"四2,3,4(管CM 4078)","['', '', '', '234', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '智慧金融數據分析與創新微學程', '人工智慧探索應用學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,異動,更換時間及教室7/15,False,資管碩,MIS526,0,,"供應鏈管理
+SUPPLY CHAIN MANAGEMENT",3,期,False,30,0,0,30,李捷,"四8,6,7(管CM 3022)","['', '', '', '678', '', '', '']",《講授類》,['科技創新與服務業管理學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,異動,更換時間及教室7/15,False,資管碩,MIS526,0,,"供應鏈管理
+SUPPLY CHAIN MANAGEMENT",3,期,False,30,0,0,30,李捷,"四8,6,7(管CM 3022)","['', '', '', '678', '', '', '']",《講授類》,['科技創新與服務業管理學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,異動,更換時間及教室7/15,False,資管碩,MIS526,0,,"供應鏈管理
+SUPPLY CHAIN MANAGEMENT",3,期,False,30,0,0,30,李捷,"四8,6,7(管CM 3022)","['', '', '', '678', '', '', '']",《講授類》,['科技創新與服務業管理學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS526&Crsname=供應鏈管理,異動,更換時間及教室7/15,False,資管碩,MIS526,0,,"供應鏈管理
+SUPPLY CHAIN MANAGEMENT",3,期,False,30,0,0,30,李捷,"四8,6,7(管CM 3022)","['', '', '', '678', '', '', '']",《講授類》,['科技創新與服務業管理學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析,異動,更換教室7/15,False,資管碩,MIS559,0,,"系統模擬與分析
+SYSTEM SIMULATION AND ANALYSIS",3,期,False,50,0,0,50,劉賓陽,"三D,E,F(管CM 3038)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析,異動,更換教室7/15,False,資管碩,MIS559,0,,"系統模擬與分析
+SYSTEM SIMULATION AND ANALYSIS",3,期,False,50,0,0,50,劉賓陽,"三D,E,F(管CM 3038)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS580&Crsname=金融科技,異動,更換教室7/15,False,資管碩,MIS580,0,,"金融科技
+FINTECH",3,期,False,50,0,0,50,楊淯程,"四2,3,4(管CM 2016)","['', '', '', '234', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '智慧金融數據分析與創新微學程', '人工智慧探索應用學分學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS580&Crsname=金融科技,異動,更換教室7/15,False,資管碩,MIS580,0,,"金融科技
+FINTECH",3,期,False,50,0,0,50,楊淯程,"四2,3,4(管CM 2016)","['', '', '', '234', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '智慧金融數據分析與創新微學程', '人工智慧探索應用學分學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS583&Crsname=深度學習,,,False,資管碩,MIS583,0,,"深度學習
 DEEP LEARNING",3,期,False,50,0,0,50,楊惠芳,"四2,3,4(工EC 1001)","['', '', '', '234', '', '', '']",《講授類》,"['智慧商業數據分析與創新微學程', '人工智慧自然語言技術學分學程', '人工智慧視覺技術學分學程', '人工智慧資訊安全技術學分學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS583&Crsname=深度學習,,,False,資管碩,MIS583,0,,"深度學習
@@ -6768,13 +6768,13 @@ ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,0,60,"王致遠,�
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
 ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,0,60,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,0,60,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
+『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
+ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,0,60,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
 企業管理組;
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,0,60,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
-『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
-ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,0,60,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
 ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,0,0,60,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
