@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PAM621&Crsname=能源轉型與氣候治理,,,False,公事碩,PAM621,0,不分班,"能源轉型與氣候治理
-ENERGY TRANSITION AND CLIMATE GOVERNANCE",3,期,False,50,0,0,50,黃奕臻,,"['', '', '', '', '', '', '']",《講授類》,[],True
+ENERGY TRANSITION AND CLIMATE GOVERNANCE",3,期,False,50,0,0,50,黃奕臻,"五5,6,7(管CM 1020)","['', '', '', '', '567', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=HRM501&Crsname=組織理論與管理,,,False,人管碩,HRM501,1,不分班,"組織理論與管理
 ORGANIZATION THEORY & MANAGEMENT",3,期,True,50,0,0,50,何佳澔,"四8,6,7(管CM 4069)","['', '', '', '678', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=HRM502&Crsname=組織行為,,,False,人管碩,HRM502,1,不分班,"組織行為
