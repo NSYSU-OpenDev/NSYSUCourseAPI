@@ -1,0 +1,4 @@
+Item root[1832]['tags'][0] removed from iterable.
+Item root[1832]['tags'][1] removed from iterable.
+Item root[1832]['tags'][2] removed from iterable.
+Item root[1832]['tags'][3] removed from iterable.

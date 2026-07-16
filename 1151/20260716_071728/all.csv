@@ -253,7 +253,7 @@ SPORT & HEALTH: BASIC BASKETBALL",1,期,True,50,0,0,50,待聘,"四3,4(體育館3
 限大二以上選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE211&Crsname=運動與健康：初級墊上核心,異動,更換時間7/15,False,運動健康(必),GEPE211,2,不分班,"運動與健康：初級墊上核心
 SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,李佳倫,"一B,5(韻律教室/Aerobics classroom)","['B5', '', '', '', '', '', '']","《體育類》
-限大二以上選修。",[],True
+限大二以上選修。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE211A&Crsname=運動與健康：初級墊上核心,異動,更換時間7/15,False,運動健康(必),GEPE211A,2,不分班,"運動與健康：初級墊上核心
 SPORT & HEALTH: BASIC MAT SCIENCE",1,期,True,50,0,0,50,李佳倫,"一3,4(韻律教室/Aerobics classroom)","['34', '', '', '', '', '', '']","《體育類》
 限大二以上選修。",[],True
@@ -1656,8 +1656,9 @@ CALCULUS(I)",3,期,True,50,0,0,50,張福春,"一2,3,4(理SC 1005)","['234', '', 
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CHEM105A&Crsname=微積分（一）,,,False,化學系,CHEM105A,1,全英班,"微積分（一）
 CALCULUS(I)",3,期,True,50,0,0,50,翁鵬絜,"一2,3,4(工EC 1001)","['234', '', '', '', '', '', '']","《講授類》
 限化學系同學選修。與光電系及材光系併班",['人工智慧與數學學程'],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CHEM115&Crsname=學術英語: 化學實驗寫作與表達,,,False,化學系,CHEM115,1,不分班,"學術英語: 化學實驗寫作與表達
-ACADEMIC WRITING FOR EXPERIMENTAL REPORTS IN CHEMISTRY",3,期,False,50,0,0,50,陳瑞華,"五5,6,7(海ME 3004)","['', '', '', '', '567', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CHEM115&Crsname=學術英語: 化學實驗寫作與表達,異動,更換教師與時間7/16,False,化學系,CHEM115,1,不分班,"學術英語: 化學實驗寫作與表達
+ACADEMIC WRITING FOR EXPERIMENTAL REPORTS IN CHEMISTRY",3,期,False,50,0,0,50,傅安德,"一5,6,7(西SW 1007)","['567', '', '', '', '', '', '']","《講授類》
+本課程為 ESAP 課程，可採計為 EAP/ESP 學分。請依《國立中山大學學士班學生英文能力培育辦法》確認起始分級，修習及格後向西灣學院提出申請，經審核通過後始得採計。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CHEM207&Crsname=化學數學,,,False,化學系,CHEM207,2,不分班,"化學數學
 MATHEMATICS FOR CHEMISTS",3,期,False,50,0,0,50,丁尚武,"五5,6,7(理SC 3001)","['', '', '', '', '567', '', '']","《講授類》
 化學系主題課程。2-4年級皆可選修。","['金融工程學程', '自然科學之程式應用學程']",False
@@ -4627,7 +4628,7 @@ SUPPLY CHAIN MANAGEMENT",3,期,False,30,0,0,30,李捷,"四8,6,7(管CM 3022)","['
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析,異動,更換教室7/15,False,資管碩,MIS559,0,不分班,"系統模擬與分析
 SYSTEM SIMULATION AND ANALYSIS",3,期,False,50,0,0,50,劉賓陽,"三D,E,F(管CM 3038)","['', '', 'DEF', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS562&Crsname=電子商務,,,False,資管碩,MIS562,0,不分班,"電子商務
-ELECTRONIC COMMERCE",3,期,False,50,0,0,50,邱兆民,"一8,6,7(管CM 3019)","['678', '', '', '', '', '', '']",《講授類》,"['行銷管理學程', '金融科技學程', '當代策展與藝術行政學程', '金融科技與創新微學程']",False
+ELECTRONIC COMMERCE",3,期,False,50,0,0,50,邱兆民,"一8,6,7(管CM 3019)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS572&Crsname=巨量資料分析導論,,,False,資管碩,MIS572,0,不分班,"巨量資料分析導論
 INTRODUCTION TO BIG DATA ANALYTICS",3,期,False,50,0,0,50,康藝晃,"三5,6,7(管CM 3051)","['', '', '567', '', '', '', '']",《講授類》,"['跨領域智慧製造學程', '金融科技學程', '無人載具學程', '智慧製造聯網微學程', '永續能源學程', '人工智能投資微學程', '金融科技與創新微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS580&Crsname=金融科技,異動,更換教室7/15,False,資管碩,MIS580,0,不分班,"金融科技
