@@ -1,0 +1,1 @@
+Value of root[1378]['room'] changed from "四2,3,4(文LA 7001)" to "五2,3,4(文LA 2009)".
