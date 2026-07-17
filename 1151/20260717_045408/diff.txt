@@ -1,0 +1,26 @@
+Item root[2458]['classTime'][2] added to iterable.
+Item root[2094]['classTime'][1] added to iterable.
+Item root[2458]['classTime'][2] removed from iterable.
+Item root[2094]['classTime'][0] removed from iterable.
+Type of root[2458]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[2458]['changeDescription'] changed from NoneType to str and value changed from None to "7/17".
+Type of root[2094]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2094]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室及時間7/17".
+Type of root[2102]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2102]['changeDescription'] changed from NoneType to str and value changed from None to "異動教室說明7/17".
+Value of root[373]['change'] changed from "新增" to "異動".
+Value of root[373]['changeDescription'] changed from "7/7" to "修正名額7/17".
+Value of root[373]['restrict'] changed from 50 to 35.
+Value of root[373]['remaining'] changed from 50 to 35.
+Value of root[2458]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE901&Crsname=教育統計學研究" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES549&Crsname=半導體封裝".
+Value of root[2458]['department'] changed from "教育碩專" to "材光碩".
+Value of root[2458]['id'] changed from "IOE901" to "MOES549".
+Value of root[2458]['name'] changed from "教育統計學研究
+STUDIES IN EDUCATIONAL STATISTICS" to "半導體封裝
+SEMICONDUCTOR PACKAGING".
+Value of root[2458]['restrict'] changed from 30 to 59.
+Value of root[2458]['remaining'] changed from 30 to 59.
+Value of root[2458]['teacher'] changed from "施慶麟" to "普翰屏".
+Value of root[2458]['room'] changed from "三D,E,F(社SS 3006)" to "三2,3,4(工MS 4022)".
+Value of root[2094]['room'] changed from "一8,6,7(社SS 3002-1)" to "二2,3,4(社SS 2003-2)".
+Value of root[2102]['room'] changed from "二3,4,B(社SS 2003-2)" to "二3,4,B(自行安排)".
