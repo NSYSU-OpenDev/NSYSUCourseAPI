@@ -1,7 +1,0 @@
-Type of root[607]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[607]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師與時間7/16".
-Value of root[85]['english'] changed from True to False.
-Value of root[607]['teacher'] changed from "陳瑞華" to "傅安德".
-Value of root[607]['room'] changed from "五5,6,7(海ME 3004)" to "一5,6,7(西SW 1007)".
-Value of root[607]['description'] changed from "《講授類》" to "《講授類》
-本課程為 ESAP 課程，可採計為 EAP/ESP 學分。請依《國立中山大學學士班學生英文能力培育辦法》確認起始分級，修習及格後向西灣學院提出申請，經審核通過後始得採計。".
