@@ -1,0 +1,6 @@
+Item root[434]['classTime'][2] added to iterable.
+Item root[434]['classTime'][2] removed from iterable.
+Item root[1157] removed from iterable.
+Type of root[434]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[434]['changeDescription'] changed from NoneType to str and value changed from None to "更正部份時間7/22".
+Value of root[434]['room'] changed from "三2,3,5(文LA 3003)" to "三2,3,4(文LA 3003)".
