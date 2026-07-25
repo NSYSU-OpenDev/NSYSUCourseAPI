@@ -27,18 +27,6 @@ Item root[981]['classTime'][2] added to iterable.
 Item root[982]['classTime'][0] added to iterable.
 Item root[982]['classTime'][1] added to iterable.
 Item root[982]['classTime'][2] added to iterable.
-Item root[987]['classTime'][2] added to iterable.
-Item root[988]['classTime'][1] added to iterable.
-Item root[989]['classTime'][0] added to iterable.
-Item root[990]['classTime'][3] added to iterable.
-Item root[991]['classTime'][0] added to iterable.
-Item root[992]['classTime'][2] added to iterable.
-Item root[993]['classTime'][1] added to iterable.
-Item root[994]['classTime'][4] added to iterable.
-Item root[995]['classTime'][3] added to iterable.
-Item root[996]['classTime'][0] added to iterable.
-Item root[997]['classTime'][4] added to iterable.
-Item root[998]['classTime'][4] added to iterable.
 Item root[2340]['classTime'][3] added to iterable.
 Item root[2341]['classTime'][4] added to iterable.
 Repetition change for item root[300]['classTime'][0].
@@ -64,18 +52,6 @@ Repetition change for item root[319]['classTime'][0].
 Repetition change for item root[980]['classTime'][0].
 Repetition change for item root[981]['classTime'][0].
 Repetition change for item root[982]['classTime'][0].
-Repetition change for item root[987]['classTime'][0].
-Repetition change for item root[988]['classTime'][0].
-Repetition change for item root[989]['classTime'][0].
-Repetition change for item root[990]['classTime'][0].
-Repetition change for item root[991]['classTime'][0].
-Repetition change for item root[992]['classTime'][0].
-Repetition change for item root[993]['classTime'][0].
-Repetition change for item root[994]['classTime'][0].
-Repetition change for item root[995]['classTime'][0].
-Repetition change for item root[996]['classTime'][0].
-Repetition change for item root[997]['classTime'][0].
-Repetition change for item root[998]['classTime'][0].
 Repetition change for item root[2340]['classTime'][0].
 Repetition change for item root[2341]['classTime'][0].
 Value of root[300]['room'] changed from "" to "三B(網路大學)".
@@ -101,16 +77,4 @@ Value of root[319]['room'] changed from "" to "一5,6,7(海MB 2009)".
 Value of root[980]['room'] changed from "" to "一A() 二A() 三A()".
 Value of root[981]['room'] changed from "" to "一A() 二A() 三A()".
 Value of root[982]['room'] changed from "" to "一A() 二A() 三A()".
-Value of root[987]['room'] changed from "" to "三5,6,7(管CM 2037)".
-Value of root[988]['room'] changed from "" to "二2,3,4(管CM 3015)".
-Value of root[989]['room'] changed from "" to "一2,3,4(管CM 2037)".
-Value of root[990]['room'] changed from "" to "四5,6,7(管CM 1025)".
-Value of root[991]['room'] changed from "" to "一8,6,7(管CM 3015)".
-Value of root[992]['room'] changed from "" to "三5,6,7(管CM 4112)".
-Value of root[993]['room'] changed from "" to "二8,6,7(管CM 3015)".
-Value of root[994]['room'] changed from "" to "五2,3,4(管CM 4112)".
-Value of root[995]['room'] changed from "" to "四2,3,4(管CM 4112)".
-Value of root[996]['room'] changed from "" to "一8,6,7(管CM 2025)".
-Value of root[997]['room'] changed from "" to "五5,6,7(管CM 2015)".
-Value of root[998]['room'] changed from "" to "五2,3,4(管CM 2015)".
 Value of root[2341]['room'] changed from "" to "五2,3,4(文FA 3011)".
