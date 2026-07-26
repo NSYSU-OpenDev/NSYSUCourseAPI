@@ -1,10 +1,10 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2632&Crsname=通識專題講座：濕地生態與環境永續,,,False,博雅向度六,GEAE2632,0,不分班,"通識專題講座：濕地生態與環境永續
-LECTURESHIP ON GENERAL EDUCATION: WETLAND ECOLOGY AND ENVIRONMENTAL SUSTAINABILITY",2,期,True,120,0,0,120,"劉叔秋,張詠斌","五6,7(通GE 1010)","['', '', '', '', '67', '', '']",《演講/參訪》,[],False
+LECTURESHIP ON GENERAL EDUCATION: WETLAND ECOLOGY AND ENVIRONMENTAL SUSTAINABILITY",2,期,True,120,0,0,120,"劉叔秋,張詠斌",,"['', '', '', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2633&Crsname=海洋生態保育與永續發展,,,False,博雅向度六,GEAE2633,0,不分班,"海洋生態保育與永續發展
-MARINE ECOLOGY CONSERVATION AND SUSTAINABLE DEVELOPMENT",2,期,True,50,0,0,50,林裕䕒,"三5,6(通GE 1008)","['', '', '56', '', '', '', '']",《講授類》,[],False
+MARINE ECOLOGY CONSERVATION AND SUSTAINABLE DEVELOPMENT",2,期,True,50,0,0,50,林裕䕒,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2634&Crsname=環境科學與污染防治,,,False,博雅向度六,GEAE2634,0,不分班,"環境科學與污染防治
-ENVIRONMENTAL SCIENCE AND POLLUTION PREVENTION",2,期,True,50,0,0,50,陳則綸,"一3,4(工EC 2011)","['34', '', '', '', '', '', '']",《講授類》,[],False
+ENVIRONMENTAL SCIENCE AND POLLUTION PREVENTION",2,期,True,50,0,0,50,陳則綸,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=AI10001&Crsname=人工智慧導論,,,False,AI聯盟(學),AI10001,0,不分班,"人工智慧導論
 INTRODUCTION TO ARTIFICIAL INTELLIGENCE",3,期,False,10,0,0,10,AI聯盟教師,"四5,6,7(同步遠距)","['', '', '', '567', '', '', '']","《講授類》
 1.開課單位及教師：成功大學朱威達老師。2. 上課連結：https://www.youtube.com/@WeiTaChu。課堂作業包括程式作業，修課學生需具備程式撰寫能力以及演算法的基本知識。3.同步考試時間為2026年12月10日, 13:10~16:00 （所有學生需同步進行，在此時段無法應考的學生請勿修課）","['跨領域智慧製造學程', '生成式AI素養微學程', '海洋天然物微學程', '智慧製造聯網微學程']",False
@@ -36,23 +36,23 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=AI50015
 PHYSICAL AI",3,期,False,50,0,0,50,"AI聯盟教師,徐瑞壕","二5,6,7(同步遠距)","['', '567', '', '', '', '', '']","《講授類》
 1.開課單位及教師：陽明交通大學陳奕廷老師。本校協助教師：資工系徐瑞壕副教授。3.限研究所（含大學部以上四年級修讀）",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHY101&Crsname=普通物理學（一）,,,False,普通物理小組,PHY101,1,不分班,"普通物理學（一）
-GENERAL PHYSICS (I)",3,期,True,50,0,0,50,陳易馨,"一3,4(理SC 0009) 三5(理SC 0009)","['34', '', '5', '', '', '', '']","《講授類》
+GENERAL PHYSICS (I)",3,期,True,50,0,0,50,陳易馨,,"['', '', '', '', '', '', '']","《講授類》
 本課程與普通物理學演習(一)一起規劃課程, 需與普通物理學演習(一)一起修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHY102&Crsname=普通物理（一）,,,False,普通物理小組,PHY102,1,不分班,"普通物理（一）
-GENERAL PHYSICS(I)",3,期,True,50,0,0,50,吳紘丞,"三2,3,4(海MA 3020)","['', '', '234', '', '', '', '']","《講授類》
+GENERAL PHYSICS(I)",3,期,True,50,0,0,50,吳紘丞,,"['', '', '', '', '', '', '']","《講授類》
 化學系與海科系一年級學生優先選修，本課程無法抵免英語班普通物理",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHY102A&Crsname=普通物理（一）,,,False,普通物理小組,PHY102A,1,不分班,"普通物理（一）
-GENERAL PHYSICS(I)",3,期,True,50,0,0,50,陳龍銘,"三2,3,4(工EC 1001)","['', '', '234', '', '', '', '']","《講授類》
+GENERAL PHYSICS(I)",3,期,True,50,0,0,50,陳龍銘,,"['', '', '', '', '', '', '']","《講授類》
 材光系與光電系一年級學生優先選修，本課程無法抵免英語班普通物理",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHY102B&Crsname=普通物理（一）,,,False,普通物理小組,PHY102B,1,不分班,"普通物理（一）
-GENERAL PHYSICS(I)",3,期,True,50,0,0,50,陳宗緯,"五2,3,4(工EC 3013)","['', '', '', '', '234', '', '']","《講授類》
+GENERAL PHYSICS(I)",3,期,True,50,0,0,50,陳宗緯,,"['', '', '', '', '', '', '']","《講授類》
 電機系一年級學生優先選修，本課程無法抵免英語班普通物理",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHY102C&Crsname=普通物理（一）,,,False,普通物理小組,PHY102C,1,全英班,"普通物理（一）
-GENERAL PHYSICS(I)",3,期,True,50,0,0,50,待聘,"四5,6,7(海ME 3006)","['', '', '', '567', '', '', '']","《講授類》
+GENERAL PHYSICS(I)",3,期,True,50,0,0,50,待聘,,"['', '', '', '', '', '', '']","《講授類》
 化學系一年級英語班與海工系一年級學生優先選修",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHY102D&Crsname=普通物理（一）,,,False,普通物理小組,PHY102D,1,全英班,"普通物理（一）
-GENERAL PHYSICS(I)",3,期,True,65,0,0,65,周雄,"三2,3,4(工EC 3006)","['', '', '234', '', '', '', '']","《講授類》
+GENERAL PHYSICS(I)",3,期,True,65,0,0,65,周雄,,"['', '', '', '', '', '', '']","《講授類》
 材光系與光電系一年級英語班學生優先選修",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHY102E&Crsname=普通物理（一）,,,False,普通物理小組,PHY102E,1,全英班,"普通物理（一）
-GENERAL PHYSICS(I)",3,期,True,50,0,0,50,岩本祥,"五5,6,7(工EC 3013)","['', '', '', '', '567', '', '']","《講授類》
+GENERAL PHYSICS(I)",3,期,True,50,0,0,50,岩本祥,,"['', '', '', '', '', '', '']","《講授類》
 電機系一年級英語班學生優先選修",[],True
