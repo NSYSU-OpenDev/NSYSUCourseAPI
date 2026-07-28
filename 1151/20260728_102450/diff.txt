@@ -1,0 +1,25 @@
+Item root[381]['classTime'][4] added to iterable.
+Item root[381]['classTime'][4] removed from iterable.
+Type of root[381]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[381]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/28".
+Type of root[1238]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1238]['changeDescription'] changed from NoneType to str and value changed from None to "增加授課教師7/27".
+Value of root[381]['room'] changed from "五5,6,7(文LA 1004)" to "五2,3,4(文LA 1004)".
+Value of root[600]['select'] changed from 0 to 1.
+Value of root[600]['selected'] changed from 2 to 1.
+Value of root[600]['remaining'] changed from 48 to 49.
+Value of root[602]['select'] changed from 0 to 1.
+Value of root[602]['selected'] changed from 2 to 1.
+Value of root[602]['remaining'] changed from 22 to 23.
+Value of root[604]['select'] changed from 0 to 1.
+Value of root[604]['selected'] changed from 2 to 1.
+Value of root[604]['remaining'] changed from 48 to 49.
+Value of root[1131]['multipleCompulsory'] changed from False to True.
+Value of root[1132]['multipleCompulsory'] changed from False to True.
+Value of root[1133]['multipleCompulsory'] changed from False to True.
+Value of root[1134]['multipleCompulsory'] changed from False to True.
+Value of root[1135]['multipleCompulsory'] changed from False to True.
+Value of root[1136]['multipleCompulsory'] changed from False to True.
+Value of root[1137]['multipleCompulsory'] changed from False to True.
+Value of root[1138]['multipleCompulsory'] changed from False to True.
+Value of root[1238]['teacher'] changed from "朱國安" to "朱國安,林明毅,林清煌,陳建良".
