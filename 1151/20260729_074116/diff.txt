@@ -1,0 +1,17 @@
+Type of root[1073]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1073]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室7/29".
+Type of root[2079]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2079]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/29".
+Type of root[2802]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2802]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間7/29".
+Value of root[23]['select'] changed from 1 to 2.
+Value of root[25]['select'] changed from 1 to 2.
+Value of root[62]['select'] changed from 1 to 2.
+Value of root[73]['select'] changed from 1 to 2.
+Value of root[97]['select'] changed from 0 to 1.
+Value of root[167]['select'] changed from 1 to 2.
+Value of root[170]['select'] changed from 0 to 1.
+Value of root[217]['select'] changed from 1 to 2.
+Value of root[380]['select'] changed from 1 to 2.
+Value of root[394]['select'] changed from 0 to 1.
+Value of root[1073]['room'] changed from "五2,3,4(海MA 3020)" to "五2,3,4(海ME 3006)".
