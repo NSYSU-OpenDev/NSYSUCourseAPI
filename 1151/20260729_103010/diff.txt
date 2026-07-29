@@ -1,0 +1,18 @@
+Value of root[23]['select'] changed from 2 to 3.
+Value of root[25]['select'] changed from 2 to 3.
+Value of root[42]['select'] changed from 1 to 2.
+Value of root[97]['select'] changed from 1 to 2.
+Value of root[112]['select'] changed from 0 to 1.
+Value of root[167]['select'] changed from 2 to 3.
+Value of root[217]['select'] changed from 2 to 3.
+Value of root[317]['select'] changed from 1 to 2.
+Value of root[380]['select'] changed from 2 to 3.
+Value of root[394]['select'] changed from 1 to 2.
+Value of root[946]['selected'] changed from 45 to 44.
+Value of root[946]['remaining'] changed from 10 to 11.
+Value of root[2079]['room'] changed from "四5,6,7(社SS 3008)" to "三5,6,7(社SS 3008)".
+Value of root[2448]['selected'] changed from 7 to 6.
+Value of root[2448]['remaining'] changed from 43 to 44.
+Value of root[2527]['selected'] changed from 1 to 0.
+Value of root[2527]['remaining'] changed from 49 to 50.
+Value of root[2802]['room'] changed from "四5,6,7(社SS 3008)" to "三5,6,7(社SS 3008)".
