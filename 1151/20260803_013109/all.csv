@@ -686,7 +686,7 @@ INTRODUCTION TO THE ARTS",2,期,False,20,0,0,20,王以亮,"一3,4(文FA 3009)","
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1833&Crsname=古典小說選（一）,,,False,跨院選修(文),GEAI1833,0,不分班,"古典小說選（一）
 CLASSICAL NOVELS(I)",3,期,False,15,0,0,15,羅景文,"二2,3,4(文LA 4004)","['', '234', '', '', '', '', '']","《講授類》
 與中文系CL150課程併班上課",['中文創意跨域應用整合學程'],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1851&Crsname=基礎程式設計應用,,,False,跨院選修(文),GEAI1851,0,不分班,"基礎程式設計應用
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1851&Crsname=基礎程式設計應用,異動,修正備註說明8/3,False,跨院選修(文),GEAI1851,0,不分班,"基礎程式設計應用
 APPLICATION OF BASIC PROGRAMMING",3,期,False,20,0,0,20,溫嘉榮,"三2,3,4(圖IL PC03)","['', '', '234', '', '', '', '']","《講授類》
 跨院通識與文學院LIBA143課程併班上課","['金融工程學程', '智慧高齡生活微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1852&Crsname=電影創作與程式邏輯思維,,,False,跨院選修(文),GEAI1852,0,不分班,"電影創作與程式邏輯思維
@@ -6628,9 +6628,9 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BIOS547
 EVOLUTIONARY BIOLOGY",3,期,False,50,0,0,50,江友中,"二C,D,E(理SC 3005)","['', 'CDE', '', '', '', '', '']",《講授類》,"['海洋生物資源開發學程', '生物技術學程', '生物多樣性學程', '環境教育學程', '海洋循環經濟學程', '海洋生物資源與實務應用微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BIOS548&Crsname=應用解剖學,,,False,生科碩,BIOS548,1,,"應用解剖學
 APPLIED ANATOMY",3,期,False,50,0,0,50,汪海晏,"一C,D,E(理BI 3001)","['CDE', '', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHYS525&Crsname=半導體材料與物理,,,False,物理碩,PHYS525,1,全英班,"半導體材料與物理
-SEMICONDUCTOR MATERIALS AND PHYSICS",3,期,False,50,0,0,50,余健文,"二8,6,7(理PH 5008)","['', '678', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHYS525&Crsname=半導體材料與物理,,,False,物理碩,PHYS525,1,不分班,"半導體材料與物理
+SEMICONDUCTOR MATERIALS AND PHYSICS",3,期,False,50,0,0,50,余健文,"二8,6,7(理PH 5008)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHYS525&Crsname=半導體材料與物理,,,False,物理碩,PHYS525,1,全英班,"半導體材料與物理
 SEMICONDUCTOR MATERIALS AND PHYSICS",3,期,False,50,0,0,50,余健文,"二8,6,7(理PH 5008)","['', '678', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5310&Crsname=計算機網路,,,False,電機碩,EE5310,0,,"計算機網路
 COMPUTER NETWORK",3,期,False,50,0,0,50,許蒼嶺,"三5,6,7(工EC 6010-2)","['', '', '567', '', '', '', '']","《講授類》
