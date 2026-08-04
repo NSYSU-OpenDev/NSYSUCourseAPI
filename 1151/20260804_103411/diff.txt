@@ -1,0 +1,33 @@
+Item root[2505] removed from iterable.
+Item root[2506] removed from iterable.
+Item root[2507] removed from iterable.
+Item root[2511] removed from iterable.
+Item root[2512] removed from iterable.
+Item root[2513] removed from iterable.
+Item root[2514] removed from iterable.
+Repetition change for item root[621]['classTime'][2].
+Repetition change for item root[621]['classTime'][3].
+Type of root[621]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[621]['changeDescription'] changed from NoneType to str and value changed from None to "更換部份時間8/4".
+Type of root[959]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[959]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/4".
+Value of root[338]['description'] changed from "《講授類》
+與醫學院MED144課程併班上課" to "《講授類》
+跨院通識與醫學院MED144課程併班上課".
+Value of root[613]['selected'] changed from 21 to 20.
+Value of root[613]['remaining'] changed from 29 to 30.
+Value of root[615]['selected'] changed from 21 to 20.
+Value of root[615]['remaining'] changed from 39 to 40.
+Value of root[621]['teacher'] changed from "邱政超" to "謝淑貞".
+Value of root[621]['room'] changed from "三B() 四1() 五1()" to "三B() 四1() 五B()".
+Value of root[943]['selected'] changed from 45 to 44.
+Value of root[943]['remaining'] changed from 55 to 56.
+Value of root[945]['selected'] changed from 45 to 44.
+Value of root[945]['remaining'] changed from 10 to 11.
+Value of root[959]['teacher'] changed from "莊秉樺" to "黃靖雯".
+Value of root[1106]['teacher'] changed from "待聘,林梅芳,陳冠宇" to "林梅芳,王興麟,陳冠宇".
+Value of root[1169]['grade'] changed from "1" to "2".
+Value of root[1949]['changeDescription'] changed from "更換時間6/30" to "更換時間及教室8/4".
+Value of root[1949]['room'] changed from "一2,3,4(管CM 1023)" to "三2,3,4(管CM 1019)".
+Value of root[2064]['compulsory'] changed from False to True.
+Value of root[2676]['teacher'] changed from "待聘,林梅芳,陳冠宇" to "林梅芳,王興麟,陳冠宇".
