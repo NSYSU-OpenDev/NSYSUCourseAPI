@@ -1,0 +1,21 @@
+Item root[2078]['classTime'][1] added to iterable.
+Item root[2789]['classTime'][1] added to iterable.
+Item root[2078]['classTime'][2] removed from iterable.
+Item root[2789]['classTime'][2] removed from iterable.
+Type of root[7]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[7]['changeDescription'] changed from NoneType to str and value changed from None to "增加合授故師8/7".
+Value of root[7]['teacher'] changed from "邱文彬" to "邱文彬,鄭雯".
+Value of root[1057]['selected'] changed from 32 to 31.
+Value of root[1057]['remaining'] changed from 38 to 39.
+Value of root[1060]['selected'] changed from 32 to 31.
+Value of root[1060]['remaining'] changed from 23 to 24.
+Value of root[1061]['selected'] changed from 32 to 31.
+Value of root[1061]['remaining'] changed from 18 to 19.
+Value of root[1064]['selected'] changed from 32 to 31.
+Value of root[1064]['remaining'] changed from 18 to 19.
+Value of root[1678]['selected'] changed from 34 to 33.
+Value of root[1678]['remaining'] changed from 36 to 37.
+Value of root[2078]['changeDescription'] changed from "更換時間7/29" to "更換時間8/7".
+Value of root[2078]['room'] changed from "三5,6,7(社SS 3008)" to "二C,D,E(社SS 3008)".
+Value of root[2789]['changeDescription'] changed from "更換時間7/29" to "更換時間8/7".
+Value of root[2789]['room'] changed from "三5,6,7(社SS 3008)" to "二C,D,E(社SS 3008)".
