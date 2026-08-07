@@ -1,0 +1,18 @@
+Type of root[139]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[139]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[1374]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1374]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[1380]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1380]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/7".
+Type of root[2003]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2003]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[2310]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2310]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Type of root[2314]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2314]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/7".
+Value of root[303]['teacher'] changed from "林豪傑" to "蔡宗霖".
+Value of root[303]['room'] changed from "一5,6,7(管CM 1037)" to "一5,6,7(管CM 4112)".
+Value of root[303]['description'] changed from "《講授類》
+跨院通識與企管系BM413A課程併班上課" to "《講授類》
+限企管系(含雙主修、輔系)跨院通識與企管系BM413課程併班上課".
+Value of root[2003]['teacher'] changed from "張詠斌,待聘" to "張景淳,張詠斌".
