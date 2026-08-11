@@ -1,0 +1,30 @@
+Item root[2588]['classTime'][2] added to iterable.
+Item root[2588]['classTime'][1] removed from iterable.
+Type of root[172]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[172]['changeDescription'] changed from NoneType to str and value changed from None to "修正備註說明8/11".
+Type of root[391]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[391]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/11".
+Type of root[579]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[579]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式8/11".
+Type of root[1215]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1215]['changeDescription'] changed from NoneType to str and value changed from None to "更正部份時間8/11".
+Type of root[1394]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1394]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/11".
+Type of root[1395]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1395]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/11".
+Type of root[1398]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1398]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式8/11".
+Value of root[579]['english'] changed from True to False.
+Value of root[1203]['changeDescription'] changed from "確認教師8/6" to "更換部份時間8/11".
+Value of root[1218]['changeDescription'] changed from "更換合授教師6/29" to "更換部份時間8/11".
+Value of root[1234]['changeDescription'] changed from "增加授課教師7/27" to "取消部份合授8/11".
+Value of root[1394]['teacher'] changed from "待聘" to "羅毅恩".
+Value of root[1395]['teacher'] changed from "待聘" to "羅毅恩".
+Value of root[1398]['english'] changed from False to True.
+Value of root[1400]['teacher'] changed from "待聘" to "羅毅恩".
+Value of root[2586]['changeDescription'] changed from "確認教師8/5" to "更換教室8/11".
+Value of root[2586]['room'] changed from "三6(海MB 1005)" to "三6(海MB 2014)".
+Value of root[2587]['changeDescription'] changed from "確認教師8/5" to "更換教室8/11".
+Value of root[2587]['room'] changed from "三7(海MB 1005)" to "三7(海MB 2014)".
+Value of root[2588]['changeDescription'] changed from "確認教師8/3" to "更換時間8/11".
+Value of root[2588]['room'] changed from "二5,6,7(各研究室)" to "三2,3,4(各研究室)".
