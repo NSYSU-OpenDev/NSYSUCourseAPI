@@ -1,0 +1,22 @@
+Item root[1919] removed from iterable.
+Type of root[598]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[598]['changeDescription'] changed from NoneType to str and value changed from None to "更換主授教師8/12".
+Type of root[1439]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1439]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/12".
+Type of root[1444]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1444]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/12".
+Type of root[1455]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1455]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/12".
+Type of root[1571]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1571]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/12".
+Type of root[2145]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2145]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間8/12".
+Type of root[2475]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2475]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/12".
+Type of root[2497]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2497]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/12".
+Type of root[2532]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2532]['changeDescription'] changed from NoneType to str and value changed from None to "更換時間及教室8/12".
+Value of root[1470]['select'] changed from 0 to 1.
+Value of root[1470]['selected'] changed from 43 to 42.
+Value of root[1470]['remaining'] changed from 7 to 8.
