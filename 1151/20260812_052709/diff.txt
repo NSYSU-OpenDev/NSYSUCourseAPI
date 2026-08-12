@@ -1,0 +1,53 @@
+Item root[2021] removed from iterable.
+Type of root[1100]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[1100]['changeDescription'] changed from NoneType to str and value changed from None to "8/12".
+Type of root[2030]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2030]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師8/12".
+Type of root[2583]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2583]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/12".
+Type of root[2584]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2584]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師8/12".
+Value of root[1100]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO447&Crsname=海洋災害" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO111&Crsname=海洋與地球環境野外調查".
+Value of root[1100]['id'] changed from "DO447" to "DO111".
+Value of root[1100]['grade'] changed from "3" to "1".
+Value of root[1100]['name'] changed from "海洋災害
+OCEAN HAZARDS" to "海洋與地球環境野外調查
+MARINE AND EARTH ENVIRONMENTAL FIELD INVESTIGATION".
+Value of root[1100]['teacher'] changed from "曾若玄" to "張景淳,張詠斌".
+Value of root[1100]['room'] changed from "五3,4(海MA 2022)" to "二3,4(海MA 1005)".
+Value of root[1588]['select'] changed from 2 to 15.
+Value of root[1588]['selected'] changed from 129 to 115.
+Value of root[1588]['remaining'] changed from 21 to 35.
+Value of root[1638]['select'] changed from 1 to 5.
+Value of root[1638]['selected'] changed from 117 to 113.
+Value of root[1638]['remaining'] changed from -57 to -53.
+Value of root[1639]['select'] changed from 1 to 5.
+Value of root[1639]['selected'] changed from 117 to 113.
+Value of root[1639]['remaining'] changed from -37 to -33.
+Value of root[1640]['select'] changed from 1 to 5.
+Value of root[1640]['selected'] changed from 117 to 113.
+Value of root[1640]['remaining'] changed from -57 to -53.
+Value of root[1641]['select'] changed from 1 to 5.
+Value of root[1641]['selected'] changed from 117 to 113.
+Value of root[1641]['remaining'] changed from -57 to -53.
+Value of root[1653]['select'] changed from 1 to 5.
+Value of root[1653]['selected'] changed from 117 to 113.
+Value of root[1653]['remaining'] changed from 3 to 7.
+Value of root[1690]['select'] changed from 1 to 8.
+Value of root[1690]['selected'] changed from 87 to 80.
+Value of root[1690]['remaining'] changed from 13 to 20.
+Value of root[1721]['select'] changed from 0 to 2.
+Value of root[1721]['selected'] changed from 73 to 71.
+Value of root[1721]['remaining'] changed from -3 to -1.
+Value of root[1781]['select'] changed from 0 to 3.
+Value of root[1781]['selected'] changed from 37 to 34.
+Value of root[1781]['remaining'] changed from 13 to 16.
+Value of root[1811]['select'] changed from 1 to 2.
+Value of root[1811]['selected'] changed from 14 to 13.
+Value of root[1811]['remaining'] changed from 56 to 57.
+Value of root[2030]['teacher'] changed from "待聘" to "張景淳".
+Value of root[2583]['teacher'] changed from "熊寶兒" to "塗子萱".
+Value of root[2584]['teacher'] changed from "熊寶兒" to "張景淳".
+Value of root[2679]['select'] changed from 0 to 2.
+Value of root[2679]['selected'] changed from 73 to 71.
+Value of root[2679]['remaining'] changed from -3 to -1.
