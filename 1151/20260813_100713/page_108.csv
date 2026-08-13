@@ -1,0 +1,48 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GCMA002&Crsname=全球公民權：理論與實踐,異動,更換合授教師7/9,False,全球公民碩程,GCMA002,1,不分班,"全球公民權：理論與實踐
+CITIZENSHIP: THEORY AND GLOBAL PRACTICES",3,期,True,50,0,10,40,"吳嘉倫,萬毓澤","五2,3,4(社SS 2002-2)","['', '', '', '', '234', '', '']","《講授類》
+限本學程學生選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GCMA003&Crsname=全球地緣政治經濟,,,False,全球公民碩程,GCMA003,1,不分班,"全球地緣政治經濟
+GLOBAL GEOPOLITICAL ECONOMY",3,期,False,50,0,0,50,"劉奇峯,方志恒","二2,3,4(社SS 2004-3)","['', '234', '', '', '', '', '']","《講授類》
+限本學程學生選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GCMA004&Crsname=永續轉型與環境行動主義,,,False,全球公民碩程,GCMA004,1,不分班,"永續轉型與環境行動主義
+SUSTAINABILITY TRANSITION AND ENVIRONMENTAL ACTIVISM",3,期,False,50,0,0,50,"賴慧玲,邱花妹","二8,6,7(社SS 1004)","['', '678', '', '', '', '', '']","《講授類》
+限本學程學生選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GCMA005&Crsname=全球研究與全球學習,,,False,全球公民碩程,GCMA005,1,不分班,"全球研究與全球學習
+GLOBAL STUDIES AND GLOBAL LEARNING",3,期,False,50,0,0,50,"宋呈澔,紀博善,莊雪華","三5,6,7(社SS 2002-1)","['', '', '567', '', '', '', '']","《講授類》
+限本學程學生選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GCMA101&Crsname=專題研究 ( 一 ),異動,更換合授教師7/9,False,全球公民碩程,GCMA101,1,不分班,"專題研究 ( 一 )
+INDEPENDENT STUDIES",3,期,True,50,0,10,40,"吳嘉倫,萬毓澤,邱花妹,陳美華","一5,6,7(社SS 4004-2)","['567', '', '', '', '', '', '']","《獨立研究》
+限本學程學生選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GCMA102&Crsname=專題研究 ( 二 ),異動,更換教師7/9,False,全球公民碩程,GCMA102,1,不分班,"專題研究 ( 二 )
+INDEPENDENT STUDIES",3,期,True,50,0,10,40,吳嘉倫,"四2,3,4(社SS 4002-2)","['', '', '', '234', '', '', '']","《獨立研究》
+限本學程學生選修",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ISI503&Crsname=社會創新創業與永續治理,,,False,社會創新所,ISI503,0,不分班,"社會創新創業與永續治理
+SEMINAR IN SOCIAL INNOVATION，ENTREPRENEUR SHIP,AND SUSTAINABLE GOVERNANCE",3,期,False,12,0,0,12,伊藤佳代,,"['12345678', '12345678', '234567', '234567', '', '', '12345678']","《講授類》
+限社創所學生修習課程(名單已確認)",['公民參與微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ISI515&Crsname=鄉村議題與區域發展,,,False,社會創新所,ISI515,0,不分班,"鄉村議題與區域發展
+RURAL ISSUES AND REGIONAL DEVELOPMENT",3,期,False,30,0,0,30,陳德容,"二5,6,7(西SW 1003)","['', '567', '', '', '', '', '']",《講授類》,['永續發展與社會創新微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ISI520&Crsname=社會創新批判與重構,,,False,社會創新所,ISI520,0,不分班,"社會創新批判與重構
+PHILOSOPHY OF SOCIAL INNOVATION",3,期,False,30,0,0,30,楊士奇,"三5,6,7(西SW 1004)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ISI521&Crsname=創造力與團隊發展,,,False,社會創新所,ISI521,1,不分班,"創造力與團隊發展
+CREATIVITY AND TEAM DEVELOPMENT",3,期,True,30,0,13,17,游銘仁,"五8,6,7(西SW 1004)","['', '', '', '', '678', '', '']",《講授類》,['非營利事業及社會創新微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ISI522&Crsname=全球與在地永續發展議題探討,,,False,社會創新所,ISI522,1,不分班,"全球與在地永續發展議題探討
+SUSTAINABLE DEVELOPMENT ISSUES IN THE CONTEXT OF GLOBALIZATION",3,期,True,30,0,13,17,"張楊家豪,賴慧玲","四2,3,4(西SW 1004)","['', '', '', '234', '', '', '']",《講授類》,"['公民參與微學程', '地方創生與永續發展整合學程', '生態想想微學程', 'STREAM永續發展培力微學程', '地方創生與區域治理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ISI524&Crsname=社會不平等與教育議題探究,,,False,社會創新所,ISI524,0,不分班,"社會不平等與教育議題探究
+SOCIAL INEQUALITY AND EDUCATIONAL ISSUES",3,期,False,30,0,0,30,王啟仲,"一5,6,7(西SW 1003)","['567', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ISI623&Crsname=社會創新專題研究（一）,,,False,社會創新所,ISI623,2,不分班,"社會創新專題研究（一）
+INDEPENDENT STUDIES IN SOCIAL INNOVATION（I）",3,期,True,10,0,12,-2,游銘仁,"五2,3,4(西SW 1004)","['', '', '', '', '234', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ISI623A&Crsname=社會創新專題研究（一）,,,False,社會創新所,ISI623A,2,不分班,"社會創新專題研究（一）
+INDEPENDENT STUDIES IN SOCIAL INNOVATION（I）",3,期,True,10,0,12,-2,楊士奇,"二2,3,4(西SW 1003)","['', '234', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ISI623B&Crsname=社會創新專題研究（一）,,,False,社會創新所,ISI623B,2,不分班,"社會創新專題研究（一）
+INDEPENDENT STUDIES IN SOCIAL INNOVATION（I）",3,期,True,10,0,12,-2,賴慧玲,"三2,3,4(西SW 1003)","['', '', '234', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ISI623C&Crsname=社會創新專題研究（一）,,,False,社會創新所,ISI623C,2,不分班,"社會創新專題研究（一）
+INDEPENDENT STUDIES IN SOCIAL INNOVATION（I）",3,期,True,10,0,12,-2,陳德容,"三2,3,4(西SW 1004)","['', '', '234', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ISI623D&Crsname=社會創新專題研究（一）,,,False,社會創新所,ISI623D,2,不分班,"社會創新專題研究（一）
+INDEPENDENT STUDIES IN SOCIAL INNOVATION（I）",3,期,True,10,0,12,-2,洪世謙,"二2,3,4(西SW 1004)","['', '234', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IBMS501&Crsname=創意生物醫學研究方法,,,False,生醫碩,IBMS501,1,不分班,"創意生物醫學研究方法
+INNOVATIVE METHODS IN BIOMEDICINE RESEARCH",2,期,True,20,0,13,7,"張玉泉,戴明泓,楊仁豪,許晉銓,鄭光宏","一3,4(國IR 5001)","['34', '', '', '', '', '', '']",《講授類》,['生物技術學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IBMS503&Crsname=細胞生物與轉譯醫學,,,False,生醫碩,IBMS503,0,不分班,"細胞生物與轉譯醫學
+CELL BIOLOGY IN TRANSLATION MEDICINE",3,期,False,20,0,0,20,許晉銓,"四2,3,4(國IR 5005)","['', '', '', '234', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IBMS508&Crsname=幹細胞生物學,,,False,生醫碩,IBMS508,0,不分班,"幹細胞生物學
+STEM CELL BIOLOGY",3,期,False,20,0,0,20,鄭光宏,"二2,3,4(國IR 5001)","['', '234', '', '', '', '', '']",《講授類》,['生物技術學程'],True
