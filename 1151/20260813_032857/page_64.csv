@@ -1,0 +1,56 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED145&Crsname=環境健康大數據資料分析暨視覺化實務,,,False,醫學院,MED145,0,不分班,"環境健康大數據資料分析暨視覺化實務
+ENVIRONMENTAL AND HEALTHY BIG DATA ANALYSIS WITH VISUALISED PRACTICE",3,期,False,20,0,0,20,鄭雅勻,"二5,6,7(圖IL PC02)","['', '567', '', '', '', '', '']","《講授類》
+限醫學院大學部學生修習",['科技與環境英語微學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED146&Crsname=生物統計與資訊,,,False,醫學院,MED146,0,不分班,"生物統計與資訊
+BIOSTATISTICS AND BIOINFORMATICS",2,期,False,20,0,0,20,鄭雅勻,"三3,4(圖IL PC01)","['', '', '34', '', '', '', '']","《講授類》
+限醫學院大學部學生修習","['金融工程學程', '基礎醫學數位微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED147&Crsname=公共衛生學,,,False,醫學院,MED147,0,不分班,"公共衛生學
+PUBLIC HEALTH",2,期,False,10,0,0,10,鄭雅勻,"四5,6(醫IL 9012)","['', '', '', '56', '', '', '']","《講授類》
+限醫學院大學部學生修習",['基礎醫學數位微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED153&Crsname=神經心理學：大腦與情緒,,,False,醫學院,MED153,0,不分班,"神經心理學：大腦與情緒
+NEUROPSYCHOLOGY: THE BRAIN AND EMOTIONS",3,期,False,10,0,0,10,楊仁豪,"五8,6,7(國IR 4002)","['', '', '', '', '678', '', '']","《講授類》
+限醫學院大學部學生修習","['音樂與高齡照護學程', '表達性藝術治療學程', '基礎醫學數位微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED154&Crsname=癌症治療,,,False,醫學院,MED154,0,不分班,"癌症治療
+CANCER THERAPEUTICS",2,期,False,15,0,0,15,趙敏吾,"二5,6(醫IL 9012)","['', '56', '', '', '', '', '']","《講授類》
+限醫學院大學部學生修習",['基礎醫學數位微學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED157&Crsname=生活柯南：破解似是而非的迷思,,,False,醫學院,MED157,0,不分班,"生活柯南：破解似是而非的迷思
+LIVING CONAN: CRACKING THE MYTHS OF PLAUSIBILITY",2,期,False,20,0,0,20,"葉俊吟,陳嬿今","四3,4(醫IL 3013)","['', '', '', '34', '', '', '']","《講授類》
+限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED158&Crsname=與老共舞,異動,增加合授教師8/13,False,醫學院,MED158,0,不分班,"與老共舞
+LIVING WITH AGING: GERIATRIC CARE FOR OLDER ADULTS",3,期,False,20,0,0,20,"葉俊吟,郭素娥,陳嬿今","四5,6,7(醫IL 3013)","['', '', '', '567', '', '', '']","《講授類》
+限醫學院大學部學生修習","['音樂與高齡照護學程', '表達性藝術治療學程', '音樂應用與高齡友善多元性微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED159&Crsname=看不見的魔力：生活中的微生物之應用,,,False,醫學院,MED159,0,不分班,"看不見的魔力：生活中的微生物之應用
+THE INVISIBLE MAGIC: MICROORGANISMS AND THEIR APPLICATIONS IN DAILY LIFE",2,期,False,25,0,0,25,陳彥樺,"一3,4(醫IL 9012)","['34', '', '', '', '', '', '']","《講授類》
+限醫學院大學部學生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED167&Crsname=身心健康醫學講座,異動,確認教室8/13,False,醫學院,MED167,0,不分班,"身心健康醫學講座
+SPECIAL LECTURES ON PHYSICAL AND MENTAL HEALTH",2,期,False,40,0,0,40,"余靈珊,王文宏","一5,6()","['56', '', '', '', '', '', '']","《講授類》
+限醫學院大學部學生修習",['校園預防醫學暨食品安全學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED168&Crsname=中醫暨整合醫學,,,False,醫學院,MED168,0,不分班,"中醫暨整合醫學
+CHINESE AND INTEGRATIVE MEDICINE",2,期,False,10,0,0,10,"謝孟倉,陳貞吟","四3,4(醫IL 9012)","['', '', '', '34', '', '', '']","《講授類》
+限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED169&Crsname=基礎奈米生醫材料與3D列印技術之應用,,,False,醫學院,MED169,0,不分班,"基礎奈米生醫材料與3D列印技術之應用
+APPLICATIONS OF FOUNDATIONAL NANOBIOMATERIALS AND 3D PRINTING TECHNOLOGY",2,期,False,15,0,0,15,"廖子嫻,陳玟帆","二8,7(國IR 5002)","['', '78', '', '', '', '', '']","《講授類》
+限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED171&Crsname=精準醫療科技進展,,,False,醫學院,MED171,0,不分班,"精準醫療科技進展
+ADVANCES IN PRECISION MEDICINE TECHNOLOGY",3,期,False,10,0,0,10,李孟娟,"三5,6,7(醫IL 3015)","['', '', '567', '', '', '', '']","《講授類》
+限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED172&Crsname=創新腦科技,,,False,醫學院,MED172,0,不分班,"創新腦科技
+INNOVATIVE TECHNOLOGIES IN BRAIN SCIENCE",3,期,False,10,0,0,10,林萱文,"二2,3,4(醫IL 3014)","['', '234', '', '', '', '', '']","《講授類》
+限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED173&Crsname=臨床醫學概論,,,False,醫學院,MED173,0,不分班,"臨床醫學概論
+INTRODUCTION TO CLINICAL MEDICINE",2,期,False,5,0,0,5,唐逸文,"五5,6(醫IL 9012)","['', '', '', '', '56', '', '']","《講授類》
+限醫學院大學部學生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL504&Crsname=治學方法,,,False,中文碩,CL504,1,不分班,"治學方法
+RESEARCH METHODS",3,期,True,50,2,15,35,"杜佳倫,紀志昌,莫加南","三5,6,7(文LA 5004)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL505&Crsname=專題研究,,,False,中文碩,CL505,0,不分班,"專題研究
+INDEPENDENT STUDIES",1,期,False,50,0,0,50,黃資婷,五5(文LA 6001),"['', '', '', '', '5', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL518&Crsname=六朝專家詩討論,,,False,中文碩,CL518,0,不分班,"六朝專家詩討論
+SEMINAR IN MASTER POEMS OF SIX DYNASTIES",3,期,False,50,0,0,50,陳秋宏,"三2,3,4(文LA 4013)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL522&Crsname=臺灣文學史（一）,,,False,中文碩,CL522,0,不分班,"臺灣文學史（一）
+TAIWAN LITERARY HISTORY (I)",3,期,False,50,0,0,50,涂書瑋,"五2,3,4(文LA 4013)","['', '', '', '', '234', '', '']","《講授類》
+限碩士研究生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL540&Crsname=性別書寫與文化研究（一）,,,False,中文碩,CL540,0,不分班,"性別書寫與文化研究（一）
+GENDER, TEXTUALITY, AND CULTURAL STUDIES (I)",3,期,False,50,0,0,50,黃資婷,"五8,6,7(文LA 4013)","['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL582&Crsname=歐美漢學專題,,,False,中文碩,CL582,0,不分班,"歐美漢學專題
+SPECIAL TOPICS IN SINOLOGY OF EUROPE AND THE U.S.",3,期,False,50,0,0,50,何重誼,"二2,3,4(文LA 4013)","['', '234', '', '', '', '', '']",《講授類》,[],False
