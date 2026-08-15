@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IICD501A&Crsname=書報討論,,,False,積體電路碩,IICD501A,2,不分班,"書報討論
-SEMINAR",1,期,True,50,0,32,18,謝東佑,"二6,7(工EC 1001)","['', '67', '', '', '', '', '']",《演講/參訪》,[],False
+SEMINAR",1,期,True,50,1,31,19,謝東佑,"二6,7(工EC 1001)","['', '67', '', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IICD502&Crsname=系統晶片設計,,,False,積體電路碩,IICD502,0,不分班,"系統晶片設計
 SYSTEM-ON-CHIP DESIGN",3,期,False,50,0,0,50,施信毓,"三5,6,7(工EC 3009)","['', '', '567', '', '', '', '']","《講授類》
 與電機碩併班上課",['數位IC設計學程'],True
