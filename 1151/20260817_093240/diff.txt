@@ -1,0 +1,11 @@
+Type of root[981]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[981]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/17".
+Type of root[1834]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1834]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/17".
+Type of root[1837]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1837]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室8/17".
+Type of root[2621]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2621]['changeDescription'] changed from NoneType to str and value changed from None to "更換主授教師8/17".
+Value of root[981]['room'] changed from "二2,3,4(管CM 3015)" to "二2,3,4(管CM 4112)".
+Value of root[1834]['room'] changed from "四2,3,4(管CM 1025)" to "四2,3,4(管CM 2015)".
+Value of root[1837]['room'] changed from "四2,3,4(管CM 2015)" to "四2,3,4(管CM 1025)".

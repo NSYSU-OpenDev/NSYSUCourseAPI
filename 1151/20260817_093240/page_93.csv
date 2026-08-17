@@ -1,10 +1,10 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PAM501&Crsname=研究方法,,,False,公事碩,PAM501,1,不分班,"研究方法
-RESEARCH METHODS",2,期,True,50,1,19,31,彭渰雯,"三6,7(管CM 1020)","['', '', '67', '', '', '', '']",《講授類》,[],False
+RESEARCH METHODS",2,期,True,50,2,18,32,彭渰雯,"三6,7(管CM 1020)","['', '', '67', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PAM502&Crsname=公共政策分析,,,False,公事碩,PAM502,0,不分班,"公共政策分析
 PUBLIC POLICY ANALYSIS",3,期,False,50,0,0,50,謝旭昇,"五C,D,E(管CM 1020)","['', '', '', '', 'CDE', '', '']",《講授類》,['公民參與微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PAM505&Crsname=公共事務與管理,,,False,公事碩,PAM505,1,不分班,"公共事務與管理
-PUBLIC AFFAIRS AND MANAGEMENT",3,期,True,50,1,19,31,吳偉寧,"二8,6,7(管CM 1020)","['', '678', '', '', '', '', '']",《講授類》,"['企業社會責任學程', '環境教育學程', '公共事務與企業社會責任微學程', '公民參與微學程']",False
+PUBLIC AFFAIRS AND MANAGEMENT",3,期,True,50,2,18,32,吳偉寧,"二8,6,7(管CM 1020)","['', '678', '', '', '', '', '']",《講授類》,"['企業社會責任學程', '環境教育學程', '公共事務與企業社會責任微學程', '公民參與微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PAM509&Crsname=公共事務管理實務體驗學習,,,False,公事碩,PAM509,2,不分班,"公共事務管理實務體驗學習
 FIELD PROJECT IN PUBLIC AFFAIRS MANAGEMENT",2,期,True,50,0,14,36,謝政勳,"六C,D,E,F(管CM 0051-1)(實驗)","['', '', '', '', '', 'CDEF', '']","《實習類》
 課程內容為執行專案計畫，非本所學生請勿選課。",['非營利事業及社會創新微學程'],False

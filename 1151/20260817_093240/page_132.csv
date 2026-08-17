@@ -1,7 +1,7 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DCEM706&Crsname=專題研究（一）,異動,更換時間及教室8/13,False,臨床醫博學程,DCEM706,2,不分班,"專題研究（一）
 INDEPENDENT STUDIES（I）",3,期,True,50,0,10,40,"楊仁豪,簡志彦","二8,9,7(國IR 5004)","['', '789', '', '', '', '', '']",《獨立研究》,[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DCEM720&Crsname=基因調控與疾病發生,,,False,臨床醫博學程,DCEM720,0,不分班,"基因調控與疾病發生
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DCEM720&Crsname=基因調控與疾病發生,異動,更換主授教師8/17,False,臨床醫博學程,DCEM720,0,不分班,"基因調控與疾病發生
 GENETIC REGULATION AND DISEASE OCCURRENCE",2,期,False,50,0,0,50,"簡志彦,莊蕙青","五6,7(國IR 5003)","['', '', '', '', '67', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DCEM721&Crsname=進階生物醫學統計學,,,False,臨床醫博學程,DCEM721,0,不分班,"進階生物醫學統計學
 ADVANCED BIOMEDICAL STATISTICS",3,期,False,50,0,0,50,馮已榕,"二2,3,4(國IR 5004)","['', '234', '', '', '', '', '']",《講授類》,[],True
