@@ -3437,6 +3437,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL504&C
 RESEARCH METHODS",3,期,True,50,2,15,35,"杜佳倫,紀志昌,莫加南","三5,6,7(文LA 5004)","['', '', '567', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL505&Crsname=專題研究,,,False,中文碩,CL505,0,不分班,"專題研究
 INDEPENDENT STUDIES",1,期,False,50,0,0,50,黃資婷,五5(文LA 6001),"['', '', '', '', '5', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL505A&Crsname=專題研究,新增,8/17,False,中文碩,CL505A,0,不分班,"專題研究
+INDEPENDENT STUDIES",1,期,False,50,0,0,50,楊濟襄,五6(文LA 6042),"['', '', '', '', '6', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL518&Crsname=六朝專家詩討論,,,False,中文碩,CL518,0,不分班,"六朝專家詩討論
 SEMINAR IN MASTER POEMS OF SIX DYNASTIES",3,期,False,50,0,0,50,陳秋宏,"三2,3,4(文LA 4013)","['', '', '234', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL522&Crsname=臺灣文學史（一）,,,False,中文碩,CL522,0,不分班,"臺灣文學史（一）
@@ -3446,9 +3448,6 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL540&C
 GENDER, TEXTUALITY, AND CULTURAL STUDIES (I)",3,期,False,50,0,0,50,黃資婷,"五8,6,7(文LA 4013)","['', '', '', '', '678', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL582&Crsname=歐美漢學專題,,,False,中文碩,CL582,0,不分班,"歐美漢學專題
 SPECIAL TOPICS IN SINOLOGY OF EUROPE AND THE U.S.",3,期,False,50,0,0,50,何重誼,"二2,3,4(文LA 4013)","['', '234', '', '', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL604&Crsname=春秋今文學（一）,,,False,中文碩,CL604,0,不分班,"春秋今文學（一）
-STUDIES IN CHUN-CHIU CLASSICS(I)",3,期,False,50,0,0,50,楊濟襄,"二3,4,B(文LA 4012)","['', '34B', '', '', '', '', '']","《講授類》
-碩博合開",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL608&Crsname=佛學思想,,,False,中文碩,CL608,0,不分班,"佛學思想
 STUDIES IN BUDDHIST THOUGHTS",3,期,False,50,0,0,50,吳孟謙,"一8,6,7(文LA 4014)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL637&Crsname=歷史與敘事,,,False,中文碩,CL637,0,不分班,"歷史與敘事
@@ -3848,7 +3847,7 @@ SEMINAR IN SOCIAL NETWORK (I)",3,期,False,10,0,0,10,李欣倫,"一5,6,7(理SC 4
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MATH695&Crsname=高維度資料分析專題研討（二）,,,False,應數碩,MATH695,0,不分班,"高維度資料分析專題研討（二）
 SEMINAR IN HIGH-DIMENSIONAL DATA ANALYSIS (II)",3,期,False,10,0,0,10,林建同,"三5,6,7(理SC 4013)","['', '', '567', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5100&Crsname=書報討論,,,False,電機碩,EE5100,1,不分班,"書報討論
-SEMINAR",1,期,True,150,1,135,15,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《演講/參訪》
+SEMINAR",1,期,True,150,4,132,18,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《演講/參訪》
 碩、博併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5100A&Crsname=書報討論,,,False,電機碩,EE5100A,2,不分班,"書報討論
 SEMINAR",1,期,True,150,4,150,0,謝耀慶,"二6,7(工EC 6019)","['', '67', '', '', '', '', '']","《演講/參訪》
@@ -4109,13 +4108,13 @@ SPECIAL TOPICS ON ATMOSPHERIC MODELS",3,期,False,50,0,0,50,彭彥彬,"一2,3,4(
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ENVE599&Crsname=儀器分析,,,False,環工碩,ENVE599,0,不分班,"儀器分析
 PRINCIPLE OF INSTRUMENT ANALYSIS",3,期,False,50,0,0,50,陳則綸,"二8,6,7(工EC 1004)","['', '678', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE505&Crsname=計算機結構,,,False,資工碩,CSE505,1,不分班,"計算機結構
-COMPUTER ARCHITECTURES",3,期,True,60,5,113,-53,李淑敏,"三5,6,7(工EC 1006)","['', '', '567', '', '', '', '']",《講授類》,[],True
+COMPUTER ARCHITECTURES",3,期,True,60,6,112,-52,李淑敏,"三5,6,7(工EC 1006)","['', '', '567', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE510&Crsname=演算法設計與分析,,,False,資工碩,CSE510,1,不分班,"演算法設計與分析
-ALGORITHM DESIGN AND ANALYSIS",3,期,True,80,5,113,-33,楊昌彪,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
+ALGORITHM DESIGN AND ANALYSIS",3,期,True,80,6,112,-32,楊昌彪,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE515&Crsname=高等電腦網路,,,False,資工碩,CSE515,1,不分班,"高等電腦網路
-ADVANCED COMPUTER NETWORKS",3,期,True,60,5,113,-53,林俊宏,"三2,3,4(工EC 5012)","['', '', '234', '', '', '', '']",《講授類》,['永續能源學程'],False
+ADVANCED COMPUTER NETWORKS",3,期,True,60,6,112,-52,林俊宏,"三2,3,4(工EC 5012)","['', '', '234', '', '', '', '']",《講授類》,['永續能源學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE520&Crsname=高等作業系統,,,False,資工碩,CSE520,1,不分班,"高等作業系統
-ADVANCED OPERATING SYSTEMS",3,期,True,60,5,113,-53,王友群,"四8,6,7(工EC 9032)","['', '', '', '678', '', '', '']",《講授類》,[],False
+ADVANCED OPERATING SYSTEMS",3,期,True,60,6,112,-52,王友群,"四8,6,7(工EC 9032)","['', '', '', '678', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE522&Crsname=進階資料探勘,,,False,資工碩,CSE522,0,不分班,"進階資料探勘
 ADVANCED DATA MINING",3,期,False,50,0,0,50,洪宗貝,"四2,3,4(工EC 1005)","['', '', '', '234', '', '', '']",《講授類》,['人工智慧工業應用學分學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530&Crsname=專題研究（一）,,,False,資工碩,CSE530,0,不分班,"專題研究（一）
@@ -4148,7 +4147,7 @@ INDEPENDENT STUDIES(I)",3,期,False,50,0,0,50,洪宗貝,"五8,9,7(工EC 5000)","
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530I&Crsname=專題研究（一）,異動,確認教師8/3,False,資工碩,CSE530I,0,不分班,"專題研究（一）
 INDEPENDENT STUDIES(I)",3,期,False,50,0,0,50,葉陽明,"三5,6,7(工EC 3015)","['', '', '567', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE531&Crsname=書報討論（一）,,,False,資工碩,CSE531,1,不分班,"書報討論（一）
-SEMINAR I",1,期,True,120,5,113,7,陳嘉平,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+SEMINAR I",1,期,True,120,6,112,8,陳嘉平,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
 限本系大四生及碩/博士生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE533&Crsname=書報討論（三）,,,False,資工碩,CSE533,2,不分班,"書報討論（三）
 SEMINAR III",1,期,True,120,1,92,28,陳嘉平,五6(工EC 2011),"['', '', '', '', '6', '', '']",《演講/參訪》,[],False
@@ -4653,11 +4652,11 @@ FINANCIAL INVESTING AND PROGRAM TRADING",3,期,False,50,0,0,50,王昭文,"四5,6
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=FM618&Crsname=營運資金管理決策,,,False,財管碩,FM618,1,不分班,"營運資金管理決策
 WORKING CAPITAL MANAGEMENT DECISION",3,期,False,50,0,0,50,張世賢,"二2,3,4(管CM 2015)","['', '234', '', '', '', '', '']",《講授類》,['財務管理專業學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PAM501&Crsname=研究方法,,,False,公事碩,PAM501,1,不分班,"研究方法
-RESEARCH METHODS",2,期,True,50,1,19,31,彭渰雯,"三6,7(管CM 1020)","['', '', '67', '', '', '', '']",《講授類》,[],False
+RESEARCH METHODS",2,期,True,50,2,18,32,彭渰雯,"三6,7(管CM 1020)","['', '', '67', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PAM502&Crsname=公共政策分析,,,False,公事碩,PAM502,0,不分班,"公共政策分析
 PUBLIC POLICY ANALYSIS",3,期,False,50,0,0,50,謝旭昇,"五C,D,E(管CM 1020)","['', '', '', '', 'CDE', '', '']",《講授類》,['公民參與微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PAM505&Crsname=公共事務與管理,,,False,公事碩,PAM505,1,不分班,"公共事務與管理
-PUBLIC AFFAIRS AND MANAGEMENT",3,期,True,50,1,19,31,吳偉寧,"二8,6,7(管CM 1020)","['', '678', '', '', '', '', '']",《講授類》,"['企業社會責任學程', '環境教育學程', '公共事務與企業社會責任微學程', '公民參與微學程']",False
+PUBLIC AFFAIRS AND MANAGEMENT",3,期,True,50,2,18,32,吳偉寧,"二8,6,7(管CM 1020)","['', '678', '', '', '', '', '']",《講授類》,"['企業社會責任學程', '環境教育學程', '公共事務與企業社會責任微學程', '公民參與微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PAM509&Crsname=公共事務管理實務體驗學習,,,False,公事碩,PAM509,2,不分班,"公共事務管理實務體驗學習
 FIELD PROJECT IN PUBLIC AFFAIRS MANAGEMENT",2,期,True,50,0,14,36,謝政勳,"六C,D,E,F(管CM 0051-1)(實驗)","['', '', '', '', '', 'CDEF', '']","《實習類》
 課程內容為執行專案計畫，非本所學生請勿選課。",['非營利事業及社會創新微學程'],False
@@ -5214,8 +5213,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE528&
 STUDIES IN CREATIVE THINKING AND TEACHING",3,期,False,30,0,0,30,游銘仁,"四3(西SW 1003 ) 四2,4(西SW 1003)","['', '', '', '234', '', '', '']",《講授類》,['STREAM永續發展培力微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE540&Crsname=質性研究法,,,False,教育碩,IOE540,0,不分班,"質性研究法
 QUALITATIVE RESEARCH METHODS",3,期,False,50,0,0,50,莊雪華,"四B,5,6(社SS 2005)","['', '', '', 'B56', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE554&Crsname=專題研討（一）,,,False,教育碩,IOE554,1,不分班,"專題研討（一）
-SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,30,0,19,11,鄭雯,二5(社SS 2001),"['', '5', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE554&Crsname=專題研討（一）,異動,更換授課時間8/17,False,教育碩,IOE554,1,不分班,"專題研討（一）
+SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,30,0,19,11,鄭雯,,"['', '56', '', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE584&Crsname=永續發展教育研究,,,False,教育碩,IOE584,0,不分班,"永續發展教育研究
 EDUCATION FOR SUSTAINABLE DEVELOPMENT RESEARCH",3,期,False,20,0,0,20,謝百淇,"四2,3,4(社SS 2002-2)","['', '', '', '234', '', '', '']",《講授類》,"['環境教育學程', '社會情緒學習與內在永續發展微學程', '原民文化探索及永續發展學程', 'STREAM永續發展培力微學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE590&Crsname=行為科學實驗法,,,False,教育碩,IOE590,0,不分班,"行為科學實驗法
@@ -5487,7 +5486,7 @@ PRINCIPLE AND DESIGN OF RNA VACCINES",2,期,False,50,0,0,50,賴至人,"一3,4(�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IBPS552&Crsname=專題研究（一）,,,False,生技醫藥碩,IBPS552,0,不分班,"專題研究（一）
 INDEPENDENT STUDIES (I)",3,期,False,50,0,0,50,"王文宏,甘祐瑜,陳亮傑","一2,3,4(國IR 6017-2)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IBPS601&Crsname=書報討論（三）,,,False,生技醫藥碩,IBPS601,2,不分班,"書報討論（三）
-SEMINAR（III）",1,期,True,50,1,12,38,"孫羽佑,黃建智",三4(國IR 5002),"['', '', '4', '', '', '', '']",《講授類》,[],True
+SEMINAR（III）",1,期,True,50,2,11,39,"孫羽佑,黃建智",三4(國IR 5002),"['', '', '4', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IBPS603&Crsname=科技論文寫作,,,False,生技醫藥碩,IBPS603,0,不分班,"科技論文寫作
 SCIENTIFIC WRITING",2,期,False,50,0,0,50,余靈珊,"四3,4(國IR 5001)","['', '', '', '34', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IPM501&Crsname=書報討論（一）,,,False,精準醫學碩,IPM501,1,不分班,"書報討論（一）
@@ -6383,8 +6382,8 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE732&
 RESEARCH IN DEVELOPMENTAL PSYCHOLOGY",3,期,False,15,0,0,15,宋呈澔,"二2,3,4(社SS 2006)","['', '234', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE735&Crsname=質性研究法,,,False,教育博,IOE735,0,不分班,"質性研究法
 QUALITATIVE RESEARCH METHOD",3,期,False,50,0,0,50,莊雪華,"四B,5,6(社SS 2005)","['', '', '', 'B56', '', '', '']",《講授類》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE749&Crsname=專題研討（一）,,,False,教育博,IOE749,1,不分班,"專題研討（一）
-SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,20,0,12,8,鄭雯,二5(社SS 2001),"['', '5', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE749&Crsname=專題研討（一）,異動,更換時間8/17,False,教育博,IOE749,1,不分班,"專題研討（一）
+SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,20,0,12,8,鄭雯,,"['', '56', '', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE773&Crsname=紮根理論研究法,,,False,教育博,IOE773,0,不分班,"紮根理論研究法
 GROUNDED THEORY METHOD",3,期,False,30,0,0,30,陳利銘,"一8,6,7(社SS 2004-3)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE778&Crsname=永續發展教育研究,,,False,教育博,IOE778,0,不分班,"永續發展教育研究
@@ -6400,8 +6399,8 @@ SPECIAL TOPICS IN METHODOLOGY OF EDUCATIONAL STUDIES",3,期,True,20,1,11,9,邱�
 一般組：教育學方法論研究、研究方法論(英語授課)，二擇一修習。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE802&Crsname=獨立研究（一）,,,False,教育博,IOE802,2,不分班,"獨立研究（一）
 INDEPENDENT STUDIES",3,期,True,50,1,11,39,施慶麟,"六2,3,4()","['', '', '', '', '', '234', '']",《獨立研究》,[],False
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE804&Crsname=專題研討（三）,,,False,教育博,IOE804,2,不分班,"專題研討（三）
-SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,30,1,11,19,鄭雯,二5(社SS 2001),"['', '5', '', '', '', '', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE804&Crsname=專題研討（三）,異動,更換時間8/17,False,教育博,IOE804,2,不分班,"專題研討（三）
+SEMINAR IN EDUCATIONAL RESEARCH",1,期,True,50,1,11,39,鄭雯,,"['', '56', '', '', '', '', '']",《研討類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE818&Crsname=高等教育校務研究專題,,,False,教育博,IOE818,0,不分班,"高等教育校務研究專題
 THE FOUNDATIONS OF INSTITUTIONAL RESEARCH",3,期,False,50,0,0,50,林靜慧,"三B,5,6(社SS 2004-3)","['', '', 'B56', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE823&Crsname=教育創新管理,,,False,教育博,IOE823,0,不分班,"教育創新管理

@@ -1,0 +1,29 @@
+Item root[1312] added to iterable.
+Item root[2079]['classTime'][1] added to iterable.
+Item root[2568]['classTime'][1] added to iterable.
+Item root[2576]['classTime'][1] added to iterable.
+Item root[2079]['classTime'][1] removed from iterable.
+Item root[2568]['classTime'][1] removed from iterable.
+Item root[2576]['classTime'][1] removed from iterable.
+Value of root[1491]['selected'] changed from 133 to 132.
+Value of root[1491]['remaining'] changed from 17 to 18.
+Value of root[1613]['selected'] changed from 113 to 112.
+Value of root[1613]['remaining'] changed from -53 to -52.
+Value of root[1614]['selected'] changed from 113 to 112.
+Value of root[1614]['remaining'] changed from -33 to -32.
+Value of root[1615]['selected'] changed from 113 to 112.
+Value of root[1615]['remaining'] changed from -53 to -52.
+Value of root[1616]['selected'] changed from 113 to 112.
+Value of root[1616]['remaining'] changed from -53 to -52.
+Value of root[1628]['selected'] changed from 113 to 112.
+Value of root[1628]['remaining'] changed from 7 to 8.
+Value of root[1839]['selected'] changed from 19 to 18.
+Value of root[1839]['remaining'] changed from 31 to 32.
+Value of root[1841]['selected'] changed from 19 to 18.
+Value of root[1841]['remaining'] changed from 31 to 32.
+Value of root[2079]['selected'] changed from 0 to 19.
+Value of root[2079]['remaining'] changed from 30 to 11.
+Value of root[2568]['selected'] changed from 0 to 12.
+Value of root[2568]['remaining'] changed from 20 to 8.
+Value of root[2576]['selected'] changed from 0 to 11.
+Value of root[2576]['remaining'] changed from 50 to 39.
