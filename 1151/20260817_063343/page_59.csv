@@ -1,0 +1,43 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DIS1003&Crsname=基礎程式應用,,,False,人科學系,DIS1003,1,不分班,"基礎程式應用
+FUNDAMENTALS OF PROGRAMMING AND APPLICATIONS",3,期,True,40,0,0,40,鄭南玉,"四5,6,7(西SW 1007)","['', '', '', '567', '', '', '']",《講授類》,['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DIS1101&Crsname=智慧型運輸系統,,,False,人科學系,DIS1101,1,不分班,"智慧型運輸系統
+INTRODUCTION TO INTELLIGENT TRANSPORTATION SYSTEMS",3,期,False,20,0,0,20,夏晧清,"三5,6,7(西SW 1007)","['', '', '567', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '智慧港埠微學程', '公共交通行動服務微學程', '運輸管理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DIS1102&Crsname=都市環境概論,,,False,人科學系,DIS1102,1,不分班,"都市環境概論
+INTRODUCTION TO URBAN ENVIRONMENT",3,期,False,50,0,0,50,夏晧清,"二2,3,4(西SW 1005)","['', '234', '', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '綠色港市微學程', '碳流資訊盤查與低碳設計微學程', '都市永續規劃與管理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS1006&Crsname=科學應用,,,False,人科學程,PIS1006,2,不分班,"科學應用
+SCIENTIFIC APPLICTIONAL",3,期,True,50,0,26,24,鄭南玉,"二5,6,7(西SW 1007)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS1201&Crsname=音場技術導論,,,False,人科學程,PIS1201,2,不分班,"音場技術導論
+INTRODUCTION TO SOUND FIELD TECHNOLOGY",1,期,False,50,0,0,50,陳以軒,,"['', '', '', '678', '', '', '']",《講授類》,"['沉浸式體驗技術與應用學程', '音場技術與情境感受微學程', '沉浸式體驗內容應用微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS1213&Crsname=場景設計導論,,,False,人科學程,PIS1213,2,不分班,"場景設計導論
+INTRODUCTION TO SCENE DESIGN",2,期,False,50,0,0,50,李怡賡,"四3,4(文LA 1012)","['', '', '', '34', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS2001&Crsname=跨領域探索,,,False,人科學程,PIS2001,2,不分班,"跨領域探索
+CROSS-DISCIPLINARY EXPLORATION",1,期,True,50,0,26,24,"夏晧清,宋世祥,張淑美,鄭南玉",,"['', '', '', '', '', '4B5', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS2002&Crsname=設計思考,,,False,人科學程,PIS2002,2,不分班,"設計思考
+DESIGN THINKING",3,期,True,40,0,26,14,宋世祥,"四5,6,7(西SW 1005)","['', '', '', '567', '', '', '']",《講授類》,"['社區文創微學程', '公民參與微學程', '智慧高齡生活微學程', '生態想想微學程', 'STREAM永續發展培力微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS2007&Crsname=創意街區發展與設計思考,,,False,人科學程,PIS2007,2,不分班,"創意街區發展與設計思考
+CREATIVE DISTRICT DEVELOPMENT AND DESIGN THINKING",3,期,False,25,0,0,25,宋世祥,"二5,6,7(西SW 1004)","['', '567', '', '', '', '', '']",《講授類》,"['社區文創微學程', '當代策展與藝術行政學程', '公民參與微學程', '地方創生與永續發展整合學程', '地方創生與區域治理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS2008&Crsname=設計心理學,,,False,人科學程,PIS2008,2,不分班,"設計心理學
+DESIGN PSYCHOLOGY",3,期,False,50,0,0,50,張淑美,"二5,6,7(西SW 1005)","['', '567', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS2011&Crsname=創意設計方法,,,False,人科學程,PIS2011,2,不分班,"創意設計方法
+CREATIVE DESIGN METHODS",3,期,False,20,0,0,20,張淑美,"三5,6,7(西SW 1005)","['', '', '567', '', '', '', '']",《講授類》,"['創新創業微學程', '中文創意跨域應用整合學程', 'STREAM永續發展培力微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS3002&Crsname=跨領域創新專題（二）,,,False,人科學程,PIS3002,3,不分班,"跨領域創新專題（二）
+INDEPENDENT STUDIES IN CROSS-DISCIPLINARY INNOVATION (2)",3,期,True,50,0,28,22,"吳亦昕,夏晧清,宋世祥,張淑美,謝如梅,鄭南玉","六8,6,7(西SW 1005)","['', '', '', '', '', '678', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS4002&Crsname=創新設計或創業專題研討,,,True,人科學程,PIS4002,4,不分班,"創新設計或創業專題研討
+SEMINAR IN INNOVATION AND ENTREPRENEURSHIP",3,期,True,50,0,0,50,夏晧清,"六1,2,3(西SW 1005)","['', '', '', '', '', '123', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS4002A&Crsname=創新設計或創業專題研討,,,True,人科學程,PIS4002A,4,不分班,"創新設計或創業專題研討
+SEMINAR IN INNOVATION AND ENTREPRENEURSHIP",3,期,True,50,0,0,50,宋世祥,"六1,2,3(西SW 1005)","['', '', '', '', '', '123', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS4002B&Crsname=創新設計或創業專題研討,,,True,人科學程,PIS4002B,4,不分班,"創新設計或創業專題研討
+SEMINAR IN INNOVATION AND ENTREPRENEURSHIP",3,期,True,50,0,0,50,謝如梅,"六1,2,3(西SW 1005)","['', '', '', '', '', '123', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS4002C&Crsname=創新設計或創業專題研討,,,True,人科學程,PIS4002C,4,不分班,"創新設計或創業專題研討
+SEMINAR IN INNOVATION AND ENTREPRENEURSHIP",3,期,True,50,0,0,50,張淑美,"六1,2,3(西SW 1005)","['', '', '', '', '', '123', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS4002D&Crsname=創新設計或創業專題研討,,,True,人科學程,PIS4002D,4,不分班,"創新設計或創業專題研討
+SEMINAR IN INNOVATION AND ENTREPRENEURSHIP",3,期,True,50,0,0,50,鄭南玉,"六1,2,3(西SW 1005)","['', '', '', '', '', '123', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS4002E&Crsname=創新設計或創業專題研討,,,True,人科學程,PIS4002E,4,不分班,"創新設計或創業專題研討
+SEMINAR IN INNOVATION AND ENTREPRENEURSHIP",3,期,True,50,0,0,50,王兆璋,"六1,2,3(西SW 1005)","['', '', '', '', '', '123', '']",《研討類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=III1001&Crsname=閱讀與寫作,,,False,國際學士原民專班,III1001,1,不分班,"閱讀與寫作
+READING AND WRITING",3,期,True,50,0,17,33,李馨慈,"四8,6,7(通GE 3013)","['', '', '', '678', '', '', '']","《講授類》
+限國際跨域學士原專班學生修課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=III1002&Crsname=南島文化概論,,,False,國際學士原民專班,III1002,1,不分班,"南島文化概論
+INTRODUCTION TO AUSTRONESIAN CULTURES",3,期,True,50,0,17,33,吳明仁,"五8,6,7(通GE 2006)","['', '', '', '', '678', '', '']","《講授類》
+限國際跨域學士原專班學生修課",[],False
