@@ -1,0 +1,34 @@
+Item root[2418] added to iterable.
+Item root[2419] added to iterable.
+Item root[2420] added to iterable.
+Item root[2421] added to iterable.
+Item root[2422] added to iterable.
+Item root[2423] added to iterable.
+Item root[2424] added to iterable.
+Item root[2425] added to iterable.
+Item root[2426] added to iterable.
+Item root[2427] added to iterable.
+Item root[2428] added to iterable.
+Item root[2429] added to iterable.
+Item root[2430] added to iterable.
+Item root[2431] added to iterable.
+Item root[2432] added to iterable.
+Item root[2433] added to iterable.
+Item root[2434] added to iterable.
+Item root[2435] added to iterable.
+Item root[2436] added to iterable.
+Item root[2437] added to iterable.
+Value of root[171]['changeDescription'] changed from "修正備註說明8/11" to "修正備註說明8/19".
+Value of root[497]['select'] changed from 1 to 2.
+Value of root[499]['select'] changed from 1 to 2.
+Value of root[883]['selected'] changed from 27 to 25.
+Value of root[883]['remaining'] changed from 33 to 35.
+Value of root[885]['selected'] changed from 27 to 25.
+Value of root[885]['remaining'] changed from 33 to 35.
+Value of root[887]['selected'] changed from 27 to 25.
+Value of root[887]['remaining'] changed from 33 to 35.
+Value of root[1073]['teacher'] changed from "王志騰,陳慶能" to "陳慶能".
+Value of root[1085]['room'] changed from "四6,7(海MA 2009)" to "四6,7(海MA 3020)".
+Value of root[1086]['room'] changed from "四8,9(海MA 2209)" to "四8,9(海MA 3020)".
+Value of root[2036]['room'] changed from "四6,7(海MA 2009)" to "四6,7(海MA 3020)".
+Value of root[2037]['room'] changed from "四8,9(海MA 2009)" to "四8,9(海MA 3020)".
