@@ -1,0 +1,43 @@
+Item root[1084]['classTime'][2] added to iterable.
+Item root[1084]['classTime'][2] removed from iterable.
+Item root[1084]['tags'][0] removed from iterable.
+Item root[1084]['tags'][1] removed from iterable.
+Item root[2016] removed from iterable.
+Item root[2752] removed from iterable.
+Type of root[146]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[146]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額8/19".
+Type of root[156]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[156]['changeDescription'] changed from NoneType to str and value changed from None to "調整名額8/19".
+Type of root[1073]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1073]['changeDescription'] changed from NoneType to str and value changed from None to "取消合授教師8/19".
+Type of root[2428]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2428]['changeDescription'] changed from NoneType to str and value changed from None to "更換主授教師8/19".
+Type of root[1084]['change'] changed from NoneType to str and value changed from None to "新增".
+Type of root[1084]['changeDescription'] changed from NoneType to str and value changed from None to "8/19".
+Value of root[146]['restrict'] changed from 60 to 70.
+Value of root[146]['remaining'] changed from 60 to 70.
+Value of root[156]['restrict'] changed from 60 to 70.
+Value of root[156]['remaining'] changed from 60 to 70.
+Value of root[883]['select'] changed from 0 to 2.
+Value of root[885]['select'] changed from 0 to 2.
+Value of root[887]['select'] changed from 0 to 2.
+Value of root[1086]['change'] changed from "新增" to "異動".
+Value of root[1086]['changeDescription'] changed from "8/6" to "更換教室8/19".
+Value of root[1087]['change'] changed from "新增" to "異動".
+Value of root[1087]['changeDescription'] changed from "8/6" to "更換教室8/19".
+Value of root[2038]['change'] changed from "新增" to "異動".
+Value of root[2038]['changeDescription'] changed from "8/6" to "更換教室8/19".
+Value of root[2039]['change'] changed from "新增" to "異動".
+Value of root[2039]['changeDescription'] changed from "8/6" to "更換教室8/19".
+Value of root[1084]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO315&Crsname=海洋生物生理學" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=FM709&Crsname=財務理論分析".
+Value of root[1084]['department'] changed from "海科系" to "財管博".
+Value of root[1084]['id'] changed from "DO315" to "FM709".
+Value of root[1084]['grade'] changed from "4" to "1".
+Value of root[1084]['name'] changed from "海洋生物生理學
+PHYSIOLOGY OF MARINE ORGANISMS" to "財務理論分析
+FINANCIAL THEORY ANALYSIS".
+Value of root[1084]['teacher'] changed from "王志騰" to "廖源星".
+Value of root[1084]['room'] changed from "三2,3,4(海MA 2022)" to "三5,6,7(管CM 2020)".
+Value of root[1084]['description'] changed from "《講授類》
+與DO539併班上課。" to "《講授類》".
+Value of root[1084]['english'] changed from True to False.
