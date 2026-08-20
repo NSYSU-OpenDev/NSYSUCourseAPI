@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1452&Crsname=新時代的科技法律陷阱,,,False,跨院選修(管),GEAI1452,0,不分班,"新時代的科技法律陷阱
+TECHNOLOGY LAW AND ITS TRAPS IN THE MODERN SOCIETY",3,期,False,10,4,0,10,盧憶,"四5,6,7(管CM 1037)","['', '', '', '567', '', '', '']","《講授類》
+跨院通識與企管系BM369課程併班上課",['全球半導體經營管理微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1460&Crsname=管理資訊系統,,,False,跨院選修(管),GEAI1460,0,不分班,"管理資訊系統
+MANAGEMENT INFORMATION SYSTEM",3,期,True,10,7,0,10,黃鋒樟,"二5,6,7(管CM 1037)","['', '567', '', '', '', '', '']","《講授類》
+跨院通識與企管系BM303課程併班上課",['科技創新與服務業管理學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1465&Crsname=策略管理,異動,更換教師7/27,False,跨院選修(管),GEAI1465,0,不分班,"策略管理
+STRATEGIC MANAGEMENT",3,期,True,30,11,0,30,蔡宗霖,"一5,6,7(管CM 4112)","['567', '', '', '', '', '', '']","《講授類》
+限企管系(含雙主修、輔系)跨院通識與企管系BM413課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1515&Crsname=基礎環境科學,,,False,跨院選修(海),GEAI1515,0,不分班,"基礎環境科學
+BASIC ENVIRONMENTAL SCIENCE",2,期,True,10,0,0,10,卓宴琳,"四3,4(海ME 3006)","['', '', '', '34', '', '', '']","《講授類》
+跨院通識與海工系MAEV150課程併班上課","['企業社會責任學程', '環境科技與管理學程', '環境教育學程', '氣候變遷與調適學分學程', '淨零轉型與永續發展整合學程', '地方創生與永續發展整合學程', '永續管理微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1521&Crsname=工程材料,,,False,跨院選修(海),GEAI1521,0,不分班,"工程材料
+ENGINEERING MATERIAL",2,期,True,7,3,0,7,詹鵬台,"一5,6(海ME 2005)","['56', '', '', '', '', '', '']","《講授類》
+跨院通識與海工系MAEV242課程併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1522&Crsname=工程數學（一）,,,False,跨院選修(海),GEAI1522,0,不分班,"工程數學（一）
+ENGINEERING MATHEMATICS(I)",3,期,True,7,0,0,7,曾以帆,"三2,3,4(海ME 2003)","['', '', '234', '', '', '', '']","《講授類》
+限微積分（一）及微積分（二）50分(D)（含）以上修習，若未符合上述規定者，請洽授課老師後於異常處理階段加選。跨院通識與海工系MAEV203課程併班上課",['金融工程學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1524&Crsname=測量學,,,False,跨院選修(海),GEAI1524,0,不分班,"測量學
+SURVEYING",3,期,True,7,1,0,7,鍾秉宸,"二2,3,4(海ME 2005)","['', '234', '', '', '', '', '']","《講授類》
+跨院通識與海工系MAEV261課程併班上課",['南星產業樞紐學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1533A&Crsname=海洋生物概論,,,False,跨院選修(海),GEAI1533A,0,不分班,"海洋生物概論
+INTRODUCTION TO MARINE BIOLOGY",2,期,False,20,2,0,20,熊寶兒,"四8,9(海MA 2022)","['', '', '', '89', '', '', '']","《講授類》
+跨院通識與海科系DO203A課程併班上課","['生物多樣性學程', '環境教育學程', '印象海味微學程', '科技與環境英語微學程', '自然生物資產微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1535&Crsname=海洋地質概論,,,False,跨院選修(海),GEAI1535,0,不分班,"海洋地質概論
+INTRODUCTION TO MARINE GEOLOGY",2,期,True,20,0,0,20,張瑜峻,"四3,4(海MA 1005)","['', '', '', '34', '', '', '']","《講授類》
+跨院通識與海科系DO131課程併班上課","['環境科技與管理學程', '環境教育學程', '氣候變遷與調適學分學程', '看見臺灣海岸微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1548&Crsname=魚類學,,,False,跨院選修(海),GEAI1548,0,不分班,"魚類學
+ICHTHYOLOGY",2,期,False,20,5,0,20,林秀瑾,"二3,4(海MB 2015)","['', '34', '', '', '', '', '']","《講授類》
+跨院通識與海資系MBR218課程併班上課","['生物多樣性學程', '海洋循環經濟學程', '熱帶海洋微學程', '海洋生物資源與實務應用微學程', '印象海味微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1559&Crsname=基礎海洋學,,,False,跨院選修(海),GEAI1559,0,不分班,"基礎海洋學
+FUNDAMENTALS OF OCEANOGRAPHY",3,期,False,95,2,0,95,"林玉詩,林裕䕒,簡國童,陳冠宇","五2,3,4(海MA 3021)","['', '', '', '', '234', '', '']","《講授類》
+跨院通識與海科院（學）MRSC102課程併班上課","['環境教育學程', '熱帶海洋微學程', '海洋永續發展產業科技微學程', '看見臺灣海岸微學程', '探索海洋國家公園微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1563&Crsname=全球環境變遷概論,,,False,跨院選修(海),GEAI1563,0,不分班,"全球環境變遷概論
+INTRODUCTION TO GLOBAL ENVIRONMENTAL CHANGE",2,期,False,25,1,0,25,"陳鎮東,雷漢杰","四3,4(海MA 3020)","['', '', '', '34', '', '', '']","《講授類》
+跨院通識與海科系DO225課程併班上課","['環境教育學程', '氣候變遷與調適學分學程', '海洋永續發展產業科技微學程', '科技與環境英語微學程', '地方創生與永續發展整合學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1566&Crsname=海洋生物多樣性導論,,,False,跨院選修(海),GEAI1566,0,不分班,"海洋生物多樣性導論
+INTRODUCTION TO MARINE BIODIVERSITY",2,期,True,20,1,0,20,"劉商隱,水晶","二6,7(海MB 2015)","['', '67', '', '', '', '', '']","《講授類》
+跨院通識與海資系MBR227課程併班上課","['臺灣研究學程', '生物多樣性學程', '環境教育學程', '海洋循環經濟學程', '海洋生物資源與實務應用微學程', '自然生物資產微學程', '探索海洋國家公園微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1575&Crsname=生態工程與實務,,,False,跨院選修(海),GEAI1575,0,不分班,"生態工程與實務
+ECOLOGICAL ENGINEERING AND PRACTICE",3,期,False,5,0,0,5,林巧雯,"三2,3,4(海ME 2007)","['', '', '234', '', '', '', '']","《講授類》
+跨院通識與海工系MAEV454課程併班上課","['環境科技與管理學程', '生物多樣性學程', '環境教育學程', '氣候變遷與調適學分學程', '海洋永續發展產業科技微學程', '看見臺灣海岸微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1577&Crsname=海岸開發及保育工程,,,False,跨院選修(海),GEAI1577,0,不分班,"海岸開發及保育工程
+COASTAL DEVELOPMENT AND RESTORATION ENGINEERING",3,期,False,7,2,0,7,曾以帆,"一8,6,7(海ME 2007)","['678', '', '', '', '', '', '']","《講授類》
+跨院通識與海工系MAEV453課程併班上課","['擁海學程', '環境教育學程', '氣候變遷與調適學分學程', '海洋永續發展產業科技微學程', '看見臺灣海岸微學程', '綠色港市微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1579&Crsname=海洋無脊椎動物學（一）,,,False,跨院選修(海),GEAI1579,0,不分班,"海洋無脊椎動物學（一）
+MARINE INVERTEBRATE ZOOLOGY(I)",2,期,False,20,1,0,20,塗子萱,"五3,4(海MA 1005)","['', '', '', '', '34', '', '']","《講授類》
+跨院通識與海科系DO417課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1582&Crsname=人因工程,,,False,跨院選修(海),GEAI1582,0,不分班,"人因工程
+HUMAN FACTORS ENGINEERING",3,期,False,40,3,0,40,謝孟璋,"三5,6,7(海MB 1009)","['', '', '567', '', '', '', '']","《講授類》
+跨院通識與海科院（學）MRSC118課程併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1586&Crsname=海洋法,,,False,跨院選修(海),GEAI1586,0,不分班,"海洋法
+LAW OF THE SEA",3,期,False,20,0,0,20,高世明,"一5,6,7(海MB 2009)","['567', '', '', '', '', '', '']","《講授類》
+跨院通識與海資系MBR413課程併班上課","['擁海學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1592&Crsname=探索海洋國家公園,,,False,跨院選修(海),GEAI1592,0,不分班,"探索海洋國家公園
+EXPLORE MARINE NATIONAL PARKS",2,期,False,30,6,0,30,"塗子萱,張水鍇","五5,6(海MA 3020)","['', '', '', '', '56', '', '']","《講授類》
+跨院通識與海科院（學）MRSC120課程併班上課","['海洋永續發展產業科技微學程', '探索海洋國家公園微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAI1596&Crsname=海洋永續發展科技概論,,,False,跨院選修(海),GEAI1596,0,不分班,"海洋永續發展科技概論
+INTRODUCTION TO OCEAN SUSTAINABLE DEVELOPMENT TECHNOLOGY",2,期,False,30,1,0,30,"葉博弘,魏瑞昌","四3,4(海MA 2016)","['', '', '', '34', '', '', '']","《講授類》
+跨院通識與海科院（學）MRSC122課程併班上課",[],False
