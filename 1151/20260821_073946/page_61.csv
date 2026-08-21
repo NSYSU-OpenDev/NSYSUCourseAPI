@@ -1,0 +1,61 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM316&Crsname=急重症醫學,,,False,後醫學系,DPBM316,3,不分班,"急重症醫學
+EMERGENCY AND CRITICAL CARE",1,期,True,50,0,21,29,王慧婷,,"['', '', '', '', '', '123456789', '123456789']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM317&Crsname=醫療政策與法律,,,False,後醫學系,DPBM317,3,不分班,"醫療政策與法律
+HEALTHCARE POLICY AND LAW",1,期,True,50,0,21,29,"洪琪發,陳德全",,"['', '', '', '', '345678', '12345678', '5678']","《講授類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM318&Crsname=臨床營養學,,,False,後醫學系,DPBM318,3,不分班,"臨床營養學
+CLINICAL NUTRITION",1,期,True,50,0,21,29,李容婷,,"['23678', '', '', '', '7', '234678', '234567']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM319&Crsname=麻醉學,,,False,後醫學系,DPBM319,3,不分班,"麻醉學
+ANESTHESIOLOGY",1,期,True,50,0,21,29,"何淳寧,洪國全,邢中熹",,"['', '', '3', '', '12389', '12345678', '1234']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM320&Crsname=實證醫學,,,False,後醫學系,DPBM320,2,不分班,"實證醫學
+EVIDENCE-BASED MEDICINE",1,期,True,50,0,18,32,許博欽,,"['567', '', '', '567', '', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM321&Crsname=醫學倫理,,,False,後醫學系,DPBM321,3,不分班,"醫學倫理
+MEDICAL ETHICS",1,期,True,50,0,21,29,"楊婉儀,王慧婷,蔡孟翰,陳德全",,"['12345678', '', '56', '', '56', '', '']","《醫學類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM328&Crsname=臨床診療解析,異動,取消部份合授8/11,False,後醫學系,DPBM328,3,不分班,"臨床診療解析
+CLINICAL DIAGNOSIS",2,期,False,50,0,0,50,"朱國安,林清煌,陳建良","二C,D(高雄榮總)","['', 'CD', '', '', '', '', '']","《講授類》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM406&Crsname=急診科學實習,,,False,後醫學系,DPBM406,4,不分班,"急診科學實習
+CLERKSHIP IN EMERGENCY MEDICINE",2,年,True,23,0,22,1,王慧婷,,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,0,0,50,柯瓊媛,,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413A&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413A,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,0,0,50,甘祐瑜,,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413B&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413B,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,0,0,50,鄭雅勻,,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413C&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413C,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,0,0,50,劉勃佑,,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413D&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413D,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,0,0,50,陳彥樺,,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413E&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413E,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,0,9,41,李昇翰,,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413F&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413F,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,0,0,50,王文宏,,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413G&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413G,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,0,0,50,陳亮傑,,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413H&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413H,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,0,0,50,"于松桓,莊承鑫",,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM415&Crsname=內科學實習（二）,,,False,後醫學系,DPBM415,4,不分班,"內科學實習（二）
+CLERKSHIP IN INTERNAL MEDICINE (II)",6,年,True,50,0,22,28,陳建良,,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM416&Crsname=外科學實習（二）,,,False,後醫學系,DPBM416,4,不分班,"外科學實習（二）
+CLERKSHIP IN SURGERY (II)",6,年,True,50,0,22,28,劉文忠,,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM417&Crsname=婦產科學實習（二）,,,False,後醫學系,DPBM417,4,不分班,"婦產科學實習（二）
+CLERKSHIP IN OBSTETRICS AND GYNECOLOGY (II)",3,年,True,50,0,22,28,林立德,,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
