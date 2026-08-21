@@ -1,0 +1,41 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL121&Crsname=現代詩選與寫作（一）,,,False,中文系,CL121,1,不分班,"現代詩選與寫作（一）
+MODERN POETRY:READINGS AND COMPOSITION (I)",3,期,False,50,0,0,50,涂書瑋,"五5,6,7(文LA 4001)","['', '', '', '', '567', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL150&Crsname=古典小說選（一）,,,False,中文系,CL150,4,不分班,"古典小說選（一）
+CLASSICAL NOVELS（I）",3,期,False,35,0,0,35,羅景文,"二2,3,4(文LA 4004)","['', '234', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL166&Crsname=現代中國文學與社會,,,False,中文系,CL166,2,不分班,"現代中國文學與社會
+LITERATURE AND SOCIETY IN MODERN CHINA",3,期,False,50,0,0,50,莫加南,"四8,6,7(文LA 4002)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL183&Crsname=晚清到當代華文科幻小說,,,False,中文系,CL183,3,不分班,"晚清到當代華文科幻小說
+CHINESE SCIENCE FICTION FROM LATE QING DYNASTY TO CONTEMPORARY",3,期,False,50,0,0,50,何重誼,"三2,3,4(文LA 4003)","['', '', '234', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL187&Crsname=中國園林文學,,,False,中文系,CL187,1,不分班,"中國園林文學
+CHINESE GARDEN LITERATURE",3,期,False,47,0,0,47,林孜曄,"四5,6,7(文LA 4001)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL192&Crsname=華文文學與性別文化（一）,,,False,中文系,CL192,3,不分班,"華文文學與性別文化（一）
+CHINESE LITERATURE AND GENDER CULTURES (I)",3,期,False,40,0,0,40,黃資婷,"五2,3,4(文LA 4002)","['', '', '', '', '234', '', '']",《講授類》,"['性別研究學程', '中文創意跨域應用整合學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL201&Crsname=中國文學史（一）,,,False,中文系,CL201,2,不分班,"中國文學史（一）
+HISTORY OF CHINESE LITERATURE(I)",3,期,True,50,0,42,8,羅景文,"四2,3,4(文LA 4002)","['', '', '', '234', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL205&Crsname=詩選及習作（一）,,,True,中文系,CL205,2,不分班,"詩選及習作（一）
+READING IN CHINESE CLASSICAL POETRY SHIH(I)",3,期,True,30,0,0,30,陳秋宏,"三5,6,7(文LA 4002)","['', '', '567', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL205A&Crsname=詩選及習作（一）,,,True,中文系,CL205A,2,不分班,"詩選及習作（一）
+READING IN CHINESE CLASSICAL POETRY SHIH(I)",3,期,True,30,0,0,30,林孜曄,"三5,6,7(文LA 4003)","['', '', '567', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL207&Crsname=歷代文選及習作（一）,,,True,中文系,CL207,2,不分班,"歷代文選及習作（一）
+READING IN CHINESE CLASSICAL PROSE(I)",3,期,True,30,0,0,30,鍾志偉,"一5,6,7(文LA 4002)","['567', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL207A&Crsname=歷代文選及習作（一）,,,True,中文系,CL207A,2,不分班,"歷代文選及習作（一）
+READING IN CHINESE CLASSICAL PROSE(I)",3,期,True,30,0,0,30,吳孟謙,"三2,3,4(文LA 4002)","['', '', '234', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL248&Crsname=論語,,,False,中文系,CL248,1,不分班,"論語
+THE ANALECTS",3,期,False,35,0,0,35,吳孟謙,"二2,3,4(文LA 4001)","['', '234', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL265&Crsname=神話學導論（一）,,,False,中文系,CL265,2,不分班,"神話學導論（一）
+INTRODUCTION TO MYTHOLOGY(Ⅰ)",3,期,False,30,0,0,30,謝薇娜,"一2,3,4(文LA 4002)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL267&Crsname=史記（一）,,,False,中文系,CL267,1,不分班,"史記（一）
+SHIH CHI(I)",3,期,False,50,0,0,50,黃羽璿,"二8,6,7(文LA 4001)","['', '678', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL303&Crsname=中國思想史（一）,,,False,中文系,CL303,3,不分班,"中國思想史（一）
+HISTORY OF CHINESE THOUGHTS(I)",3,期,True,50,0,38,12,紀志昌,"一5,6,7(文LA 5004)","['567', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL307&Crsname=詞曲選及習作（一）,,,False,中文系,CL307,3,不分班,"詞曲選及習作（一）
+READING IN TZ'U & CH'U POETRY(WITH EXERCISE)(I)",3,期,True,50,0,39,11,黃郁晴,"四5,6,7(文LA 4003)","['', '', '', '567', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL327&Crsname=古文字學,,,False,中文系,CL327,3,不分班,"古文字學
+ARCHAIC PHILOLOGY",3,期,False,50,0,0,50,歐瑞安,"一2,3,4(文LA 4004)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL332&Crsname=近世出土文獻,,,False,中文系,CL332,4,不分班,"近世出土文獻
+THE STUDY OF UNEARTHED DOCUMENTS IN THE PRESENT ERA",3,期,False,50,0,0,50,歐瑞安,"三2,3,4(文LA 4001)","['', '', '234', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL342&Crsname=聲韻學,,,False,中文系,CL342,3,不分班,"聲韻學
+CHINESE PHONOLOGY",3,期,True,50,0,39,11,杜佳倫,"一2,3,4(文LA 4003)","['234', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL430&Crsname=性別文化民俗誌,,,False,中文系,CL430,2,不分班,"性別文化民俗誌
+CHRONICLES OF FEMININE CULTURE",3,期,False,25,0,0,25,楊濟襄,"一5,6,7(文LA 4003)","['567', '', '', '', '', '', '']",《講授類》,"['性別研究學程', '性別與管理微學程']",False
