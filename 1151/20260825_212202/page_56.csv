@@ -1,0 +1,48 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO433&Crsname=海洋地質論文研究（一）,,,False,海科系,DO433,4,不分班,"海洋地質論文研究（一）
+INDEPENDENT STUDIES IN MARINE GEOLOGY（I）",2,期,False,50,2,0,50,"張詠斌,林玉詩","二A,1()","['', 'A1', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO437&Crsname=海岸與海洋地質災害,,,False,海科系,DO437,4,不分班,"海岸與海洋地質災害
+COASTAL AND MARINE GEOHAZARDS",2,期,False,50,16,0,50,張瑜峻,"三3,4(海MA 2009)","['', '', '34', '', '', '', '']","《講授類》
+與DO725併班上課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DO451&Crsname=生物資訊學,,,False,海科系,DO451,4,不分班,"生物資訊學
+BIOINFORMATICS",3,期,False,50,2,0,50,王敬湧,"二2,3,4(海MB 2020)","['', '234', '', '', '', '', '']","《講授類》
+與DO727併班上課。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MRSC102&Crsname=基礎海洋學,,,False,海科院（學）,MRSC102,0,不分班,"基礎海洋學
+FUNDAMENTALS OF OCEANOGRAPHY",3,期,False,10,4,0,10,"林玉詩,林裕䕒,簡國童,陳冠宇","五2,3,4(海MA 3021)","['', '', '', '', '234', '', '']","《講授類》
+限海工系及海科系以外學生選修。","['環境教育學程', '熱帶海洋微學程', '海洋永續發展產業科技微學程', '看見臺灣海岸微學程', '探索海洋國家公園微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MRSC105&Crsname=環境教育,,,False,海科院（學）,MRSC105,0,不分班,"環境教育
+ENVIROMENTAL EDUCATION",2,期,False,15,6,0,15,謝百淇,"三6,7(社SS 2005)","['', '', '67', '', '', '', '']",《講授類》,"['環境教育學程', '實踐環境教育微學程', '社會情緒學習與內在永續發展微學程', '氣膠科學環境教育微學程', '原民文化探索及永續發展學程', 'STREAM永續發展培力微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MRSC114&Crsname=海洋基礎科學,異動,更換教師7/27,False,海科院（學）,MRSC114,1,不分班,"海洋基礎科學
+BASIC MARINE SCIENCES",2,期,True,150,52,0,150,"林梅芳,王興麟,陳冠宇","一6,7(海MA 3021)","['67', '', '', '', '', '', '']","《講授類》
+海資系、海工系及海科系大一必修。","['擁海學程', '永續海洋休閒運動產業學程', '海洋永續發展產業科技微學程', '生物資訊與演化生態微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MRSC118&Crsname=人因工程,,,False,海科院（學）,MRSC118,0,不分班,"人因工程
+HUMAN FACTORS ENGINEERING",3,期,False,10,4,0,10,謝孟璋,"三5,6,7(海MB 1009)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MRSC120&Crsname=探索海洋國家公園,,,False,海科院（學）,MRSC120,0,不分班,"探索海洋國家公園
+EXPLORE MARINE NATIONAL PARKS",2,期,False,40,9,0,40,"塗子萱,張水鍇","五5,6(海MA 3020)","['', '', '', '', '56', '', '']","《講授類》
+共同授課業界專家：海洋國家公園管理處吳岱穎執行秘書。","['海洋永續發展產業科技微學程', '探索海洋國家公園微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MRSC122&Crsname=海洋永續發展科技概論,,,False,海科院（學）,MRSC122,0,不分班,"海洋永續發展科技概論
+INTRODUCTION TO OCEAN SUSTAINABLE DEVELOPMENT TECHNOLOGY",2,期,False,40,5,0,40,"葉博弘,魏瑞昌","四3,4(海MA 2016)","['', '', '', '34', '', '', '']",《講授類》,['海洋永續發展產業科技微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE101&Crsname=經濟學原理（一）,,,False,政經系,PE101,1,不分班,"經濟學原理（一）
+PRINCIPLES OF ECONOMICS(I)",3,期,True,55,9,52,3,張光亮,"四5,6,7(社SS 3005)","['', '', '', '567', '', '', '']",《講授類》,['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE101A&Crsname=經濟學原理（一）,,,False,政經系,PE101A,1,不分班,"經濟學原理（一）
+PRINCIPLES OF ECONOMICS(I)",3,期,False,10,18,0,10,吳世傑,"四2,3,4(社SS 1006)","['', '', '', '234', '', '', '']","《講授類》
+與跨院併班授課",['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE109&Crsname=政治學,,,False,政經系,PE109,1,不分班,"政治學
+POLITICS",3,期,True,50,18,52,-2,張其祿,"五2,3,4(社SS 3005)","['', '', '', '', '234', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE110&Crsname=經濟數學（一）,,,False,政經系,PE110,1,不分班,"經濟數學（一）
+MATHEMATICS FOR ECONOMICS (I)",3,期,True,50,8,52,-2,王俊傑,"一2,3,4(社SS 3001)","['234', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE125&Crsname=政府與企業,,,False,政經系,PE125,1,不分班,"政府與企業
+GOVERNMENT AND BUSINESS",3,期,False,50,50,0,50,張其祿,"一8,6,7(社SS 1006)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE131&Crsname=漁業外交概論,,,False,政經系,PE131,1,不分班,"漁業外交概論
+INTRODUCTION TO FISHERIES DIPLOMACY",3,期,False,25,20,0,25,高世明,"五5,6,7(社SS 3005)","['', '', '', '', '567', '', '']","《講授類》
+與跨院併班授課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE132&Crsname=變動時代中的全球化,,,False,政經系,PE132,4,不分班,"變動時代中的全球化
+GLOBALIZATION IN A TIME OF TRANSITION",3,期,False,30,33,0,30,辛翠玲,"三2,3,4(社SS 3005)","['', '', '234', '', '', '', '']",《講授類》,['全球研究學分學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE201&Crsname=個體經濟學（一）,,,False,政經系,PE201,2,不分班,"個體經濟學（一）
+MICROECONOMICS(I)",3,期,True,55,21,48,7,李明軒,"二2,3,4(社SS 3001)","['', '234', '', '', '', '', '']",《講授類》,['金融工程學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE204&Crsname=總體經濟學（二）,,,False,政經系,PE204,3,不分班,"總體經濟學（二）
+MACROECONOMICS(II)",3,期,True,55,5,46,9,童永年,"三2,3,4(社SS 3001)","['', '', '234', '', '', '', '']",《講授類》,['金融工程學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE206&Crsname=統計學（二）,,,False,政經系,PE206,2,不分班,"統計學（二）
+STATISTICS(2)",3,期,True,65,9,46,19,王俊傑,"四2,3,4(社SS 3001)","['', '', '', '234', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '金融工程學程', '數據科學微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE207&Crsname=比較政府與政治,,,False,政經系,PE207,4,不分班,"比較政府與政治
+COMPARATIVE GOVERNMENT AND POLITICS",3,期,False,50,18,0,50,陳若蘭,"二5,6,7(社SS 1006)","['', '567', '', '', '', '', '']",《講授類》,"['日本研究學程', '公民參與微學程']",False
