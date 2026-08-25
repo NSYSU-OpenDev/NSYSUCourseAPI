@@ -1,0 +1,53 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2413&Crsname=海權與海洋事務,,,False,博雅向度四,GEAE2413,0,不分班,"海權與海洋事務
+SEA POWER AND MARINE AFFAIRS",2,期,True,115,15,12,103,"吳偉寧,王志騰,蔡錦昌,高世明","二B,5(海MA 3021)","['', 'B5', '', '', '', '', '']","《講授類》
+已修海洋事務概論不得修。","['臺灣研究學程', '日本研究學程', '環境教育學程', '實踐環境教育微學程', '探索海洋國家公園微學程', '國際素養微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2430&Crsname=科學、媒體與文化,,,False,博雅向度四,GEAE2430,0,不分班,"科學、媒體與文化
+SCIENCE, MEDIA, AND CULTURE",3,期,True,90,20,90,0,李育諭,"五2,3,4(通GE 1008)","['', '', '', '', '234', '', '']",《講授類》,"['臺灣研究學程', '文化產業創新學程', '生成式AI素養微學程', '地方創生與永續發展整合學程', '地方發展與永續農業微學程', '國際素養微學程', '地方創生與區域治理微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2432&Crsname=流行音樂、科技與社會,異動,調整名額8/19,False,博雅向度四,GEAE2432,0,不分班,"流行音樂、科技與社會
+POPULAR MUSIC, TECHNOLOGY AND SOCIETY",3,期,True,70,20,43,27,王啟仲,"二5,6,7(通GE 1008)","['', '567', '', '', '', '', '']",《講授類》,['文化產業創新學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2442&Crsname=海洋生態資源：科技研究與社會影響,,,False,博雅向度四,GEAE2442,0,不分班,"海洋生態資源：科技研究與社會影響
+MARINE ECOLOGICAL RESOURCES: SCIENTIFIC RESEARCH AND SOCIAL IMPACT",2,期,True,80,36,29,51,"張水鍇,張詠斌","四8,9(通GE 1008)","['', '', '', '89', '', '', '']",《講授類》,"['海洋永續發展產業科技微學程', '地方發展與永續農業微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2444&Crsname=生成式AI：文字與圖像生成的原理與實務,,,False,博雅向度四,GEAE2444,0,不分班,"生成式AI：文字與圖像生成的原理與實務
+GENERATIVE AI: TEXT AND IMAGE SYNTHESIS PRINCIPLES AND PRACTICE",3,期,True,40,13,39,1,"AI聯盟教師,楊政融","二8,9,C(同步遠距)","['', '89C', '', '', '', '', '']","《講授類》
+1.開課單位及教師：政治大學蔡炎龍老師。本校協助教師：機電系楊政融副教授。2.課程網頁：Facebook【政大應數系直播中心】https://facebook.com/groups/nccumathonline/。學生選修限制, 請詳見AI聯盟公告。3.同步考試時間：2026/12/22 在 Gather.town 線上研討會型式的期末專題成果分享(主導課程會以學生投稿、擇優方式參與，獲選同學參加期末專案分享，並有額外加分。",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2445&Crsname=半導體科技專題講座,,,False,博雅向度四,GEAE2445,0,不分班,"半導體科技專題講座
+SPECIAL LECTURES ON SEMICONDUCTOR TECHNOLOGY",3,期,True,120,36,72,48,于欽平,"五2,3,4(通GE 1010)","['', '', '', '', '234', '', '']","《演講/參訪》
+限非工學院、物理系、化學系學生修習。",['全球半導體經營管理微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2447&Crsname=故事創意與AI繪本創作,,,False,博雅向度四,GEAE2447,0,不分班,"故事創意與AI繪本創作
+STORY CREATIVITY AND AI PICTURE BOOK DESIGN",3,期,True,55,21,54,1,黃郁晴,"四2,3,4(通GE 1008)","['', '', '', '234', '', '', '']",《講授類》,['生成式AI素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2451&Crsname=人工智慧應用開發實務,,,False,博雅向度四,GEAE2451,0,不分班,"人工智慧應用開發實務
+ARTIFICIAL INTELLIGENCE APPLICATION DEVELOPMENT",3,期,True,50,21,50,0,許智超,"四8,6,7(圖IL PC01)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2503&Crsname=本地植物學,異動,更換教室7/27,False,博雅向度五,GEAE2503,0,不分班,"本地植物學
+LOCAL FLORA",2,期,True,70,25,63,7,張楊家豪,"五3,4(海MA 3020)","['', '', '', '', '34', '', '']","《講授類》
+限非生科系學生修習。","['臺灣研究學程', '生物多樣性學程', '環境教育學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2514&Crsname=生命科學,,,False,博雅向度五,GEAE2514,0,不分班,"生命科學
+LIFE SCIENCES",2,期,True,95,79,64,31,"王亮鈞,王志騰,陳慶能","一8,9(通GE 1010)","['89', '', '', '', '', '', '']","《講授類》
+限非生科、海資、生醫科技系學生修習。","['環境教育學程', '國際素養微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2514A&Crsname=生命科學,,,False,博雅向度五,GEAE2514A,0,不分班,"生命科學
+LIFE SCIENCES",2,期,True,95,15,37,58,"劉勃佑,王敬湧","五3,4(通GE 4016)","['', '', '', '', '34', '', '']","《講授類》
+限非生科、海資、生醫科技系學生修習。本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。","['環境教育學程', '國際素養微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2514B&Crsname=生命科學,,,False,博雅向度五,GEAE2514B,0,不分班,"生命科學
+LIFE SCIENCES",2,期,True,95,46,36,59,"吳長益,高資棟","二6,7(通GE 4016)","['', '67', '', '', '', '', '']","《講授類》
+限非生科、海資、生醫科技系學生修習。","['環境教育學程', '國際素養微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2515&Crsname=生醫桂冠的故事,,,False,博雅向度五,GEAE2515,0,不分班,"生醫桂冠的故事
+THE STORIES OF NOBEL PRIZE LAUREATES IN BIOMEDICAL SCIENCES",2,期,True,85,9,85,0,許晉銓,"四6,7(通GE 1010)","['', '', '', '67', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2520&Crsname=科學的本質,,,False,博雅向度五,GEAE2520,0,不分班,"科學的本質
+NATURE OF SCIENCE",2,期,True,70,17,69,1,劉叔秋,,"['', '', 'X', '89X', '', '', '']","《講授類》
+1.本課程為混成課程。2.本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。","['生成式AI素養微學程', '全英語通識教育菁英學程', '科技與環境英語微學程', '台灣文化英語微學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2526&Crsname=地球生命概論,,,False,博雅向度五,GEAE2526,0,不分班,"地球生命概論
+AN INTRODUCTION TO LIFE ON EARTH",3,期,True,70,7,37,33,邊安台,"三2,3,4(通GE 1010)","['', '', '234', '', '', '', '']","《講授類》
+本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",['國際素養微學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2528&Crsname=基礎程式設計（C++）,,,False,博雅向度五,GEAE2528,0,不分班,"基礎程式設計（C++）
+INTRODUCTION TO PROGRAMMING（C++）",3,期,True,40,6,40,0,"AI聯盟教師,莊豐任","一2,3,4(同步遠距)","['234', '', '', '', '', '', '']","《講授類》
+1.開課單位及教師：陽明交通大學温宏斌老師。本校協助教師：電機系莊豐任教授。2.同步考試時間：2026-11-02(一) 、 2026-12-21(一) AM 9:00-PM12:00",['生成式AI素養微學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2529&Crsname=人工智慧導論,,,False,博雅向度五,GEAE2529,0,不分班,"人工智慧導論
+INTRODUCTION TO ARTIFICIAL INTELLIGENCE",3,期,True,40,21,38,2,AI聯盟教師,"四5,6,7(同步遠距)","['', '', '', '567', '', '', '']","《講授類》
+1.開課單位及教師：成功大學朱威達老師。2. 上課連結：https://www.youtube.com/@WeiTaChu。課堂作業包括程式作業，修課學生需具備程式撰寫能力以及演算法的基本知識。3.同步考試時間為2026年12月10日, 13:10~16:00 （所有學生需同步進行，在此時段無法應考的學生請勿修課）","['生成式AI素養微學程', '智慧高齡生活微學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2530&Crsname=統計學暨實習,異動,修正備註說明8/19,False,博雅向度五,GEAE2530,0,不分班,"統計學暨實習
+STATISTICS WITH RECITATION",4,期,True,40,7,10,30,"AI聯盟教師,林裕䕒","二5,6(同步遠距)(實驗) 三2,3,4(同步遠距)","['', '56', '234', '', '', '', '']","《講授類》
+1.開課單位及教師：臺灣大學李宗穎老師。本校協助教師：海事所林裕䕒助理教授。2課堂使用 NTU COOL 平台，學生有責每天查 NTU COOL 以及學校信箱。上課期間，所有通訊設備皆須關閉或調整為靜音模式。3.同步考試時間：2026/10/28期中考及2026/12/23期末考 (9:30 AM - 12:00 PM)4.本課程為優先選修課程，依選課須知規定，優先條件為第一篩選順序，志願序或點數加選為次要篩選順序。優先條件順序:(1)全英語學士專班(分組/班)學生。(2)其他學士班學生。",['生成式AI素養微學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2532&Crsname=災難照護與科技防災準備,,,False,博雅向度五,GEAE2532,0,不分班,"災難照護與科技防災準備
+DISASTER CARE AND TECHNOLOGY-BASED PREPAREDNESS",2,期,True,50,13,50,0,王美卿,"一5,6(醫IL 3013)","['56', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2533&Crsname=智慧高齡健康永續：科技點亮人生,,,False,博雅向度五,GEAE2533,0,不分班,"智慧高齡健康永續：科技點亮人生
+SUSTAINABLE WELLNESS FOR SMART AGING: TECHNOLOGY LIGHTS LIFE",2,期,True,50,26,49,1,陳嬿今,"二3,4(醫IL 3004)","['', '34', '', '', '', '', '']",《講授類》,[],False
