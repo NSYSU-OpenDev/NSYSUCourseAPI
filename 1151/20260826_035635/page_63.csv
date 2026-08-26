@@ -1,0 +1,54 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413E&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413E,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,0,6,44,李昇翰,,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413F&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413F,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,1,0,50,王文宏,,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413G&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413G,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,1,0,50,陳亮傑,,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM413H&Crsname=醫學專題研究,異動,修正設定7/23,True,後醫學系,DPBM413H,4,不分班,"醫學專題研究
+MEDICAL RESEARCH",1,期,True,50,1,0,50,"于松桓,莊承鑫",,"['', '', '', '123456789', '123456789', '', '']","《獨立研究》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM415&Crsname=內科學實習（二）,,,False,後醫學系,DPBM415,4,不分班,"內科學實習（二）
+CLERKSHIP IN INTERNAL MEDICINE (II)",6,年,True,50,0,22,28,陳建良,,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM416&Crsname=外科學實習（二）,,,False,後醫學系,DPBM416,4,不分班,"外科學實習（二）
+CLERKSHIP IN SURGERY (II)",6,年,True,50,0,22,28,劉文忠,,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM417&Crsname=婦產科學實習（二）,,,False,後醫學系,DPBM417,4,不分班,"婦產科學實習（二）
+CLERKSHIP IN OBSTETRICS AND GYNECOLOGY (II)",3,年,True,50,0,22,28,林立德,,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DPBM418&Crsname=兒科學實習（二）,,,False,後醫學系,DPBM418,4,不分班,"兒科學實習（二）
+CLERKSHIP IN PEDIATRICS (II)",3,年,True,50,0,22,28,刁茂盟,,"['12345678', '12345678', '1234567', '12345678', '12345678', '', '']","《臨床實習》
+限後醫系修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST101&Crsname=普通生物學,,,False,生醫科技系,BMST101,1,全英班,"普通生物學
+GENERAL BIOLOGY",3,期,True,50,4,47,3,林萱文,"一2,3,4(醫IL 3013)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST102&Crsname=普通生物學實驗,,,False,生醫科技系,BMST102,1,全英班,"普通生物學實驗
+GENERAL BIOLOGY LABORATORY",1,期,True,50,2,47,3,林萱文,"一5,6,7(醫IL 3004)(實驗)","['567', '', '', '', '', '', '']","《實驗類》
+限生物醫學科技學系學生修習。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST103&Crsname=微積分（一）,異動,確認教師8/6,False,生醫科技系,BMST103,1,全英班,"微積分（一）
+CALCULUS（Ⅰ）",3,期,True,50,8,46,4,陳延安,"五2,3,4(理SC 2001)","['', '', '', '', '234', '', '']","《講授類》
+與生科系併班。",['人工智慧與數學學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST201&Crsname=人體生理與解剖學,,,False,生醫科技系,BMST201,3,全英班,"人體生理與解剖學
+HUMAN PHYSIOLOGY AND ANATOMY",3,期,True,50,5,25,25,"柯瓊媛,柯翠玲,甘祐瑜","一5,6,7(醫IL 3005)","['567', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST202&Crsname=人體生理與解剖學實驗,,,False,生醫科技系,BMST202,3,全英班,"人體生理與解剖學實驗
+HUMAN PHYSIOLOGY AND ANATOMY LABORATORY",1,期,True,50,3,25,25,"柯翠玲,甘祐瑜","一8,9(醫IL 3004)(實驗)","['89', '', '', '', '', '', '']","《實驗類》
+限生物醫學科技學系學生修習。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST203&Crsname=細胞生物學,,,False,生醫科技系,BMST203,2,全英班,"細胞生物學
+CELL BIOLOGY",3,期,True,50,3,29,21,"張玉泉,李豪嶧,楊仁豪,許晉銓","二2,3,4(醫IL 3013)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST204&Crsname=材料科學導論,,,False,生醫科技系,BMST204,1,全英班,"材料科學導論
+FUNDAMENTALS OF MATERIALS SCIENCE",3,期,True,50,3,47,3,楊易軒,"三5,6,7(醫IL 3017)","['', '', '567', '', '', '', '']","《講授類》
+與醫科系114學年度入學之大二學生併班。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST204A&Crsname=材料科學導論,,,False,生醫科技系,BMST204A,2,全英班,"材料科學導論
+FUNDAMENTALS OF MATERIALS SCIENCE",3,期,True,50,5,29,21,楊易軒,"三5,6,7(醫IL 3017)","['', '', '567', '', '', '', '']","《講授類》
+與醫科系115學年度入學之大一學生併班。",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST205&Crsname=專題研究（一）,,,False,生醫科技系,BMST205,3,全英班,"專題研究（一）
+SPECIAL TOPIC （Ⅰ）",1,期,True,50,1,25,25,莊承鑫,三A(醫IL 3017),"['', '', 'A', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST214&Crsname=有機化學,,,False,生醫科技系,BMST214,2,全英班,"有機化學
+ORGANIC CHEMISTRY",3,期,True,50,5,29,21,黃建智,"一2,3,4(醫IL 3005)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST221&Crsname=生物醫學科技特論,,,False,生醫科技系,BMST221,2,全英班,"生物醫學科技特論
+SPECIAL TOPIC IN BIOMEDICAL SCIENCE AND TECHNOLOGY",1,期,True,50,6,29,21,"巫建興,林萱文,楊仁豪,楊易軒",五5(醫IL 3017),"['', '', '', '', '5', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BMST231&Crsname=計算機概論,,,False,生醫科技系,BMST231,2,不分班,"計算機概論
+INTRODUCTION TO COMPUTER SCIENCE",3,期,False,50,6,0,50,巫建興,"五8,6,7(醫IL 3005)","['', '', '', '', '678', '', '']",《講授類》,['軟體工程學程'],False
