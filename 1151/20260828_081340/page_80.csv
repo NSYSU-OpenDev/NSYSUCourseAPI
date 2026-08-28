@@ -1,0 +1,49 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5720&Crsname=積體電路佈局專題,,,False,電機碩,EE5720,0,不分班,"積體電路佈局專題
+SPECIAL TOPICS IN IC LAYOUT",3,期,False,50,0,1,49,李宗哲,"二2,3,4(工EC 3024)","['', '234', '', '', '', '', '']","《獨立研究》
+與IC設計所併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5722&Crsname=生醫影像研究方法,,,False,電機碩,EE5722,0,不分班,"生醫影像研究方法
+BIOMEDICAL IMAGE INVESTIGATION",3,期,False,50,2,13,37,吳珮歆,"一8,6,7(工EC 3014)","['678', '', '', '', '', '', '']","《講授類》
+開放大三、大四學生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5723&Crsname=磁共振影像：原理與應用,,,False,電機碩,EE5723,0,不分班,"磁共振影像：原理與應用
+MAGNETIC RESONANCE IMAGING: PRINCIPLES AND APPLICATIONS",3,期,False,50,0,15,35,莊子肇,"二2,3,4(工EC 3014)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5724&Crsname=臨床磁共振影像專題,,,False,電機碩,EE5724,0,不分班,"臨床磁共振影像專題
+INDEPENDENT STUDIES IN CLINICAL APPLICATIONS OF MAGNETIC RESONANCE IMAGING",3,期,False,50,0,3,47,莊子肇,"一2,3,4(工EC 6019)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5725&Crsname=積體電路系統測試專題,,,False,電機碩,EE5725,0,不分班,"積體電路系統測試專題
+INDEPENDENT STUDIES IN VLSI TESTING",3,期,False,50,0,4,46,謝東佑,"一8,6,7(工EC 8037)","['678', '', '', '', '', '', '']","《獨立研究》
+與IC設計所併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5729&Crsname=系統晶片測試,,,False,電機碩,EE5729,0,不分班,"系統晶片測試
+SYSTEM-ON-CHIP TESTING",3,期,False,50,0,37,13,謝東佑,"四5,6,7(工EC 6019)","['', '', '', '567', '', '', '']","《講授類》
+與IC設計所併班上課",['數位IC設計學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5733&Crsname=數位通訊電路設計,,,False,電機碩,EE5733,0,不分班,"數位通訊電路設計
+DIGITAL COMMUNICATION IC DESIGN",3,期,False,50,0,4,46,施信毓,"四8,6,7(工EC 3012)","['', '', '', '678', '', '', '']","《講授類》
+與IC設計所併班上課","['半導體製程模組學程', '半導體元件學程', '數位IC設計學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5734&Crsname=高等數位電路設計專題,,,False,電機碩,EE5734,0,不分班,"高等數位電路設計專題
+INDEPENDENT STUDIES IN ADVANCED DIGITAL CIRCUIT DESIGN",3,期,False,50,0,2,48,施信毓,"一8,6,7(工EC 2018)","['678', '', '', '', '', '', '']","《獨立研究》
+與IC設計所併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5740&Crsname=電源管理積體電路設計,,,False,電機碩,EE5740,0,不分班,"電源管理積體電路設計
+POWER MANAGEMENT INTEGRATED CIRCUIT DESIGN",3,期,False,50,0,6,44,李宗哲,"五5,6,7(工EC 6010-2)","['', '', '', '', '567', '', '']","《講授類》
+與IC設計所併班上課",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5804&Crsname=醫學影像分析專題,,,False,電機碩,EE5804,0,不分班,"醫學影像分析專題
+INDEPENDENT STUDIES IN MEDICAL IMAGE ANALYSIS",3,期,False,50,0,1,49,吳珮歆,"一2,3,4(工EC 7017-2)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EE5808&Crsname=腦機介面與大腦網路,,,False,電機碩,EE5808,0,不分班,"腦機介面與大腦網路
+BRAIN-COMPUTER INTERFACE AND BRAIN NETWORKS",3,期,False,50,0,15,35,曾乙立,"三5,6,7(工EC 6016)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME501&Crsname=書報討論,,,False,機電碩,MEME501,1,不分班,"書報討論
+SEMINAR",1,期,True,150,0,110,40,許聖彥,"四6,7(工EC 1001)","['', '', '', '67', '', '', '']","《演講/參訪》
+碩、博士班併班上課",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME502&Crsname=熱對流,,,False,機電碩,MEME502,1,不分班,"熱對流
+HEAT CONVECTION",3,期,False,50,1,11,39,鄭威利,"五5,6,7(工EN 2022)","['', '', '', '', '567', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME505&Crsname=高等熱力學,,,False,機電碩,MEME505,1,不分班,"高等熱力學
+ADVANCED THERMODYNAMICS",3,期,False,50,1,11,39,鄭威利,"二5,6,7(工EN 2022)","['', '567', '', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體設備工程學程']",True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME5109&Crsname=微奈米生醫系統工程,,,False,機電碩,MEME5109,1,不分班,"微奈米生醫系統工程
+MICRO/NANO BIOMEDICAL SYSTEMS ENGINEERING",3,期,False,50,7,50,0,郭清德,"三5,6,7(工EC 2003)","['', '', '567', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME5111&Crsname=半導體製程設備與技術,,,False,機電碩,MEME5111,1,不分班,"半導體製程設備與技術
+SEMICONDUCTOR PROCESS EQUIPMENT AND TECHNOLOGY",3,期,False,100,11,99,1,林哲信,"五8,6,7(工EN 4055-1)","['', '', '', '', '678', '', '']",《講授類》,"['矽光子暨半導體學程', '半導體設備工程學程', '類比射頻IC設計學程', '半導體製程模組學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME520&Crsname=無人機氫能燃料電池動力系統工程,新增,7/8,False,機電碩,MEME520,1,不分班,"無人機氫能燃料電池動力系統工程
+HYDROGEN FUEL CELL POWER SYSTEMS FOR UNMANNED AERIAL VEHICLES",3,期,False,50,3,20,30,郭振坤,"二5,6,7(工EC 2006)","['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME523&Crsname=有限元素法,,,False,機電碩,MEME523,1,不分班,"有限元素法
+FINITE ELEMENT METHODS",3,期,False,50,7,49,1,蔡尚南,"二2,3,4(工EN 4055-2)","['', '234', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME529&Crsname=最佳化理論,,,False,機電碩,MEME529,1,不分班,"最佳化理論
+OPTIMIZATION THEORY",3,期,False,50,4,18,32,盧威廷,"四5,6,7(工EN 2022)","['', '', '', '567', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME532&Crsname=塑性力學,異動,更換教室8/21,False,機電碩,MEME532,1,不分班,"塑性力學
+PLASTICITY",3,期,False,50,2,33,17,黃永茂,"一2,3,4(工EN 2022)","['234', '', '', '', '', '', '']",《講授類》,['南星產業樞紐學程'],False
