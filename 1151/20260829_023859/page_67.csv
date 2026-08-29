@@ -1,0 +1,44 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL540&Crsname=性別書寫與文化研究（一）,,,False,中文碩,CL540,0,不分班,"性別書寫與文化研究（一）
+GENDER, TEXTUALITY, AND CULTURAL STUDIES (I)",3,期,False,50,0,6,44,黃資婷,"五8,6,7(文LA 4013)","['', '', '', '', '678', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL582&Crsname=歐美漢學專題,,,False,中文碩,CL582,0,不分班,"歐美漢學專題
+SPECIAL TOPICS IN SINOLOGY OF EUROPE AND THE U.S.",3,期,False,50,1,6,44,何重誼,"二2,3,4(文LA 4013)","['', '234', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL608&Crsname=佛學思想,,,False,中文碩,CL608,0,不分班,"佛學思想
+STUDIES IN BUDDHIST THOUGHTS",3,期,False,50,2,5,45,吳孟謙,"一8,6,7(文LA 4014)","['678', '', '', '', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL637&Crsname=歷史與敘事,,,False,中文碩,CL637,0,不分班,"歷史與敘事
+HISTORY AND NARRATIVE",3,期,False,50,0,8,42,江政寬,"四2,3,4(文LA 4012)","['', '', '', '234', '', '', '']","《講授類》
+限碩博士研究生選修",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL501&Crsname=學術寫作與書目學,,,True,外文碩,DFLL501,1,不分班,"學術寫作與書目學
+ACADEMIC WRITING AND BIBLIOGRAPHY",3,期,True,50,1,6,44,黃心雅,"二2,3,4(文LA 3018)","['', '234', '', '', '', '', '']","《講授類》
+碩士班甲組",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL504&Crsname=研究方法與學術寫作,,,True,外文碩,DFLL504,1,不分班,"研究方法與學術寫作
+RESEARCH METHODS AND ACADEMIC WRITING",3,期,True,50,2,17,33,曾銘裕,"一2,3,4(文LA 3017)","['234', '', '', '', '', '', '']","《講授類》
+碩士班乙組",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL610&Crsname=浪漫時期詩歌（一）,,,False,外文碩,DFLL610,0,不分班,"浪漫時期詩歌（一）
+ROMANTIC POETRY (I)",3,期,False,50,1,8,42,李佳容,"三5,6,7(文LA 3018)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL621&Crsname=二十世紀美國戲劇,,,False,外文碩,DFLL621,0,不分班,"二十世紀美國戲劇
+20TH CENTURY AMERICAN DRAMA",3,期,False,50,0,7,43,范澤凱,"五2,3,4(文LA 3018)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL633&Crsname=拉崗精神分析,,,False,外文碩,DFLL633,0,不分班,"拉崗精神分析
+LACANIAN PSYCHOANALYSIS",3,期,False,50,0,4,46,陳福仁,"三2,3,4(文LA 3018)","['', '', '234', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL647&Crsname=記憶與文學,,,False,外文碩,DFLL647,0,不分班,"記憶與文學
+MEMORY AND LITERATURE",3,期,False,50,1,7,43,沈尚玉,"二5,6,7(文LA 3018)","['', '567', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL652&Crsname=語用學,新增,7/2,False,外文碩,DFLL652,0,不分班,"語用學
+PRAGMATICS",3,期,False,50,2,12,38,曾銘裕,"三2,3,4(文LA 3017)","['', '', '234', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL665&Crsname=英語教學研究,新增,7/2,False,外文碩,DFLL665,0,不分班,"英語教學研究
+STUDIES IN ENGLISH LANGUAGE TEACHING",3,期,False,50,1,15,35,楊郁芬,"五2,3,4(文LA 3017)","['', '', '', '', '234', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL680&Crsname=專題研究,異動,更換時間7/2,True,外文碩,DFLL680,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,1,1,49,白士禮,"二5,6,7()","['', '567', '', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL680A&Crsname=專題研究,,,True,外文碩,DFLL680A,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,1,49,李佳容,"五2,3,4()","['', '', '', '', '234', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL680B&Crsname=專題研究,,,True,外文碩,DFLL680B,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,0,50,范澤凱,"三2,3,4()","['', '', '234', '', '', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL680C&Crsname=專題研究,,,True,外文碩,DFLL680C,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,1,49,陳福仁,"五2,3,4()","['', '', '', '', '234', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL680D&Crsname=專題研究,,,True,外文碩,DFLL680D,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,2,48,黃舒屏,"五2,3,4()","['', '', '', '', '234', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL680E&Crsname=專題研究,,,True,外文碩,DFLL680E,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,0,50,楊郁芬,"五5,6,7()","['', '', '', '', '567', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL680F&Crsname=專題研究,,,True,外文碩,DFLL680F,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,1,49,盧家達,"五2,3,4()","['', '', '', '', '234', '', '']",《獨立研究》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL680G&Crsname=專題研究,,,True,外文碩,DFLL680G,2,不分班,"專題研究
+INDEPENDENT STUDIES",3,期,True,50,0,1,49,盧莉茹,"五2,3,4()","['', '', '', '', '234', '', '']",《獨立研究》,[],True
