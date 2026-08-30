@@ -1,0 +1,52 @@
+url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ENVE596&Crsname=大氣模式特論,,,False,環工碩,ENVE596,0,不分班,"大氣模式特論
+SPECIAL TOPICS ON ATMOSPHERIC MODELS",3,期,False,50,6,16,34,彭彥彬,"一2,3,4(工EC 1004)","['234', '', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ENVE599&Crsname=儀器分析,,,False,環工碩,ENVE599,0,不分班,"儀器分析
+PRINCIPLE OF INSTRUMENT ANALYSIS",3,期,False,50,2,10,40,陳則綸,"二8,6,7(工EC 1004)","['', '678', '', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE505&Crsname=計算機結構,,,False,資工碩,CSE505,1,不分班,"計算機結構
+COMPUTER ARCHITECTURES",3,期,True,70,13,63,7,李淑敏,"三5,6,7(工EC 1006)","['', '', '567', '', '', '', '']",《講授類》,[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE510&Crsname=演算法設計與分析,,,False,資工碩,CSE510,1,不分班,"演算法設計與分析
+ALGORITHM DESIGN AND ANALYSIS",3,期,True,80,8,69,11,楊昌彪,"二2,3,4(工EC 5012)","['', '234', '', '', '', '', '']",《講授類》,"['巨量資料分析學程', '金融科技學程']",False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE515&Crsname=高等電腦網路,,,False,資工碩,CSE515,1,不分班,"高等電腦網路
+ADVANCED COMPUTER NETWORKS",3,期,True,60,6,52,8,林俊宏,"三2,3,4(工EC 5012)","['', '', '234', '', '', '', '']",《講授類》,['永續能源學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE520&Crsname=高等作業系統,,,False,資工碩,CSE520,1,不分班,"高等作業系統
+ADVANCED OPERATING SYSTEMS",3,期,True,60,11,71,-11,王友群,"四8,6,7(工EC 9032)","['', '', '', '678', '', '', '']",《講授類》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE522&Crsname=進階資料探勘,,,False,資工碩,CSE522,0,不分班,"進階資料探勘
+ADVANCED DATA MINING",3,期,False,50,7,9,41,洪宗貝,"四2,3,4(工EC 1005)","['', '', '', '234', '', '', '']",《講授類》,['人工智慧工業應用學分學程'],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530&Crsname=專題研究（一）,,,False,資工碩,CSE530,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,2,4,46,邱勝敏,"一2,3,4(工EC 5000)","['234', '', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530A&Crsname=專題研究（一）,,,False,資工碩,CSE530A,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,1,5,45,吳建澄,"二5,6,7(工EC 5000)","['', '567', '', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530B&Crsname=專題研究（一）,,,False,資工碩,CSE530B,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,4,46,陳嘉平,"三5,6,7(工EC 5000)","['', '', '567', '', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530C&Crsname=專題研究（一）,,,False,資工碩,CSE530C,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,5,1,49,王友群,"四2,3,4(工EC 5007)","['', '', '', '234', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530D&Crsname=專題研究（一）,,,False,資工碩,CSE530D,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,1,4,46,鄺獻榮,"四8,6,7(工EC 5007)","['', '', '', '678', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530E&Crsname=專題研究（一）,,,False,資工碩,CSE530E,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,1,3,47,楊惠芳,"四8,6,7(工EC 5000)","['', '', '', '678', '', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530F&Crsname=專題研究（一）,,,False,資工碩,CSE530F,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,4,0,50,柯拉飛,"五2,3,4(工EC 1014B)","['', '', '', '', '234', '', '']","《獨立研究》
+限本系碩/博士生修習",[],True
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530G&Crsname=專題研究（一）,,,False,資工碩,CSE530G,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,1,49,李淑敏,"五8,9,7(工EC 1014B)","['', '', '', '', '789', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530H&Crsname=專題研究（一）,,,False,資工碩,CSE530H,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,0,5,45,洪宗貝,"五8,9,7(工EC 5000)","['', '', '', '', '789', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE530I&Crsname=專題研究（一）,異動,確認教師8/3異動上課時間及教室8/28,False,資工碩,CSE530I,0,不分班,"專題研究（一）
+INDEPENDENT STUDIES(I)",3,期,False,50,1,0,50,葉陽明,"一2,3,4(工EC 1006)","['234', '', '', '', '', '', '']",《獨立研究》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE531&Crsname=書報討論（一）,,,False,資工碩,CSE531,1,不分班,"書報討論（一）
+SEMINAR I",1,期,True,120,2,113,7,陳嘉平,五6(工EC 2011),"['', '', '', '', '6', '', '']","《演講/參訪》
+限本系大四生及碩/博士生修習",[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE533&Crsname=書報討論（三）,,,False,資工碩,CSE533,2,不分班,"書報討論（三）
+SEMINAR III",1,期,True,120,0,91,29,陳嘉平,五6(工EC 2011),"['', '', '', '', '6', '', '']",《演講/參訪》,[],False
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE536&Crsname=巨量資料分析與機器學習專題,,,False,資工碩,CSE536,0,不分班,"巨量資料分析與機器學習專題
+INDEPENDENT STUDIES IN BIG DATA ANALYSIS AND MACHINE LEARNINGING",3,期,False,50,1,2,48,林俊宏,"五2,3,4(工EC 5000)","['', '', '', '', '234', '', '']","《獨立研究》
+限本系碩/博士生修習",[],False
