@@ -1,0 +1,345 @@
+Item root[2484]['classTime'][1] added to iterable.
+Item root[2480]['classTime'][5] added to iterable.
+Item root[2486]['classTime'][1] added to iterable.
+Item root[2421] added to iterable.
+Item root[2492]['classTime'][2] added to iterable.
+Item root[2423] added to iterable.
+Item root[2424] added to iterable.
+Item root[2497]['classTime'][1] added to iterable.
+Item root[2426] added to iterable.
+Item root[2427] added to iterable.
+Item root[2428] added to iterable.
+Item root[2485]['classTime'][5] added to iterable.
+Item root[2479]['classTime'][5] added to iterable.
+Item root[2479]['tags'][0] added to iterable.
+Item root[2432] added to iterable.
+Item root[2433] added to iterable.
+Item root[2481]['classTime'][5] added to iterable.
+Item root[2436] added to iterable.
+Item root[2482]['classTime'][5] added to iterable.
+Item root[2659] added to iterable.
+Item root[2660] added to iterable.
+Item root[2661] added to iterable.
+Item root[2662] added to iterable.
+Item root[2489]['classTime'][2] added to iterable.
+Item root[2665] added to iterable.
+Item root[2666] added to iterable.
+Item root[2667] added to iterable.
+Item root[2668] added to iterable.
+Item root[2494]['classTime'][0] added to iterable.
+Item root[2671] added to iterable.
+Item root[2672] added to iterable.
+Item root[2484]['classTime'][0] removed from iterable.
+Item root[2480]['classTime'][2] removed from iterable.
+Item root[2486]['classTime'][4] removed from iterable.
+Item root[2492]['classTime'][3] removed from iterable.
+Item root[2497]['classTime'][1] removed from iterable.
+Item root[2485]['classTime'][2] removed from iterable.
+Item root[2479]['classTime'][0] removed from iterable.
+Item root[2481]['classTime'][2] removed from iterable.
+Item root[2482]['classTime'][4] removed from iterable.
+Item root[2489]['classTime'][2] removed from iterable.
+Item root[2494]['classTime'][0] removed from iterable.
+Item root[2494]['tags'][0] removed from iterable.
+Item root[2487] removed from iterable.
+Item root[2490] removed from iterable.
+Item root[2491] removed from iterable.
+Item root[2495] removed from iterable.
+Item root[2498] removed from iterable.
+Repetition change for item root[2657].
+Type of root[1040]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1040]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[1045]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1045]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[1949]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1949]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[1955]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1955]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[1964]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1964]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[1965]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1965]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[1966]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1966]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[2530]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2530]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[2531]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2531]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[2533]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2533]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[2537]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2537]['changeDescription'] changed from NoneType to str and value changed from None to "修正教師資訊9/1".
+Type of root[2538]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2538]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[2539]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[2539]['changeDescription'] changed from NoneType to str and value changed from None to "確認教師9/1".
+Type of root[2493]['class'] changed from str to NoneType and value changed from "不分班" to None.
+Type of root[2489]['class'] changed from str to NoneType and value changed from "不分班" to None.
+Type of root[2494]['class'] changed from str to NoneType and value changed from "不分班" to None.
+Type of root[2488]['class'] changed from str to NoneType and value changed from "不分班" to None.
+Value of root[10]['selected'] changed from 10 to 9.
+Value of root[10]['remaining'] changed from 40 to 41.
+Value of root[84]['selected'] changed from 25 to 27.
+Value of root[84]['remaining'] changed from 0 to -2.
+Value of root[1020]['selected'] changed from 50 to 49.
+Value of root[1020]['remaining'] changed from 0 to 1.
+Value of root[1021]['selected'] changed from 39 to 38.
+Value of root[1021]['remaining'] changed from 11 to 12.
+Value of root[1028]['selected'] changed from 43 to 42.
+Value of root[1028]['remaining'] changed from 7 to 8.
+Value of root[1030]['selected'] changed from 43 to 42.
+Value of root[1030]['remaining'] changed from 7 to 8.
+Value of root[1040]['teacher'] changed from "劉商隱,廖志中,廖睿妘,張桂祥,張鈞涵,李景欽,李澤民,李益銘,林梅芳,林秀瑾,水晶,王亮鈞,翁靖如,鄭源斌" to "劉商隱,廖睿妘,張桂祥,張鈞涵,李景欽,李益銘,水晶".
+Value of root[1045]['teacher'] changed from "劉商隱,廖志中,廖睿妘,張桂祥,張鈞涵,李景欽,李澤民,李益銘,林梅芳,林秀瑾,水晶,王亮鈞,翁靖如,鄭源斌" to "劉商隱,廖志中,廖睿妘,張桂祥,張鈞涵,李景欽,李澤民,李益銘,林梅芳,林秀瑾,溫志宏,王亮鈞,翁靖如,鄭源斌".
+Value of root[1080]['description'] changed from "《講授類》" to "《講授類》
+亦適合海科系大一學生修習。".
+Value of root[1085]['description'] changed from "《講授類》" to "《講授類》
+亦適合海科系大一學生修習。".
+Value of root[1277]['selected'] changed from 38 to 37.
+Value of root[1277]['remaining'] changed from 12 to 13.
+Value of root[1280]['selected'] changed from 7 to 6.
+Value of root[1280]['remaining'] changed from 43 to 44.
+Value of root[1284]['selected'] changed from 38 to 37.
+Value of root[1284]['remaining'] changed from 12 to 13.
+Value of root[1285]['selected'] changed from 38 to 37.
+Value of root[1285]['remaining'] changed from 12 to 13.
+Value of root[1315]['selected'] changed from 16 to 14.
+Value of root[1315]['remaining'] changed from 34 to 36.
+Value of root[1473]['selected'] changed from 43 to 42.
+Value of root[1473]['remaining'] changed from 7 to 8.
+Value of root[1572]['selected'] changed from 113 to 109.
+Value of root[1572]['remaining'] changed from 37 to 41.
+Value of root[1575]['selected'] changed from 50 to 49.
+Value of root[1575]['remaining'] changed from 0 to 1.
+Value of root[1576]['selected'] changed from 100 to 99.
+Value of root[1576]['remaining'] changed from 0 to 1.
+Value of root[1578]['selected'] changed from 50 to 49.
+Value of root[1578]['remaining'] changed from 0 to 1.
+Value of root[1584]['selected'] changed from 50 to 49.
+Value of root[1584]['remaining'] changed from 0 to 1.
+Value of root[1806]['selected'] changed from 49 to 48.
+Value of root[1806]['remaining'] changed from 1 to 2.
+Value of root[1850]['selected'] changed from 13 to 12.
+Value of root[1850]['remaining'] changed from 37 to 38.
+Value of root[1949]['teacher'] changed from "廖睿妘,張鈞涵,李景欽,李澤民,王亮鈞" to "李景欽,李澤民,王亮鈞".
+Value of root[1955]['teacher'] changed from "廖志中,李益銘,翁靖如,鄭源斌" to "李益銘,鄭源斌".
+Value of root[1964]['teacher'] changed from "廖睿妘,張鈞涵,李景欽,李澤民,王亮鈞" to "廖睿妘,李澤民,王亮鈞".
+Value of root[1965]['teacher'] changed from "劉商隱,張桂祥,林梅芳,林秀瑾,水晶" to "劉商隱,張桂祥,林梅芳,林秀瑾".
+Value of root[1966]['teacher'] changed from "廖志中,李益銘,翁靖如,鄭源斌" to "李益銘,鄭源斌".
+Value of root[2241]['selected'] changed from 32 to 30.
+Value of root[2241]['remaining'] changed from 0 to 2.
+Value of root[2246]['selected'] changed from 45 to 44.
+Value of root[2246]['remaining'] changed from 0 to 1.
+Value of root[2247]['selected'] changed from 45 to 43.
+Value of root[2247]['remaining'] changed from 0 to 2.
+Value of root[2248]['selected'] changed from 5 to 4.
+Value of root[2248]['remaining'] changed from 0 to 1.
+Value of root[2249]['selected'] changed from 32 to 30.
+Value of root[2249]['remaining'] changed from 0 to 2.
+Value of root[2265]['selected'] changed from 38 to 34.
+Value of root[2265]['remaining'] changed from 12 to 16.
+Value of root[2266]['selected'] changed from 9 to 8.
+Value of root[2266]['remaining'] changed from 0 to 1.
+Value of root[2268]['selected'] changed from 32 to 28.
+Value of root[2268]['remaining'] changed from 8 to 12.
+Value of root[2272]['selected'] changed from 9 to 8.
+Value of root[2272]['remaining'] changed from 0 to 1.
+Value of root[2273]['selected'] changed from 9 to 7.
+Value of root[2273]['remaining'] changed from 0 to 2.
+Value of root[2275]['selected'] changed from 5 to 4.
+Value of root[2275]['remaining'] changed from 0 to 1.
+Value of root[2276]['selected'] changed from 25 to 23.
+Value of root[2276]['remaining'] changed from 5 to 7.
+Value of root[2277]['selected'] changed from 19 to 18.
+Value of root[2277]['remaining'] changed from 4 to 5.
+Value of root[2279]['selected'] changed from 14 to 13.
+Value of root[2279]['remaining'] changed from 9 to 10.
+Value of root[2280]['selected'] changed from 19 to 18.
+Value of root[2280]['remaining'] changed from 4 to 5.
+Value of root[2351]['selected'] changed from 21 to 20.
+Value of root[2351]['remaining'] changed from 29 to 30.
+Value of root[2484]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE714&Crsname=數位簽章機制與應用" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ECON902&Crsname=總體經濟".
+Value of root[2484]['department'] changed from "資工資安博" to "經濟碩專".
+Value of root[2484]['id'] changed from "CSE714" to "ECON902".
+Value of root[2484]['name'] changed from "數位簽章機制與應用
+DIGITAL SIGNATURE SCHEMES AND APPLICATIONS" to "總體經濟
+MACROECONOMICS".
+Value of root[2484]['selected'] changed from 0 to 8.
+Value of root[2484]['remaining'] changed from 50 to 42.
+Value of root[2484]['teacher'] changed from "克拉迪" to "鄭宜玲".
+Value of root[2484]['room'] changed from "一8,6,7(工EC 5012)" to "二C,D,E(社SS 2003-2)".
+Value of root[2484]['english'] changed from True to False.
+Value of root[2480]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES702&Crsname=書報討論" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ECON906&Crsname=碩士論文".
+Value of root[2480]['department'] changed from "材光博" to "經濟碩專".
+Value of root[2480]['id'] changed from "MOES702" to "ECON906".
+Value of root[2480]['grade'] changed from "1" to "2".
+Value of root[2480]['name'] changed from "書報討論
+SEMINAR" to "碩士論文
+MASTER THESIS".
+Value of root[2480]['credit'] changed from "1" to "3".
+Value of root[2480]['selected'] changed from 9 to 11.
+Value of root[2480]['remaining'] changed from 41 to 39.
+Value of root[2480]['teacher'] changed from "李廣輝" to "指導教授".
+Value of root[2480]['room'] changed from "三6,7(工EN 2028)" to "六C,D,E(社SS 3002-1)".
+Value of root[2486]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE717&Crsname=書報討論（一）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ECON913&Crsname=商用統計".
+Value of root[2486]['department'] changed from "資工資安博" to "經濟碩專".
+Value of root[2486]['id'] changed from "CSE717" to "ECON913".
+Value of root[2486]['name'] changed from "書報討論（一）
+SEMINAR I" to "商用統計
+STATISTICS FOR BUSINESS".
+Value of root[2486]['credit'] changed from "1" to "3".
+Value of root[2486]['compulsory'] changed from True to False.
+Value of root[2486]['selected'] changed from 3 to 5.
+Value of root[2486]['remaining'] changed from 47 to 45.
+Value of root[2486]['teacher'] changed from "陳嘉平" to "陳孟瑋".
+Value of root[2486]['room'] changed from "五6(工EC 2011)" to "二C,D,E(社SS 3002-1)".
+Value of root[2486]['description'] changed from "《演講/參訪》" to "《講授類》".
+Value of root[2492]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM729&Crsname=調查研究（一）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ECON931&Crsname=財務理論與實務".
+Value of root[2492]['department'] changed from "企管博" to "經濟碩專".
+Value of root[2492]['id'] changed from "BM729" to "ECON931".
+Value of root[2492]['grade'] changed from "0" to "1".
+Value of root[2492]['name'] changed from "調查研究（一）
+SURVEY RESEARCH(I)" to "財務理論與實務
+FINANCIAL THEORY AND PRACTICE".
+Value of root[2492]['teacher'] changed from "葉淑娟" to "李國榮".
+Value of root[2492]['room'] changed from "四8,6,7(管CM 2021)" to "三D,E,F(社SS 3002-1)".
+Value of root[2492]['description'] changed from "《講授類》
+企業管理組;" to "《講授類》".
+Value of root[2497]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM781&Crsname=高等管理理論" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CAPS909&Crsname=社會科學研究方法".
+Value of root[2497]['department'] changed from "企管博" to "亞太碩專".
+Value of root[2497]['id'] changed from "BM781" to "CAPS909".
+Value of root[2497]['name'] changed from "高等管理理論
+ADVANCED MANAGEMENT THEORY" to "社會科學研究方法
+RESEARCH METHODS IN SOCIAL SCIENCE".
+Value of root[2497]['selected'] changed from 7 to 15.
+Value of root[2497]['remaining'] changed from 43 to 35.
+Value of root[2497]['teacher'] changed from "黃明新" to "郭育仁".
+Value of root[2497]['room'] changed from "二8,6,7(管CM 2036)" to "二C,D,E(社SS 2011)".
+Value of root[2497]['description'] changed from "《講授類》
+經營管理組;
+限DBA" to "《講授類》".
+Value of root[2485]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE715&Crsname=計算機結構" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC901&Crsname=社會學".
+Value of root[2485]['changeDescription'] changed from "異動教室8/31" to "更換主授教師8/19".
+Value of root[2485]['department'] changed from "資工資安博" to "社會原碩專".
+Value of root[2485]['id'] changed from "CSE715" to "SOC901".
+Value of root[2485]['name'] changed from "計算機結構
+COMPUTER ARCHITECTURES" to "社會學
+SOCIOLOGY".
+Value of root[2485]['selected'] changed from 3 to 8.
+Value of root[2485]['remaining'] changed from 47 to 42.
+Value of root[2485]['teacher'] changed from "李淑敏" to "李宛儒,萬毓澤,邱花妹".
+Value of root[2485]['room'] changed from "三5,6,7(EC 2002)" to "六8,9,7(社SS 3004-2)".
+Value of root[2485]['english'] changed from True to False.
+Value of root[2479]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EO7139&Crsname=書報討論（一）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC903&Crsname=當代原住民族議題（一）".
+Value of root[2479]['department'] changed from "光電博" to "社會原碩專".
+Value of root[2479]['id'] changed from "EO7139" to "SOC903".
+Value of root[2479]['name'] changed from "書報討論（一）
+SEMINAR(I)" to "當代原住民族議題（一）
+CONTEMPORARY ISSUES OF INDIGENOUS PEOPLES（I）".
+Value of root[2479]['credit'] changed from "1" to "3".
+Value of root[2479]['teacher'] changed from "洪裕涵" to "李馨慈,王宏仁".
+Value of root[2479]['room'] changed from "一8,6,7(工EN 2028)" to "六B,5,6(社SS 3004-2)".
+Value of root[2483]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE712&Crsname=密碼學" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=SOC905&Crsname=環境、科技與社會".
+Value of root[2483]['department'] changed from "資工資安博" to "社會原碩專".
+Value of root[2483]['id'] changed from "CSE712" to "SOC905".
+Value of root[2483]['name'] changed from "密碼學
+CRYPTOGRAPHY" to "環境、科技與社會
+ENVIRONMENT, SCIENCE, TECHNOLOGY AND SOCIETY".
+Value of root[2483]['compulsory'] changed from True to False.
+Value of root[2483]['selected'] changed from 3 to 15.
+Value of root[2483]['remaining'] changed from 47 to 35.
+Value of root[2483]['teacher'] changed from "克拉迪" to "李馨慈".
+Value of root[2483]['room'] changed from "四2,3,4(工EC 9031)" to "六2,3,4(社SS 3004-2)".
+Value of root[2483]['english'] changed from True to False.
+Value of root[2496]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM759&Crsname=學術論文寫作" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE971&Crsname=比較教育研究".
+Value of root[2496]['department'] changed from "企管博" to "教育碩專".
+Value of root[2496]['id'] changed from "BM759" to "IOE971".
+Value of root[2496]['name'] changed from "學術論文寫作
+ACADEMIC ESSAY WRITING" to "比較教育研究
+STUDIES IN COMPARATIVE EDUCATION".
+Value of root[2496]['restrict'] changed from 50 to 30.
+Value of root[2496]['remaining'] changed from 44 to 24.
+Value of root[2496]['teacher'] changed from "林杏娥" to "陳修平".
+Value of root[2496]['room'] changed from "五2,3,4(管CM 2036)" to "六2,3,4(社SS 2005)".
+Value of root[2496]['description'] changed from "《講授類》
+經營管理組;
+限DBA" to "《講授類》".
+Value of root[2481]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES702A&Crsname=書報討論" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=IOE975&Crsname=碩士論文".
+Value of root[2481]['department'] changed from "材光博" to "教育碩專".
+Value of root[2481]['id'] changed from "MOES702A" to "IOE975".
+Value of root[2481]['name'] changed from "書報討論
+SEMINAR" to "碩士論文
+MASTER THESIS".
+Value of root[2481]['selected'] changed from 10 to 14.
+Value of root[2481]['remaining'] changed from 40 to 36.
+Value of root[2481]['teacher'] changed from "李廣輝" to "指導教授".
+Value of root[2481]['room'] changed from "三6,7(工EN 2028)" to "六C()".
+Value of root[2481]['description'] changed from "《研討類》" to "《獨立研究》".
+Value of root[2482]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE711&Crsname=駭客攻防與電腦鑑識技術" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=EMPP913&Crsname=研究方法".
+Value of root[2482]['department'] changed from "資工資安博" to "EMPP碩專".
+Value of root[2482]['id'] changed from "CSE711" to "EMPP913".
+Value of root[2482]['name'] changed from "駭客攻防與電腦鑑識技術
+HACK TECHNOLOGY AND COMPUTER FORENSIC" to "研究方法
+RESEARCH METHODOLOGY".
+Value of root[2482]['selected'] changed from 1 to 6.
+Value of root[2482]['remaining'] changed from 49 to 44.
+Value of root[2482]['teacher'] changed from "王智弘" to "邱文彬".
+Value of root[2482]['room'] changed from "五2,3,4(圖IL PC03)" to "".
+Value of root[2530]['teacher'] changed from "劉商隱,張桂祥,林梅芳,林秀瑾,水晶" to "劉商隱,林梅芳,水晶".
+Value of root[2531]['teacher'] changed from "廖志中,李益銘,翁靖如,鄭源斌" to "廖志中".
+Value of root[2533]['teacher'] changed from "廖睿妘,張鈞涵,李景欽,李澤民,王亮鈞" to "李景欽".
+Value of root[2537]['teacher'] changed from "劉商隱,張桂祥,林梅芳,林秀瑾,水晶" to "待聘".
+Value of root[2538]['teacher'] changed from "廖志中,李益銘,翁靖如,鄭源斌" to "廖志中,鄭源斌".
+Value of root[2539]['teacher'] changed from "廖睿妘,張鈞涵,李景欽,李澤民,王亮鈞" to "李景欽".
+Value of root[2493]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM732&Crsname=高等個體經濟分析(一)" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS514&Crsname=生產與作業管理".
+Value of root[2493]['department'] changed from "企管博" to "資管碩".
+Value of root[2493]['id'] changed from "BM732" to "MIS514".
+Value of root[2493]['name'] changed from "高等個體經濟分析(一)
+SPECIAL TOPICS IN ADVANCED ECONOMICS" to "生產與作業管理
+PRODUCTION/OPERATION MANAGEMENT".
+Value of root[2493]['selected'] changed from 9 to 7.
+Value of root[2493]['remaining'] changed from 41 to 43.
+Value of root[2493]['teacher'] changed from "吳基逞" to "劉賓陽".
+Value of root[2493]['room'] changed from "五2,3,4(管CM 3035)" to "三2,3,4(管CM 2016)".
+Value of root[2493]['description'] changed from "《講授類》
+企業管理組;" to "《講授類》".
+Value of root[2489]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM710&Crsname=高等創業管理研究" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS559&Crsname=系統模擬與分析".
+Value of root[2489]['change'] changed from "新增" to "異動".
+Value of root[2489]['changeDescription'] changed from "7/7" to "更換教室7/15".
+Value of root[2489]['department'] changed from "企管博" to "資管碩".
+Value of root[2489]['id'] changed from "BM710" to "MIS559".
+Value of root[2489]['name'] changed from "高等創業管理研究
+RESEARCH IN ADVANCED ENTREPRENEURIAL MANAGEMENT" to "系統模擬與分析
+SYSTEM SIMULATION AND ANALYSIS".
+Value of root[2489]['selected'] changed from 11 to 16.
+Value of root[2489]['remaining'] changed from 39 to 34.
+Value of root[2489]['teacher'] changed from "王致遠" to "劉賓陽".
+Value of root[2489]['room'] changed from "三5,6,7(管CM 1032)" to "三D,E,F(管CM 3038)".
+Value of root[2489]['description'] changed from "《講授類》
+企業管理組;" to "《講授類》".
+Value of root[2494]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM736&Crsname=消費者行為" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS590&Crsname=資訊檢索".
+Value of root[2494]['department'] changed from "企管博" to "資管碩".
+Value of root[2494]['id'] changed from "BM736" to "MIS590".
+Value of root[2494]['name'] changed from "消費者行為
+CONSUMER BEHAVIOR" to "資訊檢索
+INTRODUCTION TO INFORMATION RETRIEVAL".
+Value of root[2494]['selected'] changed from 6 to 50.
+Value of root[2494]['remaining'] changed from 44 to 0.
+Value of root[2494]['teacher'] changed from "張純端" to "羅珮綺".
+Value of root[2494]['room'] changed from "一2,3,4(管CM 3035)" to "一8,6,7(管CM 4078)".
+Value of root[2494]['description'] changed from "《講授類》
+企業管理組;" to "《講授類》".
+Value of root[2488]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM705&Crsname=個體經濟分析" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=FM601&Crsname=國際財管理論與實務".
+Value of root[2488]['department'] changed from "企管博" to "財管碩".
+Value of root[2488]['id'] changed from "BM705" to "FM601".
+Value of root[2488]['name'] changed from "個體經濟分析
+MICROECONOMIC ANALYSIS" to "國際財管理論與實務
+INTERNATIONAL FINANCIAL MANAGEMENT".
+Value of root[2488]['compulsory'] changed from True to False.
+Value of root[2488]['select'] changed from 0 to 3.
+Value of root[2488]['selected'] changed from 7 to 21.
+Value of root[2488]['remaining'] changed from 43 to 29.
+Value of root[2488]['teacher'] changed from "佘健源" to "蔡秉真".
+Value of root[2488]['room'] changed from "四2,3,4(管CM 2025)" to "二2,3,4(管CM 4078)".
+Value of root[2488]['description'] changed from "《講授類》
+企業管理組;" to "《講授類》".
