@@ -1,0 +1,245 @@
+Item root[2498] added to iterable.
+Item root[2532]['classTime'][4] added to iterable.
+Item root[2443]['classTime'][0] added to iterable.
+Item root[2538]['classTime'][2] added to iterable.
+Item root[2530]['classTime'][4] added to iterable.
+Item root[2507] added to iterable.
+Item root[2508] added to iterable.
+Item root[2510] added to iterable.
+Item root[2537]['classTime'][3] added to iterable.
+Item root[2521]['classTime'][4] added to iterable.
+Item root[2513] added to iterable.
+Item root[2531]['classTime'][2] added to iterable.
+Item root[2533]['classTime'][1] added to iterable.
+Item root[2532]['classTime'][3] removed from iterable.
+Item root[2443]['classTime'][3] removed from iterable.
+Item root[2538]['classTime'][4] removed from iterable.
+Item root[2530]['classTime'][3] removed from iterable.
+Item root[2537]['classTime'][4] removed from iterable.
+Item root[2521]['classTime'][2] removed from iterable.
+Item root[2531]['classTime'][3] removed from iterable.
+Item root[2533]['classTime'][3] removed from iterable.
+Item root[2526] removed from iterable.
+Item root[2528] removed from iterable.
+Item root[2529] removed from iterable.
+Item root[2535] removed from iterable.
+Item root[2536] removed from iterable.
+Item root[2539] removed from iterable.
+Type of root[178]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[178]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/2".
+Type of root[179]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[179]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/2".
+Type of root[458]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[458]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師9/2".
+Type of root[2530]['change'] changed from str to NoneType and value changed from "異動" to None.
+Type of root[2530]['changeDescription'] changed from str to NoneType and value changed from "確認教師9/1" to None.
+Type of root[2537]['change'] changed from str to NoneType and value changed from "異動" to None.
+Type of root[2537]['changeDescription'] changed from str to NoneType and value changed from "修正教師資訊9/1" to None.
+Type of root[2523]['change'] changed from str to NoneType and value changed from "異動" to None.
+Type of root[2523]['changeDescription'] changed from str to NoneType and value changed from "修改限修條件8/25" to None.
+Type of root[2533]['change'] changed from str to NoneType and value changed from "異動" to None.
+Value of root[178]['room'] changed from "一5,6(醫IL 3013)" to "一5,6(醫IL 3017)".
+Value of root[179]['room'] changed from "二3,4(醫IL 3004)" to "二3,4(工EC 2003)".
+Value of root[294]['selected'] changed from 10 to 11.
+Value of root[294]['remaining'] changed from 0 to -1.
+Value of root[370]['changeDescription'] changed from "增加合授教師8/13" to "更換教室9/2".
+Value of root[370]['room'] changed from "一5,6(醫IL 3017)" to "一5,6(醫IL 3013)".
+Value of root[458]['teacher'] changed from "洪敏秀" to "盧家達".
+Value of root[550]['selected'] changed from 14 to 15.
+Value of root[550]['remaining'] changed from 36 to 35.
+Value of root[1286]['changeDescription'] changed from "增加合授教師8/13調降修課人數8/27" to "更換教室9/2".
+Value of root[1286]['room'] changed from "一5,6(醫IL 3017)" to "一5,6(醫IL 3013)".
+Value of root[1331]['change'] changed from "新增" to "異動".
+Value of root[1331]['changeDescription'] changed from "7/2" to "更換教室9/2".
+Value of root[1331]['room'] changed from "五2,3,4(文LA 3017)" to "五2,3,4(文LA 3004)".
+Value of root[2527]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR701&Crsname=海洋生物科技專題研討（五）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES702&Crsname=書報討論".
+Value of root[2527]['multipleCompulsory'] changed from True to False.
+Value of root[2527]['department'] changed from "海資博" to "材光博".
+Value of root[2527]['id'] changed from "MBR701" to "MOES702".
+Value of root[2527]['name'] changed from "海洋生物科技專題研討（五）
+SEMINAR IN MARINE BIOTECHNOLOGY (V)" to "書報討論
+SEMINAR".
+Value of root[2527]['credit'] changed from "2" to "1".
+Value of root[2527]['selected'] changed from 6 to 9.
+Value of root[2527]['remaining'] changed from 44 to 41.
+Value of root[2527]['teacher'] changed from "李澤民" to "李廣輝".
+Value of root[2527]['room'] changed from "一6,7(海MB 2020)" to "三6,7(工EN 2028)".
+Value of root[2527]['description'] changed from "《研討類》
+碩博士班併班上課。" to "《研討類》".
+Value of root[2534]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR801&Crsname=海洋生物科技專題研討（七）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES702A&Crsname=書報討論".
+Value of root[2534]['multipleCompulsory'] changed from True to False.
+Value of root[2534]['department'] changed from "海資博" to "材光博".
+Value of root[2534]['id'] changed from "MBR801" to "MOES702A".
+Value of root[2534]['name'] changed from "海洋生物科技專題研討（七）
+SEMINAR IN MARINE BIOTECHNOLOGY (VII)" to "書報討論
+SEMINAR".
+Value of root[2534]['credit'] changed from "2" to "1".
+Value of root[2534]['selected'] changed from 4 to 10.
+Value of root[2534]['remaining'] changed from 46 to 40.
+Value of root[2534]['teacher'] changed from "李澤民" to "李廣輝".
+Value of root[2534]['room'] changed from "一6,7(海MB 2020)" to "三6,7(工EN 2028)".
+Value of root[2534]['description'] changed from "《研討類》
+碩博士班併班上課。" to "《研討類》".
+Value of root[2532]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR734&Crsname=海洋資源與生物科技專題" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE711&Crsname=駭客攻防與電腦鑑識技術".
+Value of root[2532]['department'] changed from "海資博" to "資工資安博".
+Value of root[2532]['id'] changed from "MBR734" to "CSE711".
+Value of root[2532]['grade'] changed from "1" to "2".
+Value of root[2532]['name'] changed from "海洋資源與生物科技專題
+SPECIAL TOPICS ON MARINE RESOURCES AND BIOTECHNOLOGY" to "駭客攻防與電腦鑑識技術
+HACK TECHNOLOGY AND COMPUTER FORENSIC".
+Value of root[2532]['compulsory'] changed from False to True.
+Value of root[2532]['teacher'] changed from "廖志中,廖睿妘,林梅芳,林秀瑾,王敬湧" to "王智弘".
+Value of root[2532]['room'] changed from "四5,6,7(海MB 3013)" to "五2,3,4(圖IL PC03)".
+Value of root[2532]['english'] changed from True to False.
+Value of root[2525]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=HCM705&Crsname=高等醫療經濟" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE712&Crsname=密碼學".
+Value of root[2525]['department'] changed from "企醫管博" to "資工資安博".
+Value of root[2525]['id'] changed from "HCM705" to "CSE712".
+Value of root[2525]['name'] changed from "高等醫療經濟
+ADVANCED HEALTH ECONOMICS" to "密碼學
+CRYPTOGRAPHY".
+Value of root[2525]['teacher'] changed from "黃俊智" to "克拉迪".
+Value of root[2525]['room'] changed from "四2,3,4(管CM 2021)" to "四2,3,4(工EC 9031)".
+Value of root[2525]['english'] changed from False to True.
+Value of root[2443]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL713&Crsname=敘事學" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE714&Crsname=數位簽章機制與應用".
+Value of root[2443]['department'] changed from "外文博" to "資工資安博".
+Value of root[2443]['id'] changed from "DFLL713" to "CSE714".
+Value of root[2443]['grade'] changed from "0" to "2".
+Value of root[2443]['name'] changed from "敘事學
+NARRATOLOGY" to "數位簽章機制與應用
+DIGITAL SIGNATURE SCHEMES AND APPLICATIONS".
+Value of root[2443]['compulsory'] changed from False to True.
+Value of root[2443]['teacher'] changed from "盧家達" to "克拉迪".
+Value of root[2443]['room'] changed from "四5,6,7(文LA 3018)" to "一8,6,7(工EC 5012)".
+Value of root[2538]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR821&Crsname=海洋化學生物學專題研究（七）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE715&Crsname=計算機結構".
+Value of root[2538]['changeDescription'] changed from "確認教師9/1" to "異動教室8/31".
+Value of root[2538]['department'] changed from "海資博" to "資工資安博".
+Value of root[2538]['id'] changed from "MBR821" to "CSE715".
+Value of root[2538]['grade'] changed from "2" to "1".
+Value of root[2538]['name'] changed from "海洋化學生物學專題研究（七）
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (VII)" to "計算機結構
+COMPUTER ARCHITECTURES".
+Value of root[2538]['credit'] changed from "2" to "3".
+Value of root[2538]['compulsory'] changed from False to True.
+Value of root[2538]['teacher'] changed from "廖志中,鄭源斌" to "李淑敏".
+Value of root[2538]['room'] changed from "五8,9()" to "三5,6,7(EC 2002)".
+Value of root[2538]['description'] changed from "《獨立研究》" to "《講授類》".
+Value of root[2538]['english'] changed from False to True.
+Value of root[2530]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR716&Crsname=水生生態專題研究（五）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE717&Crsname=書報討論（一）".
+Value of root[2530]['department'] changed from "海資博" to "資工資安博".
+Value of root[2530]['id'] changed from "MBR716" to "CSE717".
+Value of root[2530]['name'] changed from "水生生態專題研究（五）
+INDEPENDENT STUDIES IN AQUATIC ECOLOGY (５)" to "書報討論（一）
+SEMINAR I".
+Value of root[2530]['credit'] changed from "2" to "1".
+Value of root[2530]['compulsory'] changed from False to True.
+Value of root[2530]['teacher'] changed from "劉商隱,林梅芳,水晶" to "陳嘉平".
+Value of root[2530]['room'] changed from "四A,1()" to "五6(工EC 2011)".
+Value of root[2530]['description'] changed from "《獨立研究》" to "《演講/參訪》".
+Value of root[2522]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=HRM747&Crsname=創新管理" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE722&Crsname=資訊安全理論與實務".
+Value of root[2522]['department'] changed from "人管博" to "資工資安博".
+Value of root[2522]['id'] changed from "HRM747" to "CSE722".
+Value of root[2522]['name'] changed from "創新管理
+INNOVATION MANAGEMENT" to "資訊安全理論與實務
+INFORMATION SECURITY THEORY AND PRACTICE".
+Value of root[2522]['compulsory'] changed from False to True.
+Value of root[2522]['restrict'] changed from 30 to 50.
+Value of root[2522]['selected'] changed from 4 to 0.
+Value of root[2522]['remaining'] changed from 26 to 50.
+Value of root[2522]['teacher'] changed from "陳旻男" to "徐瑞壕".
+Value of root[2522]['room'] changed from "三2,3,4(管CM 1036)" to "三2,3,4(工EC 9031)".
+Value of root[2522]['english'] changed from True to False.
+Value of root[2524]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=HCM702&Crsname=高等統計分析（一）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM711&Crsname=高等數量方法（一）".
+Value of root[2524]['department'] changed from "企醫管博" to "企管博".
+Value of root[2524]['id'] changed from "HCM702" to "BM711".
+Value of root[2524]['name'] changed from "高等統計分析（一）
+ADVANCED STATISTICAL ANALYSIS (I)" to "高等數量方法（一）
+ADVANCED QUANTITATIVE METHODS(I)".
+Value of root[2524]['selected'] changed from 3 to 4.
+Value of root[2524]['remaining'] changed from 47 to 46.
+Value of root[2524]['description'] changed from "《講授類》
+併班企管博高等數量方法（一）" to "《講授類》
+企業管理組;
+併班醫管博高等統計分析(一)".
+Value of root[2537]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR813&Crsname=水生生態專題研究（七）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM729&Crsname=調查研究（一）".
+Value of root[2537]['department'] changed from "海資博" to "企管博".
+Value of root[2537]['id'] changed from "MBR813" to "BM729".
+Value of root[2537]['grade'] changed from "2" to "0".
+Value of root[2537]['name'] changed from "水生生態專題研究（七）
+INDEPENDENT STUDIES IN AQUATIC ECOLOGY (７)" to "調查研究（一）
+SURVEY RESEARCH(I)".
+Value of root[2537]['credit'] changed from "2" to "3".
+Value of root[2537]['selected'] changed from 0 to 5.
+Value of root[2537]['remaining'] changed from 50 to 45.
+Value of root[2537]['teacher'] changed from "待聘" to "葉淑娟".
+Value of root[2537]['room'] changed from "五8,9()" to "四8,6,7(管CM 2021)".
+Value of root[2537]['description'] changed from "《獨立研究》" to "《講授類》
+企業管理組;".
+Value of root[2521]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=HRM705&Crsname=專案研究" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM732&Crsname=高等個體經濟分析(一)".
+Value of root[2521]['department'] changed from "人管博" to "企管博".
+Value of root[2521]['id'] changed from "HRM705" to "BM732".
+Value of root[2521]['grade'] changed from "2" to "0".
+Value of root[2521]['name'] changed from "專案研究
+INDEPENDENT STUDIES" to "高等個體經濟分析(一)
+SPECIAL TOPICS IN ADVANCED ECONOMICS".
+Value of root[2521]['selected'] changed from 2 to 9.
+Value of root[2521]['remaining'] changed from 48 to 41.
+Value of root[2521]['teacher'] changed from "何佳澔,葉致微,鄭怡玲" to "吳基逞".
+Value of root[2521]['room'] changed from "三A,1,B(管CM 3044)" to "五2,3,4(管CM 3035)".
+Value of root[2521]['description'] changed from "《講授類》
+限人管所修" to "《講授類》
+企業管理組;".
+Value of root[2531]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR726&Crsname=海洋化學生物學專題研究（五）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM754&Crsname=新興市場跨國企業之國際化理論".
+Value of root[2531]['change'] changed from "異動" to "新增".
+Value of root[2531]['changeDescription'] changed from "確認教師9/1" to "8/12".
+Value of root[2531]['department'] changed from "海資博" to "企管博".
+Value of root[2531]['id'] changed from "MBR726" to "BM754".
+Value of root[2531]['grade'] changed from "1" to "0".
+Value of root[2531]['name'] changed from "海洋化學生物學專題研究（五）
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (V)" to "新興市場跨國企業之國際化理論
+INTERNATIONALIZATION THEORIES OF MNES FROM EMERGING MARKETS".
+Value of root[2531]['credit'] changed from "2" to "3".
+Value of root[2531]['teacher'] changed from "廖志中" to "蔡宗霖".
+Value of root[2531]['room'] changed from "四A,1()" to "三2,3,4(管CM 1030)".
+Value of root[2531]['description'] changed from "《獨立研究》" to "《講授類》
+企業管理組;".
+Value of root[2523]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=HRM759&Crsname=職場壓力與健康研討" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM759&Crsname=學術論文寫作".
+Value of root[2523]['department'] changed from "人管博" to "企管博".
+Value of root[2523]['id'] changed from "HRM759" to "BM759".
+Value of root[2523]['name'] changed from "職場壓力與健康研討
+SEMINAR IN WORKPLACE STRESS AND HEALTH" to "學術論文寫作
+ACADEMIC ESSAY WRITING".
+Value of root[2523]['teacher'] changed from "謝慧賢" to "林杏娥".
+Value of root[2523]['room'] changed from "二2,3,4(管CM 3044)" to "五2,3,4(管CM 2036)".
+Value of root[2523]['description'] changed from "《研討類》
+限人管所修" to "《講授類》
+經營管理組;
+限DBA".
+Value of root[2520]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=HRM703&Crsname=高等研究方法（一）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM781&Crsname=高等管理理論".
+Value of root[2520]['department'] changed from "人管博" to "企管博".
+Value of root[2520]['id'] changed from "HRM703" to "BM781".
+Value of root[2520]['name'] changed from "高等研究方法（一）
+ADVANCED RESEARCH METHODS (I)" to "高等管理理論
+ADVANCED MANAGEMENT THEORY".
+Value of root[2520]['restrict'] changed from 30 to 50.
+Value of root[2520]['selected'] changed from 0 to 7.
+Value of root[2520]['remaining'] changed from 30 to 43.
+Value of root[2520]['teacher'] changed from "謝慧賢" to "黃明新".
+Value of root[2520]['room'] changed from "一8,6,7(管CM 1036)" to "二8,6,7(管CM 2036)".
+Value of root[2520]['description'] changed from "《講授類》
+限人管所修" to "《講授類》
+經營管理組;
+限DBA".
+Value of root[2533]['url'] changed from "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR737&Crsname=海洋生物科技專題研究（五）" to "https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM782&Crsname=量化研究".
+Value of root[2533]['changeDescription'] changed from "確認教師9/1" to "限DBA".
+Value of root[2533]['department'] changed from "海資博" to "企管博".
+Value of root[2533]['id'] changed from "MBR737" to "BM782".
+Value of root[2533]['name'] changed from "海洋生物科技專題研究（五）
+INDEPENDENT STUDIES IN MARINE BIOTECHNOLOGY(V)" to "量化研究
+QUANTITATIVE STUDY".
+Value of root[2533]['credit'] changed from "2" to "3".
+Value of root[2533]['compulsory'] changed from False to True.
+Value of root[2533]['teacher'] changed from "李景欽" to "吳基逞".
+Value of root[2533]['room'] changed from "四A,1()" to "二2,3,4(管CM 2036)".
+Value of root[2533]['description'] changed from "《獨立研究》" to "《講授類》
+經營管理組;
+限DBA".
