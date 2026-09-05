@@ -30,11 +30,11 @@ C PROGRAMMING LABORATORY",1,期,True,60,10,60,0,柯正雯,"四5,6,7(圖IL PC02,P
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE201&Crsname=AI輔助程式設計,,,False,資工系,CSE201,2,不分班,"AI輔助程式設計
 PROGRAMMING WITH AI-ASSISTANCE TOOLS",3,期,False,50,28,50,0,希家史提夫,"五8,6,7(工EC 5008)","['', '', '', '', '678', '', '']",《講授類》,['無人載具學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE210&Crsname=線性代數,,,False,資工系,CSE210,2,不分班,"線性代數
-LINEAR ALGEBRA",3,期,True,75,0,65,10,柯拉飛,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']",《講授類》,"['金融工程學程', '機器學習與多媒體技術學程', '機器學習與應用微學程']",True
+LINEAR ALGEBRA",3,期,True,75,0,64,11,柯拉飛,"三5,6,7(工EC 1009)","['', '', '567', '', '', '', '']",《講授類》,"['金融工程學程', '機器學習與多媒體技術學程', '機器學習與應用微學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE220&Crsname=數位系統,,,False,資工系,CSE220,2,不分班,"數位系統
-DIGITAL SYSTEM",3,期,True,60,1,60,0,鄺獻榮,"二2,3,4(工EC 1006)","['', '234', '', '', '', '', '']",《講授類》,"['機器學習與多媒體技術學程', '數位IC設計學程']",False
+DIGITAL SYSTEM",3,期,True,60,1,59,1,鄺獻榮,"二2,3,4(工EC 1006)","['', '234', '', '', '', '', '']",《講授類》,"['機器學習與多媒體技術學程', '數位IC設計學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE221&Crsname=數位系統實驗,,,False,資工系,CSE221,2,不分班,"數位系統實驗
-DIGITAL SYSTEM LABORATORY",1,期,True,60,0,55,5,鄺獻榮,"一2,3,4(工EC 5008)(實驗)","['234', '', '', '', '', '', '']","《實驗類》
+DIGITAL SYSTEM LABORATORY",1,期,True,60,0,54,6,鄺獻榮,"一2,3,4(工EC 5008)(實驗)","['234', '', '', '', '', '', '']","《實驗類》
 『本課程之限修，於加退選2階段開放選修』。限本系學生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE270&Crsname=作業系統,,,False,資工系,CSE270,3,不分班,"作業系統
 OPERATING SYSTEMS",3,期,True,60,9,60,0,林俊宏,"二2,3,4(工EC 1005)","['', '234', '', '', '', '', '']",《講授類》,"['軟體工程學程', '自然科學之程式應用學程']",False
