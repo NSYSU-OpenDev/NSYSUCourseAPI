@@ -1,0 +1,50 @@
+Item root[919] added to iterable.
+Item root[920] added to iterable.
+Item root[921] added to iterable.
+Item root[922] added to iterable.
+Item root[923] added to iterable.
+Item root[924] added to iterable.
+Item root[925] added to iterable.
+Item root[926] added to iterable.
+Item root[927] added to iterable.
+Item root[928] added to iterable.
+Item root[929] added to iterable.
+Item root[930] added to iterable.
+Item root[931] added to iterable.
+Item root[932] added to iterable.
+Item root[933] added to iterable.
+Item root[934] added to iterable.
+Item root[935] added to iterable.
+Item root[936] added to iterable.
+Item root[937] added to iterable.
+Item root[938] added to iterable.
+Item root[2266]['classTime'][0] removed from iterable.
+Item root[2267]['classTime'][3] removed from iterable.
+Item root[2268]['classTime'][3] removed from iterable.
+Item root[2269]['classTime'][1] removed from iterable.
+Item root[2270]['classTime'][1] removed from iterable.
+Item root[2271]['classTime'][3] removed from iterable.
+Item root[2272]['classTime'][4] removed from iterable.
+Item root[2273]['classTime'][2] removed from iterable.
+Item root[2274]['classTime'][0] removed from iterable.
+Item root[2275]['classTime'][3] removed from iterable.
+Repetition change for item root[2266]['classTime'][1].
+Repetition change for item root[2267]['classTime'][0].
+Repetition change for item root[2268]['classTime'][0].
+Repetition change for item root[2269]['classTime'][0].
+Repetition change for item root[2270]['classTime'][0].
+Repetition change for item root[2271]['classTime'][0].
+Repetition change for item root[2272]['classTime'][0].
+Repetition change for item root[2273]['classTime'][0].
+Repetition change for item root[2274]['classTime'][1].
+Repetition change for item root[2275]['classTime'][0].
+Value of root[2266]['room'] changed from "一8,6,7(工EC 3006)" to "".
+Value of root[2267]['room'] changed from "四8,6,7(工EC 1006)" to "".
+Value of root[2268]['room'] changed from "四2,3,4(國IR 6002J)" to "".
+Value of root[2269]['room'] changed from "二8,6,7(國IR 6002K)" to "".
+Value of root[2270]['room'] changed from "二2,3,4(工EC 4039)" to "".
+Value of root[2271]['room'] changed from "四8,6,7(國IR 6002J)" to "".
+Value of root[2272]['room'] changed from "五2,3,4(國IR 6002J)" to "".
+Value of root[2273]['room'] changed from "三2,3,4(國IR 6002J)" to "".
+Value of root[2274]['room'] changed from "一2,3,4(國IR 6002J)" to "".
+Value of root[2275]['room'] changed from "四5,6,7(國IR 6002K)" to "".
