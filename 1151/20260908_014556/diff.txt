@@ -1,0 +1,23 @@
+Type of root[8]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[8]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/8".
+Type of root[286]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[286]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/8".
+Type of root[744]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[744]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/8".
+Type of root[1532]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1532]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/8".
+Type of root[1542]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1542]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/8".
+Type of root[1664]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1664]['changeDescription'] changed from NoneType to str and value changed from None to "更換教室9/8".
+Type of root[1906]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1906]['changeDescription'] changed from NoneType to str and value changed from None to "更換授課方式9/8".
+Type of root[1989]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1989]['changeDescription'] changed from NoneType to str and value changed from None to "更換合授教師9/8".
+Type of root[1997]['change'] changed from NoneType to str and value changed from None to "異動".
+Type of root[1997]['changeDescription'] changed from NoneType to str and value changed from None to "更換教師9/8".
+Value of root[748]['changeDescription'] changed from "確認教師8/6" to "更換教室9/8".
+Value of root[1558]['changeDescription'] changed from "確認教師8/6" to "更換教室9/8".
+Value of root[1840]['changeDescription'] changed from "更換部份時間8/20" to "更換教室9/8".
+Value of root[2496]['change'] changed from "新增" to "異動".
+Value of root[2496]['changeDescription'] changed from "8/19" to "更換教室9/8".
