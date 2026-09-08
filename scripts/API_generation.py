@@ -108,17 +108,21 @@ async def main():
     # produces byte-identical data every run, so the DeepDiff check below
     # would otherwise return before ever reporting it.
     actual_total = len(data)
-    integrity = build_integrity_report(
-        academic_year, actual_total, crawl_report, datetime.now(timezone.utc)
-    )
-    INTEGRITY_REPORT_PATH.write_text(
-        json_minify_dump(integrity.to_dict(), minify=False), encoding="utf-8"
-    )
-    if not integrity.complete:
-        print(
-            f"WARNING: incomplete data — expected {integrity.expected_total}, "
-            f"got {actual_total}, lost pages {integrity.lost_pages}"
+    integrity = None
+    try:
+        integrity = build_integrity_report(
+            academic_year, actual_total, crawl_report, datetime.now(timezone.utc)
         )
+        INTEGRITY_REPORT_PATH.write_text(
+            json_minify_dump(integrity.to_dict(), minify=False), encoding="utf-8"
+        )
+        if not integrity.complete:
+            print(
+                f"WARNING: incomplete data — expected {integrity.expected_total}, "
+                f"got {actual_total}, lost pages {integrity.lost_pages}"
+            )
+    except Exception as e:  # noqa: BLE001 - reporting must never block publishing
+        print(f"Integrity reporting failed (publishing continues): {e}")
 
     if not data:
         return
@@ -190,22 +194,26 @@ async def main():
     # Generate info file for the current academic year version.
     # page_size keeps its meaning (number of page_N.json files) — it is not
     # the upstream page count. New fields are additive; consumers that only
-    # read page_size and updated are unaffected.
-    info_content = json_minify_dump(
-        {
-            "page_size": i + 1,
-            "updated": timestamp,
-            "expected_total": integrity.expected_total,
-            "actual_total": integrity.actual_total,
-            "complete": integrity.complete,
-        }
-    )
+    # read page_size and updated are unaffected. integrity may be None when
+    # reporting failed above — publishing must continue regardless, so the
+    # additive fields are simply omitted in that case.
+    info_data = {"page_size": i + 1, "updated": timestamp}
+    if integrity is not None:
+        info_data.update(
+            {
+                "expected_total": integrity.expected_total,
+                "actual_total": integrity.actual_total,
+                "complete": integrity.complete,
+            }
+        )
+    info_content = json_minify_dump(info_data)
     (new_academic_year_dir / "info.json").write_text(info_content, encoding="utf-8")
 
     # Full anomaly detail alongside the summary
-    (new_academic_year_dir / "integrity.json").write_text(
-        json_minify_dump(integrity.to_dict()), encoding="utf-8"
-    )
+    if integrity is not None:
+        (new_academic_year_dir / "integrity.json").write_text(
+            json_minify_dump(integrity.to_dict()), encoding="utf-8"
+        )
 
     # Generate info file for the current academic year version
     (new_academic_year_dir / "diff.txt").write_text(diff.pretty(), encoding="utf-8")
