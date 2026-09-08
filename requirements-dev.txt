@@ -1,0 +1,5 @@
+# Test-time dependencies only. Deliberately NOT `-r requirements.txt`:
+# that pulls torch (~200MB), which only the live crawler needs.
+pytest
+beautifulsoup4
+requests
