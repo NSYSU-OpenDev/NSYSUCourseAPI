@@ -202,7 +202,10 @@ async def get_academic_year(
             print("Validation Code:", code)
 
             for number in invalid:
-                pages_by_number[number] = await fetch(s, code, academic_year, number)
+                try:
+                    pages_by_number[number] = await fetch(s, code, academic_year, number)
+                except Exception as e:  # noqa: BLE001 - a failed re-fetch must not abort the crawl
+                    print(f"Could not re-fetch page {number}: {e}")
 
             invalid = select_invalid_pages(pages_by_number)
 
