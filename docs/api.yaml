@@ -280,11 +280,18 @@ components:
         - updated
       properties:
         page_size:
-          type: number
-          description: Number of courses per page
-          example: 100
+          type: integer
+          description: Max index of page-{index}
         updated:
           type: string
-          format: date-time
           description: Last updated timestamp
-          example: "2024-03-05T14:30:00Z"
+        expected_total:
+          type: integer
+          nullable: true
+          description: 上游宣告的課程總數，無法判定時為 null
+        actual_total:
+          type: integer
+          description: 實際發布的課程筆數
+        complete:
+          type: boolean
+          description: 本次資料是否完整；false 時同目錄的 integrity.json 有明細

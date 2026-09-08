@@ -36,6 +36,7 @@ python main.py test
 │ │ ├ page-{index}.json
 │ │ ├ info.json
 │ │ ├ diff.txt
+│ │ ├ integrity.json
 │ │ └ path.json
 │ ├ version.json
 │ └ path.json
@@ -55,7 +56,7 @@ python main.py test
 | -------------------- | ----------- | ------------------------------- |
 | `id`                 | `string`    | 課號                            |
 | `url`                | `string`    | 科目詳細說明網址                |
-| `change`             | `?string`   | 更改類別 (異動/新增)            |
+| `change`             | `?string`   | 更改類別 (異動/新增/停開)       |
 | `changeDescription`  | `?string`   | 更改說明                        |
 | `multipleCompulsory` | `bool`      | 是否為多門必修                  |
 | `department`         | `string`    | 系所別                          |
@@ -212,6 +213,25 @@ python main.py test
   "updated": "20240405_204005"
 }
 ```
+
+### 📄 `integrity.json`
+
+本次爬取的完整性紀錄。`info.json` 的 `complete` 為 `false` 時，此檔說明缺了什麼。
+
+| FIELD            | TYPE       | DESCRIPTION                          |
+| ---------------- | ---------- | ------------------------------------ |
+| `academic_year`  | `string`   | 學年期                               |
+| `checked_at`     | `string`   | ISO 8601 檢查時間                    |
+| `expected_total` | `?int`     | 上游宣告總數                         |
+| `actual_total`   | `int`      | 實際發布筆數                         |
+| `missing`        | `int`      | 缺漏筆數                             |
+| `complete`       | `bool`     | 是否完整                             |
+| `total_pages`    | `int`      | 上游總頁數                           |
+| `rescan_rounds`  | `int`      | 重掃輪數                             |
+| `lost_pages`     | `int[]`    | 重試後仍無法取得的頁號（每頁 20 筆） |
+| `schema_drift`   | `object[]` | 未知欄位值（課程已保留）             |
+| `parse_failures` | `object[]` | 解析失敗（課程已遺失）               |
+| `signature`      | `string`   | 狀態指紋                             |
 
 ### 📄 `all.json` or `page-{index}.json`
 
