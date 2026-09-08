@@ -1,5 +1,6 @@
 import asyncio
 import csv
+from datetime import datetime, timezone
 import json
 import os
 from pathlib import Path
@@ -8,6 +9,7 @@ import shutil
 from deepdiff import DeepDiff
 
 from utils.get_academic_year import get_academic_year
+from utils.integrity import build_integrity_report
 from utils.struct import (
     AcademicYearPathVersionManager,
     RootPathVersionManager,
@@ -21,6 +23,10 @@ MAX_HISTORY_COUNT = 5
 # Root path for API data
 API_ROOT_PATH = Path("data")
 ROOT_VERSION_PATH = API_ROOT_PATH / "version.json"
+
+# Run artifact consumed by scripts/report_integrity.py. Deliberately outside
+# API_ROOT_PATH: the Deploy step runs `git add -A` inside data/.
+INTEGRITY_REPORT_PATH = Path("integrity-report.json")
 
 
 def trim_version(
@@ -91,10 +97,28 @@ async def main():
 
     try:
         # Get academic year data
-        data, academic_year = await get_academic_year(academic_year, max_page=max_page)
+        data, academic_year, crawl_report = await get_academic_year(
+            academic_year, max_page=max_page
+        )
     except ValueError as e:
         print(e)
         return
+
+    # Written before anything can return early. A persistent shortfall
+    # produces byte-identical data every run, so the DeepDiff check below
+    # would otherwise return before ever reporting it.
+    actual_total = len(data)
+    integrity = build_integrity_report(
+        academic_year, actual_total, crawl_report, datetime.now(timezone.utc)
+    )
+    INTEGRITY_REPORT_PATH.write_text(
+        json_minify_dump(integrity.to_dict(), minify=False), encoding="utf-8"
+    )
+    if not integrity.complete:
+        print(
+            f"WARNING: incomplete data — expected {integrity.expected_total}, "
+            f"got {actual_total}, lost pages {integrity.lost_pages}"
+        )
 
     if not data:
         return
@@ -163,9 +187,25 @@ async def main():
                 writer.writeheader()
                 writer.writerows(data)
 
-    # Generate info file for the current academic year version
-    info_content = json_minify_dump({"page_size": i + 1, "updated": timestamp})
+    # Generate info file for the current academic year version.
+    # page_size keeps its meaning (number of page_N.json files) — it is not
+    # the upstream page count. New fields are additive; consumers that only
+    # read page_size and updated are unaffected.
+    info_content = json_minify_dump(
+        {
+            "page_size": i + 1,
+            "updated": timestamp,
+            "expected_total": integrity.expected_total,
+            "actual_total": integrity.actual_total,
+            "complete": integrity.complete,
+        }
+    )
     (new_academic_year_dir / "info.json").write_text(info_content, encoding="utf-8")
+
+    # Full anomaly detail alongside the summary
+    (new_academic_year_dir / "integrity.json").write_text(
+        json_minify_dump(integrity.to_dict()), encoding="utf-8"
+    )
 
     # Generate info file for the current academic year version
     (new_academic_year_dir / "diff.txt").write_text(diff.pretty(), encoding="utf-8")
