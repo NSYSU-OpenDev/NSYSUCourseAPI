@@ -66,7 +66,7 @@ def compute_signature(
     payload = {
         "lost_pages": sorted(lost_pages),
         "missing": missing,
-        "drifts": sorted((d.field, d.value, d.course_id) for d in drifts),
+        "drifts": sorted((d.field, d.value, d.course_id, d.department) for d in drifts),
         "failures": sorted((f.page, f.reason) for f in failures),
     }
     canonical = json.dumps(payload, ensure_ascii=False, sort_keys=True, separators=(",", ":"))

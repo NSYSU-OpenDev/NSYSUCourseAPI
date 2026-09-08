@@ -1,8 +1,7 @@
-import pytest
-
 from scripts.report_integrity import (
     Action,
     ExistingIssue,
+    build_issue_title,
     decide_action,
     extract_signature,
     render_issue_body,
@@ -88,3 +87,91 @@ def test_body_lists_schema_drift():
     )
     assert "停開" in body
     assert "GEAI1854" in body
+
+
+def _drift(i):
+    return {"field": "change", "value": f"值{i}", "course_id": f"C{i}", "department": "系"}
+
+
+def test_title_names_the_shortfall_when_courses_are_missing():
+    title = build_issue_title(_report())
+    assert title == "[Data] 1151 資料不完整：缺少 60 筆課程"
+
+
+def test_title_does_not_claim_zero_missing_courses_for_drift_only():
+    """Drift alone sets complete=False with missing=0 — which is exactly what
+    the live run produced (126 drift entries, 0 missing). A fixed title would
+    read «資料不完整：缺少 0 筆課程», which looks like a bug in the alerter."""
+    title = build_issue_title(
+        _report(missing=0, actual_total=2810, schema_drift=[_drift(i) for i in range(126)])
+    )
+    assert title == "[Data] 1151 資料不完整：126 筆未知欄位值"
+    assert "缺少 0" not in title
+
+
+def test_title_names_parse_failures_alone():
+    title = build_issue_title(
+        _report(missing=0, parse_failures=[{"page": 13, "reason": "len = 4"}])
+    )
+    assert title == "[Data] 1151 資料不完整：1 筆解析失敗"
+
+
+def test_title_joins_every_non_empty_category():
+    title = build_issue_title(
+        _report(
+            schema_drift=[_drift(0), _drift(1)],
+            parse_failures=[{"page": 13, "reason": "len = 4"}],
+        )
+    )
+    assert title == "[Data] 1151 資料不完整：缺少 60 筆課程、2 筆未知欄位值、1 筆解析失敗"
+
+
+def test_title_has_no_dangling_colon_when_nothing_is_countable():
+    # Lost pages while the declared total is unknown: incomplete, but with no
+    # count of its own. The body carries the detail.
+    title = build_issue_title(_report(missing=0, expected_total=None))
+    assert title == "[Data] 1151 資料不完整"
+
+
+def test_drift_table_is_capped_and_reports_the_remainder():
+    body = render_issue_body(_report(schema_drift=[_drift(i) for i in range(60)]))
+    rows = [line for line in body.splitlines() if line.startswith("| `change`")]
+    assert len(rows) == 50
+    assert "…另有 10 筆，詳見 integrity.json" in body
+    assert "值0" in body
+    assert "值59" not in body
+
+
+def test_parse_failure_table_is_capped_and_reports_the_remainder():
+    failures = [{"page": i, "reason": f"reason {i}"} for i in range(75)]
+    body = render_issue_body(_report(parse_failures=failures))
+    rows = [line for line in body.splitlines() if line.startswith("| ") and "reason " in line]
+    assert len(rows) == 50
+    assert "…另有 25 筆，詳見 integrity.json" in body
+
+
+def test_a_short_table_gets_no_remainder_note():
+    body = render_issue_body(_report(schema_drift=[_drift(0)]))
+    assert "另有" not in body
+
+
+def test_a_catastrophic_drift_set_still_fits_githubs_body_limit():
+    """A schema change touching one field on every course used to render
+    ~2810 rows (~155KB); GitHub 422s over 65536 characters and the whole
+    alert was lost precisely when it mattered most."""
+    body = render_issue_body(_report(schema_drift=[_drift(i) for i in range(2810)]))
+    assert len(body) < 65536
+
+
+def test_pipes_in_a_value_are_escaped_so_the_table_survives():
+    # parse_failures.reason is str(AssertionError) and embeds raw upstream
+    # values, so an unescaped pipe would break the table apart.
+    body = render_issue_body(
+        _report(parse_failures=[{"page": 13, "reason": "len(x) = 4 | got a|b"}])
+    )
+    assert r"| 13 | `len(x) = 4 \| got a\|b` |" in body
+
+
+def test_newlines_in_a_value_are_flattened_into_the_row():
+    body = render_issue_body(_report(parse_failures=[{"page": 7, "reason": "one\ntwo"}]))
+    assert "| 7 | `one two` |" in body

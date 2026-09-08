@@ -25,11 +25,30 @@ def test_module_still_compiles():
 def test_report_is_written_before_the_deepdiff_early_return():
     """A persistent shortfall produces identical data every run, so DeepDiff
     finds no change and main() returns early. Writing the report after that
-    point would mean the worst case never reports."""
+    point would mean the worst case never reports.
+
+    Every write must precede the early return, not just the first one: main()
+    also writes an abort ledger from the `except ValueError` handler, and
+    matching that one alone would let the main write drift past the return."""
     body = _main_body()
-    write_at = body.index("INTEGRITY_REPORT_PATH.write_text")
+    writes = [m.start() for m in re.finditer(r"INTEGRITY_REPORT_PATH\.write_text", body)]
+    assert writes, "main() must write the integrity ledger"
     early_return_at = body.index("if academic_year_version_file.is_file() and not diff:")
-    assert write_at < early_return_at
+    assert max(writes) < early_return_at
+
+
+def test_a_crawl_that_produced_nothing_still_writes_a_ledger():
+    """get_academic_year raises ValueError when it cannot determine the
+    academic year or the page count. Returning without a ledger means
+    report_integrity.py finds no file and also exits 0 — a green checkmark
+    over a silently frozen API."""
+    body = _main_body()
+    handler_at = body.index("except ValueError as e:")
+    handler = body[handler_at : body.index("\n    # Written before", handler_at)]
+    assert "INTEGRITY_REPORT_PATH.write_text" in handler
+    assert "build_integrity_report" in handler
+    # The ledger write must not itself be able to fail the run.
+    assert "except Exception" in handler
 
 
 def test_actual_total_is_captured_before_the_csv_loop_rebinds_data():

@@ -4,7 +4,6 @@ import time
 from typing import Callable, Optional
 
 from bs4 import BeautifulSoup
-from tqdm import tqdm
 from tqdm.asyncio import tqdm as tqdm_async
 import aiohttp
 
@@ -25,6 +24,41 @@ DEFAULT_HEADERS = {
 MAX_CONCURRENT_REQUESTS = 2  # Limit concurrent connections
 MAX_RETRIES = 5  # Maximum retry attempts
 MAX_RESCAN_ROUNDS = 3  # Rounds of re-fetching pages the server rejected
+
+
+async def _read_page(resp: aiohttp.ClientResponse, index: int) -> str:
+    """Decode one course listing response as UTF-8.
+
+    Upstream sends `Content-Type: text/html` with no charset parameter, so
+    aiohttp falls back to charset auto-detection. It has been observed
+    guessing `ptcp154` (Kazakh Cyrillic) for some pages, mojibaking every
+    Chinese string on them and previously causing those rows to be silently
+    discarded. Force UTF-8, which is what the server actually sends.
+
+    `text(encoding=...)` decodes with `errors="strict"`, so a single stray
+    byte on any one of ~141 pages raises `UnicodeDecodeError`. That is not
+    in fetch()'s caught tuple, so it would propagate through
+    `tqdm_async.gather` and fail the entire run — one bad byte would stop
+    publishing for everyone. Degrade to an empty page instead:
+    `is_valid_course_page("")` is False, so the page goes through the normal
+    rescan loop and, if it never decodes, lands in `lost_pages` with a loud
+    integrity alert while the rest of the catalogue still publishes.
+
+    Deliberately not `errors="replace"`: that would republish silently
+    corrupted Chinese without necessarily tripping a drift check.
+
+    Args:
+        resp (aiohttp.ClientResponse): The response to read
+        index (int): The page number, for the log line
+
+    Returns:
+        str: The decoded page, or "" if it could not be decoded
+    """
+    try:
+        return await resp.text(encoding="utf-8")
+    except UnicodeDecodeError as e:
+        print(f"Page {index}: not decodable as UTF-8, treating as missing: {e}")
+        return ""
 
 
 async def fetch(
@@ -77,13 +111,7 @@ async def fetch(
                             "ValidCode": code,
                         },
                     ) as resp:
-                        # Upstream sends `Content-Type: text/html` with no charset
-                        # parameter, so aiohttp falls back to charset auto-detection.
-                        # It has been observed guessing `ptcp154` (Kazakh Cyrillic)
-                        # for some pages, mojibaking every Chinese string on them and
-                        # previously causing those rows to be silently discarded.
-                        # Force UTF-8, which is what the server actually sends.
-                        result = await resp.text(encoding="utf-8")
+                        result = await _read_page(resp, index)
                         if callback is not None:
                             callback()
                         return result
@@ -111,7 +139,7 @@ async def fetch(
                         "ValidCode": code,
                     },
                 ) as resp:
-                    result = await resp.text(encoding="utf-8")
+                    result = await _read_page(resp, index)
                     if callback is not None:
                         callback()
                     return result
@@ -178,6 +206,14 @@ async def get_academic_year(
             if max_page is None:
                 raise ValueError("Could not determine the page count")
 
+        # `out` is still the page-1 response from the validation loop or the
+        # page-count probe above, so the start-of-crawl declared total costs
+        # no extra request. It is needed because `max_page` is fixed here:
+        # the crawl can only ever return roughly the start-of-crawl
+        # catalogue, so a course ADDED mid-crawl inflates an end-of-crawl
+        # total above what these pages can hold and fakes a shortfall.
+        expected_start = parse_expected_total(out) if is_valid_course_page(out) else None
+
         if max_page == 0:
             raise ValueError("Max page is 0")
 
@@ -220,23 +256,36 @@ async def get_academic_year(
             print(f"WARNING: {len(lost_pages)} page(s) unrecoverable: {lost_pages}")
 
         # Re-read the declared total with a fresh request now that the crawl
-        # has finished, so it reflects the catalogue at the END. Courses can
-        # be added while 141 pages are being fetched; comparing against a
-        # start-of-crawl number would raise a false shortfall.
-        expected_total = None
+        # has finished, so it also reflects the catalogue at the END. The
+        # catalogue can shrink while 141 pages are being fetched (a course
+        # withdrawn), and comparing only against the start-of-crawl number
+        # would then raise a false shortfall.
+        expected_end = None
         try:
             final = await fetch(s, code, academic_year, 1)
             if is_valid_course_page(final):
-                expected_total = parse_expected_total(final)
+                expected_end = parse_expected_total(final)
         except Exception as e:  # noqa: BLE001 - a missing total is not fatal
             print(f"Could not re-read the declared total: {e}")
 
-        if expected_total is None:
+        if expected_end is None:
             # Fall back to whatever a successfully fetched page declared.
             for number in sorted(pages_by_number):
                 if is_valid_course_page(pages_by_number[number]):
-                    expected_total = parse_expected_total(pages_by_number[number])
+                    expected_end = parse_expected_total(pages_by_number[number])
                     break
+
+        # Compare against the SMALLER of the two readings. The end reading
+        # alone alarms on additions (the common case here): the fixed page
+        # window cannot return a course added after `max_page` was decided,
+        # so `missing` would be positive with nothing actually lost. The
+        # start reading alone alarms on removals. The minimum reports a
+        # shortfall only when the catalogue genuinely shrank below what was
+        # published — and it keeps a spurious alert from churning the
+        # tracking issue (a false open, an auto-close destroying the dedup
+        # anchor, then a brand-new issue next time).
+        candidates = [t for t in (expected_start, expected_end) if t is not None]
+        expected_total = min(candidates) if candidates else None
 
     collector = ParseCollector()
     result = []

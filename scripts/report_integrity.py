@@ -19,6 +19,12 @@ LABEL = "data-integrity"
 SIGNATURE_PATTERN = re.compile(r"<!-- integrity-signature: ([0-9a-f]+) -->")
 API_ROOT = "https://api.github.com"
 
+# GitHub rejects an issue body over 65536 characters with a 422. A schema
+# change touching one field on every course would render ~2810 rows (~155KB),
+# so the whole alert would be lost exactly when something catastrophic
+# happened. The full detail is published as integrity.json alongside the data.
+MAX_TABLE_ROWS = 50
+
 
 class Action(Enum):
     NOOP = "noop"
@@ -57,6 +63,47 @@ def extract_signature(body: str) -> Optional[str]:
     return match.group(1) if match else None
 
 
+def build_issue_title(report: dict) -> str:
+    """Name the anomaly categories that are actually present.
+
+    Drift or parse failures alone set `complete = False` with `missing`
+    still 0, so a fixed "缺少 N 筆課程" title would read «缺少 0 筆課程» —
+    it looks like a bug in the alerter and invites dismissal of the very
+    signal that caught the incident.
+    """
+    parts = []
+    if report["missing"]:
+        parts.append(f"缺少 {report['missing']} 筆課程")
+    if report["schema_drift"]:
+        parts.append(f"{len(report['schema_drift'])} 筆未知欄位值")
+    if report["parse_failures"]:
+        parts.append(f"{len(report['parse_failures'])} 筆解析失敗")
+
+    prefix = f"[Data] {report['academic_year']} 資料不完整"
+    if not parts:
+        # Incomplete for a reason with no count of its own (lost pages while
+        # the declared total is unknown). The body carries the detail.
+        return prefix
+
+    return f"{prefix}：{'、'.join(parts)}"
+
+
+def _cell(value) -> str:
+    """Make an arbitrary upstream value safe inside a markdown table cell.
+
+    `parse_failures.reason` is `str(AssertionError)` and embeds raw upstream
+    values, so an unescaped `|` or a newline would break the table apart.
+    """
+    text = str(value).replace("\r\n", " ").replace("\r", " ").replace("\n", " ")
+    return text.replace("|", r"\|")
+
+
+def _overflow_note(rows: list) -> list[str]:
+    """The '…another N' line for a table truncated at MAX_TABLE_ROWS."""
+    hidden = len(rows) - MAX_TABLE_ROWS
+    return [f"…另有 {hidden} 筆，詳見 integrity.json"] if hidden > 0 else []
+
+
 def render_issue_body(report: dict) -> str:
     lines = [
         "## 資料完整性警報",
@@ -66,13 +113,13 @@ def render_issue_body(report: dict) -> str:
         "",
         "| 項目 | 數值 |",
         "| --- | --- |",
-        f"| 學年期 | `{report['academic_year']}` |",
-        f"| 檢查時間 | {report['checked_at']} |",
-        f"| 官方宣告總數 | {report['expected_total']} |",
-        f"| 實際發布筆數 | {report['actual_total']} |",
-        f"| 缺漏 | **{report['missing']}** |",
-        f"| 上游總頁數 | {report['total_pages']} |",
-        f"| 重掃輪數 | {report['rescan_rounds']} |",
+        f"| 學年期 | `{_cell(report['academic_year'])}` |",
+        f"| 檢查時間 | {_cell(report['checked_at'])} |",
+        f"| 官方宣告總數 | {_cell(report['expected_total'])} |",
+        f"| 實際發布筆數 | {_cell(report['actual_total'])} |",
+        f"| 缺漏 | **{_cell(report['missing'])}** |",
+        f"| 上游總頁數 | {_cell(report['total_pages'])} |",
+        f"| 重掃輪數 | {_cell(report['rescan_rounds'])} |",
         "",
     ]
 
@@ -89,17 +136,19 @@ def render_issue_body(report: dict) -> str:
 
     if report["schema_drift"]:
         lines += ["### 未知的欄位值（課程已保留）", "", "| 欄位 | 值 | 課號 | 系所 |", "| --- | --- | --- | --- |"]
-        for drift in report["schema_drift"]:
+        for drift in report["schema_drift"][:MAX_TABLE_ROWS]:
             lines.append(
-                f"| `{drift['field']}` | `{drift['value']}` | "
-                f"{drift['course_id']} | {drift['department']} |"
+                f"| `{_cell(drift['field'])}` | `{_cell(drift['value'])}` | "
+                f"{_cell(drift['course_id'])} | {_cell(drift['department'])} |"
             )
+        lines += _overflow_note(report["schema_drift"])
         lines.append("")
 
     if report["parse_failures"]:
         lines += ["### 解析失敗（課程已遺失）", "", "| 頁 | 原因 |", "| --- | --- |"]
-        for failure in report["parse_failures"]:
-            lines.append(f"| {failure['page']} | `{failure['reason']}` |")
+        for failure in report["parse_failures"][:MAX_TABLE_ROWS]:
+            lines.append(f"| {_cell(failure['page'])} | `{_cell(failure['reason'])}` |")
+        lines += _overflow_note(report["parse_failures"])
         lines.append("")
 
     lines += [
@@ -174,10 +223,7 @@ def main() -> None:
         return
 
     body = render_issue_body(report)
-    title = (
-        f"[Data] {report['academic_year']} 資料不完整："
-        f"缺少 {report['missing']} 筆課程"
-    )
+    title = build_issue_title(report)
 
     if action is Action.CREATE:
         _ensure_label(session, repo)
@@ -203,8 +249,12 @@ def main() -> None:
         session.patch(issue_url, json={"state": "closed"}, timeout=30).raise_for_status()
         return
 
-    session.patch(issue_url, json={"title": title, "body": body}, timeout=30).raise_for_status()
-
+    # Comment BEFORE the body PATCH. The PATCH persists the new signature, so
+    # a comment that failed after it would be lost for good: the next hourly
+    # run would compare equal signatures and decide UPDATE_BODY, and the
+    # "state changed" notification would never be sent. Commenting first
+    # leaves the old signature in place, so a failure here simply means the
+    # next run retries the whole notification.
     if action is Action.UPDATE_AND_COMMENT:
         session.post(
             f"{issue_url}/comments",
@@ -215,7 +265,9 @@ def main() -> None:
                 f"- 檢查時間：{report['checked_at']}",
             },
             timeout=30,
-        )
+        ).raise_for_status()
+
+    session.patch(issue_url, json={"title": title, "body": body}, timeout=30).raise_for_status()
 
 
 if __name__ == "__main__":

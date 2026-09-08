@@ -9,7 +9,7 @@ import shutil
 from deepdiff import DeepDiff
 
 from utils.get_academic_year import get_academic_year
-from utils.integrity import build_integrity_report
+from utils.integrity import CrawlReport, ParseCollector, build_integrity_report
 from utils.struct import (
     AcademicYearPathVersionManager,
     RootPathVersionManager,
@@ -102,6 +102,25 @@ async def main():
         )
     except ValueError as e:
         print(e)
+        # The crawl produced nothing at all (no academic year, no page
+        # count). Returning here publishes nothing, and without a ledger
+        # report_integrity.py finds no file and also exits 0 — a green
+        # checkmark over a silently frozen API. Write a minimal incomplete
+        # ledger so the tracking issue opens instead.
+        try:
+            collector = ParseCollector()
+            collector.add_failure(0, f"crawl aborted: {e}")
+            aborted = build_integrity_report(
+                academic_year or "unknown",
+                0,
+                CrawlReport(total_pages=0, expected_total=None, collector=collector),
+                datetime.now(timezone.utc),
+            )
+            INTEGRITY_REPORT_PATH.write_text(
+                json_minify_dump(aborted.to_dict(), minify=False), encoding="utf-8"
+            )
+        except Exception as report_error:  # noqa: BLE001 - reporting must never raise
+            print(f"Integrity reporting failed (publishing continues): {report_error}")
         return
 
     # Written before anything can return early. A persistent shortfall

@@ -68,3 +68,18 @@ def test_select_invalid_pages_result_is_sorted():
     bad = fixture_text("wrong_validation_code.html")
     good = fixture_text("valid_page.html")
     assert select_invalid_pages({3: bad, 1: bad, 2: good}) == [1, 3]
+
+
+def test_a_mojibaked_page_is_rejected():
+    """The pagination footer is pure ASCII and survives a charset misdecode
+    intact, so it alone would have let the original incident through: aiohttp
+    guessed `ptcp154`, every Chinese string on the page turned to garbage, and
+    the rows were published unreadable. Requiring the Chinese total footer too
+    turns that into a rescan and, failing that, a lost_pages alert."""
+    mojibake = "共 2810 筆".encode("utf-8").decode("ptcp154")
+    assert mojibake != "共 2810 筆", "the fixture must actually be mojibaked"
+    assert is_valid_course_page(f"Showing page 1 of 141 pages {mojibake}") is False
+
+
+def test_a_correctly_decoded_page_with_both_footers_is_valid():
+    assert is_valid_course_page("Showing page 1 of 141 pages 共 2810 筆") is True
