@@ -77,7 +77,13 @@ async def fetch(
                             "ValidCode": code,
                         },
                     ) as resp:
-                        result = await resp.text()
+                        # Upstream sends `Content-Type: text/html` with no charset
+                        # parameter, so aiohttp falls back to charset auto-detection.
+                        # It has been observed guessing `ptcp154` (Kazakh Cyrillic)
+                        # for some pages, mojibaking every Chinese string on them and
+                        # previously causing those rows to be silently discarded.
+                        # Force UTF-8, which is what the server actually sends.
+                        result = await resp.text(encoding="utf-8")
                         if callback is not None:
                             callback()
                         return result
@@ -105,7 +111,7 @@ async def fetch(
                         "ValidCode": code,
                     },
                 ) as resp:
-                    result = await resp.text()
+                    result = await resp.text(encoding="utf-8")
                     if callback is not None:
                         callback()
                     return result
@@ -145,7 +151,7 @@ async def get_academic_year(
         out = await s.get(f"{BASEURL}/qrycourse.asp?HIS=2")
 
         if academic_year is None:
-            out = await out.text()
+            out = await out.text(encoding="utf-8")
             soup = BeautifulSoup(out, "html.parser")
 
             if data := soup.select_one("#YRSM > option[value]:not([value=''])"):
