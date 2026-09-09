@@ -135,6 +135,84 @@ paths:
         '400':
           description: Invalid page index
 
+  /{academicYear}/{updateTime}/info.json:
+    get:
+      summary: Get snapshot metadata and its completeness summary
+      description: >-
+        Pagination metadata for this snapshot, plus a summary of whether the
+        crawl that produced it was complete. When `complete` is false,
+        integrity.json in the same directory explains exactly what is missing.
+      operationId: getInfo
+      tags:
+        - integrity
+      parameters:
+        - name: academicYear
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Academic year identifier
+          example: '1151'
+        - name: updateTime
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Update timestamp
+          example: '20260908_174635'
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Info'
+        '404':
+          description: Not found
+
+  /{academicYear}/{updateTime}/integrity.json:
+    get:
+      summary: Get the full integrity record for a snapshot
+      description: >-
+        Everything the crawler could not retrieve or fully understand while
+        producing this snapshot: pages still unavailable after retries, upstream
+        values outside the set this parser knows, and rows that could not be
+        parsed at all.
+
+
+        Course data is published even when a crawl is incomplete, because
+        withholding it would affect every consumer while a shortfall usually
+        affects few courses. Consumers that need certainty should check
+        `complete` here or in info.json rather than assuming every snapshot is
+        exhaustive.
+      operationId: getIntegrity
+      tags:
+        - integrity
+      parameters:
+        - name: academicYear
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Academic year identifier
+          example: '1151'
+        - name: updateTime
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Update timestamp
+          example: '20260908_174635'
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Integrity'
+        '404':
+          description: Not found
+
 components:
   schemas:
     NSYSUCourse:
@@ -284,14 +362,156 @@ components:
           description: Max index of page-{index}
         updated:
           type: string
-          description: Last updated timestamp
+          description: Update timestamp, formatted YYYYMMDD_HHMMSS (not ISO 8601)
+          example: '20260908_174635'
         expected_total:
           type: integer
           nullable: true
-          description: 上游宣告的課程總數，無法判定時為 null
+          description: Total the upstream server declared, or null if it could not be read
+          example: 2810
         actual_total:
           type: integer
-          description: 實際發布的課程筆數
+          description: Number of courses actually published in this snapshot
+          example: 2810
         complete:
           type: boolean
-          description: 本次資料是否完整；false 時同目錄的 integrity.json 有明細
+          description: >-
+            Whether this snapshot is complete. When false, integrity.json in the
+            same directory records what is missing.
+
+    Integrity:
+      type: object
+      description: >-
+        Completeness record for one published snapshot. Written on every crawl,
+        including crawls that publish no new data, so a shortfall that repeats
+        unchanged is still recorded.
+      required:
+        - academic_year
+        - checked_at
+        - actual_total
+        - missing
+        - complete
+        - total_pages
+        - rescan_rounds
+        - lost_pages
+        - schema_drift
+        - parse_failures
+        - signature
+      properties:
+        academic_year:
+          type: string
+          description: Academic year and term this crawl covered
+          example: '1151'
+        checked_at:
+          type: string
+          format: date-time
+          description: When the crawl was checked, ISO 8601
+          example: '2026-09-08T09:46:04Z'
+        expected_total:
+          type: integer
+          nullable: true
+          description: Total the upstream server declared, or null if it could not be read
+          example: 2810
+        actual_total:
+          type: integer
+          description: Number of courses actually published
+          example: 2810
+        missing:
+          type: integer
+          description: >-
+            Shortfall, computed as max(0, expected_total - actual_total). Courses
+            can be added while a crawl is in progress, so a count above the
+            declared total is normal and is reported as 0 rather than a negative.
+          example: 0
+        complete:
+          type: boolean
+          description: >-
+            False if anything was lost or not understood. Any non-empty
+            lost_pages, schema_drift or parse_failures makes this false.
+          example: true
+        total_pages:
+          type: integer
+          description: Number of pages the upstream server declared
+          example: 141
+        rescan_rounds:
+          type: integer
+          description: >-
+            How many times rejected pages were re-fetched with a fresh validation
+            code before giving up.
+          example: 0
+        lost_pages:
+          type: array
+          description: >-
+            Page numbers still unavailable after every rescan round. Each page
+            carries roughly 20 courses, so those courses are absent from all.json.
+          items:
+            type: integer
+          example: []
+        schema_drift:
+          type: array
+          description: >-
+            Upstream values outside the set this parser knows. The affected courses
+            are still published with the raw value; only its meaning is uncertain.
+          items:
+            $ref: '#/components/schemas/SchemaDrift'
+        parse_failures:
+          type: array
+          description: >-
+            Rows that could not be parsed into a course. These courses are absent
+            from all.json.
+          items:
+            $ref: '#/components/schemas/ParseFailure'
+        signature:
+          type: string
+          description: >-
+            SHA-256 fingerprint of the anomaly state, deliberately excluding
+            timestamps, so an unchanged problem keeps the same signature between
+            runs.
+          example: ddd86245fd564a5cb3634451d2d0ebc1236b4ef5ca13f2b340ac149070ea0dce
+
+    SchemaDrift:
+      type: object
+      description: >-
+        One field whose upstream value this parser does not recognise. The course
+        is kept and published regardless, because losing a course is worse than
+        carrying a value that cannot be interpreted.
+      required:
+        - field
+        - value
+        - course_id
+        - department
+      properties:
+        field:
+          type: string
+          description: Which course field held the unfamiliar value
+          example: change
+        value:
+          type: string
+          description: The raw value the upstream server returned
+          example: 停開
+        course_id:
+          type: string
+          description: Course identifier
+          example: GEAI1854
+        department:
+          type: string
+          description: Department the course belongs to
+          example: 跨院選修(文)
+
+    ParseFailure:
+      type: object
+      description: >-
+        A row that could not be parsed into a course at all, and is therefore
+        absent from all.json.
+      required:
+        - page
+        - reason
+      properties:
+        page:
+          type: integer
+          description: Upstream page the row came from
+          example: 13
+        reason:
+          type: string
+          description: Why parsing the row failed
+          example: len(original_data) = 4
