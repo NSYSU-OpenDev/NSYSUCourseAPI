@@ -259,6 +259,20 @@ class _BaseVersionManger:
 class RootPathVersionManager(_BaseVersionManger):
     """Version manager for root paths"""
 
+    def __init__(self, data=None) -> None:
+        self._relabelled = False
+        super().__init__(data)
+
+    @property
+    def relabelled(self) -> bool:
+        """Whether loading corrected at least one stored label.
+
+        The caller needs this to know it must write the file back: history is
+        otherwise only rewritten when a new academic year appears, so a
+        correction would sit in memory and be discarded.
+        """
+        return self._relabelled
+
     def _update_from_dict(self, data: dict) -> None:
         """
         Load version data, recomputing every label from its academic year code.
@@ -280,6 +294,8 @@ class RootPathVersionManager(_BaseVersionManger):
                 relabelled[code] = parse_academic_year_code(code)
             except ValueError:
                 relabelled[code] = stored
+
+        self._relabelled = relabelled != self._versions
         self._versions = relabelled
 
     def add_version(self, academic_year: str, *, new_version: bool = False) -> bool:

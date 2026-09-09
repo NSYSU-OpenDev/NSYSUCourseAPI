@@ -117,3 +117,25 @@ def test_the_fixture_still_covers_all_four_terms():
     """If upstream ever adds a term, the parametrised test above only proves the
     mapping matches what was captured. This pins the coverage itself."""
     assert {code[3] for code in UPSTREAM_OPTIONS} == {"0", "1", "2", "3"}
+
+
+def test_relabelled_flag_reports_whether_anything_was_corrected():
+    """The caller writes version.json back only when this is true, so a false
+    negative would leave the published labels wrong forever -- which is exactly
+    what happened on the first live run after the fix."""
+    corrected = RootPathVersionManager(
+        {"latest": "1151", "history": {"1151": "115暑碩"}}
+    )
+    assert corrected.relabelled is True
+
+    already_right = RootPathVersionManager(
+        {"latest": "1151", "history": {"1151": "115上"}}
+    )
+    assert already_right.relabelled is False
+
+
+def test_relabelled_is_false_for_an_unparseable_code_left_alone():
+    manager = RootPathVersionManager(
+        {"latest": "1151", "history": {"1151": "115上", "garbage": "whatever"}}
+    )
+    assert manager.relabelled is False
