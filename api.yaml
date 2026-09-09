@@ -46,7 +46,7 @@ paths:
           schema:
             type: string
           description: Academic year identifier
-          example: '1132'
+          example: '1151'
       responses:
         '200':
           description: Successful operation
@@ -78,7 +78,7 @@ paths:
           schema:
             type: string
           description: Update timestamp
-          example: '20250310_101301'
+          example: '20260908_174635'
       responses:
         '200':
           description: Successful operation
@@ -135,6 +135,84 @@ paths:
         '400':
           description: Invalid page index
 
+  /{academicYear}/{updateTime}/info.json:
+    get:
+      summary: Get snapshot metadata and its completeness summary
+      description: >-
+        Pagination metadata for this snapshot, plus a summary of whether the
+        crawl that produced it was complete. When `complete` is false,
+        integrity.json in the same directory explains exactly what is missing.
+      operationId: getInfo
+      tags:
+        - integrity
+      parameters:
+        - name: academicYear
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Academic year identifier
+          example: '1151'
+        - name: updateTime
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Update timestamp
+          example: '20260908_174635'
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Info'
+        '404':
+          description: Not found
+
+  /{academicYear}/{updateTime}/integrity.json:
+    get:
+      summary: Get the full integrity record for a snapshot
+      description: >-
+        Everything the crawler could not retrieve or fully understand while
+        producing this snapshot: pages still unavailable after retries, upstream
+        values outside the set this parser knows, and rows that could not be
+        parsed at all.
+
+
+        Course data is published even when a crawl is incomplete, because
+        withholding it would affect every consumer while a shortfall usually
+        affects few courses. Consumers that need certainty should check
+        `complete` here or in info.json rather than assuming every snapshot is
+        exhaustive.
+      operationId: getIntegrity
+      tags:
+        - integrity
+      parameters:
+        - name: academicYear
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Academic year identifier
+          example: '1151'
+        - name: updateTime
+          in: path
+          required: true
+          schema:
+            type: string
+          description: Update timestamp
+          example: '20260908_174635'
+      responses:
+        '200':
+          description: Successful operation
+          content:
+            application/json:
+              schema:
+                $ref: '#/components/schemas/Integrity'
+        '404':
+          description: Not found
+
 components:
   schemas:
     NSYSUCourse:
@@ -162,82 +240,120 @@ components:
       properties:
         id:
           type: string
-          description: Unique identifier for the course
-          example: "1122CSE220"
+          description: >-
+            Course code. Not unique on its own: the same code appears in more
+            than one department, and a course may be offered in several classes.
+            Combine with department and class to identify a course row.
+          example: CSE110
         url:
           type: string
-          description: URL to the course information
-          example: "https://selcrs.nsysu.edu.tw/menu1/qrycourse.asp?..."
+          description: Link to the upstream course outline
+          example: https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE110&Crsname=離散數學
         change:
           type: string
-          description: Change status of the course
-          example: "新增"
+          nullable: true
+          description: >-
+            Change status set by the university: 異動 (amended), 新增 (added) or
+            停開 (cancelled). Null when the course is unchanged.
+          example: 停開
         changeDescription:
           type: string
-          description: Detailed description of the change
+          nullable: true
+          description: Free-text note about the change, usually a date
+          example: 更換教室9/8
         multipleCompulsory:
           type: boolean
           description: Whether the course is compulsory for multiple departments
+          example: false
         department:
           type: string
-          description: Department offering the course
-          example: "資訊工程學系"
+          description: Department offering the course, in the university's abbreviated form
+          example: 資工系
         grade:
           type: string
-          description: Target grade for the course
-          example: "1"
+          description: Target grade. "0" means the course is not tied to a year.
+          example: '1'
         class:
           type: string
-          description: Class section identifier
+          nullable: true
+          description: >-
+            Class section, e.g. 不分班 (no division), 甲班/乙班, or 全英班 for the
+            English-taught section. Null when the course has no section.
+          example: 不分班
         name:
           type: string
-          description: Course name
-          example: "程式設計（二）"
+          description: >-
+            Chinese and English names, separated by a newline. Split on "\n" to
+            get them individually.
+          example: "離散數學\nDISCRETE MATHEMATICS"
         credit:
           type: string
-          description: Course credit value
-          example: "3.0"
+          description: Credit value, as a string
+          example: '3'
         yearSemester:
           type: string
-          description: Academic year and semester
-          example: "112/2"
+          description: >-
+            Course duration: 期 for a single semester, 年 for a full year. This is
+            not the academic year the course belongs to.
+          example: 期
         compulsory:
           type: boolean
-          description: Whether the course is compulsory
+          description: True if compulsory (必), false if elective (選)
+          example: true
         restrict:
-          type: number
-          description: Enrollment restriction number
+          type: integer
+          description: Enrollment cap
+          example: 90
         select:
-          type: number
-          description: Number of students able to select the course
+          type: integer
+          description: Number of students currently requesting the course
+          example: 3
         selected:
-          type: number
-          description: Number of students who have selected the course
+          type: integer
+          description: Number of students already enrolled
+          example: 80
         remaining:
-          type: number
-          description: Remaining available slots
+          type: integer
+          description: >-
+            Remaining places. Can be negative when the course is over-enrolled,
+            so do not assume a non-negative value.
+          example: 10
         teacher:
           type: string
-          description: Course instructor
+          description: Instructor names, comma-separated when a course is co-taught
+          example: 徐瑞壕
         room:
           type: string
-          description: Classroom location
+          description: Weekday, periods and room, as published upstream
+          example: 五2,3,4(工EC 9032)
         classTime:
           type: array
           items:
             type: string
-          description: Class meeting times
+          minItems: 7
+          maxItems: 7
+          description: >-
+            Seven entries, Monday through Sunday. Each holds the period codes for
+            that day, or an empty string when the course does not meet.
+          example: ['', '', '', '', '234', '', '']
         description:
           type: string
-          description: Course description
+          description: >-
+            Remarks from the university. The 《…》 prefix gives the course type.
+            The ※英語授課 marker is stripped out and surfaced as `english`.
+          example: 《講授類》
         tags:
           type: array
           items:
             type: string
-          description: Course tags for categorization
+          description: Programmes (學程) this course counts towards
+          example: ['軟體工程學程']
         english:
           type: boolean
-          description: Whether the course is taught in English
+          description: >-
+            Whether the course is taught in English, derived from the ※英語授課
+            marker in the upstream remarks.
+          example: false
 
     AcademicYear:
       type: object
@@ -247,14 +363,16 @@ components:
       properties:
         latest:
           type: string
-          description: Most recent academic year
-          example: "112"
+          description: Most recent academic year and term, matching its directory name
+          example: '1151'
         history:
           type: object
           additionalProperties:
             type: string
-          description: Historical academic years mapping
-          example: {"112": "112", "111": "111"}
+          description: >-
+            Academic year code to human-readable label. The code is the directory
+            name; the fourth digit is the term.
+          example: {'1151': '115上', '1143': '114暑期', '1142': '114下'}
 
     SemesterUpdate:
       type: object
@@ -264,14 +382,16 @@ components:
       properties:
         latest:
           type: string
-          description: Most recent update time
-          example: "20240305"
+          description: Most recent snapshot, matching its directory name
+          example: '20260908_174635'
         history:
           type: object
           additionalProperties:
             type: string
-          description: Historical update times mapping
-          example: {"20240305": "2024-03-05", "20240201": "2024-02-01"}
+          description: >-
+            Snapshot directory name to its ISO 8601 timestamp. At most five
+            snapshots are retained per academic year.
+          example: {'20260908_174635': '2026-09-08T17:46:35Z', '20260908_173509': '2026-09-08T17:35:09Z'}
 
     Info:
       type: object
@@ -284,14 +404,156 @@ components:
           description: Max index of page-{index}
         updated:
           type: string
-          description: Last updated timestamp
+          description: Update timestamp, formatted YYYYMMDD_HHMMSS (not ISO 8601)
+          example: '20260908_174635'
         expected_total:
           type: integer
           nullable: true
-          description: 上游宣告的課程總數，無法判定時為 null
+          description: Total the upstream server declared, or null if it could not be read
+          example: 2810
         actual_total:
           type: integer
-          description: 實際發布的課程筆數
+          description: Number of courses actually published in this snapshot
+          example: 2810
         complete:
           type: boolean
-          description: 本次資料是否完整；false 時同目錄的 integrity.json 有明細
+          description: >-
+            Whether this snapshot is complete. When false, integrity.json in the
+            same directory records what is missing.
+
+    Integrity:
+      type: object
+      description: >-
+        Completeness record for one published snapshot. Written on every crawl,
+        including crawls that publish no new data, so a shortfall that repeats
+        unchanged is still recorded.
+      required:
+        - academic_year
+        - checked_at
+        - actual_total
+        - missing
+        - complete
+        - total_pages
+        - rescan_rounds
+        - lost_pages
+        - schema_drift
+        - parse_failures
+        - signature
+      properties:
+        academic_year:
+          type: string
+          description: Academic year and term this crawl covered
+          example: '1151'
+        checked_at:
+          type: string
+          format: date-time
+          description: When the crawl was checked, ISO 8601
+          example: '2026-09-08T09:46:04Z'
+        expected_total:
+          type: integer
+          nullable: true
+          description: Total the upstream server declared, or null if it could not be read
+          example: 2810
+        actual_total:
+          type: integer
+          description: Number of courses actually published
+          example: 2810
+        missing:
+          type: integer
+          description: >-
+            Shortfall, computed as max(0, expected_total - actual_total). Courses
+            can be added while a crawl is in progress, so a count above the
+            declared total is normal and is reported as 0 rather than a negative.
+          example: 0
+        complete:
+          type: boolean
+          description: >-
+            False if anything was lost or not understood. Any non-empty
+            lost_pages, schema_drift or parse_failures makes this false.
+          example: true
+        total_pages:
+          type: integer
+          description: Number of pages the upstream server declared
+          example: 141
+        rescan_rounds:
+          type: integer
+          description: >-
+            How many times rejected pages were re-fetched with a fresh validation
+            code before giving up.
+          example: 0
+        lost_pages:
+          type: array
+          description: >-
+            Page numbers still unavailable after every rescan round. Each page
+            carries roughly 20 courses, so those courses are absent from all.json.
+          items:
+            type: integer
+          example: []
+        schema_drift:
+          type: array
+          description: >-
+            Upstream values outside the set this parser knows. The affected courses
+            are still published with the raw value; only its meaning is uncertain.
+          items:
+            $ref: '#/components/schemas/SchemaDrift'
+        parse_failures:
+          type: array
+          description: >-
+            Rows that could not be parsed into a course. These courses are absent
+            from all.json.
+          items:
+            $ref: '#/components/schemas/ParseFailure'
+        signature:
+          type: string
+          description: >-
+            SHA-256 fingerprint of the anomaly state, deliberately excluding
+            timestamps, so an unchanged problem keeps the same signature between
+            runs.
+          example: ddd86245fd564a5cb3634451d2d0ebc1236b4ef5ca13f2b340ac149070ea0dce
+
+    SchemaDrift:
+      type: object
+      description: >-
+        One field whose upstream value this parser does not recognise. The course
+        is kept and published regardless, because losing a course is worse than
+        carrying a value that cannot be interpreted.
+      required:
+        - field
+        - value
+        - course_id
+        - department
+      properties:
+        field:
+          type: string
+          description: Which course field held the unfamiliar value
+          example: change
+        value:
+          type: string
+          description: The raw value the upstream server returned
+          example: 停開
+        course_id:
+          type: string
+          description: Course identifier
+          example: GEAI1854
+        department:
+          type: string
+          description: Department the course belongs to
+          example: 跨院選修(文)
+
+    ParseFailure:
+      type: object
+      description: >-
+        A row that could not be parsed into a course at all, and is therefore
+        absent from all.json.
+      required:
+        - page
+        - reason
+      properties:
+        page:
+          type: integer
+          description: Upstream page the row came from
+          example: 13
+        reason:
+          type: string
+          description: Why parsing the row failed
+          example: len(original_data) = 4
