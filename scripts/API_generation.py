@@ -170,6 +170,11 @@ async def main():
     if academic_year not in root_version_manager.versions:
         root_version_manager.add_version(academic_year)
         root_version_manager.to_file(ROOT_VERSION_PATH)
+    elif root_version_manager.relabelled:
+        # Loading repaired labels left behind by an earlier indexing bug. Write
+        # them back: history is otherwise only rewritten when a new academic
+        # year appears, so the correction would never reach the published file.
+        root_version_manager.to_file(ROOT_VERSION_PATH)
 
     # Trim the version history
     trim_version(academic_year_version_manager, academic_year_dir, academic_year_version_file)
