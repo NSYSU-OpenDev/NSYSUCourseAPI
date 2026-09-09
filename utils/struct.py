@@ -259,6 +259,29 @@ class _BaseVersionManger:
 class RootPathVersionManager(_BaseVersionManger):
     """Version manager for root paths"""
 
+    def _update_from_dict(self, data: dict) -> None:
+        """
+        Load version data, recomputing every label from its academic year code.
+
+        The label is a pure function of the code, so a stored label carries no
+        information the code does not. Recomputing on load repairs history that
+        was written by an earlier, incorrect ACADEMIC_YEAR_MAP instead of
+        preserving the mistake forever.
+
+        A code that cannot be parsed keeps whatever label was stored: this runs
+        before any course data is published, so raising here would stop a
+        publish over a cosmetic label.
+        """
+        super()._update_from_dict(data)
+
+        relabelled = {}
+        for code, stored in self._versions.items():
+            try:
+                relabelled[code] = parse_academic_year_code(code)
+            except ValueError:
+                relabelled[code] = stored
+        self._versions = relabelled
+
     def add_version(self, academic_year: str, *, new_version: bool = False) -> bool:
         """
         Add a new version for the given update.
