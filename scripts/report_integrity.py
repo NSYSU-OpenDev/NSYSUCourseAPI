@@ -193,12 +193,19 @@ def _find_existing(session: requests.Session, repo: str) -> Optional[ExistingIss
 
 def _ensure_label(session: requests.Session, repo: str) -> None:
     response = session.get(f"{API_ROOT}/repos/{repo}/labels/{LABEL}", timeout=30)
-    if response.status_code == 404:
-        session.post(
-            f"{API_ROOT}/repos/{repo}/labels",
-            json={"name": LABEL, "color": "d73a4a", "description": "爬蟲資料完整性警報"},
-            timeout=30,
-        )
+    if response.status_code != 404:
+        return
+
+    created = session.post(
+        f"{API_ROOT}/repos/{repo}/labels",
+        json={"name": LABEL, "color": "d73a4a", "description": "爬蟲資料完整性警報"},
+        timeout=30,
+    )
+    # Report the failure but do not raise: the caller is about to create the
+    # issue, and GitHub accepts labels on issue creation. Aborting here would
+    # turn a cosmetic label problem into a lost alert.
+    if not created.ok:
+        print(f"Could not create the {LABEL!r} label ({created.status_code}); creating the issue anyway.")
 
 
 def main() -> None:

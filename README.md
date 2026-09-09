@@ -205,7 +205,7 @@ python main.py test
 | FIELD            | TYPE        | DESCRIPTION                                              |
 | ---------------- | ----------- | -------------------------------------------------------- |
 | `page_size`      | `int`       | page-{index} 中的 index 最大值                           |
-| `updated`        | `date_time` | 更新時間                                                 |
+| `updated`        | `string`    | 更新時間，格式 `YYYYMMDD_HHMMSS`（非 ISO 8601）           |
 | `expected_total` | `?int`      | 上游宣告的課程總數，無法判定時為 null                    |
 | `actual_total`   | `int`       | 實際發布的課程筆數                                       |
 | `complete`       | `bool`      | 本次資料是否完整；false 時同目錄的 integrity.json 有明細 |
