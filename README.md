@@ -12,10 +12,19 @@
 python main.py start
 ```
 
-### 測試生成資料集
+### 驗證驗證碼辨識模型
+
+下載驗證碼圖片、以模型辨識並依結果分類，用於評估 `model/EfficientCapsNetDeploy.pth` 的準確率。
+會對上游發出大量請求，並非 pytest 測試套件的一部分。
 
 ```sh
-python main.py test
+python main.py evaluate
+```
+
+### 執行測試
+
+```sh
+uv run pytest
 ```
 
 # Docs
