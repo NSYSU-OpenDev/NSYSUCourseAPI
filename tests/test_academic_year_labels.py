@@ -1,10 +1,13 @@
 """Guards for the academic-year term labels published in version.json.
 
-The 4th digit of an academic year code is the term. Upstream's own dropdown is
-the authority: 1151 is 115上, 1142 is 114下, 1143 is 114暑期. A "暑碩" entry was
-once prepended to ACADEMIC_YEAR_MAP, shifting every label by one, and because
-labels were stored rather than recomputed the mistake persisted in published
-data for eight of ten academic years.
+The 4th digit of an academic year code is the term, and upstream's dropdown
+lists all four: 0 暑碩, 1 上, 2 下, 3 暑期. Codes ending in 0 are real and go back
+a long way (1060 down to 0880), so the term must not be dropped.
+
+The map was correct; the indexing was not. It was written to be indexed by the
+digit directly, but the lookup subtracted one, so every label came out shifted.
+Because labels were stored rather than recomputed, the shift was frozen into
+published data for eight of ten academic years.
 """
 import pytest
 
@@ -15,31 +18,32 @@ from utils.struct import RootPathVersionManager
 @pytest.mark.parametrize(
     ("code", "label"),
     [
+        # Every term upstream emits, including 暑碩, which a previous attempt at
+        # this fix deleted outright.
+        ("1150", "115暑碩"),
         ("1151", "115上"),
         ("1152", "115下"),
         ("1153", "115暑期"),
+        ("1060", "106暑碩"),
+        ("0880", "088暑碩"),
         ("1141", "114上"),
         ("1142", "114下"),
         ("1143", "114暑期"),
-        ("1121", "112上"),
-        ("1122", "112下"),
     ],
 )
 def test_term_labels_match_upstream(code, label):
     assert parse_academic_year_code(code) == label
 
 
-@pytest.mark.parametrize("code", ["1150", "115", "11511", "115X", ""])
+@pytest.mark.parametrize("code", ["1154", "115", "11511", "115X", ""])
 def test_invalid_codes_are_rejected(code):
-    """0 is not a term upstream ever emits, and it previously indexed backwards
-    off the end of the map, silently producing the last term's label."""
     with pytest.raises(ValueError):
         parse_academic_year_code(code)
 
 
 def test_stored_labels_are_recomputed_on_load():
-    """Loading repairs history written by the earlier, incorrect map rather than
-    preserving it. These are the real values that were published."""
+    """Loading repairs history written while the indexing was wrong, rather than
+    preserving it. These are the values that were actually published."""
     manager = RootPathVersionManager(
         {
             "latest": "1151",
@@ -64,6 +68,16 @@ def test_stored_labels_are_recomputed_on_load():
     }
 
 
+def test_a_summer_masters_code_survives_relabelling():
+    """Regression guard: 暑碩 was briefly removed from the map, which would have
+    mislabelled every code ending in 0 and made the validator reject them."""
+    manager = RootPathVersionManager(
+        {"latest": "1151", "history": {"1060": "106暑碩", "1151": "115上"}}
+    )
+
+    assert manager.versions["1060"] == "106暑碩"
+
+
 def test_an_unparseable_code_keeps_its_stored_label():
     """Relabelling runs before any course data is published, so it must never
     raise: a cosmetic label is not worth stopping a publish over."""
@@ -75,7 +89,7 @@ def test_an_unparseable_code_keeps_its_stored_label():
     assert manager.versions["garbage"] == "whatever"
 
 
-def test_adding_a_new_year_uses_the_corrected_map():
+def test_adding_a_new_year_uses_the_corrected_indexing():
     manager = RootPathVersionManager({"latest": "1151", "history": {"1151": "115上"}})
     manager.add_version("1152")
 
