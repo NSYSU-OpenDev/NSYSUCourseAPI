@@ -372,7 +372,7 @@ components:
           description: >-
             Academic year code to human-readable label. The code is the directory
             name; the fourth digit is the term.
-          example: {'1151': '115暑碩', '1143': '114下', '1142': '114上'}
+          example: {'1151': '115上', '1143': '114暑期', '1142': '114下'}
 
     SemesterUpdate:
       type: object

@@ -9,7 +9,11 @@ from utils.integrity import ParseCollector
 from utils.utils import is_integer
 
 
-ACADEMIC_YEAR_MAP = ["暑碩", "上", "下", "暑期"]
+# Term names by the 4th digit of the academic year code, e.g. 1151 -> 115上.
+# Upstream's own dropdown is the authority here: 1151 is 115上, 1142 is 114下,
+# 1143 is 114暑期. A leading "暑碩" entry was once prepended to this list, which
+# shifted every label by one and mislabelled everything written since.
+ACADEMIC_YEAR_MAP = ["上", "下", "暑期"]
 
 # Values the upstream system is known to emit. An unfamiliar value is
 # recorded as schema drift and the course is kept: losing a course is
@@ -33,7 +37,7 @@ def parse_academic_year_code(academic_year: str) -> str:
     Raises:
         ValueError: If the academic year code is invalid.
     """
-    if len(academic_year) != 4 or academic_year[3] not in "0123":
+    if len(academic_year) != 4 or academic_year[3] not in "123":
         raise ValueError(f"Invalid academic year code: {academic_year}")
 
     return academic_year[:3] + ACADEMIC_YEAR_MAP[int(academic_year[3]) - 1]
