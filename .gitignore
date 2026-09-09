@@ -159,3 +159,10 @@ images
 /data/*
 !/data/*.html
 
+
+# Superpowers working docs (specs/plans) - kept local.
+# Must live outside docs/, which deploy-docs.yml publishes wholesale to gh-pages.
+/.superpowers/
+
+# Crawl integrity report - a run artifact read by the CI reporting step.
+/integrity-report.json

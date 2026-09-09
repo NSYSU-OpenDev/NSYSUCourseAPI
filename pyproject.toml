@@ -1,0 +1,40 @@
+[project]
+name = "nsysu-course-api"
+version = "0.1.0"
+description = "Crawler and static JSON API for National Sun Yat-sen University's course listing"
+readme = "README.md"
+requires-python = ">=3.11"
+license = { file = "LICENSE" }
+dependencies = [
+    "torch",
+    "beautifulsoup4",
+    "numpy",
+    "pillow",
+    "aiohttp>=3.6.0,<3.9.0",
+    "tqdm",
+    "deepdiff",
+    "requests",
+]
+
+# Test-time dependencies. Deliberately does NOT extend the runtime set:
+# torch (~200MB) is only needed by the live crawler, and keeping it out of
+# this group is what makes the test workflow fast.
+[dependency-groups]
+dev = [
+    "pytest",
+    "beautifulsoup4",
+    "requests",
+]
+
+[build-system]
+requires = ["hatchling"]
+build-backend = "hatchling.build"
+
+[tool.hatch.build.targets.wheel]
+packages = ["utils", "scripts"]
+
+[tool.pytest.ini_options]
+# `tests` is not part of the installed wheel, so the repository root still has
+# to be importable for `from tests.conftest import ...` to resolve.
+pythonpath = ["."]
+testpaths = ["tests"]

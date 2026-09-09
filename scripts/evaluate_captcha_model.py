@@ -1,3 +1,12 @@
+"""Measure the CAPTCHA solver's accuracy against the live upstream server.
+
+Downloads CAPTCHA images, runs the model over each one, and sorts them into
+images/done and images/errors according to whether the guessed code was
+accepted. This is an evaluation harness for model/EfficientCapsNetDeploy.pth,
+not part of the pytest suite -- it makes thousands of live requests.
+
+Run with: python main.py evaluate
+"""
 import asyncio
 from pathlib import Path
 import shutil

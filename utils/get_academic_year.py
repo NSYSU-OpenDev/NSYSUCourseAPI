@@ -1,14 +1,19 @@
 import asyncio
-import re
 import ssl
 import time
 from typing import Callable, Optional
 
 from bs4 import BeautifulSoup
-from tqdm import tqdm
 from tqdm.asyncio import tqdm as tqdm_async
 import aiohttp
 
+from utils.integrity import CrawlReport, ParseCollector
+from utils.page_validation import (
+    is_valid_course_page,
+    parse_expected_total,
+    parse_total_pages,
+    select_invalid_pages,
+)
 from utils.parse_info import parse_course_info
 from utils.parse_valid_code import parse_valid_code
 
@@ -18,6 +23,42 @@ DEFAULT_HEADERS = {
 }
 MAX_CONCURRENT_REQUESTS = 2  # Limit concurrent connections
 MAX_RETRIES = 5  # Maximum retry attempts
+MAX_RESCAN_ROUNDS = 3  # Rounds of re-fetching pages the server rejected
+
+
+async def _read_page(resp: aiohttp.ClientResponse, index: int) -> str:
+    """Decode one course listing response as UTF-8.
+
+    Upstream sends `Content-Type: text/html` with no charset parameter, so
+    aiohttp falls back to charset auto-detection. It has been observed
+    guessing `ptcp154` (Kazakh Cyrillic) for some pages, mojibaking every
+    Chinese string on them and previously causing those rows to be silently
+    discarded. Force UTF-8, which is what the server actually sends.
+
+    `text(encoding=...)` decodes with `errors="strict"`, so a single stray
+    byte on any one of ~141 pages raises `UnicodeDecodeError`. That is not
+    in fetch()'s caught tuple, so it would propagate through
+    `tqdm_async.gather` and fail the entire run — one bad byte would stop
+    publishing for everyone. Degrade to an empty page instead:
+    `is_valid_course_page("")` is False, so the page goes through the normal
+    rescan loop and, if it never decodes, lands in `lost_pages` with a loud
+    integrity alert while the rest of the catalogue still publishes.
+
+    Deliberately not `errors="replace"`: that would republish silently
+    corrupted Chinese without necessarily tripping a drift check.
+
+    Args:
+        resp (aiohttp.ClientResponse): The response to read
+        index (int): The page number, for the log line
+
+    Returns:
+        str: The decoded page, or "" if it could not be decoded
+    """
+    try:
+        return await resp.text(encoding="utf-8")
+    except UnicodeDecodeError as e:
+        print(f"Page {index}: not decodable as UTF-8, treating as missing: {e}")
+        return ""
 
 
 async def fetch(
@@ -70,7 +111,7 @@ async def fetch(
                             "ValidCode": code,
                         },
                     ) as resp:
-                        result = await resp.text()
+                        result = await _read_page(resp, index)
                         if callback is not None:
                             callback()
                         return result
@@ -98,7 +139,7 @@ async def fetch(
                         "ValidCode": code,
                     },
                 ) as resp:
-                    result = await resp.text()
+                    result = await _read_page(resp, index)
                     if callback is not None:
                         callback()
                     return result
@@ -114,7 +155,7 @@ async def get_academic_year(
     academic_year: Optional[str] = None,
     *,
     max_page: Optional[int] = None,
-) -> tuple[list, str]:
+) -> tuple[list, str, CrawlReport]:
     """
     fetch the academic year all data
 
@@ -127,7 +168,8 @@ async def get_academic_year(
         ValueError: Max page is 0
 
     Returns:
-        tuple[list, str]: The result and the academic year
+        tuple[list, str, CrawlReport]: The courses, the academic year, and
+            what the crawl observed.
     """
     ctx = ssl.create_default_context(ssl.Purpose.SERVER_AUTH)
     ctx.options |= 0x4  # OP_LEGACY_SERVER_CONNECT
@@ -137,7 +179,7 @@ async def get_academic_year(
         out = await s.get(f"{BASEURL}/qrycourse.asp?HIS=2")
 
         if academic_year is None:
-            out = await out.text()
+            out = await out.text(encoding="utf-8")
             soup = BeautifulSoup(out, "html.parser")
 
             if data := soup.select_one("#YRSM > option[value]:not([value=''])"):
@@ -160,29 +202,118 @@ async def get_academic_year(
         # Get the total number of pages
         if max_page is None:
             out = await fetch(s, code, academic_year)
-            max_page = int(re.findall(r"Showing page \d+ of (\d+) pages", out)[-1])
+            max_page = parse_total_pages(out)
+            if max_page is None:
+                raise ValueError("Could not determine the page count")
+
+        # `out` is still the page-1 response from the validation loop or the
+        # page-count probe above, so the start-of-crawl declared total costs
+        # no extra request. It is needed because `max_page` is fixed here:
+        # the crawl can only ever return roughly the start-of-crawl
+        # catalogue, so a course ADDED mid-crawl inflates an end-of-crawl
+        # total above what these pages can hold and fakes a shortfall.
+        expected_start = parse_expected_total(out) if is_valid_course_page(out) else None
 
         if max_page == 0:
             raise ValueError("Max page is 0")
 
         # Create semaphore to limit concurrent requests
         semaphore = asyncio.Semaphore(MAX_CONCURRENT_REQUESTS)
-        
-        # Generate crawling tasks with semaphore
+
+        # Phase 1: fetch every page in parallel
         tasks = [fetch(s, code, academic_year, i, semaphore=semaphore) for i in range(1, max_page + 1)]
-        
-        # Use tqdm_async.gather without return_exceptions, handle errors in fetch function
         try:
-            pages = list(await tqdm_async.gather(*tasks, desc="Fetching data", unit="page"))
+            fetched = list(await tqdm_async.gather(*tasks, desc="Fetching data", unit="page"))
         except Exception as e:
             print(f"\nError during fetching: {e}")
             raise
 
+        pages_by_number = {i + 1: page for i, page in enumerate(fetched)}
+
+        # Phase 2: the server answers rejected requests with HTTP 200, so
+        # re-fetch anything that is not a real listing page, with a fresh
+        # validation code each round. Serial: there are few of these.
+        rescan_rounds = 0
+        invalid = select_invalid_pages(pages_by_number)
+        while invalid and rescan_rounds < MAX_RESCAN_ROUNDS:
+            rescan_rounds += 1
+            print(f"Rescan round {rescan_rounds}: {len(invalid)} page(s) rejected: {invalid}")
+
+            out = await s.get(f"{BASEURL}/validcode.asp?epoch={time.time()}")
+            code = parse_valid_code(await out.read())
+            print("Validation Code:", code)
+
+            for number in invalid:
+                try:
+                    pages_by_number[number] = await fetch(s, code, academic_year, number)
+                except Exception as e:  # noqa: BLE001 - a failed re-fetch must not abort the crawl
+                    print(f"Could not re-fetch page {number}: {e}")
+
+            invalid = select_invalid_pages(pages_by_number)
+
+        lost_pages = invalid
+        if lost_pages:
+            print(f"WARNING: {len(lost_pages)} page(s) unrecoverable: {lost_pages}")
+
+        # Re-read the declared total with a fresh request now that the crawl
+        # has finished, so it also reflects the catalogue at the END. The
+        # catalogue can shrink while 141 pages are being fetched (a course
+        # withdrawn), and comparing only against the start-of-crawl number
+        # would then raise a false shortfall.
+        expected_end = None
+        try:
+            final = await fetch(s, code, academic_year, 1)
+            if is_valid_course_page(final):
+                expected_end = parse_expected_total(final)
+        except Exception as e:  # noqa: BLE001 - a missing total is not fatal
+            print(f"Could not re-read the declared total: {e}")
+
+        if expected_end is None:
+            # Fall back to whatever a successfully fetched page declared.
+            for number in sorted(pages_by_number):
+                if is_valid_course_page(pages_by_number[number]):
+                    expected_end = parse_expected_total(pages_by_number[number])
+                    break
+
+        # Compare against the SMALLER of the two readings. The end reading
+        # alone alarms on additions (the common case here): the fixed page
+        # window cannot return a course added after `max_page` was decided,
+        # so `missing` would be positive with nothing actually lost. The
+        # start reading alone alarms on removals. The minimum reports a
+        # shortfall only when the catalogue genuinely shrank below what was
+        # published — and it keeps a spurious alert from churning the
+        # tracking issue (a false open, an auto-close destroying the dedup
+        # anchor, then a brand-new issue next time).
+        candidates = [t for t in (expected_start, expected_end) if t is not None]
+        expected_total = min(candidates) if candidates else None
+
+    collector = ParseCollector()
     result = []
-    for page in tqdm(pages, desc="Parsing data", unit="page"):
-        html = BeautifulSoup(str(page), "html.parser")
+    for number in sorted(pages_by_number):
+        page_html = pages_by_number[number]
+        if not is_valid_course_page(page_html):
+            continue
+
+        html = BeautifulSoup(str(page_html), "html.parser")
         data = html.select("table tr[bgcolor]")
+        result.extend(
+            filter(
+                bool,
+                map(
+                    lambda d: parse_course_info(
+                        d, page_html, collector=collector, page=number
+                    ),
+                    data,
+                ),
+            )
+        )
 
-        result.extend(filter(bool, map(lambda d: parse_course_info(d, page), data)))
+    crawl_report = CrawlReport(
+        total_pages=max_page,
+        expected_total=expected_total,
+        lost_pages=lost_pages,
+        rescan_rounds=rescan_rounds,
+        collector=collector,
+    )
 
-    return list(filter(bool, result)), academic_year
+    return list(filter(bool, result)), academic_year, crawl_report

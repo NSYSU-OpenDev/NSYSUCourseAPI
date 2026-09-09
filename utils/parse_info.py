@@ -1,14 +1,23 @@
 import io
 import os
-from typing import Literal, Union
+from typing import Literal, Optional, Union
 
 import requests
 from bs4 import Tag
 
+from utils.integrity import ParseCollector
 from utils.utils import is_integer
 
 
 ACADEMIC_YEAR_MAP = ["暑碩", "上", "下", "暑期"]
+
+# Values the upstream system is known to emit. An unfamiliar value is
+# recorded as schema drift and the course is kept: losing a course is
+# always worse than carrying a value we do not recognise.
+KNOWN_CHANGE = {"", "異動", "新增", "停開"}
+KNOWN_MULTIPLE_COMPULSORY = {"", " ", "*"}
+KNOWN_YEAR_SEMESTER = {"年", "期"}
+KNOWN_COMPULSORY_ELECTIVE = {"必", "選"}
 
 
 def parse_academic_year_code(academic_year: str) -> str:
@@ -33,6 +42,9 @@ def parse_academic_year_code(academic_year: str) -> str:
 def parse_course_info(
     d: Tag,
     original_page: str,
+    *,
+    collector: Optional["ParseCollector"] = None,
+    page: int = 0,
     **kwargs,
 ) -> Union[dict, Literal[False]]:
     """
@@ -41,6 +53,9 @@ def parse_course_info(
     Args:
         d (Tag): course root tag
         original_page (str): The source code of this page
+        collector (Optional[ParseCollector]): Accumulates parse anomalies
+            (schema drift, parse failures) without interrupting the parse.
+        page (int): Page number this row came from, recorded on failure.
         kwargs: Flag when an error occurs
 
     Returns:
@@ -100,12 +115,21 @@ def parse_course_info(
         assert info_url_el, "info_url_el is None"
         url = info_url_el.attrs["href"]
 
-        assert change in ["", "異動", "新增"], f"Change = {change}"
-        assert multipleCompulsory in " *", f"MultipleCompulsory = {multipleCompulsory}"
-        assert grade, f"grade = {grade}"
-        assert credit, f"credit = {credit}"
-        assert yearSemester in "年期", f"yearSemester = {yearSemester}"
-        assert compulsoryElective in "必選", f"compulsoryElective = {compulsoryElective}"
+        def check_enum(field_name: str, value: str, known: set) -> None:
+            """Record an unfamiliar value without discarding the course."""
+            if value not in known and collector is not None:
+                collector.add_drift(field_name, value, id, department)
+
+        check_enum("change", change, KNOWN_CHANGE)
+        check_enum("multipleCompulsory", multipleCompulsory, KNOWN_MULTIPLE_COMPULSORY)
+        check_enum("yearSemester", yearSemester, KNOWN_YEAR_SEMESTER)
+        check_enum("compulsoryElective", compulsoryElective, KNOWN_COMPULSORY_ELECTIVE)
+
+        # Empty grade/credit means incomplete data, not "this is not a course".
+        if not grade and collector is not None:
+            collector.add_drift("grade", "", id, department)
+        if not credit and collector is not None:
+            collector.add_drift("credit", "", id, department)
 
         assert is_integer(restrict), f"restrict = {restrict}"
         assert is_integer(select), f"select = {select}"
@@ -138,6 +162,8 @@ def parse_course_info(
             "english": english,
         }
     except AssertionError as e:
+        if collector is not None:
+            collector.add_failure(page, str(e))
         parse_assert_warn(e, original_page, **kwargs)
         return False
 

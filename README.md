@@ -12,10 +12,19 @@
 python main.py start
 ```
 
-### 測試生成資料集
+### 驗證驗證碼辨識模型
+
+下載驗證碼圖片、以模型辨識並依結果分類，用於評估 `model/EfficientCapsNetDeploy.pth` 的準確率。
+會對上游發出大量請求，並非 pytest 測試套件的一部分。
 
 ```sh
-python main.py test
+python main.py evaluate
+```
+
+### 執行測試
+
+```sh
+uv run pytest
 ```
 
 # Docs
@@ -36,6 +45,7 @@ python main.py test
 │ │ ├ page-{index}.json
 │ │ ├ info.json
 │ │ ├ diff.txt
+│ │ ├ integrity.json
 │ │ └ path.json
 │ ├ version.json
 │ └ path.json
@@ -55,7 +65,7 @@ python main.py test
 | -------------------- | ----------- | ------------------------------- |
 | `id`                 | `string`    | 課號                            |
 | `url`                | `string`    | 科目詳細說明網址                |
-| `change`             | `?string`   | 更改類別 (異動/新增)            |
+| `change`             | `?string`   | 更改類別 (異動/新增/停開)       |
 | `changeDescription`  | `?string`   | 更改說明                        |
 | `multipleCompulsory` | `bool`      | 是否為多門必修                  |
 | `department`         | `string`    | 系所別                          |
@@ -201,17 +211,42 @@ python main.py test
 
 ### 📄 `info.json`
 
-| FIELD       | TYPE        | DESCRIPTION                    |
-| ----------- | ----------- | ------------------------------ |
-| `page_size` | `int`       | page-{index} 中的 index 最大值 |
-| `updated`   | `date_time` | 更新時間                       |
+| FIELD            | TYPE        | DESCRIPTION                                              |
+| ---------------- | ----------- | -------------------------------------------------------- |
+| `page_size`      | `int`       | page-{index} 中的 index 最大值                           |
+| `updated`        | `string`    | 更新時間，格式 `YYYYMMDD_HHMMSS`（非 ISO 8601）           |
+| `expected_total` | `?int`      | 上游宣告的課程總數，無法判定時為 null                    |
+| `actual_total`   | `int`       | 實際發布的課程筆數                                       |
+| `complete`       | `bool`      | 本次資料是否完整；false 時同目錄的 integrity.json 有明細 |
 
 ```json
 {
   "page_size": 20,
-  "updated": "20240405_204005"
+  "updated": "20240405_204005",
+  "expected_total": 2810,
+  "actual_total": 2810,
+  "complete": true
 }
 ```
+
+### 📄 `integrity.json`
+
+本次爬取的完整性紀錄。`info.json` 的 `complete` 為 `false` 時，此檔說明缺了什麼。
+
+| FIELD            | TYPE       | DESCRIPTION                          |
+| ---------------- | ---------- | ------------------------------------ |
+| `academic_year`  | `string`   | 學年期                               |
+| `checked_at`     | `string`   | ISO 8601 檢查時間                    |
+| `expected_total` | `?int`     | 上游宣告總數                         |
+| `actual_total`   | `int`      | 實際發布筆數                         |
+| `missing`        | `int`      | 缺漏筆數                             |
+| `complete`       | `bool`     | 是否完整                             |
+| `total_pages`    | `int`      | 上游總頁數                           |
+| `rescan_rounds`  | `int`      | 重掃輪數                             |
+| `lost_pages`     | `int[]`    | 重試後仍無法取得的頁號（每頁 20 筆） |
+| `schema_drift`   | `object[]` | 未知欄位值（課程已保留）             |
+| `parse_failures` | `object[]` | 解析失敗（課程已遺失）               |
+| `signature`      | `string`   | 狀態指紋                             |
 
 ### 📄 `all.json` or `page-{index}.json`
 
