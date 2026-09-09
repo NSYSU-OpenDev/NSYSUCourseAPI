@@ -46,7 +46,7 @@ paths:
           schema:
             type: string
           description: Academic year identifier
-          example: '1132'
+          example: '1151'
       responses:
         '200':
           description: Successful operation
@@ -78,7 +78,7 @@ paths:
           schema:
             type: string
           description: Update timestamp
-          example: '20250310_101301'
+          example: '20260908_174635'
       responses:
         '200':
           description: Successful operation
@@ -240,82 +240,120 @@ components:
       properties:
         id:
           type: string
-          description: Unique identifier for the course
-          example: "1122CSE220"
+          description: >-
+            Course code. Not unique on its own: the same code appears in more
+            than one department, and a course may be offered in several classes.
+            Combine with department and class to identify a course row.
+          example: CSE110
         url:
           type: string
-          description: URL to the course information
-          example: "https://selcrs.nsysu.edu.tw/menu1/qrycourse.asp?..."
+          description: Link to the upstream course outline
+          example: https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE110&Crsname=離散數學
         change:
           type: string
-          description: Change status of the course
-          example: "新增"
+          nullable: true
+          description: >-
+            Change status set by the university: 異動 (amended), 新增 (added) or
+            停開 (cancelled). Null when the course is unchanged.
+          example: 停開
         changeDescription:
           type: string
-          description: Detailed description of the change
+          nullable: true
+          description: Free-text note about the change, usually a date
+          example: 更換教室9/8
         multipleCompulsory:
           type: boolean
           description: Whether the course is compulsory for multiple departments
+          example: false
         department:
           type: string
-          description: Department offering the course
-          example: "資訊工程學系"
+          description: Department offering the course, in the university's abbreviated form
+          example: 資工系
         grade:
           type: string
-          description: Target grade for the course
-          example: "1"
+          description: Target grade. "0" means the course is not tied to a year.
+          example: '1'
         class:
           type: string
-          description: Class section identifier
+          nullable: true
+          description: >-
+            Class section, e.g. 不分班 (no division), 甲班/乙班, or 全英班 for the
+            English-taught section. Null when the course has no section.
+          example: 不分班
         name:
           type: string
-          description: Course name
-          example: "程式設計（二）"
+          description: >-
+            Chinese and English names, separated by a newline. Split on "\n" to
+            get them individually.
+          example: "離散數學\nDISCRETE MATHEMATICS"
         credit:
           type: string
-          description: Course credit value
-          example: "3.0"
+          description: Credit value, as a string
+          example: '3'
         yearSemester:
           type: string
-          description: Academic year and semester
-          example: "112/2"
+          description: >-
+            Course duration: 期 for a single semester, 年 for a full year. This is
+            not the academic year the course belongs to.
+          example: 期
         compulsory:
           type: boolean
-          description: Whether the course is compulsory
+          description: True if compulsory (必), false if elective (選)
+          example: true
         restrict:
-          type: number
-          description: Enrollment restriction number
+          type: integer
+          description: Enrollment cap
+          example: 90
         select:
-          type: number
-          description: Number of students able to select the course
+          type: integer
+          description: Number of students currently requesting the course
+          example: 3
         selected:
-          type: number
-          description: Number of students who have selected the course
+          type: integer
+          description: Number of students already enrolled
+          example: 80
         remaining:
-          type: number
-          description: Remaining available slots
+          type: integer
+          description: >-
+            Remaining places. Can be negative when the course is over-enrolled,
+            so do not assume a non-negative value.
+          example: 10
         teacher:
           type: string
-          description: Course instructor
+          description: Instructor names, comma-separated when a course is co-taught
+          example: 徐瑞壕
         room:
           type: string
-          description: Classroom location
+          description: Weekday, periods and room, as published upstream
+          example: 五2,3,4(工EC 9032)
         classTime:
           type: array
           items:
             type: string
-          description: Class meeting times
+          minItems: 7
+          maxItems: 7
+          description: >-
+            Seven entries, Monday through Sunday. Each holds the period codes for
+            that day, or an empty string when the course does not meet.
+          example: ['', '', '', '', '234', '', '']
         description:
           type: string
-          description: Course description
+          description: >-
+            Remarks from the university. The 《…》 prefix gives the course type.
+            The ※英語授課 marker is stripped out and surfaced as `english`.
+          example: 《講授類》
         tags:
           type: array
           items:
             type: string
-          description: Course tags for categorization
+          description: Programmes (學程) this course counts towards
+          example: ['軟體工程學程']
         english:
           type: boolean
-          description: Whether the course is taught in English
+          description: >-
+            Whether the course is taught in English, derived from the ※英語授課
+            marker in the upstream remarks.
+          example: false
 
     AcademicYear:
       type: object
@@ -325,14 +363,16 @@ components:
       properties:
         latest:
           type: string
-          description: Most recent academic year
-          example: "112"
+          description: Most recent academic year and term, matching its directory name
+          example: '1151'
         history:
           type: object
           additionalProperties:
             type: string
-          description: Historical academic years mapping
-          example: {"112": "112", "111": "111"}
+          description: >-
+            Academic year code to human-readable label. The code is the directory
+            name; the fourth digit is the term.
+          example: {'1151': '115暑碩', '1143': '114下', '1142': '114上'}
 
     SemesterUpdate:
       type: object
@@ -342,14 +382,16 @@ components:
       properties:
         latest:
           type: string
-          description: Most recent update time
-          example: "20240305"
+          description: Most recent snapshot, matching its directory name
+          example: '20260908_174635'
         history:
           type: object
           additionalProperties:
             type: string
-          description: Historical update times mapping
-          example: {"20240305": "2024-03-05", "20240201": "2024-02-01"}
+          description: >-
+            Snapshot directory name to its ISO 8601 timestamp. At most five
+            snapshots are retained per academic year.
+          example: {'20260908_174635': '2026-09-08T17:46:35Z', '20260908_173509': '2026-09-08T17:35:09Z'}
 
     Info:
       type: object
