@@ -9,10 +9,19 @@ digit directly, but the lookup subtracted one, so every label came out shifted.
 Because labels were stored rather than recomputed, the shift was frozen into
 published data for eight of ten academic years.
 """
+import json
+
 import pytest
 
+from tests.conftest import FIXTURES
 from utils.parse_info import parse_academic_year_code
 from utils.struct import RootPathVersionManager
+
+# Every academic year option the upstream dropdown offered on 2026-09-09,
+# captured so the mapping is checked against real data rather than assumptions.
+UPSTREAM_OPTIONS = json.loads(
+    (FIXTURES / "academic_year_options.json").read_text(encoding="utf-8")
+)
 
 
 @pytest.mark.parametrize(
@@ -94,3 +103,17 @@ def test_adding_a_new_year_uses_the_corrected_indexing():
     manager.add_version("1152")
 
     assert manager.versions["1152"] == "115下"
+
+
+@pytest.mark.parametrize(("code", "upstream_label"), sorted(UPSTREAM_OPTIONS.items()))
+def test_every_upstream_option_gets_the_label_upstream_shows(code, upstream_label):
+    """Check the mapping against all 113 real options rather than a hand-picked
+    few. A previous fix was reasoned about instead of verified and dropped the
+    暑碩 term, which this would have caught immediately."""
+    assert parse_academic_year_code(code) == upstream_label
+
+
+def test_the_fixture_still_covers_all_four_terms():
+    """If upstream ever adds a term, the parametrised test above only proves the
+    mapping matches what was captured. This pins the coverage itself."""
+    assert {code[3] for code in UPSTREAM_OPTIONS} == {"0", "1", "2", "3"}
