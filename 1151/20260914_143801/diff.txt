@@ -1,0 +1,79 @@
+Item root[227] removed from iterable.
+Item root[228] removed from iterable.
+Item root[240] removed from iterable.
+Item root[281] removed from iterable.
+Item root[337] removed from iterable.
+Item root[775] removed from iterable.
+Item root[997] removed from iterable.
+Item root[1214] removed from iterable.
+Item root[1348] removed from iterable.
+Item root[1359] removed from iterable.
+Item root[1378] removed from iterable.
+Item root[1379] removed from iterable.
+Item root[1380] removed from iterable.
+Item root[1517] removed from iterable.
+Item root[1547] removed from iterable.
+Item root[1575] removed from iterable.
+Item root[1739] removed from iterable.
+Item root[1743] removed from iterable.
+Item root[1746] removed from iterable.
+Item root[1755] removed from iterable.
+Item root[1756] removed from iterable.
+Item root[1760] removed from iterable.
+Item root[1761] removed from iterable.
+Item root[1762] removed from iterable.
+Item root[1763] removed from iterable.
+Item root[1765] removed from iterable.
+Item root[1767] removed from iterable.
+Item root[1768] removed from iterable.
+Item root[1769] removed from iterable.
+Item root[1770] removed from iterable.
+Item root[1771] removed from iterable.
+Item root[1775] removed from iterable.
+Item root[1776] removed from iterable.
+Item root[1777] removed from iterable.
+Item root[1778] removed from iterable.
+Item root[1779] removed from iterable.
+Item root[1780] removed from iterable.
+Item root[1884] removed from iterable.
+Item root[1902] removed from iterable.
+Item root[2014] removed from iterable.
+Item root[2016] removed from iterable.
+Item root[2047] removed from iterable.
+Item root[2160] removed from iterable.
+Item root[2243] removed from iterable.
+Item root[2246] removed from iterable.
+Item root[2488] removed from iterable.
+Item root[2489] removed from iterable.
+Item root[2490] removed from iterable.
+Item root[2535] removed from iterable.
+Item root[2541] removed from iterable.
+Item root[2553] removed from iterable.
+Item root[2556] removed from iterable.
+Item root[2558] removed from iterable.
+Item root[2563] removed from iterable.
+Item root[2564] removed from iterable.
+Item root[2628] removed from iterable.
+Item root[2631] removed from iterable.
+Item root[2632] removed from iterable.
+Item root[2633] removed from iterable.
+Item root[2751] removed from iterable.
+Value of root[13]['change'] changed from "新增" to "異動".
+Value of root[13]['changeDescription'] changed from "8/13" to "確認教師9/14".
+Value of root[13]['teacher'] changed from "待聘" to "郭俐蘭".
+Value of root[1270]['selected'] changed from 48 to 47.
+Value of root[1270]['remaining'] changed from 2 to 3.
+Value of root[1271]['selected'] changed from 47 to 46.
+Value of root[1271]['remaining'] changed from 3 to 4.
+Value of root[1272]['selected'] changed from 47 to 46.
+Value of root[1272]['remaining'] changed from 3 to 4.
+Value of root[1273]['selected'] changed from 47 to 46.
+Value of root[1273]['remaining'] changed from 3 to 4.
+Value of root[1998]['changeDescription'] changed from "確認教師9/4" to "確認教師9/14".
+Value of root[1998]['teacher'] changed from "卓宴琳,張揚祺,曾以帆,李政賢,林俊宏,林巧雯,歐雅森,詹鵬台,金尚進,鍾秉宸" to "卓宴琳,張揚祺,曾以帆,李政賢,林俊宏,林巧雯,歐雅森,葉博弘,詹鵬台,金尚進,鍾秉宸,陸曉筠".
+Value of root[2056]['selected'] changed from 7 to 6.
+Value of root[2056]['remaining'] changed from 23 to 24.
+Value of root[2064]['selected'] changed from 12 to 11.
+Value of root[2064]['remaining'] changed from 18 to 19.
+Value of root[2219]['selected'] changed from 9 to 8.
+Value of root[2219]['remaining'] changed from 41 to 42.
