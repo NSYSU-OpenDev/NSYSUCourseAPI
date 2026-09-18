@@ -1,0 +1,1266 @@
+Item root[180]['classTime'][1] removed from iterable.
+Item root[181]['classTime'][3] removed from iterable.
+Item root[182]['classTime'][1] removed from iterable.
+Item root[183]['classTime'][0] removed from iterable.
+Item root[184]['classTime'][0] removed from iterable.
+Item root[185]['classTime'][3] removed from iterable.
+Item root[186]['classTime'][4] removed from iterable.
+Item root[187]['classTime'][4] removed from iterable.
+Item root[188]['classTime'][2] removed from iterable.
+Item root[189]['classTime'][0] removed from iterable.
+Item root[1540]['classTime'][2] removed from iterable.
+Item root[1541]['classTime'][0] removed from iterable.
+Item root[1541]['classTime'][1] removed from iterable.
+Item root[1541]['classTime'][2] removed from iterable.
+Item root[1542]['classTime'][3] removed from iterable.
+Item root[1543]['classTime'][2] removed from iterable.
+Item root[1544]['classTime'][1] removed from iterable.
+Item root[1545]['classTime'][1] removed from iterable.
+Item root[1546]['classTime'][3] removed from iterable.
+Item root[1547]['classTime'][1] removed from iterable.
+Item root[1548]['classTime'][4] removed from iterable.
+Item root[1549]['classTime'][1] removed from iterable.
+Item root[1549]['classTime'][2] removed from iterable.
+Item root[1549]['classTime'][4] removed from iterable.
+Item root[1550]['classTime'][0] removed from iterable.
+Item root[1550]['classTime'][4] removed from iterable.
+Item root[1551]['classTime'][2] removed from iterable.
+Item root[1552]['classTime'][2] removed from iterable.
+Item root[2200]['classTime'][4] removed from iterable.
+Item root[2201]['classTime'][2] removed from iterable.
+Item root[2202]['classTime'][1] removed from iterable.
+Item root[2203]['classTime'][1] removed from iterable.
+Item root[2204]['classTime'][0] removed from iterable.
+Item root[2205]['classTime'][0] removed from iterable.
+Item root[2206]['classTime'][4] removed from iterable.
+Item root[2207]['classTime'][0] removed from iterable.
+Item root[2208]['classTime'][4] removed from iterable.
+Item root[2209]['classTime'][4] removed from iterable.
+Item root[2210]['classTime'][0] removed from iterable.
+Item root[2211]['classTime'][4] removed from iterable.
+Item root[2212]['classTime'][3] removed from iterable.
+Item root[2213]['classTime'][1] removed from iterable.
+Item root[2214]['classTime'][4] removed from iterable.
+Item root[2215]['classTime'][4] removed from iterable.
+Item root[2216]['classTime'][1] removed from iterable.
+Item root[2217]['classTime'][2] removed from iterable.
+Item root[2218]['classTime'][3] removed from iterable.
+Item root[2219]['classTime'][2] removed from iterable.
+Repetition change for item root[180]['classTime'][0].
+Repetition change for item root[181]['classTime'][0].
+Repetition change for item root[182]['classTime'][0].
+Repetition change for item root[183]['classTime'][1].
+Repetition change for item root[184]['classTime'][1].
+Repetition change for item root[185]['classTime'][0].
+Repetition change for item root[186]['classTime'][0].
+Repetition change for item root[187]['classTime'][0].
+Repetition change for item root[188]['classTime'][0].
+Repetition change for item root[189]['classTime'][1].
+Repetition change for item root[1540]['classTime'][0].
+Repetition change for item root[1541]['classTime'][3].
+Repetition change for item root[1542]['classTime'][0].
+Repetition change for item root[1543]['classTime'][0].
+Repetition change for item root[1544]['classTime'][0].
+Repetition change for item root[1545]['classTime'][0].
+Repetition change for item root[1546]['classTime'][0].
+Repetition change for item root[1547]['classTime'][0].
+Repetition change for item root[1548]['classTime'][0].
+Repetition change for item root[1549]['classTime'][0].
+Repetition change for item root[1550]['classTime'][1].
+Repetition change for item root[1551]['classTime'][0].
+Repetition change for item root[1552]['classTime'][0].
+Repetition change for item root[2200]['classTime'][0].
+Repetition change for item root[2201]['classTime'][0].
+Repetition change for item root[2202]['classTime'][0].
+Repetition change for item root[2203]['classTime'][0].
+Repetition change for item root[2204]['classTime'][1].
+Repetition change for item root[2205]['classTime'][1].
+Repetition change for item root[2206]['classTime'][0].
+Repetition change for item root[2207]['classTime'][1].
+Repetition change for item root[2208]['classTime'][0].
+Repetition change for item root[2209]['classTime'][0].
+Repetition change for item root[2210]['classTime'][1].
+Repetition change for item root[2211]['classTime'][0].
+Repetition change for item root[2212]['classTime'][0].
+Repetition change for item root[2213]['classTime'][0].
+Repetition change for item root[2214]['classTime'][0].
+Repetition change for item root[2215]['classTime'][0].
+Repetition change for item root[2216]['classTime'][0].
+Repetition change for item root[2217]['classTime'][0].
+Repetition change for item root[2218]['classTime'][0].
+Repetition change for item root[2219]['classTime'][0].
+Value of root[4]['selected'] changed from 46 to 47.
+Value of root[4]['remaining'] changed from 4 to 3.
+Value of root[8]['select'] changed from 1 to 0.
+Value of root[8]['selected'] changed from 34 to 36.
+Value of root[8]['remaining'] changed from 16 to 14.
+Value of root[24]['selected'] changed from 101 to 106.
+Value of root[24]['remaining'] changed from -51 to -56.
+Value of root[26]['selected'] changed from 8 to 9.
+Value of root[26]['remaining'] changed from 42 to 41.
+Value of root[27]['selected'] changed from 5 to 4.
+Value of root[27]['remaining'] changed from 45 to 46.
+Value of root[29]['selected'] changed from 5 to 4.
+Value of root[29]['remaining'] changed from 45 to 46.
+Value of root[39]['selected'] changed from 47 to 48.
+Value of root[39]['remaining'] changed from -2 to -3.
+Value of root[48]['select'] changed from 11 to 10.
+Value of root[48]['selected'] changed from 37 to 40.
+Value of root[48]['remaining'] changed from -2 to -5.
+Value of root[52]['selected'] changed from 35 to 38.
+Value of root[52]['remaining'] changed from 0 to -3.
+Value of root[53]['select'] changed from 9 to 8.
+Value of root[53]['selected'] changed from 35 to 36.
+Value of root[53]['remaining'] changed from 0 to -1.
+Value of root[61]['select'] changed from 7 to 6.
+Value of root[61]['selected'] changed from 35 to 37.
+Value of root[61]['remaining'] changed from 0 to -2.
+Value of root[62]['selected'] changed from 56 to 58.
+Value of root[62]['remaining'] changed from -1 to -3.
+Value of root[63]['selected'] changed from 57 to 58.
+Value of root[63]['remaining'] changed from -2 to -3.
+Value of root[64]['select'] changed from 19 to 15.
+Value of root[64]['selected'] changed from 56 to 60.
+Value of root[64]['remaining'] changed from -1 to -5.
+Value of root[65]['select'] changed from 11 to 10.
+Value of root[65]['selected'] changed from 58 to 62.
+Value of root[65]['remaining'] changed from -3 to -7.
+Value of root[66]['select'] changed from 20 to 16.
+Value of root[66]['selected'] changed from 56 to 61.
+Value of root[66]['remaining'] changed from -1 to -6.
+Value of root[67]['select'] changed from 14 to 13.
+Value of root[67]['selected'] changed from 55 to 57.
+Value of root[67]['remaining'] changed from 0 to -2.
+Value of root[69]['selected'] changed from 59 to 63.
+Value of root[69]['remaining'] changed from -4 to -8.
+Value of root[70]['select'] changed from 23 to 22.
+Value of root[70]['selected'] changed from 55 to 57.
+Value of root[70]['remaining'] changed from 0 to -2.
+Value of root[71]['selected'] changed from 57 to 62.
+Value of root[71]['remaining'] changed from -2 to -7.
+Value of root[72]['selected'] changed from 55 to 53.
+Value of root[72]['remaining'] changed from 0 to 2.
+Value of root[73]['select'] changed from 3 to 2.
+Value of root[73]['selected'] changed from 55 to 56.
+Value of root[73]['remaining'] changed from 0 to -1.
+Value of root[74]['selected'] changed from 57 to 61.
+Value of root[74]['remaining'] changed from -2 to -6.
+Value of root[76]['selected'] changed from 55 to 58.
+Value of root[76]['remaining'] changed from 0 to -3.
+Value of root[77]['select'] changed from 16 to 14.
+Value of root[77]['selected'] changed from 55 to 59.
+Value of root[77]['remaining'] changed from 0 to -4.
+Value of root[80]['selected'] changed from 55 to 54.
+Value of root[80]['remaining'] changed from 0 to 1.
+Value of root[81]['select'] changed from 21 to 19.
+Value of root[81]['selected'] changed from 55 to 57.
+Value of root[81]['remaining'] changed from 0 to -2.
+Value of root[82]['selected'] changed from 48 to 52.
+Value of root[82]['remaining'] changed from 7 to 3.
+Value of root[83]['select'] changed from 1 to 2.
+Value of root[84]['selected'] changed from 58 to 59.
+Value of root[84]['remaining'] changed from 42 to 41.
+Value of root[87]['select'] changed from 5 to 4.
+Value of root[87]['selected'] changed from 27 to 29.
+Value of root[87]['remaining'] changed from -2 to -4.
+Value of root[90]['select'] changed from 8 to 7.
+Value of root[90]['selected'] changed from 52 to 55.
+Value of root[90]['remaining'] changed from -2 to -5.
+Value of root[92]['select'] changed from 0 to 1.
+Value of root[92]['selected'] changed from 50 to 49.
+Value of root[92]['remaining'] changed from 0 to 1.
+Value of root[93]['select'] changed from 2 to 1.
+Value of root[93]['selected'] changed from 38 to 39.
+Value of root[93]['remaining'] changed from 12 to 11.
+Value of root[95]['select'] changed from 10 to 9.
+Value of root[95]['selected'] changed from 52 to 54.
+Value of root[95]['remaining'] changed from -2 to -4.
+Value of root[96]['select'] changed from 15 to 12.
+Value of root[96]['selected'] changed from 52 to 55.
+Value of root[96]['remaining'] changed from -2 to -5.
+Value of root[97]['select'] changed from 11 to 4.
+Value of root[97]['selected'] changed from 51 to 70.
+Value of root[97]['remaining'] changed from -1 to -20.
+Value of root[98]['select'] changed from 18 to 16.
+Value of root[98]['selected'] changed from 60 to 68.
+Value of root[98]['remaining'] changed from -10 to -18.
+Value of root[99]['select'] changed from 22 to 14.
+Value of root[99]['selected'] changed from 54 to 70.
+Value of root[99]['remaining'] changed from -4 to -20.
+Value of root[101]['select'] changed from 3 to 4.
+Value of root[101]['selected'] changed from 25 to 24.
+Value of root[101]['remaining'] changed from 0 to 1.
+Value of root[103]['selected'] changed from 25 to 28.
+Value of root[103]['remaining'] changed from 0 to -3.
+Value of root[105]['select'] changed from 3 to 2.
+Value of root[105]['selected'] changed from 26 to 27.
+Value of root[105]['remaining'] changed from -1 to -2.
+Value of root[106]['select'] changed from 3 to 2.
+Value of root[106]['selected'] changed from 25 to 27.
+Value of root[106]['remaining'] changed from 0 to -2.
+Value of root[107]['select'] changed from 3 to 2.
+Value of root[107]['selected'] changed from 25 to 27.
+Value of root[107]['remaining'] changed from 0 to -2.
+Value of root[109]['select'] changed from 4 to 3.
+Value of root[109]['selected'] changed from 25 to 27.
+Value of root[109]['remaining'] changed from 0 to -2.
+Value of root[110]['selected'] changed from 50 to 52.
+Value of root[110]['remaining'] changed from 0 to -2.
+Value of root[113]['select'] changed from 13 to 11.
+Value of root[113]['selected'] changed from 35 to 38.
+Value of root[113]['remaining'] changed from 0 to -3.
+Value of root[114]['select'] changed from 1 to 2.
+Value of root[114]['selected'] changed from 40 to 36.
+Value of root[114]['remaining'] changed from 10 to 14.
+Value of root[115]['select'] changed from 16 to 15.
+Value of root[115]['selected'] changed from 20 to 24.
+Value of root[115]['remaining'] changed from 0 to -4.
+Value of root[116]['select'] changed from 1 to 3.
+Value of root[116]['selected'] changed from 40 to 37.
+Value of root[116]['remaining'] changed from 10 to 13.
+Value of root[117]['select'] changed from 1 to 2.
+Value of root[117]['selected'] changed from 19 to 17.
+Value of root[117]['remaining'] changed from 1 to 3.
+Value of root[118]['select'] changed from 24 to 21.
+Value of root[118]['selected'] changed from 25 to 29.
+Value of root[118]['remaining'] changed from 0 to -4.
+Value of root[123]['selected'] changed from 1 to 3.
+Value of root[123]['remaining'] changed from 99 to 97.
+Value of root[124]['select'] changed from 15 to 14.
+Value of root[124]['selected'] changed from 50 to 51.
+Value of root[124]['remaining'] changed from 0 to -1.
+Value of root[127]['select'] changed from 24 to 22.
+Value of root[127]['selected'] changed from 111 to 113.
+Value of root[127]['remaining'] changed from -1 to -3.
+Value of root[130]['selected'] changed from 52 to 51.
+Value of root[130]['remaining'] changed from -2 to -1.
+Value of root[131]['select'] changed from 11 to 9.
+Value of root[131]['selected'] changed from 50 to 54.
+Value of root[131]['remaining'] changed from 0 to -4.
+Value of root[132]['selected'] changed from 55 to 57.
+Value of root[132]['remaining'] changed from -5 to -7.
+Value of root[134]['selected'] changed from 54 to 55.
+Value of root[134]['remaining'] changed from -4 to -5.
+Value of root[135]['select'] changed from 20 to 18.
+Value of root[135]['selected'] changed from 89 to 93.
+Value of root[135]['remaining'] changed from -9 to -13.
+Value of root[137]['select'] changed from 20 to 19.
+Value of root[137]['selected'] changed from 83 to 87.
+Value of root[137]['remaining'] changed from -3 to -7.
+Value of root[139]['selected'] changed from 55 to 58.
+Value of root[139]['remaining'] changed from -5 to -8.
+Value of root[140]['selected'] changed from 51 to 53.
+Value of root[140]['remaining'] changed from -1 to -3.
+Value of root[141]['selected'] changed from 56 to 60.
+Value of root[141]['remaining'] changed from -6 to -10.
+Value of root[143]['select'] changed from 21 to 19.
+Value of root[143]['selected'] changed from 60 to 64.
+Value of root[143]['remaining'] changed from 0 to -4.
+Value of root[144]['selected'] changed from 50 to 52.
+Value of root[144]['remaining'] changed from 0 to -2.
+Value of root[145]['selected'] changed from 72 to 74.
+Value of root[145]['remaining'] changed from -2 to -4.
+Value of root[146]['select'] changed from 29 to 28.
+Value of root[146]['selected'] changed from 66 to 68.
+Value of root[146]['remaining'] changed from -16 to -18.
+Value of root[147]['selected'] changed from 64 to 65.
+Value of root[147]['remaining'] changed from -14 to -15.
+Value of root[148]['select'] changed from 9 to 10.
+Value of root[148]['selected'] changed from 50 to 48.
+Value of root[148]['remaining'] changed from 0 to 2.
+Value of root[149]['select'] changed from 21 to 16.
+Value of root[149]['selected'] changed from 80 to 86.
+Value of root[149]['remaining'] changed from 0 to -6.
+Value of root[153]['select'] changed from 21 to 19.
+Value of root[153]['selected'] changed from 74 to 77.
+Value of root[153]['remaining'] changed from -4 to -7.
+Value of root[154]['select'] changed from 1 to 2.
+Value of root[154]['selected'] changed from 39 to 38.
+Value of root[154]['remaining'] changed from 1 to 2.
+Value of root[156]['selected'] changed from 4 to 5.
+Value of root[156]['remaining'] changed from 46 to 45.
+Value of root[157]['select'] changed from 19 to 15.
+Value of root[157]['selected'] changed from 50 to 61.
+Value of root[157]['remaining'] changed from 0 to -11.
+Value of root[159]['selected'] changed from 54 to 52.
+Value of root[159]['remaining'] changed from 1 to 3.
+Value of root[160]['select'] changed from 10 to 9.
+Value of root[160]['selected'] changed from 98 to 99.
+Value of root[160]['remaining'] changed from -3 to -4.
+Value of root[162]['select'] changed from 34 to 32.
+Value of root[162]['selected'] changed from 94 to 99.
+Value of root[162]['remaining'] changed from -4 to -9.
+Value of root[164]['selected'] changed from 76 to 77.
+Value of root[164]['remaining'] changed from 4 to 3.
+Value of root[167]['select'] changed from 59 to 58.
+Value of root[167]['selected'] changed from 58 to 62.
+Value of root[167]['remaining'] changed from -3 to -7.
+Value of root[168]['select'] changed from 13 to 11.
+Value of root[168]['selected'] changed from 51 to 55.
+Value of root[168]['remaining'] changed from -1 to -5.
+Value of root[170]['select'] changed from 17 to 16.
+Value of root[170]['selected'] changed from 98 to 102.
+Value of root[170]['remaining'] changed from -3 to -7.
+Value of root[173]['select'] changed from 28 to 24.
+Value of root[173]['selected'] changed from 85 to 91.
+Value of root[173]['remaining'] changed from 0 to -6.
+Value of root[175]['selected'] changed from 62 to 61.
+Value of root[175]['remaining'] changed from 8 to 9.
+Value of root[176]['selected'] changed from 50 to 49.
+Value of root[176]['remaining'] changed from 0 to 1.
+Value of root[177]['selected'] changed from 28 to 26.
+Value of root[177]['remaining'] changed from 17 to 19.
+Value of root[179]['selected'] changed from 54 to 57.
+Value of root[179]['remaining'] changed from -4 to -7.
+Value of root[180]['room'] changed from "二3,4(工EC 2003)" to "".
+Value of root[181]['room'] changed from "四5,6(海MA 3021)" to "".
+Value of root[182]['select'] changed from 22 to 20.
+Value of root[182]['selected'] changed from 80 to 86.
+Value of root[182]['remaining'] changed from -7 to -13.
+Value of root[182]['room'] changed from "二3,4(通GE 1008)" to "".
+Value of root[183]['select'] changed from 16 to 15.
+Value of root[183]['selected'] changed from 85 to 87.
+Value of root[183]['remaining'] changed from -5 to -7.
+Value of root[183]['room'] changed from "一5,6,7(通GE 4016)" to "".
+Value of root[184]['room'] changed from "一8,9(國IR 3002)" to "".
+Value of root[185]['select'] changed from 9 to 8.
+Value of root[185]['selected'] changed from 49 to 50.
+Value of root[185]['remaining'] changed from 1 to 0.
+Value of root[185]['room'] changed from "四2,3,4(理SC 1001)" to "".
+Value of root[186]['select'] changed from 34 to 32.
+Value of root[186]['selected'] changed from 63 to 66.
+Value of root[186]['remaining'] changed from -3 to -6.
+Value of root[186]['room'] changed from "五8,6,7(通GE 4016)" to "".
+Value of root[187]['select'] changed from 40 to 37.
+Value of root[187]['selected'] changed from 155 to 159.
+Value of root[187]['remaining'] changed from -5 to -9.
+Value of root[187]['room'] changed from "五6,7(通GE 1010)" to "".
+Value of root[188]['select'] changed from 19 to 18.
+Value of root[188]['selected'] changed from 52 to 53.
+Value of root[188]['remaining'] changed from -2 to -3.
+Value of root[188]['room'] changed from "三5,6(通GE 1008)" to "".
+Value of root[189]['selected'] changed from 54 to 55.
+Value of root[189]['remaining'] changed from -4 to -5.
+Value of root[189]['room'] changed from "一3,4(工EC 2011)" to "".
+Value of root[246]['select'] changed from 0 to 1.
+Value of root[246]['selected'] changed from 8 to 7.
+Value of root[246]['remaining'] changed from 42 to 43.
+Value of root[248]['select'] changed from 0 to 1.
+Value of root[248]['selected'] changed from 37 to 36.
+Value of root[248]['remaining'] changed from 13 to 14.
+Value of root[249]['select'] changed from 2 to 1.
+Value of root[249]['selected'] changed from 58 to 60.
+Value of root[249]['remaining'] changed from -8 to -10.
+Value of root[250]['select'] changed from 1 to 0.
+Value of root[250]['selected'] changed from 59 to 60.
+Value of root[250]['remaining'] changed from -9 to -10.
+Value of root[251]['select'] changed from 5 to 1.
+Value of root[251]['selected'] changed from 58 to 71.
+Value of root[251]['remaining'] changed from -8 to -21.
+Value of root[253]['selected'] changed from 54 to 55.
+Value of root[253]['remaining'] changed from 11 to 10.
+Value of root[254]['select'] changed from 4 to 1.
+Value of root[254]['selected'] changed from 50 to 53.
+Value of root[254]['remaining'] changed from 0 to -3.
+Value of root[255]['selected'] changed from 51 to 54.
+Value of root[255]['remaining'] changed from -1 to -4.
+Value of root[257]['selected'] changed from 71 to 72.
+Value of root[257]['remaining'] changed from -1 to -2.
+Value of root[259]['selected'] changed from 47 to 49.
+Value of root[259]['remaining'] changed from 23 to 21.
+Value of root[269]['selected'] changed from 19 to 20.
+Value of root[269]['remaining'] changed from 6 to 5.
+Value of root[272]['selected'] changed from 49 to 50.
+Value of root[272]['remaining'] changed from 1 to 0.
+Value of root[304]['select'] changed from 3 to 2.
+Value of root[304]['selected'] changed from 27 to 28.
+Value of root[304]['remaining'] changed from -1 to -2.
+Value of root[342]['select'] changed from 5 to 4.
+Value of root[342]['selected'] changed from 11 to 12.
+Value of root[342]['remaining'] changed from -1 to -2.
+Value of root[360]['selected'] changed from 20 to 21.
+Value of root[360]['remaining'] changed from 0 to -1.
+Value of root[386]['select'] changed from 1 to 2.
+Value of root[386]['selected'] changed from 34 to 33.
+Value of root[386]['remaining'] changed from 6 to 7.
+Value of root[408]['select'] changed from 6 to 5.
+Value of root[408]['selected'] changed from 40 to 41.
+Value of root[408]['remaining'] changed from 0 to -1.
+Value of root[416]['selected'] changed from 38 to 39.
+Value of root[416]['remaining'] changed from 12 to 11.
+Value of root[421]['selected'] changed from 50 to 49.
+Value of root[421]['remaining'] changed from 0 to 1.
+Value of root[424]['select'] changed from 15 to 16.
+Value of root[424]['selected'] changed from 49 to 48.
+Value of root[424]['remaining'] changed from 1 to 2.
+Value of root[428]['selected'] changed from 51 to 50.
+Value of root[428]['remaining'] changed from -1 to 0.
+Value of root[429]['select'] changed from 19 to 18.
+Value of root[429]['selected'] changed from 50 to 51.
+Value of root[429]['remaining'] changed from 0 to -1.
+Value of root[430]['selected'] changed from 51 to 52.
+Value of root[430]['remaining'] changed from -1 to -2.
+Value of root[434]['selected'] changed from 42 to 46.
+Value of root[434]['remaining'] changed from -10 to -14.
+Value of root[435]['selected'] changed from 33 to 37.
+Value of root[435]['remaining'] changed from -3 to -7.
+Value of root[437]['select'] changed from 13 to 12.
+Value of root[437]['selected'] changed from 31 to 33.
+Value of root[437]['remaining'] changed from -1 to -3.
+Value of root[440]['select'] changed from 7 to 6.
+Value of root[440]['selected'] changed from 38 to 39.
+Value of root[440]['remaining'] changed from -3 to -4.
+Value of root[441]['select'] changed from 2 to 3.
+Value of root[441]['selected'] changed from 41 to 40.
+Value of root[441]['remaining'] changed from 4 to 5.
+Value of root[442]['selected'] changed from 41 to 42.
+Value of root[442]['remaining'] changed from -1 to -2.
+Value of root[445]['selected'] changed from 45 to 47.
+Value of root[445]['remaining'] changed from -5 to -7.
+Value of root[447]['select'] changed from 11 to 10.
+Value of root[447]['selected'] changed from 41 to 44.
+Value of root[447]['remaining'] changed from -1 to -4.
+Value of root[450]['selected'] changed from 22 to 23.
+Value of root[450]['remaining'] changed from 28 to 27.
+Value of root[455]['selected'] changed from 36 to 37.
+Value of root[455]['remaining'] changed from 4 to 3.
+Value of root[457]['select'] changed from 0 to 1.
+Value of root[457]['selected'] changed from 15 to 14.
+Value of root[457]['remaining'] changed from 15 to 16.
+Value of root[461]['select'] changed from 2 to 3.
+Value of root[461]['selected'] changed from 34 to 33.
+Value of root[461]['remaining'] changed from 1 to 2.
+Value of root[476]['select'] changed from 1 to 0.
+Value of root[476]['selected'] changed from 15 to 16.
+Value of root[476]['remaining'] changed from 1 to 0.
+Value of root[477]['select'] changed from 1 to 0.
+Value of root[477]['selected'] changed from 15 to 16.
+Value of root[477]['remaining'] changed from 1 to 0.
+Value of root[478]['selected'] changed from 16 to 17.
+Value of root[478]['remaining'] changed from 0 to -1.
+Value of root[480]['select'] changed from 3 to 2.
+Value of root[480]['selected'] changed from 52 to 54.
+Value of root[480]['remaining'] changed from -2 to -4.
+Value of root[484]['selected'] changed from 16 to 17.
+Value of root[484]['remaining'] changed from 0 to -1.
+Value of root[488]['selected'] changed from 51 to 50.
+Value of root[488]['remaining'] changed from -1 to 0.
+Value of root[490]['select'] changed from 3 to 2.
+Value of root[490]['selected'] changed from 51 to 52.
+Value of root[490]['remaining'] changed from -1 to -2.
+Value of root[491]['selected'] changed from 16 to 18.
+Value of root[491]['remaining'] changed from 34 to 32.
+Value of root[492]['selected'] changed from 25 to 28.
+Value of root[492]['remaining'] changed from -5 to -8.
+Value of root[493]['select'] changed from 17 to 13.
+Value of root[493]['selected'] changed from 27 to 33.
+Value of root[493]['remaining'] changed from -7 to -13.
+Value of root[494]['select'] changed from 3 to 2.
+Value of root[494]['selected'] changed from 19 to 20.
+Value of root[494]['remaining'] changed from 1 to 0.
+Value of root[497]['select'] changed from 3 to 4.
+Value of root[497]['selected'] changed from 20 to 18.
+Value of root[497]['remaining'] changed from 0 to 2.
+Value of root[498]['select'] changed from 8 to 5.
+Value of root[498]['selected'] changed from 22 to 25.
+Value of root[498]['remaining'] changed from -2 to -5.
+Value of root[499]['selected'] changed from 20 to 21.
+Value of root[499]['remaining'] changed from 0 to -1.
+Value of root[502]['selected'] changed from 12 to 13.
+Value of root[502]['remaining'] changed from 4 to 3.
+Value of root[505]['select'] changed from 1 to 2.
+Value of root[505]['selected'] changed from 21 to 20.
+Value of root[505]['remaining'] changed from 29 to 30.
+Value of root[506]['selected'] changed from 44 to 45.
+Value of root[506]['remaining'] changed from 6 to 5.
+Value of root[511]['selected'] changed from 54 to 55.
+Value of root[511]['remaining'] changed from -4 to -5.
+Value of root[515]['selected'] changed from 29 to 30.
+Value of root[515]['remaining'] changed from 21 to 20.
+Value of root[521]['select'] changed from 1 to 0.
+Value of root[521]['selected'] changed from 53 to 54.
+Value of root[521]['remaining'] changed from 17 to 16.
+Value of root[522]['selected'] changed from 44 to 43.
+Value of root[522]['remaining'] changed from 6 to 7.
+Value of root[523]['selected'] changed from 31 to 32.
+Value of root[523]['remaining'] changed from 19 to 18.
+Value of root[524]['selected'] changed from 34 to 35.
+Value of root[524]['remaining'] changed from 16 to 15.
+Value of root[550]['selected'] changed from 13 to 14.
+Value of root[550]['remaining'] changed from 37 to 36.
+Value of root[551]['selected'] changed from 16 to 17.
+Value of root[551]['remaining'] changed from 34 to 33.
+Value of root[553]['selected'] changed from 8 to 9.
+Value of root[553]['remaining'] changed from 42 to 41.
+Value of root[554]['selected'] changed from 45 to 46.
+Value of root[554]['remaining'] changed from 5 to 4.
+Value of root[562]['selected'] changed from 16 to 17.
+Value of root[562]['remaining'] changed from 9 to 8.
+Value of root[568]['selected'] changed from 36 to 37.
+Value of root[568]['remaining'] changed from 14 to 13.
+Value of root[573]['selected'] changed from 33 to 34.
+Value of root[573]['remaining'] changed from 17 to 16.
+Value of root[578]['selected'] changed from 18 to 19.
+Value of root[578]['remaining'] changed from 32 to 31.
+Value of root[580]['selected'] changed from 14 to 13.
+Value of root[580]['remaining'] changed from 36 to 37.
+Value of root[583]['selected'] changed from 18 to 19.
+Value of root[583]['remaining'] changed from 32 to 31.
+Value of root[588]['selected'] changed from 13 to 14.
+Value of root[588]['remaining'] changed from 37 to 36.
+Value of root[590]['selected'] changed from 16 to 17.
+Value of root[590]['remaining'] changed from 34 to 33.
+Value of root[594]['select'] changed from 0 to 1.
+Value of root[594]['selected'] changed from 15 to 14.
+Value of root[594]['remaining'] changed from 35 to 36.
+Value of root[597]['selected'] changed from 11 to 12.
+Value of root[597]['remaining'] changed from 39 to 38.
+Value of root[605]['selected'] changed from 30 to 33.
+Value of root[605]['remaining'] changed from 20 to 17.
+Value of root[606]['selected'] changed from 46 to 48.
+Value of root[606]['remaining'] changed from 4 to 2.
+Value of root[617]['select'] changed from 1 to 2.
+Value of root[617]['selected'] changed from 35 to 34.
+Value of root[617]['remaining'] changed from 35 to 36.
+Value of root[628]['select'] changed from 1 to 2.
+Value of root[628]['selected'] changed from 12 to 10.
+Value of root[628]['remaining'] changed from 38 to 40.
+Value of root[642]['selected'] changed from 21 to 22.
+Value of root[642]['remaining'] changed from 29 to 28.
+Value of root[643]['selected'] changed from 8 to 9.
+Value of root[643]['remaining'] changed from 42 to 41.
+Value of root[648]['selected'] changed from 18 to 16.
+Value of root[648]['remaining'] changed from 32 to 34.
+Value of root[649]['selected'] changed from 46 to 48.
+Value of root[649]['remaining'] changed from 4 to 2.
+Value of root[673]['select'] changed from 10 to 7.
+Value of root[673]['selected'] changed from 142 to 149.
+Value of root[673]['remaining'] changed from -2 to -9.
+Value of root[674]['select'] changed from 9 to 6.
+Value of root[674]['selected'] changed from 144 to 148.
+Value of root[674]['remaining'] changed from -4 to -8.
+Value of root[677]['select'] changed from 2 to 1.
+Value of root[677]['selected'] changed from 32 to 33.
+Value of root[677]['remaining'] changed from 18 to 17.
+Value of root[683]['select'] changed from 4 to 3.
+Value of root[683]['selected'] changed from 26 to 27.
+Value of root[683]['remaining'] changed from 0 to -1.
+Value of root[684]['select'] changed from 0 to 1.
+Value of root[684]['selected'] changed from 36 to 35.
+Value of root[684]['remaining'] changed from 14 to 15.
+Value of root[695]['selected'] changed from 2 to 3.
+Value of root[695]['remaining'] changed from 48 to 47.
+Value of root[732]['selected'] changed from 3 to 4.
+Value of root[732]['remaining'] changed from 47 to 46.
+Value of root[764]['select'] changed from 2 to 1.
+Value of root[764]['selected'] changed from 65 to 66.
+Value of root[764]['remaining'] changed from 5 to 4.
+Value of root[766]['selected'] changed from 63 to 65.
+Value of root[766]['remaining'] changed from 12 to 10.
+Value of root[778]['select'] changed from 8 to 3.
+Value of root[778]['selected'] changed from 75 to 84.
+Value of root[778]['remaining'] changed from 0 to -9.
+Value of root[780]['select'] changed from 3 to 2.
+Value of root[780]['selected'] changed from 21 to 23.
+Value of root[780]['remaining'] changed from 29 to 27.
+Value of root[789]['select'] changed from 2 to 0.
+Value of root[789]['selected'] changed from 53 to 55.
+Value of root[789]['remaining'] changed from 17 to 15.
+Value of root[791]['select'] changed from 2 to 1.
+Value of root[791]['selected'] changed from 74 to 75.
+Value of root[791]['remaining'] changed from -4 to -5.
+Value of root[797]['selected'] changed from 60 to 59.
+Value of root[797]['remaining'] changed from 20 to 21.
+Value of root[806]['selected'] changed from 23 to 24.
+Value of root[806]['remaining'] changed from 27 to 26.
+Value of root[814]['select'] changed from 5 to 3.
+Value of root[814]['selected'] changed from 49 to 52.
+Value of root[814]['remaining'] changed from 1 to -2.
+Value of root[824]['selected'] changed from 36 to 37.
+Value of root[824]['remaining'] changed from 14 to 13.
+Value of root[829]['selected'] changed from 52 to 53.
+Value of root[829]['remaining'] changed from 3 to 2.
+Value of root[832]['select'] changed from 1 to 0.
+Value of root[832]['selected'] changed from 50 to 51.
+Value of root[832]['remaining'] changed from 0 to -1.
+Value of root[833]['selected'] changed from 50 to 49.
+Value of root[833]['remaining'] changed from 0 to 1.
+Value of root[839]['selected'] changed from 53 to 54.
+Value of root[839]['remaining'] changed from -3 to -4.
+Value of root[842]['selected'] changed from 60 to 63.
+Value of root[842]['remaining'] changed from -10 to -13.
+Value of root[850]['select'] changed from 1 to 0.
+Value of root[850]['selected'] changed from 50 to 51.
+Value of root[850]['remaining'] changed from 0 to -1.
+Value of root[851]['selected'] changed from 50 to 52.
+Value of root[851]['remaining'] changed from 0 to -2.
+Value of root[864]['selected'] changed from 106 to 107.
+Value of root[864]['remaining'] changed from 14 to 13.
+Value of root[866]['selected'] changed from 9 to 8.
+Value of root[866]['remaining'] changed from 41 to 42.
+Value of root[868]['select'] changed from 14 to 7.
+Value of root[868]['selected'] changed from 54 to 64.
+Value of root[868]['remaining'] changed from -4 to -14.
+Value of root[869]['selected'] changed from 51 to 52.
+Value of root[869]['remaining'] changed from -1 to -2.
+Value of root[871]['selected'] changed from 61 to 60.
+Value of root[871]['remaining'] changed from -1 to 0.
+Value of root[873]['select'] changed from 3 to 1.
+Value of root[873]['selected'] changed from 62 to 69.
+Value of root[873]['remaining'] changed from -2 to -9.
+Value of root[874]['select'] changed from 5 to 3.
+Value of root[874]['selected'] changed from 68 to 79.
+Value of root[874]['remaining'] changed from -8 to -19.
+Value of root[875]['select'] changed from 15 to 11.
+Value of root[875]['selected'] changed from 55 to 61.
+Value of root[875]['remaining'] changed from -5 to -11.
+Value of root[877]['select'] changed from 2 to 1.
+Value of root[877]['selected'] changed from 62 to 65.
+Value of root[877]['remaining'] changed from -2 to -5.
+Value of root[878]['selected'] changed from 59 to 61.
+Value of root[878]['remaining'] changed from 1 to -1.
+Value of root[879]['select'] changed from 2 to 1.
+Value of root[879]['selected'] changed from 66 to 69.
+Value of root[879]['remaining'] changed from -6 to -9.
+Value of root[880]['select'] changed from 4 to 1.
+Value of root[880]['selected'] changed from 60 to 66.
+Value of root[880]['remaining'] changed from 0 to -6.
+Value of root[881]['select'] changed from 2 to 0.
+Value of root[881]['selected'] changed from 61 to 64.
+Value of root[881]['remaining'] changed from -1 to -4.
+Value of root[884]['selected'] changed from 47 to 46.
+Value of root[884]['remaining'] changed from 3 to 4.
+Value of root[885]['selected'] changed from 55 to 56.
+Value of root[885]['remaining'] changed from -5 to -6.
+Value of root[887]['select'] changed from 5 to 4.
+Value of root[887]['selected'] changed from 17 to 19.
+Value of root[887]['remaining'] changed from -2 to -4.
+Value of root[891]['select'] changed from 8 to 7.
+Value of root[891]['selected'] changed from 53 to 54.
+Value of root[891]['remaining'] changed from -3 to -4.
+Value of root[893]['selected'] changed from 26 to 27.
+Value of root[893]['remaining'] changed from 24 to 23.
+Value of root[894]['selected'] changed from 41 to 40.
+Value of root[894]['remaining'] changed from 9 to 10.
+Value of root[898]['select'] changed from 1 to 0.
+Value of root[898]['selected'] changed from 24 to 25.
+Value of root[898]['remaining'] changed from 26 to 25.
+Value of root[921]['selected'] changed from 45 to 46.
+Value of root[921]['remaining'] changed from 5 to 4.
+Value of root[932]['selected'] changed from 35 to 34.
+Value of root[932]['remaining'] changed from 25 to 26.
+Value of root[935]['selected'] changed from 45 to 44.
+Value of root[935]['remaining'] changed from 25 to 26.
+Value of root[937]['selected'] changed from 38 to 39.
+Value of root[937]['remaining'] changed from 22 to 21.
+Value of root[938]['selected'] changed from 36 to 35.
+Value of root[938]['remaining'] changed from 24 to 25.
+Value of root[939]['selected'] changed from 1 to 0.
+Value of root[939]['remaining'] changed from 49 to 50.
+Value of root[943]['select'] changed from 3 to 1.
+Value of root[943]['selected'] changed from 30 to 32.
+Value of root[943]['remaining'] changed from 0 to -2.
+Value of root[947]['select'] changed from 4 to 3.
+Value of root[947]['selected'] changed from 53 to 55.
+Value of root[947]['remaining'] changed from -3 to -5.
+Value of root[951]['select'] changed from 1 to 0.
+Value of root[951]['selected'] changed from 40 to 42.
+Value of root[951]['remaining'] changed from 10 to 8.
+Value of root[952]['selected'] changed from 26 to 25.
+Value of root[952]['remaining'] changed from 34 to 35.
+Value of root[960]['selected'] changed from 12 to 14.
+Value of root[960]['remaining'] changed from 38 to 36.
+Value of root[961]['select'] changed from 0 to 1.
+Value of root[961]['selected'] changed from 44 to 43.
+Value of root[961]['remaining'] changed from 6 to 7.
+Value of root[963]['select'] changed from 0 to 1.
+Value of root[964]['selected'] changed from 37 to 38.
+Value of root[964]['remaining'] changed from 28 to 27.
+Value of root[971]['selected'] changed from 67 to 68.
+Value of root[971]['remaining'] changed from -2 to -3.
+Value of root[973]['selected'] changed from 56 to 59.
+Value of root[973]['remaining'] changed from 9 to 6.
+Value of root[975]['select'] changed from 5 to 2.
+Value of root[975]['selected'] changed from 53 to 58.
+Value of root[975]['remaining'] changed from -3 to -8.
+Value of root[976]['select'] changed from 8 to 7.
+Value of root[976]['selected'] changed from 51 to 52.
+Value of root[976]['remaining'] changed from -1 to -2.
+Value of root[977]['selected'] changed from 40 to 43.
+Value of root[977]['remaining'] changed from 10 to 7.
+Value of root[983]['selected'] changed from 55 to 54.
+Value of root[983]['remaining'] changed from 0 to 1.
+Value of root[987]['select'] changed from 6 to 4.
+Value of root[987]['selected'] changed from 51 to 54.
+Value of root[987]['remaining'] changed from -1 to -4.
+Value of root[993]['select'] changed from 1 to 2.
+Value of root[993]['selected'] changed from 47 to 46.
+Value of root[993]['remaining'] changed from 3 to 4.
+Value of root[995]['selected'] changed from 46 to 47.
+Value of root[995]['remaining'] changed from 4 to 3.
+Value of root[997]['select'] changed from 2 to 3.
+Value of root[997]['selected'] changed from 36 to 35.
+Value of root[997]['remaining'] changed from 14 to 15.
+Value of root[998]['select'] changed from 2 to 1.
+Value of root[998]['selected'] changed from 26 to 27.
+Value of root[998]['remaining'] changed from 24 to 23.
+Value of root[999]['select'] changed from 5 to 4.
+Value of root[999]['selected'] changed from 52 to 53.
+Value of root[999]['remaining'] changed from -2 to -3.
+Value of root[1000]['selected'] changed from 36 to 37.
+Value of root[1000]['remaining'] changed from 14 to 13.
+Value of root[1007]['selected'] changed from 42 to 43.
+Value of root[1007]['remaining'] changed from 8 to 7.
+Value of root[1008]['selected'] changed from 44 to 45.
+Value of root[1008]['remaining'] changed from 6 to 5.
+Value of root[1009]['selected'] changed from 48 to 47.
+Value of root[1009]['remaining'] changed from 2 to 3.
+Value of root[1011]['selected'] changed from 9 to 8.
+Value of root[1011]['remaining'] changed from 41 to 42.
+Value of root[1014]['selected'] changed from 38 to 37.
+Value of root[1014]['remaining'] changed from 12 to 13.
+Value of root[1028]['selected'] changed from 63 to 64.
+Value of root[1028]['remaining'] changed from 2 to 1.
+Value of root[1030]['select'] changed from 2 to 1.
+Value of root[1030]['selected'] changed from 58 to 60.
+Value of root[1030]['remaining'] changed from 2 to 0.
+Value of root[1032]['selected'] changed from 75 to 76.
+Value of root[1032]['remaining'] changed from -10 to -11.
+Value of root[1033]['select'] changed from 1 to 0.
+Value of root[1033]['selected'] changed from 52 to 56.
+Value of root[1033]['remaining'] changed from -2 to -6.
+Value of root[1034]['selected'] changed from 67 to 68.
+Value of root[1034]['remaining'] changed from 0 to -1.
+Value of root[1036]['select'] changed from 3 to 2.
+Value of root[1036]['selected'] changed from 65 to 66.
+Value of root[1036]['remaining'] changed from 0 to -1.
+Value of root[1037]['select'] changed from 1 to 2.
+Value of root[1037]['selected'] changed from 37 to 36.
+Value of root[1037]['remaining'] changed from 23 to 24.
+Value of root[1038]['select'] changed from 2 to 1.
+Value of root[1038]['selected'] changed from 67 to 68.
+Value of root[1038]['remaining'] changed from -2 to -3.
+Value of root[1039]['selected'] changed from 19 to 21.
+Value of root[1039]['remaining'] changed from 31 to 29.
+Value of root[1040]['selected'] changed from 5 to 4.
+Value of root[1040]['remaining'] changed from 45 to 46.
+Value of root[1042]['select'] changed from 4 to 3.
+Value of root[1042]['selected'] changed from 20 to 21.
+Value of root[1042]['remaining'] changed from 0 to -1.
+Value of root[1046]['select'] changed from 1 to 0.
+Value of root[1046]['selected'] changed from 48 to 49.
+Value of root[1046]['remaining'] changed from 2 to 1.
+Value of root[1049]['selected'] changed from 36 to 35.
+Value of root[1049]['remaining'] changed from 14 to 15.
+Value of root[1050]['select'] changed from 1 to 2.
+Value of root[1050]['selected'] changed from 50 to 49.
+Value of root[1050]['remaining'] changed from 0 to 1.
+Value of root[1052]['selected'] changed from 45 to 46.
+Value of root[1052]['remaining'] changed from 5 to 4.
+Value of root[1055]['selected'] changed from 45 to 46.
+Value of root[1055]['remaining'] changed from 5 to 4.
+Value of root[1056]['selected'] changed from 25 to 26.
+Value of root[1056]['remaining'] changed from 25 to 24.
+Value of root[1057]['selected'] changed from 48 to 47.
+Value of root[1057]['remaining'] changed from 2 to 3.
+Value of root[1058]['selected'] changed from 50 to 49.
+Value of root[1058]['remaining'] changed from 0 to 1.
+Value of root[1062]['selected'] changed from 38 to 37.
+Value of root[1062]['remaining'] changed from 12 to 13.
+Value of root[1063]['selected'] changed from 36 to 37.
+Value of root[1063]['remaining'] changed from 14 to 13.
+Value of root[1066]['selected'] changed from 39 to 38.
+Value of root[1066]['remaining'] changed from 11 to 12.
+Value of root[1076]['selected'] changed from 3 to 5.
+Value of root[1076]['remaining'] changed from 47 to 45.
+Value of root[1077]['selected'] changed from 48 to 50.
+Value of root[1077]['remaining'] changed from 2 to 0.
+Value of root[1087]['select'] changed from 1 to 0.
+Value of root[1087]['selected'] changed from 8 to 9.
+Value of root[1087]['remaining'] changed from 42 to 41.
+Value of root[1091]['select'] changed from 2 to 0.
+Value of root[1091]['selected'] changed from 53 to 56.
+Value of root[1091]['remaining'] changed from -3 to -6.
+Value of root[1092]['selected'] changed from 56 to 57.
+Value of root[1092]['remaining'] changed from 14 to 13.
+Value of root[1095]['selected'] changed from 46 to 47.
+Value of root[1095]['remaining'] changed from 4 to 3.
+Value of root[1116]['select'] changed from 3 to 2.
+Value of root[1116]['selected'] changed from 50 to 51.
+Value of root[1116]['remaining'] changed from 0 to -1.
+Value of root[1117]['selected'] changed from 46 to 45.
+Value of root[1117]['remaining'] changed from 4 to 5.
+Value of root[1119]['selected'] changed from 6 to 7.
+Value of root[1119]['remaining'] changed from 44 to 43.
+Value of root[1120]['selected'] changed from 41 to 44.
+Value of root[1120]['remaining'] changed from -1 to -4.
+Value of root[1148]['selected'] changed from 9 to 8.
+Value of root[1148]['remaining'] changed from 6 to 7.
+Value of root[1150]['selected'] changed from 5 to 6.
+Value of root[1150]['remaining'] changed from 5 to 4.
+Value of root[1155]['select'] changed from 14 to 9.
+Value of root[1155]['selected'] changed from 49 to 56.
+Value of root[1155]['remaining'] changed from 1 to -6.
+Value of root[1156]['select'] changed from 5 to 2.
+Value of root[1156]['selected'] changed from 55 to 61.
+Value of root[1156]['remaining'] changed from -5 to -11.
+Value of root[1159]['selected'] changed from 30 to 31.
+Value of root[1159]['remaining'] changed from 0 to -1.
+Value of root[1160]['selected'] changed from 69 to 70.
+Value of root[1160]['remaining'] changed from 16 to 15.
+Value of root[1161]['select'] changed from 4 to 2.
+Value of root[1161]['selected'] changed from 55 to 57.
+Value of root[1161]['remaining'] changed from 0 to -2.
+Value of root[1163]['select'] changed from 2 to 1.
+Value of root[1163]['selected'] changed from 30 to 31.
+Value of root[1163]['remaining'] changed from 20 to 19.
+Value of root[1165]['select'] changed from 5 to 4.
+Value of root[1165]['selected'] changed from 64 to 66.
+Value of root[1165]['remaining'] changed from -4 to -6.
+Value of root[1168]['selected'] changed from 51 to 52.
+Value of root[1168]['remaining'] changed from -1 to -2.
+Value of root[1169]['selected'] changed from 49 to 48.
+Value of root[1169]['remaining'] changed from 1 to 2.
+Value of root[1175]['selected'] changed from 13 to 14.
+Value of root[1175]['remaining'] changed from 37 to 36.
+Value of root[1179]['selected'] changed from 50 to 49.
+Value of root[1179]['remaining'] changed from 0 to 1.
+Value of root[1180]['select'] changed from 1 to 0.
+Value of root[1180]['selected'] changed from 50 to 51.
+Value of root[1180]['remaining'] changed from 0 to -1.
+Value of root[1181]['select'] changed from 1 to 0.
+Value of root[1181]['selected'] changed from 50 to 51.
+Value of root[1181]['remaining'] changed from 0 to -1.
+Value of root[1184]['select'] changed from 5 to 4.
+Value of root[1184]['selected'] changed from 50 to 51.
+Value of root[1184]['remaining'] changed from 0 to -1.
+Value of root[1186]['select'] changed from 5 to 4.
+Value of root[1186]['selected'] changed from 27 to 28.
+Value of root[1186]['remaining'] changed from -7 to -8.
+Value of root[1193]['selected'] changed from 29 to 30.
+Value of root[1193]['remaining'] changed from 21 to 20.
+Value of root[1196]['selected'] changed from 18 to 19.
+Value of root[1196]['remaining'] changed from 2 to 1.
+Value of root[1199]['selected'] changed from 20 to 22.
+Value of root[1199]['remaining'] changed from 0 to -2.
+Value of root[1200]['select'] changed from 1 to 2.
+Value of root[1200]['selected'] changed from 15 to 14.
+Value of root[1200]['remaining'] changed from 5 to 6.
+Value of root[1204]['selected'] changed from 9 to 10.
+Value of root[1204]['remaining'] changed from 11 to 10.
+Value of root[1212]['selected'] changed from 2 to 0.
+Value of root[1212]['remaining'] changed from 48 to 50.
+Value of root[1217]['selected'] changed from 24 to 25.
+Value of root[1217]['remaining'] changed from 26 to 25.
+Value of root[1221]['selected'] changed from 6 to 7.
+Value of root[1221]['remaining'] changed from 44 to 43.
+Value of root[1222]['selected'] changed from 5 to 4.
+Value of root[1222]['remaining'] changed from 45 to 46.
+Value of root[1292]['selected'] changed from 50 to 52.
+Value of root[1292]['remaining'] changed from 0 to -2.
+Value of root[1294]['selected'] changed from 28 to 26.
+Value of root[1294]['remaining'] changed from 22 to 24.
+Value of root[1295]['selected'] changed from 28 to 27.
+Value of root[1295]['remaining'] changed from 22 to 23.
+Value of root[1296]['selected'] changed from 31 to 33.
+Value of root[1296]['remaining'] changed from 19 to 17.
+Value of root[1298]['selected'] changed from 34 to 35.
+Value of root[1298]['remaining'] changed from 16 to 15.
+Value of root[1300]['selected'] changed from 35 to 36.
+Value of root[1300]['remaining'] changed from 15 to 14.
+Value of root[1301]['selected'] changed from 37 to 35.
+Value of root[1301]['remaining'] changed from 13 to 15.
+Value of root[1302]['selected'] changed from 3 to 2.
+Value of root[1302]['remaining'] changed from 47 to 48.
+Value of root[1308]['select'] changed from 1 to 2.
+Value of root[1308]['selected'] changed from 26 to 24.
+Value of root[1308]['remaining'] changed from 24 to 26.
+Value of root[1316]['selected'] changed from 22 to 23.
+Value of root[1316]['remaining'] changed from 0 to -1.
+Value of root[1342]['selected'] changed from 4 to 5.
+Value of root[1342]['remaining'] changed from 16 to 15.
+Value of root[1344]['select'] changed from 12 to 11.
+Value of root[1344]['selected'] changed from 10 to 11.
+Value of root[1344]['remaining'] changed from 0 to -1.
+Value of root[1345]['select'] changed from 19 to 18.
+Value of root[1345]['selected'] changed from 10 to 11.
+Value of root[1345]['remaining'] changed from 0 to -1.
+Value of root[1349]['select'] changed from 1 to 2.
+Value of root[1349]['selected'] changed from 1 to 0.
+Value of root[1349]['remaining'] changed from 24 to 25.
+Value of root[1363]['selected'] changed from 9 to 8.
+Value of root[1363]['remaining'] changed from 41 to 42.
+Value of root[1380]['select'] changed from 1 to 0.
+Value of root[1380]['selected'] changed from 13 to 16.
+Value of root[1380]['remaining'] changed from 37 to 34.
+Value of root[1394]['select'] changed from 1 to 0.
+Value of root[1394]['selected'] changed from 10 to 12.
+Value of root[1394]['remaining'] changed from 40 to 38.
+Value of root[1395]['selected'] changed from 13 to 14.
+Value of root[1395]['remaining'] changed from 37 to 36.
+Value of root[1422]['selected'] changed from 9 to 10.
+Value of root[1422]['remaining'] changed from 41 to 40.
+Value of root[1423]['selected'] changed from 14 to 15.
+Value of root[1423]['remaining'] changed from 36 to 35.
+Value of root[1424]['selected'] changed from 6 to 7.
+Value of root[1424]['remaining'] changed from 44 to 43.
+Value of root[1429]['selected'] changed from 27 to 28.
+Value of root[1429]['remaining'] changed from 23 to 22.
+Value of root[1454]['selected'] changed from 1 to 2.
+Value of root[1454]['remaining'] changed from 49 to 48.
+Value of root[1459]['selected'] changed from 21 to 20.
+Value of root[1459]['remaining'] changed from 29 to 30.
+Value of root[1468]['selected'] changed from 7 to 6.
+Value of root[1468]['remaining'] changed from 43 to 44.
+Value of root[1477]['selected'] changed from 20 to 19.
+Value of root[1477]['remaining'] changed from 30 to 31.
+Value of root[1479]['selected'] changed from 32 to 33.
+Value of root[1479]['remaining'] changed from 18 to 17.
+Value of root[1483]['selected'] changed from 41 to 40.
+Value of root[1483]['remaining'] changed from 9 to 10.
+Value of root[1495]['selected'] changed from 60 to 61.
+Value of root[1495]['remaining'] changed from 0 to -1.
+Value of root[1496]['select'] changed from 8 to 5.
+Value of root[1496]['selected'] changed from 66 to 70.
+Value of root[1496]['remaining'] changed from -6 to -10.
+Value of root[1509]['selected'] changed from 42 to 43.
+Value of root[1509]['remaining'] changed from 8 to 7.
+Value of root[1512]['selected'] changed from 5 to 6.
+Value of root[1512]['remaining'] changed from 45 to 44.
+Value of root[1516]['selected'] changed from 16 to 17.
+Value of root[1516]['remaining'] changed from 34 to 33.
+Value of root[1540]['room'] changed from "三5,6,7(理SC 4009-0)" to "".
+Value of root[1541]['room'] changed from "一1(理SC 4013) 二1(理SC 4013) 三1(理SC 4013)" to "".
+Value of root[1542]['room'] changed from "四6(理SC 4011)" to "".
+Value of root[1543]['room'] changed from "三5,6,7(理SC 4009-1)" to "".
+Value of root[1544]['room'] changed from "二8,6,7(理SC 4009-0)" to "".
+Value of root[1545]['room'] changed from "二8,6,7(理SC 4011)" to "".
+Value of root[1546]['room'] changed from "四6(理SC 4013)" to "".
+Value of root[1547]['room'] changed from "二2,3,4(理SC 4013)" to "".
+Value of root[1548]['room'] changed from "五2,3,4(理SC 4011-2)" to "".
+Value of root[1549]['room'] changed from "二1(理SC 2002-6) 三1(理SC 2002-6) 五1(理SC 2002-6)" to "".
+Value of root[1550]['room'] changed from "一9,1(理SC 4011-2) 五1(理SC 4011-2)" to "".
+Value of root[1551]['room'] changed from "三5,6,7(理SC 4011-2)" to "".
+Value of root[1552]['room'] changed from "三5,6,7(理SC 4013)" to "".
+Value of root[1556]['selected'] changed from 51 to 52.
+Value of root[1556]['remaining'] changed from 9 to 8.
+Value of root[1560]['selected'] changed from 36 to 37.
+Value of root[1560]['remaining'] changed from 14 to 13.
+Value of root[1563]['select'] changed from 0 to 1.
+Value of root[1563]['selected'] changed from 22 to 19.
+Value of root[1563]['remaining'] changed from 28 to 31.
+Value of root[1574]['selected'] changed from 60 to 59.
+Value of root[1574]['remaining'] changed from 0 to 1.
+Value of root[1576]['selected'] changed from 24 to 23.
+Value of root[1576]['remaining'] changed from 26 to 27.
+Value of root[1613]['select'] changed from 0 to 1.
+Value of root[1613]['selected'] changed from 12 to 11.
+Value of root[1613]['remaining'] changed from 38 to 39.
+Value of root[1626]['select'] changed from 8 to 6.
+Value of root[1626]['selected'] changed from 69 to 71.
+Value of root[1626]['remaining'] changed from -19 to -21.
+Value of root[1627]['select'] changed from 28 to 27.
+Value of root[1627]['selected'] changed from 99 to 100.
+Value of root[1627]['remaining'] changed from 1 to 0.
+Value of root[1628]['selected'] changed from 31 to 32.
+Value of root[1628]['remaining'] changed from 19 to 18.
+Value of root[1634]['selected'] changed from 62 to 69.
+Value of root[1634]['remaining'] changed from 13 to 6.
+Value of root[1635]['select'] changed from 9 to 6.
+Value of root[1635]['selected'] changed from 63 to 69.
+Value of root[1635]['remaining'] changed from -13 to -19.
+Value of root[1673]['selected'] changed from 64 to 63.
+Value of root[1673]['remaining'] changed from 6 to 7.
+Value of root[1674]['selected'] changed from 63 to 64.
+Value of root[1674]['remaining'] changed from 17 to 16.
+Value of root[1684]['select'] changed from 1 to 0.
+Value of root[1684]['selected'] changed from 7 to 8.
+Value of root[1684]['remaining'] changed from 43 to 42.
+Value of root[1692]['selected'] changed from 13 to 14.
+Value of root[1692]['remaining'] changed from 37 to 36.
+Value of root[1693]['selected'] changed from 42 to 44.
+Value of root[1693]['remaining'] changed from 8 to 6.
+Value of root[1701]['selected'] changed from 10 to 11.
+Value of root[1701]['remaining'] changed from 40 to 39.
+Value of root[1703]['selected'] changed from 9 to 10.
+Value of root[1703]['remaining'] changed from 41 to 40.
+Value of root[1707]['select'] changed from 1 to 2.
+Value of root[1707]['selected'] changed from 43 to 41.
+Value of root[1707]['remaining'] changed from 7 to 9.
+Value of root[1708]['selected'] changed from 30 to 29.
+Value of root[1708]['remaining'] changed from 20 to 21.
+Value of root[1712]['selected'] changed from 49 to 50.
+Value of root[1712]['remaining'] changed from 1 to 0.
+Value of root[1726]['selected'] changed from 14 to 13.
+Value of root[1726]['remaining'] changed from 36 to 37.
+Value of root[1729]['select'] changed from 5 to 4.
+Value of root[1729]['selected'] changed from 51 to 52.
+Value of root[1729]['remaining'] changed from -1 to -2.
+Value of root[1748]['selected'] changed from 6 to 7.
+Value of root[1748]['remaining'] changed from 44 to 43.
+Value of root[1756]['select'] changed from 2 to 1.
+Value of root[1756]['selected'] changed from 72 to 73.
+Value of root[1756]['remaining'] changed from -2 to -3.
+Value of root[1761]['selected'] changed from 21 to 20.
+Value of root[1761]['remaining'] changed from -1 to 0.
+Value of root[1768]['selected'] changed from 33 to 36.
+Value of root[1768]['remaining'] changed from 26 to 23.
+Value of root[1797]['selected'] changed from 23 to 22.
+Value of root[1797]['remaining'] changed from 27 to 28.
+Value of root[1826]['selected'] changed from 16 to 17.
+Value of root[1826]['remaining'] changed from 34 to 33.
+Value of root[1838]['select'] changed from 9 to 8.
+Value of root[1840]['select'] changed from 10 to 9.
+Value of root[1840]['selected'] changed from 31 to 33.
+Value of root[1840]['remaining'] changed from -1 to -3.
+Value of root[1843]['select'] changed from 2 to 1.
+Value of root[1843]['selected'] changed from 53 to 54.
+Value of root[1843]['remaining'] changed from -3 to -4.
+Value of root[1853]['selected'] changed from 2 to 3.
+Value of root[1853]['remaining'] changed from 48 to 47.
+Value of root[1857]['select'] changed from 4 to 1.
+Value of root[1857]['selected'] changed from 53 to 56.
+Value of root[1857]['remaining'] changed from -3 to -6.
+Value of root[1858]['room'] changed from "三5,6,7(管CM 2020)" to "三5,6,7(管CM 1019)".
+Value of root[1859]['selected'] changed from 6 to 5.
+Value of root[1859]['remaining'] changed from 44 to 45.
+Value of root[1862]['select'] changed from 2 to 3.
+Value of root[1862]['selected'] changed from 20 to 19.
+Value of root[1862]['remaining'] changed from 30 to 31.
+Value of root[1864]['selected'] changed from 46 to 47.
+Value of root[1864]['remaining'] changed from 4 to 3.
+Value of root[1865]['select'] changed from 1 to 2.
+Value of root[1865]['selected'] changed from 15 to 14.
+Value of root[1865]['remaining'] changed from 35 to 36.
+Value of root[1869]['select'] changed from 4 to 5.
+Value of root[1869]['selected'] changed from 37 to 36.
+Value of root[1869]['remaining'] changed from 13 to 14.
+Value of root[1872]['selected'] changed from 11 to 12.
+Value of root[1872]['remaining'] changed from 39 to 38.
+Value of root[1884]['select'] changed from 1 to 0.
+Value of root[1884]['selected'] changed from 8 to 9.
+Value of root[1884]['remaining'] changed from 42 to 41.
+Value of root[1886]['selected'] changed from 26 to 27.
+Value of root[1886]['remaining'] changed from 24 to 23.
+Value of root[1889]['select'] changed from 0 to 1.
+Value of root[1889]['selected'] changed from 13 to 12.
+Value of root[1889]['remaining'] changed from 37 to 38.
+Value of root[1894]['select'] changed from 9 to 8.
+Value of root[1895]['selected'] changed from 31 to 32.
+Value of root[1895]['remaining'] changed from 19 to 18.
+Value of root[1896]['selected'] changed from 32 to 33.
+Value of root[1896]['remaining'] changed from -7 to -8.
+Value of root[1914]['select'] changed from 3 to 2.
+Value of root[1914]['selected'] changed from 27 to 28.
+Value of root[1914]['remaining'] changed from 23 to 22.
+Value of root[1916]['selected'] changed from 12 to 11.
+Value of root[1916]['remaining'] changed from 38 to 39.
+Value of root[1922]['select'] changed from 2 to 1.
+Value of root[1922]['selected'] changed from 53 to 55.
+Value of root[1922]['remaining'] changed from -3 to -5.
+Value of root[1923]['select'] changed from 7 to 4.
+Value of root[1923]['selected'] changed from 57 to 62.
+Value of root[1923]['remaining'] changed from -7 to -12.
+Value of root[1925]['select'] changed from 25 to 10.
+Value of root[1925]['selected'] changed from 62 to 84.
+Value of root[1925]['remaining'] changed from -12 to -34.
+Value of root[1926]['select'] changed from 17 to 15.
+Value of root[1926]['selected'] changed from 54 to 55.
+Value of root[1926]['remaining'] changed from -4 to -5.
+Value of root[1928]['select'] changed from 6 to 5.
+Value of root[1928]['selected'] changed from 60 to 67.
+Value of root[1928]['remaining'] changed from -10 to -17.
+Value of root[1943]['selected'] changed from 12 to 17.
+Value of root[1943]['remaining'] changed from 18 to 13.
+Value of root[1947]['selected'] changed from 38 to 40.
+Value of root[1947]['remaining'] changed from 12 to 10.
+Value of root[1948]['selected'] changed from 38 to 40.
+Value of root[1948]['remaining'] changed from 12 to 10.
+Value of root[1950]['selected'] changed from 21 to 24.
+Value of root[1950]['remaining'] changed from 14 to 11.
+Value of root[1954]['selected'] changed from 27 to 28.
+Value of root[1954]['remaining'] changed from 23 to 22.
+Value of root[1959]['selected'] changed from 16 to 17.
+Value of root[1959]['remaining'] changed from 14 to 13.
+Value of root[1961]['selected'] changed from 5 to 6.
+Value of root[1961]['remaining'] changed from 25 to 24.
+Value of root[1962]['selected'] changed from 15 to 16.
+Value of root[1962]['remaining'] changed from 15 to 14.
+Value of root[2007]['teacher'] changed from "卓宴琳,張揚祺,曾以帆,李政賢,林俊宏,林巧雯,歐雅森,葉博弘,詹鵬台,金尚進,鍾秉宸,陸曉筠" to "卓宴琳,張揚祺,曾以帆,李政賢,林俊宏,林巧雯,歐雅森,莊偉良,葉博弘,詹鵬台,金尚進,鍾秉宸,陸曉筠".
+Value of root[2059]['selected'] changed from 8 to 7.
+Value of root[2059]['remaining'] changed from 42 to 43.
+Value of root[2077]['selected'] changed from 20 to 21.
+Value of root[2077]['remaining'] changed from 20 to 19.
+Value of root[2084]['select'] changed from 3 to 2.
+Value of root[2084]['selected'] changed from 19 to 23.
+Value of root[2084]['remaining'] changed from 1 to -3.
+Value of root[2085]['selected'] changed from 16 to 17.
+Value of root[2085]['remaining'] changed from 4 to 3.
+Value of root[2128]['selected'] changed from 9 to 8.
+Value of root[2128]['remaining'] changed from 41 to 42.
+Value of root[2129]['selected'] changed from 25 to 24.
+Value of root[2129]['remaining'] changed from 25 to 26.
+Value of root[2130]['selected'] changed from 28 to 27.
+Value of root[2130]['remaining'] changed from 22 to 23.
+Value of root[2132]['selected'] changed from 8 to 7.
+Value of root[2132]['remaining'] changed from 42 to 43.
+Value of root[2138]['selected'] changed from 14 to 13.
+Value of root[2138]['remaining'] changed from 36 to 37.
+Value of root[2143]['selected'] changed from 11 to 12.
+Value of root[2143]['remaining'] changed from 39 to 38.
+Value of root[2154]['select'] changed from 1 to 0.
+Value of root[2154]['selected'] changed from 15 to 16.
+Value of root[2154]['remaining'] changed from 35 to 34.
+Value of root[2155]['selected'] changed from 21 to 22.
+Value of root[2155]['remaining'] changed from 29 to 28.
+Value of root[2158]['selected'] changed from 16 to 15.
+Value of root[2158]['remaining'] changed from 34 to 35.
+Value of root[2163]['selected'] changed from 8 to 7.
+Value of root[2163]['remaining'] changed from 12 to 13.
+Value of root[2164]['selected'] changed from 3 to 4.
+Value of root[2164]['remaining'] changed from 17 to 16.
+Value of root[2177]['selected'] changed from 11 to 12.
+Value of root[2177]['remaining'] changed from 1 to 0.
+Value of root[2187]['selected'] changed from 2 to 3.
+Value of root[2187]['remaining'] changed from 8 to 7.
+Value of root[2200]['room'] changed from "五2,3,4(國IR 5004)" to "".
+Value of root[2201]['room'] changed from "三6(國IR 5002)" to "".
+Value of root[2202]['room'] changed from "二2,3,4(國IR 1006-1)" to "".
+Value of root[2203]['room'] changed from "二B,5,6(國IR 1006-1)" to "".
+Value of root[2204]['room'] changed from "一2,3,4(國IR 1006-1)" to "".
+Value of root[2205]['room'] changed from "一5,6,7(國IR 1006-1)" to "".
+Value of root[2206]['room'] changed from "五8,6,7(國IR 1006-1)" to "".
+Value of root[2207]['room'] changed from "一5,6,7(國IR 5002)" to "".
+Value of root[2208]['room'] changed from "五2,3,4(國IR 5002)" to "".
+Value of root[2209]['room'] changed from "五4,B,5(國IR 1006-1)" to "".
+Value of root[2210]['room'] changed from "一5,6,7(國IR 5003)" to "".
+Value of root[2211]['room'] changed from "五8,6,7(國IR 5002)" to "".
+Value of root[2212]['room'] changed from "四8,6,7(國IR 5002)" to "".
+Value of root[2213]['room'] changed from "二2,3,4(國IR 5002)" to "".
+Value of root[2214]['room'] changed from "五1,2,3(國IR 1006-1)" to "".
+Value of root[2215]['room'] changed from "五2,3,4(國IR 5003)" to "".
+Value of root[2216]['room'] changed from "二5,6(國IR 5003)" to "".
+Value of root[2217]['room'] changed from "三7(國IR 5002)" to "".
+Value of root[2218]['room'] changed from "四2,3,4(國IR 1006-1)" to "".
+Value of root[2219]['room'] changed from "三5(國IR 5003)" to "".
+Value of root[2264]['selected'] changed from 5 to 7.
+Value of root[2264]['remaining'] changed from 0 to -2.
+Value of root[2266]['selected'] changed from 39 to 40.
+Value of root[2266]['remaining'] changed from -7 to -8.
+Value of root[2270]['select'] changed from 12 to 9.
+Value of root[2270]['selected'] changed from 43 to 46.
+Value of root[2270]['remaining'] changed from 2 to -1.
+Value of root[2271]['select'] changed from 4 to 5.
+Value of root[2271]['selected'] changed from 45 to 43.
+Value of root[2271]['remaining'] changed from 0 to 2.
+Value of root[2274]['select'] changed from 4 to 5.
+Value of root[2274]['selected'] changed from 34 to 35.
+Value of root[2274]['remaining'] changed from -2 to -3.
+Value of root[2279]['select'] changed from 5 to 4.
+Value of root[2279]['selected'] changed from 35 to 37.
+Value of root[2279]['remaining'] changed from -3 to -5.
+Value of root[2287]['selected'] changed from 45 to 48.
+Value of root[2287]['remaining'] changed from 5 to 2.
+Value of root[2289]['selected'] changed from 16 to 19.
+Value of root[2289]['remaining'] changed from -7 to -10.
+Value of root[2290]['selected'] changed from 37 to 39.
+Value of root[2290]['remaining'] changed from 3 to 1.
+Value of root[2291]['selected'] changed from 15 to 17.
+Value of root[2291]['remaining'] changed from -6 to -8.
+Value of root[2292]['select'] changed from 0 to 1.
+Value of root[2293]['selected'] changed from 10 to 11.
+Value of root[2293]['remaining'] changed from -1 to -2.
+Value of root[2294]['select'] changed from 7 to 6.
+Value of root[2294]['selected'] changed from 11 to 12.
+Value of root[2294]['remaining'] changed from -2 to -3.
+Value of root[2295]['selected'] changed from 9 to 10.
+Value of root[2295]['remaining'] changed from 0 to -1.
+Value of root[2296]['selected'] changed from 7 to 6.
+Value of root[2296]['remaining'] changed from -2 to -1.
+Value of root[2297]['select'] changed from 2 to 3.
+Value of root[2297]['selected'] changed from 4 to 3.
+Value of root[2297]['remaining'] changed from 1 to 2.
+Value of root[2299]['selected'] changed from 19 to 18.
+Value of root[2299]['remaining'] changed from 4 to 5.
+Value of root[2302]['selected'] changed from 21 to 20.
+Value of root[2302]['remaining'] changed from 2 to 3.
+Value of root[2320]['select'] changed from 0 to 2.
+Value of root[2320]['selected'] changed from 39 to 37.
+Value of root[2320]['remaining'] changed from 31 to 33.
+Value of root[2327]['select'] changed from 1 to 3.
+Value of root[2327]['selected'] changed from 54 to 53.
+Value of root[2327]['remaining'] changed from 16 to 17.
+Value of root[2331]['select'] changed from 0 to 1.
+Value of root[2331]['selected'] changed from 12 to 11.
+Value of root[2331]['remaining'] changed from 38 to 39.
+Value of root[2365]['selected'] changed from 8 to 7.
+Value of root[2365]['remaining'] changed from 42 to 43.
+Value of root[2376]['select'] changed from 1 to 2.
+Value of root[2376]['selected'] changed from 26 to 25.
+Value of root[2376]['remaining'] changed from 24 to 25.
+Value of root[2447]['selected'] changed from 6 to 7.
+Value of root[2447]['remaining'] changed from 44 to 43.
+Value of root[2453]['selected'] changed from 36 to 35.
+Value of root[2453]['remaining'] changed from -6 to -5.
+Value of root[2489]['select'] changed from 1 to 0.
+Value of root[2489]['selected'] changed from 0 to 1.
+Value of root[2489]['remaining'] changed from 50 to 49.
+Value of root[2586]['selected'] changed from 6 to 5.
+Value of root[2586]['remaining'] changed from 44 to 45.
+Value of root[2629]['selected'] changed from 2 to 3.
+Value of root[2629]['remaining'] changed from 48 to 47.
+Value of root[2631]['selected'] changed from 38 to 37.
+Value of root[2631]['remaining'] changed from 12 to 13.
+Value of root[2632]['selected'] changed from 38 to 37.
+Value of root[2632]['remaining'] changed from 12 to 13.
+Value of root[2645]['selected'] changed from 24 to 23.
+Value of root[2645]['remaining'] changed from 26 to 27.
+Value of root[2646]['select'] changed from 0 to 1.
+Value of root[2646]['selected'] changed from 12 to 11.
+Value of root[2646]['remaining'] changed from 38 to 39.
+Value of root[2647]['select'] changed from 2 to 1.
+Value of root[2647]['selected'] changed from 72 to 73.
+Value of root[2647]['remaining'] changed from -2 to -3.
+Value of root[2652]['selected'] changed from 21 to 20.
+Value of root[2652]['remaining'] changed from -1 to 0.
+Value of root[2664]['select'] changed from 9 to 8.
+Value of root[2665]['select'] changed from 9 to 8.
+Value of root[2668]['select'] changed from 10 to 9.
+Value of root[2668]['selected'] changed from 31 to 33.
+Value of root[2668]['remaining'] changed from -1 to -3.
+Value of root[2669]['select'] changed from 10 to 9.
+Value of root[2669]['selected'] changed from 31 to 33.
+Value of root[2669]['remaining'] changed from -1 to -3.
+Value of root[2670]['select'] changed from 10 to 9.
+Value of root[2670]['selected'] changed from 31 to 33.
+Value of root[2670]['remaining'] changed from -1 to -3.
+Value of root[2671]['select'] changed from 10 to 9.
+Value of root[2671]['selected'] changed from 31 to 33.
+Value of root[2671]['remaining'] changed from -1 to -3.
+Value of root[2710]['select'] changed from 7 to 4.
+Value of root[2710]['selected'] changed from 57 to 62.
+Value of root[2710]['remaining'] changed from -7 to -12.
+Value of root[2712]['select'] changed from 7 to 4.
+Value of root[2712]['selected'] changed from 57 to 62.
+Value of root[2712]['remaining'] changed from -7 to -12.
+Value of root[2711]['select'] changed from 7 to 4.
+Value of root[2711]['selected'] changed from 57 to 62.
+Value of root[2711]['remaining'] changed from -7 to -12.
+Value of root[2716]['select'] changed from 25 to 10.
+Value of root[2716]['selected'] changed from 62 to 84.
+Value of root[2716]['remaining'] changed from -12 to -34.
+Value of root[2718]['select'] changed from 25 to 10.
+Value of root[2718]['selected'] changed from 62 to 84.
+Value of root[2718]['remaining'] changed from -12 to -34.
+Value of root[2717]['select'] changed from 25 to 10.
+Value of root[2717]['selected'] changed from 62 to 84.
+Value of root[2717]['remaining'] changed from -12 to -34.
+Value of root[2748]['selected'] changed from 8 to 7.
+Value of root[2748]['remaining'] changed from 42 to 43.
+Value of root[2749]['selected'] changed from 20 to 21.
+Value of root[2749]['remaining'] changed from 20 to 19.
+Value of root[2755]['select'] changed from 3 to 2.
+Value of root[2755]['selected'] changed from 19 to 23.
+Value of root[2755]['remaining'] changed from 1 to -3.
+Value of root[2756]['selected'] changed from 16 to 17.
+Value of root[2756]['remaining'] changed from 4 to 3.
