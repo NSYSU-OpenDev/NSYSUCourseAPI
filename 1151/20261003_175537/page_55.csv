@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV203&Crsname=工程數學（一）,,,False,海工系,MAEV203,2,全英班,"工程數學（一）
-ENGINEERING MATHEMATICS(I)",3,期,True,50,0,47,3,曾以帆,"三2,3,4(海ME 2003)","['', '', '234', '', '', '', '']","《講授類》
+ENGINEERING MATHEMATICS(I)",3,期,True,50,0,48,2,曾以帆,"三2,3,4(海ME 2003)","['', '', '234', '', '', '', '']","《講授類》
 限微積分（一）及微積分（二）50分(D)（含）以上修習，若未符合上述規定者，請洽授課老師後於異常處理階段加選。",['金融工程學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV242&Crsname=工程材料,,,False,海工系,MAEV242,2,全英班,"工程材料
 ENGINEERING MATERIAL",2,期,True,60,0,42,18,詹鵬台,"一5,6(海ME 2005)","['56', '', '', '', '', '', '']",《講授類》,[],True
