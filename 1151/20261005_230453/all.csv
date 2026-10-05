@@ -239,7 +239,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE102
 SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,15,64,-9,洪維辰,"四8,9()","['', '', '', '89', '', '', '']","《體育類》
 第一堂課請於體育館門口集合。",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE102T&Crsname=運動與健康：體適能,異動,確認教師8/10,False,運動健康(必),GEPE102T,1,不分班,"運動與健康：體適能
-SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,3,50,5,洪維辰,"五1,2()","['', '', '', '', '12', '', '']","《體育類》
+SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,2,51,4,洪維辰,"五1,2()","['', '', '', '', '12', '', '']","《體育類》
 第一堂課請於體育館門口集合。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE102U&Crsname=運動與健康：體適能,異動,確認教師8/10,False,運動健康(必),GEPE102U,1,不分班,"運動與健康：體適能
 SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,2,50,5,洪維辰,"五3,4()","['', '', '', '', '34', '', '']","《體育類》
@@ -1976,8 +1976,8 @@ INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,5,45,吳紘丞,"三A,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHYS418J&Crsname=論文專題（一）,,,True,物理系,PHYS418J,4,全英班,"論文專題（一）
 INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,2,48,郭建成,"四A,1,B(理PH 2009)","['', '', '', 'A1B', '', '', '']","《獨立研究》
 需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],True
-https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHYS418K&Crsname=論文專題（一）,,,True,物理系,PHYS418K,4,全英班,"論文專題（一）
-INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,2,48,岩本祥,"五A,1,B(理SC 2006-1)","['', '', '', '', 'A1B', '', '']","《獨立研究》
+https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHYS418K&Crsname=論文專題（一）,異動,專簽同意更正時間10/5,True,物理系,PHYS418K,4,全英班,"論文專題（一）
+INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,2,48,岩本祥,"一A,1,B(理SC 2006-1)","['A1B', '', '', '', '', '', '']","《獨立研究》
 需先修習物理研究專題(二)，學生需於學期末提出論文計畫書",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PHYS418N&Crsname=論文專題（一）,新增,新增課程8/28,True,物理系,PHYS418N,4,全英班,"論文專題（一）
 INDEPENDENT STUDIES IN SPECIAL TOPICS (I)",3,期,True,50,0,1,49,張鼎張,"五5,6,7(理PH 7009)","['', '', '', '', '567', '', '']","《獨立研究》
@@ -2557,7 +2557,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE4001
 SPECIAL TOPICS LABORATORY (II)",1,期,True,50,0,27,23,克拉迪,"五8,9,7(工EC 1006)(實驗)","['', '', '', '', '789', '', '']","《實驗類》
 『本課程之限修，於加退選2階段開放選修』。限本系大四學生修習",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM101&Crsname=會計學（一）,,,False,企管系,BM101,1,甲班,"會計學（一）
-ACCOUNTING(I)",3,期,True,65,1,70,-5,王萬成,"四5,6,7(管CM 2037)","['', '', '', '567', '', '', '']","《講授類》
+ACCOUNTING(I)",3,期,True,65,1,71,-6,王萬成,"四5,6,7(管CM 2037)","['', '', '', '567', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限企管系(含雙主修、輔系)","['金融工程學程', '會計學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM101A&Crsname=會計學（一）,異動,調升名額9/10,False,企管系,BM101A,1,乙班,"會計學（一）
 ACCOUNTING(I)",3,期,True,60,0,56,4,陳妮雲,"四2,3,4(管CM 3015)","['', '', '', '234', '', '', '']","《講授類》
@@ -3427,64 +3427,64 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS119
 GREEN CARE: STARTING WITH YOURSELF",2,期,False,25,0,7,18,熊乃歡,"三6,7(醫IL 3013)","['', '', '67', '', '', '', '']","《講授類》
 限護理學系學生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS120&Crsname=空氣污染跨域新作為：我們每天吸進去的，不只是空氣,異動,更換教室9/4,False,護理系,NURS120,1,不分班,"空氣污染跨域新作為：我們每天吸進去的，不只是空氣
-AIR ACROSS DISCIPLINES: BEYOND THE AIR WE BREATHE",3,期,False,22,0,24,-2,郭素娥,"四2,3,4(醫IL 3017)","['', '', '', '234', '', '', '']","《講授類》
+AIR ACROSS DISCIPLINES: BEYOND THE AIR WE BREATHE",3,期,False,22,0,24,-2,郭素娥,,"['', '', '', '', '', '', '']","《講授類》
 限護理學系學生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS201&Crsname=基本護理學與實作,異動,確認教師8/11,False,護理系,NURS201,2,不分班,"基本護理學與實作
-FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,36,14,"王俞蓉,王美卿,陳宜彣",,"['', '', '234', '234', '', '', '']","《講授類》
+FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,36,14,"王俞蓉,王美卿,陳宜彣",,"['', '', '', '', '', '', '']","《講授類》
 限護理學系學生修習，時間跟地點請詳閱課綱",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS202&Crsname=基本護理學實習,,,True,護理系,NURS202,2,不分班,"基本護理學實習
-FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,7,43,王美卿,,"['', '', '1234567', '12345678', '125678', '', '']","《臨床實習》
+FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,7,43,王美卿,,"['', '', '', '', '', '', '']","《臨床實習》
 限護理學系學生修習，時間跟地點請詳閱課綱。本課程分組由學系依教學需求統一安排，請同學依公告名單參與課程實習。為維護課程運作與學習品質，不受理自行更換組別。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS202A&Crsname=基本護理學實習,,,True,護理系,NURS202A,2,不分班,"基本護理學實習
-FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,6,44,徐淑珍,,"['', '', '1234567', '12345678', '125678', '', '']","《臨床實習》
+FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,6,44,徐淑珍,,"['', '', '', '', '', '', '']","《臨床實習》
 限護理學系學生修習，時間跟地點請詳閱課綱。本課程分組由學系依教學需求統一安排，請同學依公告名單參與課程實習。為維護課程運作與學習品質，不受理自行更換組別。※多門必修需自行加選",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS202B&Crsname=基本護理學實習,異動,確認教師8/11,True,護理系,NURS202B,2,不分班,"基本護理學實習
-FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,6,44,王俞蓉,,"['', '', '1234567', '12345678', '125678', '', '']","《臨床實習》
+FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,6,44,王俞蓉,,"['', '', '', '', '', '', '']","《臨床實習》
 限護理學系學生修習，時間跟地點請詳閱課綱。本課程分組由學系依教學需求統一安排，請同學依公告名單參與課程實習。為維護課程運作與學習品質，不受理自行更換組別。※多門必修需自行加選",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS202C&Crsname=基本護理學實習,異動,確認教師8/11,True,護理系,NURS202C,2,不分班,"基本護理學實習
-FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,5,45,"劉育真,陳宜彣",,"['', '', '1234567', '12345678', '125678', '', '']","《臨床實習》
+FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,5,45,"劉育真,陳宜彣",,"['', '', '', '', '', '', '']","《臨床實習》
 限護理學系學生修習，時間跟地點請詳閱課綱。本課程分組由學系依教學需求統一安排，請同學依公告名單參與課程實習。為維護課程運作與學習品質，不受理自行更換組別。※多門必修需自行加選",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS202D&Crsname=基本護理學實習,異動,確認教師8/18,True,護理系,NURS202D,2,不分班,"基本護理學實習
-FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,6,44,劉晏伶,,"['', '', '1234567', '12345678', '125678', '', '']","《臨床實習》
+FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,6,44,劉晏伶,,"['', '', '', '', '', '', '']","《臨床實習》
 限護理學系學生修習，時間跟地點請詳閱課綱。本課程分組由學系依教學需求統一安排，請同學依公告名單參與課程實習。為維護課程運作與學習品質，不受理自行更換組別。※多門必修需自行加選",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS202E&Crsname=基本護理學實習,異動,確認教師8/18,True,護理系,NURS202E,2,不分班,"基本護理學實習
-FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,6,44,李虹瑩,,"['', '', '1234567', '12345678', '125678', '', '']","《臨床實習》
+FUNDAMENTALS OF NURSING PRACTICE",3,期,True,50,0,6,44,李虹瑩,,"['', '', '', '', '', '', '']","《臨床實習》
 限護理學系學生修習，時間跟地點請詳閱課綱。本課程分組由學系依教學需求統一安排，請同學依公告名單參與課程實習。為維護課程運作與學習品質，不受理自行更換組別。※多門必修需自行加選",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS203&Crsname=整體性健康評估與實作,異動,更換合授教師8/11,False,護理系,NURS203,2,不分班,"整體性健康評估與實作
-ADVANCED HEALTH ASSESSMENT AND PRACTICUM",3,期,True,50,0,37,13,"熊乃歡,葉俊吟,郭素娥,陳嬿今,陳宜彣",,"['', '', '', '567', '567', '', '']","《講授類》
+ADVANCED HEALTH ASSESSMENT AND PRACTICUM",3,期,True,50,0,37,13,"熊乃歡,葉俊吟,郭素娥,陳嬿今,陳宜彣",,"['', '', '', '', '', '', '']","《講授類》
 限護理學系學生修習，時間跟地點請詳閱課綱",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS204&Crsname=臨床營養學,,,False,護理系,NURS204,2,不分班,"臨床營養學
-CLINICAL NUTRITION",2,期,True,50,0,38,12,李容婷,"五3,4(醫IL 3005)","['', '', '', '', '34', '', '']","《講授類》
+CLINICAL NUTRITION",2,期,True,50,0,38,12,李容婷,,"['', '', '', '', '', '', '']","《講授類》
 限護理學系學生修習，時間跟地點請詳閱課綱",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS210&Crsname=人工智慧於醫療科技之運用,異動,更換教室9/2,False,護理系,NURS210,1,不分班,"人工智慧於醫療科技之運用
-APPLICATIONS OF ARTIFICIAL INTELLIGENCE IN MEDICAL TECHNOLOGY",2,期,False,20,0,19,1,"劉育真,葉俊吟","一5,6(醫IL 3013)","['56', '', '', '', '', '', '']","《講授類》
+APPLICATIONS OF ARTIFICIAL INTELLIGENCE IN MEDICAL TECHNOLOGY",2,期,False,20,0,19,1,"劉育真,葉俊吟",,"['', '', '', '', '', '', '']","《講授類》
 限護理學系學生修習",['智慧高齡生活微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS212&Crsname=專案設計,異動,確認教師8/11,False,護理系,NURS212,2,不分班,"專案設計
-RESEARCH-DESIGN ORIENTED LEARNING COURSE",2,期,False,50,0,13,37,"劉育真,熊乃歡,王俞蓉,王美卿,葉俊吟,郭素娥,陳嬿今,陳宜彣",四9(醫IL 3014) 五9(醫IL 3014),"['', '', '', '9', '9', '', '']","《獨立研究》
+RESEARCH-DESIGN ORIENTED LEARNING COURSE",2,期,False,50,0,13,37,"劉育真,熊乃歡,王俞蓉,王美卿,葉俊吟,郭素娥,陳嬿今,陳宜彣",,"['', '', '', '', '', '', '']","《獨立研究》
 限護理學系學生修習。本課程採教師指導制，修課前請先與授課教師聯繫並取得指導同意後始得選課。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=NURS309&Crsname=醫療與護理資訊,異動,調降修課人數8/27,False,護理系,NURS309,2,不分班,"醫療與護理資訊
-MEDICAL AND NURSING INFORMATICS",2,期,False,25,0,22,3,"羅珮綺,葉俊吟","二5,6(醫IL 3013)","['', '56', '', '', '', '', '']","《講授類》
+MEDICAL AND NURSING INFORMATICS",2,期,False,25,0,22,3,"羅珮綺,葉俊吟",,"['', '', '', '', '', '', '']","《講授類》
 限護理學系學生修習",['智慧高齡生活微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED101&Crsname=基礎生物學,,,False,醫學院,MED101,0,不分班,"基礎生物學
-BASIC CONCEPTS OF BIOLOGY",2,期,False,5,1,1,4,"張玉泉,李佶珉,鄭光宏","四8,9(通GE 1010)","['', '', '', '89', '', '', '']","《講授類》
+BASIC CONCEPTS OF BIOLOGY",2,期,False,5,1,1,4,"張玉泉,李佶珉,鄭光宏",,"['', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED122&Crsname=共病時代-談人類與動物共通傳染病,,,False,醫學院,MED122,0,不分班,"共病時代-談人類與動物共通傳染病
-DISCUSSING ZOONOTIC DISEASES IN HUMANS AND ANIMALS",3,期,False,10,15,10,0,王文宏,"二2,3,4(醫IL 9012)","['', '234', '', '', '', '', '']","《講授類》
+DISCUSSING ZOONOTIC DISEASES IN HUMANS AND ANIMALS",3,期,False,10,15,10,0,王文宏,,"['', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",['基礎醫學數位微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED123&Crsname=疾病瘟疫與文明,,,False,醫學院,MED123,0,不分班,"疾病瘟疫與文明
-DISEASE, PLAGUE, AND CIVILIZATION",3,期,False,10,16,10,0,王文宏,"五2,3,4(醫IL 9012)","['', '', '', '', '234', '', '']","《講授類》
+DISEASE, PLAGUE, AND CIVILIZATION",3,期,False,10,16,10,0,王文宏,,"['', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習","['校園預防醫學暨食品安全學程', '基礎醫學數位微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED126&Crsname=危老年代,,,False,醫學院,MED126,0,不分班,"危老年代
-AGING AND HEALTH",2,期,False,10,4,10,0,李昇翰,"二8,9(醫IL 9010)","['', '89', '', '', '', '', '']","《講授類》
+AGING AND HEALTH",2,期,False,10,4,10,0,李昇翰,,"['', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習","['音樂與高齡照護學程', '表達性藝術治療學程', '智慧高齡生活微學程', '音樂應用與高齡友善多元性微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED127&Crsname=危險同居「人」：漫談居家有害生物,,,False,醫學院,MED127,0,不分班,"危險同居「人」：漫談居家有害生物
-PESTS IN HOUSEHOLD ENVIRONMENT",3,期,False,10,2,4,6,李昇翰,"一8,9,7(醫IL 9010)","['789', '', '', '', '', '', '']","《講授類》
+PESTS IN HOUSEHOLD ENVIRONMENT",3,期,False,10,2,4,6,李昇翰,,"['', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED128&Crsname=環境與人類健康,,,False,醫學院,MED128,0,不分班,"環境與人類健康
-ENVIRONMENT AND HUMAN HEALTH",2,期,False,10,1,5,5,李昇翰,"三3,4(醫IL 9010)","['', '', '34', '', '', '', '']","《講授類》
+ENVIRONMENT AND HUMAN HEALTH",2,期,False,10,1,5,5,李昇翰,,"['', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED129&Crsname=基礎外傷急救,,,False,醫學院,MED129,0,不分班,"基礎外傷急救
-BASICS OF TRAUMA CARE",2,期,False,5,4,5,0,唐逸文,"一3,4(醫IL 9010)","['34', '', '', '', '', '', '']","《講授類》
+BASICS OF TRAUMA CARE",2,期,False,5,4,5,0,唐逸文,,"['', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。限醫學院大學部學生修習","['基礎醫學數位微學程', '全民國防微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MED131&Crsname=人體生理功能解密:生理學入門,,,False,醫學院,MED131,0,不分班,"人體生理功能解密:生理學入門
 HUMAN BODY FUNCTIONS: BASIC PHYSIOLOGY",3,期,False,10,12,10,0,柯瓊媛,"三2,3,4(醫IL 9012)","['', '', '234', '', '', '', '']","《講授類》
@@ -4144,7 +4144,7 @@ HEAT CONVECTION",3,期,False,50,0,8,42,鄭威利,"五5,6,7(工EN 2022)","['', ''
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME505&Crsname=高等熱力學,,,False,機電碩,MEME505,1,不分班,"高等熱力學
 ADVANCED THERMODYNAMICS",3,期,False,50,0,6,44,鄭威利,"二5,6,7(工EN 2022)","['', '567', '', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體設備工程學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME5109&Crsname=微奈米生醫系統工程,,,False,機電碩,MEME5109,1,不分班,"微奈米生醫系統工程
-MICRO/NANO BIOMEDICAL SYSTEMS ENGINEERING",3,期,False,50,6,71,-21,郭清德,"三5,6,7(工EC 2003)","['', '', '567', '', '', '', '']",《講授類》,[],False
+MICRO/NANO BIOMEDICAL SYSTEMS ENGINEERING",3,期,False,50,5,72,-22,郭清德,"三5,6,7(工EC 2003)","['', '', '567', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME5111&Crsname=半導體製程設備與技術,,,False,機電碩,MEME5111,1,不分班,"半導體製程設備與技術
 SEMICONDUCTOR PROCESS EQUIPMENT AND TECHNOLOGY",3,期,False,100,27,100,0,林哲信,"五8,6,7(工EN 4055-1)","['', '', '', '', '678', '', '']",《講授類》,"['矽光子暨半導體學程', '半導體設備工程學程', '類比射頻IC設計學程', '半導體製程模組學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MEME520&Crsname=無人機氫能燃料電池動力系統工程,新增,7/8,False,機電碩,MEME520,1,不分班,"無人機氫能燃料電池動力系統工程
@@ -4965,51 +4965,51 @@ MARINE ANIMAL EVOLUTION",3,期,False,50,0,5,45,林梅芳,"五2,3,4(海MB 2016)",
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR558&Crsname=水生生態專題研究（一）,,,False,海資碩,MBR558,1,不分班,"水生生態專題研究（一）
 INDEPENDENT STUDIES INAQUATIC ECOLOGY (I)",2,期,False,50,0,9,41,"劉商隱,張桂祥,林梅芳,林秀瑾,水晶","二A,1()","['', 'A1', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR560&Crsname=植物與藻類功能性基因研究導論,,,False,海資碩,MBR560,1,不分班,"植物與藻類功能性基因研究導論
-INTRODUCTION TO FUNCTIONAL GENE RESEARCH IN PLANTS AND ALGAE",3,期,False,50,0,4,46,廖睿妘,"三5,6,7(海MB 2016)","['', '', '567', '', '', '', '']",《講授類》,['生物技術微學程'],False
+INTRODUCTION TO FUNCTIONAL GENE RESEARCH IN PLANTS AND ALGAE",3,期,False,50,0,4,46,廖睿妘,,"['', '', '', '', '', '', '']",《講授類》,['生物技術微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR563&Crsname=分子病毒學特論,,,False,海資碩,MBR563,1,不分班,"分子病毒學特論
-SPECIAL TOPICS IN MOLECULAR VIROLOGY",3,期,False,50,0,2,48,李景欽,"一2,3,4(海MB 2016)","['234', '', '', '', '', '', '']",《講授類》,[],False
+SPECIAL TOPICS IN MOLECULAR VIROLOGY",3,期,False,50,0,2,48,李景欽,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR579&Crsname=海洋化學生物學專題研究（一）,異動,確認教師9/1,False,海資碩,MBR579,1,不分班,"海洋化學生物學專題研究（一）
-INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (I)",2,期,False,50,0,4,46,"李益銘,鄭源斌","二A,1()","['', 'A1', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (I)",2,期,False,50,0,4,46,"李益銘,鄭源斌",,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR592&Crsname=海洋生物多樣性與保育（一）,,,True,海資碩,MBR592,1,不分班,"海洋生物多樣性與保育（一）
-MARINE BIODIVERSITY AND CONSERVATION （1）",2,期,True,50,0,14,36,劉商隱,"三3,4(海MB 2016)","['', '', '34', '', '', '', '']",《講授類》,"['生物多樣性學程', '環境教育學程']",True
+MARINE BIODIVERSITY AND CONSERVATION （1）",2,期,True,50,0,14,36,劉商隱,,"['', '', '', '', '', '', '']",《講授類》,"['生物多樣性學程', '環境教育學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR592A&Crsname=海洋生物多樣性與保育（一）,,,True,海資碩,MBR592A,1,不分班,"海洋生物多樣性與保育（一）
-MARINE BIODIVERSITY AND CONSERVATION （1）",2,期,True,50,0,1,49,李欣,"三3,4(海生館第二研究大樓R 2002)","['', '', '34', '', '', '', '']","《講授類》
+MARINE BIODIVERSITY AND CONSERVATION （1）",2,期,True,50,0,1,49,李欣,,"['', '', '', '', '', '', '']","《講授類》
 請注意上課地點在海生館。","['生物多樣性學程', '環境教育學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR597&Crsname=海洋天然物與化學分析（一）,,,True,海資碩,MBR597,1,不分班,"海洋天然物與化學分析（一）
-MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS I",2,期,True,50,0,4,46,李益銘,"五3,4(海MB 3013)","['', '', '', '', '34', '', '']",《講授類》,[],True
+MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS I",2,期,True,50,0,4,46,李益銘,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR597A&Crsname=海洋天然物與化學分析（一）,,,True,海資碩,MBR597A,1,不分班,"海洋天然物與化學分析（一）
-MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS I",2,期,True,50,0,1,49,"宋秉鈞,蘇瑞欣","五3,4(海生館第二研究大樓R 2002)","['', '', '', '', '34', '', '']","《講授類》
+MARINE NATURAL PRODUCTS AND CHEMICAL ANALYSIS I",2,期,True,50,0,1,49,"宋秉鈞,蘇瑞欣",,"['', '', '', '', '', '', '']","《講授類》
 請注意上課地點在海生館。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR601&Crsname=海洋生物科技專題研討（三）,,,False,海資碩,MBR601,2,不分班,"海洋生物科技專題研討（三）
-SEMINAR IN MARINE BIOTECHNOLOGY (III)",2,期,False,50,0,4,46,李澤民,"一6,7(海MB 2020)","['67', '', '', '', '', '', '']","《研討類》
+SEMINAR IN MARINE BIOTECHNOLOGY (III)",2,期,False,50,0,4,46,李澤民,,"['', '', '', '', '', '', '']","《研討類》
 碩博士班併班上課。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR603&Crsname=海洋生態專題研討（三）,,,False,海資碩,MBR603,2,不分班,"海洋生態專題研討（三）
-SEMINAR IN MARINE ECOLOGY (III)",2,期,False,50,0,10,40,林秀瑾,"一6,7(海MB 3013)","['67', '', '', '', '', '', '']","《研討類》
+SEMINAR IN MARINE ECOLOGY (III)",2,期,False,50,0,10,40,林秀瑾,,"['', '', '', '', '', '', '']","《研討類》
 碩博士班併班上課。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR607&Crsname=海洋化學資源專題研討（三）,,,False,海資碩,MBR607,2,不分班,"海洋化學資源專題研討（三）
-SEMINAR IN MARINE CHEMICAL RESOURCES (III)",2,期,False,50,0,5,45,廖志中,"一6,7(海MB 2014)","['67', '', '', '', '', '', '']","《研討類》
+SEMINAR IN MARINE CHEMICAL RESOURCES (III)",2,期,False,50,0,5,45,廖志中,,"['', '', '', '', '', '', '']","《研討類》
 碩博士班併班上課。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR607A&Crsname=海洋化學資源專題研討（三）,,,False,海資碩,MBR607A,2,不分班,"海洋化學資源專題研討（三）
-SEMINAR IN MARINE CHEMICAL RESOURCES (III)",2,期,False,50,0,2,48,"宋秉鈞,蘇瑞欣","一6,7(海生館第二研究大樓R 2002)","['67', '', '', '', '', '', '']","《研討類》
+SEMINAR IN MARINE CHEMICAL RESOURCES (III)",2,期,False,50,0,2,48,"宋秉鈞,蘇瑞欣",,"['', '', '', '', '', '', '']","《研討類》
 碩士班併班上課。上課地點在海生館。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR613&Crsname=海洋生物技術專研（三）,異動,確認教師9/1,False,海資碩,MBR613,2,不分班,"海洋生物技術專研（三）
-INDEPENDENT STUDIES IN MARINE BIOTECHNOLOGY (III)",2,期,False,50,0,5,45,"廖睿妘,李澤民,王亮鈞","三A,1()","['', '', 'A1', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN MARINE BIOTECHNOLOGY (III)",2,期,False,50,0,5,45,"廖睿妘,李澤民,王亮鈞",,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR621&Crsname=水生生態專題研究（三）,異動,確認教師9/1,False,海資碩,MBR621,2,不分班,"水生生態專題研究（三）
-INDEPENDENT STUDIES IN AQUATIC ECOLOGY (III)",2,期,False,50,0,8,42,"劉商隱,張桂祥,林梅芳,林秀瑾","三A,1()","['', '', 'A1', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN AQUATIC ECOLOGY (III)",2,期,False,50,0,8,42,"劉商隱,張桂祥,林梅芳,林秀瑾",,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MBR635&Crsname=海洋化學生物學專題研究（三）,異動,確認教師9/1,False,海資碩,MBR635,2,不分班,"海洋化學生物學專題研究（三）
-INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (III)",2,期,False,50,0,7,43,"李益銘,鄭源斌","三A,1()","['', '', 'A1', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN MARINE CHEMICAL BIOLOGY (III)",2,期,False,50,0,7,43,"李益銘,鄭源斌",,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV501&Crsname=海洋環境書報討論（一）,,,False,海工碩,MAEV501,1,不分班,"海洋環境書報討論（一）
-SEMINAR IN MARINE ENVIRONMENT (I)",2,期,False,50,0,21,29,李政賢,"四6,7(海ME 3002)","['', '', '', '67', '', '', '']",《演講/參訪》,[],False
+SEMINAR IN MARINE ENVIRONMENT (I)",2,期,False,50,0,21,29,李政賢,,"['', '', '', '', '', '', '']",《演講/參訪》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV521&Crsname=高等流體力學,,,False,海工碩,MAEV521,1,不分班,"高等流體力學
-ADVANCED FLUID MECHANICS",3,期,False,50,0,12,38,李政賢,"一8,6,7(海ME 3005)","['678', '', '', '', '', '', '']",《講授類》,[],False
+ADVANCED FLUID MECHANICS",3,期,False,50,0,12,38,李政賢,,"['', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV522&Crsname=海洋系統模擬（一）,,,False,海工碩,MAEV522,1,不分班,"海洋系統模擬（一）
-MARINE SYSTEM MODELING(I)",3,期,False,50,0,6,44,歐雅森,"二8,6,7(海ME 2002)","['', '678', '', '', '', '', '']",《講授類》,[],True
+MARINE SYSTEM MODELING(I)",3,期,False,50,0,6,44,歐雅森,,"['', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV548&Crsname=離岸結構矩陣分析,,,False,海工碩,MAEV548,1,不分班,"離岸結構矩陣分析
-MATRIX ANALYSIS OF OFFSHORE STRUCTURES",3,期,False,50,0,4,46,詹鵬台,"二8,6,7(海ME 2007)","['', '678', '', '', '', '', '']",《講授類》,['海事工程學程'],True
+MATRIX ANALYSIS OF OFFSHORE STRUCTURES",3,期,False,50,0,4,46,詹鵬台,,"['', '', '', '', '', '', '']",《講授類》,['海事工程學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV558&Crsname=海岸變遷專題研究,,,False,海工碩,MAEV558,1,不分班,"海岸變遷專題研究
-INDEPENDENT STUDIES IN COASTAL PROCESSES",3,期,False,50,0,2,48,曾以帆,"一A,9,1()","['A19', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN COASTAL PROCESSES",3,期,False,50,0,2,48,曾以帆,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV5600&Crsname=海洋及森林碳匯與碳權概論,,,False,海工碩,MAEV5600,1,不分班,"海洋及森林碳匯與碳權概論
-INTRODUCTION TO MARINE AND FOREST CARBON SINKS AND CARBON CREDITS",3,期,False,50,0,16,34,王右仁,"二8,6,7(海ME 2001)","['', '678', '', '', '', '', '']",《講授類》,"['海事工程學程', '淨零轉型與永續發展整合學程', '海洋永續發展產業科技微學程', '淨零轉型微學程']",True
+INTRODUCTION TO MARINE AND FOREST CARBON SINKS AND CARBON CREDITS",3,期,False,50,0,16,34,王右仁,,"['', '', '', '', '', '', '']",《講授類》,"['海事工程學程', '淨零轉型與永續發展整合學程', '海洋永續發展產業科技微學程', '淨零轉型微學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV561&Crsname=高等環境系統分析（一）,,,False,海工碩,MAEV561,1,不分班,"高等環境系統分析（一）
 ADVANCED ENVIRONMENTAL SYSTEM ANALYSIS (I)",3,期,False,50,0,16,34,張揚祺,"三2,3,4(海ME 2002)","['', '', '234', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MAEV566&Crsname=地理資訊系統於海岸規劃之應用,,,False,海工碩,MAEV566,1,不分班,"地理資訊系統於海岸規劃之應用
