@@ -1,7 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM506&Crsname=人力資源管理,異動,更換教師與教室7/27,False,企企管碩,BM506,0,,"人力資源管理
-HUMAN RESOURCES MANAGEMENT",3,期,False,50,0,36,14,施欣宜,"一2,3,4(管CM 4112)","['234', '', '', '', '', '', '']","《講授類》
-企業管理組;",['人力資源管理學程'],True
+HUMAN RESOURCES MANAGEMENT",3,期,False,50,0,36,14,施欣宜,"一2,3,4(管CM 4112)","['234', '', '', '', '', '', '']",《講授類》,['人力資源管理學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM506&Crsname=人力資源管理,異動,更換教師與教室7/27,False,企企管碩,BM506,0,,"人力資源管理
 HUMAN RESOURCES MANAGEMENT",3,期,False,50,0,36,14,施欣宜,"一2,3,4(管CM 4112)","['234', '', '', '', '', '', '']",《講授類》,['人力資源管理學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM507&Crsname=管理資訊系統,,,False,企企管碩,BM507,0,,"管理資訊系統
