@@ -22,7 +22,7 @@ STATISTICAL LEARNING AND DATA MINING",3,期,False,30,1,24,6,鍾思齊,"四2,3,4(
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MATH527&Crsname=數值分析,,,False,應數碩,MATH527,0,不分班,"數值分析
 NUMERICAL ANALYSIS",3,期,False,20,0,7,13,黃杰森,"一3,4(理SC 4009-0) 四3(理SC 4009-0)","['34', '', '', '3', '', '', '']",《講授類》,"['軟體工程學程', '金融工程學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MATH532&Crsname=矩陣理論,,,False,應數碩,MATH532,0,不分班,"矩陣理論
-MATRIX THEORY",3,期,False,20,0,19,1,李宗錂,"三3,4(理SC 4009-0) 四4(理SC 4009-0)","['', '', '34', '4', '', '', '']",《講授類》,[],False
+MATRIX THEORY",3,期,False,20,0,18,2,李宗錂,"三3,4(理SC 4009-0) 四4(理SC 4009-0)","['', '', '34', '4', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MATH536&Crsname=符號計算,,,False,應數碩,MATH536,0,不分班,"符號計算
 SYMBOLIC CONPUTATIONS",3,期,False,20,0,7,13,呂宗澤,"二3,4(理SC 4009-0) 四5(理SC 4011)","['', '34', '', '5', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MATH555&Crsname=組合學,,,False,應數碩,MATH555,0,不分班,"組合學
@@ -30,7 +30,7 @@ COMBINATORICS",3,期,False,20,0,4,16,王彩蓮,"一8,6,7(理SC 4013)","['678', '
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MATH557&Crsname=實變函數論,,,False,應數碩,MATH557,0,不分班,"實變函數論
 REAL ANALYSIS",3,期,False,20,0,2,18,何宗軒,"四3,4,B(理SC 4013)","['', '', '', '34B', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MATH565&Crsname=複變函數論（一）,,,False,應數碩,MATH565,0,不分班,"複變函數論（一）
-COMPLEX ANALYSIS (I)",3,期,False,20,0,6,14,許柏翰,"五5,6,7(理SC 4009-1)","['', '', '', '', '567', '', '']",《講授類》,['應用數學學程'],True
+COMPLEX ANALYSIS (I)",3,期,False,20,0,5,15,許柏翰,"五5,6,7(理SC 4009-1)","['', '', '', '', '567', '', '']",《講授類》,['應用數學學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MATH579&Crsname=應用泛函分析,,,False,應數碩,MATH579,0,不分班,"應用泛函分析
 APPLIED FUNCTIONAL ANALYSIS",3,期,False,20,0,2,18,何宗軒,"三3,4,B(理SC 4013)","['', '', '34B', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MATH585&Crsname=代數圖論,,,False,應數碩,MATH585,0,不分班,"代數圖論

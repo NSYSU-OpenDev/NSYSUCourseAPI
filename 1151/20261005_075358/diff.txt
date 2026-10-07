@@ -1,8 +1,0 @@
-Type of root[716]['change'] changed from NoneType to str and value changed from None to "異動".
-Type of root[716]['changeDescription'] changed from NoneType to str and value changed from None to "專簽同意更正時間10/5".
-Value of root[81]['select'] changed from 3 to 2.
-Value of root[81]['selected'] changed from 50 to 51.
-Value of root[81]['remaining'] changed from 5 to 4.
-Value of root[716]['room'] changed from "五A,1,B(理SC 2006-1)" to "一A,1,B(理SC 2006-1)".
-Value of root[956]['selected'] changed from 70 to 71.
-Value of root[956]['remaining'] changed from -5 to -6.
