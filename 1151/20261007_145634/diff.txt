@@ -1,0 +1,34 @@
+Item root[2120]['classTime'][2] added to iterable.
+Item root[2121]['classTime'][4] added to iterable.
+Item root[2122]['classTime'][4] added to iterable.
+Item root[2123]['classTime'][4] added to iterable.
+Repetition change for item root[2120]['classTime'][0].
+Repetition change for item root[2121]['classTime'][0].
+Repetition change for item root[2122]['classTime'][0].
+Repetition change for item root[2123]['classTime'][0].
+Value of root[345]['selected'] changed from 90 to 91.
+Value of root[345]['remaining'] changed from 0 to -1.
+Value of root[857]['selected'] changed from 60 to 59.
+Value of root[857]['remaining'] changed from 0 to 1.
+Value of root[858]['selected'] changed from 87 to 86.
+Value of root[858]['remaining'] changed from 3 to 4.
+Value of root[859]['selected'] changed from 71 to 70.
+Value of root[859]['remaining'] changed from -11 to -10.
+Value of root[860]['selected'] changed from 83 to 82.
+Value of root[860]['remaining'] changed from -23 to -22.
+Value of root[862]['selected'] changed from 65 to 64.
+Value of root[862]['remaining'] changed from 10 to 11.
+Value of root[863]['selected'] changed from 65 to 64.
+Value of root[863]['remaining'] changed from -5 to -4.
+Value of root[864]['selected'] changed from 61 to 60.
+Value of root[864]['remaining'] changed from -1 to 0.
+Value of root[874]['selected'] changed from 60 to 59.
+Value of root[874]['remaining'] changed from 0 to 1.
+Value of root[2120]['room'] changed from "" to "三6(社SS 3004-2)".
+Value of root[2121]['room'] changed from "" to "五8,6,7(社SS 3004-1)".
+Value of root[2122]['room'] changed from "" to "五2,3,4(社SS 1003)".
+Value of root[2123]['room'] changed from "" to "五2,3,4(社SS 3004-1)".
+Value of root[2559]['selected'] changed from 4 to 3.
+Value of root[2559]['remaining'] changed from 16 to 17.
+Value of root[2561]['selected'] changed from 1 to 0.
+Value of root[2561]['remaining'] changed from 19 to 20.
