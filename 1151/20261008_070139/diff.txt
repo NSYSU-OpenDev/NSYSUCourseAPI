@@ -1,0 +1,31 @@
+Item root[2450] removed from iterable.
+Item root[2561] removed from iterable.
+Value of root[134]['selected'] changed from 97 to 96.
+Value of root[134]['remaining'] changed from -17 to -16.
+Value of root[223]['room'] changed from "二2,3,4()" to "三2,3,4()".
+Value of root[252]['selected'] changed from 53 to 52.
+Value of root[252]['remaining'] changed from -3 to -2.
+Value of root[426]['selected'] changed from 51 to 50.
+Value of root[426]['remaining'] changed from -1 to 0.
+Value of root[749]['selected'] changed from 58 to 57.
+Value of root[749]['remaining'] changed from 12 to 13.
+Value of root[752]['selected'] changed from 64 to 63.
+Value of root[752]['remaining'] changed from 11 to 12.
+Value of root[755]['selected'] changed from 64 to 63.
+Value of root[755]['remaining'] changed from 6 to 7.
+Value of root[758]['selected'] changed from 67 to 66.
+Value of root[758]['remaining'] changed from 13 to 14.
+Value of root[766]['selected'] changed from 23 to 22.
+Value of root[766]['remaining'] changed from 27 to 28.
+Value of root[988]['selected'] changed from 47 to 45.
+Value of root[988]['remaining'] changed from 3 to 5.
+Value of root[989]['selected'] changed from 52 to 50.
+Value of root[989]['remaining'] changed from -2 to 0.
+Value of root[990]['selected'] changed from 50 to 48.
+Value of root[990]['remaining'] changed from 0 to 2.
+Value of root[991]['selected'] changed from 48 to 46.
+Value of root[991]['remaining'] changed from 2 to 4.
+Value of root[2444]['selected'] changed from 7 to 6.
+Value of root[2444]['remaining'] changed from 43 to 44.
+Value of root[2474]['selected'] changed from 4 to 3.
+Value of root[2474]['remaining'] changed from 46 to 47.
