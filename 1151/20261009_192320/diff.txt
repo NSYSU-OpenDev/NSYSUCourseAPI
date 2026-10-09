@@ -1,0 +1,39 @@
+Item root[2502]['classTime'][1] added to iterable.
+Item root[2503]['classTime'][3] added to iterable.
+Item root[2504]['classTime'][3] added to iterable.
+Item root[2510]['classTime'][3] added to iterable.
+Item root[2511]['classTime'][3] added to iterable.
+Item root[2512]['classTime'][2] added to iterable.
+Item root[2513]['classTime'][1] added to iterable.
+Item root[2514]['classTime'][3] added to iterable.
+Item root[2515]['classTime'][3] added to iterable.
+Item root[2516]['classTime'][2] added to iterable.
+Item root[2517]['classTime'][0] added to iterable.
+Item root[2518]['classTime'][0] added to iterable.
+Item root[2519]['classTime'][0] added to iterable.
+Repetition change for item root[2502]['classTime'][0].
+Repetition change for item root[2503]['classTime'][0].
+Repetition change for item root[2504]['classTime'][0].
+Repetition change for item root[2510]['classTime'][0].
+Repetition change for item root[2511]['classTime'][0].
+Repetition change for item root[2512]['classTime'][0].
+Repetition change for item root[2513]['classTime'][0].
+Repetition change for item root[2514]['classTime'][0].
+Repetition change for item root[2515]['classTime'][0].
+Repetition change for item root[2516]['classTime'][0].
+Repetition change for item root[2517]['classTime'][0].
+Repetition change for item root[2518]['classTime'][0].
+Repetition change for item root[2519]['classTime'][0].
+Value of root[2502]['room'] changed from "" to "二2,3,4(管CM 4069)".
+Value of root[2503]['room'] changed from "" to "四6,7(管CM 2016)".
+Value of root[2504]['room'] changed from "" to "四6,7(管CM 2016)".
+Value of root[2510]['room'] changed from "" to "四8,6,7(管CM 1020)".
+Value of root[2511]['room'] changed from "" to "四A,1,B(管CM 3044)".
+Value of root[2512]['room'] changed from "" to "三2,3,4(管CM 1036)".
+Value of root[2513]['room'] changed from "" to "二2,3,4(管CM 3044)".
+Value of root[2514]['room'] changed from "" to "四5,6,7(管CM 2025)".
+Value of root[2515]['room'] changed from "" to "四2,3,4(管CM 2021)".
+Value of root[2516]['room'] changed from "" to "三2,3,4(管CM 3035)".
+Value of root[2517]['room'] changed from "" to "一6,7(海MB 2020)".
+Value of root[2518]['room'] changed from "" to "一6,7(海MB 3013)".
+Value of root[2519]['room'] changed from "" to "一6,7(海MB 2014)".
