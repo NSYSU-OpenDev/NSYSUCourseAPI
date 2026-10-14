@@ -1,9 +1,0 @@
-Item root[1737]['classTime'][2] removed from iterable.
-Item root[1738]['classTime'][0] removed from iterable.
-Item root[1739]['classTime'][0] removed from iterable.
-Repetition change for item root[1737]['classTime'][0].
-Repetition change for item root[1738]['classTime'][1].
-Repetition change for item root[1739]['classTime'][1].
-Value of root[1737]['room'] changed from "三6,7(工EN 2028 )" to "".
-Value of root[1738]['room'] changed from "一8,6,7(工MS 4019)" to "".
-Value of root[1739]['room'] changed from "一C,D,E(工MS 4025)" to "".
