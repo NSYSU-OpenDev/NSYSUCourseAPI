@@ -140,7 +140,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEEN004
 GENERAL ENGLISH:BASIC",0,期,True,35,9,44,-9,陳瑞華,"二2,3,4(海ME 3004)","['', '234', '', '', '', '', '']","《講授類》
 若未依「國立中山大學學士班學生英文能力培育辦法」選課，修習及格學分不計",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEEN004A&Crsname=英文初級,,,False,英文初級,GEEN004A,0,不分班,"英文初級
-GENERAL ENGLISH:BASIC",0,期,True,35,2,35,0,曾彩楣,"五5,6,7(社SS 3006)","['', '', '', '', '567', '', '']","《講授類》
+GENERAL ENGLISH:BASIC",0,期,True,35,2,34,1,曾彩楣,"五5,6,7(社SS 3006)","['', '', '', '', '567', '', '']","《講授類》
 若未依「國立中山大學學士班學生英文能力培育辦法」選課，修習及格學分不計",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEEN116&Crsname=英文中級,異動,更換教室8/10,False,英文中級,GEEN116,0,不分班,"英文中級
 GENERAL ENGLISH: INTERMEDIATE",3,期,True,35,24,39,-4,曾彩楣,"二2,3,4(理SC 1003)","['', '234', '', '', '', '', '']","《講授類》
@@ -242,7 +242,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE102
 SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,2,51,4,洪維辰,"五1,2()","['', '', '', '', '12', '', '']","《體育類》
 第一堂課請於體育館門口集合。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE102U&Crsname=運動與健康：體適能,異動,確認教師8/10,False,運動健康(必),GEPE102U,1,不分班,"運動與健康：體適能
-SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,2,50,5,洪維辰,"五3,4()","['', '', '', '', '34', '', '']","《體育類》
+SPORT & HEALTH: PHYSICAL FITNESS",1,期,True,55,2,49,6,洪維辰,"五3,4()","['', '', '', '', '34', '', '']","《體育類》
 第一堂課請於體育館門口集合。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEPE202&Crsname=運動與健康：初級集訓班,異動,確認教師8/11,False,運動健康(必),GEPE202,2,不分班,"運動與健康：初級集訓班
 SPORT & HEALTH:BASIC ASSEMBLED TRAINING CLASS",1,期,True,100,0,60,40,"林國欽,羅凱暘,蔡鋒樺,黃義博",一A() 三A(),"['A', '', 'A', '', '', '', '']","《體育類》
@@ -397,7 +397,7 @@ FREEDOM AND RESPONSIBILITY",3,期,True,50,13,49,1,戴遠雄,"二2,3,4(文LA 1004
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2205&Crsname=視覺文化與哲學反思,,,False,博雅向度二,GEAE2205,0,不分班,"視覺文化與哲學反思
 VISUAL CULTURE AND PHILOSOPHICAL REFLECTION",3,期,True,80,18,90,-10,楊婉儀,"四2,3,4(通GE 1010)","['', '', '', '234', '', '', '']",《講授類》,"['臺灣研究學程', '法國語言、文化與社會學程', '生成式AI素養微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2207&Crsname=文化差異與倫理規範,,,False,博雅向度二,GEAE2207,0,不分班,"文化差異與倫理規範
-CULTURAL DIFFERENCE AND ETHICAL NORMS",3,期,True,50,8,49,1,游淙祺,"一5,6,7(文LA 0001)","['567', '', '', '', '', '', '']",《講授類》,"['臺灣研究學程', '法國語言、文化與社會學程', '跨文化人文思潮與美學微學程', '國際素養微學程']",False
+CULTURAL DIFFERENCE AND ETHICAL NORMS",3,期,True,50,8,48,2,游淙祺,"一5,6,7(文LA 0001)","['567', '', '', '', '', '', '']",《講授類》,"['臺灣研究學程', '法國語言、文化與社會學程', '跨文化人文思潮與美學微學程', '國際素養微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2209&Crsname=東方哲學思想(二),,,False,博雅向度二,GEAE2209,0,不分班,"東方哲學思想(二)
 EASTERN PHILOSOPHY (2)",2,期,True,50,2,64,-14,陳立驤,"一3,4(通GE 1008)","['34', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GEAE2210&Crsname=生命教育,,,False,博雅向度二,GEAE2210,0,不分班,"生命教育
@@ -1277,9 +1277,9 @@ SERVICE LEARNING: BASE MAP DRAFTING FOR URBAN ROAD MARKINGS",1,期,True,40,0,40,
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=GESL429&Crsname=服務學習：獼猴共存術-人與動物間的共存課,異動,確認教師7/20,False,服務學習,GESL429,0,不分班,"服務學習：獼猴共存術-人與動物間的共存課
 SERVICE LEARNING:  MACAQUE COEXISTENCE TECHNIQUES - COEXISTENCE BETWEEN HUMANS AND ANIMALS",1,期,True,40,10,44,-4,林美吟,"三3,4(西SW 1007)","['', '', '34', '', '', '', '']",《服務學習類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL103&Crsname=國學導讀（一）,,,False,中文系,CL103,1,不分班,"國學導讀（一）
-INTRODUCTION TO CHINESE CLASSICAL STUDIES(I)",2,期,True,55,0,44,11,黃羽璿,"三3,4(文LA 4005)","['', '', '34', '', '', '', '']",《講授類》,[],False
+INTRODUCTION TO CHINESE CLASSICAL STUDIES(I)",2,期,True,55,0,43,12,黃羽璿,"三3,4(文LA 4005)","['', '', '34', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL105&Crsname=文學概論（一）,,,False,中文系,CL105,1,不分班,"文學概論（一）
-INTRODUCTION TO LITERATURE(I)",2,期,True,50,0,46,4,莫加南,"四3,4(文LA 4005)","['', '', '', '34', '', '', '']",《講授類》,[],False
+INTRODUCTION TO LITERATURE(I)",2,期,True,50,0,45,5,莫加南,"四3,4(文LA 4005)","['', '', '', '34', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL121&Crsname=現代詩選與寫作（一）,,,False,中文系,CL121,1,不分班,"現代詩選與寫作（一）
 MODERN POETRY:READINGS AND COMPOSITION (I)",3,期,False,50,1,26,24,涂書瑋,"五5,6,7(文LA 4001)","['', '', '', '', '567', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL150&Crsname=古典小說選（一）,,,False,中文系,CL150,4,不分班,"古典小說選（一）
@@ -1303,11 +1303,11 @@ READING IN CHINESE CLASSICAL PROSE(I)",3,期,True,30,0,24,6,鍾志偉,"一5,6,7(
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL207A&Crsname=歷代文選及習作（一）,,,True,中文系,CL207A,2,不分班,"歷代文選及習作（一）
 READING IN CHINESE CLASSICAL PROSE(I)",3,期,True,30,0,18,12,吳孟謙,"三2,3,4(文LA 4002)","['', '', '234', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL248&Crsname=論語,,,False,中文系,CL248,1,不分班,"論語
-THE ANALECTS",3,期,False,35,3,33,2,吳孟謙,"二2,3,4(文LA 4001)","['', '234', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+THE ANALECTS",3,期,False,35,3,32,3,吳孟謙,"二2,3,4(文LA 4001)","['', '234', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL265&Crsname=神話學導論（一）,,,False,中文系,CL265,2,不分班,"神話學導論（一）
 INTRODUCTION TO MYTHOLOGY(Ⅰ)",3,期,False,30,1,24,6,謝薇娜,"一2,3,4(文LA 4002)","['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL267&Crsname=史記（一）,,,False,中文系,CL267,1,不分班,"史記（一）
-SHIH CHI(I)",3,期,False,50,3,35,15,黃羽璿,"二8,6,7(文LA 4001)","['', '678', '', '', '', '', '']",《講授類》,[],False
+SHIH CHI(I)",3,期,False,50,3,34,16,黃羽璿,"二8,6,7(文LA 4001)","['', '678', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL303&Crsname=中國思想史（一）,,,False,中文系,CL303,3,不分班,"中國思想史（一）
 HISTORY OF CHINESE THOUGHTS(I)",3,期,True,50,0,44,6,紀志昌,"一5,6,7(文LA 5004)","['567', '', '', '', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL307&Crsname=詞曲選及習作（一）,,,False,中文系,CL307,3,不分班,"詞曲選及習作（一）
@@ -1325,7 +1325,7 @@ INTRODUCTION TO TAIWANESE CLASSICAL LITERATURE",3,期,False,30,1,31,-1,鍾志偉
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL439&Crsname=訓詁學,,,False,中文系,CL439,4,不分班,"訓詁學
 EXEGETICS",2,期,True,50,0,45,5,歐瑞安,"四2,3(文LA 4004)","['', '', '', '23', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL454&Crsname=青聽文學,,,False,中文系,CL454,1,不分班,"青聽文學
-YOUTHFUL LITERARY ENGAGEMENT: FROM TEXT TO WORLD",3,期,True,50,0,47,3,"涂書瑋,黃資婷","四8,6,7(文LA 0001)","['', '', '', '678', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
+YOUTHFUL LITERARY ENGAGEMENT: FROM TEXT TO WORLD",3,期,True,50,0,46,4,"涂書瑋,黃資婷","四8,6,7(文LA 0001)","['', '', '', '678', '', '', '']",《講授類》,['中文創意跨域應用整合學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL461&Crsname=主題策展規畫與實踐（二）,,,False,中文系,CL461,4,不分班,"主題策展規畫與實踐（二）
 CURATING THEMATIC EXHIBITIONS DESIGN AND PRACTICE (II)",3,期,False,50,0,7,43,"杜佳倫,鍾志偉,黃資婷","三2,3,4(文LA 4012)","['', '', '234', '', '', '', '']",《展演》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL105&Crsname=英語口語訓練一（一）：主題對話,,,True,外文系,DFLL105,1,不分班,"英語口語訓練一（一）：主題對話
@@ -1608,7 +1608,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA256A&
 VOCAL TRAINING",2,期,False,50,0,20,30,林宜誠,"一3,4(文FA 2017)","['34', '', '', '', '', '', '']","《展演》
 限修畢基礎發聲",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA264&Crsname=影視表演,異動,確認教師7/3,False,劇藝系,TA264,4,不分班,"影視表演
-ACTING FOR FILM AND TELEVISION",2,期,False,50,0,27,23,楊馨媛,"五5,6(文FA 2017)","['', '', '', '', '56', '', '']","《展演》
+ACTING FOR FILM AND TELEVISION",2,期,False,50,0,28,22,楊馨媛,"五5,6(文FA 2017)","['', '', '', '', '56', '', '']","《展演》
 限修畢進階表演(二)",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=TA266&Crsname=排演（九）,,,False,劇藝系,TA266,2,不分班,"排演（九）
 REHEARSAL(Ⅸ)",3,期,False,50,0,13,37,林宜誠,"一8,9,C(文FA 3012, 2016, 2019)","['89C', '', '', '', '', '', '']","《展演》
@@ -3137,7 +3137,7 @@ CULTURAL ANTHROPOLOGY",3,期,True,40,0,38,2,宋世祥,"三2,3,4(西SW 1005)","['
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DIS1003&Crsname=基礎程式應用,,,False,人科學系,DIS1003,1,不分班,"基礎程式應用
 FUNDAMENTALS OF PROGRAMMING AND APPLICATIONS",3,期,True,40,1,37,3,鄭南玉,"四5,6,7(西SW 1007)","['', '', '', '567', '', '', '']",《講授類》,['金融工程學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DIS1101&Crsname=智慧型運輸系統,,,False,人科學系,DIS1101,1,不分班,"智慧型運輸系統
-INTRODUCTION TO INTELLIGENT TRANSPORTATION SYSTEMS",3,期,False,20,2,14,6,夏晧清,"三5,6,7(西SW 1007)","['', '', '567', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '智慧港埠微學程', '公共交通行動服務微學程', '運輸管理微學程']",False
+INTRODUCTION TO INTELLIGENT TRANSPORTATION SYSTEMS",3,期,False,20,2,13,7,夏晧清,"三5,6,7(西SW 1007)","['', '', '567', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '智慧港埠微學程', '公共交通行動服務微學程', '運輸管理微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DIS1102&Crsname=都市環境概論,,,False,人科學系,DIS1102,1,不分班,"都市環境概論
 INTRODUCTION TO URBAN ENVIRONMENT",3,期,False,50,0,21,29,夏晧清,"二2,3,4(西SW 1005)","['', '234', '', '', '', '', '']",《講授類》,"['智慧城市與智慧運輸學程', '綠色港市微學程', '碳流資訊盤查與低碳設計微學程', '都市永續規劃與管理微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PIS1006&Crsname=科學應用,,,False,人科學程,PIS1006,2,不分班,"科學應用
@@ -3562,17 +3562,17 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CL637&C
 HISTORY AND NARRATIVE",3,期,False,50,0,11,39,江政寬,"四2,3,4(文LA 4012)","['', '', '', '234', '', '', '']","《講授類》
 限碩博士研究生選修",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL501&Crsname=學術寫作與書目學,,,True,外文碩,DFLL501,1,不分班,"學術寫作與書目學
-ACADEMIC WRITING AND BIBLIOGRAPHY",3,期,True,50,0,8,42,黃心雅,"二2,3,4(文LA 3018)","['', '234', '', '', '', '', '']","《講授類》
+ACADEMIC WRITING AND BIBLIOGRAPHY",3,期,True,50,0,7,43,黃心雅,"二2,3,4(文LA 3018)","['', '234', '', '', '', '', '']","《講授類》
 碩士班甲組",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL504&Crsname=研究方法與學術寫作,,,True,外文碩,DFLL504,1,不分班,"研究方法與學術寫作
 RESEARCH METHODS AND ACADEMIC WRITING",3,期,True,50,0,9,41,曾銘裕,"一2,3,4(文LA 3017)","['234', '', '', '', '', '', '']","《講授類》
 碩士班乙組",[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL610&Crsname=浪漫時期詩歌（一）,,,False,外文碩,DFLL610,0,不分班,"浪漫時期詩歌（一）
-ROMANTIC POETRY (I)",3,期,False,50,0,10,40,李佳容,"三5,6,7(文LA 3018)","['', '', '567', '', '', '', '']",《講授類》,[],True
+ROMANTIC POETRY (I)",3,期,False,50,0,9,41,李佳容,"三5,6,7(文LA 3018)","['', '', '567', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL621&Crsname=二十世紀美國戲劇,,,False,外文碩,DFLL621,0,不分班,"二十世紀美國戲劇
 20TH CENTURY AMERICAN DRAMA",3,期,False,50,0,5,45,范澤凱,"五2,3,4(文LA 3018)","['', '', '', '', '234', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL633&Crsname=拉崗精神分析,,,False,外文碩,DFLL633,0,不分班,"拉崗精神分析
-LACANIAN PSYCHOANALYSIS",3,期,False,50,1,5,45,陳福仁,"三2,3,4(文LA 3018)","['', '', '234', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],True
+LACANIAN PSYCHOANALYSIS",3,期,False,50,1,4,46,陳福仁,"三2,3,4(文LA 3018)","['', '', '234', '', '', '', '']",《講授類》,['法國語言、文化與社會學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL647&Crsname=記憶與文學,,,False,外文碩,DFLL647,0,不分班,"記憶與文學
 MEMORY AND LITERATURE",3,期,False,50,0,7,43,沈尚玉,"二5,6,7(文LA 3018)","['', '567', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DFLL652&Crsname=語用學,新增,7/2,False,外文碩,DFLL652,0,不分班,"語用學
