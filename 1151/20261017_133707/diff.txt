@@ -1,0 +1,30 @@
+Item root[1400]['classTime'][1] added to iterable.
+Item root[1401]['classTime'][0] added to iterable.
+Item root[1402]['classTime'][3] added to iterable.
+Item root[1403]['classTime'][3] added to iterable.
+Item root[1404]['classTime'][1] added to iterable.
+Item root[1405]['classTime'][0] added to iterable.
+Item root[1406]['classTime'][0] added to iterable.
+Item root[1407]['classTime'][1] added to iterable.
+Item root[1408]['classTime'][2] added to iterable.
+Item root[1409]['classTime'][0] added to iterable.
+Repetition change for item root[1400]['classTime'][0].
+Repetition change for item root[1401]['classTime'][0].
+Repetition change for item root[1402]['classTime'][0].
+Repetition change for item root[1403]['classTime'][0].
+Repetition change for item root[1404]['classTime'][0].
+Repetition change for item root[1405]['classTime'][0].
+Repetition change for item root[1406]['classTime'][0].
+Repetition change for item root[1407]['classTime'][0].
+Repetition change for item root[1408]['classTime'][0].
+Repetition change for item root[1409]['classTime'][0].
+Value of root[1400]['room'] changed from "" to "二8,7(文LA 2008)".
+Value of root[1401]['room'] changed from "" to "一3,4(文LA 2008)".
+Value of root[1402]['room'] changed from "" to "四2,3,4(文FA 2012)".
+Value of root[1403]['room'] changed from "" to "四5,6,7(文FA 2012)".
+Value of root[1404]['room'] changed from "" to "二8,9,7(文FA 2012)".
+Value of root[1405]['room'] changed from "" to "一8,6,7(文FA 2019)".
+Value of root[1406]['room'] changed from "" to "一8,9,C(文FA 3012, 2019, 2016)".
+Value of root[1407]['room'] changed from "" to "二2,3,4(文FA 2019)".
+Value of root[1408]['room'] changed from "" to "三5,6,7(文FA 2016, 2018)".
+Value of root[1409]['room'] changed from "" to "一A,B(文FA 2012)".
