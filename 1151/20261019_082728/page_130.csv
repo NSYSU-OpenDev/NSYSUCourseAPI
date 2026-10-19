@@ -1,10 +1,10 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DCEM701&Crsname=書報討論（一）,,,False,臨床醫博學程,DCEM701,1,不分班,"書報討論（一）
-SEMINAR（I）",1,期,True,50,0,12,38,楊仁豪,三3(國IR 5004),"['', '', '3', '', '', '', '']",《講授類》,[],True
+SEMINAR（I）",1,期,True,50,0,11,39,楊仁豪,三3(國IR 5004),"['', '', '3', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DCEM703&Crsname=書報討論（三）,,,False,臨床醫博學程,DCEM703,2,不分班,"書報討論（三）
 SEMINAR（III）",1,期,True,50,0,8,42,簡志彦,三B(4002),"['', '', 'B', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DCEM705&Crsname=創新轉譯醫學,異動,增加合授教師8/13,False,臨床醫博學程,DCEM705,1,不分班,"創新轉譯醫學
-INNOVATION IN TRANSLATIONAL MEDICINE",3,期,True,50,0,11,39,"李佶珉,李昇翰,楊仁豪,簡志彦","三5,6,7(國IR 5005)","['', '', '567', '', '', '', '']",《講授類》,[],True
+INNOVATION IN TRANSLATIONAL MEDICINE",3,期,True,50,0,10,40,"李佶珉,李昇翰,楊仁豪,簡志彦","三5,6,7(國IR 5005)","['', '', '567', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DCEM706&Crsname=專題研究（一）,異動,更換時間及教室8/13,False,臨床醫博學程,DCEM706,2,不分班,"專題研究（一）
 INDEPENDENT STUDIES（I）",3,期,True,50,0,8,42,"楊仁豪,簡志彦","二8,9,7(國IR 5004)","['', '789', '', '', '', '', '']",《獨立研究》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=DCEM720&Crsname=基因調控與疾病發生,異動,更換主授教師8/17,False,臨床醫博學程,DCEM720,0,不分班,"基因調控與疾病發生
