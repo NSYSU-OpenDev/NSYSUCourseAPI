@@ -1,9 +1,0 @@
-Item root[440]['classTime'][1] removed from iterable.
-Item root[441]['classTime'][3] removed from iterable.
-Item root[442]['classTime'][2] removed from iterable.
-Repetition change for item root[440]['classTime'][0].
-Repetition change for item root[441]['classTime'][0].
-Repetition change for item root[442]['classTime'][0].
-Value of root[440]['room'] changed from "二C,D(通GE 3011)" to "".
-Value of root[441]['room'] changed from "四3,4(西SW 1007)" to "".
-Value of root[442]['room'] changed from "三3,4(西SW 1007)" to "".
