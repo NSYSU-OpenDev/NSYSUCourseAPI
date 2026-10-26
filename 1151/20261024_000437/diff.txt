@@ -1,9 +1,0 @@
-Item root[440]['classTime'][1] added to iterable.
-Item root[441]['classTime'][3] added to iterable.
-Item root[442]['classTime'][2] added to iterable.
-Repetition change for item root[440]['classTime'][0].
-Repetition change for item root[441]['classTime'][0].
-Repetition change for item root[442]['classTime'][0].
-Value of root[440]['room'] changed from "" to "二C,D(通GE 3011)".
-Value of root[441]['room'] changed from "" to "四3,4(西SW 1007)".
-Value of root[442]['room'] changed from "" to "三3,4(西SW 1007)".

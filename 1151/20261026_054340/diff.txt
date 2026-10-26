@@ -1,0 +1,24 @@
+Item root[2640]['classTime'][3] added to iterable.
+Item root[2641]['classTime'][3] added to iterable.
+Item root[2642]['classTime'][0] added to iterable.
+Item root[2643]['classTime'][0] added to iterable.
+Item root[2644]['classTime'][1] added to iterable.
+Item root[2645]['classTime'][1] added to iterable.
+Item root[2646]['classTime'][1] added to iterable.
+Item root[2647]['classTime'][1] added to iterable.
+Repetition change for item root[2640]['classTime'][0].
+Repetition change for item root[2641]['classTime'][0].
+Repetition change for item root[2642]['classTime'][0].
+Repetition change for item root[2643]['classTime'][0].
+Repetition change for item root[2644]['classTime'][0].
+Repetition change for item root[2645]['classTime'][0].
+Repetition change for item root[2646]['classTime'][0].
+Repetition change for item root[2647]['classTime'][0].
+Value of root[2640]['room'] changed from "" to "四2,3,4(工EC 1001)".
+Value of root[2641]['room'] changed from "" to "四2,3,4(工EC 1001)".
+Value of root[2642]['room'] changed from "" to "一8,6,7(管CM 4078)".
+Value of root[2643]['room'] changed from "" to "一8,6,7(管CM 4078)".
+Value of root[2644]['room'] changed from "" to "二2,3,4(管CM 3017)".
+Value of root[2645]['room'] changed from "" to "二2,3,4(管CM 3017)".
+Value of root[2646]['room'] changed from "" to "二2,3,4(管CM 4078)".
+Value of root[2647]['room'] changed from "" to "二2,3,4(管CM 4078)".
