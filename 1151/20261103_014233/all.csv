@@ -4333,23 +4333,23 @@ DATA PROCESSING AND MODELING",3,期,False,50,0,29,21,邱勝敏,"四2,3,4(工EC 1
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CSE731&Crsname=時空資料庫,,,False,資工碩,CSE731,0,不分班,"時空資料庫
 SPATIO-TEMPORAL DATABASES",3,期,False,50,0,12,38,邱勝敏,"四8,6,7(工EC 9031)","['', '', '', '678', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICE501&Crsname=書報討論,,,False,通訊碩,ICE501,1,不分班,"書報討論
-SEMINAR",1,期,True,70,0,33,37,吳孝純,,"['', '', '', '', '', '', '']","《演講/參訪》
+SEMINAR",1,期,True,70,0,33,37,吳孝純,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
 與ICE501A、ICE701併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICE501A&Crsname=書報討論,,,False,通訊碩,ICE501A,2,不分班,"書報討論
-SEMINAR",1,期,True,70,0,30,40,吳孝純,,"['', '', '', '', '', '', '']","《演講/參訪》
+SEMINAR",1,期,True,70,0,30,40,吳孝純,"二6,7(工EC 2002)","['', '67', '', '', '', '', '']","《演講/參訪》
 與ICE501、ICE701併班上課",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICE503&Crsname=數位信號處理,,,False,通訊碩,ICE503,0,不分班,"數位信號處理
-DIGITAL SIGNAL PROCESSING",3,期,False,50,0,50,0,溫朝凱,,"['', '', '', '', '', '', '']",《講授類》,['類比射頻IC設計學程'],True
+DIGITAL SIGNAL PROCESSING",3,期,False,50,0,50,0,溫朝凱,"四2,3,4(工EC 2002)","['', '', '', '234', '', '', '']",《講授類》,['類比射頻IC設計學程'],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICE504&Crsname=數位通訊,,,False,通訊碩,ICE504,0,不分班,"數位通訊
-DIGITAL COMMUNICATIONS",3,期,False,50,0,24,26,黃婉甄,,"['', '', '', '', '', '', '']",《講授類》,['永續能源學程'],False
+DIGITAL COMMUNICATIONS",3,期,False,50,0,24,26,黃婉甄,"三2,3,4(工EC 3013)","['', '', '234', '', '', '', '']",《講授類》,['永續能源學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICE507&Crsname=消息理論,異動,更換教室9/8,False,通訊碩,ICE507,0,不分班,"消息理論
-INFORMATION THEORY",3,期,False,50,0,12,38,王藏億,,"['', '', '', '', '', '', '']",《講授類》,[],False
+INFORMATION THEORY",3,期,False,50,0,12,38,王藏億,"二2,3,4(工EC 3013)","['', '234', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICE508&Crsname=最佳化理論,,,False,通訊碩,ICE508,0,不分班,"最佳化理論
-OPTIMIZATION THEORY",3,期,False,50,0,31,19,曾凡碩,,"['', '', '', '', '', '', '']",《講授類》,[],False
+OPTIMIZATION THEORY",3,期,False,50,0,31,19,曾凡碩,"一2,3,4(工EC 2010)","['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICE508A&Crsname=最佳化理論,,,False,通訊碩,ICE508A,0,不分班,"最佳化理論
-OPTIMIZATION THEORY",3,期,False,50,0,2,48,新可夫,,"['', '', '', '', '', '', '']",《講授類》,[],True
+OPTIMIZATION THEORY",3,期,False,50,0,2,48,新可夫,"一5,6,7(工EC6015-1)","['567', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICE607&Crsname=無線通訊通道估測專題,,,False,通訊碩,ICE607,0,不分班,"無線通訊通道估測專題
-INDEPENDENT STUDIES IN WIRELESS COMMUNICATIONS CHANNEL ESTIMATION",3,期,False,50,0,4,46,李志鵬,,"['', '', '', '', '', '', '']",《獨立研究》,[],False
+INDEPENDENT STUDIES IN WIRELESS COMMUNICATIONS CHANNEL ESTIMATION",3,期,False,50,0,4,46,李志鵬,"五8,6,7(工EC 9011)","['', '', '', '', '678', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICE608&Crsname=無線感測器網路之合作式偵測專題,,,False,通訊碩,ICE608,0,不分班,"無線感測器網路之合作式偵測專題
 INDEPENDENT STUDIES IN COLLABORATIVE DETECTION FOR WIRELESS SENSOR NETWORKS",3,期,False,50,0,1,49,王藏億,"二C,D,E(工EC 1007)","['', 'CDE', '', '', '', '', '']",《獨立研究》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=ICE619&Crsname=無線傳收設計專題,,,False,通訊碩,ICE619,0,不分班,"無線傳收設計專題
@@ -4794,7 +4794,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM503&C
 BIG DATA ANALYTICS, MACHINE LEARNING, AND ARTIFICIAL INTELLIGENCE",3,期,False,50,2,28,22,康藝晃,"三5,6,7(管CM 3051)","['', '', '567', '', '', '', '']","《講授類》
 本課程與MIS572併班上課。本課程為商業大數據系列課程之一","['跨領域智慧製造學程', '機器學習與多媒體技術學程', '計算物理及人工智慧微學程', '智慧商業數據分析與創新微學程', '智慧金融數據分析與創新微學程', '製造與大數據分析微學程', '機器學習與應用微學程', '永續能源學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,不分班,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM508&Crsname=職涯準備,異動,更換教師8/18,False,管理學院(碩),CM508,0,不分班,"職涯準備
 CAREER PREPAREDNESS",1,期,False,50,0,11,39,張世賢,四5(管CM 4036),"['', '', '', '5', '', '', '']",《講授類》,['人力資源管理學程'],False
@@ -4811,7 +4811,7 @@ https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM514&C
 FINANCIAL DATA ANALYSIS",3,期,False,16,2,6,10,王昭文,"四5,6,7(管CM 3051)","['', '', '', '567', '', '', '']","《講授類》
 本課程與FM617併班上課。本課程為商業大數據系列課程之一",['智慧金融數據分析與創新微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM515&Crsname=永續金融,,,False,管理學院(碩),CM515,0,不分班,"永續金融
-SUSTAINABLE FINANCE",2,期,False,50,1,26,24,吳偉寧,"三3,4(管CM 3038)","['', '', '34', '', '', '', '']","《講授類》
+SUSTAINABLE FINANCE",2,期,False,50,2,25,25,吳偉寧,"三3,4(管CM 3038)","['', '', '34', '', '', '', '']","《講授類》
 永續管理微學程課程之一","['企業社會責任學程', '淨零轉型與永續發展整合學程', '地方創生與永續發展整合學程', '永續管理微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM501&Crsname=組織理論與管理,異動,更換教室9/10,False,企企管碩,BM501,0,不分班,"組織理論與管理
 ORGANIZATIONAL THEORY & MANAGEMENT",3,期,False,50,1,54,-4,林杏娥,"四2,3,4(管CM 3019)","['', '', '', '234', '', '', '']",《講授類》,"['人力資源管理學程', '人力資源管理學程']",False
@@ -4824,11 +4824,11 @@ MANAGEMENT INFORMATION SYSTEMS",3,期,False,50,6,88,-38,彭聖翔,"五C,D,E(管C
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM508&Crsname=管理統計學,,,False,企企管碩,BM508,0,不分班,"管理統計學
 MANAGERIAL STATISTICS",3,期,False,50,15,55,-5,黃俊智,"三D,E,F(管CM 3051)","['', '', 'DEF', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM513&Crsname=行銷研究方法,,,False,企企管碩,BM513,0,不分班,"行銷研究方法
-MARKETING RESEARCH METHOD",3,期,False,50,0,22,28,林政佑,"五C,D,E(管CM 3051)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
+MARKETING RESEARCH METHOD",3,期,False,50,1,21,29,林政佑,"五C,D,E(管CM 3051)","['', '', '', '', 'CDE', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM601&Crsname=倫理與領導,,,False,企企管碩,BM601,0,不分班,"倫理與領導
-ETHICS AND LEADERSHIP",3,期,False,50,5,66,-16,蔡宗霖,"二C,D,E(管CM 2037)","['', 'CDE', '', '', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '人力資源管理學程']",False
+ETHICS AND LEADERSHIP",3,期,False,50,5,65,-15,蔡宗霖,"二C,D,E(管CM 2037)","['', 'CDE', '', '', '', '', '']",《講授類》,"['科技創新與服務業管理學程', '人力資源管理學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM646&Crsname=市場與法律,,,False,企企管碩,BM646,0,不分班,"市場與法律
-MARKET AND LAW",3,期,False,50,1,17,33,薛西全,"四C,D,E(管CM 3038)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
+MARKET AND LAW",3,期,False,50,2,16,34,薛西全,"四C,D,E(管CM 3038)","['', '', '', 'CDE', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM681&Crsname=平台商業模式,,,False,企企管碩,BM681,0,不分班,"平台商業模式
 ON BUSINESS PLATFORM",3,期,False,50,0,33,17,王致遠,"四5,6,7(管CM 1032)","['', '', '', '567', '', '', '']",《講授類》,['創新創業微學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM687&Crsname=競爭優勢與法律,,,False,企企管碩,BM687,0,不分班,"競爭優勢與法律
@@ -6581,50 +6581,50 @@ INTERNATIONAL FINANCIAL MANAGEMENT",3,期,False,50,1,17,33,蔡秉真,"二2,3,4(�
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=FM601&Crsname=國際財管理論與實務,,,False,財管碩,FM601,1,,"國際財管理論與實務
 INTERNATIONAL FINANCIAL MANAGEMENT",3,期,False,50,1,17,33,蔡秉真,"二2,3,4(管CM 4078)","['', '234', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 企業管理組;
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM507&Crsname=倫理與社會責任,,,False,管理學院(碩),CM507,0,,"倫理與社會責任
-ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,199,1,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
+ETHICS AND SOCIAL RESPONSIBILITY",1,期,False,200,52,198,2,"王致遠,謝慧賢,鄭安授,陳世哲",一A(網路大學),"['A', '', '', '', '', '', '']","《講授類》
 『本課程之限修，於加退選2階段開放選修』。網大進行之非同步線上課程(二年級優先選課) 限管理學院研究所學生修習。 CM507與CM511為同系列課程，學生只能夠就此課程當中選擇一門課進行修習，已經修習過上述任何一個課程者均不得選課。","['企業社會責任學程', '人力資源管理學程', '公共事務與企業社會責任微學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CM511&Crsname=國際商管倫理觀,,,False,管理學院(碩),CM511,0,,"國際商管倫理觀
 ETHICS IN INTERNATIONAL BUSINESS MANAGEMENT",1,期,False,60,1,17,43,"王致遠,王豫萱,鄭安授",二A(網路大學),"['', 'A', '', '', '', '', '']","《講授類》
