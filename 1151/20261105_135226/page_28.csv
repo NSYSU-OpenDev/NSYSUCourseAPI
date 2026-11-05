@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI218&Crsname=西洋音樂史（一）,,,False,音樂系,MUSI218,2,不分班,"西洋音樂史（一）
-HISTORY OF WESTERN MUSIC I",2,期,True,50,1,45,5,郭瓊嬌,"五3,4(文FA 7003)","['', '', '', '', '34', '', '']",《講授類》,['音樂劇學程'],False
+HISTORY OF WESTERN MUSIC I",2,期,True,50,1,44,6,郭瓊嬌,"五3,4(文FA 7003)","['', '', '', '', '34', '', '']",《講授類》,['音樂劇學程'],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MUSI231&Crsname=伴奏法（二）,,,False,音樂系,MUSI231,2,不分班,"伴奏法（二）
 ACCOMPANIMENT (II)",2,期,False,50,0,17,33,唐佳迎,"三3,4(文FA 5008)","['', '', '34', '', '', '', '']","《講授類》
 限音樂系學生修課",[],False

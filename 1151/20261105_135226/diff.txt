@@ -1,0 +1,3 @@
+Value of root[1244]['name'] changed from "消化系統臨床醫學
+CLINICAL MEDICINE OF RESPIRATORY SYSTEM" to "消化系統臨床醫學
+CLINICAL MEDICINE OF DIGESTIVE SYSTEM".
