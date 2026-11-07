@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM345&Crsname=商用英文（一）,,,False,企管系,BM345,3,不分班,"商用英文（一）
-ENGLISH FOR BUSINESS (I)",3,期,False,50,0,47,3,陳信智,"五2,3,4(管CM 3019)","['', '', '', '', '234', '', '']",《講授類》,[],False
+ENGLISH FOR BUSINESS (I)",3,期,False,50,0,46,4,陳信智,"五2,3,4(管CM 3019)","['', '', '', '', '234', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM346&Crsname=中級會計學（一）,,,False,企管系,BM346,3,不分班,"中級會計學（一）
 INTERMEDIATE ACCOUNTING(I)",3,期,False,50,0,17,33,王萬成,"三5,6,7(管CM 2025)","['', '', '567', '', '', '', '']",《講授類》,"['金融工程學程', '會計學程']",False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=BM369&Crsname=新時代的科技法律陷阱,,,False,企管系,BM369,3,不分班,"新時代的科技法律陷阱
