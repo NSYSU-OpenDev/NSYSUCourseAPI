@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES543&Crsname=軟質材料,,,False,材光碩,MOES543,0,,"軟質材料
-SOFT MATERIALS",3,期,False,60,1,58,2,郭紹偉,"二8,6,7(工MS 4019 )","['', '678', '', '', '', '', '']",《講授類》,[],True
+SOFT MATERIALS",3,期,False,60,1,57,3,郭紹偉,"二8,6,7(工MS 4019 )","['', '678', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES546&Crsname=電子顯微鏡於軟物質研究之應用,異動,確認教室7/20,False,材光碩,MOES546,0,,"電子顯微鏡於軟物質研究之應用
 ELECTRON MICROSCOPY FOR SOFT MATERIALS",3,期,False,60,0,35,25,蔣酉旺,"二2,3,4(工MS 4023)","['', '234', '', '', '', '', '']",《講授類》,"['半導體製程模組學程', '半導體元件學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES547&Crsname=半導體元件,,,False,材光碩,MOES547,0,,"半導體元件
@@ -12,7 +12,7 @@ CONDENSED MATTER THEORY",3,期,False,32,1,15,17,林仕鑫,"五1,2,3(工MS 4023)"
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES591&Crsname=材料化學,異動,更換教室7/20,False,材光碩,MOES591,0,,"材料化學
 MATERIALS CHEMISTRY",3,期,False,60,0,13,47,王映樵,"二2,3,4(工MS 2004)","['', '234', '', '', '', '', '']",《講授類》,"['有機和材料合成學程', '半導體製程模組學程']",True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES592&Crsname=生醫材料,異動,更換時間9/4,False,材光碩,MOES592,0,,"生醫材料
-BIOMATERIALS",3,期,False,20,0,5,15,陳致光,"三2,3,4(工MS 2001)","['', '', '234', '', '', '', '']",《講授類》,[],True
+BIOMATERIALS",3,期,False,20,0,4,16,陳致光,"三2,3,4(工MS 2001)","['', '', '234', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MOES597&Crsname=生物與仿生材料,異動,更換授課方式9/8,False,材光碩,MOES597,0,,"生物與仿生材料
 BIOLOGICAL AND BIO-INSPIRED MATERIALS",3,期,False,30,0,17,13,張尹,"一2,3,4(圖IL PC05)","['234', '', '', '', '', '', '']",《講授類》,[],True
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=MIS512&Crsname=資料庫系統,,,False,資管碩,MIS512,0,,"資料庫系統
