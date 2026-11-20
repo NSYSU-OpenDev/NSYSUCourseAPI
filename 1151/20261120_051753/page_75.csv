@@ -1,6 +1,6 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=CHEM631&Crsname=半導體的化學、物理與材料,異動,更正備註說明6/25,False,化學碩,CHEM631,1,不分班,"半導體的化學、物理與材料
-CHEMISTRY, PHYSICS, AND MATERIALS OF SEMICONDUCTORS",3,期,False,60,5,70,-10,"李志聰,謝建台","五5,6,7(理SC 1005)","['', '', '', '', '567', '', '']","《講授類》
+CHEMISTRY, PHYSICS, AND MATERIALS OF SEMICONDUCTORS",3,期,False,60,5,69,-9,"李志聰,謝建台","五5,6,7(理SC 1005)","['', '', '', '', '567', '', '']","《講授類》
 本課程不列入化學碩、博班9學分必選課程。",[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PH60001&Crsname=機器學習量子材料物理專題研討（一）,,,False,物理碩,PH60001,2,不分班,"機器學習量子材料物理專題研討（一）
 SEMINAR IN MACHINE LEARNING QUANTUM MATERIALS PHYSICS (I)",3,期,False,50,0,6,44,莊豐權,"四A,1,B(理PH 4007)","['', '', '', 'A1B', '', '', '']",《研討類》,[],True
