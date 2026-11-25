@@ -1,8 +1,8 @@
 url,change,changeDescription,multipleCompulsory,department,id,grade,class,name,credit,yearSemester,compulsory,restrict,select,selected,remaining,teacher,room,classTime,description,tags,english
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE109&Crsname=政治學,,,False,政經系,PE109,1,不分班,"政治學
-POLITICS",3,期,True,50,8,56,-6,張其祿,"五2,3,4(社SS 3005)","['', '', '', '', '234', '', '']",《講授類》,[],False
+POLITICS",3,期,True,50,8,55,-5,張其祿,"五2,3,4(社SS 3005)","['', '', '', '', '234', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE110&Crsname=經濟數學（一）,,,False,政經系,PE110,1,不分班,"經濟數學（一）
-MATHEMATICS FOR ECONOMICS (I)",3,期,True,50,1,62,-12,王俊傑,"一2,3,4(社SS 3001)","['234', '', '', '', '', '', '']",《講授類》,[],False
+MATHEMATICS FOR ECONOMICS (I)",3,期,True,50,1,61,-11,王俊傑,"一2,3,4(社SS 3001)","['234', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE125&Crsname=政府與企業,,,False,政經系,PE125,1,不分班,"政府與企業
 GOVERNMENT AND BUSINESS",3,期,False,50,0,48,2,張其祿,"一8,6,7(社SS 1006)","['678', '', '', '', '', '', '']",《講授類》,[],False
 https://selcrs.nsysu.edu.tw/menu5/showoutline.asp?SYEAR=115&SEM=1&CrsDat=PE131&Crsname=漁業外交概論,,,False,政經系,PE131,1,不分班,"漁業外交概論
